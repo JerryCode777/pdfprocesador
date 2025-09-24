@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 74,
+  "total_temas": 322,
+  "titulo_tema": "Excepciones a la Configuración Electrónica",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_074_001",
+      "pregunta": "¿Cuáles son los dos valores posibles para el número cuántico de spin ($m_s$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$0$$ y $$1$$",
+        "B": "$$0$$ y $$-1$$",
+        "C": "$$+1/2$$ y $$-1/2$$",
+        "D": "$$-1, 0, +1$$",
+        "E": "$$+1$$ y $$-1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número cuántico de spin, representado como $m_s$ o $s$, se relaciona con el giro del electrón sobre su propio eje. Este giro solo puede tener dos orientaciones, por lo que el número cuántico de spin únicamente puede tomar los valores de $+1/2$ (conocido como spin up, ↑) y $-1/2$ (conocido como spin down, ↓).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_002",
+      "pregunta": "¿Cuántos orbitales existen en un subnivel 'p', para el cual el número cuántico azimutal es $l=1$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7",
+        "E": "2"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El número de orbitales en un subnivel está determinado por los valores posibles del número cuántico magnético ($m_l$). Para un valor de $l$, $m_l$ puede tomar todos los valores enteros desde $-l$ hasta $+l$. Para un subnivel 'p', $l=1$, por lo tanto, los valores de $m_l$ son $-1, 0, +1$. Como hay tres valores posibles para $m_l$, existen 3 orbitales en el subnivel 'p'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_003",
+      "pregunta": "¿Cuál es el método empírico que permite conocer la verdadera configuración electrónica de un elemento químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Titulación ácido-base",
+        "B": "Microscopía electrónica",
+        "C": "Espectroscopía",
+        "D": "Cristalografía de rayos X",
+        "E": "Cromatografía de gases"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La verdadera configuración electrónica de un átomo solo se puede determinar experimentalmente. La espectroscopía es la técnica que permite medir las energías electrónicas reales, lo que ha llevado a descubrir que existen excepciones a las reglas de llenado teóricas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_004",
+      "pregunta": "Para un subnivel 'f', que tiene un número cuántico azimutal de $l=3$, ¿cuántos valores posibles puede tomar el número cuántico magnético ($m_l$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7",
+        "E": "9"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número cuántico magnético ($m_l$) puede tomar todos los valores enteros comprendidos entre $-l$ y $+l$. Para un subnivel 'f', el valor de $l$ es 3. Por lo tanto, $m_l$ puede ser $-3, -2, -1, 0, +1, +2, +3$. Esto suma un total de 7 valores posibles, que corresponden a los 7 orbitales del subnivel 'f'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_005",
+      "pregunta": "¿Qué propiedad del electrón se asocia con el número cuántico de spin ($m_s$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La distancia promedio al núcleo",
+        "B": "La forma del orbital",
+        "C": "La orientación del orbital en el espacio",
+        "D": "El giro sobre su propio eje",
+        "E": "El nivel de energía principal"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número cuántico de spin ($m_s$ o $s$) está relacionado directamente con el movimiento de rotación o giro que el electrón efectúa sobre su propio eje. Las otras opciones se relacionan con otros números cuánticos: la distancia al núcleo con $n$, la forma del orbital con $l$, y la orientación espacial con $m_l$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_006",
+      "pregunta": "La configuración electrónica del Cromo ($_{24}$Cr) es una excepción a las reglas de llenado. ¿Cuál es su configuración electrónica correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$[Ar] 4s^2 3d^4$$",
+        "B": "$$[Ar] 4s^1 3d^5$$",
+        "C": "$$[Ar] 4s^0 3d^6$$",
+        "D": "$$[Ar] 3d^6$$",
+        "E": "$$[Ar] 4s^2 3d^3 4p^1$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Cromo es una de las excepciones notables a la configuración electrónica estándar. Para alcanzar una mayor estabilidad, un electrón del subnivel $4s$ es promovido al subnivel $3d$. Esto resulta en un subnivel $3d$ semilleno ($3d^5$) y un $4s$ también semilleno, una configuración energéticamente más favorable que la teórica $$[Ar] 4s^2 3d^4$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_007",
+      "pregunta": "De acuerdo con las excepciones a la configuración electrónica, ¿cuál es la configuración correcta para el Cobre ($_{29}$Cu)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$[Ar] 4s^2 3d^9$$",
+        "B": "$$[Ar] 4s^1 3d^{10}$$",
+        "C": "$$[Ar] 4s^0 3d^{11}$$",
+        "D": "$$[Ar] 3d^{10} 4p^1$$",
+        "E": "$$[Ar] 4s^2 3d^8 4p^1$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Cobre presenta una excepción para lograr una configuración más estable. Un electrón del orbital $4s$ pasa al orbital $3d$. Esto permite que el subnivel $3d$ quede completamente lleno ($3d^{10}$), lo cual representa un estado de muy baja energía y alta estabilidad. Por lo tanto, la configuración real es $$[Ar] 4s^1 3d^{10}$$ en lugar de la esperada $$[Ar] 4s^2 3d^9$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_008",
+      "pregunta": "¿Cuál es la principal razón por la que elementos como la Plata ($_{47}$Ag) y el Oro ($_{79}$Au) presentan configuraciones electrónicas anómalas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para llenar completamente el penúltimo subnivel 's'",
+        "B": "Para lograr una mayor estabilidad con subniveles 'd' semillenos o llenos",
+        "C": "Para dejar vacíos los subniveles 'p' más cercanos",
+        "D": "Porque los electrones del subnivel 'd' son repelidos por los del 's'",
+        "E": "Para cumplir con el principio de exclusión de Pauli"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La causa de estas excepciones es la búsqueda de la máxima estabilidad energética. Las configuraciones atómicas que presentan subniveles 'd' exactamente semillenos (como en $d^5$) o completamente llenos (como en $d^{10}$) son particularmente estables. Elementos como Ag y Au mueven un electrón de su subnivel 's' más externo a su subnivel 'd' para alcanzar esta estabilidad adicional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_009",
+      "pregunta": "¿Qué elemento presenta la particularidad de pasar dos electrones del subnivel 's' al subnivel 'd' en su configuración electrónica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cromo ($_{24}$Cr)",
+        "B": "Cobre ($_{29}$Cu)",
+        "C": "Paladio ($_{46}$Pd)",
+        "D": "Plata ($_{47}$Ag)",
+        "E": "Torio ($_{90}$Th)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Paladio ($_{46}$Pd) es un caso especial y único entre las excepciones mencionadas para la serie 'd'. En lugar de pasar un solo electrón, transfiere los dos electrones de su último subnivel 's' (el $5s$) al subnivel 'd' (el $4d$), resultando en una configuración que termina en $4d^{10}$ con el subnivel $5s$ vacío.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_010",
+      "pregunta": "Para los elementos de la serie de los actínidos como $_{89}$Ac y $_{92}$U, ¿qué anomalía ocurre en el llenado de electrones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se llenan primero los orbitales 'p' antes que los 'd'",
+        "B": "Se coloca un electrón en el subnivel $6d$ antes de ocupar el $5f$",
+        "C": "Se mueven electrones del subnivel $5f$ al $6d$",
+        "D": "El subnivel $7s$ permanece vacío",
+        "E": "Se colocan dos electrones en el subnivel $5f$ antes de llenar el $7s$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para varios actínidos, incluyendo Actinio ($_{89}$Ac), Protactinio ($_{91}$Pa), Uranio ($_{92}$U), Neptunio ($_{93}$Np) y Curio ($_{96}$Cm), se observa una excepción donde se coloca un electrón en el subnivel $6d$ antes de que los electrones comiencen a ocupar o continúen llenando el subnivel $5f$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_011",
+      "pregunta": "¿Cuál de los siguientes elementos es un ejemplo de la excepción donde se coloca un electrón en el subnivel $5d$ antes de ocupar el $4f$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Rutenio ($_{44}$Ru)",
+        "B": "Paladio ($_{46}$Pd)",
+        "C": "Torio ($_{90}$Th)",
+        "D": "Lantano ($_{57}$La)",
+        "E": "Uranio ($_{92}$U)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Lantano ($_{57}$La), junto con el Cerio ($_{58}$Ce) y el Gadolinio ($_{64}$Gd), sigue una regla de excepción de los lantánidos donde se coloca un electrón en el subnivel $5d$ antes de comenzar o continuar el llenado del subnivel $4f$. Los otros elementos mencionados tienen diferentes tipos de excepciones (Ru, Pd, U, Th) o pertenecen a otras series.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_012",
+      "pregunta": "El rango de valores para el número cuántico magnético ($m_l$) en un subnivel 'd' es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$0$$",
+        "B": "$$-1, 0, +1$$",
+        "C": "$$-2, -1, 0, +1, +2$$",
+        "D": "$$-3, -2, -1, 0, +1, +2, +3$$",
+        "E": "$$+1/2, -1/2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para un subnivel 'd', el número cuántico azimutal es $l=2$. El número cuántico magnético ($m_l$) puede tomar todos los valores enteros desde $-l$ hasta $+l$. Por lo tanto, para $l=2$, los valores de $m_l$ son $-2, -1, 0, +1, +2$, lo que corresponde a cinco orbitales 'd'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_013",
+      "pregunta": "¿Cuál es la diferencia fundamental en la excepción de la configuración electrónica entre el Torio ($_{90}$Th) y el Uranio ($_{92}$U)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El Torio mueve dos electrones al subnivel $6d$, mientras que el Uranio mueve uno.",
+        "B": "El Torio no presenta excepción, pero el Uranio sí.",
+        "C": "El Torio mueve electrones al $5f$, mientras que el Uranio los mueve al $6d$.",
+        "D": "Ambos mueven un electrón, pero el Uranio lo hace desde el subnivel $7s$.",
+        "E": "El Uranio llena el subnivel $5f$ completamente antes que el $6d$."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Ambos son actínidos con configuraciones anómalas. La diferencia clave es la cantidad de electrones involucrados en la anomalía del subnivel $d$. Para el Uranio ($_{92}$U), así como para Ac, Pa, Np y Cm, se coloca un electrón en el subnivel $6d$. En cambio, el Torio ($_{90}$Th) es un caso especial donde se pasan dos electrones al subnivel $6d$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_014",
+      "pregunta": "Todos los siguientes elementos presentan una excepción al pasar un electrón de un subnivel 's' a un 'd' para ganar estabilidad, EXCEPTO:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Molibdeno ($_{42}$Mo)",
+        "B": "Rodio ($_{45}$Rh)",
+        "C": "Platino ($_{78}$Pt)",
+        "D": "Paladio ($_{46}$Pd)",
+        "E": "Oro ($_{79}$Au)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Molibdeno (Mo), Rodio (Rh), Platino (Pt) y Oro (Au) son todos elementos que siguen la regla de excepción de mover un electrón del penúltimo subnivel 's' al último 'd'. El Paladio (Pd) es la excepción a esta regla, ya que mueve dos electrones de su subnivel 's' al 'd', no solo uno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_074_015",
+      "pregunta": "Comparando la configuración anómala del Cromo ($_{24}$Cr) con la del Paladio ($_{46}$Pd), ¿qué describe mejor el resultado final en sus subniveles 'd'?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos logran un subnivel 'd' lleno.",
+        "B": "Ambos logran un subnivel 'd' semilleno.",
+        "C": "El Cr logra un subnivel 'd' semilleno ($3d^5$), mientras que el Pd logra uno lleno ($4d^{10}$).",
+        "D": "El Cr logra un subnivel 'd' lleno, mientras que el Pd logra uno semilleno.",
+        "E": "Ambos mueven electrones del subnivel 'p' para lograr la estabilidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ambos elementos son excepciones, pero el objetivo energético que alcanzan es diferente. La excepción en el Cromo ($_{24}$Cr) consiste en mover un electrón para alcanzar la configuración $$[Ar] 4s^1 3d^5$$, logrando un subnivel 'd' semilleno, lo cual es muy estable. En el caso del Paladio ($_{46}$Pd), se mueven dos electrones para alcanzar la configuración $$[Kr] 4d^{10}$$, logrando un subnivel 'd' completamente lleno, que también es una configuración de máxima estabilidad. Por lo tanto, el resultado es diferente: semilleno para Cr y lleno para Pd.",
+      "imagen": null
+    }
+  ]
+}

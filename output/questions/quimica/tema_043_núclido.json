@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 43,
+  "total_temas": 322,
+  "titulo_tema": "Núclido",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_043_001",
+      "pregunta": "¿Qué partícula subatómica se encuentra en el núcleo y posee carga positiva?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Neutrón",
+        "B": "Protón",
+        "C": "Electrón",
+        "D": "Núclido",
+        "E": "Partícula alfa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El protón es la partícula subatómica fundamental que reside en el núcleo del átomo y se caracteriza por tener una carga eléctrica positiva. El neutrón también está en el núcleo pero es neutro. El electrón tiene carga negativa y orbita el núcleo. Un núclido se refiere a un núcleo completo, no a una partícula individual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_002",
+      "pregunta": "¿Cuál es la carga eléctrica característica de un neutrón?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positiva",
+        "B": "Negativa",
+        "C": "Eléctricamente neutra",
+        "D": "Ligeramente positiva",
+        "E": "Variable dependiendo del átomo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El neutrón, como su nombre lo indica, es una partícula subatómica que no posee carga eléctrica neta. Su propiedad de ser eléctricamente neutra es una de sus características definitorias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_003",
+      "pregunta": "En el contexto de la estructura atómica, ¿qué representa el símbolo $Z$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de neutrones",
+        "B": "El número de masa",
+        "C": "El número atómico",
+        "D": "El número de núclidos",
+        "E": "El símbolo del elemento"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El símbolo $Z$ se utiliza para designar el número atómico, que corresponde al número de protones presentes en el núcleo de un átomo. Este número es fundamental ya que define la identidad del elemento químico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_004",
+      "pregunta": "¿Cómo se define correctamente un núclido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un átomo que ha perdido o ganado electrones",
+        "B": "Cualquier partícula subatómica que se encuentre en el núcleo",
+        "C": "Un núcleo con un número específico de protones y neutrones",
+        "D": "El conjunto de todos los isótopos de un elemento",
+        "E": "Una partícula eléctricamente neutra"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un núclido se define como un tipo de núcleo atómico caracterizado por un número específico de protones y un número específico de neutrones. Cada combinación única de estas partículas constituye un núclido diferente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_005",
+      "pregunta": "En un átomo eléctricamente neutro, ¿qué cantidad es igual al número atómico ($Z$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de neutrones",
+        "B": "El número de electrones",
+        "C": "El número de masa",
+        "D": "La suma de protones y neutrones",
+        "E": "La masa del núcleo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que un átomo sea eléctricamente neutro, la carga positiva total del núcleo, dada por los protones, debe ser cancelada por una carga negativa igual. Como cada protón tiene una carga $+1$ y cada electrón tiene una carga $-1$, el número de protones ($Z$) debe ser igual al número de electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_006",
+      "pregunta": "¿Cuál es la notación estándar que representa un núclido, utilizando $E$ para el elemento, $A$ para el número de masa y $Z$ para el número atómico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$_A^Z E$$",
+        "B": "$$E_Z^A$$",
+        "C": "$$_Z^A E$$",
+        "D": "$$E_A^Z$$",
+        "E": "$$^Z_A E$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La convención internacional para simbolizar un núclido consiste en colocar el símbolo del elemento ($E$), con el número de masa ($A$) como superíndice a la izquierda y el número atómico ($Z$) como subíndice a la izquierda. La forma correcta es $$_Z^A E$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_007",
+      "pregunta": "¿Qué científico descubrió el neutrón en 1932 mediante el bombardeo de una lámina de berilio con partículas alfa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ernest Rutherford",
+        "B": "Niels Bohr",
+        "C": "J.J. Thomson",
+        "D": "John Dalton",
+        "E": "James Chadwick"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "James Chadwick fue el físico que realizó el famoso experimento en 1932. Al bombardear berilio con partículas alfa, observó la emisión de una radiación de alta energía compuesta por partículas sin carga, a las que denominó neutrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_008",
+      "pregunta": "¿Qué observación sobre la relación de masa atómica entre el helio y el hidrógeno no podía explicarse antes del descubrimiento del neutrón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la relación era de 2 a 1, como se esperaba.",
+        "B": "Que la relación era de 4 a 1, en lugar de la esperada 2 a 1.",
+        "C": "Que la relación era de 1 a 1, indicando masas iguales.",
+        "D": "Que el helio era más ligero que el hidrógeno.",
+        "E": "Que no existía una relación de masa constante."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Sabiendo que el helio tiene 2 protones y el hidrógeno 1, se esperaba una relación de masa de 2 a 1 si solo los protones contribuían a la masa del núcleo. La observación experimental de una relación de 4 a 1 fue una anomalía clave que sugirió la existencia de partículas adicionales sin carga (neutrones) en el núcleo del helio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_009",
+      "pregunta": "¿Cómo se describe la masa de un neutrón en comparación con la de un protón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es exactamente la misma",
+        "B": "Es significativamente menor",
+        "C": "Es el doble de la masa del protón",
+        "D": "Es ligeramente mayor",
+        "E": "Es la mitad de la masa del protón"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El neutrón y el protón tienen masas muy similares, pero el neutrón es ligeramente más masivo que el protón. Esta pequeña diferencia de masa es fundamental en varios procesos de la física nuclear.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_010",
+      "pregunta": "En el símbolo del núclido $$_Z^A E$$, ¿qué representa el superíndice $A$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de protones",
+        "B": "El número de neutrones",
+        "C": "El número de masa",
+        "D": "El número de electrones",
+        "E": "La carga iónica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El superíndice $A$ en la notación de un núclido representa el número de masa, que es el número total de partículas en el núcleo. Se calcula sumando el número de protones ($Z$) y el número de neutrones ($N$), es decir, $$A = Z + N$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_011",
+      "pregunta": "El número atómico ($Z$) es la propiedad que define a un elemento químico porque indica directamente el número de...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "neutrones en su isótopo más estable.",
+        "B": "electrones en un átomo neutro.",
+        "C": "protones en el núcleo.",
+        "D": "nucleones totales.",
+        "E": "capas electrónicas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La identidad de un elemento químico está determinada única y exclusivamente por el número de protones en su núcleo. Por ejemplo, cualquier átomo con 6 protones es carbono. Si bien en un átomo neutro el número de electrones es igual al de protones, es este último ($Z$) el que define al elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_012",
+      "pregunta": "¿Qué tipo de radiación, que consistía en un tercer tipo de partículas subatómicas, fue emitida en el experimento de Chadwick?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Radiación beta, consistente en electrones",
+        "B": "Radiación gamma, de naturaleza electromagnética",
+        "C": "Una radiación de alta energía, consistente en neutrones",
+        "D": "Partículas alfa, consistentes en núcleos de helio",
+        "E": "Rayos X de baja energía"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al bombardear berilio con partículas alfa, James Chadwick detectó la emisión de una radiación de alta energía y eléctricamente neutra. El análisis de esta radiación demostró que estaba compuesta por partículas con una masa similar a la del protón, a las que llamó neutrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_013",
+      "pregunta": "Basado en el modelo de Rutherford y antes del descubrimiento del neutrón, ¿cuál era el razonamiento para esperar una relación de masa de 2 a 1 entre helio (2 protones) e hidrógeno (1 protón)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se creía que los electrones aportaban la mitad de la masa del átomo.",
+        "B": "Se asumía que la masa de un átomo dependía principalmente del número de protones en el núcleo.",
+        "C": "Se pensaba erróneamente que el hidrógeno tenía 2 protones y el helio 4.",
+        "D": "No se consideraba que el núcleo contuviera la mayor parte de la masa.",
+        "E": "Se postulaba que cada protón estaba acompañado por un electrón dentro del núcleo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La lógica se basaba en la premisa de que los protones eran las únicas partículas pesadas dentro del núcleo. Dado que la masa de los electrones es despreciable en comparación, la masa total de un átomo debería ser directamente proporcional al número de protones. Por lo tanto, con 2 protones, el helio debería haber sido aproximadamente el doble de masivo que el hidrógeno, que tiene 1 protón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_014",
+      "pregunta": "Si un átomo neutro tiene un número atómico $Z=20$, ¿qué se puede deducir con certeza sobre su estructura?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su número de masa $A$ es 40.",
+        "B": "Contiene 20 neutrones en su núcleo.",
+        "C": "Su núcleo contiene 20 protones y el átomo tiene 20 electrones.",
+        "D": "Es un núclido inestable y radiactivo.",
+        "E": "La suma de sus protones y electrones es 40."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número atómico ($Z$) define el número de protones, por lo tanto, el núcleo tiene 20 protones. La condición de 'átomo neutro' implica que el número de electrones debe ser igual al número de protones para equilibrar las cargas, resultando en 20 electrones. El número de neutrones (y por ende el número de masa $A$) no puede determinarse solo con el valor de $Z$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_043_015",
+      "pregunta": "Para describir de forma única un núclido específico utilizando la notación $$_Z^A E$$, ¿qué dos cantidades son indispensables?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El número de electrones y el número de neutrones.",
+        "B": "El símbolo del elemento y su masa atómica promedio.",
+        "C": "El número de protones ($Z$) y el número total de nucleones ($A$).",
+        "D": "La carga del núcleo y el número de electrones.",
+        "E": "El número de neutrones y el número de masa ($A$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un núclido se define por la composición exacta de su núcleo. El número atómico ($Z$) especifica el número de protones. El número de masa ($A$) especifica el número total de protones y neutrones. Conocer ambos, $Z$ y $A$, permite determinar sin ambigüedad el número de protones ($Z$) y el número de neutrones ($N = A - Z$), definiendo así completamente el núclido.",
+      "imagen": null
+    }
+  ]
+}

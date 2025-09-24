@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 118,
+  "total_temas": 322,
+  "titulo_tema": "Regla del Dueto",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_118_001",
+      "pregunta": "¿Cuál es la definición de un enlace químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las fuerzas de repulsión que separan a los átomos en una molécula.",
+        "B": "Las fuerzas de atracción que mantienen unidos a los átomos en los compuestos.",
+        "C": "La energía necesaria para cambiar el estado de una sustancia.",
+        "D": "La interacción débil entre partículas de diferentes compuestos.",
+        "E": "La transferencia de electrones del núcleo de un átomo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un enlace químico se define como las fuerzas de atracción que mantienen unidos a los átomos para formar compuestos. Estas fuerzas son fundamentales para la existencia de las moléculas y la materia como la conocemos. Las otras opciones describen conceptos diferentes, como fuerzas de repulsión, energía de fase o interacciones intermoleculares débiles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_002",
+      "pregunta": "¿Qué representan los puntos en los Símbolos de Puntos de Lewis?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Los electrones internos del átomo.",
+        "B": "El número total de protones.",
+        "C": "Los electrones de valencia.",
+        "D": "Los neutrones en el núcleo.",
+        "E": "La carga total del átomo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la notación de Símbolos de Puntos de Lewis, cada punto dibujado alrededor del símbolo químico representa un electrón de valencia, que son los electrones que se encuentran en el nivel de energía más externo del átomo y participan en los enlaces químicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_003",
+      "pregunta": "¿A qué se refiere la Regla del Dueto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A la capacidad de un átomo para formar ocho enlaces.",
+        "B": "A la tendencia de un átomo a perder dos electrones.",
+        "C": "A que un átomo solo puede alojar dos electrones en su último nivel para ser estable.",
+        "D": "A la formación de enlaces dobles exclusivamente.",
+        "E": "A la configuración electrónica del Neón ($Ne$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Regla del Dueto establece que ciertos átomos, como el hidrógeno, alcanzan la estabilidad al tener exactamente dos electrones en su último nivel de energía, imitando la configuración electrónica del gas noble Helio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_004",
+      "pregunta": "¿Cómo se clasifican los enlaces iónicos y covalentes?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerzas intermoleculares",
+        "B": "Fuerzas intramoleculares",
+        "C": "Fuerzas de Van der Waals",
+        "D": "Puentes de hidrógeno",
+        "E": "Fuerzas de dispersión de London"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los enlaces iónicos y covalentes son las fuerzas que mantienen unidos a los átomos dentro de un compuesto, por lo que se clasifican como fuerzas intramoleculares. Las fuerzas intermoleculares, en cambio, son más débiles y actúan entre moléculas distintas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_005",
+      "pregunta": "La Regla del Dueto busca que un átomo alcance la configuración electrónica de ¿cuál elemento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hidrógeno ($H$)",
+        "B": "Litio ($Li$)",
+        "C": "Neón ($Ne$)",
+        "D": "Argón ($Ar$)",
+        "E": "Helio ($He$)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un átomo que sigue la Regla del Dueto, como el hidrógeno, busca completar su nivel de energía con dos electrones, logrando así la configuración electrónica del gas noble Helio ($He$), lo que le confiere una gran estabilidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_006",
+      "pregunta": "¿Cuál es la principal diferencia entre las fuerzas intramoleculares y las intermoleculares?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las fuerzas intramoleculares son mucho más débiles que las intermoleculares.",
+        "B": "Las fuerzas intramoleculares unen moléculas, mientras que las intermoleculares unen átomos.",
+        "C": "No hay diferencia, son sinónimos.",
+        "D": "Las fuerzas intermoleculares son mucho más débiles que las intramoleculares.",
+        "E": "Las fuerzas intramoleculares solo se dan en sólidos y las intermoleculares en gases."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La diferencia fundamental radica en su magnitud y en lo que unen. Las fuerzas intramoleculares (enlaces iónicos, covalentes) son muy fuertes y unen átomos dentro de un compuesto. Las fuerzas intermoleculares son considerablemente más débiles y actúan entre partículas individuales (moléculas, átomos, iones) de una sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_007",
+      "pregunta": "¿Qué información crucial proporciona el número de puntos desapareados en un Símbolo de Lewis?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número atómico del elemento.",
+        "B": "La masa atómica del elemento.",
+        "C": "El número de enlaces que un átomo puede formar.",
+        "D": "El número total de electrones en el átomo.",
+        "E": "El periodo en el que se encuentra el elemento en la tabla periódica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la simbología de Lewis, los puntos desapareados (electrones de valencia que no están en par) indican la capacidad de enlace del átomo. Generalmente, un átomo formará tantos enlaces covalentes como electrones desapareados tenga para completar su octeto o dueto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_008",
+      "pregunta": "En una estructura de Lewis, ¿qué representa el símbolo químico (por ejemplo, $H$, $O$, $C$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Solamente el núcleo del átomo.",
+        "B": "El núcleo y los electrones de valencia.",
+        "C": "Los electrones de valencia y los internos.",
+        "D": "El núcleo y los electrones internos.",
+        "E": "Únicamente los electrones compartidos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo químico en una estructura de Lewis es una representación abreviada que incluye tanto el núcleo del átomo (protones y neutrones) como todos los electrones que no son de valencia (electrones internos o del 'core'). Los electrones de valencia son los que se representan explícitamente con puntos o líneas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_009",
+      "pregunta": "¿Qué tipos de electrones se muestran en una estructura de Lewis para representar un enlace covalente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Todos los electrones del átomo.",
+        "B": "Solo los electrones del núcleo.",
+        "C": "Solo los electrones de valencia.",
+        "D": "Los electrones internos y externos.",
+        "E": "Únicamente los protones y neutrones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica fundamental de las estructuras de Lewis es su enfoque en la química de la capa de valencia. Por lo tanto, solo se muestran los electrones de valencia, ya que son los que participan activamente en la formación de enlaces químicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_010",
+      "pregunta": "Según la Regla del Dueto, ¿por qué un átomo como el hidrógeno busca tener dos electrones en su último nivel?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para convertirse en un metal alcalino.",
+        "B": "Para poder formar enlaces iónicos con facilidad.",
+        "C": "Para aumentar su radio atómico.",
+        "D": "Para alcanzar la estabilidad de un gas noble.",
+        "E": "Para poder alojar más electrones en niveles internos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El propósito de seguir la Regla del Dueto es alcanzar una configuración electrónica estable. Al tener dos electrones en su capa de valencia, un átomo como el hidrógeno adquiere la configuración del gas noble Helio ($He$), que es extremadamente estable y no reactivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_011",
+      "pregunta": "Además de con puntos, ¿de qué otra manera se puede indicar un par de electrones compartidos en una estructura de Lewis?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Con un círculo rodeando los átomos.",
+        "B": "Con una línea entre los átomos.",
+        "C": "Con una flecha indicando la transferencia.",
+        "D": "Con el número 2 escrito entre los símbolos.",
+        "E": "No se puede representar de otra forma."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En las estructuras de Lewis, un enlace covalente, que consiste en un par de electrones compartidos, puede representarse de dos maneras equivalentes: con dos puntos (uno por cada electrón) o, más comúnmente, con una línea que une los dos símbolos atómicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_012",
+      "pregunta": "¿Qué tipo de enlace se representa en una estructura de Lewis?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Enlace metálico",
+        "B": "Enlace iónico",
+        "C": "Enlace covalente",
+        "D": "Puente de hidrógeno",
+        "E": "Fuerza intermolecular"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una estructura de Lewis es específicamente una representación de un enlace covalente. Muestra cómo los átomos comparten pares de electrones para formar moléculas y cómo se distribuyen los pares de electrones libres (no enlazantes) en los átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_013",
+      "pregunta": "Considerando la Regla del Dueto y la formación de enlaces, ¿cuál es el objetivo final de un átomo de hidrógeno al unirse a otro átomo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Aumentar su energía interna para volverse más reactivo.",
+        "B": "Compartir su único electrón para tener acceso a un par y así alcanzar estabilidad.",
+        "C": "Perder su electrón y quedar como un protón aislado en la molécula.",
+        "D": "Capturar un segundo electrón para formar un ion negativo estable por sí mismo.",
+        "E": "Formar fuerzas intermoleculares muy fuertes para imitar al Helio ($He$)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El hidrógeno tiene un solo electrón de valencia. Para cumplir la Regla del Dueto y alcanzar la estabilidad de la configuración del Helio ($He$), su estrategia más común es formar un enlace covalente. Al compartir su electrón con otro átomo (que también aporta un electrón), el hidrógeno pasa a tener acceso a un par de electrones compartidos, satisfaciendo así su dueto y logrando un estado de menor energía y mayor estabilidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_014",
+      "pregunta": "¿Qué relación se puede establecer entre la debilidad de las fuerzas intermoleculares y la fortaleza de las fuerzas intramoleculares?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía necesaria para romper un enlace covalente (intramolecular) es mucho mayor que la necesaria para separar dos moléculas (intermolecular).",
+        "B": "Ambas fuerzas tienen una magnitud similar, pero actúan en diferentes partes de la sustancia.",
+        "C": "Las fuerzas intermoleculares son una forma más fuerte de enlace iónico.",
+        "D": "La ruptura de fuerzas intermoleculares implica la formación de nuevos compuestos, mientras que la ruptura de intramoleculares no.",
+        "E": "No existe una relación de magnitud; su importancia depende del estado de la materia."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El contenido establece que las fuerzas intermoleculares son \"muy débiles en comparación con las fuerzas intramoleculares\". Esto implica una gran diferencia de energía. Romper un enlace covalente o iónico (intramolecular) requiere una cantidad significativa de energía y resulta en una reacción química. Separar moléculas venciendo las fuerzas intermoleculares (por ejemplo, al hervir agua) requiere mucha menos energía y es un cambio físico, no químico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_118_015",
+      "pregunta": "Un átomo de Hidrógeno ($H$) se une a otro átomo de Hidrógeno ($H$) para formar la molécula $H_2$. ¿Cómo explica la Regla del Dueto la estabilidad de esta molécula?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Cada átomo de $H$ transfiere su electrón al otro, formando iones $H^+$ y $H^-$.",
+        "B": "Uno de los átomos de $H$ cumple la regla y el otro no.",
+        "C": "Cada átomo de $H$ comparte su único electrón de valencia, formando un enlace covalente donde ambos átomos tienen acceso a dos electrones y alcanzan la configuración del Helio ($He$).",
+        "D": "Los átomos se mantienen unidos por fuerzas intermoleculares, sin compartir electrones.",
+        "E": "Los dos átomos de $H$ logran tener cuatro electrones cada uno para una mayor estabilidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta aplica todos los conceptos. Cada átomo de hidrógeno tiene un electrón (un punto desapareado en su símbolo de Lewis). Para cumplir la Regla del Dueto, necesitan dos electrones. Al formar la molécula de dihidrógeno ($H_2$), los dos átomos comparten sus respectivos electrones. Esto crea un enlace covalente (un par de electrones compartidos). De esta manera, cada núcleo de hidrógeno está rodeado por dos electrones, cumpliendo la Regla del Dueto y alcanzando la configuración estable del Helio ($He$).",
+      "imagen": null
+    }
+  ]
+}

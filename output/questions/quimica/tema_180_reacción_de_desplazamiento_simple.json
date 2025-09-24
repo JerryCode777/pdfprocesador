@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 180,
+  "total_temas": 322,
+  "titulo_tema": "Reacción de Desplazamiento Simple",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_180_001",
+      "pregunta": "¿Qué tipo de reacción química se representa con la fórmula general $$A + BC \\rightarrow AC + B$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Descomposición",
+        "B": "Desplazamiento doble o metátesis",
+        "C": "Desplazamiento simple o sustitución única",
+        "D": "Electrólisis",
+        "E": "Síntesis o combinación"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula general $$A + BC \\rightarrow AC + B$$ describe una reacción de desplazamiento simple. En esta, un elemento ($A$) reacciona con un compuesto ($BC$) y desplaza a otro elemento ($B$) para formar un nuevo compuesto ($AC$) y liberar el elemento desplazado ($B$). Las otras opciones representan diferentes tipos de reacciones: la descomposición es $$AB \\rightarrow A + B$$, y el desplazamiento doble es $$AB + CD \\rightarrow AD + CB$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_002",
+      "pregunta": "¿Cuál es el principio fundamental que determina si un elemento puede desplazar a otro en una reacción de sustitución única?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El estado de agregación de los reactivos",
+        "B": "La temperatura a la que ocurre la reacción",
+        "C": "La masa atómica de los elementos",
+        "D": "La reactividad relativa de los elementos",
+        "E": "La presencia de un catalizador"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En una reacción de desplazamiento simple, un elemento más activo desplaza a otro menos activo de un compuesto. Esta capacidad de desplazamiento está determinada por la reactividad relativa de los elementos, la cual se organiza en la serie de actividad o tabla de reactividad. Los otros factores, como la temperatura o la masa, no son el principio fundamental que rige este tipo de reacción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_003",
+      "pregunta": "¿Cuál es la herramienta utilizada para ordenar los metales según su facilidad para oxidarse y predecir reacciones de desplazamiento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La tabla periódica",
+        "B": "La escala de electronegatividad",
+        "C": "La tabla de solubilidad",
+        "D": "La tabla de reactividad de los elementos (serie de actividad)",
+        "E": "La ley de los gases ideales"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La tabla de reactividad, también conocida como serie de actividad, es una lista ordenada de metales (y a veces no metales como el hidrógeno) que indica su facilidad para oxidarse. Esta tabla es la herramienta clave para predecir si un elemento es lo suficientemente activo como para desplazar a otro de un compuesto en una reacción de sustitución única.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_004",
+      "pregunta": "Según la serie de actividad de los halógenos, ¿cuál de ellos es el más reactivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Iodo ($I_2$)",
+        "B": "Bromo ($Br_2$)",
+        "C": "Cloro ($Cl_2$)",
+        "D": "Flúor ($F_2$)",
+        "E": "Astato ($At_2$)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El comportamiento de los halógenos en reacciones de desplazamiento sigue la serie de actividad: $$F_2 > Cl_2 > Br_2 > I_2$$. Esto indica que el Flúor ($F_2$) es el halógeno más activo y puede desplazar al cloro, bromo y yodo de sus compuestos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_005",
+      "pregunta": "¿Qué distingue principalmente a una reacción de descomposición de una de desplazamiento simple?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La descomposición siempre libera un gas, el desplazamiento no.",
+        "B": "La descomposición parte de un solo compuesto, el desplazamiento implica un elemento y un compuesto.",
+        "C": "El desplazamiento simple ocurre en solución acuosa, la descomposición en estado sólido.",
+        "D": "La descomposición requiere calor, el desplazamiento requiere electrólisis.",
+        "E": "En la descomposición se intercambian elementos, en el desplazamiento no."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental radica en los reactivos. Una reacción de descomposición inicia con un único compuesto que se rompe en sustancias más simples (ej. $$CaCO_3 \\rightarrow CaO + CO_2$$). En cambio, una reacción de desplazamiento simple comienza con dos reactivos: una sustancia simple (elemento) y un compuesto (ej. $$A + BC$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_006",
+      "pregunta": "¿Cuál de los siguientes metales, según la serie de actividad, reacciona con agua fría para producir hidrógeno ($H_2$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hierro ($Fe$)",
+        "B": "Plomo ($Pb$)",
+        "C": "Sodio ($Na$)",
+        "D": "Cobre ($Cu$)",
+        "E": "Zinc ($Zn$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La serie de actividad especifica que los metales que reaccionan con agua fría para producir hidrógeno ($H_2$) son $Li$, $K$, $Ba$, $Ca$ y $Na$. De las opciones proporcionadas, solo el Sodio ($Na$) pertenece a este grupo. El Hierro ($Fe$) y el Zinc ($Zn$) reaccionan con vapor, el Plomo ($Pb$) reacciona con ácidos y el Cobre ($Cu$) no reacciona ni con agua ni con ácidos para producir hidrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_007",
+      "pregunta": "¿Qué describe correctamente una reacción de desplazamiento doble o metátesis?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un elemento desplaza a otro menos activo en un compuesto.",
+        "B": "Un único compuesto se descompone en dos o más sustancias simples.",
+        "C": "Dos elementos de compuestos diferentes intercambian posiciones.",
+        "D": "Un elemento reacciona con oxígeno para formar un óxido.",
+        "E": "Se aplica una corriente eléctrica para separar un compuesto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una reacción de desplazamiento doble o metátesis ocurre entre dos compuestos, donde dos elementos (generalmente cationes) intercambian sus posiciones para formar dos nuevos compuestos. Se diferencia del desplazamiento simple, donde un solo elemento desplaza a otro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_008",
+      "pregunta": "Considerando la serie de actividad de halógenos $$F_2 > Cl_2 > Br_2 > I_2$$, ¿cuál de las siguientes reacciones de desplazamiento ocurrirá?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$I_2 + 2NaCl \\rightarrow 2NaI + Cl_2$$",
+        "B": "$$Br_2 + 2KCl \\rightarrow 2KBr + Cl_2$$",
+        "C": "$$Cl_2 + 2NaBr \\rightarrow 2NaCl + Br_2$$",
+        "D": "$$Br_2 + 2NaF \\rightarrow 2NaBr + F_2$$",
+        "E": "$$I_2 + 2KBr \\rightarrow 2KI + Br_2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una reacción de desplazamiento entre halógenos ocurre si el halógeno libre (elemento) es más activo que el halógeno en el compuesto (ion). Según la serie $$F_2 > Cl_2 > Br_2 > I_2$$, el Cloro ($Cl_2$) es más activo que el Bromo ($Br_2$), por lo tanto, puede desplazarlo del bromuro de sodio ($NaBr$). Las otras opciones no son posibles porque el halógeno libre es menos activo que el que intenta desplazar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_009",
+      "pregunta": "La reacción $$2KClO_3(s) \\xrightarrow{Calor} 2KCl(s) + 3O_2(g)$$ es un ejemplo de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Desplazamiento simple",
+        "B": "Descomposición en un elemento y un compuesto",
+        "C": "Desplazamiento doble",
+        "D": "Descomposición en dos elementos",
+        "E": "Reacción con ácidos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta reacción muestra cómo un solo compuesto, el clorato de potasio ($KClO_3$), se descompone por acción del calor en un elemento, el oxígeno ($O_2$), y otro compuesto, el cloruro de potasio ($KCl$). Por lo tanto, es un ejemplo de descomposición en un elemento y un compuesto, no de desplazamiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_010",
+      "pregunta": "¿Cuál de los siguientes metales NO reaccionará con ácidos para producir gas hidrógeno ($H_2$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Plomo ($Pb$)",
+        "B": "Níquel ($Ni$)",
+        "C": "Oro ($Au$)",
+        "D": "Hierro ($Fe$)",
+        "E": "Zinc ($Zn$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La serie de actividad indica que los metales como Cobre ($Cu$), Plata ($Ag$), Mercurio ($Hg$), Platino ($Pt$) y Oro ($Au$) se encuentran por debajo del hidrógeno en reactividad y no reaccionan con agua o ácidos para producir $H_2$. El Plomo ($Pb$), Níquel ($Ni$), Hierro ($Fe$) y Zinc ($Zn$) son todos más activos que el hidrógeno y sí reaccionan con ácidos para liberarlo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_011",
+      "pregunta": "Basándose en la serie de actividad, ¿cuál es la descripción correcta del comportamiento del Hierro ($Fe$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Reacciona con agua fría para producir $H_2$.",
+        "B": "No reacciona con agua ni con ácidos para producir $H_2$.",
+        "C": "Reacciona con vapor para producir $H_2$, pero no con agua fría.",
+        "D": "Es menos activo que el Plomo ($Pb$).",
+        "E": "Solo reacciona con ácidos muy concentrados."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Hierro ($Fe$) está en el grupo de metales que reaccionan con vapor para producir $H_2$. Este grupo incluye $Mg$, $Al$, $Zn$, $Cr$ y $Fe$. Estos metales son menos reactivos que los del primer grupo (como el $Na$, que reacciona con agua fría), pero más reactivos que los que solo reaccionan con ácidos (como el $Pb$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_012",
+      "pregunta": "¿Por qué el Potasio ($K$) puede desplazar al Zinc ($Zn$) de una solución de cloruro de zinc ($ZnCl_2$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el Zinc es un metal más pesado que el Potasio.",
+        "B": "Porque el Potasio es un metal más activo y se oxida más fácilmente que el Zinc.",
+        "C": "Porque la reacción libera una gran cantidad de calor.",
+        "D": "Porque el Potasio se encuentra en estado sólido y el cloruro de zinc en solución acuosa.",
+        "E": "Porque el Zinc no reacciona con el cloro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Potasio ($K$) se encuentra en la parte superior de la tabla de reactividad, en el grupo que reacciona con agua fría. El Zinc ($Zn$) está más abajo, en el grupo que reacciona con vapor. Esto significa que el Potasio es un metal mucho más activo, con una mayor tendencia a oxidarse. Por lo tanto, puede desplazar a un metal menos activo como el Zinc de sus compuestos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_013",
+      "pregunta": "Un estudiante introduce una lámina de Zinc ($Zn$) en una solución acuosa de nitrato de plata ($AgNO_3$). Basado en la serie de actividad, ¿qué resultado se espera y por qué?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "No ocurre ninguna reacción porque la plata es un metal precioso.",
+        "B": "Ocurrirá una reacción de desplazamiento simple porque el Zinc es más activo que la Plata.",
+        "C": "Ocurrirá una reacción de desplazamiento doble, formando nitrato de zinc y plata metálica.",
+        "D": "No ocurrirá reacción porque el Zinc solo reacciona con vapor de agua.",
+        "E": "Se producirá hidrógeno gaseoso porque el Zinc reacciona con el agua de la solución."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Zinc ($Zn$) se encuentra en la serie de actividad en el grupo que reacciona con vapor y ácidos, mientras que la Plata ($Ag$) está en el grupo de los metales menos reactivos que no reaccionan con ácidos para producir $H_2$. Al ser el Zinc significativamente más activo que la Plata, la desplazará de su compuesto ($AgNO_3$) en una reacción de desplazamiento simple, formando nitrato de zinc ($Zn(NO_3)_2$) y plata metálica ($Ag$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_014",
+      "pregunta": "Se desea producir hidrógeno ($H_2$) mediante la reacción de un metal con vapor de agua. ¿Cuál de los siguientes metales sería adecuado para este propósito, pero no reaccionaría con agua fría?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sodio ($Na$)",
+        "B": "Platino ($Pt$)",
+        "C": "Aluminio ($Al$)",
+        "D": "Estaño ($Sn$)",
+        "E": "Calcio ($Ca$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La serie de actividad indica un grupo de metales ($Mg$, $Al$, $Zn$, $Cr$, $Fe$) que reaccionan con vapor para producir $H_2$. De las opciones, el Aluminio ($Al$) pertenece a este grupo. El Sodio ($Na$) y el Calcio ($Ca$) son demasiado reactivos, ya que reaccionan con agua fría. El Platino ($Pt$) es muy poco reactivo y no reacciona con vapor. El Estaño ($Sn$) es menos reactivo y solo reacciona con ácidos, no con vapor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_180_015",
+      "pregunta": "Si se burbujea gas Cloro ($Cl_2$) a través de una solución de yoduro de potasio ($KI$), se observa un cambio de color debido a la formación de Yodo ($I_2$). ¿Cuál es la justificación química para esta reacción?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El yodo es un gas y escapa de la solución.",
+        "B": "El potasio reacciona directamente con el cloro.",
+        "C": "El cloro es un halógeno más activo que el yodo y lo desplaza del compuesto.",
+        "D": "Ocurre una reacción de descomposición del yoduro de potasio.",
+        "E": "El yodo es menos activo que el cloro, por lo que no puede ser desplazado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta es una reacción de desplazamiento de halógenos. La serie de actividad de los halógenos es $$F_2 > Cl_2 > Br_2 > I_2$$. Como el Cloro ($Cl_2$) es más activo (está más arriba en la serie) que el Yodo ($I_2$), el cloro puede desplazar al ion yoduro ($I^-$) del yoduro de potasio ($KI$) para formar cloruro de potasio ($KCl$) y yodo elemental ($I_2$). La opción E es incorrecta porque el hecho de que el yodo sea menos activo es precisamente la razón por la que SÍ puede ser desplazado por el cloro.",
+      "imagen": null
+    }
+  ]
+}

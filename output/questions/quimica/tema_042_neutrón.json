@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 42,
+  "total_temas": 322,
+  "titulo_tema": "Neutrón",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_042_001",
+      "pregunta": "¿Cuál es la carga eléctrica relativa de un neutrón?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "+1",
+        "B": "-1",
+        "C": "Sin carga",
+        "D": "+2",
+        "E": "-2"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El neutrón es una partícula subatómica que, como su nombre lo indica, es eléctricamente neutra. Por lo tanto, su carga relativa es 0 o 'Sin carga'. Las cargas +1 y -1 corresponden al protón y al electrón, respectivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_002",
+      "pregunta": "¿Qué partículas subatómicas se encuentran en el núcleo de un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Protones y electrones",
+        "B": "Solo electrones",
+        "C": "Neutrones y electrones",
+        "D": "Protones y neutrones",
+        "E": "Solo protones"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El núcleo atómico es la parte central, densa y cargada positivamente del átomo. Está constituido por dos tipos de partículas: los protones (con carga positiva) y los neutrones (sin carga). Los electrones se encuentran fuera del núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_003",
+      "pregunta": "¿Quién es el científico al que se le atribuye el descubrimiento del neutrón en 1932?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "E. Rutherford",
+        "B": "James Chadwick",
+        "C": "Niels Bohr",
+        "D": "J.J. Thomson",
+        "E": "John Dalton"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "James Chadwick descubrió el neutrón en 1932 al bombardear una lámina de berilio con partículas alfa. Observó una radiación de alta energía sin carga, que identificó como una nueva partícula subatómica, el neutrón. E. Rutherford descubrió el núcleo atómico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_004",
+      "pregunta": "El número atómico, representado por el símbolo $Z$, ¿qué indica fundamentalmente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de neutrones en el núcleo.",
+        "B": "El número de protones en el núcleo.",
+        "C": "La suma de protones y neutrones.",
+        "D": "El número de electrones en un ion.",
+        "E": "La masa total del átomo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El número atómico ($Z$) se define como el número de protones que se encuentran en el núcleo de un átomo. Este número es único para cada elemento químico y determina su identidad. En un átomo neutro, también es igual al número de electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_005",
+      "pregunta": "¿Cuál de las tres partículas subatómicas fundamentales tiene la mayor masa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Electrón",
+        "B": "Protón",
+        "C": "Neutrón",
+        "D": "Las tres tienen la misma masa",
+        "E": "El protón y el neutrón tienen la misma masa"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Comparando las masas en unidades de masa atómica (uma): el electrón tiene una masa de 0.00054858 uma, el protón 1.0073 uma, y el neutrón 1.0087 uma. Por lo tanto, el neutrón es la partícula con una masa ligeramente mayor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_006",
+      "pregunta": "¿Qué conclusión principal obtuvo Rutherford del hecho de que la mayoría de las partículas alfa atravesaban la lámina de oro sin desviarse?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El núcleo del átomo es negativo.",
+        "B": "Los átomos son esferas macizas e indivisibles.",
+        "C": "La mayor parte del átomo es espacio vacío.",
+        "D": "Los electrones están incrustados en una masa positiva.",
+        "E": "El núcleo ocupa la mayor parte del volumen atómico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El hecho de que la mayoría de las partículas alfa pasaran directamente a través de la lámina de oro indicó a Rutherford que no encontraban obstáculos. Esto lo llevó a concluir que la mayor parte del volumen de un átomo es espacio vacío, con la masa y la carga positiva concentradas en un núcleo muy pequeño.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_007",
+      "pregunta": "En un átomo eléctricamente neutro, ¿qué dos cantidades son siempre iguales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de protones y el número de neutrones.",
+        "B": "El número de neutrones y el número de electrones.",
+        "C": "El número de protones y el número de electrones.",
+        "D": "La masa de los protones y la masa de los electrones.",
+        "E": "La masa de los neutrones y la masa de los electrones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que un átomo sea eléctricamente neutro, su carga total debe ser cero. Dado que los protones tienen una carga de +1 y los electrones de -1, sus cargas se cancelan mutuamente. Por lo tanto, el número de protones debe ser igual al número de electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_008",
+      "pregunta": "¿Qué discrepancia en las masas atómicas llevó a proponer la existencia del neutrón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El hidrógeno era más pesado de lo esperado.",
+        "B": "El electrón tenía más masa que el protón.",
+        "C": "La relación de masa entre helio e hidrógeno no era de $$2:1$$, sino de $$4:1$$.",
+        "D": "El berilio emitía electrones al ser bombardeado.",
+        "E": "La masa de un protón no era un número entero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Se sabía que el helio tiene 2 protones y el hidrógeno 1. Si solo existieran protones en el núcleo, la masa del helio debería ser el doble que la del hidrógeno. Sin embargo, la relación observada era de 4 a 1. Esta diferencia de masa inexplicable sugirió la existencia de otra partícula en el núcleo que aportara masa pero no carga: el neutrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_009",
+      "pregunta": "¿Cómo se describe correctamente un núclido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un átomo con un número específico de electrones.",
+        "B": "Un núcleo con un número específico de protones y neutrones.",
+        "C": "Un elemento químico en su estado más estable.",
+        "D": "Cualquier partícula subatómica con carga positiva.",
+        "E": "El símbolo químico de un elemento, como $E$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un núclido es un término específico que se refiere a un tipo de núcleo atómico caracterizado por un número particular de protones y un número particular de neutrones. Por ejemplo, el carbono-12 y el carbono-14 son núclidos diferentes del mismo elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_010",
+      "pregunta": "Según la descripción del núcleo, ¿qué característica principal explica su alta densidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Está rodeado por electrones muy ligeros.",
+        "B": "Contiene toda la carga positiva del átomo.",
+        "C": "Los protones y neutrones están concentrados en un volumen muy pequeño.",
+        "D": "Es eléctricamente neutro en su conjunto.",
+        "E": "Repele a las partículas alfa que se le acercan."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La densidad es la relación entre masa y volumen ($$\\rho = \\frac{m}{V}$$). El núcleo contiene casi toda la masa del átomo (protones y neutrones) empaquetada en un espacio extremadamente pequeño. Una gran masa en un volumen muy reducido resulta en una densidad muy alta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_011",
+      "pregunta": "En el experimento de James Chadwick, ¿qué material fue bombardeado con partículas alfa para producir la radiación que reveló la existencia del neutrón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una lámina de oro.",
+        "B": "Un bloque de plomo.",
+        "C": "Un gas de hidrógeno.",
+        "D": "Una lámina de berilio.",
+        "E": "Un cristal de helio."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El experimento crucial de Chadwick consistió en bombardear una delgada lámina de berilio con partículas alfa. Esta interacción produjo una radiación penetrante y sin carga, que él correctamente identificó como un flujo de neutrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_012",
+      "pregunta": "Al representar un núclido con el símbolo $$_Z^A E$$, ¿qué representa el superíndice $A$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de electrones.",
+        "B": "El número atómico.",
+        "C": "La carga del núcleo.",
+        "D": "El número de neutrones.",
+        "E": "El número de masa."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En la notación estándar de un núclido ($$_Z^A E$$), el símbolo $E$ representa al elemento, el subíndice $Z$ es el número atómico (número de protones), y el superíndice $A$ es el número de masa, que es la suma total de protones y neutrones en el núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_013",
+      "pregunta": "¿Cómo resolvió el descubrimiento del neutrón la incongruencia en la relación de masa entre el helio ($Z=2$) y el hidrógeno ($Z=1$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Demostró que los protones del helio son cuatro veces más masivos que los del hidrógeno.",
+        "B": "Concluyó que el hidrógeno en realidad tenía una masa de $$0.25$$ uma.",
+        "C": "Añadió la masa de dos neutrones a los dos protones del helio, logrando una masa total aproximada de 4 veces la del hidrógeno.",
+        "D": "Reveló que los electrones contribuían significativamente a la masa del helio.",
+        "E": "Probó que el número atómico no estaba relacionado con la masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El núcleo de hidrógeno tiene 1 protón (masa ~1 uma). El núcleo de helio tiene 2 protones (masa ~2 uma). La discrepancia de la masa total (~4 uma) se explicó al descubrir que el núcleo de helio también contiene 2 neutrones (cada uno con masa ~1 uma). Así, la masa total del núcleo de helio ($$2 \\text{ protones} + 2 \\text{ neutrones}$$) es aproximadamente 4 veces la masa del núcleo de hidrógeno ($$1 \\text{ protón}$$), resolviendo la incongruencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_014",
+      "pregunta": "Considerando las masas relativas de las partículas subatómicas (electrón: 0.00054858 uma, protón: 1.0073 uma, neutrón: 1.0087 uma), ¿qué partículas contribuyen de manera más significativa a la masa total de un átomo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Solo los electrones, porque son los más numerosos.",
+        "B": "Protones y electrones en igual medida.",
+        "C": "Protones y neutrones.",
+        "D": "Solo los protones, porque definen al elemento.",
+        "E": "Los electrones y los neutrones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al comparar los valores de masa, se observa que la masa del electrón (aproximadamente 0.0005 uma) es casi 2000 veces menor que la del protón y el neutrón (ambos aproximadamente 1 uma). Por esta razón, la masa de los electrones es prácticamente despreciable en el cálculo de la masa total del átomo, la cual está determinada casi en su totalidad por la suma de las masas de los protones y neutrones en el núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_042_015",
+      "pregunta": "Si un átomo es eléctricamente neutro, el descubrimiento del protón implicaba la existencia de electrones para balancear la carga. De manera análoga, ¿qué implicación tuvo el descubrimiento del neutrón sobre la composición del núcleo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que el núcleo debía tener una carga negativa para ser estable.",
+        "B": "Que la masa de un átomo no dependía de las partículas en su núcleo.",
+        "C": "Que la identidad de un elemento dependía del número de neutrones.",
+        "D": "Que la masa del núcleo no se debía únicamente a las partículas cargadas (protones).",
+        "E": "Que los protones y los neutrones eran en realidad la misma partícula."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Antes del neutrón, se pensaba que toda la masa del núcleo provenía de los protones. Sin embargo, esto no explicaba la masa total de los elementos más pesados que el hidrógeno. El descubrimiento del neutrón demostró que existía otra partícula masiva en el núcleo, sin carga, que contribuía a la masa total del átomo sin afectar su carga eléctrica. Por lo tanto, la masa del núcleo no se debía solo a los protones.",
+      "imagen": null
+    }
+  ]
+}

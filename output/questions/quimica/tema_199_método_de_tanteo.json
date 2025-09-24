@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 199,
+  "total_temas": 322,
+  "titulo_tema": "Método de Tanteo",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_199_001",
+      "pregunta": "¿Cuál es el propósito fundamental de balancear una ecuación química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Simplificar las fórmulas químicas de los compuestos.",
+        "B": "Asegurar que el número de átomos de cada elemento sea igual en ambos lados de la ecuación.",
+        "C": "Determinar la velocidad de la reacción química.",
+        "D": "Cambiar los subíndices de las fórmulas para que coincidan.",
+        "E": "Hacer la ecuación más corta y fácil de leer."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo principal de balancear o equilibrar una ecuación química es garantizar que se cumpla la ley de conservación de la materia, lo cual se logra al tener un número idéntico de átomos para cada elemento tanto en los reactantes como en los productos. Esto se consigue ajustando los coeficientes, no los subíndices.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_002",
+      "pregunta": "¿Qué se utiliza para balancear una ecuación química según el método de tanteo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Subíndices numéricos después de cada elemento.",
+        "B": "Símbolos de elementos adicionales.",
+        "C": "Coeficientes numéricos que anteceden a las fórmulas.",
+        "D": "Signos de suma y resta entre las fórmulas.",
+        "E": "Exponentes en cada fórmula química."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para balancear una ecuación es necesario colocar coeficientes numéricos antes de las fórmulas químicas. Estos coeficientes multiplican a todos los átomos de la fórmula que les sigue, permitiendo así igualar el número de átomos de cada elemento en reactantes y productos sin alterar la composición de las sustancias (lo que ocurriría si se cambiaran los subíndices).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_003",
+      "pregunta": "El método de simple inspección o tanteo se recomienda para balancear principalmente ¿qué tipo de reacciones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Reacciones de óxido-reducción complejas.",
+        "B": "Reacciones químicas sencillas.",
+        "C": "Reacciones nucleares.",
+        "D": "Únicamente reacciones de combustión.",
+        "E": "Reacciones que involucran más de diez elementos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este método es efectivo y rápido para reacciones químicas sencillas, donde el número de reactantes y productos no es muy elevado y los coeficientes estequiométricos son números enteros pequeños que pueden encontrarse por prueba y error.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_004",
+      "pregunta": "De acuerdo con el orden recomendado para el balanceo por tanteo, ¿qué tipo de elementos se balancean en primer lugar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hidrógenos",
+        "B": "Oxígenos",
+        "C": "No metales",
+        "D": "Metales",
+        "E": "Gases nobles"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El orden recomendado para facilitar el balanceo por el método de tanteo establece que se debe comenzar por los metales. Seguir este orden sistemático ayuda a evitar tener que reajustar los coeficientes repetidamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_005",
+      "pregunta": "En la secuencia de pasos sugerida para el método de simple inspección, ¿cuál es la última categoría de elemento en ser balanceada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Metales",
+        "B": "No metales",
+        "C": "Hidrógenos",
+        "D": "Oxígenos",
+        "E": "Halógenos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La recomendación indica que los oxígenos deben ser los últimos elementos en balancearse. Esto se debe a que el oxígeno suele aparecer en múltiples compuestos dentro de la misma ecuación, y ajustar otros elementos primero puede, en muchos casos, balancear automáticamente el oxígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_006",
+      "pregunta": "¿Cuál es la secuencia completa y correcta de los pasos recomendados para balancear una ecuación por el método de tanteo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "1° oxígenos → 2° hidrógenos → 3° no metales → 4° metales",
+        "B": "1° hidrógenos → 2° oxígenos → 3° metales → 4° no metales",
+        "C": "1° metales → 2° no metales → 3° hidrógenos → 4° oxígenos",
+        "D": "1° no metales → 2° metales → 3° oxígenos → 4° hidrógenos",
+        "E": "1° metales → 2° hidrógenos → 3° oxígenos → 4° no metales"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El orden sistemático recomendado para el método de tanteo es empezar con los metales, continuar con los no metales, luego ajustar los hidrógenos y, finalmente, verificar y balancear los oxígenos. Seguir este orden incrementa la eficiencia del proceso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_007",
+      "pregunta": "La descripción del método de tanteo como la búsqueda de coeficientes \"al azar\" implica que el proceso es fundamentalmente de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cálculo matemático exacto.",
+        "B": "Aplicación de una fórmula única.",
+        "C": "Observación directa de los colores.",
+        "D": "Prueba y error sistemático.",
+        "E": "Memorización de coeficientes comunes."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término \"al azar\" en este contexto no significa adivinar sin lógica, sino que se refiere a un método de prueba y error. Se proponen coeficientes y se verifica si el balance se cumple. Si no es así, se prueban otros hasta encontrar la combinación correcta, preferiblemente siguiendo el orden recomendado para sistematizar el proceso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_008",
+      "pregunta": "Según la jerarquía del método de tanteo, ¿qué acción se debe realizar inmediatamente después de balancear los átomos de los elementos no metálicos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Verificar el balance de los metales nuevamente.",
+        "B": "Balancear los átomos de hidrógeno.",
+        "C": "Balancear los átomos de oxígeno.",
+        "D": "Contar el número total de moléculas.",
+        "E": "La ecuación ya debería estar balanceada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El orden recomendado es 1° metales, 2° no metales, 3° hidrógenos y 4° oxígenos. Por lo tanto, el paso que sigue inmediatamente después de ajustar los no metales es balancear la cantidad de átomos de hidrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_009",
+      "pregunta": "Si una ecuación química contiene los elementos Sodio ($Na$), Cloro ($Cl$), e Hidrógeno ($H$), ¿cuál sería el orden correcto para balancearlos según el método de simple inspección?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$H$ → $Cl$ → $Na$",
+        "B": "$Cl$ → $Na$ → $H$",
+        "C": "$Na$ → $H$ → $Cl$",
+        "D": "$H$ → $Na$ → $Cl$",
+        "E": "$Na$ → $Cl$ → $H$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Siguiendo el orden recomendado: primero se balancean los metales (Sodio, $Na$), luego los no metales (Cloro, $Cl$), y después los hidrógenos ($H$). El oxígeno no está presente en este caso, por lo que el hidrógeno sería el último. El orden correcto es $Na$, luego $Cl$, y finalmente $H$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_010",
+      "pregunta": "¿Cuál es la función específica de un coeficiente estequiométrico en una ecuación química?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Indicar el estado de agregación de la sustancia.",
+        "B": "Modificar la carga eléctrica de los iones.",
+        "C": "Alterar la composición atómica de una molécula.",
+        "D": "Igualar el número total de átomos de cada elemento en reactivos y productos.",
+        "E": "Señalar la presencia de un catalizador en la reacción."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El coeficiente numérico se coloca delante de una fórmula para multiplicar el número de átomos de cada elemento en esa fórmula. Su única función en el balanceo es ajustar estas cantidades para que el número total de átomos de un elemento específico sea el mismo antes y después de la reacción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_011",
+      "pregunta": "En el orden de balanceo (1° metales → 2° no metales → 3° hidrógenos → 4° oxígenos), ¿en qué paso se balancearía el elemento Azufre ($S$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En el primer paso, junto con los metales.",
+        "B": "En el segundo paso, por ser un no metal.",
+        "C": "En el tercer paso, junto con los hidrógenos.",
+        "D": "En el cuarto paso, junto con los oxígenos.",
+        "E": "Se puede balancear en cualquier momento, no tiene un orden fijo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Azufre ($S$) es un elemento no metálico. De acuerdo con la secuencia recomendada, los no metales se balancean en el segundo paso, después de haber ajustado los metales y antes de proceder con el hidrógeno y el oxígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_012",
+      "pregunta": "Si al balancear una ecuación se coloca un coeficiente de $$2$$ antes de la fórmula $$H_2O$$, ¿cuántos átomos de hidrógeno y oxígeno representa este término?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "2 átomos de $H$ y 1 átomo de $O$",
+        "B": "2 átomos de $H$ y 2 átomos de $O$",
+        "C": "4 átomos de $H$ y 1 átomo de $O$",
+        "D": "4 átomos de $H$ y 2 átomos de $O$",
+        "E": "2 átomos de $H$ y 4 átomos de $O$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El coeficiente $$2$$ multiplica a toda la molécula $$H_2O$$. Para calcular el número total de átomos de cada elemento, se multiplica el coeficiente por el subíndice del elemento. Para el hidrógeno ($H$): $$2 \\times 2 = 4$$ átomos. Para el oxígeno ($O$): $$2 \\times 1 = 2$$ átomos. Por lo tanto, $$2H_2O$$ representa 4 átomos de hidrógeno y 2 átomos de oxígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_013",
+      "pregunta": "Durante el balanceo de una ecuación que contiene Hierro ($Fe$), Carbono ($C$), Hidrógeno ($H$) y Oxígeno ($O$), un químico ya ha logrado igualar los átomos de Hierro. ¿Cuál es el siguiente e inmediato paso que debe realizar según el método de tanteo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Balancear los átomos de Oxígeno ($O$).",
+        "B": "Balancear los átomos de Hidrógeno ($H$).",
+        "C": "Balancear los átomos de Carbono ($C$).",
+        "D": "Volver a verificar el balance de Hierro ($Fe$).",
+        "E": "Sumar todos los átomos del lado de los reactivos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El orden recomendado es: 1° metales, 2° no metales, 3° hidrógenos, 4° oxígenos. El Hierro ($Fe$) es un metal y ya ha sido balanceado (paso 1). El siguiente elemento en la lista, el Carbono ($C$), es un no metal. Por lo tanto, el paso inmediato a seguir es balancear los átomos de Carbono (paso 2).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_014",
+      "pregunta": "Un estudiante está balanceando una reacción con Litio ($Li$), Fósforo ($P$), Hidrógeno ($H$) y Oxígeno ($O$). Ha completado los dos primeros pasos del método de tanteo, ajustando los coeficientes para $Li$ y $P$. ¿Qué elemento específico debe ser su foco en el tercer paso del procedimiento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Oxígeno ($O$)",
+        "B": "Litio ($Li$)",
+        "C": "Fósforo ($P$)",
+        "D": "Cualquier elemento que siga desbalanceado.",
+        "E": "Hidrógeno ($H$)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El estudiante ha seguido el orden correcto. Paso 1: balancear metales ($Li$). Paso 2: balancear no metales ($P$). Según la secuencia recomendada (metal → no metal → hidrógeno → oxígeno), el tercer paso consiste en balancear los átomos de Hidrógeno ($H$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_199_015",
+      "pregunta": "¿Qué aspecto del método de tanteo implica que, al ajustar el coeficiente de un elemento tardío en la secuencia (como el Hidrógeno), podría ser necesario volver a ajustar el coeficiente de un elemento inicial (como un metal)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La regla de que los oxígenos siempre van al final.",
+        "B": "La naturaleza de prueba y error del método al buscar coeficientes \"al azar\".",
+        "C": "La necesidad de usar únicamente números enteros como coeficientes.",
+        "D": "La recomendación de empezar siempre por los metales.",
+        "E": "La prohibición de cambiar los subíndices de las fórmulas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El método se basa en encontrar coeficientes por \"tanteo\" o prueba y error. Aunque el orden recomendado (metal, no metal, H, O) lo hace más sistemático, no es infalible. A veces, un compuesto contiene tanto un metal como hidrógeno (ej. $NaOH$). Al cambiar el coeficiente de $NaOH$ para balancear el hidrógeno, inevitablemente se altera el conteo del metal ($Na$). Esta interdependencia, inherente al proceso de prueba y error, puede requerir iteraciones y reajustes de coeficientes ya establecidos.",
+      "imagen": null
+    }
+  ]
+}

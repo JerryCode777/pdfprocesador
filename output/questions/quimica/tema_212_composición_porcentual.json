@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 212,
+  "total_temas": 322,
+  "titulo_tema": "Composición Porcentual",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_212_001",
+      "pregunta": "¿Qué es el Volumen Molar ($V_o$) de una sustancia gaseosa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El volumen que ocupa 1 gramo de un gas a cualquier temperatura.",
+        "B": "El volumen que ocupa 1 mol de un gas en condiciones normales de temperatura y presión.",
+        "C": "La masa de 22.4 litros de cualquier sustancia.",
+        "D": "La presión ejercida por 1 mol de un gas a 0°C.",
+        "E": "La cantidad de moles en 1 litro de gas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Volumen Molar, representado como $V_o$, se define específicamente como el volumen que ocupa 1 mol de cualquier sustancia en estado gaseoso cuando se encuentra en condiciones normales (C.N.), que son 1 atmósfera de presión y 0°C de temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_002",
+      "pregunta": "¿Cuál es la definición de composición porcentual de un compuesto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El porcentaje en volumen de cada elemento en un compuesto.",
+        "B": "El número de moles de cada elemento en 100 gramos del compuesto.",
+        "C": "La relación de la masa molar del elemento con el Volumen Molar.",
+        "D": "El porcentaje en masa de cada elemento presente en un compuesto.",
+        "E": "La cantidad de átomos por cada 100 unidades de masa atómica."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La composición porcentual es una medida que expresa el porcentaje en masa que cada elemento contribuye a la masa total de un compuesto. Se calcula para cada elemento individualmente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_003",
+      "pregunta": "¿Cuáles son las condiciones normales (C.N.) de temperatura y presión para un gas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "1 atmósfera de presión y 25°C de temperatura.",
+        "B": "0 atmósferas de presión y 0°C de temperatura.",
+        "C": "1 atmósfera de presión y 0°C de temperatura.",
+        "D": "22.4 atmósferas de presión y 273 K de temperatura.",
+        "E": "1 atmósfera de presión y 100°C de temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las condiciones normales (C.N.), un estándar utilizado en química para gases, se definen como una presión de 1 atmósfera y una temperatura de 0°C (equivalente a 273.15 K).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_004",
+      "pregunta": "¿Cuál es el valor numérico aproximado y aceptado para el Volumen Molar ($V_o$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$6.022 \\times 10^{23} \\text{ L/mol}$$",
+        "B": "$$100 \\text{ L/mol}$$",
+        "C": "$$1 \\text{ L/mol}$$",
+        "D": "$$22.4 \\text{ L/mol}$$",
+        "E": "$$0.082 \\text{ L/mol}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El valor del Volumen Molar ($V_o$) para un gas ideal en condiciones normales es de $22.414$ L/mol. Para la mayoría de los cálculos prácticos, este valor se redondea y se acepta como $22.4$ L/mol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_005",
+      "pregunta": "En la fórmula de la composición porcentual, ¿qué representa la variable '$n$'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número total de átomos en el compuesto.",
+        "B": "El número de Avogadro.",
+        "C": "La masa molar del compuesto.",
+        "D": "El número de moles del elemento contenidos en un mol del compuesto.",
+        "E": "La normalidad de la solución."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La variable '$n$' en la fórmula de la composición porcentual representa el número de moles de un elemento específico que se encuentran en un mol del compuesto completo. Por ejemplo, en el agua ($H_2O$), para el hidrógeno '$n$' es 2 y para el oxígeno '$n$' es 1.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_006",
+      "pregunta": "¿A qué estado de la materia se aplica el concepto de Volumen Molar ($V_o = 22.4$ L/mol)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Líquido",
+        "C": "Gaseoso",
+        "D": "Plasma",
+        "E": "A todos los estados de la materia por igual"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El concepto de Volumen Molar y su valor de $22.4$ L/mol se aplican específicamente a las sustancias en estado gaseoso y bajo condiciones normales. Los sólidos y líquidos tienen volúmenes molares diferentes y no siguen esta regla general.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_007",
+      "pregunta": "¿Cuál es la operación fundamental para obtener la composición porcentual de un elemento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dividir la masa de cada elemento en un mol del compuesto entre la masa molar del compuesto y multiplicar por 100%.",
+        "B": "Multiplicar la masa molar del elemento por el número de átomos y dividir entre 100.",
+        "C": "Dividir la masa molar del compuesto entre la masa molar del elemento y multiplicar por 100%.",
+        "D": "Sumar las masas molares de todos los elementos y dividir entre el número de átomos.",
+        "E": "Restar la masa del elemento de la masa total del compuesto y expresar como porcentaje."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El cálculo se basa en una relación de parte a todo. Se toma la masa total aportada por un elemento en un mol del compuesto ($n \\times$ masa molar del elemento) y se divide por la masa total de un mol del compuesto (masa molar del compuesto). El resultado se multiplica por 100% para expresarlo como porcentaje.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_008",
+      "pregunta": "En la fórmula de composición porcentual, ¿qué representa el término '$n \\times (\\text{masa molar del elemento})$'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa molar total del compuesto.",
+        "B": "El número total de moles en la muestra.",
+        "C": "La masa total del elemento contenida en un mol del compuesto.",
+        "D": "El porcentaje en volumen del elemento.",
+        "E": "El Volumen Molar del elemento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa molar de un elemento es la masa de un mol de sus átomos. Al multiplicarla por '$n$', que es el número de moles de ese elemento en un mol del compuesto, se obtiene la masa total que dicho elemento aporta a la masa molar del compuesto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_009",
+      "pregunta": "Para el compuesto $H_2SO_4$ (ácido sulfúrico), ¿cuál sería el valor de '$n$' al calcular la composición porcentual del oxígeno (O)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "16"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La variable '$n$' es el número de moles del elemento en un mol del compuesto, lo cual corresponde al subíndice del elemento en la fórmula química. En $H_2SO_4$, el subíndice del oxígeno (O) es 4, por lo que '$n$' es igual a 4.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_010",
+      "pregunta": "¿Por qué la composición porcentual se multiplica por 100% al final del cálculo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para convertir la masa a volumen.",
+        "B": "Para ajustar el resultado a las condiciones normales.",
+        "C": "Para expresar la fracción de masa como un porcentaje.",
+        "D": "Para cancelar las unidades de gramos/mol.",
+        "E": "Para obtener la masa molar del compuesto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La división de la masa del elemento entre la masa del compuesto da como resultado una fracción o proporción. Multiplicar esta fracción por 100% es el paso estándar para convertir cualquier proporción a un formato de porcentaje, que es más fácil de interpretar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_011",
+      "pregunta": "El Volumen Molar ($V_o$) establece una equivalencia entre...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa y la presión de un gas.",
+        "B": "El número de moles y el volumen de un gas en C.N.",
+        "C": "La temperatura y el volumen de cualquier sustancia.",
+        "D": "La presión y la temperatura de un gas.",
+        "E": "La composición porcentual y la masa molar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El concepto de Volumen Molar es un puente directo que relaciona la cantidad de sustancia de un gas (medida en moles) con el espacio que ocupa (medido en litros), pero únicamente bajo las condiciones estándar de presión y temperatura (C.N.).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_012",
+      "pregunta": "Si un compuesto tiene una masa molar de 50 g/mol y contiene un elemento con una masa total de 20 g por cada mol del compuesto, ¿cuál es la composición porcentual de ese elemento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "20%",
+        "B": "25%",
+        "C": "40%",
+        "D": "50%",
+        "E": "70%"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La composición porcentual se calcula dividiendo la masa del elemento entre la masa total del compuesto y multiplicando por 100%. En este caso, el cálculo es: $$\\text{Composición porcentual} = \\frac{20 \\text{ g}}{50 \\text{ g}} \\times 100\\% = 0.4 \\times 100\\% = 40\\%$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_013",
+      "pregunta": "¿Cuál de las siguientes expresiones representa correctamente la fórmula para la composición porcentual de un elemento en un compuesto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\left[ \\frac{n + (\\text{masa molar del elemento})}{(\\text{masa molar del compuesto})} \\right] \\times 100\\%$$",
+        "B": "$$\\left[ \\frac{(\\text{masa molar del compuesto})}{n \\times (\\text{masa molar del elemento})} \\right] \\times 100\\%$$",
+        "C": "$$\\left[ n \\times (\\text{masa molar del elemento}) \\times (\\text{masa molar del compuesto}) \\right] \\times 100\\%$$",
+        "D": "$$\\left[ \\frac{n \\times (\\text{masa molar del elemento})}{(\\text{masa molar del compuesto})} \\right] \\times 100\\%$$",
+        "E": "$$\\left[ \\frac{(\\text{masa molar del elemento})}{n \\times (\\text{masa molar del compuesto})} \\right] \\times 100\\%$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula correcta para la composición porcentual es el cociente entre la masa total del elemento en un mol del compuesto y la masa molar total del compuesto, todo multiplicado por 100%. La opción D representa esta relación: el numerador, $n \\times (\\text{masa molar del elemento})$, es la masa de la parte, y el denominador, $(\\text{masa molar del compuesto})$, es la masa del todo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_014",
+      "pregunta": "Para calcular la composición porcentual del carbono (C) en la glucosa ($C_6H_{12}O_6$), ¿qué información es indispensable según la fórmula proporcionada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El Volumen Molar de la glucosa y la presión atmosférica.",
+        "B": "La masa molar del carbono, la masa molar de la glucosa y el hecho de que hay 6 moles de C por mol de glucosa ($n=6$).",
+        "C": "La densidad de la glucosa y su temperatura de fusión.",
+        "D": "Únicamente la masa molar del carbono y la masa molar del oxígeno.",
+        "E": "La cantidad de gramos de la muestra de glucosa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aplicando la fórmula, se necesitan tres componentes: 1) la masa molar del elemento de interés (carbono), 2) el número de moles de ese elemento en un mol del compuesto ('$n$', que es 6 para el C en $C_6H_{12}O_6$), y 3) la masa molar del compuesto completo (glucosa). Las otras opciones no son requeridas por la fórmula de composición porcentual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_212_015",
+      "pregunta": "Si un compuesto tiene una masa molar de 150 g/mol y la composición porcentual de un elemento X es del 30%, ¿cómo se calcularía la masa del elemento X presente en un mol del compuesto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\frac{150 \\text{ g/mol}}{0.30}$$",
+        "B": "$$150 \\text{ g/mol} \\times 30$$",
+        "C": "$$150 \\text{ g/mol} \\times 0.30$$",
+        "D": "$$\\frac{0.30}{150 \\text{ g/mol}}$$",
+        "E": "$$150 \\text{ g/mol} - 30 \\text{ g/mol}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La composición porcentual indica que el 30% de la masa total del compuesto corresponde al elemento X. Para encontrar la masa real del elemento X en un mol, se debe multiplicar la masa molar total del compuesto por la fracción de masa del elemento (que es el porcentaje dividido por 100). Por lo tanto, el cálculo es $150 \\text{ g/mol} \\times (30/100)$ o, lo que es lo mismo, $150 \\text{ g/mol} \\times 0.30$. Esto da como resultado 45 g de X por mol de compuesto.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 321,
+  "total_temas": 322,
+  "titulo_tema": "Amide Nomenclature",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_321_001",
+      "pregunta": "¿Cuál es la fórmula general que representa la estructura de las amidas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R-CHO$$",
+        "B": "$$R-COOH$$",
+        "C": "$$R-CO-R'$$",
+        "D": "$$R-CONH_2$$",
+        "E": "$$R-O-R'$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula general para las amidas es $$R-CONH_2$$, donde R representa un átomo de hidrógeno o un grupo orgánico. Esta fórmula incluye el grupo funcional acilamino ($$-CONH_2$$) que es característico de esta familia de compuestos. Las otras fórmulas corresponden a aldehídos ($$R-CHO$$), ácidos carboxílicos ($$R-COOH$$), cetonas ($$R-CO-R'$$) y éteres ($$R-O-R'$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_002",
+      "pregunta": "Las amidas son derivados de los ácidos carboxílicos que resultan de su combinación con ¿qué tipo de compuestos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Alcoholes o fenoles",
+        "B": "Aldehídos o cetonas",
+        "C": "Amoniaco o aminas",
+        "D": "Alcanos o alquenos",
+        "E": "Ésteres o éteres"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las amidas se forman conceptualmente por la reacción de un ácido carboxílico con amoniaco (lo que da lugar a una amida primaria) o con una amina (dando lugar a una amida secundaria o terciaria).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_003",
+      "pregunta": "¿Qué grupo funcional es el característico de todas las amidas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hidroxilo ($-OH$)",
+        "B": "Amino ($-NH_2$)",
+        "C": "Carboxilo ($-COOH$)",
+        "D": "Acilamino ($-CONH_2$)",
+        "E": "Carbonilo ($-CO-$)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El grupo funcional característico de las amidas es el grupo acilamino, representado como $$-CONH_2$$. Este grupo consiste en un grupo carbonilo ($$-CO-$$) unido directamente a un átomo de nitrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_004",
+      "pregunta": "Según la nomenclatura IUPAC, ¿qué terminación sustituye al sufijo \"-oico\" del ácido carboxílico para nombrar una amida primaria?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-amina",
+        "B": "-ona",
+        "C": "-amida",
+        "D": "-al",
+        "E": "-oato"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el sistema de nomenclatura IUPAC, las amidas primarias se nombran tomando el nombre del ácido carboxílico correspondiente y cambiando la terminación \"-oico\" por \"-amida\". Por ejemplo, el ácido etanoico se convierte en etanamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_005",
+      "pregunta": "¿Cómo se clasifica una amida que tiene la estructura general $$R-CO-NH_2$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Amida primaria",
+        "B": "Amida secundaria",
+        "C": "Amida terciaria",
+        "D": "Amida cuaternaria",
+        "E": "Amida cíclica"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Una amida se clasifica como primaria cuando el átomo de nitrógeno del grupo amida está unido a dos átomos de hidrógeno. Su estructura general es $$R-CO-NH_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_006",
+      "pregunta": "¿Cuál es el nombre IUPAC para la amida con la estructura química $$CH_3-CH_2-CH_2-CO-NH_2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Propanamida",
+        "B": "Butiramida",
+        "C": "Butanamida",
+        "D": "Pentanamida",
+        "E": "Butanamina"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cadena principal de esta amida contiene cuatro átomos de carbono (incluyendo el carbono del grupo carbonilo), por lo que deriva del ácido butanoico. Siguiendo las reglas de la IUPAC, se cambia la terminación \"-oico\" por \"-amida\", resultando en el nombre Butanamida. Butiramida es su nombre común.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_007",
+      "pregunta": "Una amida con la fórmula general $$R-CO-N(R')R''$$ se clasifica como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Primaria",
+        "B": "Secundaria",
+        "C": "Cíclica",
+        "D": "Poliamida",
+        "E": "Terciaria"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Esta estructura se clasifica como una amida terciaria. La clasificación depende del número de sustituyentes orgánicos en el átomo de nitrógeno. En este caso, el nitrógeno está unido a dos grupos orgánicos ($R'$ y $R''$) y no tiene átomos de hidrógeno, lo que la define como terciaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_008",
+      "pregunta": "En el nombre de una amida secundaria o terciaria como N-propiletanamida, ¿qué indica el localizador \"N\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la molécula contiene nitrógeno en una estructura cíclica.",
+        "B": "Que el grupo sustituyente (propil) está unido al átomo de nitrógeno.",
+        "C": "Que la cadena principal tiene un átomo de nitrógeno.",
+        "D": "Que la molécula es un isómero de una amida primaria.",
+        "E": "Que el grupo propil está en la posición 2 de la cadena etanamida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La letra \"N\" se utiliza como localizador en la nomenclatura de amidas para indicar que el grupo que le sigue está enlazado directamente al átomo de nitrógeno del grupo amida, y no a la cadena principal de carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_009",
+      "pregunta": "Según la nomenclatura común, ¿cuál es el nombre de la molécula cuyo nombre IUPAC es Etanamida?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Formamida",
+        "B": "Propionamida",
+        "C": "Butiramida",
+        "D": "Acetamida",
+        "E": "Benzamida"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El nombre IUPAC Etanamida indica una amida con una cadena de dos carbonos. El ácido carboxílico de dos carbonos es el ácido etanoico (IUPAC) o ácido acético (común). Para formar el nombre común de la amida, se reemplaza la terminación \"-ico\" del ácido por \"-amida\", dando como resultado Acetamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_010",
+      "pregunta": "¿Qué sufijo se utiliza para nombrar amidas cuya función principal está unida a una estructura cíclica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "-amida",
+        "B": "-cicloamida",
+        "C": "-carboxilato",
+        "D": "-carboxamida",
+        "E": "N-ciclo-"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando el grupo amida ($$-CONH_2$$) está unido directamente a un anillo, el compuesto se nombra añadiendo el sufijo \"-carboxamida\" al nombre del ciclo. Por ejemplo, si está unido a un anillo de benceno, se llama Bencenocarboxamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_011",
+      "pregunta": "¿Cuál de las siguientes fórmulas químicas representa una amida secundaria?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$CH_3-CH_2-CO-NH_2$$",
+        "B": "$$CH_3-CO-N(CH_3)_2$$",
+        "C": "$$CH_3-CH_2-NH_2$$",
+        "D": "$$CH_3-CO-NH-CH_2-CH_3$$",
+        "E": "$$C_6H_5-CONH_2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una amida secundaria se caracteriza por tener un átomo de hidrógeno y un grupo sustituyente orgánico unidos al nitrógeno del grupo amida. La fórmula $$CH_3-CO-NH-CH_2-CH_3$$ cumple con esta condición. La opción A es una amida primaria, B es una amida terciaria, C es una amina primaria y E es una amida primaria (Benzamida).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_012",
+      "pregunta": "Si el nombre común de un ácido carboxílico es ácido butírico, ¿cuál será el nombre común de su amida primaria correspondiente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Butanoamida",
+        "B": "Butiramida",
+        "C": "Butanamida",
+        "D": "Ácido amidobutírico",
+        "E": "Butanocarboxamida"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para la nomenclatura común de amidas, se toma el nombre común del ácido carboxílico (ácido butírico) y se reemplaza la terminación \"-ico\" por \"-amida\". Por lo tanto, el nombre común es Butiramida. Butanamida es el nombre IUPAC.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_013",
+      "pregunta": "Determine el nombre IUPAC correcto para la amida con la estructura $$CH_3-CO-NH-CH_2-CH_2-CH_3$$:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "N-propilacetamida",
+        "B": "Propil etil amida",
+        "C": "Etilpropanamida",
+        "D": "N-propiletanamida",
+        "E": "1-propil-etanamida"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para nombrar esta amida secundaria, primero se identifica la cadena principal unida al carbonilo, que es $$CH_3-CO-$$. Esta parte proviene del ácido etanoico, por lo que la base del nombre es \"etanamida\". Luego, se identifica el sustituyente en el átomo de nitrógeno, que es un grupo propilo ($$-CH_2-CH_2-CH_3$$). Se indica su posición con el localizador \"N-\". Por lo tanto, el nombre completo es N-propiletanamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_014",
+      "pregunta": "Analice el nombre IUPAC N,N-dietil-2-metilpropanamida. ¿Qué describe correctamente su estructura molecular?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una amida secundaria con una cadena principal de 4 carbonos y un grupo metilo.",
+        "B": "Una amida primaria con dos grupos etilo y un grupo metilo en la cadena principal.",
+        "C": "Una amida terciaria con dos grupos etilo en el nitrógeno y una cadena principal de 3 carbonos con un metilo en la posición 2.",
+        "D": "Una amida terciaria con un grupo dietilo y un grupo metilo en la posición 2 de una cadena de propano.",
+        "E": "Una amida secundaria con un grupo dietilo en el nitrógeno y una cadena principal de isopropilo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre se descompone de la siguiente manera: \"propanamida\" indica una cadena principal de 3 carbonos. \"2-metil\" indica un sustituyente metilo en el carbono 2 de esa cadena. \"N,N-dietil\" indica que hay dos grupos etilo, ambos unidos al átomo de nitrógeno. La presencia de dos sustituyentes en el nitrógeno la clasifica como una amida terciaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_321_015",
+      "pregunta": "El compuesto Bencenocarboxamida, también conocido como Benzamida, es un ejemplo de una amida cíclica. ¿Qué implica esta nomenclatura sobre la unión del grupo funcional?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El nitrógeno del grupo amida forma parte del anillo de benceno.",
+        "B": "Un anillo de benceno está unido al nitrógeno de un grupo amida.",
+        "C": "El carbono del grupo carbonilo ($-CO-$) está directamente enlazado a un carbono del anillo de benceno.",
+        "D": "La molécula consiste en una cadena de amidas con anillos de benceno como sustituyentes.",
+        "E": "Es una amida secundaria donde R es un grupo fenilo y R' es un carboxilo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre Bencenocarboxamida sigue la regla para amidas unidas a ciclos. \"Benceno-\" se refiere al anillo aromático y el sufijo \"-carboxamida\" se usa para indicar que el grupo $$-CONH_2$$ completo está unido como un sustituyente a dicho anillo. Esto significa que el átomo de carbono del grupo carbonilo está enlazado directamente a uno de los átomos de carbono del anillo de benceno.",
+      "imagen": null
+    }
+  ]
+}

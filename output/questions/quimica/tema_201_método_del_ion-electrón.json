@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 201,
+  "total_temas": 322,
+  "titulo_tema": "Método del Ion-Electrón",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_201_001",
+      "pregunta": "¿Cuál es el principio fundamental en el que se basa el método del ion-electrón?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En el balanceo exclusivo de los átomos de oxígeno e hidrógeno.",
+        "B": "En el cálculo de los pesos moleculares de los reactivos y productos.",
+        "C": "En el balanceo de semirreacciones de oxidación y reducción por separado.",
+        "D": "En la igualación de coeficientes únicamente por tanteo.",
+        "E": "En la neutralización de ácidos y bases antes de balancear."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El método del ion-electrón es un enfoque sistemático que se fundamenta en dividir la reacción redox completa en dos semirreacciones separadas: una de oxidación y una de reducción. Cada una de estas se balancea individualmente en términos de masa y carga antes de combinarlas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_002",
+      "pregunta": "¿Cuál es el primer paso que se debe seguir al aplicar el método del ion-electrón?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Establecer las semirreacciones.",
+        "B": "Calcular los estados de oxidación.",
+        "C": "Balancear la masa de los átomos.",
+        "D": "Añadir moléculas de agua ($$H_2O$$).",
+        "E": "Igualar el número de electrones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El procedimiento sistemático del método del ion-electrón comienza con el cálculo de los estados de oxidación de todos los elementos en la reacción. Este paso es crucial para poder identificar qué elementos se oxidan y cuáles se reducen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_003",
+      "pregunta": "El método del ion-electrón se aplica para balancear reacciones que ocurren en dos tipos específicos de medios. ¿Cuáles son?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Medio sólido y medio líquido.",
+        "B": "Medio gaseoso y medio acuoso.",
+        "C": "Medio ácido y medio básico.",
+        "D": "Medio neutro y medio salino.",
+        "E": "Medio orgánico y medio inorgánico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este método está diseñado específicamente para balancear reacciones redox que tienen lugar en soluciones acuosas, ya sea en un medio ácido (con presencia de iones $$H^+$$) o en un medio básico (con presencia de iones $$OH^-$$). Las reglas para balancear masa varían según el medio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_004",
+      "pregunta": "¿Con qué propósito se añaden electrones ($$e^-$$) al balancear las semirreacciones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Para balancear los átomos de hidrógeno.",
+        "B": "Para igualar la masa en ambos lados de la semirreacción.",
+        "C": "Para indicar el catalizador de la reacción.",
+        "D": "Para balancear la carga eléctrica neta en cada semirreacción.",
+        "E": "Para ajustar el número de moléculas de agua."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una vez que los átomos están balanceados en masa en una semirreacción, el siguiente paso es balancear la carga eléctrica. Esto se logra añadiendo el número necesario de electrones ($$e^-$$) al lado que sea más positivo, para que la carga neta sea la misma en ambos lados de la flecha.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_005",
+      "pregunta": "Después de sumar las semirreacciones y simplificar, ¿cuál es el paso final del método del ion-electrón?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Verificar nuevamente los estados de oxidación.",
+        "B": "Colocar los coeficientes en la ecuación principal y completar el balanceo por tanteo.",
+        "C": "Escribir la ecuación iónica neta.",
+        "D": "Eliminar todas las moléculas de agua y los iones hidroxilo.",
+        "E": "Calcular el rendimiento de la reacción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El último paso consiste en transferir los coeficientes estequiométricos obtenidos de la suma de las semirreacciones a la ecuación molecular o iónica original. Luego, se realiza una verificación final y se ajustan por tanteo (inspección) los coeficientes de las especies que no participaron en el proceso redox (iones espectadores).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_006",
+      "pregunta": "Al balancear una semirreacción en medio ácido, si un lado tiene un exceso de átomos de oxígeno, ¿cómo se compensa este desequilibrio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se añade el mismo número de iones $$OH^-$$ al lado con exceso de oxígeno.",
+        "B": "Se añade el mismo número de moléculas de $$H_2O$$ al lado opuesto y el doble de iones $$H^+$$ al lado original.",
+        "C": "Se añade el mismo número de moléculas de $$H_2O$$ al mismo lado y el doble de iones $$H^+$$ al lado opuesto.",
+        "D": "Se añade el mismo número de moléculas de $$H_2O$$ al lado opuesto y el doble de iones $$OH^-$$ al lado original.",
+        "E": "Se añade el mismo número de moléculas de $$H_2O$$ al lado opuesto para compensar el oxígeno, y luego se añaden iones $$H^+$$ al extremo contrario para balancear los hidrógenos."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La regla para el medio ácido indica que por cada átomo de oxígeno en exceso en un extremo, se añade una molécula de agua ($$H_2O$$) en el otro extremo. Para balancear los hidrógenos introducidos con el agua, se añade el doble de iones hidrógeno ($$H^+$$) en el extremo contrario al agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_007",
+      "pregunta": "En el balanceo en medio básico, ¿cuál es el procedimiento correcto para manejar un exceso de átomos de oxígeno en un lado de la semirreacción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Añadir $$H_2O$$ en el lado opuesto y $$H^+$$ en el mismo lado.",
+        "B": "Añadir $$H_2O$$ en el lado con exceso de oxígeno y el doble de $$OH^-$$ en el lado opuesto.",
+        "C": "Añadir $$OH^-$$ en el lado opuesto únicamente.",
+        "D": "Añadir $$H_2O$$ en el lado opuesto y el doble de $$OH^-$$ en el mismo lado.",
+        "E": "Añadir $$H_2O_2$$ para compensar el oxígeno."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla para el medio básico establece que, por cada oxígeno en exceso en un extremo, se añade una molécula de agua ($$H_2O$$) en el mismo extremo. Para balancear los hidrógenos, se coloca el doble de iones hidroxilo ($$OH^-$$) en el extremo contrario.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_008",
+      "pregunta": "En la reacción de ejemplo, la semirreacción del yoduro es $$2I^{-} \rightarrow I_2$$. ¿Qué proceso redox está ocurriendo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Reducción, porque el yodo gana protones.",
+        "B": "Oxidación, porque el estado de oxidación del yodo aumenta.",
+        "C": "Neutralización, porque se forma una molécula neutra.",
+        "D": "Reducción, porque se forma un enlace covalente.",
+        "E": "Hidrólisis, porque la reacción ocurre en agua."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El ion yoduro ($$I^-$$) tiene un estado de oxidación de -1. En el yodo molecular ($$I_2$$), el estado de oxidación es 0. Como el estado de oxidación aumenta (de -1 a 0), el yoduro pierde electrones, lo cual es la definición de oxidación. La semirreacción balanceada en carga es $$2I^{-} \rightarrow I_2 + 2e^{-}$$, mostrando explícitamente la pérdida de electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_009",
+      "pregunta": "En la semirreacción de reducción $$(MnO_4)^{-} \rightarrow MnO_2$$, ¿cuál es el cambio en el número de oxidación del manganeso (Mn)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "De +7 a +2.",
+        "B": "De +6 a +4.",
+        "C": "De +7 a +4.",
+        "D": "De +4 a +2.",
+        "E": "De +5 a +4."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el ion permanganato ($$(MnO_4)^{-}$$), el oxígeno tiene un estado de oxidación de -2. La suma total debe ser -1. Por lo tanto, $$Mn + 4(-2) = -1$$, lo que da $$Mn = +7$$. En el dióxido de manganeso ($$MnO_2$$), el oxígeno es -2, así que $$Mn + 2(-2) = 0$$, lo que da $$Mn = +4$$. El cambio es de +7 a +4, una reducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_010",
+      "pregunta": "¿Por qué es fundamental multiplicar las semirreacciones por coeficientes enteros antes de sumarlas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para asegurar que la masa total de los reactivos sea igual a la de los productos.",
+        "B": "Para que el número de electrones perdidos en la oxidación sea igual al número de electrones ganados en la reducción.",
+        "C": "Para simplificar los coeficientes estequiométricos al mínimo.",
+        "D": "Para eliminar los iones espectadores de la ecuación final.",
+        "E": "Para garantizar que la reacción ocurra en medio ácido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una reacción redox implica una transferencia de electrones. El principio de conservación de la carga dicta que el número total de electrones liberados por la especie que se oxida debe ser exactamente igual al número total de electrones aceptados por la especie que se reduce. Multiplicar las semirreacciones por el mínimo común múltiplo de los electrones transferidos asegura que este balance se cumpla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_011",
+      "pregunta": "¿Cuál es la función principal de las especies $$H_2O$$ y $$H^+$$ al balancear una semirreacción en medio ácido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Actuar como agentes oxidantes y reductores.",
+        "B": "Balancear la carga eléctrica de la semirreacción.",
+        "C": "Ajustar el pH de la solución.",
+        "D": "Balancear la masa de los átomos de oxígeno e hidrógeno.",
+        "E": "Formar productos gaseosos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En medio ácido, las moléculas de agua ($$H_2O$$) y los iones hidrógeno ($$H^+$$) son abundantes y se utilizan para balancear los átomos de oxígeno e hidrógeno que puedan estar desequilibrados después de balancear los demás elementos. El agua compensa el oxígeno y los iones hidrógeno compensan el hidrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_012",
+      "pregunta": "Basándose en la semirreacción de reducción $$(MnO_4)^{-} + 2H_2O + 3e^{-} \rightarrow MnO_2 + 4OH^{-}$$ del ejemplo, ¿qué sustancia es el agente oxidante en la reacción global?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$KI$$",
+        "B": "$$H_2O$$",
+        "C": "$$I_2$$",
+        "D": "$$KMnO_4$$",
+        "E": "$$KOH$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El agente oxidante es la especie que causa la oxidación de otra, y al hacerlo, se reduce (gana electrones). En esta semirreacción, el ion permanganato ($$(MnO_4)^{-}$$) gana 3 electrones para convertirse en $$MnO_2$$. Por lo tanto, la sustancia que contiene este ion, el permanganato de potasio ($$KMnO_4$$), es el agente oxidante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_013",
+      "pregunta": "Analice la semirreacción de reducción balanceada en medio básico: $$(MnO_4)^{-} + 2H_2O + 3e^{-} \rightarrow MnO_2 + 4OH^{-}$$. ¿Cuál es la carga neta total en el lado de los productos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "0",
+        "B": "-1",
+        "C": "-3",
+        "D": "-4",
+        "E": "+1"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para calcular la carga neta en el lado de los productos, se suman las cargas de todas las especies. El dióxido de manganeso ($$MnO_2$$) es una molécula neutra, por lo que su carga es 0. Hay 4 iones hidroxilo ($$OH^-$$), cada uno con una carga de -1. Por lo tanto, la carga neta es $$0 + 4 \times (-1) = -4$$. Esta carga es igual a la del lado de los reactivos ($$(-1) + 0 + 3 \times (-1) = -4$$), confirmando que la carga está balanceada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_014",
+      "pregunta": "Para la reacción del ejemplo, las semirreacciones son $$2I^{-} \rightarrow I_2 + 2e^{-}$$ y $$(MnO_4)^{-} + 2H_2O + 3e^{-} \rightarrow MnO_2 + 4OH^{-}$$. ¿Qué factores se deben usar para multiplicar la primera y la segunda semirreacción, respectivamente, para igualar los electrones transferidos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Multiplicar por 2 y por 3.",
+        "B": "Multiplicar por 1 y por 6.",
+        "C": "Multiplicar por 6 y por 1.",
+        "D": "Multiplicar por 3 y por 2.",
+        "E": "Multiplicar por 2 y por 2."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La semirreacción de oxidación produce 2 electrones, mientras que la de reducción consume 3 electrones. Para que el número de electrones perdidos y ganados sea el mismo, debemos encontrar el mínimo común múltiplo de 2 y 3, que es 6. Por lo tanto, la primera semirreacción (oxidación) se multiplica por 3 ($$3 \times 2e^- = 6e^-$$) y la segunda (reducción) se multiplica por 2 ($$2 \times 3e^- = 6e^-$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_201_015",
+      "pregunta": "Siguiendo estrictamente las reglas para balancear en medio básico, si el lado de los reactivos de una semirreacción tiene 3 átomos de oxígeno más que el lado de los productos, ¿qué se debe añadir para lograr el balance de masa de O y H?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Añadir 3 $$H_2O$$ al lado de los productos y 6 $$H^+$$ al lado de los reactivos.",
+        "B": "Añadir 3 $$H_2O$$ al lado de los reactivos y 6 $$OH^{-}$$ al lado de los productos.",
+        "C": "Añadir 3 $$H_2O$$ al lado de los productos y 6 $$OH^{-}$$ al lado de los reactivos.",
+        "D": "Añadir 6 $$OH^{-}$$ al lado de los productos.",
+        "E": "Añadir 3 $$O_2$$ al lado de los productos y 6 $$H_2O$$ al de los reactivos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla para el medio básico indica que el exceso de oxígeno en un extremo se maneja añadiendo el mismo número de moléculas de agua ($$H_2O$$) a ese mismo extremo. En este caso, se añadirían 3 $$H_2O$$ al lado de los reactivos. Para balancear los 6 hidrógenos ahora presentes en los reactivos, se añade el doble de iones hidroxilo ($$OH^-$$) en el otro extremo, es decir, 6 $$OH^{-}$$ en el lado de los productos.",
+      "imagen": null
+    }
+  ]
+}

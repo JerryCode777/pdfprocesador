@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 209,
+  "total_temas": 322,
+  "titulo_tema": "Número de Avogadro",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_209_001",
+      "pregunta": "Según el Sistema Internacional, ¿cuál es la definición del mol?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa de una sustancia que ocupa 22.4 litros a condiciones estándar.",
+        "B": "La cantidad de sustancia que contiene tantos protones como hay en 12 g de carbono-12.",
+        "C": "La cantidad de una sustancia que contiene tantas entidades elementales como átomos hay exactamente en 12 g de carbono-12.",
+        "D": "La masa exacta de $$6.022 \\times 10^{23}$$ gramos de una sustancia.",
+        "E": "La doceava parte de la masa de un átomo de carbono-12."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición formal del mol en el Sistema Internacional se basa en un estándar: el número de átomos presentes en una cantidad específica de carbono-12. Un mol es la cantidad de cualquier sustancia que contiene el mismo número de entidades elementales (átomos, moléculas, etc.) que átomos hay en exactamente 12 gramos del isótopo carbono-12.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_002",
+      "pregunta": "¿Cuál es el valor aproximado del número de Avogadro ($$N_a$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$6.022 \\times 10^{-23}$$",
+        "B": "$$12.00 \\times 10^{23}$$",
+        "C": "$$6.022 \\times 10^{24}$$",
+        "D": "$$3.011 \\times 10^{23}$$",
+        "E": "$$6.022 \\times 10^{23}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El número de Avogadro ($$N_a$$) es una constante fundamental que representa el número de entidades elementales (como átomos o moléculas) en un mol de una sustancia. Su valor aceptado es aproximadamente $$6.022 \\times 10^{23}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_003",
+      "pregunta": "¿Qué representa la masa molar ($$M$$) de una sustancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa de una sola molécula en gramos.",
+        "B": "La masa, en gramos, de un mol de dicha sustancia.",
+        "C": "El número total de átomos en un compuesto.",
+        "D": "La masa de una sustancia en unidades de masa atómica (uma).",
+        "E": "La densidad de la sustancia dividida por su volumen."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa molar, denotada como $$M$$, se define como la masa total, expresada en gramos, que corresponde a un mol ($$6.022 \\times 10^{23}$$ entidades) de una sustancia. Sus unidades son gramos por mol (g/mol).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_004",
+      "pregunta": "¿Cómo se calcula la masa fórmula de una sustancia iónica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Multiplicando las masas atómicas de los átomos en la fórmula.",
+        "B": "Sumando las masas atómicas de los átomos presentes en la fórmula química.",
+        "C": "Promediando las masas atómicas de todos los elementos.",
+        "D": "Dividiendo la masa total de la muestra por el número de moles.",
+        "E": "Contando el número de iones positivos y negativos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa fórmula se calcula de la misma manera que la masa molecular: es la suma de las masas atómicas de todos los átomos que componen la unidad fórmula de la sustancia. Por ejemplo, para NaCl, es la masa atómica del Na más la masa atómica del Cl.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_005",
+      "pregunta": "¿En qué unidades se expresa la masa molar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "uma",
+        "B": "mol/L",
+        "C": "g/mol",
+        "D": "g/cm³",
+        "E": "mol"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa molar es la masa de un mol de sustancia. Por lo tanto, sus unidades indican una cantidad de masa (gramos) por cada cantidad de sustancia (mol), lo que se expresa como gramos por mol (g/mol).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_006",
+      "pregunta": "¿Qué relación existe entre la masa fórmula de un compuesto (en uma) y su masa molar (en g/mol)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa molar es el inverso de la masa fórmula.",
+        "B": "Son numéricamente iguales, pero con unidades diferentes.",
+        "C": "La masa molar es la masa fórmula multiplicada por el número de Avogadro.",
+        "D": "No tienen ninguna relación.",
+        "E": "La masa fórmula es siempre mayor que la masa molar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Existe una correspondencia directa: la masa de una unidad fórmula en unidades de masa atómica (uma) es numéricamente igual a la masa de un mol de esas unidades fórmula en gramos (g/mol). Por ejemplo, si la masa fórmula del NaCl es 58.5 uma, su masa molar es 58.5 g/mol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_007",
+      "pregunta": "Si se tiene un mol de glucosa ($$C_6H_{12}O_6$$), ¿cuántas moléculas de glucosa hay?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "180 moléculas",
+        "B": "24 moléculas",
+        "C": "$$6.022 \\times 10^{23}$$ moléculas",
+        "D": "$$12 \\times (6.022 \\times 10^{23})$$ moléculas",
+        "E": "1 molécula"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por definición, un mol de cualquier sustancia molecular contiene el número de Avogadro ($$6.022 \\times 10^{23}$$) de moléculas de esa sustancia. La fórmula química o la masa molar no alteran esta cantidad fundamental.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_008",
+      "pregunta": "¿Cuál es la principal razón para usar el término \"masa fórmula\" en lugar de \"masa molecular\" para compuestos como el NaCl?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el NaCl es un compuesto orgánico.",
+        "B": "Porque el NaCl es un gas a temperatura ambiente.",
+        "C": "Porque el NaCl es una sustancia iónica y no forma moléculas discretas.",
+        "D": "Porque el cálculo de la masa es diferente para los compuestos iónicos.",
+        "E": "Porque \"masa fórmula\" es un término más moderno y preciso."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las sustancias iónicas, como el cloruro de sodio (NaCl), forman redes cristalinas de iones en lugar de moléculas individuales. Por ello, se habla de una \"unidad fórmula\" (la proporción más simple de iones) y su masa correspondiente es la \"masa fórmula\", en lugar de \"molécula\" y \"masa molecular\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_009",
+      "pregunta": "En un mol de agua ($$H_2O$$), ¿cuántos átomos de hidrógeno hay?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$6.022 \\times 10^{23}$$ átomos",
+        "B": "2 átomos",
+        "C": "$$1.008 \\times (6.022 \\times 10^{23})$$ átomos",
+        "D": "$$2 \\times (6.022 \\times 10^{23})$$ átomos",
+        "E": "$$3 \\times (6.022 \\times 10^{23})$$ átomos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un mol de agua contiene $$6.022 \\times 10^{23}$$ moléculas de $$H_2O$$. Dado que cada molécula de agua tiene 2 átomos de hidrógeno, el número total de átomos de hidrógeno es 2 veces el número de Avogadro, es decir, $$2 \\times (6.022 \\times 10^{23})$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_010",
+      "pregunta": "El término \"molécula\" es un diminutivo del latín \"moles\". ¿Qué significa etimológicamente \"molécula\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una masa grande",
+        "B": "Un conjunto de átomos",
+        "C": "Una partícula indivisible",
+        "D": "Una masa pequeña",
+        "E": "Una unidad de medida"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Si el término 'mol' proviene del latín 'moles', que significa 'una masa', el sufijo diminutivo '-cula' hace que 'molécula' signifique literalmente 'una masa pequeña'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_011",
+      "pregunta": "Usando la información proporcionada para la glucosa ($$C_6H_{12}O_6$$), ¿cuál es su masa molar ($$M$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "180 g",
+        "B": "180 uma",
+        "C": "180 mol",
+        "D": "180 g/mol",
+        "E": "7.7 g/mol"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La masa molecular de la glucosa es de 180 uma. La masa molar es numéricamente igual a la masa molecular, pero se expresa en gramos por mol. Por lo tanto, la masa molar de la glucosa es 180 g/mol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_012",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la relación entre el mol y el número de Avogadro?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un mol es la masa del número de Avogadro en gramos.",
+        "B": "El número de Avogadro es la cantidad de gramos en un mol.",
+        "C": "Un mol de cualquier sustancia contiene un número de Avogadro de entidades de esa sustancia.",
+        "D": "El número de Avogadro varía dependiendo de la masa atómica de la sustancia.",
+        "E": "El mol y el número de Avogadro son conceptos independientes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación fundamental es que el mol es una unidad de cantidad que agrupa un número específico de partículas, y ese número es el número de Avogadro ($$6.022 \\times 10^{23}$$). Así, un mol de átomos, moléculas, iones, etc., siempre contendrá $$6.022 \\times 10^{23}$$ de esas partículas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_013",
+      "pregunta": "Si la masa fórmula del NaCl es $58.5$ uma, ¿cuál es la masa en gramos de un mol de NaCl?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "58.5 g",
+        "B": "$$\\frac{58.5}{6.022 \\times 10^{23}} \\text{ g}$$",
+        "C": "1 g",
+        "D": "$$58.5 \\times (6.022 \\times 10^{23}) \\text{ g}$$",
+        "E": "No se puede determinar solo con esa información."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La masa molar de una sustancia (la masa de un mol en gramos) es numéricamente igual a su masa fórmula (en uma). Si la masa fórmula del NaCl es 58.5 uma, entonces la masa de un mol de NaCl es 58.5 gramos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_014",
+      "pregunta": "Considerando la fórmula de la glucosa ($$C_6H_{12}O_6$$), ¿cuántos moles de átomos de carbono hay en un mol de glucosa?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "1 mol de átomos de C",
+        "B": "12 moles de átomos de C",
+        "C": "6 moles de átomos de C",
+        "D": "$$6.022 \\times 10^{23}$$ moles de átomos de C",
+        "E": "$$\\frac{1}{6}$$ moles de átomos de C"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula $$C_6H_{12}O_6$$ indica que cada molécula de glucosa contiene 6 átomos de carbono. Por lo tanto, un mol de moléculas de glucosa contendrá 6 moles de átomos de carbono. Esta misma lógica se aplica a los demás elementos (12 moles de H y 6 moles de O).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_209_015",
+      "pregunta": "Si tienes exactamente $$6.022 \\times 10^{23}$$ moléculas de una sustancia y su masa total es de 44 gramos, ¿cuál es la masa molar ($$M$$) de dicha sustancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "44 g",
+        "B": "44 mol",
+        "C": "44 g/mol",
+        "D": "44 uma",
+        "E": "$$\\frac{44}{6.022 \\times 10^{23}} \\text{ g/mol}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa molar se define como la masa en gramos de un mol de sustancia. Un mol de sustancia contiene $$6.022 \\times 10^{23}$$ entidades (en este caso, moléculas). Si esta cantidad de moléculas tiene una masa de 44 gramos, entonces la masa molar es, por definición, 44 gramos por mol (44 g/mol).",
+      "imagen": null
+    }
+  ]
+}

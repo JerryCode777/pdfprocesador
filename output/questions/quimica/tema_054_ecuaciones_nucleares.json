@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 54,
+  "total_temas": 322,
+  "titulo_tema": "Ecuaciones Nucleares",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_054_001",
+      "pregunta": "¿Qué proceso nuclear se define como la división de un núcleo pesado en núcleos más pequeños?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fusión nuclear",
+        "B": "Fisión nuclear",
+        "C": "Decaimiento beta",
+        "D": "Captura de electrones",
+        "E": "Emisión de positrones"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fisión nuclear es el proceso en el que un núcleo atómico pesado, con un número de masa típicamente superior a 200 uma, se divide para formar núcleos más pequeños y estables, liberando neutrones y una gran cantidad de energía. La fusión nuclear es el proceso opuesto, donde núcleos ligeros se unen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_002",
+      "pregunta": "¿Cuál de los siguientes símbolos representa correctamente a un neutrón en una ecuación nuclear?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$^{1}_{1}p$$",
+        "B": "$$^{0}_{-1}e$$",
+        "C": "$$^{4}_{2}\\alpha$$",
+        "D": "$$^{1}_{0}n$$",
+        "E": "$$^{0}_{+1}\\beta$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo para un neutrón es $$^{1}_{0}n$$. El superíndice 1 indica su número de masa (un nucleón) y el subíndice 0 indica su carga nuclear (cero protones), ya que es una partícula eléctricamente neutra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_003",
+      "pregunta": "En los experimentos con tubos de rayos catódicos, se observó que el rayo emitido era atraído por una placa externa con carga positiva, lo que llevó a la conclusión de que los electrones tienen carga:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positiva",
+        "B": "Neutra",
+        "C": "Negativa",
+        "D": "Variable",
+        "E": "Nula"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rayo catódico era atraído por una placa con carga positiva y repelido por una con carga negativa. Este comportamiento demuestra que las partículas que componen el rayo, conocidas como electrones, tienen una carga eléctrica negativa, ya que cargas opuestas se atraen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_004",
+      "pregunta": "¿Cómo se describe la envoltura electrónica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La capa más externa de neutrones en el núcleo.",
+        "B": "La zona externa al núcleo donde se localizan los electrones.",
+        "C": "La barrera de energía que mantiene unido al núcleo.",
+        "D": "El conjunto de protones y neutrones.",
+        "E": "Una partícula fundamental sin carga."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La envoltura electrónica, también conocida como nube de electrones o corteza atómica, es la región que rodea al núcleo atómico y en la cual se encuentran los electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_005",
+      "pregunta": "Al balancear una ecuación nuclear, ¿qué principio fundamental se debe cumplir con respecto al número atómico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número atómico total debe aumentar en los productos.",
+        "B": "El número atómico total se debe duplicar.",
+        "C": "El número total de cargas nucleares debe ser el mismo en reactivos y productos.",
+        "D": "Solo se conserva si no se emiten electrones.",
+        "E": "El número de cargas nucleares debe disminuir para que sea espontáneo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las reglas esenciales para balancear ecuaciones nucleares es la conservación del número atómico (o carga nuclear). Esto significa que la suma de los números atómicos (subíndices) de los reactivos debe ser idéntica a la suma de los números atómicos de los productos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_006",
+      "pregunta": "¿Por qué el proceso de fisión nuclear libera una gran cantidad de energía?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque los neutrones liberados tienen alta energía cinética.",
+        "B": "Porque se crea nueva masa a partir de la energía.",
+        "C": "Porque el núcleo pesado original es menos estable que los núcleos más pequeños que se forman.",
+        "D": "Porque se rompen enlaces químicos muy fuertes entre los átomos.",
+        "E": "Porque los electrones se reordenan en niveles de menor energía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La liberación de energía en la fisión nuclear ocurre porque los productos (los núcleos más pequeños) son más estables que el núcleo pesado original. En los núcleos más estables, los nucleones (protones y neutrones) están unidos más fuertemente, lo que corresponde a un estado de menor energía. La diferencia de energía entre el estado inicial menos estable y el estado final más estable se libera, principalmente como energía cinética de los productos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_007",
+      "pregunta": "¿Cuáles son las dos reglas fundamentales que deben cumplirse para balancear correctamente una ecuación nuclear?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Conservación del número de electrones y conservación de la energía.",
+        "B": "Conservación del número de neutrones y conservación del número de protones por separado.",
+        "C": "Conservación del número de masa y conservación del número atómico.",
+        "D": "Conservación de la masa total y conservación del estado de agregación.",
+        "E": "Conservación de la carga iónica y conservación del número de orbitales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que una ecuación nuclear esté correctamente balanceada, se deben cumplir dos principios de conservación: 1) La conservación del número de masa (la suma de los superíndices debe ser igual en ambos lados). 2) La conservación del número atómico o carga nuclear (la suma de los subíndices debe ser igual en ambos lados).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_008",
+      "pregunta": "¿Cuál de los siguientes símbolos representa a una partícula alfa, que es equivalente a un núcleo de helio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$^{0}_{-1}\\beta$$",
+        "B": "$$^{1}_{0}n$$",
+        "C": "$$^{4}_{2}He$$",
+        "D": "$$^{1}_{1}H$$",
+        "E": "$$^{0}_{+1}e$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una partícula alfa ($\\alpha$) está compuesta por 2 protones y 2 neutrones. Su símbolo es $$^{4}_{2}\\alpha$$ o, de forma equivalente, $$^{4}_{2}He$$, ya que es idéntica a un núcleo de helio. El superíndice 4 representa el número de masa (2 protones + 2 neutrones) y el subíndice 2 representa el número atómico (2 protones).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_009",
+      "pregunta": "Según la descripción del tubo de rayos catódicos, ¿qué propiedad de los electrones se determinó al observar la desviación del rayo cerca de placas cargadas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su masa exacta.",
+        "B": "Su velocidad.",
+        "C": "El signo de su carga eléctrica.",
+        "D": "Su naturaleza ondulatoria.",
+        "E": "Su espín."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El experimento clave consistió en colocar placas cargadas eléctricamente en el exterior del tubo. Se observó que el rayo se desviaba, alejándose de la placa negativa y acercándose a la positiva. Este comportamiento demostró de manera concluyente el signo de la carga eléctrica de las partículas del rayo (electrones), que es negativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_010",
+      "pregunta": "Al comparar los símbolos de un electrón ($$⁰₋₁e$$) y un positrón ($$⁰₊₁e$$), ¿cuál es la diferencia fundamental en su notación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su número de masa.",
+        "B": "Su símbolo elemental ('e').",
+        "C": "El signo de su carga nuclear (subíndice).",
+        "D": "Que uno es partícula y el otro es onda.",
+        "E": "La presencia de neutrones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ambos, electrón y positrón, tienen un número de masa de 0, ya que no son nucleones (protones o neutrones). La diferencia esencial radica en su carga nuclear, representada por el subíndice: el electrón tiene una carga de -1 ($$⁰₋₁e$$) y el positrón, su antipartícula, tiene una carga opuesta de +1 ($$⁰₊₁e$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_011",
+      "pregunta": "¿Qué resultado se obtiene del bombardeo del uranio-235 con un neutrón, según se describe en el proceso de fisión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se fusiona con el neutrón para formar un elemento más pesado y estable.",
+        "B": "Emite una partícula alfa y se convierte en torio-231.",
+        "C": "Se divide en núcleos más pequeños, liberando más neutrones y energía.",
+        "D": "Absorbe el neutrón y se vuelve no radiactivo.",
+        "E": "Emite un electrón y se convierte en neptunio-236."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El bombardeo de uranio-235 ($$ ^{235}U $$) con un neutrón es un ejemplo canónico de fisión nuclear. El núcleo de uranio absorbe el neutrón, se vuelve inestable y se divide en dos o más núcleos de masa intermedia, liberando una cantidad significativa de energía y varios neutrones adicionales, que pueden a su vez inducir más fisiones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_012",
+      "pregunta": "En la notación de una partícula nuclear como $$^{A}_{Z}X$$, ¿qué representa el subíndice $Z$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de neutrones.",
+        "B": "La carga iónica del átomo.",
+        "C": "El número de masa (protones + neutrones).",
+        "D": "El número atómico o número de protones.",
+        "E": "El número total de partículas en el núcleo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la notación isotópica estándar $$^{A}_{Z}X$$, el subíndice $Z$ representa el número atómico. Este número es igual al número de protones en el núcleo y define la identidad del elemento químico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_013",
+      "pregunta": "Identifique la partícula faltante (?) en la siguiente ecuación de decaimiento nuclear: $${}^{226}_{88}Ra \\rightarrow {}^{222}_{86}Rn + \\text{?}$$",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$^{0}_{-1}e$$",
+        "B": "$$^{4}_{2}He$$",
+        "C": "$$^{1}_{0}n$$",
+        "D": "$$^{0}_{+1}\\beta$$",
+        "E": "$$^{1}_{1}p$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para balancear la ecuación, se debe conservar el número de masa y el número atómico. \n1. **Balance de número de masa (superíndices):** $$226 = 222 + A$$. Despejando A, $$A = 226 - 222 = 4$$. \n2. **Balance de número atómico (subíndices):** $$88 = 86 + Z$$. Despejando Z, $$Z = 88 - 86 = 2$$. \nLa partícula con número de masa 4 y número atómico 2 ($$^{4}_{2}X$$) es una partícula alfa, cuyo símbolo es $$^{4}_{2}He$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_014",
+      "pregunta": "Complete la siguiente ecuación de fisión nuclear para encontrar el núcleo desconocido X: $${}^{235}_{92}U + {}^{1}_{0}n \\rightarrow {}^{141}_{56}Ba + X + 3({}^{1}_{0}n)$$",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$^{92}_{36}Kr$$",
+        "B": "$$^{94}_{36}Kr$$",
+        "C": "$$^{92}_{35}Br$$",
+        "D": "$$^{95}_{37}Rb$$",
+        "E": "$$^{90}_{38}Sr$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Se deben balancear los números de masa y atómico en la ecuación.\n1. **Balance de número de masa (superíndices):** El total en los reactivos es $$235 + 1 = 236$$. En los productos, el total debe ser el mismo: $$141 + A + 3(1) = 236$$. Simplificando, $$144 + A = 236$$, lo que da $$A = 92$$.\n2. **Balance de número atómico (subíndices):** El total en los reactivos es $$92 + 0 = 92$$. En los productos, el total debe ser el mismo: $$56 + Z + 3(0) = 92$$. Simplificando, $$56 + Z = 92$$, lo que da $$Z = 36$$.\nEl núcleo con un número de masa de 92 y un número atómico de 36 es el Kriptón-92 ($$^{92}_{36}Kr$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_054_015",
+      "pregunta": "Si en un tubo de rayos catódicos, en lugar de electrones ($$⁰₋₁e$$), se emitiera un haz de positrones ($$⁰₊₁e$$) que pasara entre dos placas cargadas externamente, ¿qué se observaría?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El haz no se desviaría porque los positrones no tienen masa.",
+        "B": "El haz sería repelido por la placa positiva y atraído por la negativa.",
+        "C": "El haz sería repelido por ambas placas simultáneamente.",
+        "D": "El haz sería atraído por la placa positiva y repelido por la negativa.",
+        "E": "El haz se dividiría en dos haces separados."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El experimento original demostró que los electrones, con carga negativa (-1), son atraídos por la placa positiva. Un positrón es la antipartícula del electrón y tiene una carga idéntica en magnitud pero de signo opuesto (+1). Por lo tanto, aplicando el principio de interacción de cargas (cargas iguales se repelen, cargas opuestas se atraen), un haz de positrones se comportaría de manera opuesta a los electrones: sería repelido por la placa cargada positivamente y atraído por la placa cargada negativamente.",
+      "imagen": null
+    }
+  ]
+}

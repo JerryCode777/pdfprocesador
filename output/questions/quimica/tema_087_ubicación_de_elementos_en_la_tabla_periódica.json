@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 87,
+  "total_temas": 322,
+  "titulo_tema": "Ubicación de Elementos en la Tabla Periódica",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_087_001",
+      "pregunta": "¿Qué información de la configuración electrónica determina el periodo en el que se ubica un elemento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número total de electrones",
+        "B": "Los electrones del último subnivel de energía",
+        "C": "El nivel externo o mayor nivel de energía",
+        "D": "El número de electrones en la primera capa",
+        "E": "La suma de protones y neutrones"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo de un elemento en la tabla periódica corresponde directamente a su nivel de energía más externo, también conocido como la última capa electrónica. Las otras opciones son incorrectas: el número total de electrones define al elemento en sí, pero no directamente el periodo, y los electrones de subniveles específicos o de la primera capa no determinan la fila (periodo) del elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_002",
+      "pregunta": "En un átomo neutro, ¿a qué es igual el número atómico, representado como $Z$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al número de neutrones",
+        "B": "Al número del periodo",
+        "C": "A la suma de protones y electrones",
+        "D": "Al número de electrones",
+        "E": "Al número de niveles de energía"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para un átomo eléctricamente neutro, el número de cargas positivas (protones) debe ser igual al número de cargas negativas (electrones) para que la carga neta sea cero. El número atómico $Z$ define el número de protones, por lo tanto, en un átomo neutro, $Z$ también es igual al número de electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_003",
+      "pregunta": "¿Qué característica comparten todos los elementos que pertenecen al mismo grupo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El mismo número atómico $Z$",
+        "B": "La misma cantidad de niveles de energía",
+        "C": "Propiedades físicas idénticas",
+        "D": "El mismo número de neutrones",
+        "E": "La misma configuración electrónica en su nivel de energía más externo"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Los elementos de un mismo grupo se caracterizan por tener la misma configuración de electrones en su capa más externa (electrones de valencia). Esta similitud es la razón por la que comparten propiedades químicas similares, ya que estos son los electrones que participan en los enlaces químicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_004",
+      "pregunta": "¿Cuál es el primer paso necesario para ubicar un elemento en la tabla periódica si se conoce su número atómico $Z$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Determinar su masa atómica",
+        "B": "Realizar la distribución electrónica",
+        "C": "Identificar el número de neutrones",
+        "D": "Conocer su punto de ebullición",
+        "E": "Medir su radio atómico"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El primer paso fundamental para ubicar un elemento a partir de su número atómico $Z$ es realizar su configuración o distribución electrónica. A partir de esta distribución, se puede identificar el mayor nivel de energía (que indica el periodo) y los electrones en la última capa (que indican el grupo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_005",
+      "pregunta": "¿Qué electrones son los responsables de que los elementos de un mismo grupo tengan propiedades químicas similares?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Los electrones del núcleo",
+        "B": "Los electrones de la primera capa de energía",
+        "C": "Todos los electrones del átomo",
+        "D": "Los electrones del último nivel de energía",
+        "E": "Los electrones de los subniveles completos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las propiedades químicas de un elemento están determinadas principalmente por su capacidad para formar enlaces. Los electrones que participan en los enlaces químicos son los que se encuentran en el nivel de energía más externo (la última capa). Al tener la misma configuración en esta capa, los elementos de un mismo grupo reaccionan de manera similar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_006",
+      "pregunta": "¿Cuál es la relación principal entre la configuración electrónica de un elemento y su posición en la tabla periódica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La configuración electrónica es una consecuencia de su posición.",
+        "B": "La posición de un elemento está relacionada directamente con su configuración electrónica.",
+        "C": "No existe una relación directa entre ambas.",
+        "D": "La masa atómica determina la configuración y la posición.",
+        "E": "La configuración solo determina las propiedades, no la posición."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estructura de la tabla periódica es un reflejo directo de la configuración electrónica de los elementos. El análisis de cómo se distribuyen los electrones en los niveles y subniveles de energía permite determinar con precisión el periodo (fila) y el grupo (columna) de cualquier elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_007",
+      "pregunta": "Las propiedades de un elemento dependen fundamentalmente de la configuración de su último nivel de energía. ¿Por qué es esto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el último nivel contiene la mayor cantidad de energía.",
+        "B": "Porque los electrones de ese nivel participan en los enlaces químicos.",
+        "C": "Porque el último nivel es el único que puede perder electrones.",
+        "D": "Porque es el nivel más cercano al núcleo.",
+        "E": "Porque define el tamaño total del átomo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El comportamiento químico de un átomo se define por cómo interactúa con otros átomos, lo cual ocurre a través de la formación de enlaces. Los electrones involucrados en estos enlaces son los del nivel más externo (electrones de valencia). Por lo tanto, la configuración de este nivel dicta las propiedades químicas del elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_008",
+      "pregunta": "¿Qué información específica de la configuración electrónica se utiliza para determinar el grupo al que pertenece un elemento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de niveles de energía completos",
+        "B": "El número total de electrones distribuidos",
+        "C": "Los electrones de la última capa",
+        "D": "El subnivel donde se ubicó el primer electrón",
+        "E": "El número cuántico magnético del último electrón"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Mientras que el mayor nivel de energía determina el periodo, el número de electrones presentes en esa última capa o nivel de energía es lo que indica el grupo del elemento. Elementos con el mismo número de electrones en su capa externa pertenecen al mismo grupo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_009",
+      "pregunta": "El ordenamiento periódico de los elementos que se deduce del análisis de la configuración electrónica es consistente con el ordenamiento propuesto originalmente por:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dalton",
+        "B": "Rutherford",
+        "C": "Moseley",
+        "D": "Thomson",
+        "E": "Bohr"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Henry Moseley fue quien ordenó los elementos según su número atómico ($Z$) creciente. El análisis de la configuración electrónica, que también se basa en el número de electrones (igual a $Z$ en un átomo neutro), conduce a la misma y correcta ordenación periódica, validando el trabajo de Moseley.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_010",
+      "pregunta": "Si un átomo neutro tiene un número atómico $Z=15$, ¿cuántos electrones se deben distribuir para realizar su configuración electrónica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$30$$",
+        "B": "$$7$$",
+        "C": "$$15$$",
+        "D": "No se puede saber sin la masa atómica.",
+        "E": "$$10$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un átomo neutro, la carga eléctrica total es cero. Esto significa que el número de protones (cargas positivas) es igual al número de electrones (cargas negativas). Dado que el número atómico $Z$ es igual al número de protones, también es igual al número de electrones. Por lo tanto, para $Z=15$, hay 15 electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_011",
+      "pregunta": "¿Qué se puede inferir sobre dos elementos diferentes que se encuentran en el mismo periodo de la tabla periódica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tienen propiedades químicas idénticas.",
+        "B": "Poseen el mismo número de electrones en su última capa.",
+        "C": "Sus átomos tienen el mismo número de niveles de energía.",
+        "D": "Tienen el mismo número atómico.",
+        "E": "Pertenecen a la misma familia química."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo está determinado por el nivel de energía más externo. Si dos elementos están en el mismo periodo, significa que sus electrones más externos ocupan el mismo nivel de energía principal, es decir, tienen el mismo número de capas o niveles de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_012",
+      "pregunta": "La afirmación 'la posición de un elemento está relacionada con su configuración electrónica' implica que la tabla periódica:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es una organización arbitraria de los elementos.",
+        "B": "Se basa únicamente en las masas atómicas.",
+        "C": "Refleja la estructura electrónica subyacente de los átomos.",
+        "D": "Fue diseñada antes del descubrimiento del electrón.",
+        "E": "Solo clasifica a los elementos por su estado de agregación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La tabla periódica no es un arreglo al azar; su estructura de periodos y grupos se correlaciona directamente con la forma en que los electrones se organizan en niveles y subniveles de energía. Por lo tanto, la tabla es un mapa visual de la estructura electrónica de los átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_013",
+      "pregunta": "Si se determina que el nivel de energía más externo de un elemento es el nivel 5, ¿qué se puede concluir con certeza sobre su ubicación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Pertenece al grupo 5.",
+        "B": "Tiene 5 electrones en su última capa.",
+        "C": "Su número atómico es 5.",
+        "D": "Se encuentra en el periodo 5.",
+        "E": "Es un gas noble."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El principio fundamental para la ubicación de elementos es que el mayor nivel de energía ocupado por electrones en la configuración electrónica de un átomo determina su periodo. Si el nivel más externo es el 5, el elemento debe estar ubicado en el periodo 5 (la quinta fila) de la tabla periódica. No se puede determinar el grupo o el número atómico solo con esta información.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_014",
+      "pregunta": "Dos elementos, X e Y, tienen configuraciones electrónicas que terminan con el mismo número de electrones en su capa más externa, pero el nivel de energía más externo de X es 3 y el de Y es 4. ¿Qué se puede inferir correctamente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "X e Y están en el mismo periodo y en el mismo grupo.",
+        "B": "X e Y están en el mismo grupo, pero en diferentes periodos.",
+        "C": "X e Y tienen propiedades químicas muy diferentes.",
+        "D": "X e Y están en el mismo periodo, pero en diferentes grupos.",
+        "E": "Y tiene menos electrones totales que X."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los elementos con el mismo número de electrones en su capa más externa pertenecen al mismo grupo y comparten propiedades químicas similares. El nivel de energía más externo (3 para X y 4 para Y) determina el periodo. Por lo tanto, X está en el periodo 3 e Y en el periodo 4, pero ambos están en el mismo grupo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_087_015",
+      "pregunta": "¿Cuál es la principal justificación teórica de que conocer la configuración electrónica de un átomo permita predecir su comportamiento químico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La configuración electrónica determina la masa del átomo, que rige la reactividad.",
+        "B": "La configuración del núcleo depende de la distribución de electrones.",
+        "C": "Las interacciones químicas y la formación de enlaces dependen de los electrones del nivel de energía más externo.",
+        "D": "El número total de electrones es el único factor que determina cómo reacciona un átomo.",
+        "E": "Todos los electrones de un átomo participan por igual en todos los enlaces químicos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La base de la química es la interacción entre átomos a través de sus electrones. Específicamente, los electrones en el nivel de energía más externo son los que están disponibles para formar enlaces. Conocer la configuración de esta capa (cuántos electrones hay y cómo están dispuestos) es la clave para predecir cómo un átomo se enlazará con otros, definiendo así su comportamiento químico.",
+      "imagen": null
+    }
+  ]
+}

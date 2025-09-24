@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 241,
+  "total_temas": 322,
+  "titulo_tema": "Line-angle Formula",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_241_001",
+      "pregunta": "¿Qué característica principal define a una fórmula semidesarrollada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Muestra explícitamente todos los enlaces de la molécula, incluyendo los de carbono-hidrógeno.",
+        "B": "Omite los enlaces entre los átomos de carbono y los de hidrógeno.",
+        "C": "Representa la molécula únicamente con líneas, omitiendo los símbolos de los átomos.",
+        "D": "Utiliza paréntesis para indicar la repetición de unidades sin mostrar enlaces.",
+        "E": "Indica solamente el número total de átomos de cada elemento."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula semidesarrollada es una representación intermedia que simplifica la fórmula desarrollada al omitir la escritura explícita de los enlaces entre carbono e hidrógeno ($$\\text{C-H}$$), aunque sí muestra los enlaces entre carbonos ($$\\text{C-C}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_002",
+      "pregunta": "En una fórmula lineal o topológica, ¿qué elementos se omiten para simplificar la representación de la molécula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Los enlaces dobles y triples.",
+        "B": "Las etiquetas para los átomos de carbono y los hidrógenos unidos a ellos.",
+        "C": "Únicamente los átomos de hidrógeno.",
+        "D": "Los átomos que no forman parte de la cadena principal.",
+        "E": "Todos los enlaces químicos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En las fórmulas lineales, también conocidas como esqueléticas o topológicas, las etiquetas de los átomos de carbono se omiten (se asume que cada vértice o final de línea es un carbono) y los hidrógenos unidos a estos carbonos también se omiten, ya que se infiere su número para satisfacer la tetravalencia del carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_003",
+      "pregunta": "¿A qué se refiere el término \"configuración\" en el contexto de una molécula orgánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al número total de átomos que componen la molécula.",
+        "B": "A la secuencia en la que están enlazados los átomos de carbono.",
+        "C": "A la distribución espacial de los átomos que forman la molécula.",
+        "D": "A la fórmula más simple o empírica de un compuesto.",
+        "E": "A la cantidad de ramificaciones en la cadena principal."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La configuración de una molécula orgánica se refiere a la disposición o distribución tridimensional de sus átomos en el espacio. Esta se representa mediante fórmulas espaciales como las proyecciones de Fischer o de Cuña-aérea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_004",
+      "pregunta": "¿Cuál es el propósito principal de usar paréntesis en una fórmula condensada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Indicar la presencia de enlaces iónicos.",
+        "B": "Señalar la carga neta de la molécula.",
+        "C": "Mostrar la geometría molecular de forma precisa.",
+        "D": "Indicar ramificaciones en la cadena o la presencia de múltiples grupos idénticos.",
+        "E": "Separar los grupos funcionales del resto de la cadena."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En las fórmulas condensadas, los paréntesis se utilizan para agrupar átomos que constituyen una ramificación en la cadena principal o para indicar la repetición de una unidad o grupo idéntico varias veces seguidas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_005",
+      "pregunta": "¿Cuáles de las siguientes son ejemplos de representaciones que muestran la configuración espacial de una molécula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fórmula global y fórmula condensada.",
+        "B": "Fórmula semidesarrollada y fórmula lineal.",
+        "C": "Proyecciones de Fischer y de Cuña-aérea (Wedge-dash).",
+        "D": "Fórmula empírica y fórmula molecular.",
+        "E": "Fórmula condensada y fórmula topológica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las proyecciones de Fischer y las de Cuña-aérea (Wedge-dash) son mencionadas específicamente como ejemplos de fórmulas espaciales que se utilizan para representar la configuración, es decir, la distribución tridimensional de los átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_006",
+      "pregunta": "¿Qué tipo de fórmula se describe como una representación intermedia entre la fórmula global y la desarrollada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fórmula condensada.",
+        "B": "La fórmula semidesarrollada.",
+        "C": "La fórmula lineal o topológica.",
+        "D": "La proyección de Fischer.",
+        "E": "La fórmula de Cuña-aérea."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula semidesarrollada se considera una representación intermedia porque es más detallada que la fórmula global (que solo da el número de átomos), pero más simple que la desarrollada (que muestra todos los enlaces). Omite los enlaces $$\\text{C-H}$$ para mayor claridad, pero mantiene los enlaces $$\\text{C-C}$$ para mostrar la conectividad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_007",
+      "pregunta": "La fórmula $$ \\text{CH}_3-\\text{CH}_2-\\text{CH}_2-\\text{CH}_2-\\text{CH}_2-\\text{CH}_3 $$ es un ejemplo de ¿qué tipo de representación molecular para el hexano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fórmula condensada.",
+        "B": "Fórmula lineal o topológica.",
+        "C": "Proyección de Fischer.",
+        "D": "Fórmula semidesarrollada.",
+        "E": "Fórmula global."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta representación corresponde a una fórmula semidesarrollada. Muestra la secuencia de átomos de carbono y los enlaces entre ellos ($$\\text{C-C}$$), pero omite los enlaces individuales entre carbono e hidrógeno ($$\\text{C-H}$$), agrupando los hidrógenos junto a su respectivo carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_008",
+      "pregunta": "Si una molécula se representa mediante líneas en zigzag donde cada vértice y extremo de línea simboliza un átomo de carbono, ¿qué tipo de fórmula se está utilizando?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fórmula de Cuña-aérea.",
+        "B": "Fórmula condensada.",
+        "C": "Fórmula semidesarrollada.",
+        "D": "Fórmula lineal o topológica.",
+        "E": "Fórmula desarrollada."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta descripción corresponde a la fórmula lineal, topológica o esquelética. Es una forma muy simplificada de dibujar moléculas orgánicas donde el esqueleto de carbono se representa con líneas y los átomos de carbono e hidrógeno se omiten.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_009",
+      "pregunta": "¿Qué información crucial sobre la estructura se obtiene de una fórmula semidesarrollada que no está presente en una fórmula global?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa molar exacta.",
+        "B": "La conectividad y el orden de los átomos de carbono.",
+        "C": "La distribución tridimensional de los átomos.",
+        "D": "El número total de electrones.",
+        "E": "La proporción de cada elemento."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una fórmula global (ej. $$\\text{C}_6\\text{H}_{14}$$) solo informa sobre la cantidad de cada tipo de átomo. En cambio, una fórmula semidesarrollada (ej. $$\\text{CH}_3-\\text{CH}_2-...$$) muestra cómo están enlazados los átomos de carbono entre sí, es decir, la conectividad o esqueleto de la molécula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_010",
+      "pregunta": "En la fórmula condensada $$ \\text{CH}_3\\text{CH}(\\text{CH}_3)\\text{CH}_2\\text{CH}_3 $$, ¿qué indica el grupo $$ (\\text{CH}_3) $$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la molécula es inestable.",
+        "B": "Un grupo metilo que forma una ramificación.",
+        "C": "Una repetición de tres grupos metilo al final.",
+        "D": "Un error tipográfico en la fórmula.",
+        "E": "La presencia de un enlace doble."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una fórmula condensada, un grupo entre paréntesis escrito después de un átomo de carbono (en este caso, después de $$ \\text{CH} $$) indica que dicho grupo está unido como una ramificación a ese carbono de la cadena principal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_011",
+      "pregunta": "¿Qué aspecto de una molécula se puede determinar a partir de una proyección de Cuña-aérea (Wedge-dash) que no es evidente en una fórmula lineal simple?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La cantidad de átomos de carbono.",
+        "B": "La conectividad del esqueleto carbonado.",
+        "C": "La distribución espacial tridimensional de los átomos.",
+        "D": "La presencia de dobles enlaces.",
+        "E": "El número de hidrógenos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Mientras que una fórmula lineal simple muestra la topología (conectividad) de la molécula, una proyección de Cuña-aérea (Wedge-dash) representa la configuración, es decir, la orientación tridimensional de los átomos y enlaces en el espacio (indicando qué enlaces salen hacia el observador y cuáles se alejan).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_012",
+      "pregunta": "Comparando la fórmula condensada con la fórmula lineal, ¿cuál es una ventaja de la fórmula lineal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Muestra explícitamente todos los átomos de hidrógeno.",
+        "B": "Permite una visualización más rápida y clara de la estructura del esqueleto de carbono.",
+        "C": "Es la única que puede representar la configuración espacial.",
+        "D": "Proporciona la masa molecular directamente.",
+        "E": "Es menos ambigua para moléculas muy pequeñas como el metano."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La principal ventaja de la fórmula lineal o topológica es su simplicidad y claridad visual, especialmente para moléculas grandes y complejas. Al omitir los símbolos de C y H, el esqueleto de carbono y sus características estructurales (ciclos, ramificaciones) se aprecian de forma más directa y rápida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_013",
+      "pregunta": "Al analizar la fórmula condensada $$ \\text{CH}_3\\text{CH}_2\\text{C(CH}_3\\text{)}_3 $$, ¿qué se puede inferir sobre la estructura alrededor del átomo de carbono en el fragmento $$ \\text{C(CH}_3\\text{)}_3 $$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es un carbono con un triple enlace a un grupo metilo.",
+        "B": "Representa tres moléculas de metano separadas.",
+        "C": "Es un carbono unido a tres grupos metilo ($$\\text{-CH}_3$$) y al carbono adyacente de la cadena ($$\\text{-CH}_2$$).",
+        "D": "La fórmula es incorrecta, pues un carbono no puede tener 3 sustituyentes.",
+        "E": "Es un carbono al final de una cadena lineal de tres metilos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación $$ \\text{C(CH}_3\\text{)}_3 $$ indica un átomo de carbono central que está enlazado a tres grupos metilo, los cuales están representados dentro del paréntesis con el subíndice 3. Además, este carbono central está unido al resto de la cadena, que en este caso es un grupo $$ \\text{-CH}_2\\text{-} $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_014",
+      "pregunta": "Una representación muestra una molécula únicamente con líneas, omitiendo las etiquetas \"C\" y \"H\". ¿Qué tipo de información NO se puede obtener directamente de esta fórmula lineal sin usar notaciones adicionales como cuñas o líneas discontinuas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La conectividad del esqueleto de carbono.",
+        "B": "El número de hidrógenos en cada carbono (asumiendo su valencia estándar).",
+        "C": "La presencia de ramificaciones en la cadena.",
+        "D": "La configuración espacial o estereoquímica exacta de los átomos.",
+        "E": "La presencia de un ciclo si las líneas forman una figura cerrada."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una fórmula lineal o topológica simple es una representación plana de la conectividad molecular. Muestra qué átomo está unido a cuál, pero no representa la disposición tridimensional (configuración). Para mostrar si un enlace va hacia adelante o hacia atrás del plano, se requieren notaciones espaciales como las de Cuña-aérea (Wedge-dash).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_241_015",
+      "pregunta": "Si un químico necesita comunicar inequívocamente la orientación tridimensional de los sustituyentes alrededor de un átomo de carbono específico, ¿cuál de los siguientes tipos de fórmula sería el más adecuado según la información proporcionada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fórmula condensada, por ser la más compacta.",
+        "B": "La fórmula semidesarrollada, porque muestra los enlaces C-C.",
+        "C": "La fórmula lineal, por su simplicidad visual.",
+        "D": "Una fórmula espacial como la de Cuña-aérea o la proyección de Fischer.",
+        "E": "La fórmula global, porque indica el número total de átomos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para representar la orientación tridimensional de los átomos, es decir, la configuración, se requieren fórmulas espaciales. El contenido menciona explícitamente las proyecciones de Fischer y de Cuña-aérea (Wedge-dash) como ejemplos de estas representaciones, las cuales son fundamentales para describir la estereoquímica de una molécula.",
+      "imagen": null
+    }
+  ]
+}

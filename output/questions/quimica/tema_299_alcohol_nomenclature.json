@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 299,
+  "total_temas": 322,
+  "titulo_tema": "Alcohol Nomenclature",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_299_001",
+      "pregunta": "¿Cómo se clasifica un alcohol que contiene un único grupo hidroxilo ($$-OH$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Poliol",
+        "B": "Diol",
+        "C": "Monool",
+        "D": "Triol",
+        "E": "Alcano"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un alcohol se clasifica como monool si en su estructura molecular solo hay un grupo hidroxilo ($$-OH$$). Los polioles, como los dioles o trioles, tienen dos o más grupos hidroxilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_002",
+      "pregunta": "¿Qué término general se utiliza para describir un alcohol que posee más de un grupo hidroxilo ($$-OH$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Monool",
+        "B": "Hidrocarburo",
+        "C": "Éter",
+        "D": "Poliol",
+        "E": "Aldehído"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término poliol se utiliza para designar a los alcoholes que contienen más de un grupo hidroxilo ($$-OH$$) en su molécula. Dependiendo del número específico de grupos $$-OH$$, pueden ser dioles (dos), trioles (tres), etc.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_003",
+      "pregunta": "Según la nomenclatura IUPAC, ¿qué sufijo reemplaza la terminación \"-o\" del alcano correspondiente para nombrar un alcohol?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-al",
+        "B": "-ol",
+        "C": "-ona",
+        "D": "-ano",
+        "E": "-ilo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de nomenclatura IUPAC para alcoholes indica que el nombre de la cadena principal se forma cambiando la terminación \"-o\" del alcano base por el sufijo \"-ol\". Por ejemplo, de etano se deriva etanol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_004",
+      "pregunta": "Un alcohol que contiene exactamente dos grupos $$-OH$$ en su estructura es un ejemplo específico de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Monool",
+        "B": "Diol",
+        "C": "Triol",
+        "D": "Etanol",
+        "E": "Compuesto saturado simple"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los polioles son alcoholes con más de un grupo hidroxilo. Específicamente, un alcohol con dos grupos $$-OH$$ se denomina diol. Un triol tendría tres, y un monool solo uno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_005",
+      "pregunta": "Al determinar la cadena principal de un alcohol para su nomenclatura IUPAC, ¿qué grupo funcional debe estar obligatoriamente incluido en dicha cadena?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un grupo metilo",
+        "B": "Un doble enlace",
+        "C": "El grupo hidroxilo ($$-OH$$)",
+        "D": "Un halógeno",
+        "E": "La cadena más larga sin importar los grupos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La primera regla de la nomenclatura IUPAC para alcoholes establece que se debe seleccionar la cadena continua más larga de átomos de carbono que contenga el grupo hidroxilo ($$-OH$$). Este grupo funcional define al compuesto como un alcohol y tiene prioridad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_006",
+      "pregunta": "¿Cuál es el criterio fundamental para numerar la cadena de carbono principal en un alcohol, según las reglas de la IUPAC?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Asignar el localizador más bajo posible al primer grupo sustituyente.",
+        "B": "Empezar por el carbono más cercano a un grupo metilo.",
+        "C": "Numerar para que la suma de todos los localizadores sea la mínima posible.",
+        "D": "Asignar el localizador más pequeño posible al carbono que porta el grupo hidroxilo ($$-OH$$).",
+        "E": "Empezar siempre la numeración por el extremo izquierdo de la estructura."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de nomenclatura IUPAC indica que la cadena principal se numera de tal forma que el grupo hidroxilo ($$-OH$$), que es el grupo funcional principal, reciba el número localizador más bajo posible, independientemente de la posición de otros sustituyentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_007",
+      "pregunta": "El compuesto con la fórmula $$CH_3–CH_2OH$$ es un ejemplo de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un poliol",
+        "B": "Un diol",
+        "C": "Un monool",
+        "D": "Un propanol",
+        "E": "Un alcohol secundario"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El compuesto $$CH_3–CH_2OH$$ (etanol) contiene un solo grupo hidroxilo ($$-OH$$), por lo que se clasifica como un monool.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_008",
+      "pregunta": "De acuerdo con su nombre, butano-2,3-diol, ¿cómo se clasifica el compuesto $$CH_3–CHOH–CHOH–CH_3$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como un monool con dos sustituyentes",
+        "B": "Como un poliol",
+        "C": "Como un alcohol primario",
+        "D": "Como un triol",
+        "E": "Como un alcano modificado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estructura $$CH_3–CHOH–CHOH–CH_3$$ posee dos grupos hidroxilo ($$-OH$$). Los alcoholes con más de un grupo $$-OH$$ se clasifican como polioles. El nombre butano-2,3-diol indica una cadena de 4 carbonos (butano) con dos grupos $$-OH$$ (diol), confirmando que es un poliol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_009",
+      "pregunta": "En el nombre IUPAC **4-metilhexan-2-ol**, ¿qué indica el número \"2\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La posición del grupo sustituyente metilo.",
+        "B": "El número total de grupos hidroxilo en la molécula.",
+        "C": "La posición del grupo hidroxilo ($$-OH$$) en la cadena principal.",
+        "D": "El número de átomos de carbono en el sustituyente.",
+        "E": "Que es un alcohol secundario."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la nomenclatura IUPAC de alcoholes, el número que precede al sufijo \"-ol\" (en este caso, \"2-ol\") indica la posición del carbono al que está unido el grupo hidroxilo ($$-OH$$) en la cadena principal. El \"4\" indica la posición del grupo metilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_010",
+      "pregunta": "Al nombrar un alcohol que tiene varios grupos sustituyentes diferentes, ¿qué regla se sigue para ordenarlos en el nombre final?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se nombran en orden de complejidad estructural.",
+        "B": "Se nombran según el orden numérico de su posición en la cadena.",
+        "C": "Se nombran en orden alfabético.",
+        "D": "Se nombran por tamaño, del más pequeño al más grande.",
+        "E": "No hay una regla específica para el orden."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La nomenclatura IUPAC establece que los grupos sustituyentes deben nombrarse en orden alfabético, ignorando prefijos como di-, tri-, etc., al determinar el orden. Cada sustituyente va precedido por su número de posición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_011",
+      "pregunta": "¿Cuál es el primer paso a seguir para nombrar correctamente un alcohol según el sistema IUPAC?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Nombrar los sustituyentes en orden alfabético.",
+        "B": "Seleccionar la cadena continua más larga de átomos de carbono que contenga el grupo $$-OH$$.",
+        "C": "Cambiar la terminación del alcano por \"-ol\".",
+        "D": "Numerar la cadena para dar el número más bajo a los sustituyentes.",
+        "E": "Identificar el número total de grupos hidroxilo presentes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El procedimiento IUPAC para nombrar alcoholes comienza siempre por identificar la cadena principal. Esta debe ser la cadena de carbonos continua más larga que incluya el carbono unido al grupo hidroxilo ($$-OH$$). Los demás pasos, como la numeración y el nombramiento de sustituyentes, se realizan posteriormente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_012",
+      "pregunta": "¿Qué representa la parte \"hexan\" en el nombre **4-metilhexan-2-ol**?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la cadena principal tiene seis átomos de carbono.",
+        "B": "Que el compuesto es un isómero del hexano.",
+        "C": "Que hay un sustituyente con seis carbonos.",
+        "D": "Que el grupo hidroxilo está en una posición par.",
+        "E": "Que el compuesto es cíclico."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La raíz del nombre, derivada del alcano correspondiente, indica el número de átomos de carbono en la cadena principal. \"Hexan\" proviene de \"hexano\", que es el alcano de seis carbonos, por lo tanto, la cadena principal de este alcohol tiene seis carbonos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_013",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para el compuesto con la estructura $$CH_3–CH_2–CH(CH_3)–CH_2–CH(OH)–CH_3$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "3-metilhexan-5-ol",
+        "B": "4-metilhexan-2-ol",
+        "C": "4-metil-2-hexanol",
+        "D": "2-hidroxi-4-metilhexano",
+        "E": "3-metil-5-hexanol"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para nombrar este compuesto, seguimos las reglas IUPAC: 1. La cadena más larga que contiene el $$-OH$$ tiene 6 carbonos (hexano). 2. Se numera desde el extremo derecho para dar al $$-OH$$ el localizador más bajo (posición 2). Si se numerara desde la izquierda, el $$-OH$$ estaría en la posición 5. 3. Hay un grupo metilo en la posición 4. 4. Combinando todo, el nombre es 4-metilhexan-2-ol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_014",
+      "pregunta": "Analizando la estructura $$CH_3–CH_2–CH(CH_3)–CH_2–CH(OH)–CH_3$$, ¿por qué su nombre es 4-metilhexan-2-ol y no 3-metilhexan-5-ol?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el grupo metilo tiene prioridad sobre el grupo hidroxilo.",
+        "B": "Porque la suma de los localizadores (3+5=8) es mayor que (4+2=6).",
+        "C": "Porque la numeración siempre debe empezar por el sustituyente más complejo.",
+        "D": "Porque la regla IUPAC exige dar al grupo hidroxilo ($$-OH$$) el número localizador más bajo posible.",
+        "E": "Porque los sustituyentes deben tener los números más altos posibles."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla principal de numeración para alcoholes es dar la máxima prioridad al grupo funcional hidroxilo ($$-OH$$), asignándole el localizador más bajo posible. Al numerar desde la derecha, el $$-OH$$ queda en la posición 2. Si se numerara desde la izquierda, quedaría en la posición 5. Se elige la numeración que da la posición 2 al $$-OH$$, resultando en el nombre 4-metilhexan-2-ol. Las posiciones de los otros sustituyentes se determinan a partir de esta numeración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_299_015",
+      "pregunta": "Basado en el nombre **butano-2,3-diol**, ¿qué característica estructural se puede inferir correctamente sobre el compuesto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es un monool con dos sustituyentes en una cadena de cuatro carbonos.",
+        "B": "Es una cadena de tres carbonos con un grupo butilo.",
+        "C": "Tiene un grupo hidroxilo en el carbono 2 y un grupo metilo en el carbono 3.",
+        "D": "Es un poliol con una cadena principal de cuatro carbonos y dos grupos $$-OH$$.",
+        "E": "Es un alcohol cíclico de cuatro carbonos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Descomponiendo el nombre: \"butano\" indica una cadena principal de cuatro átomos de carbono. El sufijo \"-diol\" indica la presencia de dos grupos hidroxilo ($$-OH$$), lo que lo clasifica como un poliol. Los números \"2,3\" especifican que un grupo $$-OH$$ está en el carbono 2 y el otro en el carbono 3 de la cadena de butano. Por lo tanto, es un poliol con una cadena de cuatro carbonos y dos grupos $$-OH$$.",
+      "imagen": null
+    }
+  ]
+}

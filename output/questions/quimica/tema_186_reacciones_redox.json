@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 186,
+  "total_temas": 322,
+  "titulo_tema": "Reacciones Redox",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_186_001",
+      "pregunta": "¿Qué se entiende por oxidación en el contexto de una reacción redox?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una ganancia de electrones o una disminución en el número de oxidación.",
+        "B": "Un proceso en el que una sustancia actúa como agente oxidante.",
+        "C": "Una pérdida de electrones o un aumento en el número de oxidación.",
+        "D": "La combinación de una sustancia con oxígeno exclusivamente.",
+        "E": "Un proceso que solo ocurre en presencia de un ácido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La oxidación se define como el proceso en el que una especie química pierde electrones, lo que resulta en un aumento de su número de oxidación. Por ejemplo, cuando el cobre neutro ($$Cu$$) se convierte en el ion cobre ($$Cu^{2+}$$), pierde dos electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_002",
+      "pregunta": "En una reacción redox, ¿qué función cumple un agente reductor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Gana electrones y se reduce.",
+        "B": "Oxida a otras sustancias.",
+        "C": "Reduce a otras sustancias, pierde electrones y se oxida.",
+        "D": "Disminuye su número de oxidación.",
+        "E": "Es la sustancia que acepta protones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un agente reductor es la sustancia que causa la reducción de otra especie. Para hacerlo, el agente reductor debe ceder (perder) electrones, y al perder electrones, él mismo se oxida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_003",
+      "pregunta": "¿Cuál es el estado de oxidación de un átomo en su estado elemental no combinado, como en el caso del sodio ($$Na$$) o del oxígeno molecular ($$O_2$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "+1",
+        "B": "-1",
+        "C": "0",
+        "D": "-2",
+        "E": "Igual a su número atómico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las reglas fundamentales para determinar los estados de oxidación es que cualquier átomo en su forma elemental, es decir, libre y no combinado con otros elementos, tiene un estado de oxidación de cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_004",
+      "pregunta": "¿Qué es la reducción en una reacción redox?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La pérdida de electrones, resultando en un aumento del número de oxidación.",
+        "B": "El proceso por el cual una sustancia se oxida.",
+        "C": "La ganancia de electrones, resultando en una disminución del número de oxidación.",
+        "D": "La eliminación de átomos de hidrógeno de una molécula.",
+        "E": "La descomposición de un compuesto en sus elementos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La reducción es el proceso complementario a la oxidación. Se caracteriza por la ganancia de electrones por parte de una especie química, lo que provoca una disminución en su número de oxidación. Por ejemplo, $$Ag^+ + 1e^- \rightarrow Ag$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_005",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente a un agente oxidante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es una sustancia que se oxida durante la reacción.",
+        "B": "Es una sustancia que pierde electrones.",
+        "C": "Es una sustancia que reduce a otras.",
+        "D": "Es una sustancia que oxida a otras, gana electrones y se reduce.",
+        "E": "Su número de oxidación aumenta."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un agente oxidante es la especie que provoca la oxidación de otra sustancia. Para lograr esto, el agente oxidante debe aceptar (ganar) los electrones cedidos por la otra sustancia, y al ganar electrones, se reduce.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_006",
+      "pregunta": "En la semirreacción $$Ag^+ + 1e^- \rightarrow Ag$$, ¿qué proceso está ocurriendo y qué papel juega el ion $$Ag^+$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Oxidación; $$Ag^+$$ es el agente reductor.",
+        "B": "Reducción; $$Ag^+$$ actúa como agente oxidante.",
+        "C": "Oxidación; $$Ag^+$$ es el agente oxidante.",
+        "D": "Reducción; $$Ag^+$$ actúa como agente reductor.",
+        "E": "Neutralización; $$Ag^+$$ es un ion espectador."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El ion plata ($$Ag^+$$) está ganando un electrón ($$1e^-$$) para convertirse en plata elemental ($$Ag$$). La ganancia de electrones es una reducción. Dado que el $$Ag^+$$ está aceptando electrones y se está reduciendo, actúa como el agente oxidante en la reacción global.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_007",
+      "pregunta": "Según las reglas para balancear ecuaciones redox en medio ácido por el método ion-electrón, ¿cómo se compensa un exceso de átomos de oxígeno en un lado de una semirreacción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Añadiendo iones $$OH^-$$ al mismo lado.",
+        "B": "Añadiendo moléculas de $$H_2O$$ al mismo lado y el doble de $$H^+$$ al lado opuesto.",
+        "C": "Añadiendo moléculas de $$H_2O$$ al lado opuesto y luego iones $$H^+$$ al lado original.",
+        "D": "Añadiendo iones $$O^{2-}$$ al lado con déficit de oxígeno.",
+        "E": "Añadiendo la misma cantidad de moléculas de $$H_2O$$ al lado opuesto y el doble de iones $$H^+$$ al lado con exceso de oxígeno."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para balancear átomos de oxígeno en medio ácido, por cada átomo de oxígeno en exceso en un lado, se añade una molécula de agua ($$H_2O$$) en el lado opuesto. Para balancear los hidrógenos introducidos con el agua, se añaden iones hidrógeno ($$H^+$$) en el lado contrario. La regla especifica que se compensa el exceso de oxígeno con igual número de $$H_2O$$ en el otro extremo y se coloca el doble de iones $$H^+$$ en el extremo contrario al agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_008",
+      "pregunta": "¿Por qué es necesario que en toda reacción de oxidación se produzca simultáneamente una de reducción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque los electrones no pueden crearse ni destruirse, solo transferirse.",
+        "B": "Porque el oxígeno siempre está presente para aceptar electrones.",
+        "C": "Porque las leyes de la termodinámica así lo exigen.",
+        "D": "Porque los agentes reductores y oxidantes siempre vienen en pares.",
+        "E": "Porque todas las reacciones químicas deben conservar la masa."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las reacciones redox son procesos de transferencia de electrones. La oxidación es la pérdida de electrones y la reducción es la ganancia de electrones. Para que una sustancia pierda electrones, debe haber otra que los acepte. Por lo tanto, los electrones no pueden quedar libres; se transfieren de una especie a otra, haciendo que ambos procesos sean simultáneos e interdependientes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_009",
+      "pregunta": "De acuerdo con las reglas de asignación, ¿cuál es el estado de oxidación del oxígeno en los peróxidos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "0",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2",
+        "E": "-1"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Aunque el estado de oxidación más común del oxígeno en los compuestos es -2, en los peróxidos (como el peróxido de hidrógeno, $$H_2O_2$$), su estado de oxidación es -1. Esta es una excepción importante a la regla general.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_010",
+      "pregunta": "En el balanceo de ecuaciones redox, ¿cuál es el propósito de igualar el número de electrones en las semirreacciones de oxidación y reducción antes de sumarlas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para asegurar que la carga total de la ecuación final sea cero.",
+        "B": "Para simplificar los coeficientes estequiométricos.",
+        "C": "Para cumplir con la ley de conservación de la carga, asegurando que los electrones perdidos sean iguales a los ganados.",
+        "D": "Para balancear el número de átomos de oxígeno e hidrógeno.",
+        "E": "Para determinar cuál es el reactivo limitante en la reacción."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio fundamental de una reacción redox es la transferencia de electrones. La ley de conservación de la carga dicta que el número total de electrones perdidos en la semirreacción de oxidación debe ser exactamente igual al número total de electrones ganados en la semirreacción de reducción. Igualar los electrones garantiza que este principio se cumpla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_011",
+      "pregunta": "Para un ion monoatómico como $$Li^+$$, ¿cuál es su estado de oxidación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "0",
+        "B": "Igual a la carga del ion.",
+        "C": "Depende del compuesto en el que se encuentre.",
+        "D": "-1",
+        "E": "Igual a su número de grupo en la tabla periódica."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una de las reglas para la asignación de estados de oxidación establece que para iones formados por un solo átomo (monoatómicos), el estado de oxidación es idéntico a la carga neta del ion. Por lo tanto, para $$Li^+$$, el estado de oxidación es +1.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_012",
+      "pregunta": "Al balancear una reacción en medio básico por el método ion-electrón, ¿qué especies químicas se utilizan para balancear los átomos de oxígeno e hidrógeno que no están balanceados?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Solo $$H_2O$$.",
+        "B": "$$H^+$$ y $$H_2O$$.",
+        "C": "$$OH^-$$ y $$H_2O$$.",
+        "D": "Solo $$OH^-$$.",
+        "E": "$$O_2$$ y $$H_2$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el método ion-electrón en medio básico, las reglas específicas dictan el uso de moléculas de agua ($$H_2O$$) y de iones hidróxido ($$OH^-$$) para conseguir el balance de masa de los átomos de oxígeno y de hidrógeno en las semirreacciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_013",
+      "pregunta": "En la reacción $$KMnO_4 + KI + H_2O \rightarrow MnO_2 + I_2 + KOH$$, ¿cuál es el cambio en el estado de oxidación del manganeso ($$Mn$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "De +7 a +2",
+        "B": "De +6 a +4",
+        "C": "De +7 a +4",
+        "D": "De +5 a +2",
+        "E": "De +4 a +7"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para determinar el cambio, calculamos el estado de oxidación (E.O.) del $$Mn$$ en los reactivos y productos. En $$KMnO_4$$, el potasio ($$K$$) es +1 y cada oxígeno ($$O$$) es -2. La suma debe ser cero: $$(+1) + E.O.(Mn) + 4(-2) = 0$$, lo que da $$E.O.(Mn) = +7$$. En $$MnO_2$$, cada oxígeno es -2. La suma debe ser cero: $$E.O.(Mn) + 2(-2) = 0$$, lo que da $$E.O.(Mn) = +4$$. Por lo tanto, el estado de oxidación del manganeso cambia de +7 a +4, lo que indica una reducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_014",
+      "pregunta": "Dada la semirreacción de reducción en medio básico: $$(MnO_4)^- \rightarrow MnO_2$$. ¿Cuál es la semirreacción balanceada correctamente incluyendo electrones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$(MnO_4)^- + 4H^+ + 3e^- \rightarrow MnO_2 + 2H_2O$$",
+        "B": "$$(MnO_4)^- + 2H_2O \rightarrow MnO_2 + 4OH^- + 3e^-$$",
+        "C": "$$(MnO_4)^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-$$",
+        "D": "$$(MnO_4)^- + 3e^- \rightarrow MnO_2 + 2O^{2-}$$",
+        "E": "$$(MnO_4)^- + 4e^- \rightarrow MnO_2 + O_2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Siguiendo los pasos de balanceo en medio básico del ejemplo proporcionado: 1. Balance de masa para $$Mn$$ ya está hecho. 2. Para balancear oxígenos e hidrógenos, se añaden $$2H_2O$$ a la izquierda y $$4OH^-$$ a la derecha, quedando: $$(MnO_4)^- + 2H_2O \rightarrow MnO_2 + 4OH^-$$. 3. Se balancea la carga: el lado izquierdo tiene una carga total de -1, y el derecho de -4. Para igualarlas, se añaden 3 electrones ($$3e^-$$) al lado izquierdo (el más positivo). La semirreacción final balanceada es: $$(MnO_4)^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_186_015",
+      "pregunta": "En la reacción global balanceada $$2KMnO_4 + 6KI + 4H_2O \rightarrow 2MnO_2 + 3I_2 + 8KOH$$, ¿cuántos electrones en total se transfieren del agente reductor al agente oxidante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "6",
+        "E": "8"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para encontrar el número total de electrones transferidos, se analizan las semirreacciones balanceadas. La semirreacción de oxidación es $$2I^- \rightarrow I_2 + 2e^-$$. La semirreacción de reducción es $$(MnO_4)^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-$$. Para que el número de electrones perdidos y ganados sea el mismo, la primera semirreacción se multiplica por 3 ($$6e^-$$ perdidos) y la segunda por 2 ($$6e^-$$ ganados). Por lo tanto, el número total de electrones transferidos en la reacción es 6.",
+      "imagen": null
+    }
+  ]
+}

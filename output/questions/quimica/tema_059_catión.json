@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 59,
+  "total_temas": 322,
+  "titulo_tema": "Catión",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_059_001",
+      "pregunta": "¿Qué es un catión?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un ion con carga positiva formado por la pérdida de electrones.",
+        "B": "Un ion con carga negativa formado por la ganancia de electrones.",
+        "C": "Un átomo eléctricamente neutro.",
+        "D": "Cualquier partícula subatómica con masa.",
+        "E": "Un átomo que ha ganado protones."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Un catión se define como un ion que tiene una carga eléctrica positiva. Esta carga positiva es el resultado de que un átomo neutro ha perdido uno o más de sus electrones. Al tener menos electrones (carga negativa) que protones (carga positiva) en su núcleo, la carga neta de la partícula es positiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_002",
+      "pregunta": "¿Qué característica define a una partícula como un ión?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ser eléctricamente neutra.",
+        "B": "Ser una partícula cargada eléctricamente.",
+        "C": "Tener siempre más electrones que protones.",
+        "D": "Ser un átomo de un elemento no metálico.",
+        "E": "Tener el mismo número de protones y neutrones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un ión es, por definición, una partícula (átomo o grupo de átomos) que posee una carga eléctrica neta. Esta carga se adquiere cuando un átomo neutro gana o pierde electrones. Si pierde electrones, se convierte en un catión (carga positiva); si gana electrones, se convierte en un anión (carga negativa).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_003",
+      "pregunta": "¿Cómo se define a las especies químicas que son isoelectrónicas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son aquellas que tienen el mismo número de protones.",
+        "B": "Son aquellas que tienen la misma masa atómica.",
+        "C": "Son aquellas que poseen igual número de electrones.",
+        "D": "Son aquellas que pertenecen al mismo período de la tabla periódica.",
+        "E": "Son aquellas que tienen una carga eléctrica idéntica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las especies isoelectrónicas son átomos o iones que, a pesar de ser de diferentes elementos o tener diferentes cargas, comparten la misma cantidad total de electrones. Como consecuencia directa, también presentan la misma configuración electrónica en su estado fundamental.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_004",
+      "pregunta": "¿Qué demostraron C. Davison y L. H. Gerber mediante el experimento de difracción de electrones en un cristal de níquel?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que los electrones tienen una carga de $$1.6022 \\times 10^{-19} \\text{ C}$$.",
+        "B": "Que la masa del electrón es de $$9.1 \\times 10^{-28} \\text{ g}$$.",
+        "C": "Que los electrones poseen propiedades ondulatorias.",
+        "D": "Que es imposible conocer la posición y el momento de un electrón simultáneamente.",
+        "E": "Que los electrones solo se comportan como partículas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El experimento de Davison y Gerber fue crucial para confirmar la hipótesis de Louis de Broglie. Al observar que un haz de electrones era difractado por un cristal de níquel, un fenómeno característico de las ondas, demostraron que los electrones no solo se comportan como partículas, sino que también exhiben propiedades ondulatorias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_005",
+      "pregunta": "¿Qué es un anión?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un ion con carga positiva.",
+        "B": "Un ion con carga negativa.",
+        "C": "Un átomo que ha perdido electrones.",
+        "D": "Una partícula sin carga eléctrica.",
+        "E": "Un átomo con igual número de protones y electrones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un anión es un ion que posee una carga eléctrica neta negativa. Este tipo de ion se forma cuando un átomo neutro gana uno o más electrones, resultando en un exceso de carga negativa (electrones) en comparación con la carga positiva (protones) del núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_006",
+      "pregunta": "¿Cómo se obtiene la configuración electrónica de un catión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se calcula el número total de electrones del ion y se realiza la distribución.",
+        "B": "Se realiza la configuración del átomo neutro y luego se quitan los electrones del último nivel y de mayor energía.",
+        "C": "Se realiza la configuración del átomo neutro y luego se quitan los electrones del primer nivel de energía.",
+        "D": "Se suman los electrones perdidos al número atómico y se configura el resultado.",
+        "E": "Se realiza la configuración del anión correspondiente y se invierte el proceso."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El procedimiento correcto para determinar la configuración electrónica de un catión es un proceso de dos pasos: primero, se escribe la configuración electrónica completa del átomo neutro original. Segundo, se eliminan los electrones que indica la carga positiva, comenzando siempre por aquellos en el nivel de energía más alto (el último nivel) y, dentro de este, los de mayor energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_007",
+      "pregunta": "El principio de incertidumbre de Heisenberg establece la imposibilidad de determinar con exactitud y de forma simultánea:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga y la masa de un electrón.",
+        "B": "La naturaleza de onda y partícula de un electrón.",
+        "C": "El momento y la posición de un electrón.",
+        "D": "El número de protones y neutrones en un núcleo.",
+        "E": "La energía total y la velocidad de un electrón."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de incertidumbre, formulado por Werner Heisenberg, es un pilar de la mecánica cuántica. Establece que existe un límite fundamental para la precisión con la que se pueden conocer simultáneamente ciertos pares de propiedades físicas de una partícula, como son su momento (producto de su masa y velocidad) y su posición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_008",
+      "pregunta": "Basado en los datos proporcionados, ¿cómo se calculó la masa del electrón ($$9.1 \\times 10^{-28} \\text{ g}$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Combinando la relación carga/masa de Thomson con la medida de la carga del electrón de Millikan.",
+        "B": "Midiendo directamente la masa en el experimento de la gota de aceite.",
+        "C": "A partir de la predicción de la longitud de onda de Louis de Broglie.",
+        "D": "Utilizando el principio de incertidumbre de Heisenberg.",
+        "E": "Observando la difracción de electrones en un cristal de níquel."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La masa del electrón no se midió directamente en un inicio. Se calculó utilizando dos piezas de información experimental: 1) la relación entre la carga y la masa ($$e/m$$) determinada por J. J. Thomson y 2) la carga fundamental del electrón ($$e$$) medida por R. A. Millikan. Al dividir la carga ($$e$$) entre la relación carga/masa ($$e/m$$), se pudo aislar y calcular el valor de la masa ($$m$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_009",
+      "pregunta": "¿Cuál fue la predicción fundamental hecha por Louis de Broglie en 1925?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La existencia de los iones positivos y negativos.",
+        "B": "Que una partícula con masa $m$ y velocidad $v$ tiene una longitud de onda asociada.",
+        "C": "El valor exacto de la carga del electrón.",
+        "D": "La imposibilidad de medir con precisión la posición y el momento de una partícula.",
+        "E": "La relación carga/masa del electrón es de $$-1.76 \\times 10^8 \\text{ C/g}$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Louis de Broglie propuso la hipótesis de la dualidad onda-partícula para la materia. Predijo que, al igual que la luz puede comportarse como onda y partícula, cualquier partícula en movimiento con una masa $m$ y una velocidad $v$ también debería tener una longitud de onda asociada, uniendo así los mundos de la materia y las ondas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_010",
+      "pregunta": "¿Qué valor determinó J. J. Thomson para la relación entre la carga y la masa del electrón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1.6022 \\times 10^{-19} \\text{ C}$$",
+        "B": "$$9.1 \\times 10^{-28} \\text{ g}$$",
+        "C": "$$-1.76 \\times 10^8 \\text{ C/g}$$",
+        "D": "$$1.76 \\times 10^8 \\text{ C/g}$$",
+        "E": "$$-1.6022 \\times 10^{-19} \\text{ C}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Mediante sus experimentos con tubos de rayos catódicos, J. J. Thomson logró determinar la relación entre la carga eléctrica (en Coulombs, C) y la masa (en gramos, g) de un electrón. El valor que obtuvo fue de $$-1.76 \\times 10^8 \\text{ C/g}$$, indicando una gran carga para una masa muy pequeña, y que la carga era negativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_011",
+      "pregunta": "¿Cuál es el procedimiento correcto para determinar la configuración electrónica de un anión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Realizar la configuración del átomo neutro y luego quitar electrones.",
+        "B": "Configurar únicamente los electrones ganados.",
+        "C": "Realizar la configuración del átomo neutro y no hacer cambios.",
+        "D": "Calcular el número total de electrones (del átomo neutro más los ganados) y luego realizar la distribución.",
+        "E": "Realizar la configuración del átomo neutro y añadir los electrones al primer nivel de energía."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para escribir la configuración electrónica de un anión, el método correcto consiste en un solo paso principal: primero se determina el número total de electrones que posee el ion, sumando los electrones del átomo neutro original más los electrones adicionales que ha ganado. Luego, se realiza la distribución electrónica estándar para ese número total de electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_012",
+      "pregunta": "El hecho de que un cristal de níquel difractara electrones confirmó que estos tienen...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "una carga negativa específica.",
+        "B": "una masa muy pequeña.",
+        "C": "propiedades ondulatorias.",
+        "D": "una posición y momento inciertos.",
+        "E": "la capacidad de formar cationes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La difracción es un fenómeno que ocurre cuando una onda se encuentra con un obstáculo o una rendija. Es una propiedad exclusiva de las ondas. Por lo tanto, al observar que los electrones podían ser difractados, se concluyó inequívocamente que, además de ser partículas, los electrones también exhiben un comportamiento ondulatorio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_013",
+      "pregunta": "¿Por qué es fundamental realizar primero la configuración del átomo neutro antes de quitar electrones para formar un catión?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el orden de llenado de orbitales no es necesariamente el orden inverso de pérdida de electrones.",
+        "B": "Porque la carga del núcleo cambia al formar el catión.",
+        "C": "Este procedimiento es solo una convención sin base física.",
+        "D": "Porque el número de electrones total aumenta.",
+        "E": "Porque es más sencillo memorizar una sola regla para cationes y aniones."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El procedimiento de configurar el átomo neutro primero y luego quitar electrones es crucial porque los electrones se pierden desde el nivel de energía más externo (el de mayor número cuántico principal), no necesariamente desde el último subnivel que se llenó. Por ejemplo, en los metales de transición, los electrones $s$ del nivel más externo se pierden antes que los electrones $d$ del nivel interior, aunque los orbitales $d$ se llenen después de los $s$. Configurar el átomo neutro primero asegura que se identifique correctamente el nivel más externo para la eliminación de electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_014",
+      "pregunta": "Un átomo X pierde dos electrones y un átomo Y gana un electrón. ¿Cuál de las siguientes afirmaciones describe correctamente a las especies resultantes, $X$ e $Y$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "X se convierte en un anión con carga $$-2$$, Y se convierte en un catión con carga $$+1$$.",
+        "B": "X se convierte en un catión con carga $$+2$$, Y se convierte en un anión con carga $$-1$$.",
+        "C": "Ambos se convierten en cationes con cargas $$+2$$ y $$+1$$ respectivamente.",
+        "D": "Ambos se convierten en aniones con cargas $$-2$$ y $$-1$$ respectivamente.",
+        "E": "Las especies resultantes X e Y son necesariamente isoelectrónicas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La formación de iones se basa en la ganancia o pérdida de electrones. Un catión se forma por la pérdida de electrones, resultando en una carga positiva. Dado que el átomo X pierde dos electrones, se convierte en un catión con una carga de $$+2$$. Un anión se forma por la ganancia de electrones, resultando en una carga negativa. Como el átomo Y gana un electrón, se convierte en un anión con una carga de $$-1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_059_015",
+      "pregunta": "Considerando la relación carga/masa del electrón ($$e/m$$) y la carga del electrón ($$e$$), ¿qué operación matemática permite calcular la masa del electrón ($$m$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Multiplicar la carga ($$e$$) por la relación ($$e/m$$).",
+        "B": "Dividir la relación ($$e/m$$) entre la carga ($$e$$).",
+        "C": "Sumar la carga ($$e$$) y la relación ($$e/m$$).",
+        "D": "Elevar la carga ($$e$$) al cuadrado y dividir por la masa ($$m$$).",
+        "E": "Dividir la carga ($$e$$) entre la relación ($$e/m$$)."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Este es un problema de análisis dimensional y algebraico. Se tienen dos valores conocidos: la carga, $e$, y la relación carga/masa, $e/m$. El objetivo es despejar la masa, $m$. Algebraicamente, si se divide la carga ($e$) entre la relación carga/masa ($e/m$), la variable de la carga ($e$) se cancela, dejando la masa ($m$) en la posición correcta: $$m = \\frac{e}{e/m}$$. Con los valores numéricos: $$m = \\frac{1.6022 \\times 10^{-19} \\text{ C}}{1.76 \\times 10^8 \\text{ C/g}} \\approx 9.1 \\times 10^{-28} \\text{ g}$$ (ignorando los signos para el cálculo de magnitud).",
+      "imagen": null
+    }
+  ]
+}

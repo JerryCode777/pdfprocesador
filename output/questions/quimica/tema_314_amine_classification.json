@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 314,
+  "total_temas": 322,
+  "titulo_tema": "Amine Classification",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_314_001",
+      "pregunta": "¿Cuál es la estructura general que representa a una amina primaria?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R-NH-R'$$",
+        "B": "$$R-N(R')-R''$$",
+        "C": "$$R-NH_2$$",
+        "D": "$$R-OH$$",
+        "E": "$$R-COOH$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una amina primaria se define por tener un átomo de nitrógeno unido a un solo grupo orgánico (radical, representado por $R$) y a dos átomos de hidrógeno. Su fórmula general es $$R-NH_2$$. La fórmula $$R-NH-R'$$ corresponde a una amina secundaria y $$R-N(R')-R''$$ a una amina terciaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_002",
+      "pregunta": "¿Qué tipo de amina se representa con la fórmula general $$R-N(R')-R''$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Amina primaria",
+        "B": "Amina secundaria",
+        "C": "Amina terciaria",
+        "D": "Amina cuaternaria",
+        "E": "Amida"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula general $$R-N(R')-R''$$ representa una amina terciaria. Esto se debe a que el átomo de nitrógeno está enlazado a tres grupos orgánicos o radicales (representados por $R$, $R'$ y $R''$), sin ningún átomo de hidrógeno directamente unido a él. Las aminas primarias ($$R-NH_2$$) y secundarias ($$R-NH-R'$$) tienen uno y dos grupos orgánicos, respectivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_003",
+      "pregunta": "De acuerdo con la nomenclatura IUPAC, ¿qué sufijo se añade al nombre del radical para nombrar a las aminas primarias?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-ol",
+        "B": "-al",
+        "C": "-ona",
+        "D": "-amina",
+        "E": "-amida"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para nombrar a las aminas primarias según las reglas de la IUPAC, se puede añadir el sufijo '-amina' directamente al nombre del radical alquilo (por ejemplo, etil + amina → etilamina) o se puede reemplazar la terminación '-o' del alcano correspondiente por '-amina' (por ejemplo, etano → etanamina).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_004",
+      "pregunta": "En la nomenclatura de aminas secundarias y terciarias, ¿qué indica el uso de la letra \"N\" como prefijo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que el compuesto es neutro.",
+        "B": "Que el radical indicado está unido directamente al átomo de nitrógeno.",
+        "C": "Que el compuesto es un nitrilo.",
+        "D": "El número de átomos de carbono en la cadena principal.",
+        "E": "La posición de un doble enlace."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la nomenclatura IUPAC de aminas secundarias y terciarias, la letra \"N\" se utiliza como un localizador. Indica que el grupo sustituyente que sigue a la \"N\" está enlazado directamente al átomo de nitrógeno del grupo amino, y no a la cadena de carbono principal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_005",
+      "pregunta": "¿En qué se basa la clasificación de las aminas como primarias, secundarias o terciarias?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En el número de átomos de carbono en la molécula.",
+        "B": "En el número de grupos orgánicos (radicales) unidos al átomo de nitrógeno.",
+        "C": "En el número total de átomos de hidrógeno.",
+        "D": "En la longitud de la cadena de carbono más larga.",
+        "E": "En su estado de agregación (sólido, líquido o gas)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La clasificación de las aminas depende directamente del número de grupos orgánicos (radicales) que están enlazados al átomo de nitrógeno. Si hay un grupo, es primaria ($$R-NH_2$$). Si hay dos, es secundaria ($$R-NH-R'$$). Si hay tres, es terciaria ($$R-N(R')-R''$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_006",
+      "pregunta": "Una molécula con la estructura donde un átomo de nitrógeno está unido a un grupo metilo ($$-CH_3$$), un grupo etilo ($$-CH_2CH_3$$) y un átomo de hidrógeno, se clasifica como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Amina primaria",
+        "B": "Amina secundaria",
+        "C": "Amina terciaria",
+        "D": "Amida",
+        "E": "Nitrilo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La clasificación de una amina depende del número de grupos orgánicos unidos al nitrógeno. En este caso, el nitrógeno está unido a dos grupos orgánicos (metilo y etilo). Por lo tanto, se trata de una amina secundaria, cuya fórmula general es $$R-NH-R'$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_007",
+      "pregunta": "Siguiendo la nomenclatura IUPAC, ¿cuál es el nombre correcto para la amina con la estructura $$CH_3-CH_2-NH_2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Metanamina",
+        "B": "Propanamina",
+        "C": "Etanamida",
+        "D": "Aminoetano",
+        "E": "Etanamina"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La molécula $$CH_3-CH_2-NH_2$$ es una amina primaria. La cadena de hidrocarburo es de dos carbonos (etano). Para nombrarla, se cambia la terminación \"-o\" del hidrocarburo (etano) por \"-amina\". Por lo tanto, el nombre correcto es Etanamina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_008",
+      "pregunta": "¿Cuál es la diferencia fundamental en el número de hidrógenos unidos al nitrógeno entre una amina secundaria y una terciaria?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La secundaria tiene dos hidrógenos y la terciaria tiene uno.",
+        "B": "La secundaria tiene un hidrógeno y la terciaria no tiene ninguno.",
+        "C": "La secundaria no tiene hidrógenos y la terciaria tiene uno.",
+        "D": "Ambas tienen un hidrógeno unido al nitrógeno.",
+        "E": "Ambas carecen de hidrógenos unidos al nitrógeno."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estructura general de una amina secundaria es $$R-NH-R'$$, lo que significa que el átomo de nitrógeno está unido a un átomo de hidrógeno. La estructura de una amina terciaria es $$R-N(R')-R''$$, donde el nitrógeno está unido a tres grupos orgánicos y no tiene ningún átomo de hidrógeno. Por lo tanto, la secundaria tiene un hidrógeno en el nitrógeno y la terciaria, ninguno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_009",
+      "pregunta": "¿Por qué se considera a los radicales más pequeños como sustituyentes en la nomenclatura de aminas secundarias y terciarias?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque los radicales más pequeños son menos importantes químicamente.",
+        "B": "Para establecer una cadena principal y nombrar a los demás grupos como unidos al nitrógeno.",
+        "C": "Porque el nitrógeno siempre debe formar parte del sustituyente.",
+        "D": "Para simplificar el nombre, ignorando los radicales pequeños.",
+        "E": "Porque es una regla arbitraria sin fundamento estructural."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la nomenclatura de aminas no simétricas, se elige la cadena de carbono más larga (o el grupo más complejo) unida al nitrógeno como la cadena principal. Los otros grupos alquilo, que son más pequeños, se consideran sustituyentes que están unidos al átomo de nitrógeno, lo que se indica con el prefijo \"N-\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_010",
+      "pregunta": "Si un átomo de nitrógeno en una amina está unido a un único grupo orgánico y a dos átomos de hidrógeno, ¿a qué clase de amina pertenece?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Amina terciaria",
+        "B": "Amina secundaria",
+        "C": "Amina primaria",
+        "D": "Amida primaria",
+        "E": "Amina cuaternaria"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de una amina primaria es aquella en la que el átomo de nitrógeno está enlazado a un solo grupo orgánico (radical) y dos átomos de hidrógeno. Su fórmula general es $$R-NH_2$$. La descripción coincide exactamente con esta definición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_011",
+      "pregunta": "¿Cuál de las siguientes fórmulas estructurales corresponde a una amina secundaria?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$CH_3-CH_2-CH_2-NH_2$$",
+        "B": "$$CH_3-N(CH_3)-CH_3$$",
+        "C": "$$CH_3-NH-CH_3$$",
+        "D": "$$NH_3$$",
+        "E": "$$CH_3-CH_2-OH$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una amina secundaria tiene dos grupos orgánicos unidos al átomo de nitrógeno. La opción C, $$CH_3-NH-CH_3$$, muestra un nitrógeno unido a dos grupos metilo y un hidrógeno, cumpliendo con la definición. La opción A es una amina primaria, la B es una amina terciaria, la D es amoníaco y la E es un alcohol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_012",
+      "pregunta": "Para nombrar una amina primaria como la etanamina ($$CH_3-CH_2-NH_2$$), ¿qué cambio se realiza en el nombre del hidrocarburo base (etano)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se añade el prefijo \"amino-\".",
+        "B": "Se cambia la terminación \"-ano\" por \"-amina\".",
+        "C": "Se añade el sufijo \"-amina\" sin alterar el nombre.",
+        "D": "Se cambia la terminación \"-o\" por \"-amina\".",
+        "E": "Se elimina la terminación \"-ano\" y se añade \"-ilamina\"."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de nomenclatura IUPAC indica que para nombrar aminas primarias, se puede tomar el nombre del hidrocarburo correspondiente (en este caso, etano) y cambiar la terminación \"-o\" final por el sufijo \"-amina\". Así, \"etano\" se convierte en \"etanamina\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_013",
+      "pregunta": "Al analizar el nombre IUPAC \"N-etilpropanamina\", ¿qué se puede deducir sobre la clasificación de esta amina?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es una amina primaria porque el nombre base es propanamina.",
+        "B": "Es una amina secundaria porque tiene un sustituyente (etil) en el nitrógeno (N).",
+        "C": "Es una amina terciaria porque contiene un grupo etilo y un grupo propilo.",
+        "D": "Es una amina primaria con una ramificación en la cadena principal.",
+        "E": "No se puede determinar la clasificación solo con el nombre."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El nombre \"N-etilpropanamina\" indica dos cosas: la cadena principal es una propanamina (derivada del propano, tres carbonos) y hay un grupo etilo unido al átomo de nitrógeno (indicado por \"N-etil\"). Esto significa que el nitrógeno está unido a un grupo propilo y a un grupo etilo, es decir, a dos grupos orgánicos en total. Por lo tanto, se clasifica como una amina secundaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_014",
+      "pregunta": "Una amina contiene un átomo de nitrógeno unido a dos grupos metilo ($$-CH_3$$) y un grupo etilo ($$-CH_2CH_3$$). ¿Cuál sería su nombre IUPAC correcto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "N,N-dietilmetanamina",
+        "B": "N-metil-N-etanamina",
+        "C": "N,N-dimetiletanamina",
+        "D": "Etilmetilmetilamina",
+        "E": "N-etil-N-metanamina"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En esta amina terciaria, la cadena de carbono más larga unida al nitrógeno es el grupo etilo (dos carbonos). Por lo tanto, la amina principal es la etanamina. Los otros dos grupos, ambos metilos, se consideran sustituyentes en el átomo de nitrógeno. Se nombran usando el prefijo \"N-\" para cada uno, resultando en \"N,N-dimetil\". El nombre completo es N,N-dimetiletanamina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_314_015",
+      "pregunta": "En una amina terciaria asimétrica como $$CH_3-N(C_2H_5)-(C_3H_7)$$, ¿cómo se determina cuál es el \"grupo amino principal\" para la nomenclatura IUPAC?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se elige el radical con menor masa molecular.",
+        "B": "Se elige el radical con la cadena de carbono más larga.",
+        "C": "Se elige el radical que está escrito primero en la fórmula.",
+        "D": "Es arbitrario, se puede elegir cualquiera de los tres radicales.",
+        "E": "Se nombran todos los radicales alfabéticamente seguidos de \"amina\"."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de nomenclatura para aminas secundarias y terciarias establece que se debe identificar el grupo orgánico con la cadena de carbono más larga como el grupo principal. Este grupo da el nombre base a la amina (cambiando la terminación -o del alcano por -amina). Los otros grupos, más pequeños, se nombran como sustituyentes prefijados con la letra \"N\". En el ejemplo, el grupo propilo ($$C_3H_7$$) tiene la cadena más larga, por lo que el nombre base sería propanamina, y los grupos metilo y etilo serían sustituyentes N-metil y N-etil.",
+      "imagen": null
+    }
+  ]
+}

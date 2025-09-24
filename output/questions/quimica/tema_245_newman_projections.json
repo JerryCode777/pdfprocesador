@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 245,
+  "total_temas": 322,
+  "titulo_tema": "Newman Projections",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_245_001",
+      "pregunta": "¿Qué es una conformación en el contexto de la química molecular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La disposición fija y permanente de los átomos en una molécula.",
+        "B": "Las diferentes orientaciones espaciales de los átomos debido a la rotación de enlaces simples.",
+        "C": "La fórmula química que representa el número de átomos de cada elemento.",
+        "D": "La ruptura y formación de nuevos enlaces químicos.",
+        "E": "La forma geométrica de una molécula con enlaces dobles o triples."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una conformación se define como cualquiera de las orientaciones espaciales que pueden adoptar los átomos de una molécula como resultado de la libre rotación alrededor de sus enlaces simples. Estas no implican la ruptura de enlaces, por lo que son interconvertibles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_002",
+      "pregunta": "¿Cómo se denominan las diferentes representaciones espaciales interconvertibles de una molécula que surgen de la rotación de enlaces?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Isómeros",
+        "B": "Alótropos",
+        "C": "Confórmeros",
+        "D": "Polímeros",
+        "E": "Radicales libres"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "A las diferentes representaciones espaciales de una molécula, que son interconvertibles por la rotación de enlaces simples, se les llama confórmeros o isómeros conformacionales. Los isómeros estructurales, en cambio, tienen diferente conectividad de átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_003",
+      "pregunta": "Según su definición fundamental, ¿qué elementos contienen los hidrocarburos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Carbono y oxígeno",
+        "B": "Hidrógeno y nitrógeno",
+        "C": "Carbono, hidrógeno y oxígeno",
+        "D": "Carbono e hidrógeno",
+        "E": "Solamente carbono"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los hidrocarburos son una familia de compuestos orgánicos definidos por contener exclusivamente átomos de carbono e hidrógeno. Son considerados los compuestos orgánicos más simples.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_004",
+      "pregunta": "¿Qué tipo de representación se caracteriza por ofrecer una vista a lo largo de un enlace carbono-carbono?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Representación en cuña",
+        "B": "Estructura de Lewis",
+        "C": "Estructura de caballete",
+        "D": "Fórmula molecular",
+        "E": "Proyección de Newman"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La proyección de Newman es un método de representación que visualiza la molécula mirando directamente a lo largo de un enlace carbono-carbono. Esto permite analizar fácilmente las relaciones espaciales entre los sustituyentes de ambos carbonos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_005",
+      "pregunta": "¿Qué son los hidrocarburos en el campo de la química orgánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Compuestos inorgánicos que contienen carbono.",
+        "B": "Polímeros formados por unidades de agua y carbono.",
+        "C": "Los compuestos orgánicos más simples, que contienen carbono e hidrógeno.",
+        "D": "Moléculas complejas que contienen metales y carbono.",
+        "E": "Sustancias que solo existen en estado gaseoso, como el GLP."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los hidrocarburos son la familia de compuestos orgánicos más simples, constituidos únicamente por átomos de carbono e hidrógeno. Se consideran las sustancias principales de las que se derivan todos los demás compuestos orgánicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_006",
+      "pregunta": "¿Qué fenómeno físico a nivel molecular es la causa principal de la existencia de confórmeros?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La vibración de los enlaces dobles.",
+        "B": "La ruptura de enlaces covalentes.",
+        "C": "La rotación de enlaces simples.",
+        "D": "La transferencia de electrones entre átomos.",
+        "E": "La resonancia de electrones pi."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las diferentes conformaciones de una molécula, o confórmeros, surgen debido a la libre rotación que es posible alrededor de los enlaces simples (enlaces sigma). Esta rotación cambia la orientación espacial de los átomos sin romper ningún enlace.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_007",
+      "pregunta": "En una proyección de Newman para el etano, ¿cuál es el ángulo diedro que corresponde a la conformación eclipsada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$180^{\\circ}$$",
+        "B": "$$90^{\\circ}$$",
+        "C": "$$60^{\\circ}$$",
+        "D": "$$0^{\\circ}$$",
+        "E": "$$120^{\\circ}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La conformación eclipsada se define por tener un ángulo diedro de $$0^{\\circ}$$. En esta disposición, los átomos de hidrógeno del carbono frontal ocultan o eclipsan a los átomos de hidrógeno del carbono posterior cuando se mira a lo largo del enlace C-C.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_008",
+      "pregunta": "¿Qué ángulo diedro se asocia con la conformación alternada del etano en una proyección de Newman?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$0^{\\circ}$$",
+        "B": "$$30^{\\circ}$$",
+        "C": "$$60^{\\circ}$$",
+        "D": "$$90^{\\circ}$$",
+        "E": "$$180^{\\circ}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La conformación alternada del etano se caracteriza por un ángulo diedro de $$60^{\\circ}$$. En esta disposición, los átomos de hidrógeno del carbono frontal están situados exactamente a medio camino entre los hidrógenos del carbono posterior, minimizando la repulsión estérica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_009",
+      "pregunta": "¿Cuál es el papel de los hidrocarburos en relación con otros compuestos orgánicos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son productos de desecho de todas las reacciones orgánicas.",
+        "B": "Son considerados las sustancias principales de las que derivan otros compuestos orgánicos.",
+        "C": "Son catalizadores necesarios para la síntesis de cualquier compuesto orgánico.",
+        "D": "No tienen ninguna relación con otros compuestos orgánicos.",
+        "E": "Son los compuestos orgánicos más complejos y raros."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Debido a su estructura simple de carbono e hidrógeno, los hidrocarburos son considerados la base o las sustancias principales. Otros compuestos orgánicos pueden ser vistos como derivados de los hidrocarburos donde uno o más hidrógenos han sido reemplazados por otros átomos o grupos funcionales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_010",
+      "pregunta": "Además de las representaciones en cuña y las proyecciones de Newman, ¿qué otra estructura se menciona para visualizar las conformaciones del etano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Diagramas de orbitales moleculares",
+        "B": "Estructuras de Fischer",
+        "C": "Modelos de esferas y varillas",
+        "D": "Estructuras de caballete (Sawhorse)",
+        "E": "Fórmulas condensadas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las estructuras de caballete (Sawhorse) son una forma de representación que, al igual que las proyecciones de Newman y las representaciones en cuña, permite visualizar las conformaciones eclipsada y alternada de una molécula como el etano, mostrando el enlace C-C desde un ángulo oblicuo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_011",
+      "pregunta": "¿Cuál de las siguientes sustancias se cita como un ejemplo de hidrocarburo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Agua",
+        "B": "Etanol",
+        "C": "Gasolina",
+        "D": "Dióxido de carbono",
+        "E": "Amoniaco"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La gasolina, cuyo componente principal es el isooctano ($$C_8H_{18}$$), es un ejemplo de hidrocarburo. Tanto el isooctano como otros componentes de la gasolina están formados exclusivamente por carbono e hidrógeno. Las otras opciones contienen oxígeno o nitrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_012",
+      "pregunta": "Al comparar la conformación eclipsada y la alternada para el etano, ¿cuál es la principal diferencia observable en una proyección de Newman?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de átomos de carbono.",
+        "B": "La longitud del enlace carbono-carbono.",
+        "C": "La conectividad de los átomos.",
+        "D": "El ángulo diedro entre los sustituyentes.",
+        "E": "El tipo de enlace (simple, doble o triple)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La diferencia fundamental entre las conformaciones eclipsada y alternada es el ángulo diedro. En la eclipsada, este ángulo es de $$0^{\\circ}$$, lo que significa que los sustituyentes se superponen. En la alternada, es de $$60^{\\circ}$$, lo que indica que están lo más separados posible. La conectividad y el tipo de enlace no cambian.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_013",
+      "pregunta": "Si un confórmero del etano presenta un ángulo diedro de $$0^{\\circ}$$, ¿qué se puede concluir sobre la orientación espacial de sus átomos de hidrógeno?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los hidrógenos del carbono frontal están a la máxima distancia posible de los del carbono posterior.",
+        "B": "Los hidrógenos están en un plano perpendicular al enlace C-C.",
+        "C": "Los hidrógenos del carbono frontal están directamente alineados y superpuestos con los del carbono posterior.",
+        "D": "La molécula ha formado un ciclo y ya no es etano.",
+        "E": "El ángulo diedro es de $$90^{\\circ}$$, no de $$0^{\\circ}$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un ángulo diedro de $$0^{\\circ}$$ define específicamente la conformación eclipsada. En esta disposición, al mirar a lo largo del eje del enlace carbono-carbono, los sustituyentes (en este caso, átomos de hidrógeno) del carbono más cercano están directamente en frente de los sustituyentes del carbono más lejano, eclipsándolos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_014",
+      "pregunta": "El hecho de que los confórmeros sean 'interconvertibles' está directamente relacionado con la naturaleza del enlace simple. ¿Qué implica esta interconvertibilidad?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que se necesita una gran cantidad de energía para romper el enlace y pasar de un confórmero a otro.",
+        "B": "Que la molécula cambia su fórmula química al convertirse.",
+        "C": "Que los confórmeros son estructuras rígidas que no pueden cambiar.",
+        "D": "Que se puede pasar de una conformación a otra mediante la rotación del enlace, sin romperlo.",
+        "E": "Que los confórmeros solo existen a temperaturas extremadamente altas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La interconvertibilidad significa que las diferentes conformaciones pueden transformarse unas en otras. Esto es posible porque la barrera de energía para la rotación alrededor de un enlace simple es baja, permitiendo que la molécula cambie de una conformación (ej. alternada) a otra (ej. eclipsada) continuamente a temperatura ambiente, sin que se rompan enlaces.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_245_015",
+      "pregunta": "Considerando que las conformaciones surgen de la rotación, ¿qué característica estructural es indispensable en una molécula para que pueda presentar confórmeros como el etano?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La presencia de al menos un enlace triple.",
+        "B": "Una estructura molecular perfectamente plana.",
+        "C": "La existencia de al menos un enlace simple (sigma) entre dos átomos de carbono.",
+        "D": "La presencia de átomos de oxígeno o nitrógeno.",
+        "E": "Una estructura en forma de anillo cerrado (cíclica)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de conformación se basa en la rotación de enlaces simples. Por lo tanto, la característica estructural esencial para que existan diferentes confórmeros es la presencia de al menos un enlace simple, como el enlace C-C en el etano, alrededor del cual puede ocurrir la rotación. Los enlaces dobles y triples son rígidos y no permiten esta libre rotación.",
+      "imagen": null
+    }
+  ]
+}

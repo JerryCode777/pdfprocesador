@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 219,
+  "total_temas": 322,
+  "titulo_tema": "Purity of Reactants",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_219_001",
+      "pregunta": "¿Qué representan las impurezas presentes en las sustancias que intervienen en procesos químicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un catalizador que acelera la reacción",
+        "B": "Un peso adicional que no reacciona",
+        "C": "La parte activa de la sustancia",
+        "D": "Un componente que mejora la calidad del producto",
+        "E": "La masa del solvente en la mezcla"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las impurezas son sustancias que no participan en la reacción deseada y representan un peso adicional en la muestra del reactivo, aumentando su masa total sin contribuir a la formación del producto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_002",
+      "pregunta": "¿Cuál es la fórmula para calcular el porcentaje de pureza (% P) de una sustancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\% P = \\frac{\\text{masa de la sustancia con impurezas}}{\\text{masa de la sustancia pura}} \\times 100\\%$$",
+        "B": "$$\\% P = \\frac{\\text{masa de la sustancia pura}}{\\text{masa de la sustancia con impurezas}} \\times 100\\%$$",
+        "C": "$$\\% P = \\frac{\\text{masa de impurezas}}{\\text{masa de la sustancia pura}} \\times 100\\%$$",
+        "D": "$$\\% P = \\left( \\frac{\\text{masa de la sustancia pura}}{\\text{masa total}} \\right) \\div 100$$",
+        "E": "$$\\% P = \\text{masa de la sustancia pura} - \\text{masa de impurezas}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El porcentaje de pureza se define como el cociente entre la masa de la sustancia pura y la masa total de la muestra (sustancia con impurezas), multiplicado por 100 para expresarlo como un porcentaje.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_003",
+      "pregunta": "¿Por qué es importante cuantificar las impurezas antes de realizar un cálculo estequiométrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Para aumentar la velocidad de la reacción",
+        "B": "Para conocer la cantidad real de reactivo puro que participará en la reacción",
+        "C": "Para determinar el color final del producto",
+        "D": "Porque las impurezas son siempre el reactivo limitante",
+        "E": "Para calcular el peso total de la mezcla de reacción"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Es crucial cuantificar las impurezas para determinar la masa exacta del reactivo puro, ya que solo esta cantidad participará en la reacción química. Los cálculos estequiométricos deben basarse en la masa pura para predecir correctamente la cantidad de producto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_004",
+      "pregunta": "¿Cómo afecta la presencia de impurezas al peso total de una muestra de reactivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Disminuye el peso de la sustancia pura",
+        "B": "No afecta el peso total",
+        "C": "Aumenta el peso total de la muestra en comparación con la sustancia pura",
+        "D": "Hace que el peso sea variable e impredecible",
+        "E": "Reduce el peso total de la muestra"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las impurezas son materia adicional que se suma a la sustancia pura. Por lo tanto, la masa de la sustancia con impurezas (la muestra total) siempre será mayor que la masa de la sustancia pura que contiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_005",
+      "pregunta": "Si una muestra de 40 g de carbonato de calcio ($CaCO_3$) tiene un 90% de pureza, ¿qué significa este porcentaje?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que el 90% de la muestra son impurezas",
+        "B": "Que la reacción tendrá un 90% de rendimiento",
+        "C": "Que solo el 10% de la muestra es $CaCO_3$ puro",
+        "D": "Que de los 40 g totales, el 90% es $CaCO_3$ puro y el 10% son impurezas",
+        "E": "Que el 90% de la masa del producto final serán impurezas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un porcentaje de pureza del 90% indica la proporción de la sustancia de interés en la muestra total. En este caso, significa que el 90% de la masa total de 40 g corresponde a $CaCO_3$ puro, mientras que el 10% restante son impurezas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_006",
+      "pregunta": "Dada una muestra de 40 g de carbonato de calcio ($CaCO_3$) al 90% de pureza, ¿cuál es el cálculo correcto para encontrar la masa de $CaCO_3$ puro?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$X = 40 \\text{ g} \\times \\frac{100}{90}$$",
+        "B": "$$X = 40 \\text{ g} \\times (100 - 90)$$",
+        "C": "$$X = 40 \\text{ g} \\times \\frac{90}{100}$$",
+        "D": "$$X = \\frac{40 \\text{ g}}{90}$$",
+        "E": "$$X = 40 \\text{ g} - 90$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para encontrar la masa de la sustancia pura, se multiplica la masa total de la muestra por la fracción de pureza. El 90% se expresa como la fracción $$\\frac{90}{100}$$. Por lo tanto, el cálculo correcto es $$40 \\text{ g} \\times \\frac{90}{100} = 36 \\text{ g}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_007",
+      "pregunta": "En un cálculo estequiométrico para la reacción $$CaCO_3 \\rightarrow CaO + CO_2$$, ¿qué cantidad se debe usar como punto de partida si se inicia con 40 g de $CaCO_3$ al 90% de pureza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "40 g de $CaCO_3$ impuro",
+        "B": "36 g de $CaCO_3$ puro",
+        "C": "4 g de impurezas",
+        "D": "20.2 g de $CaO$",
+        "E": "56 g de $CaO$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los cálculos estequiométricos se basan en las proporciones molares de las sustancias puras que reaccionan. Por lo tanto, el primer paso es calcular la masa del reactivo puro (36 g de $CaCO_3$) y usar ese valor para determinar la cantidad de producto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_008",
+      "pregunta": "Si una muestra de 50 g de un reactivo contiene 5 g de impurezas, ¿cuál es su porcentaje de pureza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "10%",
+        "B": "50%",
+        "C": "80%",
+        "D": "90%",
+        "E": "95%"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Primero, se calcula la masa de la sustancia pura: $$50 \\text{ g total} - 5 \\text{ g impurezas} = 45 \\text{ g puros}$$. Luego, se aplica la fórmula de pureza: $$\\frac{45 \\text{ g puros}}{50 \\text{ g totales}} \\times 100\\% = 90\\%$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_009",
+      "pregunta": "Según la información estequiométrica proporcionada, ¿qué relación de masa existe entre el $CaCO_3$ puro y el $CaO$ producido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "100 g de $CaCO_3$ producen 100 g de $CaO$",
+        "B": "100 g de $CaCO_3$ producen 44 g de $CaO$",
+        "C": "56 g de $CaCO_3$ producen 100 g de $CaO$",
+        "D": "100 g de $CaCO_3$ producen 56 g de $CaO$",
+        "E": "40 g de $CaCO_3$ producen 90 g de $CaO$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La información de las masas molares para la reacción balanceada indica que por cada 100 g de $CaCO_3$ que reaccionan, se producen 56 g de $CaO$. Esta es la relación estequiométrica fundamental para los cálculos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_010",
+      "pregunta": "Si no se considera la pureza y se usan los 40 g completos de la muestra impura de $CaCO_3$ en el cálculo, ¿cómo sería la cantidad teórica de $CaO$ calculada en comparación con la cantidad real que se obtendría?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sería menor que la real",
+        "B": "Sería exactamente la misma",
+        "C": "Sería mayor que la real",
+        "D": "Sería la mitad de la real",
+        "E": "No se puede predecir"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al usar la masa total impura (40 g) en lugar de la masa pura (36 g), se estaría asumiendo que hay más reactivo del que realmente reaccionará. Esto llevaría a un cálculo teórico de producto ($CaO$) sobreestimado, es decir, mayor que la cantidad que se puede obtener en la realidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_011",
+      "pregunta": "En el ejemplo, 36 g de $CaCO_3$ puro producen 20.2 g de $CaO$. ¿Por qué la masa de producto es menor que la masa de reactivo puro?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque parte del reactivo se pierde como impureza",
+        "B": "Porque el otro producto, $CO_2$, también tiene masa y se libera como gas",
+        "C": "Porque la reacción tiene un rendimiento bajo",
+        "D": "Porque el peso atómico del Calcio es mayor que el del Carbono",
+        "E": "Es un error de cálculo en el ejemplo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ley de conservación de la masa establece que la masa total de los reactivos es igual a la masa total de los productos. En la descomposición del $CaCO_3$, la masa inicial se divide entre dos productos: $CaO$ (sólido) y $CO_2$ (gas). Por lo tanto, la masa de uno de los productos ($CaO$) debe ser menor que la masa total del reactivo inicial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_012",
+      "pregunta": "Si se tienen 200 g de una muestra de $CaCO_3$ con un 80% de pureza, ¿cuál es la masa de impurezas en la muestra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "20 g",
+        "B": "40 g",
+        "C": "80 g",
+        "D": "160 g",
+        "E": "180 g"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si la pureza es del 80%, el porcentaje de impurezas es del 20% ($$100\\% - 80\\% = 20\\%$$). La masa de impurezas se calcula como el 20% de la masa total: $$200 \\text{ g} \\times \\frac{20}{100} = 40 \\text{ g}$$. Alternativamente, la masa pura es $$200 \\times 0.80 = 160 \\text{ g}$$, y la masa de impurezas es $$200 \\text{ g} - 160 \\text{ g} = 40 \\text{ g}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_013",
+      "pregunta": "Considerando la reacción $$CaCO_3 \\rightarrow CaO + CO_2$$, ¿qué peso de óxido de calcio ($CaO$) se obtiene a partir de 60 g de carbonato de calcio ($CaCO_3$) al 80% de pureza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "48.0 g",
+        "B": "33.6 g",
+        "C": "26.9 g",
+        "D": "60.0 g",
+        "E": "12.0 g"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "1. Calcular la masa pura de $CaCO_3$: $$60 \\text{ g de muestra} \\times \\frac{80}{100} = 48 \\text{ g de } CaCO_3 \\text{ puro}$$. 2. Usar la relación estequiométrica (100 g de $CaCO_3$ producen 56 g de $CaO$) para calcular la masa de $CaO$: $$48 \\text{ g } CaCO_3 \\times \\frac{56 \\text{ g } CaO}{100 \\text{ g } CaCO_3} = 26.88 \\text{ g de } CaO$$, que se redondea a 26.9 g.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_014",
+      "pregunta": "Si en la reacción $$CaCO_3 \\rightarrow CaO + CO_2$$ se obtienen 22.4 g de $CaO$ a partir de una muestra de $CaCO_3$ con 80% de pureza, ¿cuál era la masa inicial de la muestra impura?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "32.0 g",
+        "B": "40.0 g",
+        "C": "44.8 g",
+        "D": "50.0 g",
+        "E": "56.0 g"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "1. Calcular la masa pura de $CaCO_3$ necesaria para producir 22.4 g de $CaO$, usando la relación inversa: $$22.4 \\text{ g } CaO \\times \\frac{100 \\text{ g } CaCO_3}{56 \\text{ g } CaO} = 40 \\text{ g de } CaCO_3 \\text{ puro}$$. 2. Sabiendo que estos 40 g representan el 80% de la muestra total, se calcula la masa de la muestra impura: $$\\frac{40 \\text{ g puro}}{80} \\times 100 = 50 \\text{ g de muestra impura}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_219_015",
+      "pregunta": "Se realizan dos experimentos. En el primero, se usan 100 g de $CaCO_3$ al 90% de pureza. En el segundo, se usan 90 g de $CaCO_3$ que es 100% puro. ¿Cómo se compara la cantidad de $CaO$ producida en ambos experimentos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El primero produce más $CaO$",
+        "B": "El segundo produce más $CaO$",
+        "C": "Ambos producen la misma cantidad de $CaO$",
+        "D": "No se puede determinar sin conocer el rendimiento",
+        "E": "El primero produce 10% menos $CaO$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El factor clave para la cantidad de producto es la masa de reactivo puro. En el primer experimento, la masa pura es $$100 \\text{ g} \\times \\frac{90}{100} = 90 \\text{ g de } CaCO_3$$. En el segundo experimento, la muestra ya es 100% pura, por lo que la masa pura es 90 g de $CaCO_3$. Dado que la masa de reactivo puro es la misma en ambos casos (90 g), la cantidad de $CaO$ producida será idéntica.",
+      "imagen": null
+    }
+  ]
+}

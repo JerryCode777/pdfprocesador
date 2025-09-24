@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 277,
+  "total_temas": 322,
+  "titulo_tema": "Cycloalkyne Nomenclature",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_277_001",
+      "pregunta": "¿Qué tipo de enlace es característico y debe estar presente en la estructura de un cicloalquino?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un enlace simple",
+        "B": "Un enlace doble",
+        "C": "Un triple enlace",
+        "D": "Un enlace iónico",
+        "E": "Un enlace cuádruple"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de un cicloalquino establece que es un hidrocarburo de cadena cerrada que presenta como mínimo un triple enlace entre sus átomos de carbono. Esta es su característica funcional distintiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_002",
+      "pregunta": "Los cicloalquinos son hidrocarburos formados exclusivamente por átomos de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Carbono y oxígeno",
+        "B": "Carbono y nitrógeno",
+        "C": "Hidrógeno y oxígeno",
+        "D": "Carbono e hidrógeno",
+        "E": "Carbono, hidrógeno y azufre"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Como hidrocarburos, los cicloalquinos están compuestos únicamente por átomos de carbono e hidrógeno. El prefijo 'hidro-' se refiere al hidrógeno y '-carburo' se refiere al carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_003",
+      "pregunta": "¿Cuál es la fórmula general que describe a los cicloalquinos, siendo $n$ el número de átomos de carbono?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$C_nH_{2n+2}$$",
+        "B": "$$C_nH_{2n}$$",
+        "C": "$$C_nH_{2n-2}$$",
+        "D": "$$C_nH_{2n-4}$$",
+        "E": "$$C_nH_n$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula general para los cicloalquinos es $$C_nH_{2n-4}$$. Esta fórmula representa la insaturación debida tanto a la formación del anillo (que quita 2 hidrógenos) como a la presencia del triple enlace (que quita otros 2 hidrógenos) en comparación con un alcano de cadena abierta ($$C_nH_{2n+2}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_004",
+      "pregunta": "Al nombrar un cicloalquino, ¿qué posiciones se asignan siempre a los carbonos del triple enlace?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las posiciones más bajas posibles, cualesquiera que sean.",
+        "B": "Las posiciones 1 y 3.",
+        "C": "Las posiciones opuestas en el anillo.",
+        "D": "Las posiciones 1 y 2.",
+        "E": "No se les asigna una posición fija."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las reglas de nomenclatura para cicloalquinos establecen que la numeración del anillo siempre debe comenzar de tal manera que el triple enlace se encuentre entre los carbonos 1 y 2.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_005",
+      "pregunta": "¿Qué característica geométrica del grupo alquino dificulta la formación de anillos pequeños?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Su forma tetraédrica",
+        "B": "Su estructura colineal",
+        "C": "Su naturaleza polar",
+        "D": "Su alta reactividad",
+        "E": "Su ángulo de enlace de 120°"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El grupo alquino (dos carbonos con triple enlace y sus sustituyentes inmediatos) tiene una disposición colineal, es decir, sus cuatro átomos forman una línea recta. Curvar esta estructura lineal para formar un anillo pequeño genera una gran tensión, haciendo que la molécula sea inestable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_006",
+      "pregunta": "¿Por qué razón los cicloalquinos son considerados compuestos raros en la química orgánica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el triple enlace es inherentemente débil y se rompe con facilidad.",
+        "B": "Porque reaccionan violentamente con el agua.",
+        "C": "Porque la estructura lineal del grupo alquino es difícil de curvar para formar un anillo.",
+        "D": "Porque solo pueden existir en estado gaseoso.",
+        "E": "Porque requieren metales nobles como catalizadores para su síntesis."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cicloalquinos son raros debido a la tensión estructural que implica forzar a los cuatro átomos colineales del grupo alquino a formar parte de un anillo. Esta tensión es especialmente alta en anillos pequeños, lo que los hace inestables o imposibles de formar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_007",
+      "pregunta": "¿Cuál es el número mínimo de átomos de carbono que debe tener un anillo para que un cicloalquino sea considerado estable?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tres o más",
+        "B": "Cinco o más",
+        "C": "Seis o más",
+        "D": "Siete o más",
+        "E": "Ocho o más"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Los cicloalquinos son estables solo si el anillo es suficientemente grande para acomodar la geometría lineal del triple enlace sin una tensión excesiva. Se considera que esto ocurre en anillos con ocho o más átomos de carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_008",
+      "pregunta": "Al nombrar un cicloalquino con sustituyentes, ¿cuál es el criterio para continuar la numeración del anillo después de asignar C1 y C2 al triple enlace?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Numerar en la dirección que dé el número más bajo al sustituyente más grande.",
+        "B": "Numerar en la dirección que dé el número más bajo al primer sustituyente encontrado.",
+        "C": "Numerar siempre en el sentido de las agujas del reloj.",
+        "D": "Numerar en la dirección que asigne los números más bajos a todos los sustituyentes en conjunto.",
+        "E": "Numerar en orden alfabético de los sustituyentes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de nomenclatura establece que, una vez asignadas las posiciones 1 y 2 al triple enlace, el anillo se numera en la dirección que otorgue al primer sustituyente el localizador (número) más bajo posible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_009",
+      "pregunta": "¿Por qué no se especifica la posición del triple enlace en el nombre de un cicloalquino como 'ciclooct-1-ino'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el triple enlace puede moverse libremente por el anillo.",
+        "B": "Porque se asume por convención que siempre está entre C1 y C2.",
+        "C": "Porque la posición varía dependiendo de los sustituyentes.",
+        "D": "Porque en anillos es imposible determinar una posición fija.",
+        "E": "Porque el nombre sería demasiado largo y complejo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las reglas de nomenclatura de la IUPAC para cicloalquinos dictan que la numeración del anillo siempre comienza en el triple enlace, asignándole las posiciones 1 y 2. Como esta posición es invariable, es redundante indicarla en el nombre, por lo que se omite.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_010",
+      "pregunta": "Un cicloalquino tiene 9 átomos de carbono en su anillo. ¿Cuál es su fórmula molecular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C_9H_{18}$$",
+        "B": "$$C_9H_{16}$$",
+        "C": "$$C_9H_{14}$$",
+        "D": "$$C_9H_{12}$$",
+        "E": "$$C_9H_{10}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Se utiliza la fórmula general de los cicloalquinos, $$C_nH_{2n-4}$$. Sustituyendo $n=9$, obtenemos el número de hidrógenos: $2(9) - 4 = 18 - 4 = 14$. Por lo tanto, la fórmula molecular es $$C_9H_{14}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_011",
+      "pregunta": "¿Qué diferencia estructural principal existe entre un cicloalqueno y un cicloalquino con el mismo número de carbonos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El cicloalquino tiene una cadena cerrada y el cicloalqueno no.",
+        "B": "El cicloalquino tiene un triple enlace y el cicloalqueno un enlace doble.",
+        "C": "El cicloalquino tiene dos hidrógenos más que el cicloalqueno.",
+        "D": "El cicloalqueno es siempre más estable que el cicloalquino.",
+        "E": "El cicloalquino no puede tener sustituyentes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental radica en el tipo de insaturación en el anillo. Los cicloalquenos se caracterizan por tener al menos un enlace doble carbono-carbono, mientras que los cicloalquinos se caracterizan por tener al menos un triple enlace carbono-carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_012",
+      "pregunta": "La afirmación de que los cicloalquinos son estables solo en anillos grandes se debe principalmente a la necesidad de minimizar:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La repulsión estérica entre hidrógenos.",
+        "B": "La polaridad de la molécula.",
+        "C": "El número de enlaces pi.",
+        "D": "La tensión angular del anillo.",
+        "E": "El peso molecular del compuesto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La geometría lineal del grupo alquino (con un ángulo ideal de 180°) se opone a la curvatura necesaria para formar un anillo. En anillos pequeños, esta oposición crea una enorme tensión angular, que es la energía de desestabilización debida a la desviación de los ángulos de enlace de sus valores ideales. Los anillos grandes (ocho o más carbonos) son lo suficientemente flexibles para acomodar el triple enlace sin una tensión angular prohibitiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_013",
+      "pregunta": "¿Cuál de las siguientes moléculas sería la más estable según el criterio de tamaño de anillo para cicloalquinos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ciclohexino",
+        "B": "Ciclopentino",
+        "C": "Ciclodecino",
+        "D": "Ciclobutino",
+        "E": "Cicloheptino"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estabilidad de los cicloalquinos está directamente relacionada con el tamaño del anillo, siendo estables aquellos con ocho o más átomos de carbono. El Ciclodecino tiene 10 carbonos, superando este umbral. Los otros (Ciclohexino-6C, Ciclopentino-5C, Ciclobutino-4C, Cicloheptino-7C) son demasiado pequeños y, por lo tanto, muy inestables o inexistentes debido a la alta tensión angular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_014",
+      "pregunta": "Si se tiene una molécula de cicloundecino, ¿cuántos átomos de hidrógeno contiene?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "22",
+        "B": "20",
+        "C": "18",
+        "D": "16",
+        "E": "14"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El prefijo 'undec-' indica 11 átomos de carbono. Aplicando la fórmula general para cicloalquinos, $$C_nH_{2n-4}$$, con $n=11$: el número de hidrógenos es $2(11) - 4 = 22 - 4 = 18$. La fórmula molecular es $$C_{11}H_{18}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_277_015",
+      "pregunta": "Al nombrar un 3-metilciclooctino, ¿cuál es la razón de que el grupo metilo esté en la posición 3 y no en otra posición más baja como la 2?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El grupo metilo siempre debe estar en una posición impar.",
+        "B": "Las posiciones 1 y 2 están reservadas exclusivamente para los carbonos del triple enlace.",
+        "C": "La numeración debe empezar por el sustituyente, no por el triple enlace.",
+        "D": "La posición 2 no puede tener sustituyentes por impedimento estérico.",
+        "E": "El número 3 es alfabéticamente prioritario."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla fundamental de la nomenclatura de cicloalquinos es que los carbonos del triple enlace deben ser C1 y C2. Por lo tanto, el primer sustituyente no puede ocupar ninguna de estas dos posiciones. La posición más baja disponible para un sustituyente, siguiendo la regla de numeración que minimiza su localizador, sería la posición 3.",
+      "imagen": null
+    }
+  ]
+}

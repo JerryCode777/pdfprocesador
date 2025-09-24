@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 200,
+  "total_temas": 322,
+  "titulo_tema": "Método del Número de Oxidación",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_200_001",
+      "pregunta": "¿Cuál es el estado de oxidación (E.O.) de un átomo en su estado elemental, no combinado, como en $$Na$$ o $$O_2$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$+1$$",
+        "B": "$$-1$$",
+        "C": "$$0$$",
+        "D": "$$+2$$",
+        "E": "$$-2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un átomo en su estado fundamental o elemental, es decir, sin combinar con otros elementos, tiene un estado de oxidación igual a cero. Esto se aplica tanto a metales puros como el sodio ($$Na$$) o a moléculas diatómicas de un mismo elemento como el oxígeno ($$O_2$$) o el hidrógeno ($$H_2$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_002",
+      "pregunta": "En la mayoría de los compuestos químicos, ¿cuál es el estado de oxidación asignado al oxígeno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$+1$$",
+        "B": "$$0$$",
+        "C": "$$-1$$",
+        "D": "$$+2$$",
+        "E": "$$-2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La regla general establece que el oxígeno tiene un estado de oxidación de $$-2$$ en la gran mayoría de sus compuestos, como en el agua ($$H_2O$$) o el dióxido de carbono ($$CO_2$$). Una excepción notable son los peróxidos, donde su E.O. es $$-1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_003",
+      "pregunta": "¿Cuál debe ser el resultado de la suma de los estados de oxidación de todos los átomos en una molécula o compuesto neutro?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1$$",
+        "B": "$$-1$$",
+        "C": "La carga del catión principal",
+        "D": "$$0$$",
+        "E": "La carga del anión principal"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que un compuesto sea eléctricamente neutro, la suma de todas las cargas formales, representadas por los estados de oxidación, debe ser igual a cero. Esto significa que la suma de los estados de oxidación positivos se anula con la suma de los negativos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_004",
+      "pregunta": "¿Cómo se determina el estado de oxidación para un ion monoatómico, como por ejemplo $$Li^+$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Siempre es $$0$$",
+        "B": "Es igual a la carga del ion",
+        "C": "Es igual a su número de grupo en la tabla periódica",
+        "D": "Siempre es $$-1$$",
+        "E": "Depende del compuesto en el que se encuentre"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para los iones formados por un solo átomo (monoatómicos), su estado de oxidación es, por definición, idéntico a su carga iónica. Por ejemplo, para el ion litio ($$Li^+$$), su estado de oxidación es $$+1$$; para el ion cloruro ($$Cl^-$$), sería $$-1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_005",
+      "pregunta": "¿Cuál es el estado de oxidación asignado al hidrógeno, a excepción de cuando forma hidruros metálicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$0$$",
+        "B": "$$-2$$",
+        "C": "$$+2$$",
+        "D": "$$-1$$",
+        "E": "$$+1$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Generalmente, al hidrógeno se le asigna un estado de oxidación de $$+1$$ cuando se combina con no metales, que son más electronegativos que él (ejemplo: $$H_2O$$). La excepción ocurre en los hidruros metálicos, donde actúa con $$-1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_006",
+      "pregunta": "¿Cuál es el primer paso fundamental en el método del número de oxidación para balancear ecuaciones redox?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Escribir las semirreacciones de oxidación y reducción",
+        "B": "Igualar el número de electrones transferidos",
+        "C": "Determinar los estados de oxidación de todos los átomos",
+        "D": "Balancear la masa de los elementos que no cambian",
+        "E": "Colocar los coeficientes en la ecuación principal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El método se basa en los cambios de los estados de oxidación. Por lo tanto, el primer paso indispensable es asignar el estado de oxidación a cada uno de los átomos en la ecuación química para poder identificar qué elementos se oxidan y cuáles se reducen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_007",
+      "pregunta": "Inmediatamente después de identificar los elementos que cambian su estado de oxidación, ¿qué acción se debe realizar según el método descrito?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Completar el balanceo por tanteo",
+        "B": "Igualar los electrones ganados y perdidos",
+        "C": "Balancear la masa de los elementos",
+        "D": "Establecer las semirreacciones de oxidación y reducción",
+        "E": "Determinar los estados de oxidación nuevamente"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una vez que se sabe qué elemento se oxida (aumenta su E.O.) y cuál se reduce (disminuye su E.O.), el siguiente paso lógico es escribir por separado estos procesos. A esto se le conoce como establecer la semirreacción de oxidación y la semirreacción de reducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_008",
+      "pregunta": "¿En qué tipo de compuestos el estado de oxidación del oxígeno es $$-1$$ en lugar de su valor más común?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En su estado elemental ($$O_2$$)",
+        "B": "En los óxidos básicos",
+        "C": "En los peróxidos",
+        "D": "En los hidróxidos",
+        "E": "En los oxoácidos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Se especifica una excepción a la regla general del oxígeno ($$-2$$). Esta excepción ocurre en los peróxidos, como el peróxido de hidrógeno ($$H_2O_2$$), donde cada átomo de oxígeno tiene un estado de oxidación de $$-1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_009",
+      "pregunta": "El paso de \"determinar e igualar el número de electrones ganados y perdidos\" es crucial para:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Asegurar que la masa de los reactivos sea igual a la de los productos",
+        "B": "Garantizar la conservación de la carga eléctrica en la reacción",
+        "C": "Identificar al agente oxidante y al agente reductor",
+        "D": "Determinar el estado de oxidación inicial de cada elemento",
+        "E": "Simplificar los coeficientes de la ecuación química"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una reacción redox, el número total de electrones perdidos por el agente reductor debe ser exactamente igual al número total de electrones ganados por el agente oxidante. Igualar estos electrones garantiza la conservación de la carga, un principio fundamental para que la ecuación química esté correctamente balanceada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_010",
+      "pregunta": "¿Qué estado de oxidación presenta el hidrógeno cuando forma un hidruro metálico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$+1$$",
+        "B": "$$+2$$",
+        "C": "$$0$$",
+        "D": "$$-1$$",
+        "E": "$$-2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Aunque en la mayoría de los compuestos el hidrógeno tiene E.O. $$+1$$, cuando se combina con metales (que son menos electronegativos), el hidrógeno acepta un electrón y adquiere un estado de oxidación de $$-1$$. Un ejemplo es el hidruro de sodio ($$NaH$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_011",
+      "pregunta": "El último paso del método del número de oxidación implica colocar los coeficientes obtenidos en la ecuación principal y luego:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Volver a determinar los estados de oxidación",
+        "B": "Escribir nuevamente las semirreacciones",
+        "C": "Completar el balanceo por tanteo",
+        "D": "Igualar el número de electrones otra vez",
+        "E": "Balancear por masa las semirreacciones"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los coeficientes calculados a partir de la transferencia de electrones solo balancean los elementos que cambian su estado de oxidación. Frecuentemente, otros elementos (llamados espectadores) no quedan balanceados. Por ello, el paso final consiste en ajustar los coeficientes de estas especies restantes mediante el método de tanteo o inspección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_012",
+      "pregunta": "¿Qué se establece en el tercer paso del método de balanceo por número de oxidación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los estados de oxidación de todos los átomos",
+        "B": "Los coeficientes finales de la ecuación",
+        "C": "El número total de electrones transferidos",
+        "D": "Las semirreacciones de oxidación y reducción",
+        "E": "El balanceo de masa de los iones espectadores"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El paso 3 se enfoca en separar la reacción global en sus dos componentes fundamentales: el proceso de oxidación (pérdida de electrones) y el proceso de reducción (ganancia de electrones). A estos procesos separados se les denomina semirreacciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_013",
+      "pregunta": "¿Cuál es el principio fundamental que justifica el Paso 5: \"determinar e igualar el número de electrones ganados y perdidos\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ley de la Conservación de la Masa",
+        "B": "Ley de las Proporciones Definidas",
+        "C": "Principio de la Conservación de la Carga",
+        "D": "Regla del Octeto",
+        "E": "Ley de los Gases Ideales"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este paso se basa en el principio de conservación de la carga. En cualquier reacción redox, la cantidad de carga transferida en forma de electrones debe ser nula en total; es decir, todos los electrones que se pierden en la oxidación deben ser ganados en la reducción. Igualar el número de electrones asegura que la carga neta no cambie. La Ley de la Conservación de la Masa se aborda en los pasos de balanceo de átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_014",
+      "pregunta": "¿Cuál es la secuencia correcta de los tres primeros pasos para balancear una ecuación redox por el método del número de oxidación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Escribir semirreacciones, balancear masa, determinar E.O.",
+        "B": "Determinar E.O., identificar cambios, establecer semirreacciones",
+        "C": "Identificar cambios, igualar electrones, balancear masa",
+        "D": "Establecer semirreacciones, determinar E.O., igualar electrones",
+        "E": "Balancear por tanteo, determinar E.O., balancear masa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El proceso es secuencial y lógico. Primero, es necesario conocer los estados de oxidación de todos los átomos (Paso 1). Con esta información, se puede identificar cuáles elementos están cambiando su estado de oxidación (Paso 2). Finalmente, con los elementos clave identificados, se pueden escribir las semirreacciones de oxidación y reducción por separado (Paso 3).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_200_015",
+      "pregunta": "¿Por qué es necesario el Paso 6, \"completar el balanceo por tanteo\", si los pasos anteriores ya igualaron la transferencia de electrones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque los estados de oxidación podrían haber sido calculados incorrectamente.",
+        "B": "Para verificar que el número de electrones transferidos es el mínimo posible.",
+        "C": "Porque los coeficientes obtenidos solo aseguran el balance de los elementos que cambian de E.O., dejando a otros potencialmente sin balancear.",
+        "D": "Para simplificar los coeficientes estequiométricos a sus valores enteros más pequeños.",
+        "E": "Porque el balanceo de masa (Paso 4) solo se aplica a los reactivos y no a los productos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El procedimiento de igualar electrones (Paso 5) y transferir los coeficientes a la ecuación principal solo garantiza que los átomos que se oxidan y se reducen estén en la proporción correcta para que la transferencia de carga sea nula. Sin embargo, puede haber otros átomos en la ecuación (conocidos como iones espectadores) que no participan en la transferencia de electrones y que aún necesitan ser balanceados. El balanceo por tanteo final asegura que la ley de conservación de la masa se cumpla para todos los elementos en la ecuación.",
+      "imagen": null
+    }
+  ]
+}

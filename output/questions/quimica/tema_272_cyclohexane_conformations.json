@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 272,
+  "total_temas": 322,
+  "titulo_tema": "Cyclohexane Conformations",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_272_001",
+      "pregunta": "¿Cuáles son las dos conformaciones más estables del ciclohexano mencionadas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Silla y bote",
+        "B": "Plana y plegada",
+        "C": "Lineal y cíclica",
+        "D": "Axial y ecuatorial",
+        "E": "Cis y trans"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las conformaciones más estables que adopta el ciclohexano para minimizar su tensión anular son la de silla y la de bote. Las otras opciones se refieren a características geométricas generales (plana, plegada), tipos de cadenas (lineal, cíclica), posiciones de sustituyentes (axial, ecuatorial) o tipos de isomería (cis, trans), pero no a las conformaciones específicas del ciclohexano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_002",
+      "pregunta": "¿Cuál es el ángulo de enlace ideal para un carbono con hibridación sp³?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$90°$$",
+        "B": "$$120°$$",
+        "C": "$$109.5°$$",
+        "D": "$$180°$$",
+        "E": "$$60°$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un átomo de carbono con hibridación sp³ forma cuatro enlaces simples que se dirigen hacia los vértices de un tetraedro. El ángulo ideal entre estos enlaces es de $$109.5°$$, lo que minimiza la repulsión entre los pares de electrones de enlace.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_003",
+      "pregunta": "En la nomenclatura de un hidrocarburo cíclico sin ramificaciones, ¿qué prefijo se antepone al nombre?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "iso-",
+        "B": "neo-",
+        "C": "ciclo-",
+        "D": "sec-",
+        "E": "terc-"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para nombrar un hidrocarburo cuya cadena de carbonos forma un anillo cerrado, se utiliza el prefijo \"ciclo-\" para indicar esta característica estructural, seguido del nombre del alcano con el mismo número de átomos de carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_004",
+      "pregunta": "¿Qué ángulo de enlace tendrían los carbonos en una molécula de ciclohexano si fuera completamente plana?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$109.5°$$",
+        "B": "$$90°$$",
+        "C": "$$180°$$",
+        "D": "$$120°$$",
+        "E": "$$60°$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un hexágono regular, que sería la forma de un ciclohexano plano, tiene ángulos internos de $$120°$$. Este valor es la causa principal de la inestabilidad de la conformación plana, ya que se desvía del ángulo ideal de $$109.5°$$ para carbonos sp³.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_005",
+      "pregunta": "¿Qué sufijo se utiliza para nombrar un cicloalcano saturado como el ciclohexano?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-eno",
+        "B": "-ino",
+        "C": "-ilo",
+        "D": "-al",
+        "E": "-ano"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El sufijo \"-ano\" se utiliza para indicar que el hidrocarburo es un alcano, lo que significa que todos los enlaces entre los átomos de carbono son enlaces simples (está saturado de hidrógenos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_006",
+      "pregunta": "¿Cuál es la razón principal por la que el ciclohexano no es una molécula plana?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para maximizar el contacto entre los átomos de hidrógeno.",
+        "B": "Porque los enlaces dobles impiden la planaridad.",
+        "C": "Para evitar la tensión angular que resultaría de ángulos de enlace de $$120°$$.",
+        "D": "Porque las moléculas cíclicas nunca pueden ser planas.",
+        "E": "Para facilitar la rotación libre alrededor de los enlaces carbono-carbono."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ciclohexano adopta una conformación plegada para aliviar la tensión angular. Si fuera plano, sus ángulos de enlace C-C-C serían de $$120°$$, muy diferentes del ángulo ideal de $$109.5°$$ para un carbono sp³. El plegamiento permite que los ángulos se acerquen a este valor ideal, aumentando la estabilidad de la molécula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_007",
+      "pregunta": "La inestabilidad de un ciclohexano plano se debe principalmente a la diferencia entre dos valores angulares. ¿Cuáles son?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El ángulo del hexágono plano ($$120°$$) y el ángulo tetraédrico ideal ($$109.5°$$).",
+        "B": "El ángulo de un cuadrado ($$90°$$) y el de un triángulo ($$60°$$).",
+        "C": "El ángulo de hibridación sp ($$180°$$) y el de hibridación sp² ($$120°$$).",
+        "D": "El ángulo del enlace C-H y el ángulo del enlace C-C.",
+        "E": "El ángulo de un pentágono ($$108°$$) y el ángulo tetraédrico ($$109.5°$$)."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La tensión en el ciclohexano plano proviene de la deformación de los ángulos de enlace. Los carbonos sp³ prefieren un ángulo de $$109.5°$$, pero una estructura hexagonal plana los forzaría a tener ángulos de $$120°$$. Esta diferencia es la fuente de la tensión angular que desestabiliza la forma plana.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_008",
+      "pregunta": "¿Qué proceso estructural permite al ciclohexano alcanzar sus conformaciones más estables?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ruptura de un enlace carbono-carbono.",
+        "B": "El plegamiento del anillo para salir de la planaridad.",
+        "C": "La adición de átomos de hidrógeno.",
+        "D": "La formación de enlaces dobles.",
+        "E": "La ionización de la molécula."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El anillo de ciclohexano se pliega sobre sí mismo, abandonando la estructura plana. Este plegamiento es el mecanismo que le permite ajustar sus ángulos de enlace para que se aproximen al valor tetraédrico ideal de $$109.5°$$, resultando en conformaciones de menor energía y mayor estabilidad como la silla y el bote.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_009",
+      "pregunta": "Analizando el nombre \"ciclohexano\", ¿qué información se deduce correctamente sobre su estructura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una cadena abierta de 6 carbonos.",
+        "B": "Un anillo de 6 carbonos con enlaces simples únicamente.",
+        "C": "Un anillo aromático de 6 carbonos como el benceno.",
+        "D": "Un anillo de 5 carbonos y una ramificación metilo.",
+        "E": "Una molécula lineal con un grupo funcional cíclico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El nombre se descompone en tres partes: \"ciclo-\" indica que es una cadena cerrada (anillo), \"hex-\" indica la presencia de 6 átomos de carbono, y \"-ano\" indica que es un alcano, es decir, solo contiene enlaces simples C-C. Por lo tanto, es un anillo de 6 carbonos saturado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_010",
+      "pregunta": "La existencia de las conformaciones de silla y bote es una consecuencia directa de que la molécula busca activamente...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "aumentar su superficie.",
+        "B": "alcanzar una geometría plana.",
+        "C": "minimizar la tensión adoptando ángulos de enlace cercanos a $$109.5°$$.",
+        "D": "formar el mayor número de enlaces de hidrógeno posible.",
+        "E": "facilitar su disolución en agua."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Toda la base de la estereoquímica conformacional del ciclohexano es su tendencia a minimizar la energía. Lo logra al plegarse en formas (conformaciones) que permiten que los ángulos de enlace entre sus carbonos sp³ se acerquen lo más posible al ángulo tetraédrico ideal de $$109.5°$$, minimizando así la tensión angular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_011",
+      "pregunta": "¿Qué tipo de hibridación presentan los átomos de carbono en el anillo de ciclohexano, lo que determina su geometría preferida?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "sp³d",
+        "E": "d²sp³"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el ciclohexano, cada átomo de carbono forma cuatro enlaces simples (dos con otros carbonos y dos con hidrógenos). Esta configuración corresponde a una hibridación sp³, que tiene una geometría tetraédrica ideal con ángulos de $$109.5°$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_012",
+      "pregunta": "El término \"tensión\" en el contexto del ciclohexano plano se refiere principalmente a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La tensión superficial del compuesto líquido.",
+        "B": "La tensión eléctrica debido a una carga neta.",
+        "C": "La tensión estérica por el choque entre hidrógenos.",
+        "D": "La tensión angular por la desviación del ángulo de enlace ideal.",
+        "E": "La tensión de vapor a una temperatura dada."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La \"tensión\" mencionada es una forma de energía potencial almacenada en la molécula debido a una geometría desfavorable. Específicamente, es la tensión angular (o de Baeyer) que surge porque los ángulos de enlace de $$120°$$ en la forma plana se desvían del valor de baja energía de $$109.5°$$ preferido por los carbonos sp³.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_013",
+      "pregunta": "Si un carbono con hibridación sp³ es la unidad básica del ciclohexano, ¿por qué una estructura de anillo plano es energéticamente desfavorable?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la hibridación sp³ es inherentemente inestable en estructuras cíclicas.",
+        "B": "Porque la hibridación sp³ requiere ángulos de $$120°$$, que solo se logran en conformaciones plegadas.",
+        "C": "Porque la geometría plana fuerza a los ángulos de enlace a adoptar los valores de un polígono regular, los cuales para un hexágono ($$120°$$) son muy distintos al ángulo ideal de $$109.5°$$ de la hibridación sp³.",
+        "D": "Porque los anillos planos solo pueden estar formados por carbonos con hibridación sp².",
+        "E": "Porque en una estructura plana, los enlaces carbono-hidrógeno son más largos y débiles."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta conecta la hibridación del átomo con la geometría de la molécula completa. La hibridación sp³ de cada carbono dicta una preferencia por una geometría tetraédrica local con ángulos de $$109.5°$$. Sin embargo, una estructura de anillo plano impone una restricción geométrica global (ángulos de $$120°$$ para un hexágono). El conflicto entre la preferencia local (hibridación) y la restricción global (planaridad) genera tensión angular, haciendo que la forma plana sea desfavorable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_014",
+      "pregunta": "¿Qué afirmación describe mejor la interrelación entre la hibridación del carbono y la estabilidad conformacional del ciclohexano?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La hibridación sp² de los carbonos busca un ángulo de $$120°$$, que se logra perfectamente en la conformación de silla.",
+        "B": "La flexibilidad del anillo permite cambiar la hibridación de sp³ a sp² para adoptar la conformación de bote.",
+        "C": "La estabilidad de las conformaciones no planas como la de silla se deriva directamente de su capacidad para satisfacer el requisito de ángulo de enlace de $$109.5°$$ del carbono sp³.",
+        "D": "La estabilidad del ciclohexano no depende de la hibridación, sino del número de ramificaciones que tenga.",
+        "E": "La hibridación sp³ prefiere una estructura plana, pero las repulsiones entre hidrógenos fuerzan el plegamiento del anillo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estabilidad de las conformaciones del ciclohexano es una consecuencia directa de su composición atómica. Los carbonos son sp³, lo que significa que la molécula será más estable cuando sus ángulos de enlace se aproximen a $$109.5°$$. Las conformaciones no planas, especialmente la de silla, son estables precisamente porque logran estos ángulos casi a la perfección, minimizando así la tensión angular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_272_015",
+      "pregunta": "Basándose en el concepto de tensión angular, ¿qué se puede inferir sobre el nivel de energía de la conformación plana del ciclohexano en comparación con la conformación de silla?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La conformación plana tiene un nivel de energía mucho más alto debido a la severa tensión angular.",
+        "B": "La conformación de silla tiene un nivel de energía más alto porque el plegado consume energía.",
+        "C": "Ambas conformaciones tienen niveles de energía idénticos, ya que son interconvertibles.",
+        "D": "La conformación plana es la más estable (menor energía) porque es la más simétrica.",
+        "E": "No se puede hacer una comparación de energía basándose únicamente en la tensión angular."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El texto explica que el anillo se pliega para evitar la tensión. Esto implica que el estado sin plegar (plano) es un estado de alta tensión y, por lo tanto, de alta energía. Las conformaciones estables como la silla son el resultado de este plegamiento para alcanzar un estado de menor energía. La diferencia entre el ángulo forzado de $$120°$$ y el ideal de $$109.5°$$ en la forma plana representa una cantidad significativa de energía de tensión, haciendo que esta conformación sea muy inestable.",
+      "imagen": null
+    }
+  ]
+}

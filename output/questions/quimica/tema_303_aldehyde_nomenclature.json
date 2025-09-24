@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 303,
+  "total_temas": 322,
+  "titulo_tema": "Aldehyde Nomenclature",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_303_001",
+      "pregunta": "¿Cuál es la estructura general que representa a un aldehído?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R-COOH$$",
+        "B": "$$R-CO-R'$$",
+        "C": "$$R-CHO$$",
+        "D": "$$R-O-R'$$",
+        "E": "$$R-OH$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura general de un aldehído es $$R-CHO$$, donde $$R$$ representa un grupo alquilo, y el grupo funcional característico es el grupo carbonilo ($$-C=O$$) unido a un átomo de hidrógeno y al grupo alquilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_002",
+      "pregunta": "Según la nomenclatura IUPAC, ¿qué terminación sustituye a la letra \"-o\" del alcano correspondiente para nombrar un aldehído?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-ona",
+        "B": "-ol",
+        "C": "-oico",
+        "D": "-al",
+        "E": "-éter"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En el sistema de nomenclatura IUPAC para aldehídos, el nombre se forma a partir del alcano con el mismo número de carbonos, cambiando la terminación \"-o\" por \"-al\". Por ejemplo, el etano se convierte en etanal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_003",
+      "pregunta": "En la numeración de la cadena de un aldehído para la nomenclatura IUPAC, ¿qué número se le asigna siempre al carbono del grupo funcional $$-CHO$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número más bajo posible",
+        "B": "2",
+        "C": "El último número de la cadena",
+        "D": "1",
+        "E": "No se numera"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por convención de la IUPAC, el grupo funcional aldehído ($$-CHO$$) es un grupo terminal y se le considera el de mayor prioridad en este contexto. Por lo tanto, a su carbono siempre se le asigna el localizador número 1, y no es necesario indicarlo en el nombre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_004",
+      "pregunta": "¿Qué sufijo se utiliza para nombrar un compuesto que contiene dos grupos funcionales aldehído en su cadena principal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-dialdehído",
+        "B": "-diona",
+        "C": "-diol",
+        "D": "-dicarbaldehído",
+        "E": "-dial"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Cuando una molécula presenta dos grupos aldehído, se utiliza el sufijo \"-dial\". El nombre se basa en el alcano correspondiente al número total de carbonos de la cadena principal, seguido de este sufijo. Por ejemplo, $$CHO–CH₂–CHO$$ se nombra propanodial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_005",
+      "pregunta": "Para aldehídos en los que el grupo $$-CHO$$ está directamente unido a un sistema cíclico, ¿cuál es el sufijo de nomenclatura que se debe utilizar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-cicloal",
+        "B": "-aldehído",
+        "C": "-carbaldehído",
+        "D": "-formil",
+        "E": "-anilloal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando el grupo aldehído ($$-CHO$$) está enlazado a un anillo, el sistema IUPAC emplea el sufijo \"-carbaldehído\" añadido al nombre del cicloalcano. Por ejemplo, un grupo $$-CHO$$ unido a un ciclohexano se nombra ciclohexanocarbaldehído.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_006",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula con la fórmula $$CH₃CHO$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Metanal",
+        "B": "Propanal",
+        "C": "Etanal",
+        "D": "Butanal",
+        "E": "Etanol"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La molécula tiene dos átomos de carbono, por lo que su alcano correspondiente es el etano. Siguiendo la regla de la IUPAC, se reemplaza la terminación \"-o\" del alcano por \"-al\", resultando en el nombre Etanal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_007",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula $$CHO–CH₂–CHO$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Etanodial",
+        "B": "Propanodial",
+        "C": "Butanodial",
+        "D": "Ácido propanodioico",
+        "E": "Propanal"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta molécula tiene una cadena principal de tres carbonos, por lo que deriva del propano. Al tener dos grupos aldehído ($$-CHO$$) en los extremos, se utiliza el sufijo \"-dial\". Por lo tanto, el nombre correcto es Propanodial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_008",
+      "pregunta": "Al nombrar un aldehído cíclico que consiste en un grupo $$-CHO$$ unido a un anillo de ciclohexano, ¿cuál sería el nombre completo y correcto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ciclohexanal",
+        "B": "1-formilciclohexano",
+        "C": "Aldehído ciclohexílico",
+        "D": "Ciclohexanocarbaldehído",
+        "E": "Hexanal cíclico"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para aldehídos unidos a anillos, se nombra primero el cicloalcano y luego se añade el sufijo \"-carbaldehído\". En este caso, el anillo es un ciclohexano, por lo que el nombre correcto es Ciclohexanocarbaldehído. La opción A es incorrecta porque el sufijo \"-al\" se usa para cadenas abiertas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_009",
+      "pregunta": "¿Por qué generalmente no es necesario especificar un localizador numérico para el sufijo \"-al\" en un monoaldehído de cadena abierta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el grupo $$-CHO$$ puede estar en cualquier carbono de la cadena.",
+        "B": "Porque la cadena siempre es demasiado corta para necesitar un número.",
+        "C": "Porque por definición, el carbono del grupo $$-CHO$$ siempre ocupa la posición 1.",
+        "D": "Porque la posición se indica con prefijos como 'iso' o 'neo'.",
+        "E": "Porque el nombre del alcano base ya implica la posición."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El grupo funcional aldehído ($$-CHO$$) solo puede existir al final de una cadena de carbono. La nomenclatura IUPAC establece que este carbono terminal tiene la máxima prioridad y, por lo tanto, siempre se le asigna el número 1. Al ser siempre 1, es redundante incluirlo en el nombre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_010",
+      "pregunta": "En un compuesto que contiene un grupo aldehído ($$-CHO$$), dobles enlaces y ramificaciones, ¿qué criterio principal se sigue para seleccionar la cadena principal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se elige siempre la cadena carbonada más larga.",
+        "B": "Se elige la cadena que contenga las ramificaciones más complejas.",
+        "C": "Se elige la cadena que contenga al grupo $$-CHO$$ y las insaturaciones, aunque no sea la más larga.",
+        "D": "Se elige la cadena con el mayor número de dobles enlaces, ignorando al grupo $$-CHO$$.",
+        "E": "Se elige la cadena cíclica más cercana, si la hay."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de nomenclatura IUPAC establece que para aldehídos ramificados e insaturados, la cadena principal es aquella que contiene el grupo funcional principal ($$-CHO$$) y el mayor número de insaturaciones (dobles o triples enlaces). Esta regla tiene prioridad sobre la de elegir la cadena más larga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_011",
+      "pregunta": "¿Cómo se deriva el nombre IUPAC \"Propanal\" a partir del alcano correspondiente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se añade el sufijo \"-al\" al nombre completo del alcano \"propano\".",
+        "B": "Se reemplaza la terminación \"-ano\" de \"propano\" por \"-al\".",
+        "C": "Se reemplaza la letra \"-o\" final de \"propano\" por el sufijo \"-al\".",
+        "D": "Se utiliza el prefijo \"prop-\" y se añade la terminación \"anal\".",
+        "E": "Se combina el nombre del grupo funcional \"aldehído\" con \"propano\"."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla específica de la IUPAC indica que el nombre de un aldehído se obtiene del alcano con el mismo número de átomos de carbono, cambiando la letra final \"-o\" del nombre del alcano por el sufijo \"-al\". Así, propano se convierte en propanal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_012",
+      "pregunta": "Considerando la prioridad de los grupos funcionales, ¿cuál de los siguientes grupos tendría el localizador más bajo en una cadena que lo contenga junto a un doble enlace?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un grupo metilo ($$-CH_3$$)",
+        "B": "Un triple enlace ($$-C≡C-$$)",
+        "C": "Un doble enlace ($$-C=C-$$)",
+        "D": "Un grupo hidroxilo ($$-OH$$)",
+        "E": "Un átomo de cloro ($$-Cl$$)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Se establece que el grupo funcional hidroxilo ($$-OH$$) tiene preferencia sobre las insaturaciones (dobles y triples enlaces). Esto significa que al numerar la cadena de carbono, se le debe asignar el número más bajo posible al carbono que porta el grupo $$-OH$$, como se ve en el ejemplo **Hex-4-en-2-ol**, donde el alcohol está en la posición 2 y el doble enlace en la 4.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_013",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula $$CHO-CH=CH-CH=CH-CH₂-CH₂-CHO$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Octa-2,4-dieno-1,8-dial",
+        "B": "Octa-4,6-dienodial",
+        "C": "Octa-2,4-dialdieno",
+        "D": "Octa-2,4-dienodial",
+        "E": "1,8-diformilocta-2,4-dieno"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para nombrar esta molécula se siguen varios pasos: 1) La cadena principal tiene 8 carbonos (base 'octa-'). 2) Contiene dos grupos aldehído, por lo que el sufijo es '-dial'. 3) Hay dos dobles enlaces, indicados por '-dieno'. 4) Se numera la cadena desde un extremo para dar los localizadores más bajos a los dobles enlaces; empezando por la izquierda, los dobles enlaces están en las posiciones 2 y 4. Combinando todo, el nombre es octa-2,4-dienodial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_014",
+      "pregunta": "¿Cuál es la diferencia fundamental en la nomenclatura IUPAC entre un aldehído de cadena abierta (como el butanal) y un aldehído unido a un anillo (como el ciclopentanocarbaldehído)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La numeración en los compuestos cíclicos siempre empieza en el carbono opuesto al grupo $$-CHO$$.",
+        "B": "El carbono del grupo $$-CHO$$ no se cuenta como parte de la cadena o anillo principal en el compuesto cíclico.",
+        "C": "No hay ninguna diferencia fundamental, se nombran de la misma manera.",
+        "D": "En los compuestos cíclicos, el grupo aldehído siempre tiene menor prioridad que las insaturaciones.",
+        "E": "Los aldehídos de cadena abierta siempre tienen nombres comunes, mientras que los cíclicos no."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia clave radica en cómo se define la estructura principal. En un aldehído de cadena abierta como el butanal, el carbono del grupo $$-CHO$$ es parte de la cadena principal de 4 carbonos. En un aldehído cíclico como el ciclopentanocarbaldehído, el anillo de 5 carbonos es la estructura principal, y el grupo $$-CHO$$ se considera un sustituyente que se nombra con el sufijo '-carbaldehído'. Su carbono no forma parte del conteo del anillo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_303_015",
+      "pregunta": "Dadas las reglas de que el grupo $$-OH$$ tiene prioridad sobre los dobles enlaces, y que el grupo $$-CHO$$ es el principal en aldehídos insaturados (numerándose desde él), ¿qué se puede inferir sobre la jerarquía de los grupos funcionales?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El grupo $$-CHO$$ tiene mayor prioridad que las insaturaciones.",
+        "B": "El grupo $$-OH$$ tiene mayor prioridad que el grupo $$-CHO$$.",
+        "C": "Los dobles enlaces tienen mayor prioridad que el grupo $$-CHO$$.",
+        "D": "Todos los grupos funcionales mencionados ($$-OH$$, $$-CHO$$, insaturaciones) tienen la misma prioridad.",
+        "E": "La prioridad depende únicamente de la longitud de la cadena de carbono."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La información proporcionada indica que el grupo $$-OH$$ es prioritario sobre las insaturaciones. Por otro lado, al nombrar aldehídos insaturados, se especifica que el grupo $$-CHO$$ es el principal y la numeración parte de él, dándole la posición 1, incluso en presencia de dobles o triples enlaces. Esto demuestra que el grupo aldehído ($$-CHO$$) tiene una prioridad superior a las insaturaciones. Aunque no se compara directamente $$-CHO$$ con $$-OH$$, la evidencia muestra claramente su superioridad sobre los enlaces múltiples.",
+      "imagen": null
+    }
+  ]
+}

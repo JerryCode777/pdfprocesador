@@ -13,50 +13,80 @@ Sistema para extraer contenido educativo limpio de PDFs usando Gemini 2.5 Pro.
 
 ## 🚀 Uso
 
-### Probar con un archivo:
+### PASO 1: Extraer contenido de PDFs
 ```bash
 source pdf_processor_env/bin/activate
-python3 test_content.py
+python3 test_content.py        # Probar con un archivo
+python3 extract_content.py     # Procesar todos los PDFs
 ```
 
-### Procesar todos los PDFs:
+### PASO 2: Generar preguntas por temas
 ```bash
 source pdf_processor_env/bin/activate
-python3 extract_content.py
+python3 test_questions.py      # Probar generación de preguntas
+python3 generate_questions.py  # Generar preguntas para todos
 ```
 
 ## 📁 Archivos del proyecto
 
+### Extracción de contenido:
 - `extract_content.py` - Procesar todos los PDFs
-- `test_content.py` - Probar con un archivo grande
-- `scripts/batch_content_extractor.py` - Módulo extractor
+- `test_content.py` - Probar extracción con un archivo
+
+### Generación de preguntas:
+- `generate_questions.py` - Generar preguntas para todos los cursos
+- `test_questions.py` - Probar generación con un archivo
+
+### Módulos internos:
+- `scripts/batch_content_extractor.py` - Extractor de contenido
+- `scripts/question_generator.py` - Generador de preguntas
 - `.env` - Configuración de API key
 - `pdf_processor_env/` - Entorno virtual
 
 ## 📊 Salida
 
-Los archivos JSON se guardan en `output/content/` con esta estructura:
-
+### Contenido extraído: `output/content/`
 ```json
 {
   "metadata": {
     "subject": "BIOLOGIA",
-    "total_pages": 373,
-    "processing_method": "gemini-2.5-pro-content-only"
+    "total_pages": 373
   },
   "topics": ["Biología", "Genética", "Ecología"],
   "pages": [
     {
       "page_number": 1,
       "content": "Contenido educativo limpio...",
-      "topics": ["Biología"],
-      "has_content": true
+      "topics": ["Biología"]
     }
-  ],
-  "content_summary": {
-    "pages_with_content": 350,
-    "content_type": "educational_theory_only"
-  }
+  ]
+}
+```
+
+### Preguntas generadas: `output/questions/materia/`
+```json
+{
+  "materia": "biologia",
+  "numero_tema": 1,
+  "total_temas": 25,
+  "titulo_tema": "Introducción a la Biología",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_001_001",
+      "pregunta": "¿Qué estudia la biología?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Los seres vivos y sus procesos",
+        "B": "Solo las plantas",
+        "C": "Solo los animales",
+        "D": "Los minerales",
+        "E": "El clima"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La biología es la ciencia que estudia...",
+      "imagen": null
+    }
+  ]
 }
 ```
 

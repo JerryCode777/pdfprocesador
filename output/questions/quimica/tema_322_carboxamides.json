@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 322,
+  "total_temas": 322,
+  "titulo_tema": "Carboxamides",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_322_001",
+      "pregunta": "En la nomenclatura de amidas secundarias y terciarias, ¿qué letra se antepone al nombre del radical para indicar que está unido al átomo de nitrógeno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "C",
+        "B": "O",
+        "C": "A",
+        "D": "R",
+        "E": "N"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para nombrar amidas secundarias (con un radical en el nitrógeno) y terciarias (con dos radicales en el nitrógeno), se utiliza la letra 'N' como localizador para especificar que el grupo sustituyente está enlazado directamente al átomo de nitrógeno y no a la cadena de carbono principal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_002",
+      "pregunta": "¿Qué sufijo se utiliza para nombrar amidas en las que el grupo funcional amida está unido directamente a una estructura cíclica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-amida",
+        "B": "-carboxamida",
+        "C": "-cicloamida",
+        "D": "-nitrilo",
+        "E": "-anilida"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando el grupo amida ($$-CONH_2$$) se encuentra como sustituyente en un anillo, el nombre del ciclo se toma como base y se le añade el sufijo '-carboxamida'. Por ejemplo, si el grupo está unido a un ciclopentano, se nombra ciclopentanocarboxamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_003",
+      "pregunta": "¿Cuál es el nombre común para el compuesto Bencenocarboxamida?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anilina",
+        "B": "Fenilamida",
+        "C": "Acetamida",
+        "D": "Benzamida",
+        "E": "Ciclohexanamida"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Bencenocarboxamida, que consiste en un grupo amida unido a un anillo de benceno, es comúnmente conocida por su nombre trivial, Benzamida. Este es un nombre aceptado por la IUPAC.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_004",
+      "pregunta": "Una amida que en su nombre incluye el prefijo 'N,N-' indica que es una amida de tipo:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Primaria",
+        "B": "Secundaria",
+        "C": "Terciaria",
+        "D": "Cíclica",
+        "E": "Aromática"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El prefijo 'N,N-' se utiliza para indicar la presencia de dos grupos sustituyentes unidos al átomo de nitrógeno. Esto define a la amida como terciaria, ya que el nitrógeno está enlazado al carbono del carbonilo y a otros dos átomos de carbono de los sustituyentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_005",
+      "pregunta": "La nomenclatura que utiliza el sufijo '-carboxílico' para ácidos, como en Ácido ciclohexanocarboxílico, es análoga a la nomenclatura que utiliza el sufijo '-carboxamida' para:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Amidas de cadena abierta",
+        "B": "Amidas secundarias",
+        "C": "Amidas terciarias",
+        "D": "Amidas con estructura cíclica",
+        "E": "Ésteres cíclicos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Existe un paralelismo en la nomenclatura de derivados de ácido carboxílico unidos a ciclos. Así como un grupo $$-COOH$$ en un ciclo se nombra con el sufijo '-carboxílico', un grupo $$-CONH_2$$ en un ciclo se nombra con el sufijo '-carboxamida'. Ambas reglas se aplican a estructuras cíclicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_006",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula con la fórmula $$CH_3-CO-NH-CH_2-CH_2-CH_3$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "N-propilacetamida",
+        "B": "N-propiletanamida",
+        "C": "Propil-1-etanamida",
+        "D": "Etanamidopropano",
+        "E": "Propilamida de etanoilo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para nombrar esta amida secundaria, primero se identifica la cadena principal que contiene el grupo carbonilo, que es de dos carbonos (etano), por lo que la amida base es 'etanamida'. Luego, se identifica el radical unido al nitrógeno, que es un grupo de tres carbonos ('propil'). Se utiliza la letra 'N' para indicar su posición, resultando en el nombre N-propiletanamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_007",
+      "pregunta": "En el compuesto N,N-dietil-2-metilpropanamida, ¿cuáles son los sustituyentes unidos directamente al átomo de nitrógeno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un grupo metilo y dos grupos etilo",
+        "B": "Un grupo propilo y dos grupos metilo",
+        "C": "Un grupo metilo y un grupo etilo",
+        "D": "Dos grupos metilo",
+        "E": "Dos grupos etilo"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El prefijo 'N,N-dietil' indica que hay dos ('di') grupos etilo ($$-CH_2-CH_3$$) unidos al átomo de nitrógeno ('N,N-'). El término '2-metil' se refiere a un sustituyente en la cadena principal de la amida (la propanamida), no en el nitrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_008",
+      "pregunta": "¿Cómo se nombraría correctamente un compuesto formado por un grupo $$CONH_2$$ unido a un anillo de ciclopentano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ciclopentilamida",
+        "B": "Amida ciclopentílica",
+        "C": "Ciclopentanocarboxamida",
+        "D": "N-ciclopentilmetanamida",
+        "E": "Ciclopentanamida"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la regla para amidas cíclicas, cuando el grupo $$-CONH_2$$ está directamente enlazado a un anillo, se nombra el ciclo y se añade el sufijo '-carboxamida'. Por lo tanto, un anillo de ciclopentano con este grupo se nombra Ciclopentanocarboxamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_009",
+      "pregunta": "Identifique el nombre correcto para la amida cuya fórmula estructural es $$CH_3CH(CH_3)CO-N(CH_2CH_3)_2$$.",
+      "dificultad": 2,
+      "opciones": {
+        "A": "N,N-dietil-2-metilbutanamida",
+        "B": "N,N-dimetil-2-etilpropanamida",
+        "C": "2-metil-N,N-dietilpropanamida",
+        "D": "N,N-dietil-isobutiramida",
+        "E": "N,N-dietil-2-metilpropanamida"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Primero se identifica la cadena principal de la amida: tiene tres carbonos (propanamida) y un grupo metilo en el carbono 2, por lo que la base es '2-metilpropanamida'. Luego, se identifican los sustituyentes en el nitrógeno: hay dos grupos etilo. Usando el localizador 'N' para cada uno, se obtiene el prefijo 'N,N-dietil'. Combinando todo, el nombre es N,N-dietil-2-metilpropanamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_010",
+      "pregunta": "Si un ácido carboxílico con fórmula $$C_6H_{11}-COOH$$ se nombra Ácido ciclohexanocarboxílico, ¿cómo se nombra la amida correspondiente con fórmula $$C_6H_{11}-CONH_2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ciclohexilamida",
+        "B": "Ciclohexanocarboxamida",
+        "C": "N-ciclohexilmetanamida",
+        "D": "Amida ciclohexílica",
+        "E": "Ciclohexanamida"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La nomenclatura para derivados de ácidos carboxílicos unidos a ciclos sigue un patrón consistente. Al igual que el grupo $$-COOH$$ da lugar al sufijo '-carboxílico', el grupo amida $$-CONH_2$$ da lugar al sufijo '-carboxamida'. Por lo tanto, la amida derivada del ciclohexano se nombra Ciclohexanocarboxamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_011",
+      "pregunta": "En el nombre 2-metilciclopropanocarboxamida, el número '2' indica la posición de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El grupo metilo en el átomo de nitrógeno",
+        "B": "El grupo carboxamida en la cadena principal",
+        "C": "El grupo metilo en el anillo de ciclopropano",
+        "D": "El átomo de nitrógeno en el anillo",
+        "E": "El grupo carboxamida en un sustituyente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre base 'ciclopropanocarboxamida' describe un anillo de ciclopropano con un grupo carboxamida. El localizador numérico '2-' se usa para indicar la posición de otros sustituyentes en el anillo. Por convención, se asume que el grupo carboxamida está en la posición 1 del ciclo, por lo que '2-metil' significa que un grupo metilo está en el carbono 2 del anillo de ciclopropano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_012",
+      "pregunta": "Al analizar el nombre N-propiletanamida, ¿qué conclusión se puede sacar sobre la estructura de la molécula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es una amida primaria con una cadena de 5 carbonos.",
+        "B": "Es una amida terciaria con un grupo propilo y etilo.",
+        "C": "Es una amida secundaria con un grupo propilo en el N y una base de etanamida.",
+        "D": "Es una amida cíclica con sustituyentes propilo y etilo.",
+        "E": "Es un isómero del N-etilisopropilamida."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre se descompone de la siguiente manera: 'etanamida' es la cadena principal de dos carbonos con el grupo amida. El prefijo 'N-propil' indica que hay un grupo propilo ($$-CH_2CH_2CH_3$$) unido al átomo de nitrógeno. La presencia de un solo sustituyente en el nitrógeno la clasifica como una amida secundaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_013",
+      "pregunta": "¿Cuál es el nombre IUPAC para una amida terciaria donde la cadena principal es butanamida y al átomo de nitrógeno están unidos dos grupos metilo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "2,2-dimetilbutanamida",
+        "B": "N,N-dimetilbutanamida",
+        "C": "Dimetil-N-butanamida",
+        "D": "N-metil-N-metilbutanamida",
+        "E": "Butanamida de dimetilo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta pregunta requiere aplicar las reglas a una nueva molécula. La cadena principal es de cuatro carbonos, por lo que la base es 'butanamida'. Hay dos grupos metilo ($$-CH_3$$) unidos al nitrógeno. Para indicar esto, se usa el prefijo 'di-' (para dos) y se especifica la ubicación de ambos en el nitrógeno con 'N,N-'. El nombre completo es N,N-dimetilbutanamida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_014",
+      "pregunta": "Una molécula se nombra 4-clorobencenocarboxamida. ¿Qué describe correctamente su estructura?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un anillo de ciclohexano con un grupo cloro y un grupo carboxamida en posiciones opuestas.",
+        "B": "Un anillo de benceno con un grupo carboxamida y un átomo de cloro en carbonos adyacentes.",
+        "C": "Una cadena de cloro-amida unida a un grupo benceno.",
+        "D": "Un anillo de benceno con un grupo carboxamida y un átomo de cloro en posiciones opuestas del anillo.",
+        "E": "Una amida donde un cloro y un benceno están unidos al nitrógeno."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta pregunta combina la nomenclatura de amidas cíclicas con la de sustituyentes en un anillo aromático. 'Bencenocarboxamida' indica un grupo $$-CONH_2$$ en un anillo de benceno. '4-cloro' indica un átomo de cloro como sustituyente. En un anillo de benceno, el carbono unido al grupo principal (carboxamida) es la posición 1. La posición 4 está directamente opuesta a la 1 (posición para). Por lo tanto, la estructura tiene un grupo carboxamida y un átomo de cloro en posiciones opuestas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_322_015",
+      "pregunta": "¿Cuál de las siguientes nomenclaturas es incorrecta según las reglas para nombrar amidas secundarias?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "N-metilpropanamida",
+        "B": "N-etiletanamida",
+        "C": "Metiletanamida",
+        "D": "N,N-dimetiletanamida",
+        "E": "Ciclopentanocarboxamida"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla fundamental para nombrar amidas secundarias y terciarias es usar la letra 'N' para indicar que un sustituyente está unido al nitrógeno. El nombre 'Metiletanamida' es incorrecto porque omite este localizador 'N'. No es posible saber si el grupo metilo está en el nitrógeno (N-metiletanamida) o en la cadena principal (2-metiletanamida, que sería un nombre ambiguo y no estándar para propanamida). Las opciones A y B son amidas secundarias correctamente nombradas. La opción D es una amida terciaria correcta. La opción E es una amida cíclica correcta.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 70,
+  "total_temas": 322,
+  "titulo_tema": "Número Cuántico Principal (n)",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_070_001",
+      "pregunta": "¿Qué describe fundamentalmente el número cuántico principal ($n$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La forma del orbital de un electrón.",
+        "B": "La orientación del orbital en un campo magnético.",
+        "C": "El nivel principal de energía o capa que ocupa el electrón.",
+        "D": "El sentido de giro del electrón sobre su propio eje.",
+        "E": "El subnivel de energía específico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número cuántico principal, representado por la letra $n$, describe el nivel principal de energía o capa en la que se encuentra un electrón. A mayor valor de $n$, mayor es el nivel de energía y la distancia promedio del electrón al núcleo. Las otras opciones describen a los otros números cuánticos: la forma es descrita por $l$, la orientación por $m_l$ y el giro por $s$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_002",
+      "pregunta": "¿Cuál es la fórmula que determina el número máximo de electrones que puede contener un nivel principal de energía $n$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$n-1$$",
+        "B": "$$2l+1$$",
+        "C": "$$n^2$$",
+        "D": "$$2n^2$$",
+        "E": "$$2n+1$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula de Rydberg establece que el número máximo de electrones que puede albergar un nivel de energía principal ($n$) se calcula como $$2n^2$$. Por ejemplo, para $n=1$, el máximo es $2(1)^2=2$ electrones; para $n=2$, el máximo es $2(2)^2=8$ electrones. La fórmula $$2l+1$$ calcula el número de orbitales en un subnivel.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_003",
+      "pregunta": "¿Qué conjunto de valores puede tomar el número cuántico principal ($n$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cualquier número real positivo.",
+        "B": "Valores enteros desde 0 hasta $n-1$.",
+        "C": "Valores enteros positivos: 1, 2, 3, etc.",
+        "D": "Valores fraccionarios como 1/2 o -1/2.",
+        "E": "Valores de 0, 1, 2, 3."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número cuántico principal ($n$) puede tomar cualquier valor entero y positivo a partir de 1 ($n = 1, 2, 3, ...$). No puede ser cero, negativo o fraccionario. Los valores de 0 hasta $n-1$ corresponden al número cuántico secundario ($l$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_004",
+      "pregunta": "¿Cuántos electrones como máximo puede albergar el nivel de energía donde $n=2$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "2 electrones",
+        "B": "6 electrones",
+        "C": "8 electrones",
+        "D": "10 electrones",
+        "E": "18 electrones"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Utilizando la fórmula para la capacidad máxima de electrones en un nivel, $$2n^2$$, sustituimos $n=2$. El cálculo es $$2(2)^2 = 2(4) = 8$$. Por lo tanto, el segundo nivel principal de energía puede contener un máximo de 8 electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_005",
+      "pregunta": "¿Con qué propiedad física del electrón se relaciona directamente el número cuántico principal ($n$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La forma de su orbital.",
+        "B": "La distancia promedio del electrón al núcleo.",
+        "C": "La orientación espacial de su orbital.",
+        "D": "La carga eléctrica del electrón.",
+        "E": "La velocidad de giro del electrón."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El número cuántico principal ($n$) está relacionado con la distancia promedio del electrón al núcleo. Un valor mayor de $n$ implica un nivel de energía más alto y una mayor distancia promedio al núcleo. La forma y la orientación del orbital son descritas por los números cuánticos $l$ y $m_l$, respectivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_006",
+      "pregunta": "¿Cuál es el número cuántico principal ($n$) más alto que contiene electrones en un átomo de Kriptón ($_{36}$Kr)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$n=2$$",
+        "B": "$$n=3$$",
+        "C": "$$n=4$$",
+        "D": "$$n=5$$",
+        "E": "$$n=6$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La configuración electrónica del Kriptón ($_{36}$Kr) es $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6$. Los números que preceden a las letras de los subniveles ($s, p, d$) representan el número cuántico principal ($n$). El valor más alto de $n$ en esta configuración es 4, correspondiente a los subniveles $4s$ y $4p$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_007",
+      "pregunta": "Para un electrón ubicado en el nivel de energía principal $n=4$, ¿cuáles son los posibles valores del número cuántico secundario ($l$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$l$ = 0, 1, 2, 3, 4",
+        "B": "$l$ = 1, 2, 3",
+        "C": "$l$ = 0, 1, 2",
+        "D": "$l$ = 0, 1, 2, 3",
+        "E": "$l$ = -3, -2, -1, 0, 1, 2, 3"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número cuántico secundario o azimutal ($l$) puede tomar valores enteros desde 0 hasta $n-1$. Si el número cuántico principal es $n=4$, entonces $l$ puede tomar los valores desde 0 hasta $(4-1)=3$. Por lo tanto, los valores posibles para $l$ son 0, 1, 2 y 3, que corresponden a los subniveles $s$, $p$, $d$ y $f$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_008",
+      "pregunta": "¿Cuál es el número máximo de electrones que puede contener el tercer nivel principal de energía ($n=3$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "8 electrones",
+        "B": "10 electrones",
+        "C": "16 electrones",
+        "D": "18 electrones",
+        "E": "32 electrones"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Aplicando la fórmula $$2n^2$$ para el número máximo de electrones en un nivel, con $n=3$, obtenemos $$2(3)^2 = 2(9) = 18$$. Así, el tercer nivel de energía puede albergar un máximo de 18 electrones, distribuidos en sus subniveles $s$, $p$ y $d$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_009",
+      "pregunta": "De los siguientes gases nobles, ¿cuál utiliza el nivel de energía $n=5$ para alojar a sus electrones más externos (de valencia)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Argón (Ar)",
+        "B": "Kriptón (Kr)",
+        "C": "Xenón (Xe)",
+        "D": "Radón (Rn)",
+        "E": "Neón (Ne)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los electrones de valencia son los que se encuentran en el nivel de energía principal más alto. La configuración del Xenón ($_{54}$Xe) termina en $5s^2 4d^{10} 5p^6$. El nivel principal más alto ocupado es el $n=5$, por lo tanto, es el Xenón el que tiene sus electrones más externos en dicho nivel.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_010",
+      "pregunta": "¿Cuántos electrones se encuentran en el segundo nivel principal de energía ($n=2$) del Neón ($_{10}$Ne)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "2",
+        "B": "6",
+        "C": "8",
+        "D": "10",
+        "E": "18"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La configuración electrónica del Neón ($_{10}$Ne) es $1s^2 2s^2 2p^6$. Para encontrar los electrones en el nivel $n=2$, sumamos los electrones de los subniveles $2s$ y $2p$. Hay 2 electrones en $2s$ y 6 electrones en $2p$, lo que da un total de $2+6=8$ electrones en el segundo nivel principal de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_011",
+      "pregunta": "El número cuántico principal ($n$) describe el nivel de energía, mientras que el número cuántico secundario ($l$) describe:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La misma propiedad que $n$ pero con otra escala.",
+        "B": "La orientación específica de un orbital.",
+        "C": "El número total de electrones en el átomo.",
+        "D": "El subnivel de energía y la forma del orbital.",
+        "E": "La distancia exacta del electrón al núcleo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Estos dos números cuánticos describen aspectos diferentes de la distribución electrónica. Mientras que $n$ define el nivel energético principal y la distancia promedio al núcleo, $l$ (el número cuántico secundario o azimutal) define el subnivel de energía dentro de ese nivel principal y determina la forma geométrica del orbital (esférica para $l=0$, bilobular para $l=1$, etc.).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_012",
+      "pregunta": "Un átomo tiene electrones hasta el nivel $n=4$. ¿Cuál es la capacidad máxima teórica de electrones para este nivel según la fórmula de Rydberg?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "8 electrones",
+        "B": "16 electrones",
+        "C": "18 electrones",
+        "D": "32 electrones",
+        "E": "50 electrones"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La capacidad máxima teórica de electrones para un nivel de energía principal se calcula con la fórmula $$2n^2$$. Para el nivel $n=4$, el cálculo es $$2(4)^2 = 2(16) = 32$$. Por lo tanto, el cuarto nivel de energía puede contener teóricamente hasta 32 electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_013",
+      "pregunta": "En la configuración electrónica del Radón ($_{86}$Rn), ¿cuántos electrones en total ocupan niveles de energía con un número cuántico principal ($n$) par?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "32",
+        "B": "40",
+        "C": "46",
+        "D": "48",
+        "E": "50"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La configuración del Radón es $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6 5s^2 4d^{10} 5p^6 6s^2 4f^{14} 5d^{10} 6p^6$. Debemos sumar los electrones en los niveles $n=2$, $n=4$ y $n=6$. \n- Nivel $n=2$: $2s^2 2p^6 \rightarrow 8$ electrones.\n- Nivel $n=4$: $4s^2 4d^{10} 4f^{14} 4p^6 \rightarrow 2+10+14+6 = 32$ electrones.\n- Nivel $n=6$: $6s^2 6p^6 \rightarrow 8$ electrones.\nEl total es $8 + 32 + 8 = 48$ electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_014",
+      "pregunta": "Si un nivel principal de energía tiene un número cuántico $n=3$, ¿cuál es el número total de orbitales que existen en dicho nivel?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "3",
+        "B": "5",
+        "C": "9",
+        "D": "16",
+        "E": "18"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para $n=3$, los posibles valores de $l$ son 0, 1 y 2. El número de orbitales en cada subnivel se calcula con la fórmula $2l+1$.\n- Para $l=0$ (subnivel s): $2(0)+1 = 1$ orbital.\n- Para $l=1$ (subnivel p): $2(1)+1 = 3$ orbitales.\n- Para $l=2$ (subnivel d): $2(2)+1 = 5$ orbitales.\nEl número total de orbitales en el nivel $n=3$ es la suma de los orbitales en sus subniveles: $1 + 3 + 5 = 9$ orbitales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_070_015",
+      "pregunta": "Analizando la configuración electrónica del Xenón ($_{54}$Xe), ¿cuál de sus niveles de energía principales está completamente lleno de acuerdo con la capacidad máxima teórica dada por la fórmula $$2n^2$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$n=1$ únicamente",
+        "B": "$n=4$",
+        "C": "$n=5$",
+        "D": "$n=3$",
+        "E": "Ninguno está completamente lleno"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La configuración del Xenón ($_{54}$Xe) es $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6 5s^2 4d^{10} 5p^6$. Comparemos la cantidad de electrones real con la teórica ($2n^2$) para cada nivel:\n- $n=1$: Real=$2$, Teórico=$2(1)^2=2$. Está lleno.\n- $n=2$: Real=$2+6=8$, Teórico=$2(2)^2=8$. Está lleno.\n- $n=3$: Real=$2+6+10=18$, Teórico=$2(3)^2=18$. Está lleno.\n- $n=4$: Real=$2+10+6=18$, Teórico=$2(4)^2=32$. No está lleno.\n- $n=5$: Real=$2+6=8$, Teórico=$2(5)^2=50$. No está lleno.\nDe las opciones proporcionadas, $n=3$ es un nivel que está completamente lleno según su capacidad teórica.",
+      "imagen": null
+    }
+  ]
+}

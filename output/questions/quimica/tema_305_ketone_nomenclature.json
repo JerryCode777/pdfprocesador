@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 305,
+  "total_temas": 322,
+  "titulo_tema": "Ketone Nomenclature",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_305_001",
+      "pregunta": "¿Cuál es la estructura general que representa a una cetona?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R-CHO$$",
+        "B": "$$R-COOH$$",
+        "C": "$$R-CO-R'$$",
+        "D": "$$R-O-R'$$",
+        "E": "$$R-OH$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura general de una cetona es $$R-CO-R'$$, donde un grupo carbonilo ($$-C=O$$) está enlazado a dos grupos alquilo, representados por $R$ y $R'$. Las otras opciones representan un aldehído ($$R-CHO$$), un ácido carboxílico ($$R-COOH$$), un éter ($$R-O-R'$$) y un alcohol ($$R-OH$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_002",
+      "pregunta": "En la nomenclatura IUPAC de las cetonas, ¿qué terminación se utiliza para reemplazar el sufijo \"-ano\" del alcano correspondiente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-ol",
+        "B": "-al",
+        "C": "-ico",
+        "D": "-ona",
+        "E": "-éter"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para nombrar las cetonas según las reglas de la IUPAC, la terminación \"-ano\" del alcano con la misma cantidad de carbonos en la cadena principal se sustituye por la terminación \"-ona\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_003",
+      "pregunta": "¿Cuál es el nombre IUPAC de la molécula con la estructura $$CH₃-CO-CH₃$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Etanona",
+        "B": "Acetona",
+        "C": "Propanona",
+        "D": "Metanona",
+        "E": "Butanona"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La molécula tiene una cadena de tres átomos de carbono, por lo que su nombre se deriva del alcano \"propano\". Siguiendo las reglas de la IUPAC, se reemplaza la terminación \"-ano\" por \"-ona\", resultando en el nombre Propanona. \"Acetona\" es su nombre común, pero no el sistemático de la IUPAC.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_004",
+      "pregunta": "El grupo funcional característico de las cetonas, que consiste en un átomo de carbono unido a un átomo de oxígeno mediante un doble enlace ($$-C=O$$), se denomina:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Grupo hidroxilo",
+        "B": "Grupo carboxilo",
+        "C": "Grupo éter",
+        "D": "Grupo carbonilo",
+        "E": "Grupo alquilo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El grupo funcional $$–C=O$$ es conocido como el grupo carbonilo. En las cetonas, este grupo se encuentra enlazado a dos grupos alquilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_005",
+      "pregunta": "Según las reglas de nomenclatura IUPAC, ¿qué se debe hacer al nombrar una cetona cíclica sin sustituyentes?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Usar el prefijo \"ceto-\".",
+        "B": "Añadir la terminación \"-ona\" al nombre del sistema cíclico.",
+        "C": "Nombrar el anillo como un sustituyente.",
+        "D": "Indicar la posición del carbonilo con el número 1.",
+        "E": "Usar el nombre del alcano lineal equivalente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para las cetonas cíclicas, el nombre se forma añadiendo la terminación \"-ona\" (o \"-diona\", etc.) al nombre del compuesto cíclico. Por ejemplo, una cetona derivada del ciclohexano se llama ciclohexanona.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_006",
+      "pregunta": "¿Qué elemento es siempre necesario especificar en la nomenclatura de las cetonas para indicar la ubicación del grupo funcional en la cadena principal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La cantidad de hidrógenos.",
+        "B": "La posición del grupo carbonilo mediante localizadores.",
+        "C": "El tipo de enlace (simple, doble, triple).",
+        "D": "La presencia de grupos metilo.",
+        "E": "La isomería geométrica."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Es fundamental precisar la posición del grupo carbonilo utilizando un localizador numérico. Esto asegura que el nombre describa de manera inequívoca la estructura de la molécula, especialmente en cadenas largas donde el grupo carbonilo puede ocupar diferentes posiciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_007",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la cetona $$CH₃CH₂COCH₃$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Propanona",
+        "B": "2-Pentanona",
+        "C": "Metil etil cetona",
+        "D": "Butanona",
+        "E": "1-Butanona"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La molécula tiene una cadena de cuatro carbonos, por lo que deriva del \"butano\". Al aplicar la terminación \"-ona\", el nombre es Butanona. Aunque un localizador (2-Butanona) sería más preciso, en esta molécula el grupo carbonilo solo puede estar en la posición 2, por lo que a menudo se omite.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_008",
+      "pregunta": "En el nombre 5-ciclohexilnonano-2,7-diona, ¿qué indica el término \"ciclohexil\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la cadena principal es un ciclohexano.",
+        "B": "Que la molécula contiene dos anillos de seis carbonos.",
+        "C": "Que un grupo ciclohexano está unido como sustituyente a la cadena principal.",
+        "D": "Que la cetona es cíclica.",
+        "E": "Que el compuesto es aromático."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando una estructura cíclica no es la cadena principal, se nombra como un sustituyente. En este caso, \"ciclohexil\" indica que un anillo de ciclohexano está unido a la cadena principal de nonano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_009",
+      "pregunta": "En el nombre 5-ciclohexilnonano-2,7-diona, ¿qué significa el sufijo \"-diona\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que hay dos anillos de ciclohexano.",
+        "B": "Que la molécula es un dímero.",
+        "C": "Que la molécula tiene dos enlaces dobles carbono-carbono.",
+        "D": "Que hay dos grupos funcionales cetona.",
+        "E": "Que la cadena principal tiene dos tipos de sustituyentes."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El prefijo \"di-\" indica la presencia de dos elementos. Combinado con el sufijo \"-ona\" de las cetonas, \"-diona\" especifica que la molécula contiene dos grupos carbonilo ($$-C=O$$) en la cadena principal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_010",
+      "pregunta": "Basado en la estructura general $$R-CO-R'$$ para una cetona, ¿qué tipo de grupos son $R$ y $R'$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre son átomos de hidrógeno.",
+        "B": "Son grupos alquilo.",
+        "C": "Uno es un grupo alquilo y el otro es un hidrógeno.",
+        "D": "Son grupos hidroxilo ($$-OH$$).",
+        "E": "Son grupos halógenos (F, Cl, Br, I)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una cetona se define por tener dos grupos alquilo (cadenas de carbono e hidrógeno) enlazados directamente al carbono del grupo carbonilo. Si uno de los sustituyentes fuera un átomo de hidrógeno, la molécula sería un aldehído, no una cetona.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_011",
+      "pregunta": "¿Cómo se nombra una estructura cíclica cuando actúa como un sustituyente en una cadena principal que contiene una cetona?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se nombra como la estructura principal, independientemente de la longitud de la cadena.",
+        "B": "Se ignora en la nomenclatura.",
+        "C": "Se considera y nombra como un sustituyente alquilo (p. ej., ciclohexil).",
+        "D": "Se le asigna la terminación \"-ona\" y se coloca al final del nombre.",
+        "E": "Se le asigna la letra griega omega ($$\\omega$$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando una estructura cíclica está unida a una cadena acíclica más larga o que contiene el grupo funcional principal, el anillo se trata como un sustituyente. Para ello, se cambia la terminación \"-ano\" del cicloalcano por \"-il\", por ejemplo, ciclohexano se convierte en ciclohexil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_012",
+      "pregunta": "¿Por qué la molécula de Propanona ($$CH₃-CO-CH₃$$) no requiere un localizador numérico en su nombre IUPAC?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque todas las cetonas de tres carbonos son isómeros.",
+        "B": "Porque el grupo carbonilo solo puede estar en el carbono central (posición 2) para ser una cetona.",
+        "C": "Porque la molécula es perfectamente simétrica.",
+        "D": "Porque la nomenclatura IUPAC no usa números para cadenas de menos de cuatro carbonos.",
+        "E": "Porque es la cetona más simple que existe."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una cadena de tres carbonos, el grupo carbonilo debe estar en el carbono central (posición 2) para cumplir con la definición de cetona (estar entre dos carbonos). Si estuviera en un extremo (posición 1 o 3), sería un aldehído. Por lo tanto, su posición es inequívoca y el número es redundante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_013",
+      "pregunta": "En el nombre IUPAC \"5-ciclohexilnonano-2,7-diona\", ¿qué información específica proporcionan los números \"2,7\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Indican que la cadena principal tiene 2 y 7 carbonos.",
+        "B": "Son las posiciones de dos grupos ciclohexilo en la cadena.",
+        "C": "Son las posiciones de los dos grupos carbonilo ($$-C=O$$) en la cadena de nonano.",
+        "D": "Indican el número total de sustituyentes en la molécula.",
+        "E": "Representan los carbonos donde se unen la cadena principal y el anillo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los números \"2,7\" son localizadores que indican las posiciones de los grupos funcionales a los que se refiere el sufijo. En este caso, el sufijo es \"-diona\", por lo que los números 2 y 7 señalan que los grupos carbonilo se encuentran en el segundo y séptimo carbono de la cadena principal de nueve carbonos (nonano).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_014",
+      "pregunta": "Considerando la estructura general de una cetona ($$R-CO-R'$$), donde R y R' son grupos alquilo, ¿por qué es químicamente imposible la existencia de una \"Metanona\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El metano es un gas y no puede formar cetonas.",
+        "B": "Una cetona requiere un mínimo de tres átomos de carbono para que el carbonilo esté entre dos grupos alquilo.",
+        "C": "El nombre \"Metanona\" está reservado para un isómero del formaldehído.",
+        "D": "El carbono no puede formar un doble enlace con el oxígeno en una molécula de un solo carbono.",
+        "E": "La terminación \"-ona\" no se puede aplicar a cadenas de un solo carbono."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La definición de una cetona exige que el carbono del grupo carbonilo esté enlazado a otros dos átomos de carbono (los grupos R y R'). Una molécula con un solo carbono (\"met-\") no puede cumplir esta condición. La cetona más simple posible necesita un carbono central para el grupo carbonilo y al menos un carbono a cada lado, sumando un mínimo de tres carbonos (Propanona).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_305_015",
+      "pregunta": "¿Cuál de los siguientes nombres describe correctamente una molécula con un anillo de seis carbonos que contiene un grupo cetona y no tiene otros sustituyentes?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "1-Ciclohexanona",
+        "B": "Ciclohexil cetona",
+        "C": "Hexanona cíclica",
+        "D": "Ciclohexanona",
+        "E": "Bencenona"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Según las reglas para cetonas cíclicas, se añade la terminación \"-ona\" al nombre del sistema cíclico, en este caso, \"ciclohexano\", resultando en \"Ciclohexanona\". No es necesario el localizador \"1-\" porque, en ausencia de otros sustituyentes, se asume que el carbono del grupo carbonilo ocupa la posición 1.",
+      "imagen": null
+    }
+  ]
+}

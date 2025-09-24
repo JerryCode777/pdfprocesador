@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 26,
+  "total_temas": 322,
+  "titulo_tema": "Estado Líquido",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_026_001",
+      "pregunta": "¿Cuáles son los tres estados de agregación principales de la materia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólido, Líquido, Coloidal",
+        "B": "Líquido, Gaseoso, Plasma",
+        "C": "Sólido, Líquido, Gaseoso",
+        "D": "Sólido, Gaseoso, Iónico",
+        "E": "Líquido, Cristalino, Gaseoso"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los tres estados de agregación principales en los que existe la materia son sólido, líquido y gaseoso. Estos estados se distinguen por las propiedades de forma, volumen y el movimiento de sus partículas. El plasma es a menudo referido como el cuarto estado de la materia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_002",
+      "pregunta": "¿Qué estado de la materia se caracteriza por tener tanto forma como volumen definidos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Líquido",
+        "C": "Gaseoso",
+        "D": "Plasmático",
+        "E": "Coloidal"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El estado sólido es el único que posee una forma y un volumen definidos. Esto se debe a que las fuerzas de cohesión entre sus moléculas son muy fuertes, manteniéndolas en posiciones fijas y ordenadas con escasa libertad de movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_003",
+      "pregunta": "¿Cuál es la principal característica del estado líquido en cuanto a su forma y volumen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Forma y volumen definidos.",
+        "B": "Forma y volumen indefinidos.",
+        "C": "Forma indefinida y volumen definido.",
+        "D": "Forma definida y volumen indefinido.",
+        "E": "Forma y volumen variables según la presión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los líquidos tienen la capacidad de adoptar la forma del recipiente que los contiene (forma indefinida), pero ocupan siempre el mismo espacio (volumen definido). Esto se debe a un equilibrio entre las fuerzas de cohesión y repulsión que permite a las moléculas moverse pero sin separarse completamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_004",
+      "pregunta": "En el estado gaseoso, ¿cuál es la relación predominante entre las fuerzas moleculares?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las fuerzas de cohesión son mayores que las de repulsión.",
+        "B": "Las fuerzas de cohesión y repulsión son iguales.",
+        "C": "Predominan las fuerzas de repulsión.",
+        "D": "No existen fuerzas moleculares.",
+        "E": "Las fuerzas son siempre atractivas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el estado gaseoso, las fuerzas de repulsión entre las moléculas son significativamente mayores que las fuerzas de cohesión (unión). Esto causa que las moléculas se separen por grandes distancias y se muevan libremente, explicando por qué los gases no tienen forma ni volumen definidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_005",
+      "pregunta": "¿Qué estado de la materia es descrito como un gas ionizado que se genera a temperaturas muy altas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Gaseoso",
+        "B": "Sólido",
+        "C": "Líquido",
+        "D": "Condensado",
+        "E": "Plasmático"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El estado plasmático es un gas que ha sido sometido a temperaturas extremadamente altas (entre 1,000 y 10,000 °C), lo que provoca que sus átomos pierdan electrones y se conviertan en iones (cationes). Es el estado más abundante en el universo, presente en estrellas y nebulosas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_006",
+      "pregunta": "¿Qué relación matemática describe correctamente las fuerzas intermoleculares en el estado líquido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Fuerzas\\ de\\ cohesión > Fuerzas\\ de\\ repulsión$$",
+        "B": "$$Fuerzas\\ de\\ cohesión < Fuerzas\\ de\\ repulsión$$",
+        "C": "$$Fuerzas\\ de\\ cohesión = Fuerzas\\ de\\ repulsión$$",
+        "D": "$$Fuerzas\\ de\\ cohesión \\approx 0$$",
+        "E": "$$Fuerzas\\ de\\ repulsión \\approx 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el estado líquido, existe un equilibrio entre las fuerzas que mantienen unidas a las moléculas (cohesión) y las que tienden a separarlas (repulsión). Esta igualdad, representada por $$Fuerzas\\ de\\ cohesión = Fuerzas\\ de\\ repulsión$$, permite que las moléculas estén cerca unas de otras pero con la libertad de moverse y deslizarse entre sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_007",
+      "pregunta": "¿Por qué el estado sólido es considerado prácticamente incompresible?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque sus moléculas están muy separadas.",
+        "B": "Porque las fuerzas de repulsión son dominantes.",
+        "C": "Porque sus moléculas ya se mantienen juntas de manera ordenada y cercana.",
+        "D": "Porque no tiene un volumen definido.",
+        "E": "Porque sus moléculas no tienen energía cinética."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La incompresibilidad de los sólidos se debe a que sus partículas (átomos o moléculas) ya están empaquetadas de forma muy compacta y ordenada, con muy poco espacio libre entre ellas. Las fuertes fuerzas de cohesión las mantienen en posiciones fijas, haciendo extremadamente difícil reducir su volumen aplicando presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_008",
+      "pregunta": "¿Cuál es la principal diferencia entre el movimiento de las moléculas en el estado líquido y el estado sólido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En los líquidos las moléculas no se mueven, en los sólidos sí.",
+        "B": "En los sólidos las moléculas tienen escasa libertad de movimiento, mientras que en los líquidos pueden moverse.",
+        "C": "En ambos estados el movimiento es idéntico.",
+        "D": "En los sólidos las moléculas están muy separadas, y en los líquidos están juntas.",
+        "E": "Los líquidos no tienen energía cinética, los sólidos sí."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental radica en la libertad de movimiento. En un sólido, las moléculas están en posiciones fijas y ordenadas, con escasa libertad. En un líquido, aunque las moléculas están cerca, no se mantienen en una posición rígida, lo que les permite moverse y fluir.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_009",
+      "pregunta": "La capacidad de conducir electricidad y ser influido por campos magnéticos es una propiedad característica del estado plasmático. ¿A qué se debe esta propiedad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A su alta densidad.",
+        "B": "A que está formado por átomos neutros a baja temperatura.",
+        "C": "A su forma y volumen definidos.",
+        "D": "A que está compuesto por iones (cationes) y electrones libres.",
+        "E": "A las fuertes fuerzas de cohesión entre sus partículas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El plasma es un gas ionizado, lo que significa que sus átomos han perdido electrones, resultando en una mezcla de iones con carga positiva (cationes) y electrones con carga negativa. La presencia de estas partículas cargadas y libres es lo que le confiere la capacidad de conducir la corriente eléctrica y de reaccionar ante campos magnéticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_010",
+      "pregunta": "Si una sustancia se transfiere de un recipiente cúbico a uno esférico y ocupa completamente el volumen de ambos, ¿en qué estado de agregación se encuentra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Líquido",
+        "C": "Gaseoso",
+        "D": "Plasmático",
+        "E": "Coloidal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una sustancia que toma tanto la forma como el volumen del recipiente que la contiene está en estado gaseoso. Las moléculas de un gas están muy separadas y en constante movimiento debido a que las fuerzas de repulsión superan a las de cohesión, lo que les permite expandirse hasta llenar cualquier espacio disponible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_011",
+      "pregunta": "¿En qué estado de agregación las moléculas están cerca unas de otras pero no se mantienen en una posición rígida, permitiendo el movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Gaseoso",
+        "B": "Sólido",
+        "C": "Plasmático",
+        "D": "Líquido",
+        "E": "Condensado de Bose-Einstein"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta descripción corresponde al estado líquido. A diferencia de los sólidos, donde las moléculas están en posiciones fijas, en los líquidos las moléculas tienen suficiente energía cinética para deslizarse unas sobre otras. A diferencia de los gases, las moléculas en un líquido permanecen relativamente cerca debido al equilibrio entre las fuerzas de cohesión y repulsión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_012",
+      "pregunta": "¿Cuál de las siguientes afirmaciones compara correctamente los estados sólido y gaseoso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos tienen volumen definido.",
+        "B": "En el sólido predominan las fuerzas de cohesión y en el gaseoso las de repulsión.",
+        "C": "Ambos son fácilmente compresibles.",
+        "D": "En el gaseoso las moléculas están ordenadas y en el sólido están separadas.",
+        "E": "El sólido tiene forma indefinida y el gaseoso forma definida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental entre el estado sólido y el gaseoso radica en las fuerzas intermoleculares. En los sólidos, las fuerzas de cohesión son mucho mayores que las de repulsión ($$Fuerzas\\ de\\ cohesión > Fuerzas\\ de\\ repulsión$$), manteniendo una estructura rígida. En los gases, las fuerzas de repulsión dominan ($$Fuerzas\\ de\\ cohesión < Fuerzas\\ de\\ repulsión$$), causando que las moléculas se dispersen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_013",
+      "pregunta": "Una sustancia se encuentra en un estado donde las fuerzas de cohesión son significativamente mayores que las fuerzas de repulsión ($$Fuerzas\\ de\\ cohesión > Fuerzas\\ de\\ repulsión$$). ¿Qué propiedades se pueden predecir para esta sustancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es compresible y tiene forma indefinida.",
+        "B": "Tiene volumen definido pero forma indefinida.",
+        "C": "Tiene forma y volumen definidos y es prácticamente incompresible.",
+        "D": "Es un gas ionizado que conduce electricidad.",
+        "E": "Sus moléculas están muy separadas y se mueven libremente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La condición $$Fuerzas\\ de\\ cohesión > Fuerzas\\ de\\ repulsión$$ es la característica principal del estado sólido. Esta predominancia de las fuerzas de unión hace que las moléculas se mantengan en una estructura ordenada y rígida, con escaso movimiento. Como resultado, la sustancia tendrá una forma y un volumen definidos y será muy difícil de comprimir.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_014",
+      "pregunta": "Si al analizar un material se observa que sus partículas están muy juntas pero no mantienen una posición rígida, permitiendo que el material fluya, ¿qué se puede concluir sobre las fuerzas intermoleculares y su volumen?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las fuerzas de repulsión predominan y su volumen es indefinido.",
+        "B": "Las fuerzas de cohesión y repulsión están en equilibrio y su volumen es definido.",
+        "C": "Las fuerzas de cohesión predominan y su volumen es indefinido.",
+        "D": "Las fuerzas de cohesión y repulsión están en equilibrio y su volumen es indefinido.",
+        "E": "Las fuerzas de cohesión predominan y su volumen es definido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La descripción corresponde a un líquido: partículas juntas (cohesión) pero con capacidad de movimiento (fluidez). Este comportamiento se debe a un equilibrio entre las fuerzas intermoleculares ($$Fuerzas\\ de\\ cohesión = Fuerzas\\ de\\ repulsión$$). Una consecuencia directa de este equilibrio es que los líquidos mantienen un volumen constante y definido, aunque su forma sea variable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_026_015",
+      "pregunta": "El material más abundante del Universo se encuentra en las estrellas y es capaz de ser influido por campos magnéticos. ¿Qué proceso da origen a este estado y qué implicación tiene para sus partículas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Fusión a bajas temperaturas, creando partículas neutras.",
+        "B": "Combustión a muy altas temperaturas, causando que los átomos pierdan electrones y se conviertan en cationes.",
+        "C": "Solidificación por alta presión, ordenando las moléculas en una red cristalina.",
+        "D": "Evaporación, donde las fuerzas de repulsión se igualan a las de cohesión.",
+        "E": "Sublimación, donde los átomos ganan electrones para formar aniones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este material es el plasma. Se genera por combustión a temperaturas extremadamente altas, como las que existen en las estrellas. Este calor intenso proporciona la energía necesaria para que los átomos pierdan sus electrones, un proceso llamado ionización, que los convierte en iones positivos o cationes. La presencia de estas partículas cargadas (cationes y electrones libres) es lo que permite que el plasma interactúe con campos magnéticos.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 57,
+  "total_temas": 322,
+  "titulo_tema": "Principio de Incertidumbre",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_057_001",
+      "pregunta": "¿Qué es un anión?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un ion con carga positiva.",
+        "B": "Un átomo en estado neutro.",
+        "C": "Un ion con carga negativa.",
+        "D": "Una partícula subatómica sin electrones.",
+        "E": "Una especie química que ha perdido protones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un anión es, por definición, un ion que posee una carga eléctrica neta negativa. Esta carga se origina cuando un átomo neutro gana uno o más electrones, resultando en un exceso de electrones en comparación con el número de protones en el núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_002",
+      "pregunta": "¿Cómo se define un catión?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un ion con carga negativa.",
+        "B": "Un ion con carga positiva.",
+        "C": "Un átomo que ha ganado electrones.",
+        "D": "Una partícula isoelectrónica a un gas noble.",
+        "E": "Un átomo en su estado fundamental."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un catión es un ion que tiene una carga eléctrica neta positiva. Se forma cuando un átomo neutro pierde uno o más electrones, lo que deja un número de protones en el núcleo que es mayor al número de electrones restantes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_003",
+      "pregunta": "¿Qué característica principal comparten las especies químicas isoelectrónicas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El mismo número de protones.",
+        "B": "La misma masa atómica.",
+        "C": "El mismo número de electrones.",
+        "D": "La misma carga eléctrica.",
+        "E": "Pertenecen al mismo grupo de la tabla periódica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las especies isoelectrónicas son aquellos átomos o iones que, a pesar de ser diferentes, poseen el mismo número total de electrones. Como consecuencia directa, también comparten la misma configuración electrónica en su estado fundamental.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_004",
+      "pregunta": "¿Qué establece fundamentalmente el principio de incertidumbre de Heisenberg?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es imposible medir la carga exacta de un electrón.",
+        "B": "Es imposible determinar la masa de una partícula con total exactitud.",
+        "C": "Es imposible conocer simultáneamente la posición y el momento exactos de un electrón.",
+        "D": "Los electrones no tienen propiedades ondulatorias.",
+        "E": "Todas las partículas tienen una longitud de onda asociada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de incertidumbre de Heisenberg es un pilar de la mecánica cuántica que establece una limitación fundamental en la precisión con la que se pueden conocer simultáneamente ciertos pares de propiedades físicas de una partícula, como su posición y su momento lineal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_005",
+      "pregunta": "Según la predicción de Louis de Broglie, ¿qué propiedad debería tener asociada una partícula con masa '$m$' y velocidad '$v$'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una carga eléctrica definida.",
+        "B": "Una longitud de onda.",
+        "C": "Una posición fija en el espacio.",
+        "D": "Un momento angular nulo.",
+        "E": "La capacidad de emitir fotones de alta energía."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Louis de Broglie postuló la dualidad onda-partícula, prediciendo que cualquier partícula en movimiento, con masa '$m$' y velocidad '$v$', exhibe un comportamiento ondulatorio y, por lo tanto, tiene una longitud de onda asociada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_006",
+      "pregunta": "¿Qué proceso a nivel atómico conduce a la formación de un ion con carga positiva?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ganancia de uno o más electrones.",
+        "B": "La pérdida de uno o más protones.",
+        "C": "La pérdida de uno o más electrones.",
+        "D": "La ganancia de neutrones.",
+        "E": "La fusión del núcleo con otro átomo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un ion con carga positiva, o catión, se forma cuando un átomo neutro cede (pierde) uno o más electrones de su capa de valencia. Al perder cargas negativas, el balance de cargas se inclina hacia el positivo de los protones del núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_007",
+      "pregunta": "¿Cuál fue la contribución de R. A. Millikan que, combinada con datos previos, permitió calcular la masa del electrón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La determinación de la relación carga/masa del electrón.",
+        "B": "La demostración de la difracción de electrones.",
+        "C": "La medición de la carga del electrón.",
+        "D": "La predicción de la longitud de onda asociada a una partícula.",
+        "E": "La formulación del principio de incertidumbre."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "R. A. Millikan midió experimentalmente el valor de la carga fundamental del electrón ($$1.6022 \\times 10^{-19} \\text{ C}$$). Este valor fue crucial porque, al utilizar la relación carga/masa ya determinada por J. J. Thomson, se pudo despejar y calcular por primera vez la masa del electrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_008",
+      "pregunta": "¿Qué demostró el experimento de C. Davison y L. H. Gerber al difractar electrones con un cristal de níquel?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los electrones tienen una carga eléctrica negativa.",
+        "B": "Que los electrones tienen una masa muy pequeña.",
+        "C": "Que los electrones se comportan exclusivamente como partículas.",
+        "D": "Que los electrones poseen propiedades ondulatorias.",
+        "E": "Que es imposible conocer la posición exacta de un electrón."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La difracción es un fenómeno característico de las ondas. Al observar que un haz de electrones podía ser difractado por la estructura cristalina del níquel, Davison y Gerber proporcionaron la primera confirmación experimental de la hipótesis de De Broglie: los electrones, además de ser partículas, tienen propiedades de onda.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_009",
+      "pregunta": "¿Cuál es el valor de la relación carga/masa de un electrón que fue determinada por J. J. Thomson?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$9.1 \\times 10^{-28} \\text{ C/g}$$",
+        "B": "$$1.6022 \\times 10^{-19} \\text{ C/g}$$",
+        "C": "$$-1.76 \\times 10^8 \\text{ C/g}$$",
+        "D": "$$-1.6022 \\times 10^{-19} \\text{ C/g}$$",
+        "E": "$$1.76 \\times 10^{-8} \\text{ C/g}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "J. J. Thomson, a través de sus experimentos con tubos de rayos catódicos, determinó que la relación entre la carga eléctrica y la masa de un electrón es de $$-1.76 \\times 10^8$$ Coulombs por gramo. El signo negativo indica la naturaleza de la carga del electrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_010",
+      "pregunta": "¿Qué dos propiedades de un electrón son imposibles de determinar simultáneamente con exactitud absoluta, según la mecánica cuántica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su carga y su masa.",
+        "B": "Su momento y su posición.",
+        "C": "Su velocidad y su carga.",
+        "D": "Su longitud de onda y su masa.",
+        "E": "Su energía y su carga."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de incertidumbre de Heisenberg establece que existe un límite fundamental para la precisión con la que se pueden conocer simultáneamente el momento (que está relacionado con la masa y la velocidad) y la posición de una partícula cuántica como el electrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_011",
+      "pregunta": "Un átomo neutro se convierte en un anión. ¿Qué ha ocurrido a nivel subatómico para que esto suceda?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El átomo ha perdido un protón del núcleo.",
+        "B": "El átomo ha ganado uno o más electrones.",
+        "C": "El átomo ha perdido uno o más electrones.",
+        "D": "El número de neutrones en el núcleo ha aumentado.",
+        "E": "El núcleo atómico se ha dividido en dos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un anión es un ion con carga neta negativa. Este estado se alcanza cuando un átomo, que inicialmente es neutro (igual número de protones y electrones), acepta o gana uno o más electrones. El exceso de electrones (cargas negativas) sobre los protones (cargas positivas) resulta en la carga negativa del anión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_012",
+      "pregunta": "Con base en los datos de carga ($$1.6022 \\times 10^{-19} \\text{ C}$$) y masa ($$9.1 \\times 10^{-28} \\text{ g}$$) del electrón, ¿qué científico fue el responsable de medir la carga?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "J. J. Thomson",
+        "B": "Louis de Broglie",
+        "C": "C. Davison",
+        "D": "Heisenberg",
+        "E": "R. A. Millikan"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "R. A. Millikan fue quien midió la carga del electrón en sus famosos experimentos de la gota de aceite, obteniendo el valor de $$1.6022 \\times 10^{-19} \\text{ C}$$. J. J. Thomson había determinado previamente la relación carga/masa, pero fue la medición de Millikan la que permitió aislar el valor de la masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_013",
+      "pregunta": "¿Qué relación existe entre los descubrimientos de J. J. Thomson y R. A. Millikan para determinar las propiedades fundamentales del electrón?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos midieron la misma propiedad (la carga) usando métodos diferentes.",
+        "B": "El trabajo de Thomson refutó las conclusiones de Millikan.",
+        "C": "El valor de la carga del electrón de Millikan, combinado con la relación carga/masa de Thomson, permitió calcular la masa del electrón.",
+        "D": "El experimento de Millikan demostró la naturaleza ondulatoria que Thomson había predicho.",
+        "E": "No existe ninguna relación directa entre sus trabajos; estudiaron aspectos independientes del electrón."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los trabajos de ambos científicos son complementarios y fundamentales. Thomson determinó la relación $$\\frac{\\text{carga}}{\\text{masa}} = -1.76 \\times 10^8 \\text{ C/g}$$. Posteriormente, Millikan midió la carga, $$e \\approx 1.6022 \\times 10^{-19} \\text{ C}$$. Al combinar algebraicamente estos dos valores, se puede despejar la masa: $$\\text{masa} = \\frac{\\text{carga}}{\\left( \\frac{\\text{carga}}{\\text{masa}} \\right)}$$, lo que permitió el cálculo de la masa del electrón ($$9.1 \\times 10^{-28} \\text{ g}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_014",
+      "pregunta": "¿Cómo se conecta conceptualmente la naturaleza ondulatoria del electrón con el Principio de Incertidumbre de Heisenberg?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La naturaleza ondulatoria anula el principio de incertidumbre a altas velocidades.",
+        "B": "Si un electrón se comporta como una onda, su posición no está perfectamente definida en un único punto, lo que es la base de la incertidumbre en la posición.",
+        "C": "La longitud de onda del electrón determina su momento exacto, permitiendo así conocer su posición con certeza.",
+        "D": "Ambos conceptos son contradictorios y pertenecen a modelos atómicos diferentes e incompatibles.",
+        "E": "La difracción del electrón permite medir su posición y momento simultáneamente con gran precisión, contradiciendo el principio."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La dualidad onda-partícula es clave para entender el Principio de Incertidumbre. A diferencia de una partícula clásica con una ubicación precisa, una onda está, por su naturaleza, deslocalizada o extendida en el espacio. Esta propiedad ondulatoria inherente del electrón implica que no se le puede asignar una posición única y exacta, lo que da lugar a la incertidumbre fundamental en su posición que Heisenberg cuantificó en relación con la incertidumbre en su momento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_057_015",
+      "pregunta": "Si un átomo neutro X forma un catión $$X^{2+}$$ y un átomo neutro Y forma un anión $$Y^{-}$$, y ambos iones resultantes son isoelectrónicos entre sí, ¿qué se puede afirmar sobre el número de electrones de los átomos neutros originales?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El átomo X tenía 2 electrones más que el átomo Y.",
+        "B": "El átomo Y tenía 1 electrón más que el átomo X.",
+        "C": "El átomo X tenía 3 electrones más que el átomo Y.",
+        "D": "Ambos átomos tenían el mismo número de electrones.",
+        "E": "El átomo Y tenía 3 electrones más que el átomo X."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que los iones sean isoelectrónicos, deben tener el mismo número final de electrones. Sea $e_X$ el número de electrones del átomo neutro X y $e_Y$ el del átomo Y. El catión $$X^{2+}$$ se forma al perder 2 electrones, por lo que su número de electrones es $$e_X - 2$$. El anión $$Y^{-}$$ se forma al ganar 1 electrón, por lo que su número de electrones es $$e_Y + 1$$. Si son isoelectrónicos, igualamos sus electrones: $$e_X - 2 = e_Y + 1$$. Despejando la relación entre $e_X$ y $e_Y$, obtenemos $$e_X = e_Y + 3$$. Esto significa que el átomo neutro original X tenía 3 electrones más que el átomo neutro original Y.",
+      "imagen": null
+    }
+  ]
+}

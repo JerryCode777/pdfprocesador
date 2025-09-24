@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 190,
+  "total_temas": 322,
+  "titulo_tema": "Agente Reductor",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_190_001",
+      "pregunta": "¿Cómo se define el proceso de oxidación en una reacción química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ganancia de electrones",
+        "B": "Disminución del número de oxidación",
+        "C": "Pérdida de electrones",
+        "D": "Ser reducido por otra sustancia",
+        "E": "Ser un agente oxidante"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La oxidación es el proceso químico en el que una especie atómica, iónica o molecular pierde electrones. Esta pérdida de electrones se manifiesta como un aumento en su número de oxidación. Las opciones A y B describen la reducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_002",
+      "pregunta": "¿Qué caracteriza fundamentalmente al proceso de reducción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un aumento en el número de oxidación",
+        "B": "La pérdida de electrones",
+        "C": "La ganancia de electrones",
+        "D": "La transformación en un agente reductor",
+        "E": "La cesión de electrones a otra especie"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La reducción se define como el proceso en el cual una especie química gana electrones. Esta ganancia de carga negativa resulta en una disminución de su número de oxidación. Las opciones A y B son características de la oxidación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_003",
+      "pregunta": "¿Cuál es la función de un agente reductor en una reacción redox?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Oxidar a otras sustancias",
+        "B": "Ganar electrones",
+        "C": "Reducir a otras sustancias",
+        "D": "Disminuir su propio número de oxidación",
+        "E": "Ser la especie que se reduce"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un agente reductor es la sustancia que provoca la reducción de otra especie química. Para lograr esto, el agente reductor debe ceder (perder) electrones, y al hacerlo, él mismo se oxida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_004",
+      "pregunta": "¿Qué es un agente oxidante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una sustancia que se oxida",
+        "B": "Una sustancia que pierde electrones",
+        "C": "Una sustancia que oxida a otras y en el proceso se reduce",
+        "D": "Una sustancia que reduce a otras y en el proceso se oxida",
+        "E": "Una sustancia que aumenta su número de oxidación"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un agente oxidante es la especie química que causa la oxidación de otra sustancia al aceptar sus electrones. Al ganar estos electrones, el agente oxidante se reduce. Por lo tanto, oxida a otra especie y se reduce a sí mismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_005",
+      "pregunta": "En el contexto de las reacciones redox, ¿qué representa una semirreacción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La reacción química completa y balanceada",
+        "B": "Únicamente el proceso de oxidación o el de reducción, por separado",
+        "C": "Una reacción que ocurre a la mitad de su velocidad normal",
+        "D": "La combinación del agente oxidante y el reductor",
+        "E": "Una reacción que no involucra transferencia de electrones"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una reacción redox se compone de dos partes: oxidación y reducción, que ocurren simultáneamente. Cada uno de estos procesos individuales, cuando se escribe como una ecuación propia, se denomina semirreacción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_006",
+      "pregunta": "¿Qué le sucede a una sustancia que actúa como agente reductor durante una reacción redox?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce",
+        "B": "Gana electrones",
+        "C": "Su número de oxidación disminuye",
+        "D": "Se oxida",
+        "E": "Actúa como agente oxidante"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un agente reductor es la especie que cede electrones para que otra se reduzca. El proceso de perder electrones se define como oxidación. Por lo tanto, el agente reductor siempre se oxida en una reacción redox.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_007",
+      "pregunta": "¿Cómo varía el número de oxidación de una especie que se reduce?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta",
+        "B": "Disminuye",
+        "C": "Permanece constante",
+        "D": "Se vuelve positivo",
+        "E": "Se duplica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La reducción es la ganancia de electrones. Como los electrones tienen carga negativa, al ganar uno o más electrones, el número de oxidación de la especie se hace menos positivo o más negativo, es decir, disminuye.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_008",
+      "pregunta": "En una reacción redox, ¿cuál es la relación entre los procesos de oxidación y reducción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La oxidación siempre ocurre primero",
+        "B": "La reducción siempre ocurre primero",
+        "C": "Son procesos independientes",
+        "D": "Son procesos simultáneos",
+        "E": "Solo uno de los dos puede ocurrir a la vez"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La transferencia de electrones que define a las reacciones redox requiere que una especie los pierda (oxidación) y otra los gane (reducción) al mismo tiempo. No pueden existir electrones libres en la reacción, por lo que ambos procesos son simultáneos e interdependientes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_009",
+      "pregunta": "En la semirreacción $$Cu \rightarrow Cu^{2+} + 2e^-$$, ¿qué proceso está ocurriendo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Reducción, porque se gana carga positiva",
+        "B": "Oxidación, porque se pierden electrones",
+        "C": "Reducción, porque el número de oxidación disminuye",
+        "D": "Neutralización, porque se forman iones",
+        "E": "Oxidación, porque se ganan electrones"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación muestra que el átomo de cobre ($$Cu$$), con estado de oxidación 0, se convierte en un ion cobre ($$Cu^{2+}$$) con estado de oxidación +2, liberando dos electrones ($$2e^-$$). La pérdida de electrones y el aumento del número de oxidación definen el proceso de oxidación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_010",
+      "pregunta": "Un agente oxidante es una especie que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "reduce a otra sustancia y se oxida.",
+        "B": "oxida a otra sustancia y se reduce.",
+        "C": "reduce a otra sustancia y se reduce.",
+        "D": "oxida a otra sustancia y se oxida.",
+        "E": "cede electrones y aumenta su número de oxidación."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El nombre 'agente oxidante' describe su función: oxidar a otra sustancia. Para lograrlo, debe tomar los electrones de esa otra sustancia. El acto de ganar electrones se llama reducción. Por lo tanto, un agente oxidante oxida a otra especie y, como consecuencia, se reduce a sí mismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_011",
+      "pregunta": "¿Cuál es la característica principal de un agente reductor en términos de transferencia de electrones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Gana electrones",
+        "B": "Pierde electrones",
+        "C": "No intercambia electrones",
+        "D": "Gana protones",
+        "E": "Acepta electrones de otra especie"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un agente reductor reduce a otra sustancia donándole electrones. Por lo tanto, su característica principal es que pierde o cede electrones. Este proceso es la oxidación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_012",
+      "pregunta": "Si el número de oxidación de un elemento aumenta durante una reacción, se puede afirmar que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "el elemento se ha reducido.",
+        "B": "el elemento ha ganado electrones.",
+        "C": "el elemento ha actuado como agente oxidante.",
+        "D": "el elemento se ha oxidado.",
+        "E": "el elemento no participó en una reacción redox."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un aumento en el número de oxidación es la consecuencia directa de la pérdida de electrones. La pérdida de electrones se define como oxidación. Por lo tanto, el elemento se ha oxidado y ha actuado como agente reductor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_013",
+      "pregunta": "Analizando la semirreacción $$Ag^+ + 1e^- \rightarrow Ag$$, ¿qué papel desempeña el ion plata ($$Ag^+$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Actúa como agente reductor, porque se oxida",
+        "B": "Actúa como agente oxidante, porque se reduce",
+        "C": "Pierde un electrón para formar plata sólida",
+        "D": "Aumenta su número de oxidación de +1 a 0",
+        "E": "Es la especie oxidada"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La semirreacción muestra que el ion plata ($$Ag^+$$) gana un electrón ($$1e^-$$) para convertirse en plata elemental ($$Ag$$). El proceso de ganar electrones es la reducción. Una sustancia que se reduce es, por definición, el agente oxidante, ya que es la que causa la oxidación de otra especie al quitarle sus electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_014",
+      "pregunta": "Si una sustancia A actúa como un agente reductor en una reacción con una sustancia B, ¿qué se puede deducir sobre la sustancia B?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "B se oxida",
+        "B": "B también es un agente reductor",
+        "C": "B es el agente oxidante",
+        "D": "B pierde electrones",
+        "E": "El número de oxidación de B aumenta"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si A es el agente reductor, significa que A se oxida (pierde electrones) y causa la reducción de B. Para que B se reduzca, debe ganar los electrones que A pierde. La sustancia que gana electrones y se reduce es el agente oxidante. Por lo tanto, B es el agente oxidante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_190_015",
+      "pregunta": "Considerando las semirreacciones $$Cu \rightarrow Cu^{2+} + 2e^-$$ y $$Ag^+ + 1e^- \rightarrow Ag$$, si ocurrieran juntas en una reacción redox, ¿cuál afirmación sería correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El $$Cu$$ es el agente oxidante y se reduce.",
+        "B": "El $$Ag^+$$ es el agente reductor y se oxida.",
+        "C": "El $$Cu$$ es el agente reductor y el $$Ag^+$$ es el agente oxidante.",
+        "D": "Ambas especies, $$Cu$$ y $$Ag^+$$, se reducen.",
+        "E": "El $$Cu^{2+}$$ es el agente reductor y el $$Ag$$ es el agente oxidante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la primera semirreacción, el $$Cu$$ pierde electrones, por lo tanto, se oxida. La especie que se oxida es el agente reductor. En la segunda semirreacción, el $$Ag^+$$ gana electrones, por lo tanto, se reduce. La especie que se reduce es el agente oxidante. Por consiguiente, el $$Cu$$ actúa como agente reductor y el $$Ag^+$$ actúa como agente oxidante.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 211,
+  "total_temas": 322,
+  "titulo_tema": "Volumen Molar",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_211_001",
+      "pregunta": "¿Qué es el Volumen Molar ($$V_o$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El volumen que ocupa 1 gramo de cualquier sustancia líquida.",
+        "B": "El volumen que ocupa 1 mol de una sustancia gaseosa en condiciones normales.",
+        "C": "La masa de 1 mol de un gas a cualquier temperatura.",
+        "D": "El volumen de cualquier sólido a 0°C.",
+        "E": "La presión que ejerce 1 mol de un gas a 1 atmósfera."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Volumen Molar se define específicamente como el volumen que 1 mol de cualquier sustancia en estado gaseoso ocupa bajo Condiciones Normales (C.N.) de temperatura y presión. Las otras opciones son incorrectas porque se refieren a masas, líquidos, sólidos o condiciones no especificadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_002",
+      "pregunta": "¿Cuál es el valor comúnmente aceptado y utilizado para el Volumen Molar ($$V_o$$) de un gas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$100 \\text{ L/mol}$$",
+        "B": "$$1 \\text{ L/mol}$$",
+        "C": "$$22.4 \\text{ L/mol}$$",
+        "D": "$$6.022 \\times 10^{23} \\text{ L/mol}$$",
+        "E": "$$0.082 \\text{ L/mol}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El valor aceptado para el Volumen Molar de un gas ideal en Condiciones Normales es $$22.414 \\text{ L/mol}$$, que comúnmente se aproxima a $$22.4 \\text{ L/mol}$$ para la mayoría de los cálculos. Los otros valores corresponden a otras constantes o son incorrectos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_003",
+      "pregunta": "¿Qué representa la Composición Porcentual en un compuesto químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El porcentaje de volumen de cada elemento en un compuesto.",
+        "B": "El número de moles de cada elemento en un compuesto.",
+        "C": "El porcentaje en masa de cada elemento presente en un compuesto.",
+        "D": "La reactividad porcentual de cada elemento.",
+        "E": "El porcentaje de átomos de cada elemento en una molécula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Composición Porcentual se define como el porcentaje en masa que cada elemento contribuye a la masa total del compuesto. No se refiere al volumen, número de moles o reactividad, sino específicamente a la proporción de masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_004",
+      "pregunta": "El concepto de Volumen Molar, con un valor de $$22.4 \\text{ L/mol}$$ en C.N., es aplicable a sustancias en estado...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Líquido",
+        "C": "Plasmático",
+        "D": "Gaseoso",
+        "E": "Coloidal"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Volumen Molar de $$22.4 \\text{ L/mol}$$ es una propiedad específica de las sustancias en estado gaseoso bajo Condiciones Normales. Los sólidos y líquidos tienen volúmenes molares mucho más pequeños y variables.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_005",
+      "pregunta": "Para determinar la Composición Porcentual de un elemento, se divide su masa contenida en un mol del compuesto entre...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de Avogadro.",
+        "B": "La masa molar del compuesto.",
+        "C": "El volumen molar del compuesto.",
+        "D": "La masa atómica del elemento más ligero.",
+        "E": "El número total de átomos en la fórmula."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El cálculo de la Composición Porcentual requiere dividir la masa total del elemento en un mol del compuesto entre la masa molar total del compuesto y luego multiplicar por 100%. La masa molar del compuesto representa el 100% de la masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_006",
+      "pregunta": "¿Qué par de valores específicos de presión ($$P$$) y temperatura ($$T$$) definen las Condiciones Normales (C.N.)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = 1 \\text{ atm}$$ y $$T = 25°C$$",
+        "B": "$$P = 0 \\text{ atm}$$ y $$T = 0°C$$",
+        "C": "$$P = 1 \\text{ atm}$$ y $$T = 100°C$$",
+        "D": "$$P = 1 \\text{ atm}$$ y $$T = 0°C$$",
+        "E": "$$P = 22.4 \\text{ atm}$$ y $$T = 0°C$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las Condiciones Normales (C.N.) para los gases se establecen como una presión de 1 atmósfera y una temperatura de 0°C (equivalente a 273.15 K). Estas son las condiciones estándar bajo las cuales el Volumen Molar es $$22.4 \\text{ L/mol}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_007",
+      "pregunta": "¿Qué información fundamental se necesita para calcular la Composición Porcentual de un elemento en un compuesto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La densidad y el punto de ebullición del compuesto.",
+        "B": "El volumen molar y la presión del gas.",
+        "C": "La masa del elemento en un mol y la masa molar del compuesto.",
+        "D": "El número de electrones y protones de cada elemento.",
+        "E": "La temperatura y la presión a la que se encuentra el compuesto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula para la Composición Porcentual requiere dos datos clave: la masa total del elemento de interés contenida en 1 mol del compuesto y la masa molar total del compuesto. Con estos dos valores, se puede calcular la proporción en masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_008",
+      "pregunta": "Si un contenedor tiene exactamente $$1 \\text{ mol}$$ de gas nitrógeno ($$N_2$$) en Condiciones Normales, ¿qué volumen ocupará?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1 \\text{ L}$$",
+        "B": "$$14 \\text{ L}$$",
+        "C": "$$28 \\text{ L}$$",
+        "D": "$$22.4 \\text{ L}$$",
+        "E": "No se puede determinar sin la masa."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Volumen Molar establece que 1 mol de CUALQUIER gas en Condiciones Normales (C.N.) ocupa un volumen de $$22.4 \\text{ L}$$. La identidad del gas (en este caso, nitrógeno) no afecta el volumen bajo estas condiciones ideales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_009",
+      "pregunta": "¿Cuáles son las unidades correctas para expresar el Volumen Molar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\frac{\\text{g}}{\\text{mol}}$$",
+        "B": "$$\\frac{\\text{L}}{\\text{mol}}$$",
+        "C": "$$\\frac{\\text{mol}}{\\text{L}}$$",
+        "D": "$$\\text{atm} \\cdot \\text{L}$$",
+        "E": "$$\\text{L} \\cdot \\text{mol}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Volumen Molar ($$V_o$$) representa un volumen por cantidad de sustancia (mol). Por lo tanto, sus unidades son litros por mol, expresadas como $$L/mol$$. La opción A corresponde a la masa molar y la opción C a la concentración molar (molaridad).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_010",
+      "pregunta": "La operación final en el cálculo de la Composición Porcentual, después de dividir la masa del elemento entre la masa molar del compuesto, es...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sumar 100.",
+        "B": "Dividir entre 100.",
+        "C": "Multiplicar por 100%.",
+        "D": "Restar la masa de otros elementos.",
+        "E": "Multiplicar por el número de Avogadro."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para expresar la relación de masas como un porcentaje, la fracción (masa del elemento / masa del compuesto) debe multiplicarse por 100%. Este paso convierte la proporción decimal en un valor porcentual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_011",
+      "pregunta": "¿Qué cantidad de moles de un gas ideal hay en un recipiente de $$44.8 \\text{ L}$$ en Condiciones Normales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$0.5 \\text{ moles}$$",
+        "B": "$$1 \\text{ mol}$$",
+        "C": "$$2 \\text{ moles}$$",
+        "D": "$$22.4 \\text{ moles}$$",
+        "E": "$$44.8 \\text{ moles}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Sabiendo que 1 mol de un gas en C.N. ocupa $$22.4 \\text{ L}$$, podemos usar una relación directa. Si el volumen es $$44.8 \\text{ L}$$, que es el doble de $$22.4 \\text{ L}$$, entonces la cantidad de sustancia también debe ser el doble, es decir, $$2 \\text{ moles}$$. Matemáticamente: $$\\frac{44.8 \\text{ L}}{22.4 \\text{ L/mol}} = 2 \\text{ moles}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_012",
+      "pregunta": "La razón por la que el valor del Volumen Molar ($$V_o$$) es una constante para diferentes gases en C.N. es porque se refiere a una cantidad fija de...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Masa (1 gramo).",
+        "B": "Volumen (1 litro).",
+        "C": "Sustancia (1 mol).",
+        "D": "Presión (1 Pascal).",
+        "E": "Temperatura (1 Kelvin)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Volumen Molar es constante porque siempre se define para la misma cantidad de sustancia: exactamente 1 mol. Al fijar la cantidad de sustancia (1 mol) y las condiciones de presión y temperatura (C.N.), el volumen resultante es el mismo para cualquier gas que se comporte idealmente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_013",
+      "pregunta": "Para un compuesto hipotético con fórmula $$X_2Y_3$$, si la masa molar del compuesto es $$M_{comp}$$ y la masa molar del elemento $$Y$$ es $$M_Y$$, ¿cuál es la expresión correcta para calcular el porcentaje en masa de $$Y$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\frac{M_Y}{M_{comp}} \\times 100\\%$$",
+        "B": "$$\\frac{2 \\cdot M_X}{M_{comp}} \\times 100\\%$$",
+        "C": "$$\\frac{3 \\cdot M_Y}{M_{comp}} \\times 100\\%$$",
+        "D": "$$\\frac{M_{comp}}{3 \\cdot M_Y} \\times 100\\%$$",
+        "E": "$$\\frac{M_Y}{M_X + M_Y} \\times 100\\%$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Composición Porcentual se calcula dividiendo la masa total del elemento en un mol del compuesto entre la masa molar total del compuesto. En 1 mol de $$X_2Y_3$$, hay 3 moles de átomos de Y. Por lo tanto, la masa total de Y es $$3 \\cdot M_Y$$. La expresión correcta es la masa total de Y dividida entre la masa molar del compuesto, todo multiplicado por 100%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_014",
+      "pregunta": "Una muestra de un gas desconocido ocupa un volumen de $$11.207 \\text{ L}$$ en Condiciones Normales. Basado en el concepto de Volumen Molar ($$V_o = 22.414 \\text{ L/mol}$$), ¿qué se puede afirmar sobre la cantidad de gas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Hay exactamente $$1 \\text{ mol}$$ de gas.",
+        "B": "Hay exactamente $$2 \\text{ moles}$$ de gas.",
+        "C": "Hay exactamente $$0.5 \\text{ moles}$$ de gas.",
+        "D": "Hay $$22.414$$ gramos de gas.",
+        "E": "Es imposible saber la cantidad de moles sin conocer la identidad del gas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Volumen Molar establece que $$1 \\text{ mol}$$ de gas en C.N. ocupa $$22.414 \\text{ L}$$. El volumen dado, $$11.207 \\text{ L}$$, es exactamente la mitad de $$22.414 \\text{ L}$$. Por lo tanto, la cantidad de sustancia debe ser la mitad de un mol, es decir, $$0.5 \\text{ moles}$$. La identidad del gas no es necesaria para esta determinación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_211_015",
+      "pregunta": "¿Por qué es fundamental especificar que las condiciones son 'normales' (C.N.) al afirmar que el Volumen Molar es $$22.4 \\text{ L/mol}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque solo a 0°C y 1 atm los gases se vuelven ideales.",
+        "B": "Porque el volumen de un gas depende directamente de la temperatura y la presión.",
+        "C": "Porque a otras condiciones el mol se define de manera diferente.",
+        "D": "Porque el valor $$22.4$$ solo es aplicable a gases nobles.",
+        "E": "Porque es una convención sin base física, pero necesaria para los cálculos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El volumen de una cantidad dada de gas es altamente sensible a los cambios en la presión y la temperatura. El valor de $$22.4 \\text{ L/mol}$$ solo es válido bajo el conjunto específico de condiciones de 1 atm y 0°C. Si la presión o la temperatura cambian, el volumen que ocupa 1 mol de gas también cambiará, por lo que es crucial especificar las C.N. para que el valor sea correcto.",
+      "imagen": null
+    }
+  ]
+}

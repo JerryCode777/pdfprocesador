@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 55,
+  "total_temas": 322,
+  "titulo_tema": "Envoltura Electrónica",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_055_001",
+      "pregunta": "¿Qué es la envoltura electrónica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La región central del átomo que contiene protones y neutrones.",
+        "B": "La zona externa del núcleo donde se encuentran los electrones.",
+        "C": "Una partícula subatómica con carga positiva.",
+        "D": "El rayo invisible emitido por el ánodo en un tubo de rayos catódicos.",
+        "E": "El nombre que se le da al conjunto de protones en un átomo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La envoltura electrónica se define como la zona que rodea al núcleo atómico y es donde se localizan los electrones. El núcleo es la región central que contiene protones y neutrones, y los rayos catódicos son haces de electrones, no la envoltura en sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_002",
+      "pregunta": "¿Cuál de los siguientes símbolos representa a un neutrón?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$^1_1p$$",
+        "B": "$$^0_{-1}e$$",
+        "C": "$$^1_0n$$",
+        "D": "$$^4_2He$$",
+        "E": "$$^0_{+1}\\beta$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El símbolo para un neutrón es $$^1_0n$$. El superíndice 1 indica su número de masa (1 protón + 0 neutrones, en este caso, se refiere a su masa aproximada de 1 uma) y el subíndice 0 indica su carga nuclear (cero). Los otros símbolos representan un protón ($$^1_1p$$), un electrón ($$^0_{-1}e$$), una partícula alfa ($$^4_2He$$) y un positrón ($$^0_{+1}\\beta$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_003",
+      "pregunta": "¿Qué tipo de carga se concluyó que tenían los rayos catódicos al ser atraídos por una placa positiva?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Carga positiva",
+        "B": "Carga negativa",
+        "C": "Carga neutra",
+        "D": "Carga variable",
+        "E": "No tenían carga"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En el experimento con el tubo de rayos catódicos, se observó que el rayo era atraído por una placa con carga positiva y repelido por una con carga negativa. Dado que las cargas opuestas se atraen, se concluyó que los rayos catódicos debían estar compuestos por partículas con carga negativa, que más tarde se denominaron electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_004",
+      "pregunta": "¿Cuál de los siguientes símbolos representa correctamente a una partícula alfa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$^0_{-1}\\alpha$$",
+        "B": "$$^1_1\\alpha$$",
+        "C": "$$^1_0\\alpha$$",
+        "D": "$$^4_2\\alpha$$",
+        "E": "$$^0_{+1}\\alpha$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La partícula alfa se representa como $$^4_2\\alpha$$ o $$^4_2He$$. El superíndice 4 es el número de masa (suma de protones y neutrones) y el subíndice 2 es el número atómico (número de protones), lo que corresponde a un núcleo de Helio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_005",
+      "pregunta": "¿Qué científico utilizó el tubo de rayos catódicos para estudiar las propiedades de los electrones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Marie Curie",
+        "B": "Albert Einstein",
+        "C": "Ernest Rutherford",
+        "D": "Niels Bohr",
+        "E": "J. J. Thomson"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "J. J. Thomson fue el científico que utilizó el dispositivo de tubo de rayos catódicos para realizar estudios cuantitativos sobre las propiedades de los rayos catódicos, lo que llevó al descubrimiento y caracterización del electrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_006",
+      "pregunta": "¿Qué principio fundamental se debe cumplir con los números de masa (superíndices) al balancear una ecuación nuclear?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La suma de los números de masa de los reactivos debe ser mayor que la de los productos.",
+        "B": "La suma de los números de masa de los productos debe ser el doble que la de los reactivos.",
+        "C": "El número total de protones y neutrones en productos y reactivos debe ser el mismo.",
+        "D": "La suma de los números de masa debe ser siempre un número par.",
+        "E": "El número de masa de cada partícula debe permanecer inalterado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las reglas para balancear ecuaciones nucleares es la conservación del número de masa. Esto significa que la suma de los números de masa (el número total de protones y neutrones) de los reactivos debe ser exactamente igual a la suma de los números de masa de los productos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_007",
+      "pregunta": "En el experimento del tubo de rayos catódicos, ¿de qué placa se origina el rayo invisible?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Del ánodo (placa positiva).",
+        "B": "De una placa externa neutra.",
+        "C": "Del cátodo (placa negativa).",
+        "D": "De ambas placas simultáneamente.",
+        "E": "Del gas residual dentro del tubo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El experimento consiste en aplicar un alto voltaje a dos placas metálicas en un tubo de vidrio sin aire. El rayo se origina en el cátodo, que es la placa con carga negativa, y viaja hacia el ánodo, que es la placa con carga positiva. Por esta razón, se les llamó 'rayos catódicos'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_008",
+      "pregunta": "Considerando la notación de partículas elementales, ¿qué representa el subíndice en el símbolo $$^A_Z X$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número total de protones y neutrones.",
+        "B": "La carga nuclear o número atómico.",
+        "C": "El número de electrones en la envoltura.",
+        "D": "El número de neutrones únicamente.",
+        "E": "La masa de la partícula en gramos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la notación nuclear estándar $$^A_Z X$$, el subíndice $Z$ representa el número atómico, que corresponde al número de protones o la carga nuclear total. El superíndice $A$ representa el número de masa (suma de protones y neutrones).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_009",
+      "pregunta": "¿Qué dos partículas se representan con los símbolos $$^0_{-1}\\beta$$ y $$^0_{+1}\\beta$$ respectivamente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Protón y neutrón",
+        "B": "Neutrón y positrón",
+        "C": "Electrón y positrón",
+        "D": "Partícula alfa y electrón",
+        "E": "Positrón y protón"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El símbolo $$^0_{-1}\\beta$$ es una forma alternativa de representar un electrón, indicando un número de masa de 0 y una carga de -1. El símbolo $$^0_{+1}\\beta$$ representa un positrón, que tiene el mismo número de masa que un electrón pero una carga opuesta de +1.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_010",
+      "pregunta": "La regla que establece que 'el número total de cargas nucleares en los productos y reactivos debe ser el mismo' se refiere a la conservación del:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Número de neutrones",
+        "B": "Número de masa",
+        "C": "Número de electrones",
+        "D": "Número atómico",
+        "E": "Número de positrones"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La carga nuclear de un átomo está determinada por el número de protones. Por lo tanto, la conservación de la carga nuclear es equivalente a la conservación del número atómico (representado por el subíndice en la notación nuclear). Esto asegura que la suma de los números atómicos sea la misma antes y después de la reacción nuclear.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_011",
+      "pregunta": "Al observar la repulsión de los rayos catódicos por una placa cargada negativamente, ¿qué propiedad fundamental de las cargas eléctricas se demuestra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las cargas opuestas se neutralizan.",
+        "B": "Las cargas iguales se repelen.",
+        "C": "Las cargas neutras no interactúan.",
+        "D": "Las cargas positivas atraen a las neutras.",
+        "E": "Las cargas opuestas se atraen."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El experimento mostró que el rayo, que ya se sabía que era atraído por una placa positiva (demostrando que era negativo), también era repelido por una placa negativa. Este comportamiento demuestra el principio electrostático fundamental de que las cargas iguales se repelen entre sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_012",
+      "pregunta": "¿Qué partícula elemental no tiene carga nuclear, según su símbolo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Protón ($$^1_1p$$)",
+        "B": "Positrón ($$^0_{+1}e$$)",
+        "C": "Partícula alfa ($$^4_2\\alpha$$)",
+        "D": "Electrón ($$^0_{-1}e$$)",
+        "E": "Neutrón ($$^1_0n$$)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La carga nuclear está representada por el subíndice en el símbolo de la partícula. Para el neutrón ($$^1_0n$$), el subíndice es 0, lo que indica que no tiene carga nuclear. El protón y el positrón tienen carga +1, la partícula alfa tiene +2, y el electrón tiene -1.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_013",
+      "pregunta": "Analizando el símbolo de un electrón, $$^0_{-1}e$$, ¿qué se puede inferir sobre su contribución al número de masa y su carga nuclear?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Contribuye con 1 al número de masa y tiene una carga de 0.",
+        "B": "No contribuye al número de masa y tiene una carga nuclear de -1.",
+        "C": "Contribuye con -1 al número de masa y tiene una carga de -1.",
+        "D": "No contribuye al número de masa y tiene una carga nuclear de +1.",
+        "E": "Contribuye con 1 al número de masa y tiene una carga de -1."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la notación $$^A_Z X$$, $A$ es el número de masa y $Z$ es la carga nuclear. Para un electrón ($$^0_{-1}e$$), el superíndice es 0, lo que significa que su contribución al número de masa es nula (no es un protón ni un neutrón). El subíndice es -1, lo que indica su carga nuclear.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_014",
+      "pregunta": "Basándose en los símbolos de las partículas elementales, ¿cuál es la diferencia fundamental entre un protón ($$^1_1p$$) y un neutrón ($$^1_0n$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El protón tiene número de masa 1 y el neutrón 0.",
+        "B": "Tienen el mismo número de masa pero diferente carga nuclear.",
+        "C": "El neutrón tiene carga +1 y el protón no tiene carga.",
+        "D": "Tienen la misma carga nuclear pero diferente número de masa.",
+        "E": "El protón es una partícula alfa y el neutrón es una partícula beta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al comparar los símbolos $$^1_1p$$ (protón) y $$^1_0n$$ (neutrón), se observa que ambos tienen el mismo superíndice (número de masa = 1). Sin embargo, sus subíndices (carga nuclear) son diferentes: +1 para el protón y 0 para el neutrón. Por lo tanto, la diferencia fundamental es su carga nuclear.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_055_015",
+      "pregunta": "Si al balancear una ecuación nuclear se asegura que la suma de los subíndices es la misma en ambos lados, ¿qué principio de conservación se está aplicando?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Conservación de la energía.",
+        "B": "Conservación del número de neutrones.",
+        "C": "Conservación del número de masa.",
+        "D": "Conservación de la carga nuclear.",
+        "E": "Conservación del número de electrones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los subíndices en la notación nuclear representan el número atómico o la carga nuclear de cada partícula. Asegurar que la suma de estos subíndices sea igual en el lado de los reactivos y en el de los productos es aplicar directamente el principio de conservación de la carga nuclear, una de las dos reglas fundamentales para el balanceo de ecuaciones nucleares.",
+      "imagen": null
+    }
+  ]
+}

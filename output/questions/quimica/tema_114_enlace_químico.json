@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 114,
+  "total_temas": 322,
+  "titulo_tema": "Enlace Químico",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_114_001",
+      "pregunta": "¿Cuál es la definición fundamental de un enlace químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las fuerzas de atracción que mantienen unidos a los átomos en los compuestos.",
+        "B": "Las uniones físicas, como ganchos, que conectan los núcleos atómicos.",
+        "C": "Las fuerzas de repulsión entre los electrones de valencia de diferentes átomos.",
+        "D": "Las fuerzas que mantienen unidas a las moléculas en un líquido o sólido.",
+        "E": "La energía almacenada dentro del núcleo de un átomo."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Un enlace químico se define como el conjunto de fuerzas, principalmente de naturaleza eléctrica, que mantienen unidos a los átomos para formar moléculas o compuestos más estables. Las otras opciones son incorrectas: la idea de los ganchos es un concepto histórico antiguo, no la definición actual; los enlaces implican atracción, no repulsión; las fuerzas entre moléculas se denominan intermoleculares, no enlaces químicos; y la energía nuclear no está directamente relacionada con la formación de enlaces.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_002",
+      "pregunta": "En los símbolos de puntos de Lewis, ¿qué representan los puntos colocados alrededor del símbolo del elemento químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número total de electrones del átomo.",
+        "B": "Los electrones del núcleo.",
+        "C": "Los electrones de valencia.",
+        "D": "El número de protones.",
+        "E": "Los electrones de las capas internas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los símbolos de puntos de Lewis son una representación simplificada donde el símbolo del elemento representa el núcleo y los electrones internos, mientras que los puntos a su alrededor representan exclusivamente los electrones de valencia, que son los que participan en la formación de enlaces químicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_003",
+      "pregunta": "¿Qué establece la regla del dueto para átomos como el hidrógeno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que deben tener exactamente dos protones para ser estables.",
+        "B": "Que pueden formar un máximo de dos enlaces covalentes.",
+        "C": "Que alcanzan la estabilidad al alojar dos electrones en su último nivel de energía.",
+        "D": "Que siempre pierden dos electrones en un enlace iónico.",
+        "E": "Que necesitan compartir electrones con al menos otros dos átomos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla del dueto indica que algunos átomos ligeros, como el hidrógeno (H) y el litio (Li), alcanzan una configuración electrónica estable cuando su último nivel de energía contiene dos electrones, similar a la configuración del gas noble Helio (He).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_004",
+      "pregunta": "¿Quién fue el científico que propuso el concepto de enlace iónico en 1916?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Demócrito",
+        "B": "André Dumas",
+        "C": "Walter Kossel",
+        "D": "G.N. Lewis",
+        "E": "John Dalton"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Walter Kossel, en 1916, fue quien propuso el modelo de enlace iónico, basado en la transferencia de electrones entre átomos para alcanzar configuraciones electrónicas estables. André Dumas propuso el concepto de enlace covalente, y Demócrito tuvo ideas mucho más antiguas y conceptuales sobre la unión de átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_005",
+      "pregunta": "Los enlaces iónicos y covalentes que se encuentran dentro de los compuestos se clasifican como:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerzas intermoleculares",
+        "B": "Fuerzas intramoleculares",
+        "C": "Fuerzas de van der Waals",
+        "D": "Puentes de hidrógeno",
+        "E": "Fuerzas de London"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las fuerzas intramoleculares son aquellas que actúan 'dentro' de una molécula o compuesto, manteniendo unidos a los átomos que lo componen. Los enlaces iónicos y covalentes son los principales tipos de fuerzas intramoleculares. Las fuerzas intermoleculares, por otro lado, son las que actúan 'entre' moléculas distintas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_006",
+      "pregunta": "¿Cuál es la principal diferencia en términos de fuerza entre las fuerzas intramoleculares y las intermoleculares?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las fuerzas intermoleculares son mucho más fuertes que las intramoleculares.",
+        "B": "Las fuerzas intramoleculares son muy débiles en comparación con las intermoleculares.",
+        "C": "Ambos tipos de fuerzas tienen una magnitud de fuerza similar.",
+        "D": "Las fuerzas intermoleculares son muy débiles en comparación con las intramoleculares.",
+        "E": "La fuerza depende del estado de la materia y no del tipo de fuerza."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una característica fundamental es la jerarquía de fuerzas. Las fuerzas intramoleculares (enlaces iónicos, covalentes) que mantienen unidos los átomos dentro de una molécula son significativamente más fuertes que las fuerzas intermoleculares (como los puentes de hidrógeno o las fuerzas de Van der Waals) que atraen a las moléculas entre sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_007",
+      "pregunta": "Según la simbología de Lewis, ¿qué indica el número de puntos desapareados en el símbolo de un átomo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número atómico del elemento.",
+        "B": "El número total de electrones de valencia.",
+        "C": "El número de enlaces que el átomo puede formar.",
+        "D": "La carga iónica más probable del átomo.",
+        "E": "El número de orbitales completos en la capa de valencia."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la representación de puntos de Lewis para un átomo, los electrones de valencia se distribuyen como puntos. Los electrones que están solos (desapareados) son los que típicamente participan en la formación de enlaces covalentes al compartirse con otros átomos. Por lo tanto, su número indica la capacidad de enlace del átomo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_008",
+      "pregunta": "Una estructura de Lewis es una representación gráfica de un enlace covalente. ¿Qué elementos se muestran explícitamente en esta representación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente el núcleo y los electrones internos.",
+        "B": "Todos los electrones del átomo, tanto internos como de valencia.",
+        "C": "Únicamente los electrones de valencia.",
+        "D": "Los protones, neutrones y electrones de valencia.",
+        "E": "Solamente los pares de electrones compartidos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La principal característica y utilidad de las estructuras de Lewis es su simplicidad al enfocarse en lo que participa en el enlace químico. Por ello, solo se representan los electrones de la capa más externa, es decir, los electrones de valencia, tanto los que forman enlaces (pares compartidos) como los que no (pares libres).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_009",
+      "pregunta": "Al seguir la regla del dueto, un átomo como el hidrógeno logra alcanzar la configuración electrónica estable de ¿qué gas noble?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Neón (Ne)",
+        "B": "Argón (Ar)",
+        "C": "Kriptón (Kr)",
+        "D": "Helio (He)",
+        "E": "Radón (Rn)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla del dueto se refiere a la tendencia de los átomos del primer período (como H y Li) a completar su capa de valencia con dos electrones. Esta configuración, $$1s^2$$, es la misma que la del gas noble Helio (He), que es extremadamente estable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_010",
+      "pregunta": "¿Qué representan las líneas o los pares de puntos dibujados entre dos símbolos atómicos en una estructura de Lewis?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un par de electrones libres.",
+        "B": "Un enlace iónico.",
+        "C": "Un par de electrones compartidos en un enlace covalente.",
+        "D": "Las fuerzas intermoleculares.",
+        "E": "Los electrones de las capas internas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una estructura de Lewis, la esencia de un enlace covalente se representa visualmente. Una línea o un par de puntos (:) entre dos átomos simboliza un par de electrones que es compartido por ambos átomos, constituyendo así el enlace que los mantiene unidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_011",
+      "pregunta": "La concepción de Demócrito sobre la unión de los átomos, aunque primitiva, se basaba en la idea de que estaban unidos mediante:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fuerzas eléctricas.",
+        "B": "Compartición de partículas subatómicas.",
+        "C": "Una especie de \"pegamento\" atómico.",
+        "D": "Órbitas entrelazadas.",
+        "E": "Ganchos."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La idea de Demócrito, una de las primeras concepciones filosóficas sobre la naturaleza de la materia, proponía que los átomos tenían formas diversas y que se unían entre sí mediante mecanismos físicos, como ganchos y lazos, para formar los objetos que vemos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_012",
+      "pregunta": "¿Qué tipo de fuerzas actúan entre partículas individuales (átomos, moléculas o iones) de una misma sustancia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fuerzas nucleares fuertes.",
+        "B": "Fuerzas intramoleculares.",
+        "C": "Fuerzas intermoleculares.",
+        "D": "Enlaces covalentes polares.",
+        "E": "Enlaces iónicos puros."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las fuerzas intermoleculares son las responsables de las atracciones entre partículas ya formadas. Por ejemplo, en el agua líquida, los enlaces covalentes (intramoleculares) mantienen unidos al H y al O en una molécula de $$H_2O$$, pero son las fuerzas intermoleculares las que atraen a una molécula de agua con otra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_013",
+      "pregunta": "¿Cuál es la diferencia clave entre un símbolo de puntos de Lewis y una estructura de Lewis?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El símbolo representa un solo átomo con sus electrones de valencia, mientras que la estructura representa una molécula con sus enlaces covalentes.",
+        "B": "El símbolo solo se usa para metales y la estructura para no metales.",
+        "C": "El símbolo usa puntos y la estructura siempre usa líneas.",
+        "D": "No hay ninguna diferencia, son términos intercambiables.",
+        "E": "El símbolo muestra todos los electrones del átomo y la estructura solo los compartidos."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Es crucial distinguir entre ambos conceptos. Un símbolo de puntos de Lewis se aplica a un único átomo aislado, mostrando sus electrones de valencia. Una estructura de Lewis es una representación más compleja que muestra cómo múltiples átomos se unen mediante enlaces covalentes (pares compartidos) para formar una molécula, incluyendo también los pares de electrones no compartidos (libres).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_014",
+      "pregunta": "Considerando la clasificación de fuerzas, ¿cuáles serían responsables de mantener la integridad de un cristal de sal (NaCl) y cuáles de mantener juntas a las moléculas de yodo ($$I_2$$) en estado sólido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos se mantienen por fuerzas intermoleculares.",
+        "B": "Fuerzas intramoleculares en el NaCl y fuerzas intermoleculares en el $$I_2$$.",
+        "C": "Ambos se mantienen por fuerzas intramoleculares.",
+        "D": "Fuerzas intermoleculares en el NaCl y fuerzas intramoleculares en el $$I_2$$.",
+        "E": "El NaCl por enlaces covalentes y el $$I_2$$ por enlaces iónicos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El cristal de sal (NaCl) es una red de iones $$Na^+$$ y $$Cl^-$$ unidos por enlaces iónicos, que son un tipo de fuerza intramolecular muy fuerte. En el yodo sólido, primero se forman moléculas diatómicas de $$I_2$$ mediante un enlace covalente (fuerza intramolecular). Luego, estas moléculas de $$I_2$$ se atraen entre sí mediante fuerzas intermoleculares (que son más débiles) para formar el sólido. La pregunta se refiere a lo que mantiene unido al conjunto (el cristal y el sólido), por lo que en el caso del yodo son las fuerzas entre moléculas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_114_015",
+      "pregunta": "Si una representación muestra un símbolo de un átomo 'X' con tres puntos desapareados y un par de puntos juntos, ¿qué se puede inferir sobre su comportamiento de enlace?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El átomo puede formar tres enlaces y tiene un par de electrones libres.",
+        "B": "El átomo tiene 3 electrones de valencia en total.",
+        "C": "El átomo puede formar cinco enlaces.",
+        "D": "El átomo es un gas noble y no formará enlaces.",
+        "E": "El átomo formará un enlace iónico cediendo 3 electrones."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El símbolo de puntos de Lewis describe la configuración de los electrones de valencia. Los tres puntos desapareados indican que el átomo 'X' tiene la capacidad de formar tres enlaces covalentes al compartir cada uno de esos electrones. El par de puntos juntos representa un par de electrones libres (o no enlazantes), que pertenece al átomo pero no participa directamente en la formación de enlaces. En total, el átomo tiene $$3+2=5$$ electrones de valencia.",
+      "imagen": null
+    }
+  ]
+}

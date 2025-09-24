@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 46,
+  "total_temas": 322,
+  "titulo_tema": "Tipos de Núclidos",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_046_001",
+      "pregunta": "¿Qué propiedad fundamental determina la identidad química de un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Su número de masa",
+        "B": "El número de neutrones",
+        "C": "Su número atómico",
+        "D": "La suma de protones y electrones",
+        "E": "Sus propiedades físicas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La identidad química de un átomo está definida exclusivamente por su número atómico ($Z$), que corresponde al número de protones en su núcleo. El número de masa ($A$) o el número de neutrones ($n°$) pueden variar (como en los isótopos), pero mientras el número de protones no cambie, el átomo pertenece al mismo elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_002",
+      "pregunta": "¿Qué representa el número de masa de un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número total de protones en el núcleo.",
+        "B": "El número total de neutrones en el núcleo.",
+        "C": "La diferencia entre protones y neutrones.",
+        "D": "El número total de protones y neutrones en el núcleo.",
+        "E": "El número total de electrones en el átomo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número de masa, simbolizado como $A$, es la suma total de las partículas en el núcleo de un átomo, es decir, los protones y los neutrones. Se calcula con la fórmula $$A = Z + n°$$, donde $Z$ es el número de protones y $n°$ es el número de neutrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_003",
+      "pregunta": "¿Cómo se definen los isótopos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Átomos con igual número de masa pero diferente número atómico.",
+        "B": "Átomos con igual número de neutrones pero diferente número de protones.",
+        "C": "Átomos con idéntico número atómico pero diferente número de masa.",
+        "D": "Átomos del mismo elemento con idénticas propiedades físicas.",
+        "E": "Átomos de diferentes elementos con propiedades químicas similares."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los isótopos son átomos del mismo elemento, lo que significa que tienen el mismo número atómico ($Z$) o número de protones. Sin embargo, se diferencian en el número de neutrones, lo que resulta en un número de masa ($A$) diferente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_004",
+      "pregunta": "¿Qué característica define a los isótonos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tienen el mismo número de protones.",
+        "B": "Tienen el mismo número de masa.",
+        "C": "Pertenecen al mismo elemento químico.",
+        "D": "Tienen el mismo número de neutrones.",
+        "E": "Poseen propiedades químicas similares."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los isótonos son átomos de elementos diferentes que se caracterizan por tener exactamente el mismo número de neutrones en su núcleo, a pesar de tener diferente número atómico ($Z$) y diferente número de masa ($A$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_005",
+      "pregunta": "Según la nomenclatura estándar para isótopos, ¿qué indica el número en la expresión \"uranio-235\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número atómico del uranio.",
+        "B": "El número de neutrones del isótopo.",
+        "C": "El número de masa del isótopo.",
+        "D": "La cantidad de protones en el núcleo.",
+        "E": "La valencia del uranio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La convención para nombrar un isótopo consiste en usar el nombre del elemento seguido de un guion y su número de masa ($A$). Por lo tanto, en \"uranio-235\", el número 235 corresponde al número de masa de ese isótopo específico de uranio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_006",
+      "pregunta": "¿Cuál de las siguientes ecuaciones relaciona correctamente el número de masa ($A$), el número atómico ($Z$) y el número de neutrones ($n°$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Z = A + n°$$",
+        "B": "$$n° = A + Z$$",
+        "C": "$$A = Z - n°$$",
+        "D": "$$A = Z + n°$$",
+        "E": "$$Z = n° - A$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula correcta para calcular el número de masa ($A$) es la suma del número atómico ($Z$, que es el número de protones) y el número de neutrones ($n°$). La expresión matemática es $$A = Z + n°$$. Las otras opciones representan relaciones incorrectas entre estas tres cantidades fundamentales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_007",
+      "pregunta": "¿Qué tienen en común dos isótopos de un mismo elemento en términos de sus propiedades?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Propiedades físicas idénticas y propiedades químicas diferentes.",
+        "B": "Propiedades físicas diferentes y propiedades químicas similares.",
+        "C": "Tanto sus propiedades físicas como químicas son idénticas.",
+        "D": "Tanto sus propiedades físicas como químicas son diferentes.",
+        "E": "No comparten ninguna propiedad en común."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los isótopos de un elemento tienen el mismo número de protones ($Z$), lo que les confiere propiedades químicas similares. Sin embargo, al tener diferente número de neutrones, su número de masa ($A$) varía, lo que resulta en propiedades físicas diferentes (como la densidad o la masa atómica).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_008",
+      "pregunta": "Si dos átomos son isótonos, ¿qué se puede afirmar con certeza sobre ellos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son del mismo elemento y tienen la misma masa.",
+        "B": "Son de diferentes elementos y tienen diferente número de neutrones.",
+        "C": "Son del mismo elemento pero tienen diferente número de neutrones.",
+        "D": "Son de diferentes elementos y tienen propiedades químicas y físicas diferentes.",
+        "E": "Son de diferentes elementos pero sus propiedades químicas son similares."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por definición, los isótonos son átomos de elementos diferentes (distinto $Z$), lo que implica que sus propiedades químicas y físicas difieren. Su única característica en común es que poseen el mismo número de neutrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_009",
+      "pregunta": "La principal diferencia entre dos isótopos, como el carbono-12 y el carbono-14, radica en:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de protones que contienen.",
+        "B": "El número de electrones que los rodean.",
+        "C": "El número de neutrones en su núcleo.",
+        "D": "Sus propiedades químicas.",
+        "E": "El elemento al que pertenecen."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ambos, carbono-12 y carbono-14, son isótopos del carbono, por lo que tienen el mismo número de protones ($Z=6$). La diferencia entre ellos es su número de masa (12 y 14), lo cual se debe a una cantidad distinta de neutrones en sus respectivos núcleos (6 neutrones en el C-12 y 8 neutrones en el C-14).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_010",
+      "pregunta": "¿Por qué los isótopos de un mismo elemento presentan propiedades químicas similares?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque tienen el mismo número de neutrones.",
+        "B": "Porque su número de masa es idéntico.",
+        "C": "Porque la identidad química la determina el número atómico.",
+        "D": "Porque sus propiedades físicas son iguales.",
+        "E": "Porque la suma de protones y neutrones es constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La identidad y el comportamiento químico de un átomo están determinados por su número atómico ($Z$), es decir, su número de protones. Dado que todos los isótopos de un elemento comparten el mismo número atómico, exhiben propiedades químicas muy similares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_011",
+      "pregunta": "Un átomo tiene un número de masa $A=39$ y contiene 20 neutrones ($n°$). ¿Cuál es su número atómico ($Z$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "19",
+        "B": "20",
+        "C": "39",
+        "D": "59",
+        "E": "1"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La relación entre número de masa ($A$), número atómico ($Z$) y número de neutrones ($n°$) es $$A = Z + n°$$. Para encontrar el número atómico, despejamos $Z$: $$Z = A - n°$$. Sustituyendo los valores dados: $$Z = 39 - 20 = 19$$. Por lo tanto, el número atómico es 19.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_012",
+      "pregunta": "Un átomo de cloro tiene $Z=17$ y $A=35$. Un átomo de argón tiene $Z=18$ y $A=36$. ¿Cuál es la relación entre ellos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son isótopos porque tienen propiedades químicas similares.",
+        "B": "Son isótonos porque tienen el mismo número de neutrones.",
+        "C": "Son el mismo elemento con diferente masa.",
+        "D": "No tienen ninguna relación nuclear.",
+        "E": "Son isótopos de elementos diferentes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para determinar la relación, calculamos el número de neutrones ($n°$) para cada átomo usando la fórmula $$n° = A - Z$$. Para el cloro: $$n° = 35 - 17 = 18$$. Para el argón: $$n° = 36 - 18 = 18$$. Como ambos átomos tienen el mismo número de neutrones (18) pero son de elementos diferentes (diferente $Z$), son isótonos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_013",
+      "pregunta": "Se tienen dos núclidos: Núclido X con $Z=26$ y $A=56$; y Núclido Y con $Z=27$ y $A=57$. ¿Qué afirmación describe correctamente su relación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Son isótopos del mismo elemento.",
+        "B": "Son isótonos, ya que tienen propiedades físicas diferentes.",
+        "C": "Son isótonos, porque ambos tienen 30 neutrones.",
+        "D": "No están relacionados, ya que tienen diferente número de protones y neutrones.",
+        "E": "Son isótopos con propiedades químicas diferentes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Primero, calculemos el número de neutrones ($n°$) para cada núclido con la fórmula $$n° = A - Z$$. Para el Núclido X: $$n° = 56 - 26 = 30$$. Para el Núclido Y: $$n° = 57 - 27 = 30$$. Dado que ambos tienen el mismo número de neutrones (30) pero diferente número atómico ($Z=26$ vs $Z=27$) y diferente número de masa ($A=56$ vs $A=57$), se clasifican como isótonos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_014",
+      "pregunta": "Un átomo de uranio-235 tiene $Z=92$. Otro átomo, el torio-231, tiene $Z=90$. ¿Cuál es la diferencia fundamental entre el uranio-235 y un hipotético isótono suyo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El isótono tendría 92 protones y propiedades químicas similares.",
+        "B": "El isótono sería también un átomo de uranio.",
+        "C": "El isótono pertenecería a un elemento diferente pero tendría 143 neutrones.",
+        "D": "El isótono tendría el mismo número de masa, $A=235$.",
+        "E": "El isótono tendría 90 protones como el torio-231."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Primero, calculemos los neutrones del uranio-235: $$n° = A - Z = 235 - 92 = 143$$. Por definición, un isótono es un átomo de un elemento diferente (diferente $Z$) que tiene el mismo número de neutrones. Por lo tanto, cualquier isótono del uranio-235 deberá tener 143 neutrones, pero no podrá ser uranio (tendría un $Z$ diferente de 92).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_046_015",
+      "pregunta": "Se comparan el Silicio-30 ($Z=14$) y el Fósforo-31 ($Z=15$). ¿Qué enunciado es correcto acerca de su clasificación y propiedades?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Son isótopos porque su número atómico es muy cercano.",
+        "B": "Son isótonos; por lo tanto, tienen propiedades químicas similares.",
+        "C": "No están relacionados, ya que difieren en $Z$ y $A$.",
+        "D": "Son isótonos y, como tales, sus propiedades físicas y químicas son diferentes.",
+        "E": "Son isótopos y sus propiedades físicas son idénticas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para clasificar estos núclidos, debemos calcular su número de neutrones ($n°$). Para el Silicio-30 ($Si$): $$n° = A - Z = 30 - 14 = 16$$. Para el Fósforo-31 ($P$): $$n° = A - Z = 31 - 15 = 16$$. Como ambos tienen 16 neutrones pero difieren en su número atómico ($Z=14$ vs $Z=15$) y número de masa ($A=30$ vs $A=31$), son isótonos. Por definición, los isótonos, al ser de elementos diferentes, tienen propiedades físicas y químicas distintas.",
+      "imagen": null
+    }
+  ]
+}

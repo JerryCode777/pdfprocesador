@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 109,
+  "total_temas": 322,
+  "titulo_tema": "Radio Covalente",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_109_001",
+      "pregunta": "¿Cómo se define el radio covalente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La mitad de la distancia internuclear de átomos unidos por un enlace covalente simple.",
+        "B": "La distancia total entre dos núcleos en un enlace metálico.",
+        "C": "El radio de un átomo en estado gaseoso puro.",
+        "D": "La energía necesaria para separar dos átomos enlazados covalentemente.",
+        "E": "El tamaño relativo de un ion en una red cristalina."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El radio covalente se define específicamente como la mitad de la longitud del enlace (la distancia internuclear) entre dos átomos idénticos que están unidos mediante un enlace covalente simple, como ocurre en moléculas diatómicas como $H_2$ o $Cl_2$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_002",
+      "pregunta": "¿Qué información general proporciona el radio atómico sobre un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Su reactividad química.",
+        "B": "El número de electrones de valencia.",
+        "C": "Su tamaño relativo.",
+        "D": "La masa total de su núcleo.",
+        "E": "Su estado de oxidación más común."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En términos generales, el radio atómico es una medida que nos da una idea del tamaño relativo de un átomo. Aunque el tamaño influye en otras propiedades como la reactividad, su función conceptual principal es describir el volumen que ocupa el átomo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_003",
+      "pregunta": "¿Cuál es la definición del radio atómico en los elementos metálicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La distancia completa entre los núcleos de dos átomos adyacentes.",
+        "B": "La mitad de la distancia internuclear de dos átomos idénticos unidos por un enlace químico.",
+        "C": "El radio del ion metálico más estable en un compuesto.",
+        "D": "El espacio que ocupa la nube de electrones sin considerar el núcleo.",
+        "E": "La distancia desde el núcleo hasta el electrón más externo en un átomo aislado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para los metales, el radio atómico se determina midiendo la distancia entre los núcleos de dos átomos idénticos en la estructura cristalina del metal y dividiendo esa distancia por dos. Por lo tanto, corresponde a la mitad de la distancia internuclear.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_004",
+      "pregunta": "¿Cuál de las siguientes propiedades periódicas aumenta al moverse hacia arriba y a la derecha en la tabla periódica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Radio atómico",
+        "B": "Carácter metálico",
+        "C": "Electronegatividad",
+        "D": "Tamaño del átomo",
+        "E": "Radio covalente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La electronegatividad, la energía de ionización, la afinidad electrónica y el carácter no metálico siguen la tendencia de aumentar al desplazarse hacia la derecha en un período y hacia arriba en un grupo. El radio atómico y el carácter metálico siguen la tendencia opuesta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_005",
+      "pregunta": "¿Cuál es el propósito principal de estudiar las propiedades periódicas de los elementos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Determinar el origen cósmico de cada elemento.",
+        "B": "Comprender el comportamiento químico de los elementos.",
+        "C": "Calcular la masa atómica exacta de los isótopos.",
+        "D": "Memorizar la configuración electrónica de cada elemento.",
+        "E": "Clasificar los elementos únicamente por su estado de agregación."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las propiedades periódicas, como el radio atómico o la electronegatividad, muestran tendencias predecibles en la tabla periódica que nos permiten entender y predecir cómo se comportarán químicamente los elementos, cómo formarán enlaces y qué tipo de compuestos crearán.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_006",
+      "pregunta": "En una molécula diatómica como el $Cl_2$, ¿qué relación matemática existe entre la distancia internuclear, $d$, y el radio covalente, $r_c$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$r_c = 2d$$",
+        "B": "$$r_c = d^2$$",
+        "C": "$$r_c = d$$",
+        "D": "$$r_c = \\frac{d}{2}$$",
+        "E": "$$r_c = \\sqrt{d}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El radio covalente se define como la mitad de la distancia internuclear (o longitud de enlace) entre dos átomos idénticos. Si la distancia total entre los dos núcleos es $d$, el radio aportado por cada átomo es la mitad de esa distancia, lo que se expresa como $$r_c = \\frac{d}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_007",
+      "pregunta": "¿Cómo varía el radio atómico en la tabla periódica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta hacia arriba y a la derecha.",
+        "B": "Disminuye hacia abajo y a la izquierda.",
+        "C": "Aumenta hacia abajo y a la izquierda.",
+        "D": "Permanece constante a lo largo de un grupo.",
+        "E": "Aumenta hacia la derecha en un mismo período."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El radio atómico disminuye al moverse hacia arriba y a la derecha. Por lo tanto, su tendencia es aumentar en la dirección opuesta: hacia abajo en un grupo (debido a la adición de nuevas capas electrónicas) y hacia la izquierda en un período (debido a una menor carga nuclear efectiva que atrae a los electrones con menos fuerza).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_008",
+      "pregunta": "Si el carácter metálico de un elemento es alto, ¿qué se puede esperar de su radio atómico según las tendencias periódicas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que sea pequeño.",
+        "B": "Que sea grande.",
+        "C": "Que sea igual al de un no metal.",
+        "D": "Que sea un valor negativo.",
+        "E": "No existe una correlación directa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El carácter metálico y el radio atómico siguen la misma tendencia en la tabla periódica. Ambas propiedades aumentan al moverse hacia abajo en un grupo y hacia la izquierda en un período. Por lo tanto, un elemento con alto carácter metálico también tendrá un radio atómico grande.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_009",
+      "pregunta": "El radio covalente es una forma específica de medir una propiedad periódica más general. ¿Cuál es esa propiedad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Afinidad electrónica",
+        "B": "Electronegatividad",
+        "C": "Carácter no metálico",
+        "D": "Energía de ionización",
+        "E": "Radio atómico"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El radio atómico es el término general que describe el tamaño relativo de un átomo. El radio covalente es simplemente el método específico utilizado para definir y medir el radio atómico en el caso de no metales que forman moléculas diatómicas, como $H_2$ o $Cl_2$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_010",
+      "pregunta": "¿Cuál de las siguientes propiedades periódicas muestra una tendencia opuesta a la del radio atómico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Carácter metálico",
+        "B": "Tamaño atómico",
+        "C": "Volumen atómico",
+        "D": "Energía de ionización",
+        "E": "Ninguna, todas siguen la misma tendencia."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El radio atómico aumenta hacia abajo y a la izquierda en la tabla periódica. En cambio, la energía de ionización (así como la electronegatividad y la afinidad electrónica) sigue la tendencia opuesta, aumentando hacia arriba y a la derecha. El carácter metálico sigue la misma tendencia que el radio atómico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_011",
+      "pregunta": "¿Para qué grupo de elementos se aplica específicamente la definición de radio covalente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Metales alcalinos.",
+        "B": "Gases nobles.",
+        "C": "No metales diatómicos.",
+        "D": "Metales de transición.",
+        "E": "Lantánidos y actínidos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término \"radio covalente\" se utiliza para definir el radio atómico en el contexto específico de los no metales que forman moléculas diatómicas (por ejemplo, $H_2$, $N_2$, $O_2$, $F_2$, $Cl_2$), en las cuales dos átomos idénticos están unidos por un enlace covalente simple.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_012",
+      "pregunta": "La distancia internuclear entre dos átomos idénticos unidos por un enlace covalente también se conoce como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Radio de van der Waals",
+        "B": "Energía de disociación",
+        "C": "Longitud de enlace",
+        "D": "Diámetro atómico",
+        "E": "Afinidad electrónica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distancia entre los núcleos de dos átomos unidos covalentemente es, por definición, la longitud de enlace. El radio covalente se calcula como la mitad de esta longitud de enlace. Las otras opciones se refieren a conceptos diferentes de la química.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_013",
+      "pregunta": "Un elemento Z tiene un radio atómico muy grande. Con base en las tendencias periódicas generales, ¿qué se puede predecir sobre su energía de ionización y su carácter metálico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Energía de ionización alta y carácter metálico alto.",
+        "B": "Energía de ionización baja y carácter metálico alto.",
+        "C": "Energía de ionización alta y carácter metálico bajo.",
+        "D": "Energía de ionización baja y carácter metálico bajo.",
+        "E": "No es posible predecir ambas propiedades."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Existe una correlación inversa entre el radio atómico y la energía de ionización, y una correlación directa entre el radio atómico y el carácter metálico. Un radio atómico grande (típico de elementos a la izquierda y abajo de la tabla periódica) implica que los electrones externos están menos atraídos por el núcleo, resultando en una baja energía de ionización (fácil de quitar electrones) y un alto carácter metálico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_014",
+      "pregunta": "En una red cristalina de un metal, se mide que la distancia entre los núcleos de dos átomos idénticos adyacentes es $D$. ¿Cuál es la expresión matemática para calcular el radio atómico ($r_a$) de este metal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$r_a = 2D$$",
+        "B": "$$r_a = D^2$$",
+        "C": "$$r_a = D$$",
+        "D": "$$r_a = \\sqrt{D}$$",
+        "E": "$$r_a = \\frac{D}{2}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La definición de radio atómico para metales establece que es la mitad de la distancia internuclear entre dos átomos idénticos en un enlace químico. Si esta distancia internuclear es $D$, entonces el radio atómico se calcula simplemente dividiendo esta distancia por dos, lo que da como resultado la fórmula $$r_a = \\frac{D}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_109_015",
+      "pregunta": "Si la longitud de enlace en una molécula de hidrógeno ($H_2$) es $L$, ¿qué expresión representa correctamente el radio covalente ($r_c$) de un átomo de hidrógeno?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$r_c = L$$",
+        "B": "$$r_c = 2L$$",
+        "C": "$$r_c = \\frac{L}{2}$$",
+        "D": "$$r_c = L^2$$",
+        "E": "$$r_c = \\frac{2}{L}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El hidrógeno es un no metal que forma una molécula diatómica ($H_2$). Para estos casos, el radio covalente se define como la mitad de la distancia internuclear. Dado que la longitud de enlace es la distancia internuclear, si esta es $L$, el radio covalente de un solo átomo de hidrógeno es la mitad de ese valor, es decir, $$r_c = \\frac{L}{2}$$.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 62,
+  "total_temas": 322,
+  "titulo_tema": "Configuración Electrónica",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_062_001",
+      "pregunta": "¿Qué establece fundamentalmente el principio de exclusión de Pauli?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Los electrones deben llenar primero los orbitales de menor energía.",
+        "B": "En un mismo subnivel, los electrones deben ocupar el mayor número de orbitales posible.",
+        "C": "En cada orbital solo se permiten 2 electrones y deben tener espines opuestos.",
+        "D": "La energía de un orbital se calcula sumando los números cuánticos $n$ y $l$.",
+        "E": "La estabilidad de un átomo es mayor cuando tiene más energía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de exclusión de Pauli, formulado por Wolfgang Pauli en 1925, dicta que un orbital atómico puede ser ocupado por un máximo de dos electrones, y para que esto sea posible, sus espines deben ser opuestos. Esto también implica que no pueden existir dos electrones en un mismo átomo con los cuatro números cuánticos iguales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_002",
+      "pregunta": "¿Cuál es la idea central del principio de construcción \"Aufbau\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Maximizar la cantidad de espines paralelos en un subnivel de energía.",
+        "B": "Limitar el número de electrones por orbital a un máximo de dos.",
+        "C": "Los electrones llenan los orbitales atómicos en orden creciente de su energía relativa.",
+        "D": "Ubicar un elemento en la tabla periódica según su número atómico.",
+        "E": "Describir el nivel de energía principal que ocupa un electrón."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de construcción \"Aufbau\" (del alemán 'construir') establece el procedimiento para llenar los orbitales de un átomo. Sostiene que los electrones se añaden progresivamente, ocupando primero los orbitales de menor energía relativa (ER) antes de pasar a los de mayor energía, buscando siempre la configuración más estable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_003",
+      "pregunta": "¿Qué describe principalmente el número cuántico principal ($n$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La orientación espacial de un orbital.",
+        "B": "El sentido de giro de un electrón sobre su propio eje.",
+        "C": "La forma geométrica del subnivel de energía.",
+        "D": "El nivel principal de energía o capa que ocupa un electrón.",
+        "E": "El número de electrones en la capa de valencia."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número cuántico principal, representado por la letra $n$, indica el nivel principal de energía en el que se encuentra un electrón. Puede tomar valores enteros positivos (1, 2, 3, ...). Un valor de $n$ más alto corresponde a un nivel de energía mayor y a una mayor distancia promedio del electrón al núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_004",
+      "pregunta": "¿Cuál es la definición de configuración electrónica de un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad total de partículas subatómicas en el núcleo.",
+        "B": "La distribución de los electrones en sus diferentes niveles, subniveles y orbitales.",
+        "C": "La fórmula matemática para calcular el número máximo de electrones por capa.",
+        "D": "La representación abreviada utilizando el kérnel de un gas noble.",
+        "E": "El número de electrones que participan en los enlaces químicos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La configuración electrónica es la manera en que se distribuyen los electrones de un átomo dentro de sus diferentes capas energéticas (niveles, subniveles y orbitales). El objetivo es describir la disposición más estable, que corresponde a la de menor energía posible para el átomo en su estado fundamental.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_005",
+      "pregunta": "Según el principio de máxima multiplicidad de Hund, ¿cómo se distribuyen los electrones en orbitales de un mismo nivel de energía?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Llenando completamente cada orbital antes de pasar al siguiente.",
+        "B": "De forma que exista la mayor cantidad posible de espines paralelos.",
+        "C": "Apareando los electrones con espines opuestos desde el primer orbital.",
+        "D": "Siguiendo estrictamente el orden de energía relativa creciente.",
+        "E": "Limitando a dos electrones por cada subnivel de energía."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de Hund establece que, al llenar orbitales de igual energía (como los tres orbitales $p$ o los cinco orbitales $d$), los electrones se distribuyen ocupando el mayor número de orbitales posible con espines paralelos (mismo sentido de giro), antes de que se produzca el apareamiento (dos electrones en el mismo orbital).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_006",
+      "pregunta": "¿Cómo se determina la energía relativa (ER) de un orbital, según el principio de construcción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Mediante la fórmula $$2n^2$$",
+        "B": "Sumando los números cuánticos $n$ y $l$.",
+        "C": "Restando el número cuántico $l$ del número cuántico $n$.",
+        "D": "Usando únicamente el valor del número cuántico principal $n$.",
+        "E": "Multiplicando los números cuánticos $n$ y $l$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía relativa (ER) de un orbital, un concepto clave en el principio de Aufbau, se calcula mediante la suma del número cuántico principal ($n$) y el número cuántico del momento angular ($l$). La regla es $ER = n + l$. Los orbitales se llenan en orden creciente de este valor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_007",
+      "pregunta": "¿Qué relación existe entre la energía de una configuración electrónica y su estabilidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A mayor energía, mayor estabilidad.",
+        "B": "La estabilidad y la energía no están relacionadas.",
+        "C": "La energía y la estabilidad guardan una relación inversa.",
+        "D": "La relación es directa solo para los gases nobles.",
+        "E": "La estabilidad depende solo del número de espines paralelos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En química, los sistemas tienden a buscar el estado de menor energía posible, ya que este es el más estable. Por lo tanto, la energía y la estabilidad de una configuración electrónica son inversamente proporcionales: la distribución de electrones de menor energía es la más estable para un átomo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_008",
+      "pregunta": "¿Por qué los elementos que pertenecen a un mismo grupo de la tabla periódica presentan propiedades químicas similares?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque tienen el mismo número atómico.",
+        "B": "Porque se encuentran en el mismo periodo.",
+        "C": "Porque todos sus electrones están en el mismo nivel de energía.",
+        "D": "Porque tienen la misma configuración electrónica en su nivel de energía más externo.",
+        "E": "Porque tienen la misma masa atómica."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las propiedades químicas de un elemento están determinadas en gran medida por sus electrones de valencia, que son los que se encuentran en el nivel de energía más externo. Los elementos de un mismo grupo comparten la misma configuración de electrones de valencia, lo que hace que reaccionen de manera similar y tengan propiedades químicas análogas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_009",
+      "pregunta": "¿Cuál es la finalidad de usar la notación de kérnel de gas noble al escribir una configuración electrónica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Mostrar únicamente los electrones involucrados en enlaces químicos.",
+        "B": "Calcular con mayor precisión la energía relativa.",
+        "C": "Representar de forma abreviada y simplificada la configuración completa.",
+        "D": "Determinar el número exacto de neutrones en el núcleo.",
+        "E": "Evitar la aplicación del principio de Aufbau."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación de kérnel (o de gas noble) es un método de abreviación. Consiste en utilizar el símbolo del gas noble que precede al elemento entre corchetes para representar la configuración de los electrones internos, y luego se escriben explícitamente solo los electrones de los niveles superiores. Esto simplifica la escritura, especialmente para elementos con muchos electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_010",
+      "pregunta": "El número máximo de electrones que puede albergar un nivel de energía principal $n$ está dado por la fórmula:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$n+1$$",
+        "B": "$$n^2$$",
+        "C": "$$2n$$",
+        "D": "$$2n+1$$",
+        "E": "$$2n^2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La capacidad máxima de electrones de una capa o nivel de energía principal ($n$) se calcula con la fórmula de Rydberg, que es $$2n^2$$. Por ejemplo, para el nivel $n=1$, el máximo es $$2(1)^2 = 2$$ electrones. Para el nivel $n=2$, es $$2(2)^2 = 8$$ electrones, y así sucesivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_011",
+      "pregunta": "¿Qué información de la configuración electrónica de un elemento determina el periodo al que pertenece en la tabla periódica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número total de electrones en el átomo.",
+        "B": "La suma de electrones en los subniveles $s$ y $p$.",
+        "C": "El valor del mayor nivel de energía ($n$) ocupado.",
+        "D": "El número de orbitales completamente llenos.",
+        "E": "El número cuántico de espín del último electrón."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo de un elemento en la tabla periódica corresponde al número cuántico principal ($n$) más alto que contiene electrones en su configuración electrónica. Por ejemplo, si la configuración de un elemento termina en $4p^1$, su mayor nivel de energía es $n=4$, por lo que pertenece al periodo 4.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_012",
+      "pregunta": "De acuerdo con el principio de exclusión de Pauli, si dos electrones están en el mismo orbital, deben diferir obligatoriamente en su:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Número cuántico principal ($n$).",
+        "B": "Número cuántico del momento angular ($l$).",
+        "C": "Número cuántico magnético ($m_l$).",
+        "D": "Número cuántico de espín ($m_s$).",
+        "E": "Energía relativa (ER)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Si dos electrones están en el mismo orbital, por definición comparten el mismo número cuántico principal ($n$), del momento angular ($l$) y magnético ($m_l$). Para cumplir con el principio de exclusión de Pauli (que prohíbe que dos electrones tengan los cuatro números cuánticos iguales), deben tener obligatoriamente números cuánticos de espín opuestos (por ejemplo, $+1/2$ y $-1/2$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_013",
+      "pregunta": "La configuración electrónica del Cloro (Z=17) es $1s^2 2s^2 2p^6 3s^2 3p^5$. Al distribuir los 5 electrones en los tres orbitales del subnivel $3p$, la regla de Hund implica que habrá:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Tres orbitales llenos y un electrón desapareado.",
+        "B": "Un orbital completamente lleno y tres electrones desapareados.",
+        "C": "Cinco electrones con espín paralelo en cinco orbitales distintos.",
+        "D": "Dos orbitales completamente llenos y un electrón desapareado en el tercer orbital.",
+        "E": "Un orbital lleno, uno semilleno y uno vacío."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para distribuir 5 electrones en 3 orbitales $p$ según la regla de Hund, primero se coloca un electrón en cada uno de los tres orbitales con espines paralelos. Luego, los dos electrones restantes se aparean con los electrones en los dos primeros orbitales. El resultado es que dos orbitales $p$ quedan llenos (con dos electrones cada uno) y el tercer orbital queda con un solo electrón desapareado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_014",
+      "pregunta": "La configuración electrónica completa del Galio (Z=31) es $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^1$. ¿Cuál es su configuración electrónica abreviada o de kérnel correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$[\\text{Ne}] 3s^2 3p^6 4s^2 3d^{10} 4p^1$$",
+        "B": "$$[\\text{Ar}] 4s^2 3d^{10} 4p^1$$",
+        "C": "$$[\\text{Kr}] 4p^1$$",
+        "D": "$$[\\text{Ar}] 3d^{10} 4s^2 4p^1$$",
+        "E": "$$[\\text{Ne}] 3d^{10} 4p^1$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para escribir la configuración de kérnel, se identifica el gas noble que precede al elemento. Para el Galio (Z=31), el gas noble anterior es el Argón (Z=18). La configuración del Argón es $1s^2 2s^2 2p^6 3s^2 3p^6$. Esta parte de la configuración del Galio se reemplaza por [Ar], y a continuación se escriben los electrones restantes, que son $4s^2 3d^{10} 4p^1$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_062_015",
+      "pregunta": "Un átomo neutro tiene un total de 18 electrones. Sabiendo que Z es igual al número de electrones, ¿cuál es su configuración electrónica en estado basal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$1s^2 2s^2 2p^6 3s^2 3p^6$$",
+        "B": "$$1s^2 2s^2 2p^6 3s^2 3d^6$$",
+        "C": "$$1s^2 2s^2 2p^6 3s^2 3p^4 4s^2$$",
+        "D": "$$1s^2 2s^2 2p^6 3s^1 3p^7$$",
+        "E": "$$1s^2 2s^2 2p^6 3s^2 3p^5 4s^1$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Para un átomo neutro con 18 electrones, la configuración se construye siguiendo el principio de Aufbau, llenando los orbitales en orden de energía creciente hasta distribuir los 18 electrones. El orden es: $1s$ (2e⁻), $2s$ (2e⁻), $2p$ (6e⁻), $3s$ (2e⁻) y $3p$ (6e⁻). Sumando los electrones ($2+2+6+2+6 = 18$), la configuración correcta es $1s^2 2s^2 2p^6 3s^2 3p^6$, que corresponde al gas noble Argón.",
+      "imagen": null
+    }
+  ]
+}

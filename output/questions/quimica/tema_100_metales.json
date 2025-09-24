@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 100,
+  "total_temas": 322,
+  "titulo_tema": "Metales",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_100_001",
+      "pregunta": "¿Qué propiedad de los metales describe su capacidad para ser estirados y formar hilos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Maleabilidad",
+        "B": "Conductividad",
+        "C": "Reactividad",
+        "D": "Ductilidad",
+        "E": "Oxidación"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ductilidad es la propiedad de los metales que les permite deformarse plásticamente bajo una fuerza de tracción sin romperse, lo que hace posible estirarlos para formar alambres o hilos. La maleabilidad es la capacidad de formar láminas, la conductividad se refiere al paso de calor o electricidad, la reactividad es la tendencia a reaccionar químicamente y la oxidación es el proceso de perder electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_002",
+      "pregunta": "¿Cuál es el estado físico de la mayoría de los metales a temperatura ambiente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Líquido",
+        "B": "Gaseoso",
+        "C": "Sólido",
+        "D": "Plasma",
+        "E": "Coloide"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica general de los metales es que son sólidos a temperatura ambiente. Existe una notable excepción a esta regla, que es el mercurio ($Hg$), el cual es líquido en estas condiciones. Las otras opciones son incorrectas para la gran mayoría de los elementos metálicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_003",
+      "pregunta": "Cuando un átomo de un metal pierde electrones, ¿en qué se convierte?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En un anión",
+        "B": "En un catión",
+        "C": "En un gas noble",
+        "D": "En un no metal",
+        "E": "En un isótopo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los metales tienen una tendencia natural a perder electrones de su capa de valencia. Dado que los electrones tienen carga negativa, al perderlos, el átomo queda con un exceso de carga positiva (más protones que electrones), convirtiéndose en un ion positivo, conocido como catión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_004",
+      "pregunta": "Según su conductividad, ¿cuáles son las tres clasificaciones principales de los elementos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólidos, líquidos y gases",
+        "B": "Alcalinos, halógenos y gases nobles",
+        "C": "Representativos, de transición y actínidos",
+        "D": "Metales, no metales y metaloides",
+        "E": "Ácidos, bases y sales"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una de las formas fundamentales de clasificar los elementos químicos es según su capacidad para conducir la electricidad. Bajo este criterio, se agrupan en metales (buenos conductores), no metales (malos conductores o aislantes) y metaloides (con propiedades intermedias o de semiconductor).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_005",
+      "pregunta": "¿Cómo se describe la capacidad de los metales para conducir el calor y la electricidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son aislantes",
+        "B": "Son malos conductores",
+        "C": "Son semiconductores",
+        "D": "Su conductividad es variable",
+        "E": "Son buenos conductores"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Una de las propiedades más distintivas de los metales es su alta conductividad térmica y eléctrica. Esto se debe a la estructura de sus átomos, que permite que los electrones se muevan libremente a través del material, transportando energía (calor) y carga (electricidad) de manera eficiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_006",
+      "pregunta": "¿En qué grupo de la tabla periódica se encuentran los metales más reactivos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Grupo $IA$ (alcalinos)",
+        "B": "Grupo $IIA$ (alcalinotérreos)",
+        "C": "Grupo $IIIA$",
+        "D": "Lantánidos",
+        "E": "Metales de transición"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Los metales del Grupo $IA$, conocidos como metales alcalinos, son los más reactivos. Esto se debe a que tienen un solo electrón en su capa más externa, el cual tienden a perder con mucha facilidad para alcanzar una configuración electrónica estable, similar a la del gas noble anterior.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_007",
+      "pregunta": "¿Por qué los metales son considerados buenos agentes reductores?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque tienden a ganar electrones",
+        "B": "Porque son muy estables y no reaccionan",
+        "C": "Porque tienden a perder electrones",
+        "D": "Porque son excelentes aislantes térmicos",
+        "E": "Porque son líquidos a temperatura ambiente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un agente reductor es una sustancia que cede electrones a otra en una reacción redox, haciendo que la otra sustancia se reduzca. Dado que los metales tienen una fuerte tendencia a perder sus electrones de valencia (es decir, a oxidarse), actúan eficazmente como agentes reductores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_008",
+      "pregunta": "¿Cuál es la ubicación general de los elementos metálicos en la tabla periódica con respecto a la línea escalonada de los metaloides?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A la derecha de la línea",
+        "B": "A la izquierda de la línea",
+        "C": "Directamente sobre la línea",
+        "D": "En la esquina superior derecha",
+        "E": "Dispersos sin un patrón definido"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La tabla periódica está organizada de tal manera que los metales ocupan la vasta mayoría de la misma, situándose a la izquierda de la línea diagonal o escalonada que separa a los elementos. Esta línea divide a los metales de los no metales, con los metaloides ubicados a lo largo de ella. Los lantánidos y actínidos, series de metales, también se consideran parte de este grupo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_009",
+      "pregunta": "La capacidad de un metal para ser martillado o prensado en láminas delgadas se conoce como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ductilidad",
+        "B": "Maleabilidad",
+        "C": "Reductibilidad",
+        "D": "Reactividad",
+        "E": "Conductividad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La maleabilidad es la propiedad física que permite que un material, como un metal, sea deformado bajo compresión para formar láminas delgadas sin romperse. Es una característica distintiva de los metales, junto con la ductilidad (capacidad de formar hilos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_010",
+      "pregunta": "El proceso por el cual un metal pierde electrones para formar un ion positivo se denomina:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Reducción",
+        "B": "Sublimación",
+        "C": "Fusión",
+        "D": "Oxidación",
+        "E": "Neutralización"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En química, la oxidación se define como la pérdida de electrones. Como los metales tienen una marcada tendencia a ceder sus electrones de valencia, se dice que se oxidan fácilmente. Este proceso resulta en la formación de un catión (ion positivo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_011",
+      "pregunta": "¿Qué metal es una excepción a la regla general de que los metales son sólidos a temperatura ambiente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Oro",
+        "B": "Hierro",
+        "C": "Sodio",
+        "D": "Aluminio",
+        "E": "Mercurio"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Aunque la gran mayoría de los elementos metálicos son sólidos a temperatura y presión estándar (aproximadamente 25°C y 1 atm), el mercurio ($Hg$) es el único metal que se encuentra en estado líquido en estas condiciones. El oro, hierro, sodio y aluminio son todos sólidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_012",
+      "pregunta": "Además de los metales representativos, ¿qué otra gran categoría de metales existe?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Metales nobles",
+        "B": "Metales líquidos",
+        "C": "Metales de transición",
+        "D": "Metales gaseosos",
+        "E": "Metaloides"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los metales se pueden subclasificar en varias categorías. Las dos más amplias son los metales representativos (Grupos $IA$, $IIA$, $IIIA$, etc.) y los metales de transición (los grupos del bloque d de la tabla periódica). Los metaloides son una clase de elementos diferente, no una subcategoría de metales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_013",
+      "pregunta": "Al analizar el comportamiento de los metales representativos de los grupos $IA$ y $IIA$, ¿cuál es el objetivo fundamental que buscan al perder electrones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Aumentar su número atómico",
+        "B": "Convertirse en un no metal",
+        "C": "Volverse isoelectrónicos con el gas noble anterior",
+        "D": "Formar un enlace covalente con otro metal",
+        "E": "Disminuir su masa atómica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los metales representativos tienden a reaccionar para alcanzar una mayor estabilidad. Lo logran perdiendo sus electrones de valencia para adquirir la misma configuración electrónica que el gas noble que los precede en la tabla periódica. Ser 'isoelectrónico' significa tener el mismo número de electrones. Este estado de octeto completo es energéticamente muy favorable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_014",
+      "pregunta": "Un elemento es sólido, conduce la electricidad eficazmente, se puede moldear en láminas y tiende a formar iones con carga positiva. ¿Cómo se clasificaría más probablemente este elemento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Como un no metal",
+        "B": "Como un metaloide",
+        "C": "Como un gas noble",
+        "D": "Como un metal",
+        "E": "Como un halógeno"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El conjunto de propiedades descritas (estado sólido, alta conductividad eléctrica, maleabilidad y tendencia a formar cationes) son las características distintivas de los metales. Los no metales son generalmente aislantes y forman aniones, los metaloides son semiconductores, y los gases nobles y halógenos tienen propiedades muy diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_100_015",
+      "pregunta": "Si se afirma que un metal es un buen agente reductor, ¿qué se puede inferir sobre su papel en una reacción química con un no metal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que aceptará electrones del no metal, oxidándolo.",
+        "B": "Que no participará en la transferencia de electrones.",
+        "C": "Que donará sus electrones al no metal, haciendo que este se reduzca.",
+        "D": "Que formará un enlace covalente compartiendo electrones.",
+        "E": "Que se convertirá en un anión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ser un buen agente reductor implica tener una alta capacidad para donar electrones. En una reacción con un no metal (que tiende a aceptar electrones), el metal cederá sus electrones. Al ceder electrones, el metal se oxida y provoca la reducción del no metal. Este es el principio fundamental de las reacciones redox entre metales y no metales.",
+      "imagen": null
+    }
+  ]
+}

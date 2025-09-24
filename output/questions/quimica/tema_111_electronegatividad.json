@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 111,
+  "total_temas": 322,
+  "titulo_tema": "Electronegatividad",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_111_001",
+      "pregunta": "¿Qué se define como la fuerza relativa de un átomo para atraer hacia sí los electrones cuando forma un enlace químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Energía de ionización",
+        "B": "Radio iónico",
+        "C": "Afinidad electrónica",
+        "D": "Electronegatividad",
+        "E": "Carácter metálico"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La electronegatividad es, por definición, la medida de la capacidad de un átomo para atraer los electrones compartidos en un enlace químico. La energía de ionización es la energía para quitar un electrón, la afinidad electrónica es la energía liberada al ganar un electrón, y el radio iónico es el tamaño de un ion.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_002",
+      "pregunta": "¿Cómo se compara el radio de un anión con el de su átomo neutro correspondiente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El radio del anión es menor",
+        "B": "El radio del anión es mayor",
+        "C": "Ambos radios son idénticos",
+        "D": "El radio del anión es a veces mayor y a veces menor",
+        "E": "No se pueden comparar"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un anión se forma cuando un átomo neutro gana uno o más electrones. El aumento en el número de electrones en la capa de valencia provoca una mayor repulsión entre ellos, expandiendo la nube electrónica. Por lo tanto, el radio del anión siempre es mayor que el del átomo neutro ($$Radio_{anión} > Radio_{átomo}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_003",
+      "pregunta": "¿Cuál es la definición de energía de ionización (EI)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía liberada cuando un átomo gana un electrón.",
+        "B": "La energía mínima necesaria para extraer un electrón de un átomo neutro en estado gaseoso.",
+        "C": "La fuerza con la que un átomo atrae electrones en un enlace.",
+        "D": "La energía requerida para formar un anión a partir de un átomo neutro.",
+        "E": "La energía total de los electrones en un átomo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía de ionización se define específicamente como la energía mínima que se debe suministrar a un átomo neutro, en estado gaseoso y fundamental, para arrancarle el electrón más externo. Se representa como $$X_{(g)} + EI \rightarrow X^{+}_{(g)} + e^{-}_{(g)}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_004",
+      "pregunta": "¿Cómo es el radio de un catión en comparación con el de su átomo neutro?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El radio del catión es significativamente mayor.",
+        "B": "El radio del catión es ligeramente mayor.",
+        "C": "El radio del catión es idéntico al del átomo neutro.",
+        "D": "El radio del catión es menor.",
+        "E": "La relación depende del número de protones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un catión se forma al perder electrones. Al haber menos electrones, la carga positiva del núcleo atrae con más fuerza a los electrones restantes, contrayendo la nube electrónica. Esto resulta en un radio menor para el catión en comparación con el átomo neutro ($$Radio_{átomo} > Radio_{catión}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_005",
+      "pregunta": "¿Qué científico creó la escala más conocida para medir la electronegatividad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Dmitri Mendeléyev",
+        "B": "Gilbert N. Lewis",
+        "C": "Linus Pauling",
+        "D": "Niels Bohr",
+        "E": "Ernest Rutherford"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Linus Pauling fue el químico que desarrolló la primera y más utilizada escala de electronegatividad, basándose en datos de energías de enlace para asignar valores relativos a los elementos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_006",
+      "pregunta": "¿Cuál es la tendencia general de la electronegatividad al moverse de izquierda a derecha en un periodo de la tabla periódica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye constantemente.",
+        "B": "Permanece relativamente constante.",
+        "C": "Aumenta hasta alcanzar un máximo en los halógenos.",
+        "D": "Aumenta hasta alcanzar un máximo en los gases nobles.",
+        "E": "Disminuye y luego aumenta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al avanzar de izquierda a derecha en un periodo, el número de protones en el núcleo aumenta, incrementando la atracción sobre los electrones de valencia. Esto hace que los átomos atraigan con más fuerza los electrones en un enlace, por lo que la electronegatividad aumenta, siendo máxima en los halógenos (Grupo 17).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_007",
+      "pregunta": "¿Por qué un anión tiene un radio mayor que su átomo neutro original?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque pierde protones del núcleo.",
+        "B": "Porque la carga nuclear efectiva disminuye.",
+        "C": "Porque el número de electrones agregados causa una mayor repulsión entre ellos.",
+        "D": "Porque los electrones se mueven a niveles de energía más bajos.",
+        "E": "Porque gana neutrones que aumentan el tamaño."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La razón principal del aumento de tamaño en un anión es la adición de electrones al nivel de energía externo. Este exceso de carga negativa aumenta la repulsión entre los electrones, lo que obliga a la nube electrónica a expandirse para minimizar dicha repulsión, resultando en un radio iónico mayor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_008",
+      "pregunta": "¿Qué tipo de elementos tienden a presentar baja electronegatividad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Elementos con carácter no metálico.",
+        "B": "Elementos con alta energía de ionización.",
+        "C": "Elementos con alta afinidad electrónica.",
+        "D": "Elementos con carácter metálico o electropositivo.",
+        "E": "Los halógenos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los elementos con baja electronegatividad tienen una tendencia débil a atraer electrones en un enlace; en su lugar, tienden a cederlos. Esta propiedad es característica de los metales, por lo que también se les conoce como elementos electropositivos. Esto se correlaciona con bajas energías de ionización y bajas afinidades electrónicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_009",
+      "pregunta": "¿Cuál es la tendencia del radio iónico al descender por un grupo en la tabla periódica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye",
+        "B": "Aumenta",
+        "C": "Permanece constante",
+        "D": "Aumenta y luego disminuye",
+        "E": "No sigue una tendencia clara"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al descender en un grupo, se añaden nuevos niveles de energía (capas de electrones). Cada nuevo nivel está más alejado del núcleo, lo que provoca un aumento significativo en el tamaño del átomo y, consecuentemente, de su ion. Esta tendencia es la misma que la del radio atómico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_010",
+      "pregunta": "En la reacción que define la energía de ionización, $$X_{(g)} + EI \rightarrow X^{+}_{(g)} + e^{-}_{(g)}$$, ¿qué representa el término $$X^{+}_{(g)}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un átomo neutro en estado excitado.",
+        "B": "Un anión con carga negativa.",
+        "C": "Un catión con carga positiva formado al perder un electrón.",
+        "D": "Una molécula diatómica.",
+        "E": "Un isótopo del elemento X."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación describe el proceso de ionización. El átomo neutro $$X_{(g)}$$ absorbe energía (EI) para perder un electrón ($$e^{-}_{(g)}$$). El producto resultante, $$X^{+}_{(g)}$$, es el átomo original con un electrón menos, lo que le confiere una carga positiva neta, es decir, es un catión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_011",
+      "pregunta": "¿Por qué los gases nobles generalmente carecen de un valor asignado de electronegatividad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque son los elementos más electropositivos.",
+        "B": "Porque tienen una mínima tendencia a formar enlaces químicos.",
+        "C": "Porque sus radios atómicos son los más pequeños.",
+        "D": "Porque su energía de ionización es muy baja.",
+        "E": "Porque solo existen en estado gaseoso."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La electronegatividad mide la atracción de electrones dentro de un enlace químico. Los gases nobles tienen sus capas de valencia completas, lo que les confiere una gran estabilidad y, por lo tanto, una tendencia mínima o nula a formar enlaces con otros átomos en condiciones normales. Al no formar enlaces comúnmente, el concepto de electronegatividad no se les aplica de la misma manera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_012",
+      "pregunta": "¿Qué relación existe entre la energía de ionización y la electronegatividad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son propiedades inversamente proporcionales.",
+        "B": "No tienen ninguna relación.",
+        "C": "Los elementos con alta energía de ionización tienden a tener alta electronegatividad.",
+        "D": "Los elementos con alta energía de ionización tienden a tener baja electronegatividad.",
+        "E": "Ambas propiedades disminuyen de izquierda a derecha en un periodo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ambas propiedades están relacionadas con la fuerza con que el núcleo atrae a los electrones. Un átomo que requiere mucha energía para que le quiten un electrón (alta energía de ionización) también atraerá con fuerza los electrones en un enlace (alta electronegatividad). Esta es la característica de los no metales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_013",
+      "pregunta": "Un elemento se caracteriza por tener baja energía de ionización y baja electronegatividad. ¿Qué se puede predecir sobre su radio iónico y su carácter químico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Formará un anión grande y tendrá carácter no metálico.",
+        "B": "Formará un catión pequeño y tendrá carácter metálico.",
+        "C": "No formará iones y será un gas noble.",
+        "D": "Formará un catión grande y tendrá carácter no metálico.",
+        "E": "Formará un anión pequeño y tendrá carácter metálico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las bajas energías de ionización y electronegatividad son propiedades distintivas de los metales. Los metales tienden a perder electrones fácilmente para formar cationes. Cuando un átomo pierde electrones, su radio disminuye ($$Radio_{átomo} > Radio_{catión}$$). Por lo tanto, el elemento formará un catión relativamente pequeño y exhibirá un fuerte carácter metálico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_014",
+      "pregunta": "Si un átomo neutro X forma un ion $$X^{-}$$ y un ion $$X^{+}$$, ¿cuál sería el orden correcto de sus radios de menor a mayor?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$X^{-}, X, X^{+}$$",
+        "B": "$$X, X^{+}, X^{-}$$",
+        "C": "$$X^{+}, X, X^{-}$$",
+        "D": "$$X^{+}, X^{-}, X$$",
+        "E": "$$X^{-}, X^{+}, X$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta combina los conceptos de radio de cationes y aniones. El catión ($$X^{+}$$) se forma al perder un electrón, lo que aumenta la atracción nuclear sobre los electrones restantes, haciéndolo el más pequeño. El átomo neutro (X) es el punto de referencia intermedio. El anión ($$X^{-}$$) se forma al ganar un electrón, lo que incrementa la repulsión electrónica y expande la nube, haciéndolo el más grande. El orden correcto de menor a mayor radio es: $$Radio_{catión} < Radio_{átomo} < Radio_{anión}$$, que corresponde a $$X^{+}, X, X^{-}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_111_015",
+      "pregunta": "Considerando las tendencias periódicas, ¿qué elemento tendría la mayor electronegatividad y la mayor energía de ionización?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un metal alcalino en la parte inferior de la tabla.",
+        "B": "Un gas noble en la parte superior de la tabla.",
+        "C": "Un halógeno en la parte superior de la tabla.",
+        "D": "Un metal de transición en el centro de la tabla.",
+        "E": "Un metaloide en la parte media de la tabla."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La electronegatividad y la energía de ionización aumentan hacia la derecha en un periodo y hacia arriba en un grupo. Por lo tanto, los valores más altos para ambas propiedades se encontrarán en la esquina superior derecha de la tabla periódica. Aunque los gases nobles tienen la mayor energía de ionización, su electronegatividad no se define o es muy baja. De las opciones, los halógenos (Grupo 17) alcanzan el máximo de electronegatividad, y los que están más arriba en el grupo (como el Flúor) tendrán los valores más altos de ambas propiedades.",
+      "imagen": null
+    }
+  ]
+}

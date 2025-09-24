@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 236,
+  "total_temas": 322,
+  "titulo_tema": "Molecular Structure",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_236_001",
+      "pregunta": "¿Qué describe el término \"composición\" en el contexto de la estructura molecular orgánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El orden en que los átomos están enlazados entre sí.",
+        "B": "La clase y proporción de átomos que forman una sustancia.",
+        "C": "La forma tridimensional de la molécula.",
+        "D": "Los tipos de enlaces, ya sean simples, dobles o triples.",
+        "E": "La reactividad química de la molécula."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La composición de una sustancia orgánica se refiere a los tipos de átomos (clase) y la cantidad de cada uno (proporción) que la constituyen. Por ejemplo, la fórmula $$C_6H_{12}O_6$$ indica que la molécula está compuesta por 6 átomos de carbono, 12 de hidrógeno y 6 de oxígeno. El orden de enlace corresponde a la constitución.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_002",
+      "pregunta": "¿Mediante qué tipo de fórmula se representa principalmente la composición de una molécula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fórmula desarrollada o expandida.",
+        "B": "Fórmula de líneas y ángulos.",
+        "C": "Fórmula molecular, global o sintética.",
+        "D": "Fórmula semidesarrollada.",
+        "E": "Fórmula plana."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La composición se representa mediante fórmulas moleculares (también llamadas globales o sintéticas), como $$CH_4$$ o $$C_3H_6O$$, que indican el número total de átomos de cada elemento en la molécula. Las otras opciones son representaciones de la constitución, que muestran cómo están conectados los átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_003",
+      "pregunta": "¿Qué se entiende por \"constitución\" de una molécula orgánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa total de la molécula.",
+        "B": "La cantidad de cada elemento presente.",
+        "C": "El orden en que los átomos están unidos entre sí.",
+        "D": "El número de electrones de valencia.",
+        "E": "El estado de agregación de la sustancia."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La constitución describe la conectividad de los átomos, es decir, la secuencia y el orden específico en que están enlazados para formar la estructura de la molécula. Esto se diferencia de la composición, que solo informa sobre qué átomos y cuántos hay.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_004",
+      "pregunta": "¿Cuál es la característica principal de una fórmula desarrollada, también conocida como expandida o plana?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Omite todos los átomos de hidrógeno para simplificar.",
+        "B": "Muestra la geometría tridimensional de la molécula.",
+        "C": "Especifica todos los enlaces entre los diferentes átomos de la molécula.",
+        "D": "Solo indica la proporción de átomos, como en $$C_4H_8O$$.",
+        "E": "Agrupa los átomos de hidrógeno con su carbono correspondiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula desarrollada o plana se caracteriza por mostrar explícitamente cada uno de los enlaces que conectan a todos los átomos dentro de la molécula, sin omitir ninguno. Su propósito es detallar la constitución de forma completa en un plano bidimensional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_005",
+      "pregunta": "Una fórmula como $$C_6H_5Cl$$ es un ejemplo de una fórmula:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Desarrollada.",
+        "B": "De líneas y ángulos.",
+        "C": "Semidesarrollada.",
+        "D": "Plana.",
+        "E": "Molecular o global."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La notación $$C_6H_5Cl$$ solo indica el tipo y la cantidad de cada átomo en la molécula. Este tipo de representación corresponde a una fórmula molecular o global, que describe la composición de la sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_006",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa la composición de una molécula pero no su constitución?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una fórmula de líneas y ángulos.",
+        "B": "$$C_3H_6O$$",
+        "C": "Una fórmula semidesarrollada.",
+        "D": "El diagrama expandido del hexano.",
+        "E": "Una fórmula plana."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula $$C_3H_6O$$ es una fórmula molecular que solo indica que la molécula contiene 3 átomos de carbono, 6 de hidrógeno y 1 de oxígeno (composición). Todas las demás opciones son tipos de fórmulas estructurales que muestran la conectividad de los átomos (constitución).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_007",
+      "pregunta": "El concepto de \"constitución\" es fundamental para explicar la existencia de isómeros, que son moléculas con la misma:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fórmula desarrollada pero diferente fórmula molecular.",
+        "B": "Fórmula molecular pero diferente conectividad atómica.",
+        "C": "Conectividad atómica pero diferente composición.",
+        "D": "Estructura tridimensional pero diferente fórmula molecular.",
+        "E": "Reactividad química pero diferente masa molar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los isómeros constitucionales son compuestos que tienen la misma fórmula molecular (idéntica composición) pero difieren en su constitución, es decir, en el orden en que sus átomos están enlazados. Por ejemplo, varias moléculas diferentes pueden tener la fórmula $$C_4H_8O$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_008",
+      "pregunta": "Si se desea representar el orden exacto de conexión de los átomos en una molécula, ¿qué concepto se está representando?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La composición.",
+        "B": "La fórmula sintética.",
+        "C": "La proporción atómica.",
+        "D": "La constitución.",
+        "E": "La fórmula global."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El orden de conexión o la secuencia de enlaces entre los átomos define la constitución de una molécula. Las fórmulas planas, como la desarrollada o semidesarrollada, son las herramientas utilizadas para representar visualmente esta constitución.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_009",
+      "pregunta": "El diagrama que muestra la molécula de hexano con todos sus átomos de carbono e hidrógeno y cada uno de los enlaces que los unen es una representación explícita de su:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fórmula molecular únicamente.",
+        "B": "Composición y constitución.",
+        "C": "Composición únicamente.",
+        "D": "Fórmula global.",
+        "E": "Masa molar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un diagrama tan detallado (una fórmula desarrollada) muestra tanto la composición (se pueden contar todos los átomos, $$C_6H_{14}$$) como, fundamentalmente, la constitución (se ve el orden exacto en que están enlazados).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_010",
+      "pregunta": "¿Cuál es la diferencia fundamental entre los conceptos de composición y constitución molecular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La composición es visual y la constitución es numérica.",
+        "B": "La composición se usa para compuestos inorgánicos y la constitución para orgánicos.",
+        "C": "La composición indica qué átomos hay, mientras que la constitución indica cómo están conectados.",
+        "D": "Son términos sinónimos para describir la estructura de una molécula.",
+        "E": "La composición se representa con fórmulas planas y la constitución con fórmulas globales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta opción resume la distinción clave: la composición es el inventario de átomos de una molécula (ej. $$C_6H_{12}O_6$$), mientras que la constitución es el mapa de sus conexiones, detallando qué átomo está unido a cuál.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_011",
+      "pregunta": "Las fórmulas planas (desarrolladas, semidesarrolladas, etc.) son representaciones gráficas de la:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Composición molecular.",
+        "B": "Constitución molecular.",
+        "C": "Fórmula empírica.",
+        "D": "Masa molecular.",
+        "E": "Fórmula global."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las fórmulas planas están diseñadas específicamente para mostrar la constitución de una molécula, es decir, para ilustrar el orden en que los átomos están enlazados entre sí. No se limitan a listar los átomos como lo hace una fórmula global.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_012",
+      "pregunta": "¿Qué tipo de fórmula ofrece información sobre la constitución de una molécula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Global.",
+        "B": "Sintética.",
+        "C": "Desarrollada.",
+        "D": "Empírica.",
+        "E": "Molecular."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula desarrollada es un tipo de fórmula plana que muestra todos los enlaces entre los átomos, proporcionando una descripción completa de la constitución de la molécula. Las fórmulas globales, sintéticas, empíricas y moleculares solo describen la composición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_013",
+      "pregunta": "Un análisis elemental revela que un compuesto tiene la fórmula molecular $$C_4H_8O$$. ¿Por qué esta información es insuficiente para identificar inequívocamente la sustancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque no especifica el peso atómico de cada elemento.",
+        "B": "Porque no indica si el compuesto es polar o no polar.",
+        "C": "Porque la fórmula molecular solo describe la composición, y pueden existir múltiples constituciones (isómeros) para ella.",
+        "D": "Porque la fórmula podría estar incorrectamente simplificada y la real ser $$C_8H_{16}O_2$$.",
+        "E": "Porque no se conoce el estado de agregación del compuesto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula molecular $$C_4H_8O$$ solo define la composición (el tipo y número de átomos). Sin embargo, estos átomos pueden conectarse de diferentes maneras (diferentes constituciones), dando lugar a distintos compuestos llamados isómeros (como el butanal o la butanona). Por lo tanto, conocer solo la composición no es suficiente para una identificación única.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_014",
+      "pregunta": "Al comparar la fórmula molecular del hexano, $$C_6H_{14}$$, con su fórmula desarrollada, ¿qué ventaja informativa crucial ofrece la fórmula desarrollada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Permite un cálculo más rápido de la masa molar.",
+        "B": "Es una representación más compacta y fácil de escribir.",
+        "C": "Revela la constitución, es decir, la secuencia de enlace átomo por átomo.",
+        "D": "Muestra la proporción de carbono a hidrógeno, que la fórmula molecular no hace.",
+        "E": "Indica los ángulos de enlace exactos de la molécula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La principal ventaja de la fórmula desarrollada sobre la molecular es que muestra la constitución de la molécula. Mientras que $$C_6H_{14}$$ solo actúa como un inventario de átomos (composición), la fórmula desarrollada detalla la conectividad, mostrando cómo la cadena de seis carbonos está formada y cómo los hidrógenos se unen a ella.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_236_015",
+      "pregunta": "Un estudiante afirma que \"la fórmula desarrollada es la representación más completa de la constitución de una molécula en el plano\". ¿Qué justifica esta afirmación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque muestra la geometría tridimensional real de la molécula.",
+        "B": "Porque utiliza símbolos químicos y líneas, a diferencia de otras fórmulas.",
+        "C": "Porque especifica todos y cada uno de los enlaces entre todos los átomos, sin omisiones ni simplificaciones.",
+        "D": "Porque solo es aplicable a hidrocarburos simples como el hexano.",
+        "E": "Porque es la única que permite conocer la composición de la molécula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La afirmación es correcta porque la característica definitoria de una fórmula desarrollada (o expandida) es su exhaustividad en la representación de la conectividad. A diferencia de las fórmulas semidesarrolladas o de líneas y ángulos, que simplifican o implican ciertos enlaces (como los C-H), la desarrollada los muestra todos explícitamente, ofreciendo una visión completa de la constitución en dos dimensiones.",
+      "imagen": null
+    }
+  ]
+}

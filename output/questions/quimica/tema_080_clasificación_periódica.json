@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 80,
+  "total_temas": 322,
+  "titulo_tema": "Clasificación Periódica",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_080_001",
+      "pregunta": "¿En qué propiedad se basaron inicialmente Dimitri Mendeleev y Lothar Meyer para proponer su ordenamiento de los elementos químicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Número atómico",
+        "B": "Pesos atómicos",
+        "C": "Número de neutrones",
+        "D": "Electronegatividad",
+        "E": "Radio atómico"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Tanto Dimitri Mendeleev como Lothar Meyer, de forma independiente, propusieron un ordenamiento periódico basado en la idea de que las propiedades de los elementos eran una función periódica de sus pesos atómicos. El número atómico sería la base de la ley periódica moderna años después.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_002",
+      "pregunta": "¿Qué científico demostró que los elementos debían ordenarse según su número atómico, estableciendo así la ley periódica moderna?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Dimitri Mendeleev",
+        "B": "Lothar Meyer",
+        "C": "Henry Moseley",
+        "D": "John Dalton",
+        "E": "Marie Curie"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En 1913, Henry Moseley, a través de sus estudios con rayos X, demostró que las propiedades de los elementos se correlacionaban de manera más precisa con el número atómico (cantidad de protones en el núcleo) que con el peso atómico. Esto condujo a la formulación de la ley periódica moderna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_003",
+      "pregunta": "¿Cómo se denomina a la familia de elementos químicos que pertenecen al grupo IA (o 1)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Halógenos",
+        "B": "Gases nobles",
+        "C": "Metales alcalinotérreos",
+        "D": "Metales alcalinos",
+        "E": "Carbonoides"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El grupo IA o 1 de la tabla periódica corresponde a la familia de los metales alcalinos. Estos elementos, como el litio (Li) y el sodio (Na), son conocidos por ser muy reactivos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_004",
+      "pregunta": "Los elementos del grupo VIA (o 16) son conocidos por varios nombres, entre ellos:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Nitrogenoides",
+        "B": "Boroides",
+        "C": "Halógenos",
+        "D": "Metales alcalinos",
+        "E": "Calcógenos"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La familia de elementos del grupo VIA (o 16), que incluye al oxígeno y al azufre, recibe los nombres de oxigenoides, calcógenos o anfígenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_005",
+      "pregunta": "¿Cuál es el enunciado de la ley periódica moderna establecida por H. Moseley?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las propiedades de los elementos son función periódica de sus masas atómicas.",
+        "B": "Las propiedades de los elementos son función periódica de sus números atómicos.",
+        "C": "Las propiedades de los elementos son idénticas en cada período.",
+        "D": "Las propiedades de los elementos dependen únicamente de su radio atómico.",
+        "E": "Las propiedades de los elementos no siguen ningún patrón predecible."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ley periódica moderna, fundamental para la química actual, establece que \"Las propiedades de los elementos son función periódica de sus números atómicos\". Esto significa que si los elementos se ordenan por su número atómico, sus propiedades se repiten a intervalos regulares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_006",
+      "pregunta": "¿Cuál es la razón principal por la que los elementos de un mismo grupo o familia tienen propiedades químicas semejantes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque tienen un número similar de neutrones.",
+        "B": "Porque se encuentran en el mismo período horizontal.",
+        "C": "Porque poseen los mismos electrones en la capa de valencia.",
+        "D": "Porque sus pesos atómicos son casi idénticos.",
+        "E": "Porque todos son gases a temperatura ambiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las propiedades químicas de un elemento están determinadas principalmente por la configuración de sus electrones más externos, conocidos como electrones de valencia. Los elementos de un mismo grupo comparten la misma cantidad y distribución de electrones de valencia, lo que les confiere un comportamiento químico similar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_007",
+      "pregunta": "¿Qué configuración electrónica de valencia es característica de la familia de los halógenos (Grupo VIIA)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$ns^1$$",
+        "B": "$$ns^2$$",
+        "C": "$$ns^2np^2$$",
+        "D": "$$ns^2np^5$$",
+        "E": "$$ns^2np^6$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los halógenos se encuentran en el Grupo VIIA (o 17). Se caracterizan por tener 7 electrones en su capa de valencia. Su configuración electrónica de valencia general es $$ns^2np^5$$, lo que los hace muy reactivos al estar a solo un electrón de completar su octeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_008",
+      "pregunta": "Una de las principales discrepancias de la tabla de Mendeleev era la necesidad de colocar el argón (Ar) antes del potasio (K). ¿Por qué esto contradecía su propio principio de ordenamiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el argón es un gas noble y el potasio es un metal alcalino.",
+        "B": "Porque el peso atómico del argón ($$39.95$$ uma) es mayor que el del potasio ($$39.10$$ uma).",
+        "C": "Porque el número atómico del potasio es menor que el del argón.",
+        "D": "Porque ambos elementos debían estar en el mismo grupo.",
+        "E": "Porque el potasio es más reactivo que el argón."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Mendeleev ordenó los elementos por peso atómico creciente. Sin embargo, para que las propiedades coincidieran (Ar como gas noble, K como metal alcalino), tuvo que colocar el argón antes que el potasio, a pesar de que el argón tiene un peso atómico ligeramente mayor. Esto demostró una limitación en el ordenamiento por peso atómico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_009",
+      "pregunta": "¿A qué familia de elementos representativos corresponde la configuración electrónica de valencia $$ns^2np^3$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Carbonoides (Grupo IVA)",
+        "B": "Nitrogenoides (Grupo VA)",
+        "C": "Calcógenos (Grupo VIA)",
+        "D": "Halógenos (Grupo VIIA)",
+        "E": "Boroides (Grupo IIIA)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La configuración $$ns^2np^3$$ indica que hay un total de 5 electrones de valencia ($$2+3=5$$). Los elementos con 5 electrones de valencia pertenecen al Grupo VA (o 15), conocido como la familia de los nitrogenoides, que incluye al nitrógeno (N) y al fósforo (P).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_010",
+      "pregunta": "Según la clasificación por subniveles, los elementos representativos se caracterizan por:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tener completamente llenos los subniveles d o f.",
+        "B": "Ser únicamente metales de transición.",
+        "C": "Pertenecer exclusivamente a los grupos 1 y 2.",
+        "D": "Ser los lantánidos y actínidos.",
+        "E": "Tener incompletos los subniveles s o p del máximo número cuántico principal."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Los elementos representativos, que corresponden a los grupos A (1, 2 y 13 al 17), son aquellos en los que el último electrón ocupa un orbital s o p del nivel de energía más externo (capa de valencia), y estos subniveles están incompletos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_011",
+      "pregunta": "¿Cuál es la configuración electrónica de valencia general para los gases nobles, excluyendo al helio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$ns^2$$",
+        "B": "$$ns^2np^5$$",
+        "C": "$$ns^2np^6$$",
+        "D": "$$ns^1$$",
+        "E": "$$np^6$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los gases nobles (Grupo VIIIA o 18) son muy estables debido a que tienen su capa de valencia completa con 8 electrones. Su configuración de valencia es $$ns^2np^6$$. El helio es la excepción, ya que su única capa (n=1) se llena con 2 electrones, con una configuración de $$1s^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_012",
+      "pregunta": "Los elementos Boro (B), Aluminio (Al) y Galio (Ga) son parte de la familia de los:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Metales alcalinotérreos",
+        "B": "Carbonoides",
+        "C": "Nitrogenoides",
+        "D": "Boroides o térreos",
+        "E": "Halógenos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Boro, Aluminio, Galio y los demás elementos del Grupo IIIA (o 13) conforman la familia conocida como los boroides o térreos. Su configuración de valencia es $$ns^2np^1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_013",
+      "pregunta": "¿Cómo resolvió la ley periódica moderna de Moseley la incongruencia en la posición del argón ($Z=18$) y el potasio ($Z=19$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Demostrando que los pesos atómicos originales estaban incorrectos.",
+        "B": "Creando un nuevo grupo para elementos con comportamiento anómalo.",
+        "C": "Al ordenar por número atómico creciente, el argón se ubica naturalmente antes que el potasio, respetando las familias.",
+        "D": "Ajustando las propiedades químicas del argón para que se pareciera a un metal alcalino.",
+        "E": "Proponiendo que el peso atómico y el número atómico eran equivalentes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La tabla de Mendeleev, basada en el peso atómico, debía invertir Ar y K para mantener la coherencia de propiedades. La ley de Moseley, al usar el número atómico como criterio de ordenamiento, resuelve esto de forma natural. El argón ($Z=18$) precede al potasio ($Z=19$), por lo que cada elemento cae en su grupo correcto (gases nobles y metales alcalinos, respectivamente) sin necesidad de hacer permutaciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_014",
+      "pregunta": "Un elemento químico presenta una configuración electrónica de valencia de $$ns^2np^1$$. ¿A qué grupo y familia pertenece?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Grupo IA (1), Metales alcalinos",
+        "B": "Grupo IIA (2), Metales alcalinotérreos",
+        "C": "Grupo IIIA (13), Boroides o térreos",
+        "D": "Grupo IVA (14), Carbonoides",
+        "E": "Grupo VA (15), Nitrogenoides"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La configuración de valencia $$ns^2np^1$$ indica que hay un total de 3 electrones en la capa más externa ($$2+1=3$$). Los elementos con 3 electrones de valencia se ubican en el Grupo IIIA (o 13) de la tabla periódica. Esta familia es conocida como los boroides o térreos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_080_015",
+      "pregunta": "Si los elementos se clasifican en categorías como representativos, de transición, lantánidos y actínidos según el tipo de subnivel que se está llenando, y los representativos llenan los subniveles s y p, ¿qué se puede inferir sobre los elementos de transición?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que también llenan los subniveles s y p, pero en un orden diferente.",
+        "B": "Que no se pueden clasificar según su configuración electrónica.",
+        "C": "Que deben estar llenando un subnivel de energía diferente, como el subnivel d.",
+        "D": "Que son químicamente idénticos a los elementos representativos.",
+        "E": "Que son una excepción a la ley periódica moderna."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La lógica de la clasificación periódica por bloques se basa en el orbital donde reside el electrón diferenciador. Si los elementos representativos corresponden a los bloques s y p, se infiere que las otras categorías corresponden al llenado de otros subniveles. Específicamente, los elementos de transición (o metales de transición) son aquellos que están llenando el subnivel d, y los lantánidos y actínidos (transición interna) llenan el subnivel f.",
+      "imagen": null
+    }
+  ]
+}

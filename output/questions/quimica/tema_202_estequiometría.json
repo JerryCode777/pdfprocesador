@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 202,
+  "total_temas": 322,
+  "titulo_tema": "Estequiometría",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_202_001",
+      "pregunta": "¿Cuál es el enfoque principal de la estequiometría?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Estudiar la velocidad de las reacciones químicas.",
+        "B": "Clasificar los elementos en la tabla periódica.",
+        "C": "Analizar la estructura interna de los átomos.",
+        "D": "Medir la energía liberada en las reacciones nucleares.",
+        "E": "Usar fórmulas químicas para determinar cantidades de sustancias en reacciones."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La estequiometría se centra específicamente en las relaciones cuantitativas entre reactivos y productos en una reacción química, utilizando fórmulas y ecuaciones para calcular las cantidades de las sustancias implicadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_002",
+      "pregunta": "¿Cómo se define la masa atómica (m.A.) de un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es la masa de un átomo expresada en gramos.",
+        "B": "Es el número total de electrones de un átomo.",
+        "C": "Es la masa de un átomo expresada en unidades de masa atómica (uma).",
+        "D": "Es la densidad de un átomo en estado sólido.",
+        "E": "Es el volumen que ocupa un mol de átomos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa atómica es, por definición, la masa de un único átomo. Para manejar números tan pequeños, se utiliza una unidad especial llamada unidad de masa atómica (uma), que está estandarizada para facilitar las comparaciones entre diferentes elementos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_003",
+      "pregunta": "¿Qué isótopo se utiliza como estándar de referencia para medir la masa atómica de los demás elementos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hidrógeno-1",
+        "B": "Oxígeno-16",
+        "C": "Carbono-12",
+        "D": "Uranio-235",
+        "E": "Helio-4"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El isótopo carbono-12 fue elegido por la comunidad científica internacional como el estándar de referencia. Su masa se define como exactamente 12 uma, y las masas de todos los demás átomos se miden en relación con este valor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_004",
+      "pregunta": "¿Qué representa la masa atómica promedio de un elemento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa del isótopo más pesado del elemento.",
+        "B": "La masa del isótopo más ligero del elemento.",
+        "C": "La masa promedio ponderada de la mezcla natural de sus isótopos.",
+        "D": "Un valor teórico que no se puede medir.",
+        "E": "La masa del átomo cuando está en una reacción química."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La mayoría de los elementos en la naturaleza existen como una mezcla de varios isótopos, cada uno con una masa ligeramente diferente. La masa atómica promedio es el promedio de estas masas, ponderado por la abundancia natural de cada isótopo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_005",
+      "pregunta": "¿Qué es una unidad de masa atómica (uma)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa exacta de un protón.",
+        "B": "La doceava parte de la masa de un átomo de carbono-12.",
+        "C": "La masa de un átomo de hidrógeno.",
+        "D": "El peso total de los electrones en un átomo de carbono.",
+        "E": "Un sinónimo de la unidad 'gramo' a nivel atómico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La unidad de masa atómica (uma) se define con precisión como una masa exactamente igual a un doceavo ($$\frac{1}{12}$$) de la masa de un átomo del isótopo carbono-12. Este estándar permite una escala relativa y consistente para las masas atómicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_006",
+      "pregunta": "¿De qué partículas subatómicas depende principalmente la masa atómica de un átomo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "De los protones y electrones.",
+        "B": "Únicamente de los electrones.",
+        "C": "De los neutrones y electrones.",
+        "D": "De los protones y neutrones.",
+        "E": "Únicamente de los protones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La masa de un átomo se concentra en su núcleo, que contiene protones y neutrones. Los electrones también tienen masa, pero es tan pequeña en comparación con los protones y neutrones que su contribución a la masa atómica total es considerada insignificante para la mayoría de los cálculos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_007",
+      "pregunta": "¿Cuál es la razón fundamental por la que se debe calcular la masa atómica promedio para la mayoría de los elementos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la masa de un átomo individual no se puede medir con exactitud.",
+        "B": "Porque los átomos ganan y pierden masa constantemente.",
+        "C": "Porque la mayoría de los elementos tienen más de un isótopo natural.",
+        "D": "Porque el estándar de carbono-12 es solo una aproximación.",
+        "E": "Porque las masas atómicas varían según la temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La existencia de isótopos (átomos del mismo elemento con diferente número de neutrones) hace necesario el cálculo de una masa promedio. Dado que una muestra natural de un elemento contiene una mezcla de estos isótopos, la masa que se utiliza en los cálculos estequiométricos debe reflejar el promedio ponderado de esa mezcla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_008",
+      "pregunta": "El isótopo carbono-12 es el estándar de referencia. ¿Cuál es la composición de su núcleo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "6 protones y 12 neutrones",
+        "B": "12 protones y 6 neutrones",
+        "C": "12 protones y 12 neutrones",
+        "D": "6 protones y 0 neutrones",
+        "E": "6 protones y 6 neutrones"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El número '12' en carbono-12 se refiere a su número de masa, que es la suma de protones y neutrones. El carbono, por definición, siempre tiene 6 protones. Por lo tanto, para que la suma sea 12, debe tener 6 neutrones ($$6 \text{ protones} + 6 \text{ neutrones} = 12$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_009",
+      "pregunta": "¿Qué información cuantitativa clave se obtiene a través de la estequiometría?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La forma geométrica de las moléculas.",
+        "B": "La cantidad de sustancias implicadas en una reacción.",
+        "C": "La polaridad de los enlaces químicos.",
+        "D": "El estado de agregación de los productos.",
+        "E": "La toxicidad de los reactivos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estequiometría es la rama de la química que se ocupa del cálculo de las cantidades (en masa, moles, volumen, etc.) de reactivos y productos que participan en una reacción química, basándose en las proporciones fijas que establece la ecuación química balanceada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_010",
+      "pregunta": "Si un átomo de un elemento X tiene una masa atómica de 36 uma, ¿qué significa esto en relación con el carbono-12?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el átomo X tiene 36 veces la masa de un átomo de carbono-12.",
+        "B": "Que el átomo X tiene la misma masa que 36 electrones.",
+        "C": "Que el átomo X es 3 veces más masivo que un átomo de carbono-12.",
+        "D": "Que se necesitan 36 átomos de X para igualar la masa de un átomo de carbono-12.",
+        "E": "Que el átomo X tiene la mitad de la masa de un átomo de carbono-12."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El carbono-12 tiene una masa definida de exactamente 12 uma. Por lo tanto, un átomo con una masa de 36 uma es tres veces más masivo que un átomo de carbono-12, ya que $$ \frac{36 \text{ uma}}{12 \text{ uma}} = 3 $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_011",
+      "pregunta": "La estequiometría se basa en el uso de fórmulas químicas para representar reacciones. ¿Qué implica esto a nivel cuantitativo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que solo se pueden estudiar las reacciones de compuestos orgánicos.",
+        "B": "Que las proporciones entre las sustancias son variables.",
+        "C": "Que las fórmulas proporcionan la base para calcular las proporciones de masa y moles.",
+        "D": "Que todas las reacciones ocurren a la misma velocidad.",
+        "E": "Que las fórmulas químicas solo indican los elementos presentes, no las cantidades."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las fórmulas químicas (como $$H_2O$$) y las ecuaciones químicas balanceadas (como $$2H_2 + O_2 \rightarrow 2H_2O$$) son fundamentales en estequiometría porque establecen las proporciones exactas en las que los átomos y las moléculas reaccionan, permitiendo cálculos precisos de las cantidades involucradas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_012",
+      "pregunta": "Al afirmar que la masa atómica depende 'principalmente' de protones y neutrones, ¿qué se infiere sobre la contribución de los electrones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los electrones no tienen masa.",
+        "B": "Que la masa de un electrón es mayor que la de un protón.",
+        "C": "Que los electrones se encuentran fuera del núcleo.",
+        "D": "Que la masa de los electrones es tan pequeña que generalmente se considera despreciable para este cálculo.",
+        "E": "Que el número de electrones y protones es siempre idéntico."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La palabra 'principalmente' indica que hay otros factores, pero que su contribución es menor. La masa de un electrón es aproximadamente 1/1836 veces la masa de un protón. Debido a esta enorme diferencia, la masa total de los electrones es despreciable al calcular la masa atómica y se considera que casi toda la masa reside en el núcleo (protones y neutrones).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_013",
+      "pregunta": "¿Cómo se define matemáticamente la unidad de masa atómica (uma) en función de la masa de un átomo de carbono-12 ($$m_{C-12}$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$1 \text{ uma} = 12 \times m_{C-12}$$",
+        "B": "$$1 \text{ uma} = m_{C-12}$$",
+        "C": "$$1 \text{ uma} = \frac{1}{12} \times m_{C-12}$$",
+        "D": "$$1 \text{ uma} = m_{C-12}^2$$",
+        "E": "$$1 \text{ uma} = \frac{m_{C-12}}{6}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición precisa y fundamental de la unidad de masa atómica es que corresponde a la doceava parte de la masa de un único átomo del isótopo carbono-12. Esta relación se expresa matemáticamente como $$1 \text{ uma} = \frac{1}{12} \times m_{C-12}$$. Por lo tanto, la masa del átomo de carbono-12 es, por definición, exactamente 12 uma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_014",
+      "pregunta": "Si un elemento tiene dos isótopos naturales y su masa atómica promedio no es un número entero, ¿cuál es la explicación más lógica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Hubo un error en la medición experimental.",
+        "B": "El estándar de carbono-12 es inexacto.",
+        "C": "La masa atómica promedio es un promedio ponderado de las masas de los isótopos, que rara vez resulta en un número entero.",
+        "D": "Los protones y neutrones no tienen masas enteras exactas.",
+        "E": "Uno de los isótopos es artificial y no cuenta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa atómica promedio se calcula teniendo en cuenta tanto la masa de cada isótopo como su abundancia porcentual en la naturaleza. Este cálculo de promedio ponderado ( (masa_isótopo_1 × %abundancia_1) + (masa_isótopo_2 × %abundancia_2) + ... ) casi nunca da como resultado un número entero, lo que explica los valores decimales que se observan en la tabla periódica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_202_015",
+      "pregunta": "Al comparar la 'masa atómica' de un isótopo específico (ej. carbono-12) con la 'masa atómica promedio' de un elemento (ej. carbono, 12.011 uma), ¿qué distinción fundamental se está haciendo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "No hay ninguna distinción, son términos intercambiables.",
+        "B": "La masa atómica es un valor teórico, mientras que la masa atómica promedio es un valor medido.",
+        "C": "La 'masa atómica' se refiere a un solo tipo de átomo (un isótopo), mientras que la 'masa atómica promedio' considera la mezcla natural de todos sus isótopos.",
+        "D": "La masa atómica se mide en gramos y la masa atómica promedio en uma.",
+        "E": "La masa atómica solo cuenta protones, mientras que la masa atómica promedio incluye protones y neutrones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta es una distinción conceptual clave. La 'masa atómica' puede referirse a la masa de un átomo individual de un isótopo particular (p. ej., la masa del carbono-12 es exactamente 12 uma). En contraste, la 'masa atómica promedio' es el valor que aparece en la tabla periódica y representa el promedio ponderado de las masas de todos los isótopos de ese elemento tal como se encuentran en la naturaleza, razón por la cual el carbono tiene una masa promedio de 12.011 uma (debido a la presencia del isótopo carbono-13, entre otros).",
+      "imagen": null
+    }
+  ]
+}

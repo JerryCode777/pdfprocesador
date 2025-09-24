@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 167,
+  "total_temas": 322,
+  "titulo_tema": "Sales",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_167_001",
+      "pregunta": "¿Cuál es una propiedad física característica de la mayoría de las sales en condiciones ambientales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son líquidos volátiles",
+        "B": "Tienen bajos puntos de fusión",
+        "C": "Son sólidos cristalinos",
+        "D": "Conducen electricidad en estado sólido",
+        "E": "Son insolubles en agua"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las sales son compuestos iónicos que, a temperatura ambiente, forman estructuras ordenadas y tridimensionales conocidas como redes cristalinas, lo que les confiere el estado de sólidos cristalinos. Las otras opciones son incorrectas, ya que las sales suelen tener altos puntos de fusión, no conducen electricidad en estado sólido y muchas son solubles en agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_002",
+      "pregunta": "¿Cuál es la razón principal por la que las sales tienen altos puntos de fusión y ebullición?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presencia de enlaces covalentes débiles",
+        "B": "Su capacidad para disolverse en agua",
+        "C": "La fuerte atracción eléctrica entre sus iones",
+        "D": "Su baja masa molecular",
+        "E": "La ausencia de estructura cristalina"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las sales están compuestas por iones con cargas opuestas (cationes y aniones) que se mantienen unidos por una intensa fuerza de atracción electrostática. Para fundir o hervir una sal, se necesita una gran cantidad de energía para superar estas fuertes atracciones, lo que resulta en altos puntos de fusión y ebullición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_003",
+      "pregunta": "¿En qué estado físico las sales NO son conductoras de electricidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En solución acuosa",
+        "B": "En estado fundido",
+        "C": "Cuando están disueltas en agua",
+        "D": "En estado sólido",
+        "E": "En estado líquido"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En estado sólido, los iones de una sal están fijos en una red cristalina y no pueden moverse libremente para transportar carga eléctrica. Por lo tanto, las sales en estado sólido no conducen la electricidad. Sin embargo, al fundirse o disolverse, los iones se liberan y adquieren movilidad, permitiendo el paso de la corriente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_004",
+      "pregunta": "En la nomenclatura tradicional de las sales haloideas, ¿qué terminación se utiliza para el nombre del no metal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-ato",
+        "B": "-ito",
+        "C": "-oso",
+        "D": "-ico",
+        "E": "-uro"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para nombrar las sales haloideas, que son sales binarias provenientes de ácidos hidrácidos, se utiliza la raíz del nombre del no metal seguida de la terminación '-uro'. Por ejemplo, el cloro ($Cl$) forma el anión cloruro ($Cl^-$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_005",
+      "pregunta": "¿De qué compuestos se derivan el anión y el catión que forman una sal haloidea?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El anión de un oxácido y el catión de un óxido metálico",
+        "B": "El anión de un ácido hidrácido y el catión de un hidróxido",
+        "C": "Ambos provienen de un hidróxido",
+        "D": "El anión de un hidróxido y el catión de un hidrácido",
+        "E": "Ambos provienen de un metal"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las sales haloideas son sales binarias formadas por la combinación de un catión (ión positivo) que proviene de un hidróxido (una base) y un anión (ión negativo) que proviene de un ácido hidrácido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_006",
+      "pregunta": "¿Qué productos se obtienen de la reacción de neutralización entre un ácido hidrácido y un hidróxido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sal haloidea e hidrógeno",
+        "B": "Sal haloidea y agua",
+        "C": "Óxido metálico y agua",
+        "D": "Solamente una sal haloidea",
+        "E": "Hidrógeno y oxígeno"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La reacción entre un ácido hidrácido y un hidróxido es una reacción de neutralización clásica. El catión del hidróxido se combina con el anión del ácido para formar la sal haloidea, y el protón ($H^+$) del ácido se combina con el ion hidroxilo ($OH^-$) de la base para formar agua. La ecuación general es: $$ \\text{HIDRÁCIDO} + \\text{HIDRÓXIDO} \\rightarrow \\text{SAL HALOIDEA} + \\text{AGUA} $$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_007",
+      "pregunta": "¿Bajo qué condiciones una sal puede conducir la corriente eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente en estado sólido y cristalino",
+        "B": "Solo si es una sal de un halógeno",
+        "C": "Cuando está en estado fundido o en solución acuosa",
+        "D": "A temperaturas extremadamente bajas",
+        "E": "Cuando se mezcla con otro sólido no conductor"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que una sustancia iónica como una sal conduzca electricidad, sus iones deben tener libertad de movimiento. Esto ocurre cuando la sal se funde (pasa a estado líquido) o cuando se disuelve en un solvente como el agua, formando una solución acuosa. En estado sólido, los iones están atrapados en la red cristalina y no pueden moverse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_008",
+      "pregunta": "En la nomenclatura de una sal haloidea, ¿en qué situación se emplean las terminaciones '-oso' o '-ico' para el metal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el no metal es un halógeno",
+        "B": "Cuando la sal es muy soluble en agua",
+        "C": "Siempre, independientemente del metal",
+        "D": "Cuando el metal tiene más de un estado de oxidación",
+        "E": "Cuando la sal se obtiene a partir de un metal puro"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las terminaciones '-oso' (para el menor estado de oxidación) e '-ico' (para el mayor estado de oxidación) se utilizan en la nomenclatura tradicional para distinguir entre los diferentes cationes que puede formar un metal con múltiples estados de oxidación (E.O.). Si el metal solo tiene un E.O., simplemente se usa su nombre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_009",
+      "pregunta": "Según los métodos de obtención descritos, ¿cuáles son los productos de la reacción entre un ácido hidrácido y un metal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sal haloidea y agua",
+        "B": "Óxido metálico e hidrógeno",
+        "C": "Hidróxido y agua",
+        "D": "Sal haloidea e hidrógeno",
+        "E": "Únicamente una sal haloidea"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando un metal reacciona con un ácido hidrácido, el metal desplaza al hidrógeno del ácido. Esto resulta en la formación de una sal haloidea (compuesta por el catión del metal y el anión del ácido) y la liberación de hidrógeno gaseoso. La ecuación general es: $$ \\text{HIDRÁCIDO} + \\text{METAL} \\rightarrow \\text{SAL HALOIDEA} + \\text{HIDRÓGENO} $$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_010",
+      "pregunta": "Las sales haloideas se definen como sales binarias. ¿Qué implica esta clasificación en cuanto a su composición elemental?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Están compuestas por dos aniones y un catión",
+        "B": "Están compuestas por dos elementos químicos diferentes",
+        "C": "Siempre contienen dos átomos de halógeno",
+        "D": "Se forman a partir de dos reactivos líquidos",
+        "E": "Contienen obligatoriamente oxígeno en su fórmula"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término 'binario' en química se refiere a un compuesto formado por exactamente dos elementos químicos diferentes. En el caso de las sales haloideas, estos dos elementos son un metal (que forma el catión) y un no metal del grupo de los halógenos o similar (que forma el anión).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_011",
+      "pregunta": "¿Cuál de las siguientes reacciones es un método para obtener una sal haloidea sin que se produzca agua ni hidrógeno como subproductos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hidrácido + Hidróxido",
+        "B": "Hidrácido + Metal",
+        "C": "Halógeno + Metal",
+        "D": "Metal + Agua",
+        "E": "Halógeno + Agua"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La reacción directa entre un halógeno y un metal es una reacción de síntesis que produce únicamente la sal haloidea correspondiente. Las otras opciones generan subproductos: la reacción de hidrácido con hidróxido produce agua, y la de hidrácido con metal produce hidrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_012",
+      "pregunta": "¿Qué diferencia fundamental explica por qué una sal en estado sólido no conduce electricidad, pero sí lo hace en solución acuosa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El agua añade electrones libres al sistema.",
+        "B": "La sal se vuelve covalente en estado sólido.",
+        "C": "En solución, los iones adquieren movilidad.",
+        "D": "En estado sólido, los iones pierden su carga eléctrica.",
+        "E": "La conductividad en solución se debe al movimiento de electrones, no de iones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La conducción eléctrica en las sales se debe al movimiento de iones (portadores de carga). En el estado sólido, estos iones están inmovilizados en una estructura cristalina rígida debido a la fuerte atracción electrostática. Al disolverse en agua, los iones se separan (disocian) y pueden moverse libremente por la solución, permitiendo el flujo de corriente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_013",
+      "pregunta": "Si una sal haloidea se nombra usando la terminación '-ico' para el metal, ¿qué podemos deducir sobre el estado de oxidación ($E.O.$) con el que actúa el metal en ese compuesto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El metal está usando su menor estado de oxidación.",
+        "B": "El metal tiene un único estado de oxidación.",
+        "C": "El metal está usando su mayor estado de oxidación.",
+        "D": "El estado de oxidación del metal es negativo.",
+        "E": "El estado de oxidación del metal es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La nomenclatura tradicional utiliza sufijos para indicar el estado de oxidación de metales que tienen más de uno. La terminación '-oso' se usa para el menor estado de oxidación, mientras que la terminación '-ico' se reserva para el mayor estado de oxidación. Por lo tanto, el sufijo '-ico' indica que el metal está en su estado de oxidación más alto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_014",
+      "pregunta": "Analizando la formación de una sal haloidea a partir de la reacción $$ \\text{HIDRÁCIDO} + \\text{HIDRÓXIDO} \\rightarrow \\text{SAL HALOIDEA} + \\text{AGUA} $$, ¿qué partes específicas de los reactivos se unen para formar la sal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El catión del hidróxido y el anión del ácido hidrácido",
+        "B": "El hidrógeno del ácido y el ion hidroxilo del hidróxido",
+        "C": "Los dos elementos no metálicos de los reactivos",
+        "D": "El catión del ácido y el anión del hidróxido",
+        "E": "El metal del hidróxido y el hidrógeno del ácido"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "En esta reacción de neutralización, la sal se forma por la combinación de las partes iónicas que no forman agua. El hidróxido aporta el catión (generalmente un ion metálico) y el ácido hidrácido aporta el anión (un no metal). El hidrógeno ($H^+$) del ácido y el ion hidroxilo ($OH^-$) del hidróxido se combinan para formar la molécula de agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_167_015",
+      "pregunta": "¿Por qué la fuerte atracción eléctrica entre los iones de una sal explica tanto sus altos puntos de fusión como su falta de conductividad en estado sólido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la atracción aumenta con la temperatura, impidiendo la fusión y el flujo de electrones.",
+        "B": "Porque esta fuerza crea una red rígida que requiere mucha energía para romperse y que mantiene a los iones fijos, impidiendo el flujo de carga.",
+        "C": "Porque la atracción solo existe en estado sólido y desaparece al fundirse.",
+        "D": "Porque los electrones están fuertemente atraídos a los núcleos, no a otros iones.",
+        "E": "Porque la atracción eléctrica es débil en estado sólido y fuerte en estado líquido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerte atracción electrostática es la causa unificadora de ambas propiedades. Por un lado, se necesita una gran cantidad de energía térmica para vencer estas fuerzas y permitir que los iones se muevan, lo que resulta en altos puntos de fusión. Por otro lado, esta misma fuerza mantiene a los iones bloqueados en posiciones fijas dentro de la red cristalina en el estado sólido, impidiendo que se desplacen y transporten carga eléctrica, lo que explica la nula conductividad.",
+      "imagen": null
+    }
+  ]
+}

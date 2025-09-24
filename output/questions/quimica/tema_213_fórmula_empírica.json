@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 213,
+  "total_temas": 322,
+  "titulo_tema": "Fórmula Empírica",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_213_001",
+      "pregunta": "¿Qué información fundamental nos proporciona la fórmula empírica de una sustancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa molecular exacta del compuesto.",
+        "B": "La disposición tridimensional de los átomos.",
+        "C": "El número relativo de átomos de cada elemento en la relación más simple.",
+        "D": "El número total y exacto de átomos en una molécula.",
+        "E": "El estado de oxidación de cada elemento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula empírica indica la proporción más simple, en números enteros, de los átomos de cada elemento presente en un compuesto. No proporciona el número real de átomos (eso es la fórmula molecular) ni información sobre la masa o la estructura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_002",
+      "pregunta": "¿Cómo se describe la relación entre la fórmula molecular y la fórmula empírica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fórmula molecular es siempre idéntica a la fórmula empírica.",
+        "B": "La fórmula empírica es un múltiplo entero de la fórmula molecular.",
+        "C": "La fórmula molecular es un múltiplo entero de la fórmula empírica.",
+        "D": "La fórmula molecular es una fracción de la fórmula empírica.",
+        "E": "No existe una relación matemática directa entre ambas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula molecular representa el número total de átomos en una molécula y siempre es un múltiplo entero (1, 2, 3, etc.) de la fórmula empírica, que es la relación más simplificada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_003",
+      "pregunta": "¿Qué cantidad química fundamental proporciona los subíndices para la fórmula empírica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La relación del número de moles de los elementos.",
+        "B": "La suma de las masas atómicas de los elementos.",
+        "C": "La diferencia de electronegatividad entre los elementos.",
+        "D": "El volumen molar del compuesto.",
+        "E": "La masa total de la muestra analizada."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Los subíndices en la fórmula empírica se derivan directamente de la relación molar entre los elementos del compuesto, la cual se simplifica a la proporción de números enteros más pequeña posible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_004",
+      "pregunta": "La fórmula empírica expresa la relación entre los átomos de un compuesto como...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "porcentajes de masa.",
+        "B": "una relación de números decimales.",
+        "C": "la relación de números enteros más simple.",
+        "D": "el número exacto de átomos.",
+        "E": "una fracción molar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición central de la fórmula empírica es que representa la proporción más reducida posible de átomos, expresada mediante números enteros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_005",
+      "pregunta": "¿Qué representa el 'Múltiplo entero' en el contexto de las fórmulas químicas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de veces que la masa de la fórmula empírica cabe en la masa molecular.",
+        "B": "El número total de átomos en la fórmula empírica.",
+        "C": "La carga iónica total del compuesto.",
+        "D": "La suma de los subíndices de la fórmula molecular.",
+        "E": "El número de moles en un gramo del compuesto."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El múltiplo entero es el factor por el cual se debe multiplicar la fórmula empírica para obtener la fórmula molecular. Se calcula dividiendo la masa molecular total entre la masa de la fórmula empírica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_006",
+      "pregunta": "¿Cuál es la expresión matemática correcta para calcular el múltiplo entero ($$n$$) que relaciona la fórmula molecular con la empírica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$n = (\\text{masa de la fórmula empírica}) \\times (\\text{masa molecular})$$",
+        "B": "$$n = \\frac{\\text{masa de la fórmula empírica}}{\\text{masa molecular}}$$",
+        "C": "$$n = (\\text{masa molecular}) - (\\text{masa de la fórmula empírica})$$",
+        "D": "$$n = \\frac{\\text{masa molecular}}{\\text{masa de la fórmula empírica}}$$",
+        "E": "$$n = \\sqrt{\\text{masa molecular} - \\text{masa de la fórmula empírica}}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El múltiplo entero ($$n$$) se obtiene al determinar cuántas veces la masa de la unidad empírica está contenida en la masa de la molécula completa. Por lo tanto, se divide la masa molecular entre la masa de la fórmula empírica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_007",
+      "pregunta": "Si la fórmula empírica y la fórmula molecular de un compuesto son iguales, ¿qué valor debe tener el múltiplo entero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Un valor fraccionario, como 0.5.",
+        "E": "No se puede determinar sin conocer las masas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si ambas fórmulas son iguales, significa que la fórmula empírica ya representa el número real de átomos. En este caso, la masa molecular es igual a la masa de la fórmula empírica, y al dividirlas, el múltiplo entero es 1.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_008",
+      "pregunta": "Los subíndices de la fórmula empírica se derivan de la relación molar de los elementos. ¿Qué significa esto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los subíndices son iguales a las masas atómicas.",
+        "B": "Que la proporción de moles se convierte en la proporción de átomos más simple.",
+        "C": "Que se debe sumar el número de moles de cada elemento.",
+        "D": "Que los subíndices representan el porcentaje en masa.",
+        "E": "Que los subíndices siempre son números pares."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación del número de moles de cada elemento en un compuesto es directamente proporcional a la relación del número de átomos. Al simplificar esta relación molar a los números enteros más pequeños, se obtienen los subíndices de la fórmula empírica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_009",
+      "pregunta": "¿Qué dos datos son indispensables para calcular el múltiplo entero que relaciona la fórmula empírica con la molecular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La densidad del compuesto y su punto de ebullición.",
+        "B": "El número de Avogadro y la masa de la muestra.",
+        "C": "La masa molecular y la masa de la fórmula empírica.",
+        "D": "La fórmula empírica y la configuración electrónica.",
+        "E": "El número de moles y el volumen molar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula para el múltiplo entero es $$n = \\frac{\\text{masa molecular}}{\\text{masa de la fórmula empírica}}$$. Por lo tanto, se requiere conocer ambos valores de masa para realizar el cálculo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_010",
+      "pregunta": "Si la relación molar de los elementos A, B y C en un compuesto es 1.5 : 3 : 1, ¿qué paso es necesario para obtener los subíndices de la fórmula empírica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Redondear 1.5 a 2 para obtener A₂B₃C₁.",
+        "B": "Dividir todos los números por el mayor (3).",
+        "C": "Usar los decimales directamente: A₁.₅B₃C₁.",
+        "D": "Sumar todos los números para obtener un solo subíndice.",
+        "E": "Multiplicar toda la relación por un entero (como 2) para eliminar decimales."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula empírica debe tener subíndices enteros. Para convertir la relación 1.5 : 3 : 1 en números enteros, se debe multiplicar cada número por el entero más pequeño que elimine los decimales. En este caso, multiplicar por 2 da la relación entera 3 : 6 : 2, resultando en la fórmula A₃B₆C₂.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_011",
+      "pregunta": "Una fórmula molecular puede ser simplificada para obtener la fórmula empírica, pero una fórmula empírica...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "siempre puede simplificarse más.",
+        "B": "no puede ser determinada a partir de la fórmula molecular.",
+        "C": "no puede simplificarse más, ya que es la relación mínima.",
+        "D": "es siempre más compleja que la fórmula molecular.",
+        "E": "tiene una masa mayor que la fórmula molecular."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por definición, la fórmula empírica es la expresión de la relación de átomos en los números enteros más simples posibles. Por lo tanto, no admite una mayor simplificación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_012",
+      "pregunta": "Sabiendo que la fórmula molecular es un múltiplo entero de la empírica, ¿cuál de las siguientes opciones NO puede ser cierta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa molecular es igual a la masa de la fórmula empírica.",
+        "B": "La masa molecular es el doble de la masa de la fórmula empírica.",
+        "C": "La masa molecular es menor que la masa de la fórmula empírica.",
+        "D": "La fórmula molecular es C₆H₁₂O₆ y la empírica es CH₂O.",
+        "E": "La fórmula molecular y la empírica son ambas H₂O."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que la fórmula molecular es un múltiplo entero (con un entero igual o mayor a 1) de la empírica, la masa molecular siempre será igual o mayor que la masa de la fórmula empírica. Nunca puede ser menor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_013",
+      "pregunta": "Un compuesto tiene una masa molecular de 78 g/mol y su fórmula empírica es CH. Si la masa de la fórmula empírica es 13 g/mol, ¿cuál es la fórmula molecular?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "C₂H₂",
+        "B": "C₃H₃",
+        "C": "CH",
+        "D": "C₆H₆",
+        "E": "C₁₃H₁₃"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Primero, se calcula el múltiplo entero: $$n = \\frac{\\text{masa molecular}}{\\text{masa de la fórmula empírica}} = \\frac{78 \\text{ g/mol}}{13 \\text{ g/mol}} = 6$$. Luego, se multiplica cada subíndice de la fórmula empírica (C₁H₁) por este múltiplo: C₁ₓ₆H₁ₓ₆, lo que resulta en la fórmula molecular C₆H₆.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_014",
+      "pregunta": "Si un compuesto tiene una fórmula empírica $$A_x B_y$$ y un múltiplo entero $$n$$, ¿cuál es la expresión general para su fórmula molecular?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$A_{x+n}B_{y+n}$$",
+        "B": "$$(AB)_{xyn}$$",
+        "C": "$$A_{nx}B_{ny}$$",
+        "D": "$$A_{x/n}B_{y/n}$$",
+        "E": "$$n(A_x B_y)$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para obtener la fórmula molecular, cada subíndice ($$x$$ e $$y$$) de la fórmula empírica se multiplica por el múltiplo entero ($$n$$). Por lo tanto, el nuevo subíndice para A es $$nx$$ y para B es $$ny$$, dando como resultado la fórmula $$A_{nx}B_{ny}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_213_015",
+      "pregunta": "Se analiza un compuesto y se determina que la relación de moles de sus elementos es 1:2. La masa de la fórmula empírica es de 30 u. Si la masa molecular del compuesto es 90 u, ¿cuál es el cambio en los subíndices al pasar de la fórmula empírica a la molecular?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los subíndices se duplican.",
+        "B": "Los subíndices se mantienen iguales.",
+        "C": "Los subíndices se triplican.",
+        "D": "Los subíndices se cuadruplican.",
+        "E": "Los subíndices se dividen por 3."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Primero, se calcula el múltiplo entero: $$n = \\frac{\\text{masa molecular}}{\\text{masa de la fórmula empírica}} = \\frac{90 \\text{ u}}{30 \\text{ u}} = 3$$. Este múltiplo indica que la fórmula molecular contiene 3 veces los átomos de la fórmula empírica. Por lo tanto, los subíndices originales (1 y 2) deben triplicarse para obtener los subíndices de la fórmula molecular (3 y 6).",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 237,
+  "total_temas": 322,
+  "titulo_tema": "Chemical Formulas",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_237_001",
+      "pregunta": "¿Qué describe el concepto de \"composición\" de una sustancia orgánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El orden de unión de los átomos.",
+        "B": "La distribución espacial de los átomos.",
+        "C": "La clase y proporción de átomos que forman la sustancia.",
+        "D": "La forma en que se representan todos los enlaces.",
+        "E": "La presencia de ramificaciones en la molécula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La composición se refiere a los tipos de átomos (clase) y cuántos de cada tipo hay (proporción) en una molécula. No describe cómo están conectados (constitución) ni su arreglo en el espacio (configuración).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_002",
+      "pregunta": "¿Qué tipo de fórmula especifica todos los enlaces en el plano entre los diferentes átomos de una molécula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fórmula molecular",
+        "B": "Fórmula semidesarrollada",
+        "C": "Fórmula condensada",
+        "D": "Fórmula desarrollada",
+        "E": "Fórmula lineal"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula desarrollada, también conocida como expandida o plana, es la que muestra explícitamente cada uno de los enlaces entre todos los átomos de la molécula, proporcionando una visión detallada de la conectividad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_003",
+      "pregunta": "¿A qué se refiere el término \"constitución\" en el contexto de la estructura molecular orgánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A la proporción de átomos en la molécula.",
+        "B": "Al orden en que están unidos entre sí los átomos.",
+        "C": "A la distribución tridimensional de la molécula.",
+        "D": "Al número total de electrones de valencia.",
+        "E": "A la fórmula global o sintética de la sustancia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La constitución de una molécula orgánica describe la secuencia de conectividad, es decir, qué átomo está enlazado a cuál. Se diferencia de la composición, que solo indica qué átomos están presentes y en qué cantidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_004",
+      "pregunta": "Las fórmulas moleculares (globales o sintéticas), como $$C_6H_{12}O_6$$, se utilizan para representar la...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Configuración",
+        "B": "Constitución",
+        "C": "Composición",
+        "D": "Estructura desarrollada",
+        "E": "Estructura lineal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una fórmula molecular, como $$C_6H_{12}O_6$$, indica la clase y el número de átomos de cada elemento en una molécula (6 de carbono, 12 de hidrógeno, 6 de oxígeno), lo cual define su composición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_005",
+      "pregunta": "¿Qué aspecto de la estructura molecular orgánica es representado por fórmulas espaciales como las proyecciones de Fischer?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La composición",
+        "B": "La fórmula condensada",
+        "C": "La constitución",
+        "D": "La fórmula semidesarrollada",
+        "E": "La configuración"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La configuración se refiere a la distribución espacial (tridimensional) de los átomos. Las proyecciones de Fischer y de Cuña-aérea son ejemplos de representaciones que buscan mostrar esta disposición espacial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_006",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa al hexano en su forma semidesarrollada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C_6H_{14}$$",
+        "B": "$$CH_3-CH_2-CH_2-CH_2-CH_2-CH_3$$",
+        "C": "Una línea en zigzag con seis vértices.",
+        "D": "$$CH_3(CH_2)_4CH_3$$",
+        "E": "La estructura que muestra todos los enlaces C-H."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula semidesarrollada omite los enlaces carbono-hidrógeno pero mantiene los enlaces carbono-carbono. La opción B, $$CH_3-CH_2-CH_2-CH_2-CH_2-CH_3$$, cumple con esta descripción. La opción A es la fórmula molecular, la C es la lineal, la D es la condensada y la E describe la fórmula desarrollada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_007",
+      "pregunta": "En una fórmula condensada, ¿cuál es la función principal de los paréntesis, como en $$CH_3CH(CH_3)CH_3$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Indicar la presencia de enlaces iónicos.",
+        "B": "Señalar la parte cíclica de la molécula.",
+        "C": "Mostrar la distribución espacial de los átomos.",
+        "D": "Indicar ramificaciones en la molécula o grupos idénticos repetidos.",
+        "E": "Omitir los átomos de hidrógeno para simplificar."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los paréntesis en las fórmulas condensadas se utilizan para agrupar átomos que forman una ramificación en la cadena principal o para indicar la repetición de unidades idénticas, como en $$(CH_2)_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_008",
+      "pregunta": "¿Qué información crucial sobre una molécula NO proporciona una fórmula molecular como $$C_4H_8O$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de átomos de carbono.",
+        "B": "La presencia del elemento oxígeno.",
+        "C": "El orden en que los átomos están conectados (constitución).",
+        "D": "El número total de átomos de hidrógeno.",
+        "E": "La proporción de carbono a hidrógeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una fórmula molecular solo informa sobre la composición (qué átomos y cuántos). No especifica la constitución, es decir, cómo se enlazan esos átomos. Por ejemplo, $$C_4H_8O$$ puede corresponder a varias moléculas diferentes (isómeros) con distinta conectividad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_009",
+      "pregunta": "¿Cuál es la principal diferencia entre una fórmula desarrollada y una semidesarrollada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La desarrollada muestra la geometría 3D y la semidesarrollada no.",
+        "B": "La desarrollada usa líneas para los carbonos y la semidesarrollada usa la letra C.",
+        "C": "La semidesarrollada omite los enlaces entre carbono e hidrógeno, mientras que la desarrollada los muestra todos.",
+        "D": "La desarrollada solo se usa para moléculas lineales y la semidesarrollada para ramificadas.",
+        "E": "La semidesarrollada es una fórmula global y la desarrollada muestra la conectividad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La simplificación clave al pasar de una fórmula desarrollada a una semidesarrollada es la omisión de los guiones que representan los enlaces entre los átomos de carbono y sus hidrógenos correspondientes, agrupando los hidrógenos junto al carbono al que están unidos (ej. $$CH_3$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_010",
+      "pregunta": "Las fórmulas lineales o topológicas simplifican la representación molecular al omitir...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente los enlaces dobles y triples.",
+        "B": "Los átomos de oxígeno y nitrógeno.",
+        "C": "Las etiquetas de los átomos de carbono y los hidrógenos unidos a ellos.",
+        "D": "La cadena principal de la molécula.",
+        "E": "Los enlaces entre átomos de carbono."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La convención para las fórmulas lineales (o esqueléticas) es que los vértices y extremos de las líneas representan átomos de carbono, y se asume que cada carbono está unido a suficientes hidrógenos para completar su valencia. Por lo tanto, las etiquetas 'C' y 'H' (unidos a C) se omiten.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_011",
+      "pregunta": "Si la \"composición\" indica qué átomos forman una molécula y la \"configuración\" su arreglo espacial, ¿qué indica la \"constitución\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fórmula molecular.",
+        "B": "El esqueleto de enlaces y ángulos.",
+        "C": "La secuencia de conexión de los átomos.",
+        "D": "La proyección de Fischer.",
+        "E": "La proporción de los elementos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La constitución es el nivel intermedio de descripción estructural. Mientras la composición solo da el inventario de átomos ($$C_2H_6O$$) y la configuración describe la forma 3D, la constitución define el patrón de enlace específico (ej. $$CH_3-CH_2-OH$$ vs $$CH_3-O-CH_3$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_012",
+      "pregunta": "¿Qué tipo de fórmulas se consideran intermedias entre la fórmula global y la desarrollada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fórmulas espaciales",
+        "B": "Proyecciones de Cuña-aérea",
+        "C": "Fórmulas semidesarrolladas",
+        "D": "Fórmulas de composición",
+        "E": "Fórmulas topológicas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las fórmulas semidesarrolladas ofrecen más detalle que una fórmula global (que solo da el recuento de átomos) pero son más simples y rápidas de escribir que una fórmula desarrollada (que muestra cada enlace). Por ello, se consideran una representación intermedia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_013",
+      "pregunta": "Analice la fórmula condensada $$CH_3CH(CH_3)CH_2(CH_2)_3C(CH_3)_3$$. ¿Qué representa el fragmento $$C(CH_3)_3$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un átomo de carbono unido a tres cadenas de $$CH_3$$.",
+        "B": "Un carbono final de la cadena principal unido a un grupo metilo.",
+        "C": "Un átomo de carbono en la cadena que está unido a otros tres átomos de carbono (grupos metilo).",
+        "D": "Un ciclo de tres grupos metilo alrededor de un carbono.",
+        "E": "Tres moléculas de $$CH_3$$ disueltas alrededor de un carbono."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una fórmula condensada, $$C(CH_3)_3$$ indica un átomo de carbono central que está enlazado a tres grupos metilo ($$CH_3$$). Este tipo de estructura se conoce como un grupo tert-butilo, donde el carbono central no tiene hidrógenos y está enlazado a otros tres carbonos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_014",
+      "pregunta": "Una molécula tiene la fórmula molecular $$C_5H_{12}$$. ¿Cuál de las siguientes representaciones NO podría corresponder a su constitución?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una fórmula desarrollada que muestra 5 carbonos enlazados en una cadena con 12 hidrógenos.",
+        "B": "Una fórmula semidesarrollada como $$CH_3-CH_2-CH_2-CH_2-CH_3$$.",
+        "C": "Una fórmula condensada como $$CH_3CH(CH_3)CH_2CH_3$$.",
+        "D": "Una fórmula lineal en zigzag con 5 vértices.",
+        "E": "Una fórmula semidesarrollada como $$CH_3-CH_2-CH=CH-CH_3$$."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula molecular $$C_5H_{12}$$ corresponde a un alcano, cuya fórmula general es $$C_nH_{2n+2}$$. Todas las opciones de la A a la D representan isómeros de $$C_5H_{12}$$. Sin embargo, la opción E ($$CH_3-CH_2-CH=CH-CH_3$$) contiene un doble enlace, lo que la convierte en un alqueno. Su fórmula molecular sería $$C_5H_{10}$$, por lo que no corresponde a la composición dada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_237_015",
+      "pregunta": "Si dos moléculas comparten la misma fórmula molecular (composición) pero difieren en el orden en que sus átomos están conectados (constitución), ¿cómo se relacionan?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Son la misma molécula, representada de formas diferentes.",
+        "B": "Son isómeros constitucionales.",
+        "C": "Son isómeros configuracionales (estereoisómeros).",
+        "D": "Son alótropos del mismo elemento.",
+        "E": "Una es la fórmula desarrollada y la otra la condensada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este es el concepto de isomería constitucional (o estructural). Los isómeros constitucionales son compuestos diferentes con propiedades distintas que, casualmente, tienen la misma fórmula molecular (la misma composición) pero una conectividad de átomos (constitución) diferente. La opción C se refiere a isómeros que difieren solo en la disposición espacial (configuración).",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 112,
+  "total_temas": 322,
+  "titulo_tema": "Energía de Ionización",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_112_001",
+      "pregunta": "¿Cuál es la definición de energía de ionización ($$EI$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía liberada cuando un átomo gana un electrón en estado gaseoso.",
+        "B": "La energía mínima necesaria para arrancar un electrón a un átomo neutro en estado gaseoso y fundamental.",
+        "C": "La tendencia de un átomo para atraer electrones en un enlace químico.",
+        "D": "La energía necesaria para promover un electrón a un nivel de energía superior dentro del mismo átomo.",
+        "E": "La energía absorbida o liberada durante la formación de un compuesto iónico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía de ionización se define específicamente como la energía mínima requerida para remover un electrón de un átomo que se encuentra neutro, en estado gaseoso y en su estado fundamental. La opción A describe la afinidad electrónica, y la C describe la electronegatividad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_002",
+      "pregunta": "¿Con qué otro nombre es conocido el concepto de energía de ionización?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Afinidad electrónica",
+        "B": "Electronegatividad",
+        "C": "Potencial de ionización",
+        "D": "Energía de enlace",
+        "E": "Radio iónico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía de ionización también se denomina potencial de ionización, ya que ambos términos se refieren a la misma propiedad: la energía necesaria para extraer un electrón de un átomo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_003",
+      "pregunta": "¿Cuál es la tendencia general de la energía de ionización al descender en un grupo o familia de la tabla periódica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aumenta considerablemente.",
+        "B": "Disminuye.",
+        "C": "Permanece constante.",
+        "D": "Aumenta hasta la mitad del grupo y luego disminuye.",
+        "E": "No sigue una tendencia predecible."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Dentro de un grupo, la energía de ionización disminuye a medida que se desciende. Esto se debe a que el radio atómico aumenta, y los electrones más externos están más alejados del núcleo y más apantallados, lo que facilita su extracción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_004",
+      "pregunta": "¿Cómo varía la energía de ionización al moverse de izquierda a derecha a lo largo de un periodo en la tabla periódica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Disminuye.",
+        "B": "Se mantiene relativamente igual.",
+        "C": "Varía de forma irregular.",
+        "D": "Aumenta.",
+        "E": "Disminuye hasta los metaloides y luego aumenta."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En un periodo, la energía de ionización tiende a aumentar de izquierda a derecha. Esto ocurre porque, aunque los electrones se añaden a la misma capa de energía, la carga nuclear aumenta, atrayendo los electrones con más fuerza y dificultando su eliminación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_005",
+      "pregunta": "La afinidad electrónica es una propiedad que manifiestan especialmente los:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Metales alcalinos",
+        "B": "Metales de transición",
+        "C": "No metales",
+        "D": "Gases nobles",
+        "E": "Lantánidos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La afinidad electrónica, que es la energía asociada a la ganancia de un electrón, es una tendencia manifestada con mayor intensidad por los no metales, ya que tienen una alta capacidad para aceptar electrones y formar aniones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_006",
+      "pregunta": "Para un átomo polielectrónico, ¿cuál es la relación correcta entre la primera ($$EI_1$$), segunda ($$EI_2$$) y tercera ($$EI_3$$) energía de ionización?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$EI_1 > EI_2 > EI_3$$",
+        "B": "$$EI_1 = EI_2 = EI_3$$",
+        "C": "$$EI_1 < EI_2 < EI_3$$",
+        "D": "$$EI_2 < EI_1 < EI_3$$",
+        "E": "La relación es aleatoria y depende del elemento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía de ionización siempre aumenta para extracciones sucesivas de electrones. Una vez que se quita el primer electrón, el átomo se convierte en un ion positivo ($$X^+$$). Este ion atrae con más fuerza a los electrones restantes, por lo que se necesita más energía ($$EI_2$$) para quitar el segundo electrón, y aún más ($$EI_3$$) para el tercero. Por lo tanto, siempre se cumple que $$EI_1 < EI_2 < EI_3 < ...$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_007",
+      "pregunta": "¿Qué relación fundamental existe entre el radio atómico y la energía de ionización?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Varían de forma directamente proporcional.",
+        "B": "No tienen ninguna relación.",
+        "C": "Es una relación exponencial.",
+        "D": "Varían de forma inversamente proporcional.",
+        "E": "Es una relación logarítmica."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía de ionización y el radio atómico tienen una relación inversa. Un átomo con un radio pequeño tiene sus electrones de valencia más cerca del núcleo y, por lo tanto, más fuertemente atraídos. Esto hace que se necesite más energía para extraerlos (mayor energía de ionización). Por el contrario, un átomo grande requiere menos energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_008",
+      "pregunta": "¿Cuál de las siguientes ecuaciones representa correctamente el proceso de la primera energía de ionización para un átomo genérico $X$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$X(g) + e^-(g) \\rightarrow X^-(g) + \\text{Energía}$$",
+        "B": "$$X(s) + EI \\rightarrow X^+(s) + e^-(s)$$",
+        "C": "$$X(g) + EI \\rightarrow X^+(g) + e^-(g)$$",
+        "D": "$$X^+(g) + EI \\rightarrow X^{2+}(g) + e^-(g)$$",
+        "E": "$$X(g) \\rightarrow X^+(g) + e^-(g) + EI$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación correcta es $$X(g) + EI \\rightarrow X^+(g) + e^-(g)$$. Representa un átomo neutro en estado gaseoso ($$X(g)$$) que absorbe la energía de ionización ($$EI$$) para convertirse en un ion positivo ($$X^+(g)$$) y liberar un electrón ($$e^-(g)$$). La opción A describe la afinidad electrónica, la B usa el estado incorrecto (sólido), la D representa la segunda energía de ionización, y la E muestra la energía como un producto, cuando es un reactivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_009",
+      "pregunta": "¿Por qué la segunda energía de ionización ($$EI_2$$) es significativamente mayor que la primera ($$EI_1$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el segundo electrón se extrae de una capa interna.",
+        "B": "Porque el átomo se vuelve más inestable al perder el primer electrón.",
+        "C": "Porque después de retirar un electrón, la atracción del núcleo sobre los electrones restantes aumenta.",
+        "D": "Porque el radio del ion positivo es mayor que el del átomo neutro.",
+        "E": "Porque se consume energía en romper la capa de valencia completa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al remover un electrón, el número de protones en el núcleo permanece constante, pero el número de electrones disminuye. Esto causa que la carga nuclear efectiva que experimenta cada uno de los electrones restantes sea mayor. Como resultado, estos electrones son atraídos con más fuerza, y se necesita más energía para extraer el segundo electrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_010",
+      "pregunta": "Comparando las tendencias periódicas, ¿cómo se relaciona la electronegatividad con la energía de ionización?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siguen tendencias opuestas en los periodos y en los grupos.",
+        "B": "La electronegatividad aumenta hacia abajo en un grupo, mientras que la energía de ionización disminuye.",
+        "C": "No tienen ninguna relación periódica en común.",
+        "D": "Siguen la misma tendencia general: aumentan de izquierda a derecha en un periodo y disminuyen hacia abajo en un grupo.",
+        "E": "Ambas propiedades permanecen constantes dentro de un mismo grupo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Tanto la electronegatividad como la energía de ionización siguen tendencias periódicas similares. Ambas aumentan al moverse de izquierda a derecha en un periodo y disminuyen al descender en un grupo. Esto se debe a que ambas propiedades están relacionadas con la fuerza con la que el núcleo atrae a los electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_011",
+      "pregunta": "A diferencia de la energía de ionización, que siempre es energía absorbida, la afinidad electrónica es generalmente energía:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Emitida o liberada.",
+        "B": "También absorbida.",
+        "C": "Potencial.",
+        "D": "Cinética.",
+        "E": "Nula."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La energía de ionización es la energía que se debe *suministrar* a un átomo para quitarle un electrón. Por el contrario, la afinidad electrónica es la energía que *se libera* (en la mayoría de los casos) cuando un átomo neutro en estado gaseoso captura un electrón para formar un ion negativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_012",
+      "pregunta": "Si un elemento presenta una energía de ionización muy alta, ¿qué se puede deducir sobre su tendencia a formar enlaces?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tenderá a perder electrones fácilmente para formar cationes.",
+        "B": "Será muy difícil que pierda electrones para formar cationes.",
+        "C": "Tenderá a ganar electrones con facilidad.",
+        "D": "Formará enlaces covalentes exclusivamente.",
+        "E": "No formará ningún tipo de enlace químico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una energía de ionización alta indica que se requiere una gran cantidad de energía para arrancar un electrón. Por lo tanto, un elemento con esta característica tendrá poca tendencia a perder electrones y formar iones positivos (cationes). Esta propiedad es típica de los no metales y gases nobles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_013",
+      "pregunta": "Considere dos elementos, M (un metal alcalino en el grupo 1) y H (un halógeno en el grupo 17), ambos en el mismo periodo. ¿Cuál de los dos tendrá una primera energía de ionización ($$EI_1$$) mayor y por qué?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "M tendrá mayor $$EI_1$$ porque los metales son más estables.",
+        "B": "H tendrá mayor $$EI_1$$ porque la energía de ionización aumenta de izquierda a derecha en un periodo.",
+        "C": "Ambos tendrán una $$EI_1$$ similar porque están en el mismo nivel de energía.",
+        "D": "M tendrá mayor $$EI_1$$ porque tiene un radio atómico más pequeño.",
+        "E": "H tendrá menor $$EI_1$$ porque está más cerca de ser un gas noble."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La tendencia de la energía de ionización es aumentar a lo largo de un periodo de izquierda a derecha. El elemento H (halógeno) está a la derecha del periodo, mientras que M (alcalino) está a la izquierda. Por lo tanto, H tendrá una carga nuclear efectiva mayor y un radio atómico menor que M, lo que resulta en una mayor atracción sobre sus electrones de valencia y, consecuentemente, una mayor energía de ionización.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_014",
+      "pregunta": "Si el elemento A está ubicado directamente encima del elemento B en el mismo grupo, ¿qué afirmación sobre sus energías de ionización es correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La $$EI$$ de A es menor que la de B porque tiene menos protones.",
+        "B": "La $$EI$$ de B es mayor que la de A porque tiene más masa atómica.",
+        "C": "La $$EI$$ de A es mayor que la de B porque A tiene un radio atómico menor.",
+        "D": "La $$EI$$ de B es menor que la de A porque la tendencia es aumentar hacia abajo.",
+        "E": "Sus $$EI$$ son idénticas porque comparten propiedades químicas similares."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía de ionización disminuye al bajar en un grupo. Por lo tanto, el elemento A (arriba) tendrá una energía de ionización mayor que el elemento B (abajo). La razón principal es que A posee un radio atómico más pequeño, lo que significa que su electrón más externo está más cerca y más fuertemente atraído por el núcleo, requiriendo más energía para ser extraído.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_112_015",
+      "pregunta": "Los gases nobles carecen de valor de electronegatividad. Basándose en las tendencias periódicas descritas, ¿qué se puede predecir sobre su primera energía de ionización en comparación con otros elementos de su mismo periodo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Tienen la energía de ionización más baja porque son muy estables.",
+        "B": "Su energía de ionización es moderada, similar a la de los metaloides.",
+        "C": "Tienen la energía de ionización más alta de su periodo.",
+        "D": "Su energía de ionización es idéntica a la del halógeno adyacente.",
+        "E": "Es imposible predecir su energía de ionización sin datos experimentales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía de ionización aumenta de izquierda a derecha a lo largo de un periodo. Dado que los gases nobles se encuentran en el extremo derecho de la tabla periódica (grupo 18), culminan esta tendencia, presentando las energías de ionización más altas de sus respectivos periodos. Su alta energía de ionización es un reflejo de su gran estabilidad y su renuencia a perder electrones.",
+      "imagen": null
+    }
+  ]
+}

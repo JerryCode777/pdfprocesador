@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 220,
+  "total_temas": 322,
+  "titulo_tema": "Reaction Yield",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_220_001",
+      "pregunta": "¿Qué término describe la cantidad de producto que se obtiene realmente al llevar a cabo una reacción en un entorno práctico o de laboratorio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Rendimiento estequiométrico",
+        "B": "Rendimiento teórico",
+        "C": "Rendimiento real",
+        "D": "Rendimiento limitante",
+        "E": "Rendimiento porcentual"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rendimiento real, también conocido como rendimiento recuperado, es la cantidad de producto puro que se obtiene de manera experimental en una reacción específica. Se diferencia del rendimiento teórico, que es una cantidad calculada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_002",
+      "pregunta": "¿Cuál es la fórmula matemática correcta para calcular el porcentaje de rendimiento (% R) de una reacción química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$% R = \\frac{\\text{Rendimiento teórico}}{\\text{Rendimiento real}} \\times 100\\%$$",
+        "B": "$$% R = (\\text{Rendimiento teórico} - \\text{Rendimiento real}) \\times 100\\%$$",
+        "C": "$$% R = \\frac{\\text{Rendimiento real}}{\\text{Rendimiento teórico}} \\times 100\\%$$",
+        "D": "$$% R = \\frac{\\text{Masa de reactivos}}{\\text{Masa de productos}} \\times 100\\%$$",
+        "E": "$$% R = \\frac{\\text{Rendimiento real}}{\\text{Masa de reactivo limitante}} \\times 100\\%$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El porcentaje de rendimiento se define como la relación entre la cantidad de producto obtenido experimentalmente (rendimiento real) y la cantidad máxima posible de producto que se podría formar (rendimiento teórico), multiplicada por 100 para expresarla como un porcentaje. La fórmula correcta es $$% R = (\\text{Rendimiento real} / \\text{Rendimiento teórico}) \\times 100\\%$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_003",
+      "pregunta": "¿Qué concepto se define como la cantidad máxima de producto que se podría obtener si todo el reactivo limitante reaccionara por completo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Rendimiento experimental",
+        "B": "Rendimiento real",
+        "C": "Rendimiento neto",
+        "D": "Rendimiento teórico",
+        "E": "Rendimiento catalítico"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El rendimiento teórico es el rendimiento máximo que se puede obtener a partir de una cantidad dada de reactivos. Se calcula basándose en la estequiometría de la ecuación química balanceada, asumiendo que el reactivo limitante se consume en su totalidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_004",
+      "pregunta": "¿Qué factor inicial presente al comienzo de una reacción determina el rendimiento teórico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La temperatura de la reacción",
+        "B": "La cantidad de catalizador",
+        "C": "La cantidad de reactivo en exceso",
+        "D": "La cantidad de reactivo limitante",
+        "E": "El volumen del recipiente de reacción"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La cantidad de reactivo limitante es el factor clave que determina la cantidad máxima de producto que se puede formar, es decir, el rendimiento teórico. Una vez que este reactivo se agota, la reacción se detiene, sin importar cuánto de los otros reactivos quede.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_005",
+      "pregunta": "En la mayoría de las reacciones químicas llevadas a cabo en la práctica, ¿cómo es el rendimiento real en comparación con el rendimiento teórico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Casi siempre es mayor que el rendimiento teórico",
+        "B": "Siempre es exactamente igual al rendimiento teórico",
+        "C": "Casi siempre es menor que el rendimiento teórico",
+        "D": "No tiene ninguna relación con el rendimiento teórico",
+        "E": "Es mayor o menor dependiendo de la temperatura"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la práctica, el rendimiento real casi siempre es menor que el rendimiento teórico. Esto se debe a diversas razones como reacciones incompletas, reacciones secundarias, pérdidas durante la manipulación o purificación del producto, entre otras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_006",
+      "pregunta": "¿Cuál de las siguientes opciones describe una razón por la que el rendimiento real puede ser inferior al teórico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ecuación química no estaba balanceada correctamente al inicio.",
+        "B": "El producto deseado se forma a través de reacciones secundarias no deseadas.",
+        "C": "La ley de conservación de la masa no se aplica en condiciones de laboratorio.",
+        "D": "Se forman productos no deseados debido a reacciones secundarias de los reactivos.",
+        "E": "El rendimiento teórico fue calculado usando una masa molar incorrecta."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una de las razones por las que el rendimiento real es menor que el teórico es la ocurrencia de reacciones secundarias. Esto significa que los reactivos pueden reaccionar para formar productos diferentes al deseado, consumiendo parte de los reactivos y disminuyendo la cantidad del producto principal que se puede obtener.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_007",
+      "pregunta": "¿Qué papel fundamental juega la ecuación química balanceada en la determinación de los rendimientos de una reacción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Determina el rendimiento real obtenido experimentalmente.",
+        "B": "Permite calcular el rendimiento teórico a partir de la estequiometría.",
+        "C": "Indica la velocidad a la que se formará el producto.",
+        "D": "Señala las condiciones de presión y temperatura óptimas.",
+        "E": "Garantiza que el rendimiento porcentual será del 100%."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación química balanceada es esencial para calcular el rendimiento teórico. Proporciona la relación molar (estequiométrica) entre reactivos y productos, lo que permite determinar la cantidad máxima de producto que puede formarse a partir de una cantidad conocida de reactivo limitante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_008",
+      "pregunta": "Si al realizar una reacción química se utilizan reactivos con un bajo grado de pureza, ¿qué efecto se espera en el rendimiento de la reacción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El rendimiento aumentará, ya que las impurezas pueden actuar como catalizadores.",
+        "B": "El rendimiento no se verá afectado si la masa total de los reactivos impuros es correcta.",
+        "C": "El rendimiento real será menor de lo esperado, ya que hay menos cantidad de reactivo puro disponible.",
+        "D": "El rendimiento teórico será imposible de calcular.",
+        "E": "El rendimiento real y el teórico serán idénticos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de reactivos impuros es una de las causas de un bajo rendimiento. Si un reactivo no es puro, la masa total pesada contiene no solo el reactivo de interés sino también otras sustancias que no participarán en la formación del producto deseado. Esto resulta en una menor cantidad de producto formado (menor rendimiento real).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_009",
+      "pregunta": "Un porcentaje de rendimiento del 85% para una reacción química indica que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El 85% de los reactivos no reaccionó.",
+        "B": "Se obtuvo el 85% de la cantidad máxima posible de producto.",
+        "C": "La reacción fue un 15% más rápida de lo esperado.",
+        "D": "El producto obtenido tenía un 85% de pureza.",
+        "E": "Se perdió el 85% del producto durante el proceso."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El porcentaje de rendimiento expresa la eficiencia de una reacción. Un rendimiento del 85% significa que la cantidad de producto obtenida experimentalmente (rendimiento real) es el 85% de la cantidad máxima que teóricamente se podría haber formado a partir de los reactivos iniciales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_010",
+      "pregunta": "¿Por qué es conceptualmente imposible que el porcentaje de rendimiento de una reacción química supere el 100%?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque las reacciones secundarias siempre consumen parte del producto.",
+        "B": "Porque el rendimiento teórico representa la máxima cantidad de producto posible según la ley de conservación de la masa.",
+        "C": "Porque siempre hay errores de manipulación que reducen la cantidad de producto.",
+        "D": "Porque los reactivos nunca son 100% puros.",
+        "E": "Porque la temperatura y presión nunca son las ideales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El rendimiento teórico se calcula a partir del reactivo limitante y la estequiometría, representando la cantidad máxima de producto que se puede crear sin violar la ley de conservación de la masa. Obtener un rendimiento real mayor al teórico (y por tanto >100%) implicaría que se ha creado masa de la nada, lo cual es imposible. Un resultado superior al 100% generalmente indica un error experimental, como la presencia de impurezas en el producto pesado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_011",
+      "pregunta": "La principal diferencia entre el rendimiento teórico y el rendimiento real es que el rendimiento teórico es una cantidad...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Medida experimentalmente y el real es calculado.",
+        "B": "Siempre menor que el rendimiento real.",
+        "C": "Calculada a partir de la estequiometría y el real es medido experimentalmente.",
+        "D": "Que solo se aplica a reacciones en fase gaseosa.",
+        "E": "Independiente de la cantidad de reactivos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción fundamental es el origen de cada valor. El rendimiento teórico es un valor calculado, una predicción basada en la ecuación balanceada y la cantidad de reactivo limitante. En contraste, el rendimiento real es un valor empírico, medido directamente después de realizar la reacción y aislar el producto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_012",
+      "pregunta": "El hecho de que los reactivos no se conviertan por completo en productos, incluso si hay suficiente de cada uno, se conoce como una reacción incompleta. ¿Cómo afecta esto al rendimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta el rendimiento teórico.",
+        "B": "No afecta el rendimiento porcentual.",
+        "C": "Hace que el rendimiento real sea mayor que el teórico.",
+        "D": "Aumenta el rendimiento real.",
+        "E": "Disminuye el rendimiento real en comparación con el teórico."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Si una reacción es incompleta, significa que parte de los reactivos no se transforma en producto. Como el rendimiento teórico se calcula asumiendo una conversión del 100% del reactivo limitante, una reacción incompleta resultará en una cantidad de producto obtenido (rendimiento real) inferior a este máximo teórico, disminuyendo así el rendimiento porcentual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_013",
+      "pregunta": "En el ejemplo de la síntesis de 1,3,5-trimetilbenceno ($$C₉H₁₂$$) a partir de acetona ($$C₃H₆O$$), se menciona que \"se obtiene 100 g de 1,3,5-trimetilbenceno\". ¿A qué valor corresponde esta cantidad en el cálculo del rendimiento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Al rendimiento teórico",
+        "B": "A la masa del reactivo limitante",
+        "C": "Al rendimiento porcentual",
+        "D": "Al rendimiento real",
+        "E": "A la masa molar del producto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La cantidad de producto que se obtiene de forma experimental en una reacción es, por definición, el rendimiento real. En el ejemplo, los 100 g de $$C₉H₁₂$$ es el dato experimental que se compara con el rendimiento teórico (137.9 g) para calcular el porcentaje de rendimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_014",
+      "pregunta": "Dada la reacción $$3C₃H₆O(l) → C₉H₁₂(l) + 3H₂O(l)$$, y sabiendo que la masa molar de $$C₃H₆O$$ es 58 g/mol y la de $$C₉H₁₂$$ es 120 g/mol, ¿cuál es la expresión matemática correcta para calcular la masa teórica de $$C₉H₁₂$$ a partir de 200 g de $$C₃H₆O$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$X = 200 \\text{ g } C₃H₆O \\times \\frac{120 \\text{ g } C₉H₁₂}{58 \\text{ g } C₃H₆O}$$",
+        "B": "$$X = 200 \\text{ g } C₃H₆O \\times \\frac{120 \\text{ g } C₉H₁₂}{3 \\times 58 \\text{ g } C₃H₆O}$$",
+        "C": "$$X = 200 \\text{ g } C₃H₆O \\times \\frac{3 \\times 58 \\text{ g } C₃H₆O}{120 \\text{ g } C₉H₁₂}$$",
+        "D": "$$X = 200 \\text{ g } C₃H₆O \\times \\frac{58 \\text{ g } C₃H₆O}{120 \\text{ g } C₉H₁₂}$$",
+        "E": "$$X = 200 \\text{ g } C₃H₆O \\times \\frac{3 \\times 120 \\text{ g } C₉H₁₂}{58 \\text{ g } C₃H₆O}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para calcular el rendimiento teórico, se utiliza la relación estequiométrica de la ecuación balanceada. La ecuación indica que 3 moles de $$C₃H₆O$$ (que equivalen a $$3 \\times 58$$ g) producen 1 mol de $$C₉H₁₂$$ (que equivale a 120 g). Por lo tanto, partiendo de 200 g de $$C₃H₆O$$, el cálculo correcto implica multiplicar la masa inicial por el factor de conversión estequiométrico en masa, que es $$\\frac{120 \\text{ g } C₉H₁₂}{3 \\times 58 \\text{ g } C₃H₆O}}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_220_015",
+      "pregunta": "En una reacción para producir 1,3,5-trimetilbenceno, se calcula un rendimiento teórico de 137.9 g. Si después del experimento se logran aislar 100 g de producto puro, ¿cuál es el porcentaje de rendimiento de la reacción?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "137.9%",
+        "B": "100%",
+        "C": "72.5%",
+        "D": "37.9%",
+        "E": "27.5%"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El porcentaje de rendimiento se calcula utilizando la fórmula: $$% R = (\\text{Rendimiento real} / \\text{Rendimiento teórico}) \\times 100\\%$$. Sustituyendo los valores dados: Rendimiento real = 100 g y Rendimiento teórico = 137.9 g. $$% R = (100 \\text{ g} / 137.9 \\text{ g}) \\times 100\\% = 0.72516 \\times 100\\% \\approx 72.5\\%$$.",
+      "imagen": null
+    }
+  ]
+}

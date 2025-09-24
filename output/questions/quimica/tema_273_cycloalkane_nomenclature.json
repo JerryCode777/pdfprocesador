@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 273,
+  "total_temas": 322,
+  "titulo_tema": "Cycloalkane Nomenclature",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_273_001",
+      "pregunta": "¿Cómo se nombra un hidrocarburo cíclico que no posee ramificaciones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anteponiendo el prefijo \"iso\", seguido del nombre del alcano correspondiente.",
+        "B": "Usando el sufijo \"ciclo\" al final del nombre del alcano.",
+        "C": "Anteponiendo el prefijo \"ciclo\" al nombre del alcano con el mismo número de carbonos.",
+        "D": "Cambiando el sufijo \"ano\" por \"eno\".",
+        "E": "Utilizando el prefijo de cantidad seguido de la palabra \"anillo\"."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para nombrar un cicloalcano sin sustituyentes, se utiliza el prefijo \"ciclo\" para indicar la estructura de anillo, seguido del nombre base del alcano que corresponde al mismo número de átomos de carbono (por ejemplo, propano para tres carbonos, butano para cuatro), manteniendo el sufijo \"ano\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_002",
+      "pregunta": "¿Cuál es el ángulo de enlace ideal para un átomo de carbono con hibridación $$sp^3$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$90°$$",
+        "B": "$$120°$$",
+        "C": "$$180°$$",
+        "D": "$$109.5°$$",
+        "E": "$$60°$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un átomo de carbono con hibridación $$sp^3$$ presenta una geometría tetraédrica. Para minimizar la repulsión entre los cuatro orbitales híbridos, los ángulos de enlace óptimos son de $$109.5°$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_003",
+      "pregunta": "¿Cuál es la razón principal por la que el anillo de ciclohexano no adopta una estructura plana?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Para maximizar las interacciones entre los átomos de hidrógeno.",
+        "B": "Porque los enlaces carbono-carbono son demasiado débiles en un plano.",
+        "C": "Para evitar la tensión angular que resultaría de ángulos de enlace de $$120°$$",
+        "D": "Porque la forma plana es energéticamente más favorable.",
+        "E": "Para facilitar la rotación libre de los enlaces simples."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si el ciclohexano fuera plano (un hexágono regular), sus ángulos de enlace internos serían de $$120°$$. Este valor se desvía significativamente del ángulo ideal de $$109.5°$$ para carbonos con hibridación $$sp^3$$, lo que crearía una considerable tensión angular. Para aliviar esta tensión, el anillo se pliega.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_004",
+      "pregunta": "¿Qué prefijo se utiliza en la nomenclatura de hidrocarburos para indicar que la cadena de carbonos es cerrada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "iso-",
+        "B": "neo-",
+        "C": "ciclo-",
+        "D": "poli-",
+        "E": "trans-"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El prefijo \"ciclo-\" se antepone al nombre del alcano correspondiente para señalar que los átomos de carbono no forman una cadena lineal o ramificada, sino una estructura de anillo o cadena cerrada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_005",
+      "pregunta": "¿Cuáles son las dos conformaciones no planares más estables mencionadas para el ciclohexano?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Silla y sobre",
+        "B": "Plana y torcida",
+        "C": "Bote y torcida",
+        "D": "Silla y bote",
+        "E": "Lineal y zig-zag"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para minimizar la tensión total (angular y torsional), el ciclohexano adopta conformaciones tridimensionales no planares. Las más estables y representativas son la conformación de silla y la de bote.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_006",
+      "pregunta": "¿Bajo qué condición un compuesto cíclico sustituido se nombra como un cicloalcano que posee sustituyentes alquilo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el número de carbonos en el sustituyente más largo es mayor que en el anillo.",
+        "B": "Siempre que haya más de un sustituyente en el anillo.",
+        "C": "Cuando el número de carbonos en el anillo es igual o mayor que en el sustituyente más largo.",
+        "D": "Únicamente si los sustituyentes son grupos metilo o etilo.",
+        "E": "Cuando el anillo es un ciclohexano, sin importar el sustituyente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla para determinar la cadena principal indica que el anillo cíclico se considera la estructura principal si tiene un número de átomos de carbono igual o superior al de la cadena sustituyente más larga. En este caso, el compuesto se nombra como un cicloalcano sustituido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_007",
+      "pregunta": "¿Cuándo se nombra un compuesto como un alcano que tiene un sustituyente cicloalquilo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el anillo cíclico tiene menos de seis carbonos.",
+        "B": "Cuando el número de carbonos en la cadena sustituyente es mayor que el número de carbonos en el anillo.",
+        "C": "Siempre que el anillo sea la única estructura cíclica en la molécula.",
+        "D": "Cuando el número de carbonos en el anillo es igual o mayor que en la cadena sustituyente.",
+        "E": "Si el sustituyente cíclico está unido a un carbono terminal del alcano."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "De acuerdo con las reglas de nomenclatura, si la cadena alquílica (el sustituyente) tiene más átomos de carbono que el propio anillo, la cadena alquílica se considera la cadena principal. En este escenario, el anillo se nombra como un sustituyente con el sufijo \"-ilo\" (ej. cicloalquilo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_008",
+      "pregunta": "Al numerar un cicloalcano con múltiples sustituyentes, ¿cuál es el principio fundamental después de asignar la posición 1?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Numerar en el sentido de las agujas del reloj siempre.",
+        "B": "Dar el número más bajo posible al sustituyente que va primero en orden alfabético.",
+        "C": "Asignar los números más bajos a los sustituyentes más grandes.",
+        "D": "Numerar de forma que el segundo sustituyente reciba el localizador más bajo posible.",
+        "E": "Continuar la numeración hacia el sustituyente más cercano al carbono 1, sin importar su número."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una vez asignado el carbono 1 a un sustituyente, la numeración del anillo debe proceder en la dirección (horaria o antihoraria) que otorgue el número más bajo posible al siguiente sustituyente. Este criterio es prioritario sobre otros como el orden alfabético en esta etapa de numeración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_009",
+      "pregunta": "El \"plegamiento\" del anillo de ciclohexano para formar conformaciones no planares es una estrategia molecular para evitar ¿qué tipo de problema estructural?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Repulsión estérica entre sustituyentes.",
+        "B": "Ruptura de enlaces carbono-hidrógeno.",
+        "C": "La formación de enlaces dobles no deseados.",
+        "D": "Tensión causada por ángulos de enlace no ideales.",
+        "E": "La hibridación incorrecta de los átomos de carbono."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un anillo de ciclohexano plano tendría ángulos de $$120°$$, muy diferentes del ángulo tetraédrico ideal de $$109.5°$$ para carbonos $$sp^3$$. Esta discrepancia genera tensión angular. Al plegarse, el anillo ajusta sus ángulos de enlace para acercarse al valor ideal, minimizando así la tensión y aumentando la estabilidad de la molécula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_010",
+      "pregunta": "Si el ciclohexano existiera como un anillo perfectamente plano, ¿cuál sería el valor de sus ángulos de enlace internos carbono-carbono?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$109.5°$$",
+        "B": "$$60°$$",
+        "C": "$$90°$$",
+        "D": "$$180°$$",
+        "E": "$$120°$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La geometría de un hexágono regular, que corresponde a un ciclohexano plano, dicta que sus ángulos internos son de $$120°$$. Este es precisamente el valor que la molécula real evita al adoptar conformaciones plegadas para alcanzar ángulos más cercanos al ideal de $$109.5°$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_011",
+      "pregunta": "¿Cuál es el criterio principal para determinar si la cadena principal en un hidrocarburo sustituido es el anillo o la cadena alquílica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El orden alfabético de los nombres.",
+        "B": "El número total de átomos de hidrógeno.",
+        "C": "La comparación del número de átomos de carbono entre el anillo y la cadena sustituyente más larga.",
+        "D": "La presencia de halógenos en la estructura.",
+        "E": "La forma geométrica del anillo (ej. ciclohexano vs. ciclopentano)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla fundamental es contar los carbonos. Si el anillo tiene más o igual número de carbonos que la cadena alquílica más larga, el anillo es la cadena principal. Si la cadena alquílica tiene más carbonos, ella se convierte en la cadena principal y el anillo en un sustituyente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_012",
+      "pregunta": "En un cicloalcano con tres sustituyentes, si al numerar en ambas direcciones se obtiene el mismo número bajo para el segundo sustituyente, ¿cómo se resuelve la ambigüedad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se elige la secuencia que da el número más bajo al sustituyente con mayor masa molar.",
+        "B": "Se prioriza la numeración en sentido horario.",
+        "C": "Se numera de tal manera que el tercer sustituyente reciba el número más bajo posible.",
+        "D": "Se asignan los números más bajos según el orden alfabético de los sustituyentes.",
+        "E": "Se elige la secuencia que minimiza la suma total de los localizadores."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de numeración es jerárquica. Primero se busca el número más bajo para el segundo sustituyente. Si esto no resuelve la ambigüedad (es decir, el segundo sustituyente tiene el mismo número en ambas direcciones), se continúa comparando los localizadores del tercer sustituyente, eligiendo la dirección que le asigne el número más bajo a este, y así sucesivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_013",
+      "pregunta": "Considere un compuesto formado por un anillo de ciclopentano unido a una cadena de hexilo. Según las reglas de nomenclatura, ¿cuál sería la cadena principal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El ciclopentano, porque los anillos tienen prioridad.",
+        "B": "La cadena de hexilo, porque tiene más átomos de carbono.",
+        "C": "Ambas son cadenas principales, es un compuesto bicíclico.",
+        "D": "El ciclopentano, porque es una estructura más compleja.",
+        "E": "La cadena de hexilo, porque las cadenas abiertas siempre son principales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para determinar la cadena principal, se compara el número de carbonos. El anillo de ciclopentano tiene 5 carbonos, mientras que la cadena de hexilo tiene 6 carbonos. Dado que el número de carbonos en la cadena (6) es mayor que en el anillo (5), la cadena de hexilo se considera la cadena principal. El compuesto se nombraría como un alcano sustituido (ciclopentilhexano).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_014",
+      "pregunta": "Un hidrocarburo está compuesto por un anillo de ciclobutano (4 carbonos) y una cadena de butilo (4 carbonos). ¿Cómo se debe nombrar esta molécula?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Como un alcano sustituido: 1-ciclobutilbutano.",
+        "B": "Como un cicloalcano sustituido: butilciclobutano.",
+        "C": "Se puede nombrar de ambas formas, son correctas.",
+        "D": "Como un compuesto bicíclico: biciclo[4.4.0]octano.",
+        "E": "Se debe determinar por el orden alfabético: butil- vs ciclobut-"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla establece que si el número de átomos de carbono en el anillo es igual o mayor que en el sustituyente, el compuesto se nombra como un cicloalcano sustituido. En este caso, tanto el anillo (ciclobutano) como la cadena (butilo) tienen 4 carbonos. Al ser iguales, el anillo se toma como la cadena principal. Por lo tanto, el nombre correcto es butilciclobutano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_273_015",
+      "pregunta": "Se tiene un ciclohexano con un sustituyente en la posición 1 y otro en la posición 3. Si se numerara en la dirección opuesta desde la posición 1, el segundo sustituyente quedaría en la posición 5. ¿Cuál es el conjunto correcto de localizadores y por qué?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "1,5, porque se debe numerar en sentido horario.",
+        "B": "1,3, porque se busca que el segundo sustituyente tenga el número más bajo posible.",
+        "C": "1,5, porque se debe dar el número más alto al segundo sustituyente.",
+        "D": "1,3, porque la suma 1+3 es menor que 1+5, y se busca la menor suma.",
+        "E": "Cualquiera de las dos es válida si los sustituyentes son iguales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de numeración para cicloalcanos sustituidos prioriza dar el localizador más bajo posible al segundo sustituyente. Al comparar las dos posibles rutas de numeración (dando localizadores 1,3 o 1,5), la ruta que resulta en 1,3 es la correcta porque 3 es menor que 5. Este criterio se aplica antes de considerar la suma de localizadores o cualquier otra regla.",
+      "imagen": null
+    }
+  ]
+}

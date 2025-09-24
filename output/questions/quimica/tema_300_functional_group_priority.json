@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 300,
+  "total_temas": 322,
+  "titulo_tema": "Functional Group Priority",
+  "preguntas": [
+    {
+      "id": "quimica_300_001",
+      "pregunta": "¿Cuál es la estructura general que representa a un aldehído?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R-OH$$",
+        "B": "$$R-O-R'$$",
+        "C": "$$R-COOH$$",
+        "D": "$$R-CHO$$",
+        "E": "$$R-CO-R'$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La estructura general de un aldehído es $$R-CHO$$. Se caracteriza por tener un grupo carbonilo ($$-C=O$$) enlazado a un grupo alquilo ($$R$$) y a un átomo de hidrógeno ($$H$$). Las otras opciones representan a un alcohol ($$R-OH$$), un éter ($$R-O-R'$$), un ácido carboxílico ($$R-COOH$$) y una cetona ($$R-CO-R'$$).",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_002",
+      "pregunta": "Según la nomenclatura IUPAC, ¿por qué sufijo se reemplaza la terminación \"-o\" de un alcano para nombrar el aldehído correspondiente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-ona",
+        "B": "-ol",
+        "C": "-al",
+        "D": "-oico",
+        "E": "-ilo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para nombrar un aldehído según las reglas de la IUPAC, se toma el nombre del alcano con la misma cantidad de átomos de carbono y se cambia la terminación \"-o\" por el sufijo \"-al\". Por ejemplo, el metano se convierte en metanal y el etano en etanal.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_003",
+      "pregunta": "Al nombrar un compuesto que contiene tanto un grupo funcional hidroxilo ($$-OH$$) como una insaturación (doble o triple enlace), ¿cuál de ellos tiene mayor prioridad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La insaturación",
+        "B": "El grupo hidroxilo ($$-OH$$)",
+        "C": "Ambos tienen la misma prioridad",
+        "D": "El que esté más cerca del centro de la cadena",
+        "E": "Ninguno tiene prioridad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El grupo funcional hidroxilo ($$-OH$$) tiene una prioridad más alta que las insaturaciones (dobles y triples enlaces). Esto significa que al numerar la cadena de carbonos, se debe hacer de tal manera que el carbono unido al grupo $$-OH$$ reciba el localizador más bajo posible.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_004",
+      "pregunta": "En la nomenclatura IUPAC de aldehídos, ¿qué número localizador se le asigna siempre al carbono del grupo funcional aldehído ($$-CHO$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número más bajo posible",
+        "B": "1",
+        "C": "2",
+        "D": "El último número de la cadena",
+        "E": "No se le asigna número"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El grupo funcional aldehído ($$-CHO$$) se encuentra siempre en un extremo de la cadena de carbono. Por convención de la IUPAC, a este carbono se le asigna siempre el localizador número 1. Por esta razón, no es necesario especificar su posición en el nombre.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_005",
+      "pregunta": "¿Qué sufijo se utiliza para nombrar una molécula que contiene dos grupos funcionales aldehído en su cadena principal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-dial",
+        "B": "-bial",
+        "C": "-diona",
+        "D": "-diol",
+        "E": "-aleno"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Cuando una cadena de carbonos contiene dos funciones aldehído, generalmente en los extremos, se utiliza el sufijo \"-dial\" para indicar la presencia de ambos grupos. El nombre del alcano base se mantiene y se añade esta terminación, por ejemplo, Hexanodial.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_006",
+      "pregunta": "En una cadena de carbonos que posee un grupo hidroxilo ($$-OH$$) y un triple enlace, ¿qué elemento dicta el inicio de la numeración de la cadena?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La posición del triple enlace",
+        "B": "La longitud de la cadena",
+        "C": "La posición del grupo hidroxilo ($$-OH$$)",
+        "D": "El orden alfabético de los sustituyentes",
+        "E": "La suma total de los localizadores"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El grupo hidroxilo ($$-OH$$) tiene mayor prioridad que las insaturaciones, que incluyen tanto dobles como triples enlaces. Por lo tanto, la cadena se numera desde el extremo que otorgue el localizador más bajo posible al carbono que porta el grupo $$-OH$$.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_007",
+      "pregunta": "¿Por qué generalmente no es necesario indicar la posición del grupo aldehído ($$-CHO$$) con un número en el nombre IUPAC?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque siempre se encuentra en el carbono número 2",
+        "B": "Porque el grupo aldehído no tiene prioridad sobre otros grupos",
+        "C": "Porque al estar en un extremo de la cadena, siempre se le asigna la posición 1",
+        "D": "Porque su posición se deduce del nombre del alcano base",
+        "E": "Porque se nombra como un prefijo en lugar de un sufijo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El grupo funcional aldehído ($$-CHO$$) solo puede existir en el extremo de una cadena de carbonos. Debido a su alta prioridad en muchos casos y por convención, se le asigna siempre el número 1 a su carbono. Como su posición es fija en el carbono 1, no es necesario especificarla en el nombre.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_008",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula con la estructura $$CH_3CH_2CHO$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Etanal",
+        "B": "Propanal",
+        "C": "Butanal",
+        "D": "Metanal",
+        "E": "Propanona"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La molécula tiene una cadena principal de tres átomos de carbono, por lo que su alcano correspondiente es el propano. Al tener un grupo funcional aldehído ($$-CHO$$), se cambia la terminación \"-o\" del alcano por \"-al\". Por lo tanto, el nombre correcto es Propanal.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_009",
+      "pregunta": "Un grupo funcional aldehído consiste en un grupo carbonilo ($$-C=O$$) enlazado directamente a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dos grupos alquilo",
+        "B": "Un grupo alquilo y un grupo hidroxilo",
+        "C": "Al menos un átomo de hidrógeno",
+        "D": "Dos átomos de hidrógeno únicamente",
+        "E": "Un átomo de oxígeno y un grupo alquilo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura de un aldehído es $$R-CHO$$. Esto significa que el carbono del grupo carbonilo ($$-C=O$$) está enlazado a un grupo alquilo ($$R$$) o a otro hidrógeno, y obligatoriamente a un átomo de hidrógeno. La presencia de este átomo de hidrógeno unido al carbonilo es lo que define a un aldehído.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_010",
+      "pregunta": "Al numerar una cadena de carbono con un grupo hidroxilo ($$-OH$$) y un doble enlace, ¿qué principio fundamental se aplica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se da el localizador más bajo posible al doble enlace.",
+        "B": "Se da prioridad alfabética a los nombres de los grupos funcionales.",
+        "C": "Se asigna el localizador más bajo al grupo funcional de mayor prioridad ($$-OH$$).",
+        "D": "Se numera desde el extremo más cercano a cualquier grupo funcional sin distinción.",
+        "E": "La numeración se basa en la estabilidad del carbocatión intermedio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio clave es la jerarquía o prioridad de los grupos funcionales. El grupo hidroxilo ($$-OH$$) tiene mayor prioridad que el doble enlace. Por lo tanto, la cadena debe numerarse de manera que el carbono que soporta al grupo $$-OH$$ reciba el número más bajo posible, incluso si esto asigna un número mayor al doble enlace.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_011",
+      "pregunta": "¿Cuál de las siguientes fórmulas estructurales corresponde al Etanal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$CH_3OH$$",
+        "B": "$$CH_3CH_2CHO$$",
+        "C": "$$HCHO$$",
+        "D": "$$CH_3CHO$$",
+        "E": "$$CH_3COCH_3$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El nombre Etanal indica un aldehído (\"-al\") derivado del etano (\"Etan-\"), que tiene dos átomos de carbono. La fórmula $$CH_3CHO$$ muestra una cadena de dos carbonos con el grupo funcional aldehído, por lo que es la estructura correcta. Las otras opciones son metanol, propanal, metanal y propanona (acetona), respectivamente.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_012",
+      "pregunta": "La conversión del nombre de un alcano a su aldehído correspondiente implica:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Añadir el prefijo \"formil-\"",
+        "B": "Mantener el nombre del alcano y añadir el sufijo \"-al\"",
+        "C": "Añadir el sufijo \"-hído\"",
+        "D": "Cambiar la terminación \"-o\" del alcano por \"-al\"",
+        "E": "Reemplazar la terminación \"-ano\" por \"-aldehído\""
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla sistemática de la IUPAC para nombrar aldehídos simples consiste en identificar el alcano principal con la misma cantidad de carbonos y sustituir la letra final \"-o\" por el sufijo \"-al\". Por ejemplo, de propano se deriva propanal.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_013",
+      "pregunta": "De acuerdo con las reglas de prioridad de grupos funcionales, ¿cuál es el nombre IUPAC correcto para la molécula $$H_3C–CH(OH)–CH_2–CH=CH–CH_3$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Hex-2-en-5-ol",
+        "B": "2-Hidroxihex-4-eno",
+        "C": "Hex-4-en-2-ol",
+        "D": "Hexan-2-ol-4-eno",
+        "E": "5-Hidroxihex-2-eno"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cadena principal tiene 6 carbonos (hex-). Contiene un grupo hidroxilo ($$-OH$$) y un doble enlace ($$-en-$$). El grupo $$-OH$$ tiene mayor prioridad, por lo que la cadena se numera para darle el localizador más bajo. Numerando de derecha a izquierda, el $$-OH$$ queda en la posición 2 y el doble enlace en la 4. Si se numera de izquierda a derecha, el $$-OH$$ quedaría en la posición 5. Por lo tanto, la numeración correcta es de derecha a izquierda, resultando en el nombre Hex-4-en-2-ol.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_014",
+      "pregunta": "¿Cuál sería el nombre IUPAC para una molécula de cadena lineal de seis carbonos que tiene un grupo aldehído en cada extremo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "1,6-Hexanal",
+        "B": "Dihexanal",
+        "C": "Hexanodialdehído",
+        "D": "Aldohexano",
+        "E": "Hexanodial"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La cadena base tiene seis carbonos, correspondiente al alcano hexano. La presencia de dos grupos aldehído se indica con el sufijo \"-dial\". Al combinar el nombre del alcano con el sufijo, se obtiene Hexanodial. No es necesario usar localizadores como 1,6 porque en un dialdehído de cadena abierta, los grupos funcionales siempre ocupan las posiciones terminales.",
+      "imagen": null
+    },
+    {
+      "id": "quimica_300_015",
+      "pregunta": "Para nombrar correctamente la molécula $$HO–CH_2–CH_2–CH=CH–CH_3$$, ¿cómo se debe numerar la cadena principal de carbonos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "De izquierda a derecha, asignando el 1 al carbono con el grupo $$-OH$$",
+        "B": "De derecha a izquierda, asignando el 1 al primer carbono del doble enlace",
+        "C": "De cualquier forma, ya que los grupos están en los extremos",
+        "D": "La numeración debe empezar por el carbono del doble enlace más sustituido",
+        "E": "De derecha a izquierda, para dar el localizador más bajo al doble enlace"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El grupo funcional con mayor prioridad en esta molécula es el hidroxilo ($$-OH$$) sobre el doble enlace. La regla de nomenclatura de la IUPAC exige que se numere la cadena principal de tal forma que el grupo de mayor prioridad reciba el localizador más bajo posible. Por lo tanto, la numeración debe comenzar por el extremo izquierdo, asignando el número 1 al carbono que porta el grupo $$-OH$$.",
+      "imagen": null
+    }
+  ]
+}

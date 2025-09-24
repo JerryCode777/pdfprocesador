@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 256,
+  "total_temas": 322,
+  "titulo_tema": "Alkyl Groups",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_256_001",
+      "pregunta": "¿Qué es un grupo alquilo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un hidrocarburo que contiene un doble enlace.",
+        "B": "Un compuesto que se obtiene al añadir un hidrógeno a un alcano.",
+        "C": "Un grupo que se obtiene al quitar un hidrógeno a un hidrocarburo saturado.",
+        "D": "Un sinónimo para cualquier alcano de cadena lineal.",
+        "E": "Un hidrocarburo aromático con una ramificación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un grupo alquilo, también conocido como radical alquilo, es la estructura que resulta de la remoción de un átomo de hidrógeno de un alcano (hidrocarburo saturado). Esto deja un punto de enlace libre que le permite unirse a otras estructuras. Por ejemplo, al quitar un hidrógeno del metano ($$CH_{4}$$), se obtiene el grupo metilo ($$CH_{3}-$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_002",
+      "pregunta": "¿Cómo se nombra un grupo alquilo según el sistema IUPAC?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cambiando la terminación \"-ano\" del alcano correspondiente por \"-il\" o \"-ilo\".",
+        "B": "Utilizando el prefijo \"iso-\" para todos los grupos.",
+        "C": "Cambiando la terminación \"-eno\" por \"-il\".",
+        "D": "Añadiendo el sufijo \"-al\" al nombre del alcano.",
+        "E": "Manteniendo el mismo nombre del alcano original."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La regla de nomenclatura de la IUPAC para los grupos alquilo es sistemática. Se toma el nombre del alcano del cual deriva el grupo y se sustituye la terminación \"-ano\" por \"-il\" o \"-ilo\". Por ejemplo, del alcano \"propano\" se deriva el grupo alquilo \"propil\" o \"propilo\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_003",
+      "pregunta": "¿Cuál es la fórmula química que representa al grupo Metil?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$CH_{4}$$",
+        "B": "$$CH_{3}-$$",
+        "C": "$$C_{2}H_{6}$$",
+        "D": "$$CH_{3}-CH_{2}-$$",
+        "E": "$$CH_{2}=$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El grupo Metil se deriva del alcano Metano ($$CH_{4}$$). Al remover un átomo de hidrógeno del metano, se obtiene la estructura $$CH_{3}-$$ con un enlace disponible para unirse a otra parte de una molécula. $$CH_{4}$$ es la molécula de metano completa, no el grupo alquilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_004",
+      "pregunta": "En la nomenclatura común de alcanos ramificados, ¿qué prefijo se utiliza para compuestos con la estructura general $$CH_{3} – CH(CH_{3}) – (CH_{2})_{n} – CH_{3}$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Neo",
+        "B": "Sec",
+        "C": "Tert",
+        "D": "Iso",
+        "E": "Ciclo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El prefijo \"iso\" se utiliza en la nomenclatura común para designar a los isómeros de alcanos que tienen un grupo metilo ($$CH_{3}-$$) en el penúltimo carbono de la cadena continua. La fórmula general $$CH_{3} – CH(CH_{3}) – (CH_{2})_{n} – CH_{3}$$ describe precisamente esta característica estructural.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_005",
+      "pregunta": "¿Qué grupo alquilo se deriva del alcano Etano ($$C_{2}H_{6}$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Metil",
+        "B": "Propil",
+        "C": "Etil",
+        "D": "Butil",
+        "E": "Isobutil"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para nombrar el grupo alquilo derivado del Etano, se sigue la regla IUPAC: se cambia la terminación \"-ano\" por \"-il\". Por lo tanto, el grupo alquilo derivado del Etano es el Etil. Su fórmula es $$CH_{3}-CH_{2}-$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_006",
+      "pregunta": "¿Cuál es la característica estructural principal de los compuestos que llevan el prefijo \"iso\" en su nombre común?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una cadena de carbonos completamente lineal.",
+        "B": "La presencia de un grupo $$CH_{3}-$$ unido al penúltimo átomo de carbono de la cadena.",
+        "C": "Una ramificación en el primer átomo de carbono.",
+        "D": "La presencia de dos grupos $$CH_{3}-$$ en el mismo carbono.",
+        "E": "Ser un isómero de un alcano cíclico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La nomenclatura común utiliza el prefijo \"iso\" para indicar una estructura específica donde un grupo metilo ($$CH_{3}-$$) está enlazado al penúltimo carbono de la cadena continua más larga. Un ejemplo clásico es el isobutano, $$CH_{3}-CH(CH_{3})–CH_{3}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_007",
+      "pregunta": "El grupo alquilo \"Butil\" se obtiene a partir de qué alcano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Propano ($$C_{3}H_{8}$$)",
+        "B": "Pentano ($$C_{5}H_{12}$$)",
+        "C": "Butano ($$C_{4}H_{10}$$)",
+        "D": "Etano ($$C_{2}H_{6}$$)",
+        "E": "Metano ($$CH_{4}$$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre de un grupo alquilo se relaciona directamente con su alcano de origen. El grupo \"Butil\" proviene del alcano \"Butano\", que tiene 4 átomos de carbono ($$C_{4}H_{10}$$). Al quitarle un hidrógeno, se forma el grupo Butil ($$CH_{3}-(CH_{2})_{2}-CH_{2}-$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_008",
+      "pregunta": "¿Cuál de las siguientes fórmulas químicas representa al grupo Propil?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$CH_{3}-$$",
+        "B": "$$CH_{3}-CH_{2}-$$",
+        "C": "$$C_{3}H_{8}$$",
+        "D": "$$CH_{3}-CH_{2}-CH_{2}-$$",
+        "E": "$$CH_{3}-CH(CH_{3})-$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El grupo Propil se deriva del Propano ($$C_{3}H_{8}$$), un alcano con tres átomos de carbono. Al eliminar un hidrógeno de un carbono terminal del propano, se obtiene el grupo propil, cuya fórmula estructural es $$CH_{3}-CH_{2}-CH_{2}-$$. La opción C es el alcano completo, no el grupo alquilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_009",
+      "pregunta": "¿Cuál es la diferencia fundamental entre el Etano ($$C_{2}H_{6}$$) y el grupo Etil ($$CH_{3}-CH_{2}-$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Etil tiene un átomo de carbono más que el Etano.",
+        "B": "El Etano es una molécula estable, mientras que el Etil es un grupo funcional con un enlace libre.",
+        "C": "No existe ninguna diferencia, son la misma especie química.",
+        "D": "El Etano tiene un doble enlace y el Etil no.",
+        "E": "El Etil tiene dos hidrógenos menos que el Etano."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia clave es que el Etano ($$C_{2}H_{6}$$) es un alcano, una molécula saturada y estable por sí misma. En cambio, el grupo Etil ($$CH_{3}-CH_{2}-$$) se forma al quitar un hidrógeno al Etano, resultando en un grupo funcional o radical con un punto de enlace disponible para unirse a otras estructuras. Por tanto, el Etil tiene un hidrógeno menos que el Etano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_010",
+      "pregunta": "Considerando la nomenclatura común, ¿cuál es el nombre correcto para la estructura $$CH_{3}-CH(CH_{3})–CH_{3}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Butano",
+        "B": "Isopentano",
+        "C": "Metilpropano",
+        "D": "Isobutano",
+        "E": "Propano"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta molécula tiene un total de 4 átomos de carbono, por lo que su nombre base deriva del butano. La estructura presenta un grupo metilo ($$CH_{3}-$$) en el penúltimo carbono de la cadena principal (que tiene 3 carbonos). Esta característica corresponde a la nomenclatura común con el prefijo \"iso\". Por lo tanto, el nombre es Isobutano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_011",
+      "pregunta": "¿Cuál es el nombre del alcano cuya estructura corresponde a $$CH_{3}-CH(CH_{3})–CH_{2}–CH_{3}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Isobutano",
+        "B": "Pentano",
+        "C": "Isohexano",
+        "D": "Isopentano",
+        "E": "2-metilbutano"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El compuesto tiene un total de 5 átomos de carbono, por lo que el nombre base es pentano. La estructura muestra un grupo metilo en el penúltimo carbono de la cadena más larga (que es de 4 carbonos). Esto cumple con la regla para usar el prefijo \"iso\" en la nomenclatura común, resultando en el nombre Isopentano. El nombre IUPAC sería 2-metilbutano, pero en el contexto del sistema común, es Isopentano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_012",
+      "pregunta": "El grupo alquilo con la fórmula $$CH_{3}-CH_{2}-$$ se denomina Etil. ¿A partir de qué molécula de alcano se forma?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Metano",
+        "B": "Propano",
+        "C": "Butano",
+        "D": "Etano",
+        "E": "Pentano"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El nombre del grupo alquilo \"Etil\" indica que proviene del alcano con dos átomos de carbono. El alcano con dos carbonos es el Etano ($$C_{2}H_{6}$$ o $$CH_{3}-CH_{3}$$). Al eliminar un átomo de hidrógeno de la molécula de Etano, se genera el grupo Etil ($$CH_{3}-CH_{2}-$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_013",
+      "pregunta": "Un compuesto tiene la estructura general $$CH_{3} – CH(CH_{3}) – (CH_{2})_{n} – CH_{3}$$. Si el valor de $n$ es 1, ¿cuál es el nombre común del compuesto resultante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Isobutano",
+        "B": "Isopentano",
+        "C": "Isohexano",
+        "D": "2-metilpropano",
+        "E": "3-metilpentano"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para resolver esto, sustituimos $n=1$ en la fórmula general: $$CH_{3} – CH(CH_{3}) – (CH_{2})_{1} – CH_{3}$$. Esto se simplifica a $$CH_{3} – CH(CH_{3}) – CH_{2} – CH_{3}$$. Ahora contamos el número total de átomos de carbono: 1 (en el CH3 de la izquierda) + 1 (en el CH) + 1 (en el CH3 de la ramificación) + 1 (en el CH2) + 1 (en el CH3 de la derecha) = 5 carbonos. Como tiene 5 carbonos y la estructura corresponde al prefijo \"iso\" (un metilo en el penúltimo carbono), su nombre común es Isopentano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_014",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente el proceso de formación del grupo Propil a partir del Propano?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se añade un átomo de hidrógeno al Propano ($$C_{3}H_{8}$$) y se mantiene el nombre.",
+        "B": "Se elimina un grupo metilo del Butano ($$C_{4}H_{10}$$) y se cambia la terminación.",
+        "C": "Se elimina un átomo de hidrógeno del Propano ($$C_{3}H_{8}$$) y se cambia la terminación del nombre de \"-ano\" a \"-il\".",
+        "D": "Se combinan un grupo etil y un grupo metil para formar un nuevo compuesto.",
+        "E": "Se cambia únicamente la terminación del nombre del Propano, sin alterar su composición atómica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La formación de un grupo alquilo implica dos pasos conceptuales. Primero, se remueve un átomo de hidrógeno de la molécula del alcano correspondiente, en este caso, el Propano ($$C_{3}H_{8}$$). Segundo, para nombrarlo según la IUPAC, se modifica el nombre del alcano original, cambiando el sufijo \"-ano\" por \"-il\" o \"-ilo\". Por lo tanto, del Propano se obtiene el grupo Propil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_256_015",
+      "pregunta": "Al analizar la estructura del Isopentano, $$CH_{3}-CH(CH_{3})–CH_{2}–CH_{3}$$, ¿qué característica específica justifica el uso del prefijo \"iso\" en su nomenclatura común?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La molécula contiene un total de cinco átomos de carbono.",
+        "B": "La cadena de carbonos principal es completamente lineal.",
+        "C": "La presencia de un grupo metilo ($$CH_{3}-$$) en el penúltimo carbono de la cadena continua.",
+        "D": "La ramificación se encuentra en el átomo de carbono central.",
+        "E": "Es un hidrocarburo completamente saturado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si bien la molécula tiene cinco carbonos (lo que justifica la parte \"pentano\" del nombre) y es saturada, el prefijo \"iso\" se refiere a una característica estructural muy específica. Se aplica cuando hay un grupo metilo ($$CH_{3}-$$) unido al segundo carbono desde el final (es decir, el penúltimo) de la cadena de carbono continua más larga. En el Isopentano, la cadena más larga tiene 4 carbonos, y el grupo metilo está en el carbono 2, que es el penúltimo, justificando así el prefijo \"iso\".",
+      "imagen": null
+    }
+  ]
+}

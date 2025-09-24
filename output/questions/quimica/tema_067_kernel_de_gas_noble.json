@@ -1,0 +1,233 @@
+{
+  "materia": "quimica",
+  "numero_tema": 67,
+  "total_temas": 322,
+  "titulo_tema": "Kernel de Gas Noble",
+  "preguntas": [
+    {
+      "id_temporal": "quimica_067_001",
+      "pregunta": "¿Qué representa el superíndice en la notación de un subnivel electrónico, como el '2' en $$1s^2$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El nivel de energía principal ($$n$$)",
+        "B": "El número de electrones en ese subnivel",
+        "C": "El tipo de subnivel ($$l$$)",
+        "D": "La carga eléctrica del subnivel",
+        "E": "El número atómico del elemento"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La notación para un subnivel electrónico se compone del nivel de energía ($$n$$), la letra que identifica el subnivel ($$l$$), y un superíndice que indica el número de electrones presentes en dicho subnivel. Por lo tanto, en $$1s^2$$, el '2' significa que hay dos electrones en el subnivel $$1s$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_002",
+      "pregunta": "¿Qué es una configuración electrónica en 'estado basal'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una configuración que representa un átomo excitado",
+        "B": "Una configuración que omite los electrones de valencia",
+        "C": "Una configuración que cumple estrictamente con el principio de construcción",
+        "D": "Una configuración que solo se aplica a los gases nobles",
+        "E": "Una configuración que utiliza únicamente el kérnel de gas noble"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una configuración electrónica en estado basal o fundamental es aquella que describe la distribución de electrones de un átomo en su estado de mínima energía, lo cual se logra siguiendo de manera estricta el principio de construcción (Aufbau), llenando los orbitales de menor a mayor energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_003",
+      "pregunta": "Al utilizar la notación del kérnel de gas noble, ¿qué se coloca entre paréntesis?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El símbolo del elemento que se está configurando",
+        "B": "El símbolo del gas noble que antecede al elemento",
+        "C": "El símbolo del gas noble que sigue al elemento",
+        "D": "Los símbolos de los subniveles superiores",
+        "E": "El número atómico del elemento"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La notación del kérnel de gas noble simplifica la configuración electrónica al utilizar, entre paréntesis, el símbolo del gas noble que se encuentra inmediatamente antes del elemento en la tabla periódica. Este símbolo representa la configuración electrónica completa de ese gas noble.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_004",
+      "pregunta": "¿Qué elementos son mencionados como excepciones para el uso de la representación del kérnel de gas noble?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cloro y Galio",
+        "B": "Solo el Helio",
+        "C": "Hidrógeno y Helio",
+        "D": "Todos los metales alcalinos",
+        "E": "Todos los gases nobles"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La representación de la configuración electrónica mediante un kérnel de gas noble es aplicable a todos los elementos con excepción del Hidrógeno ($$H$$) y el Helio ($$He$$), ya que no hay un gas noble que los anteceda en la tabla periódica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_005",
+      "pregunta": "Para escribir la configuración de un subnivel, ¿qué tres componentes se utilizan?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Nivel, letra del subnivel y número de protones",
+        "B": "Letra del subnivel, superíndice de electrones y carga iónica",
+        "C": "Nivel ($$n$$), letra del subnivel ($$l$$) y número de electrones como superíndice",
+        "D": "Símbolo del elemento, nivel y número de electrones",
+        "E": "Nivel ($$n$$), número cuántico magnético y spin del electrón"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación completa para un subnivel requiere tres partes: el número del nivel de energía principal ($$n$$), una letra (s, p, d, f) que identifica el tipo de subnivel ($$l$$), y un superíndice que indica la cantidad de electrones que ocupan ese subnivel.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_006",
+      "pregunta": "Considerando la configuración de estado basal del Cloro ($$_{17}Cl$$) como $$1s^2 2s^2 2p^6 3s^2 3p^5$$, ¿cuál es su representación correcta usando el kérnel de gas noble?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$[He] 2s^2 2p^6 3s^2 3p^5$$",
+        "B": "$$[Ar] 3s^2 3p^5$$",
+        "C": "$$[Ne] 3s^2 3p^5$$",
+        "D": "$$[Ne] 3p^7$$",
+        "E": "$$[Kr] 3s^2 3p^5$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El gas noble que antecede al Cloro ($$_{17}Cl$$) es el Neón ($$_{10}Ne$$). La configuración del Neón es $$1s^2 2s^2 2p^6$$. Por lo tanto, se reemplaza esta parte de la configuración del Cloro con $$[Ne]$$, y se escriben los subniveles superiores restantes, resultando en $$[Ne] 3s^2 3p^5$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_007",
+      "pregunta": "La configuración en estado basal del Galio ($$_{31}Ga$$) es $$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^1$$. ¿Cuál es su notación con kérnel de gas noble?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$[Ne] 3s^2 3p^6 4s^2 3d^{10} 4p^1$$",
+        "B": "$$[Ar] 4s^2 3d^{10} 4p^1$$",
+        "C": "$$[Kr] 4s^2 3d^{10} 4p^1$$",
+        "D": "$$[Ar] 3d^{10} 4p^1$$",
+        "E": "$$[Xe] 4s^2 3d^{10} 4p^1$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El gas noble que antecede al Galio ($$_{31}Ga$$) es el Argón ($$_{18}Ar$$), cuya configuración electrónica es $$1s^2 2s^2 2p^6 3s^2 3p^6$$. Se sustituye esta parte por $$[Ar]$$ y se añaden los subniveles con electrones restantes, que son los de mayor energía. La configuración correcta es $$[Ar] 4s^2 3d^{10} 4p^1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_008",
+      "pregunta": "¿Qué parte de la configuración electrónica completa es reemplazada por el símbolo del gas noble entre paréntesis?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente los electrones del último nivel de energía (valencia)",
+        "B": "La configuración electrónica de los electrones de los niveles internos, correspondiente a la del gas noble anterior",
+        "C": "Toda la configuración excepto el último electrón añadido",
+        "D": "Solo los electrones del subnivel $$s$$ y $$p$$",
+        "E": "La configuración electrónica del gas noble que le sigue en la tabla periódica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El kérnel de gas noble, representado por el símbolo del gas noble que antecede al elemento, representa la configuración electrónica completa de los electrones internos o del 'core'. Estos son todos los electrones que ocupan los niveles de energía que ya están llenos, coincidiendo con la configuración del gas noble anterior.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_009",
+      "pregunta": "Si un elemento tiene la configuración $$[Ne] 3s^2$$, ¿qué representa el componente $$[Ne]$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los dos electrones del subnivel $$3s$$",
+        "B": "La configuración electrónica $$1s^2 2s^2 2p^6$$",
+        "C": "Que el elemento es el Neón",
+        "D": "La configuración $$1s^2 2s^2$$",
+        "E": "Únicamente los diez protones del núcleo de Neón"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la notación de kérnel, el símbolo del gas noble entre paréntesis representa la configuración electrónica completa de ese gas noble. El Neón ($$_{10}Ne$$) tiene una configuración en estado basal de $$1s^2 2s^2 2p^6$$. Por lo tanto, $$[Ne]$$ es una abreviatura de esa configuración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_010",
+      "pregunta": "La configuración del Cloro es $$1s^2 2s^2 2p^6 3s^2 3p^5$$. ¿Por qué se utiliza el Neón y no el Argón para su notación de kérnel?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el Cloro y el Argón están en el mismo periodo.",
+        "B": "Porque el Argón tiene más electrones que el Cloro.",
+        "C": "Porque el Neón y el Cloro son ambos no metales.",
+        "D": "Porque el Argón es el gas noble que le sigue, no el que le antecede.",
+        "E": "Porque el Neón tiene una configuración más estable que el Argón."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla para usar el kérnel de gas noble especifica que se debe usar el símbolo del gas noble que ANTECEDE al elemento en la tabla periódica. El Cloro tiene número atómico 17. El Neón (Z=10) lo antecede, mientras que el Argón (Z=18) le sigue. Por lo tanto, se debe usar $$[Ne]$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_011",
+      "pregunta": "Al afirmar que la configuración en estado basal cumple 'estrictamente' con el principio de construcción, ¿qué se infiere sobre el llenado de los subniveles?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los electrones llenan primero los subniveles de mayor energía.",
+        "B": "Se llenan los subniveles en un orden preestablecido de menor a mayor energía.",
+        "C": "Todos los subniveles de un mismo nivel se llenan simultáneamente.",
+        "D": "Los electrones pueden ocupar cualquier subnivel disponible sin un orden específico.",
+        "E": "Solo se llenan los subniveles $$s$$ y $$p$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de construcción (o Aufbau) dicta que los electrones ocupan los orbitales atómicos en orden creciente de energía. Que una configuración en estado basal cumpla 'estrictamente' con este principio significa que no hay electrones en niveles de energía superiores si aún hay espacio en niveles de energía inferiores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_012",
+      "pregunta": "¿Cuál es la principal ventaja de utilizar la notación del kérnel de gas noble?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Permite calcular el número de neutrones del átomo.",
+        "B": "Muestra únicamente los electrones de los subniveles llenos.",
+        "C": "Es una forma más compacta de escribir configuraciones electrónicas largas.",
+        "D": "Es la única forma de representar la configuración de los iones.",
+        "E": "Ayuda a determinar el color del elemento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación del kérnel de gas noble es una abreviatura que simplifica la escritura de configuraciones electrónicas, especialmente para elementos con muchos electrones. En lugar de escribir la larga cadena de subniveles internos, se resume con el símbolo del gas noble anterior, haciendo la notación más concisa y enfocada en los electrones de valencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_013",
+      "pregunta": "Un elemento X tiene la configuración electrónica $$[Ar] 4s^2 3d^{10} 4p^1$$. ¿Cuál es su configuración electrónica completa en estado basal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^1$$",
+        "B": "$$1s^2 2s^2 2p^6 3s^2 3p^6 4p^1$$",
+        "C": "$$4s^2 3d^{10} 4p^1$$",
+        "D": "$$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 4p^1$$",
+        "E": "$$1s^2 2s^2 2p^6 3s^2 4s^2 3d^{10} 4p^1$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Para obtener la configuración completa, se debe expandir el kérnel del gas noble. El Argón ($$_{18}Ar$$) tiene la configuración $$1s^2 2s^2 2p^6 3s^2 3p^6$$. A esta configuración base se le añaden los subniveles superiores indicados, $$4s^2 3d^{10} 4p^1$$. Al unir ambas partes en el orden correcto, se obtiene la configuración completa del Galio ($$_{31}Ga$$), que es $$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_014",
+      "pregunta": "Si la configuración del Cloro ($$_{17}Cl$$) es $$1s^2 2s^2 2p^6 3s^2 3p^5$$, ¿qué se puede inferir sobre la configuración $$1s^2 2s^2 2p^6$$ que corresponde al Neón?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que corresponde a los electrones de valencia del Cloro.",
+        "B": "Que representa un estado excitado del Cloro.",
+        "C": "Que es una configuración de electrones internos completa y estable.",
+        "D": "Que es una configuración incorrecta según el principio de construcción.",
+        "E": "Que estos electrones no participan en la química del Cloro."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La parte de la configuración de un elemento que coincide con la del gas noble anterior ($$1s^2 2s^2 2p^6$$ para el Neón en el caso del Cloro) representa los electrones internos o del 'kérnel'. Esta es una configuración particularmente estable porque todos los subniveles están completamente llenos, característica de los gases nobles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_067_015",
+      "pregunta": "Basado en la configuración del Galio ($$_{31}Ga$$) $$[Ar] 4s^2 3d^{10} 4p^1$$, ¿qué afirmación es correcta sobre los subniveles que siguen al kérnel del Argón?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Son los únicos subniveles ocupados en el átomo de Galio.",
+        "B": "Representan los electrones que el Galio comparte con el Argón.",
+        "C": "Son los subniveles de mayor energía que los representados por $$[Ar]$$.",
+        "D": "No siguen el principio de construcción y por eso se escriben aparte.",
+        "E": "Contienen el mismo número de electrones que el Argón."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación de kérnel de gas noble separa la configuración en dos partes: el kérnel ($$[Ar]$$), que representa los niveles de energía más bajos y llenos, y los subniveles escritos a continuación ($$4s^2 3d^{10} 4p^1$$). Estos últimos son los subniveles ocupados de mayor energía, que se llenan después de haber completado la configuración del gas noble anterior. Estos electrones, especialmente los del nivel más externo ($$n=4$$), son los electrones de valencia y determinan las propiedades químicas del elemento.",
+      "imagen": null
+    }
+  ]
+}
