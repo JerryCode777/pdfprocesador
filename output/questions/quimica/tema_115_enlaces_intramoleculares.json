@@ -6,62 +6,62 @@
   "preguntas": [
     {
       "id_temporal": "quimica_115_001",
-      "pregunta": "¿Qué es un enlace químico?",
+      "pregunta": "¿Cuál es la definición de un enlace químico?",
       "dificultad": 1,
       "opciones": {
-        "A": "Las fuerzas de atracción que mantienen unidos a los átomos en los compuestos.",
-        "B": "Las fuerzas de repulsión entre los núcleos de dos átomos.",
-        "C": "La energía necesaria para separar moléculas en una sustancia.",
-        "D": "Una representación gráfica de los electrones de valencia.",
+        "A": "La energía necesaria para separar dos moléculas.",
+        "B": "Las fuerzas de atracción que mantienen unidos a los átomos en los compuestos.",
+        "C": "La interacción entre el núcleo y los electrones internos.",
+        "D": "Las fuerzas débiles que existen entre partículas de diferentes sustancias.",
         "E": "La transferencia de protones de un átomo a otro."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Un enlace químico se define fundamentalmente como el conjunto de fuerzas de atracción que actúan para mantener unidos a los átomos cuando forman compuestos químicos, ya sea compartiendo o transfiriendo electrones. Las otras opciones describen conceptos diferentes, como fuerzas de repulsión, energía de enlace o representaciones simbólicas.",
+      "respuesta_correcta": "B",
+      "explicacion": "Un enlace químico se define fundamentalmente como el conjunto de fuerzas, principalmente de atracción electrostática, que mantienen unidos a los átomos para formar moléculas o compuestos más estables. Las otras opciones describen conceptos diferentes, como las fuerzas intermoleculares o procesos no relacionados con la formación de enlaces.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_002",
-      "pregunta": "¿Qué representan los puntos alrededor del símbolo químico en un Símbolo de Puntos de Lewis?",
+      "pregunta": "¿Qué representan los puntos alrededor del símbolo en un Símbolo de Puntos de Lewis?",
       "dificultad": 1,
       "opciones": {
-        "A": "Los electrones internos.",
-        "B": "El número total de electrones del átomo.",
-        "C": "Los protones en el núcleo.",
+        "A": "El número total de electrones de un átomo.",
+        "B": "Los protones en el núcleo.",
+        "C": "Los electrones de las capas internas.",
         "D": "Los electrones de valencia.",
         "E": "El número de neutrones."
       },
       "respuesta_correcta": "D",
-      "explicacion": "En la notación de Símbolos de Puntos de Lewis, cada punto dibujado alrededor del símbolo del elemento representa un electrón de valencia, que son los electrones que se encuentran en el nivel de energía más externo del átomo y participan en los enlaces químicos. El símbolo químico en sí representa el núcleo y los electrones internos.",
+      "explicacion": "En la notación de Símbolos de Puntos de Lewis, cada punto dibujado alrededor del símbolo químico del elemento representa un electrón de valencia, que son los electrones ubicados en el nivel de energía más externo y los responsables de formar los enlaces químicos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_003",
-      "pregunta": "¿A qué se refieren las fuerzas intramoleculares?",
+      "pregunta": "¿A qué se refiere la Regla del Dueto?",
       "dificultad": 1,
       "opciones": {
-        "A": "A las fuerzas débiles entre moléculas individuales.",
-        "B": "A los enlaces iónicos y covalentes dentro de los compuestos.",
-        "C": "A la atracción entre iones de carga opuesta en diferentes compuestos.",
-        "D": "A las fuerzas que existen únicamente en los gases nobles.",
-        "E": "A la energía cinética de las partículas."
+        "A": "A la capacidad de un átomo para formar dos enlaces dobles.",
+        "B": "A que todos los átomos buscan tener 8 electrones de valencia.",
+        "C": "A la tendencia de átomos como el hidrógeno a alojar dos electrones en su último nivel para ser estables.",
+        "D": "A la formación de compuestos con exactamente dos tipos de átomos.",
+        "E": "A la necesidad de compartir dos pares de electrones en un enlace."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Las fuerzas intramoleculares son las fuerzas que mantienen unidos a los átomos *dentro* de una misma molécula o compuesto. Estas son los enlaces químicos propiamente dichos, como los enlaces iónicos y covalentes. Se distinguen de las fuerzas intermoleculares, que son atracciones entre moléculas distintas.",
+      "respuesta_correcta": "C",
+      "explicacion": "La Regla del Dueto es una excepción a la Regla del Octeto y se aplica a elementos muy pequeños, como el hidrógeno y el litio. Establece que estos átomos alcanzan la estabilidad al tener dos electrones en su capa de valencia, logrando así la configuración electrónica del gas noble Helio.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_004",
-      "pregunta": "¿En qué consiste la Regla del Dueto?",
+      "pregunta": "¿Qué tipo de fuerzas son los enlaces iónicos y covalentes?",
       "dificultad": 1,
       "opciones": {
-        "A": "En que un átomo busca tener ocho electrones en su capa de valencia.",
-        "B": "En la formación de un enlace doble entre dos átomos.",
-        "C": "En que un átomo como el hidrógeno solo puede alojar dos electrones en su último nivel.",
-        "D": "En la unión de dos moléculas idénticas.",
-        "E": "En la compartición de dos electrones por cada átomo en un enlace."
+        "A": "Fuerzas intermoleculares",
+        "B": "Fuerzas intramoleculares",
+        "C": "Fuerzas de Van der Waals",
+        "D": "Fuerzas de dispersión de London",
+        "E": "Fuerzas nucleares"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La Regla del Dueto es una excepción a la regla del octeto y se aplica a elementos muy pequeños, como el hidrógeno y el litio. Establece que estos átomos alcanzan la estabilidad al tener dos electrones en su único nivel de energía, logrando la configuración electrónica del gas noble Helio (He).",
+      "respuesta_correcta": "B",
+      "explicacion": "Los enlaces iónicos y covalentes son las fuerzas que mantienen unidos a los átomos *dentro* de una molécula o compuesto. Por esta razón, se clasifican como fuerzas intramoleculares, que son significativamente más fuertes que las fuerzas intermoleculares (las que actúan *entre* moléculas).",
       "imagen": null
     },
     {
@@ -69,164 +69,164 @@
       "pregunta": "¿Qué es una estructura de Lewis?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un modelo que muestra la disposición de todos los electrones de un átomo.",
-        "B": "Una representación de un enlace covalente mostrando los electrones de valencia compartidos y libres.",
-        "C": "Un diagrama que muestra únicamente el núcleo y los electrones internos.",
-        "D": "Una clasificación de las fuerzas intermoleculares.",
-        "E": "Un modelo que explica la estabilidad del Helio."
+        "A": "Un diagrama que muestra la trayectoria de los electrones alrededor del núcleo.",
+        "B": "Una representación de un enlace covalente mostrando los pares de electrones compartidos y los pares libres.",
+        "C": "Un modelo que indica el número de protones y neutrones en el núcleo.",
+        "D": "Un gráfico de la energía de ionización de un átomo.",
+        "E": "Un símbolo que representa únicamente el núcleo y los electrones internos."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Una estructura de Lewis es una representación gráfica de una molécula que muestra cómo los átomos están conectados mediante enlaces covalentes. En ella, se indican los pares de electrones compartidos (generalmente con líneas) y los pares de electrones no compartidos o libres (con puntos) sobre cada átomo, mostrando únicamente los electrones de valencia.",
+      "explicacion": "Una estructura de Lewis es una representación gráfica de una molécula que muestra cómo los átomos están conectados mediante enlaces covalentes. Utiliza puntos para los pares de electrones no compartidos (libres) y líneas (o pares de puntos) para los pares de electrones compartidos entre átomos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_006",
-      "pregunta": "¿Cuál es la principal diferencia de fuerza entre las fuerzas intramoleculares y las intermoleculares?",
+      "pregunta": "¿Cuál es la principal diferencia de intensidad entre las fuerzas intramoleculares y las intermoleculares?",
       "dificultad": 2,
       "opciones": {
-        "A": "Las fuerzas intermoleculares son mucho más fuertes que las intramoleculares.",
-        "B": "Ambos tipos de fuerza tienen una intensidad comparable.",
-        "C": "Las fuerzas intramoleculares son muy débiles en comparación con las intermoleculares.",
-        "D": "La fuerza depende del estado de la materia, siendo iguales en estado sólido.",
-        "E": "Las fuerzas intermoleculares son muy débiles en comparación con las intramoleculares."
+        "A": "Las fuerzas intermoleculares son mucho más fuertes.",
+        "B": "Ambos tipos de fuerza tienen una intensidad similar.",
+        "C": "Las fuerzas intermoleculares son muy débiles en comparación con las intramoleculares.",
+        "D": "La intensidad es idéntica, pero actúan en direcciones opuestas.",
+        "E": "Solo las fuerzas intramoleculares tienen una intensidad medible."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Las fuerzas intramoleculares (enlaces iónicos, covalentes) son las que mantienen unidos a los átomos dentro de una molécula y son muy fuertes. En cambio, las fuerzas intermoleculares son las atracciones entre moléculas ya formadas, y son considerablemente más débiles. Romper un enlace covalente requiere mucha más energía que separar dos moléculas.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las fuerzas intramoleculares (enlaces covalentes, iónicos) son las responsables de mantener la integridad de una molécula y son muy fuertes. En contraste, las fuerzas intermoleculares son atracciones mucho más débiles que ocurren entre moléculas distintas. Se requiere mucha más energía para romper un enlace covalente que para superar una fuerza intermolecular.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_007",
-      "pregunta": "En un Símbolo de Puntos de Lewis, ¿qué representa el símbolo químico del elemento (por ejemplo, 'N' para Nitrógeno)?",
+      "pregunta": "En un Símbolo de Puntos de Lewis, ¿qué representa el símbolo químico del elemento (por ejemplo, 'C' para el carbono)?",
       "dificultad": 2,
       "opciones": {
-        "A": "Únicamente los electrones de valencia.",
-        "B": "El núcleo del átomo solamente.",
-        "C": "El núcleo y los electrones internos del átomo.",
-        "D": "El número de enlaces que puede formar.",
-        "E": "La carga total del átomo."
+        "A": "Solo el núcleo del átomo.",
+        "B": "Los electrones de valencia.",
+        "C": "El núcleo y los electrones internos.",
+        "D": "La carga eléctrica del átomo.",
+        "E": "El número total de electrones."
       },
       "respuesta_correcta": "C",
-      "explicacion": "En esta notación, el símbolo químico (también conocido como 'kernel' o 'core') agrupa y representa tanto al núcleo (protones y neutrones) como a los electrones de las capas internas que no participan en los enlaces. Los puntos a su alrededor son exclusivamente los electrones de valencia.",
+      "explicacion": "El Símbolo de Puntos de Lewis está compuesto por dos partes: los puntos, que son los electrones de valencia, y el símbolo químico. Este último representa el 'kernel' o núcleo del átomo, que incluye tanto el núcleo (protones y neutrones) como todos los electrones de las capas internas que no participan en el enlace.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_008",
-      "pregunta": "Según la simbología de Lewis, ¿qué indica el número de puntos desapareados alrededor de un símbolo atómico?",
+      "pregunta": "¿Qué configuración electrónica busca alcanzar un átomo de hidrógeno al seguir la Regla del Dueto?",
       "dificultad": 2,
       "opciones": {
-        "A": "El número total de electrones del átomo.",
-        "B": "El número de electrones que el átomo debe perder.",
-        "C": "La cantidad de energía del átomo.",
-        "D": "El número de enlaces que un átomo puede formar.",
-        "E": "El período de la tabla periódica al que pertenece."
+        "A": "La del Neón (Ne)",
+        "B": "La del Argón (Ar)",
+        "C": "La del Litio (Li)",
+        "D": "La del Helio (He)",
+        "E": "La del Berilio (Be)"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Los electrones de valencia se representan como puntos. Cuando se dibujan alrededor del símbolo, se van apareando. Los puntos que quedan solos (desapareados) indican los electrones disponibles para formar un enlace covalente al compartirse con otro átomo. Por lo tanto, el número de puntos desapareados corresponde al número de enlaces que el átomo tiende a formar.",
+      "explicacion": "El objetivo de la formación de enlaces es alcanzar la estabilidad, que se logra al tener una configuración de electrones similar a la de un gas noble. Para el hidrógeno, que está en el primer período, el gas noble más cercano es el Helio (He), que es estable con dos electrones en su único nivel de energía.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_009",
-      "pregunta": "¿Con la configuración electrónica de qué elemento alcanza la estabilidad un átomo que cumple la Regla del Dueto?",
+      "pregunta": "¿Qué indica el número de puntos desapareados en el Símbolo de Lewis de un átomo?",
       "dificultad": 2,
       "opciones": {
-        "A": "Hidrógeno (H)",
-        "B": "Neón (Ne)",
-        "C": "Argón (Ar)",
-        "D": "Litio (Li)",
-        "E": "Helio (He)"
+        "A": "El número de electrones que ha perdido.",
+        "B": "El número de enlaces que el átomo puede formar.",
+        "C": "El número total de electrones en el átomo.",
+        "D": "Su posición en la tabla periódica.",
+        "E": "La cantidad de isótopos que posee."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "La Regla del Dueto establece que átomos como el hidrógeno buscan la estabilidad al completar su único nivel de energía con dos electrones. Al hacerlo, adquieren la configuración electrónica del gas noble más cercano, que es el Helio ($$1s^2$$), conocido por su gran estabilidad.",
+      "respuesta_correcta": "B",
+      "explicacion": "Los puntos desapareados en un Símbolo de Lewis representan electrones de valencia que están disponibles para formar un enlace covalente al aparearse con un electrón de otro átomo. Por lo tanto, este número es un indicador directo de la capacidad de enlace o 'valencia' del átomo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_010",
-      "pregunta": "En una estructura de Lewis, ¿cómo se representan los pares de electrones compartidos y los pares libres?",
+      "pregunta": "¿Cómo se representan los pares de electrones libres en una estructura de Lewis?",
       "dificultad": 2,
       "opciones": {
-        "A": "Los compartidos con líneas y los libres se omiten.",
-        "B": "Los compartidos con puntos y los libres con líneas.",
-        "C": "Los compartidos con líneas o puntos entre átomos, y los libres como puntos en átomos individuales.",
-        "D": "Ambos tipos se representan siempre con líneas.",
-        "E": "Ambos tipos se representan siempre como puntos en los átomos individuales."
+        "A": "Como líneas que conectan el átomo consigo mismo.",
+        "B": "Generalmente no se representan para simplificar.",
+        "C": "Como puntos en los átomos individuales.",
+        "D": "Con un círculo alrededor del símbolo del átomo.",
+        "E": "Con una flecha que sale del átomo."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Una estructura de Lewis utiliza una notación específica: el par de electrones que forma el enlace covalente (par compartido) se indica con una línea o dos puntos entre los símbolos de los átomos. Los electrones de valencia que no participan en el enlace (pares libres) se muestran como puntos sobre su respectivo átomo.",
+      "explicacion": "Una estructura de Lewis debe mostrar todos los electrones de valencia. Mientras que los pares compartidos se muestran como líneas o puntos entre átomos, los pares de electrones de valencia que no forman parte de un enlace (pares libres o no enlazantes) se muestran como puntos agrupados de dos en dos sobre el símbolo del átomo correspondiente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_011",
-      "pregunta": "Tanto las fuerzas intramoleculares como las intermoleculares son fuerzas de atracción. ¿En qué se distinguen fundamentalmente?",
+      "pregunta": "Las fuerzas intermoleculares actúan entre...",
       "dificultad": 2,
       "opciones": {
-        "A": "Las intramoleculares unen átomos para formar compuestos; las intermoleculares unen partículas individuales de una sustancia.",
-        "B": "Las intramoleculares solo ocurren en sólidos; las intermoleculares solo en líquidos y gases.",
-        "C": "Las intramoleculares son siempre enlaces covalentes; las intermoleculares son siempre iónicas.",
-        "D": "No hay una distinción fundamental, son términos sinónimos.",
-        "E": "Las intramoleculares involucran electrones de valencia; las intermoleculares involucran electrones internos."
+        "A": "Los átomos dentro de un mismo compuesto iónico.",
+        "B": "El núcleo y los electrones de un átomo.",
+        "C": "Los átomos de hidrógeno y oxígeno dentro de una molécula de agua.",
+        "D": "Partículas individuales (átomos, moléculas, iones) de una sustancia.",
+        "E": "Protones y neutrones en el núcleo atómico."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "La distinción clave radica en la escala y la entidad que unen. Las fuerzas intramoleculares son los enlaces químicos (iónicos, covalentes) que mantienen unidos a los átomos para formar una molécula o un compuesto. Las fuerzas intermoleculares son atracciones más débiles que operan entre esas moléculas o partículas ya formadas.",
+      "respuesta_correcta": "D",
+      "explicacion": "La distinción clave es la ubicación de la fuerza. Las fuerzas intramoleculares actúan 'dentro' de una molécula. Las fuerzas intermoleculares, como su prefijo 'inter' indica, actúan 'entre' partículas separadas, ya sean moléculas, átomos o iones, y son responsables de propiedades como los puntos de ebullición y fusión.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_012",
-      "pregunta": "¿Qué tipo de electrones son los únicos que se muestran en una estructura de Lewis?",
+      "pregunta": "¿Qué elemento, además del hidrógeno, es un ejemplo clásico que cumple la Regla del Dueto?",
       "dificultad": 2,
       "opciones": {
-        "A": "Todos los electrones del átomo.",
-        "B": "Solo los electrones del primer nivel de energía.",
-        "C": "Los electrones de valencia.",
-        "D": "Solo los electrones que se transfieren en un enlace iónico.",
-        "E": "Los electrones internos."
+        "A": "Oxígeno",
+        "B": "Carbono",
+        "C": "Helio",
+        "D": "Sodio",
+        "E": "Cloro"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Las estructuras de Lewis se centran exclusivamente en la formación de enlaces, una actividad que solo involucra a los electrones del nivel de energía más externo, es decir, los electrones de valencia. Por esta razón, son los únicos que se representan, simplificando el modelo y enfocándose en la química del enlace.",
+      "explicacion": "El Helio (He) es el gas noble que sirve como modelo para la Regla del Dueto. Ya tiene una capa de valencia completa con dos electrones, lo que lo hace extremadamente estable y no reactivo. El hidrógeno busca alcanzar esta configuración al formar un enlace.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_013",
-      "pregunta": "Si un átomo neutro tiene un Símbolo de Puntos de Lewis con 5 puntos, de los cuales 3 están desapareados, ¿qué se puede inferir sobre su capacidad de enlace?",
+      "pregunta": "Un químico está estudiando las fuerzas que mantienen unidas a varias moléculas de metano ($$CH_4$$) en estado líquido. ¿Qué clasificación general corresponde a las fuerzas que está investigando?",
       "dificultad": 3,
       "opciones": {
-        "A": "El átomo puede formar exactamente 5 enlaces covalentes.",
-        "B": "El átomo tiende a formar 3 enlaces covalentes.",
-        "C": "El átomo tiene un total de 3 electrones y sigue la Regla del Dueto.",
-        "D": "El átomo no puede formar enlaces porque ya tiene un par de electrones.",
-        "E": "El átomo es inestable y perderá sus 5 electrones de valencia."
+        "A": "Enlaces covalentes polares",
+        "B": "Enlaces iónicos",
+        "C": "Fuerzas intramoleculares",
+        "D": "Fuerzas intermoleculares",
+        "E": "Enlaces metálicos"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El número de puntos desapareados en un Símbolo de Lewis corresponde directamente al número de enlaces que un átomo puede formar al compartir esos electrones. Aunque el átomo tiene 5 electrones de valencia en total (un par libre y tres desapareados), su capacidad de enlace está determinada por los 3 electrones desapareados que buscan formar un par.",
+      "respuesta_correcta": "D",
+      "explicacion": "La pregunta se enfoca en las fuerzas *entre* diferentes moléculas de metano, no en los enlaces C-H *dentro* de una sola molécula. Las fuerzas de atracción entre partículas individuales de una sustancia (en este caso, moléculas de metano) se definen como fuerzas intermoleculares. Estas son más débiles que los enlaces covalentes intramoleculares.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_014",
-      "pregunta": "¿Cuál es la diferencia conceptual clave entre un Símbolo de Puntos de Lewis y una estructura de Lewis?",
+      "pregunta": "¿Cuál es la relación lógica entre el Símbolo de Puntos de Lewis de un átomo y la construcción de una Estructura de Lewis para una molécula?",
       "dificultad": 3,
       "opciones": {
-        "A": "El símbolo se usa para átomos y la estructura para iones.",
-        "B": "El símbolo solo usa puntos, mientras que la estructura solo usa líneas.",
-        "C": "El símbolo representa un átomo individual y sus electrones de valencia; la estructura representa una molécula y cómo se comparten los electrones en los enlaces.",
-        "D": "El símbolo es una aproximación, mientras que la estructura es una representación exacta.",
-        "E": "No hay diferencia; son dos nombres para el mismo diagrama."
+        "A": "Son conceptos no relacionados que se usan en contextos diferentes.",
+        "B": "La Estructura de Lewis es una versión obsoleta del Símbolo de Puntos de Lewis.",
+        "C": "El Símbolo de Puntos de Lewis de cada átomo es el bloque de construcción fundamental para ensamblar la Estructura de Lewis de la molécula, mostrando cómo se combinan sus electrones de valencia.",
+        "D": "El Símbolo de Puntos solo muestra electrones, mientras que la Estructura solo muestra los átomos.",
+        "E": "El Símbolo de Puntos se usa para metales y la Estructura para no metales."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Esta pregunta exige diferenciar los dos conceptos. Un Símbolo de Puntos de Lewis se enfoca en un único átomo, mostrando su 'kernel' (símbolo) y sus electrones de valencia. En cambio, una estructura de Lewis es un paso más allá: combina dos o más símbolos de Lewis para mostrar cómo los átomos se unen para formar una molécula, representando explícitamente los enlaces covalentes (pares compartidos) y los pares libres.",
+      "explicacion": "Para dibujar la Estructura de Lewis de una molécula, primero se considera el Símbolo de Puntos de Lewis de cada átomo constituyente. Estos símbolos individuales se combinan, y sus puntos (electrones de valencia) se distribuyen para formar pares enlazantes (enlaces) y pares libres, satisfaciendo la regla del octeto o dueto. Por tanto, el símbolo es el punto de partida para la estructura.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_115_015",
-      "pregunta": "Considerando la jerarquía de fuerzas, ¿qué tipo de fuerza se debe superar para descomponer el agua ($$H_2O$$) en átomos de hidrógeno y oxígeno, en lugar de simplemente hacerla hervir?",
+      "pregunta": "Si romper los enlaces que unen los átomos dentro de una molécula requiere una gran cantidad de energía, mientras que separar esas moléculas unas de otras en un líquido requiere mucha menos energía, ¿qué se puede concluir sobre las fuerzas implicadas?",
       "dificultad": 3,
       "opciones": {
-        "A": "Fuerzas intermoleculares.",
-        "B": "Fuerzas intramoleculares.",
-        "C": "La Regla del Dueto.",
-        "D": "Fuerzas de repulsión nuclear.",
-        "E": "Fuerzas gravitacionales entre moléculas."
+        "A": "Las fuerzas intramoleculares e intermoleculares son de igual magnitud.",
+        "B": "Las fuerzas intramoleculares (enlaces) son significativamente más fuertes que las fuerzas intermoleculares.",
+        "C": "Las fuerzas intermoleculares son mucho más fuertes que los enlaces químicos intramoleculares.",
+        "D": "La energía no está relacionada con la fuerza de los enlaces o interacciones.",
+        "E": "Ambos procesos son gobernados por fuerzas nucleares."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Hacer hervir el agua implica superar las fuerzas intermoleculares que mantienen unidas a las moléculas de $$H_2O$$ en estado líquido. Sin embargo, descomponer la molécula de $$H_2O$$ en sus átomos constituyentes (H y O) requiere romper los enlaces covalentes que unen a los átomos dentro de cada molécula. Estos enlaces son fuerzas intramoleculares, que son mucho más fuertes y requieren significativamente más energía para romperse.",
+      "explicacion": "Esta pregunta de análisis se basa en la definición comparativa de las fuerzas. Romper enlaces *dentro* de la molécula implica superar fuerzas intramoleculares. Separar las moléculas (como en la ebullición) implica superar fuerzas intermoleculares. Dado que el primer proceso requiere mucha más energía, se concluye que las fuerzas intramoleculares son mucho más fuertes que las intermoleculares.",
       "imagen": null
     }
   ]

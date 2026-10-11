@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 20,
+  "total_temas": 320,
+  "titulo_tema": "Dogma Central de la Biología Molecular",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_020_001",
+      "pregunta": "¿Cuál es la función principal del ARN mensajero (ARNm)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Transportar aminoácidos específicos hacia el ribosoma.",
+        "B": "Formar la estructura fundamental de los ribosomas.",
+        "C": "Llevar la información genética transcrita del ADN hacia los ribosomas.",
+        "D": "Copiar el material genético para la división celular.",
+        "E": "Catalizar la unión de los aminoácidos para formar proteínas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ARN mensajero (ARNm) tiene como función principal actuar como un intermediario que lleva el mensaje genético desde el ADN en el núcleo hasta los ribosomas en el citoplasma, donde se realizará la síntesis de proteínas. La opción A describe al ARNt, y la B al ARNr.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_002",
+      "pregunta": "¿Qué postula el Dogma Central de la Biología Molecular sobre el flujo de la información genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La información fluye de las proteínas al ARN y luego al ADN.",
+        "B": "La información se transfiere libremente entre ADN, ARN y proteínas en cualquier dirección.",
+        "C": "La información genética fluye en una sola dirección: del ADN al ARN y luego a las proteínas.",
+        "D": "La información genética se transfiere directamente del ADN a las proteínas sin intermediarios.",
+        "E": "El ARN es la molécula central que puede generar tanto ADN como proteínas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Dogma Central, propuesto por Francis Crick, establece que la información genética fluye de manera unidireccional. Comienza en el ADN, se transcribe a ARN mensajero (ARNm) y, finalmente, se traduce en una secuencia de aminoácidos para formar una proteína.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_003",
+      "pregunta": "En las moléculas de ARN, ¿qué base nitrogenada reemplaza a la timina (T) que se encuentra en el ADN?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Guanina (G)",
+        "B": "Citosina (C)",
+        "C": "Adenina (A)",
+        "D": "Uracilo (U)",
+        "E": "Metionina (M)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una de las diferencias bioquímicas clave entre el ADN y el ARN es la composición de sus bases nitrogenadas. Mientras que el ADN contiene adenina, guanina, citosina y timina, el ARN contiene uracilo en lugar de timina. El uracilo se aparea con la adenina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_004",
+      "pregunta": "¿Cómo se denominan los grupos de tres nucleótidos en el ARNm que son leídos para decodificar la información genética durante la traducción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anticodones",
+        "B": "Genes",
+        "C": "Codones",
+        "D": "Polipéptidos",
+        "E": "Cebadores"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las células decodifican el ARNm leyendo sus nucleótidos en grupos de tres, conocidos como codones. Cada codón especifica un aminoácido particular o una señal de terminación, siguiendo las reglas del código genético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_005",
+      "pregunta": "¿Cuál es la función principal del ARN ribosomal (ARNr)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Transportar aminoácidos al sitio de síntesis proteica.",
+        "B": "Copiar la secuencia de un gen del ADN.",
+        "C": "Ser una sustancia fundamental en la formación de los ribosomas.",
+        "D": "Identificar el codón de inicio en el ARNm.",
+        "E": "Llevar el mensaje genético fuera del núcleo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ARN ribosomal (ARNr) se asocia con proteínas para formar los ribosomas, que son las estructuras donde se lleva a cabo la síntesis de proteínas. Por lo tanto, su función es estructural, conformando la maquinaria para la traducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_006",
+      "pregunta": "¿Cómo logra el ARN de transferencia (ARNt) asegurar la colocación correcta de un aminoácido durante la síntesis de proteínas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Uniéndose permanentemente a la estructura del ribosoma.",
+        "B": "Mediante el apareamiento de su anticodón con el codón complementario del ARNm.",
+        "C": "Sintetizando directamente la secuencia de ARNm a partir del ADN.",
+        "D": "Reconociendo la secuencia de inicio del gen en el ADN.",
+        "E": "Plegándose de una forma que cataliza la formación del enlace peptídico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El ARNt funciona como un adaptador. Por un lado, lleva un aminoácido específico, y por otro, posee una secuencia de tres bases llamada anticodón. Este anticodón reconoce y se une al codón correspondiente en el ARNm, asegurando que el aminoácido correcto se incorpore a la cadena polipeptídica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_007",
+      "pregunta": "¿Qué relación existe entre la secuencia del transcrito primario de ARN y las dos cadenas de ADN del gen del que proviene?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es idéntica a la cadena de ADN molde (no codificante).",
+        "B": "Es complementaria a la cadena de ADN codificante.",
+        "C": "Tiene la misma secuencia de información que la cadena codificante, usando uracilo en lugar de timina.",
+        "D": "Contiene la información de ambas cadenas de ADN combinadas.",
+        "E": "Es una copia inversa y complementaria de la cadena codificante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Durante la transcripción, la cadena no codificante del ADN sirve como molde. La ARN polimerasa sintetiza una cadena de ARN complementaria a este molde. Como resultado, la nueva cadena de ARN tiene una secuencia casi idéntica a la otra cadena de ADN, la codificante, con la única diferencia de que el uracilo (U) reemplaza a la timina (T).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_008",
+      "pregunta": "¿Cuál es el papel fundamental de los ribosomas en el proceso de síntesis de proteínas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Transportar el código genético desde el núcleo.",
+        "B": "Servir como matriz para la correcta unión de los aminoácidos.",
+        "C": "Identificar y transportar los aminoácidos específicos.",
+        "D": "Corregir errores en la secuencia del ARNm.",
+        "E": "Sintetizar las moléculas de ARNt en el nucléolo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los ribosomas, formados por ARNr y proteínas, actúan como el sitio de la síntesis de proteínas. Funcionan como una matriz o plataforma que facilita el encuentro y la correcta alineación del ARNm y las moléculas de ARNt cargadas con aminoácidos, permitiendo la formación de la cadena polipeptídica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_009",
+      "pregunta": "¿Cuál es la diferencia principal entre los procesos de transcripción y traducción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La transcripción ocurre en el citoplasma y la traducción en el núcleo.",
+        "B": "La transcripción sintetiza ARN a partir de ADN, mientras que la traducción sintetiza proteínas a partir de ARN.",
+        "C": "La transcripción utiliza ribosomas y la traducción utiliza ARN polimerasa.",
+        "D": "La transcripción produce una doble hélice, mientras que la traducción produce una cadena simple.",
+        "E": "La transcripción es el paso final en la expresión génica, y la traducción es el primero."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La transcripción es el proceso de 'reescribir' la información genética de un gen de ADN a una molécula de ARNm. La traducción es el proceso de 'traducir' la secuencia de nucleótidos del ARNm a una secuencia de aminoácidos, formando una proteína. Son dos etapas secuenciales y distintas en la expresión génica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_010",
+      "pregunta": "Además de marcar el inicio de la síntesis de una proteína, ¿qué otra función cumple el codón de inicio AUG?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Codifica para el aminoácido leucina.",
+        "B": "Marca el punto final de la traducción.",
+        "C": "Codifica para el aminoácido metionina.",
+        "D": "Indica a la célula que debe replicar el ADN.",
+        "E": "Señala el sitio de unión para la ARN polimerasa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El codón AUG tiene una doble función en la traducción. Es la señal de inicio que indica al ribosoma dónde comenzar a sintetizar la proteína, y también codifica para el aminoácido metionina. Por lo tanto, la mayoría de las proteínas comienzan con metionina (aunque a veces se elimina posteriormente).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_011",
+      "pregunta": "Durante la replicación del ADN, una de las cadenas se sintetiza de forma discontinua en pequeños fragmentos. ¿Qué enzima es necesaria para unir estos fragmentos, conocidos como fragmentos de Okazaki?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "ARN polimerasa",
+        "B": "ADN helicasa",
+        "C": "Topoisomerasa",
+        "D": "ADN ligasa",
+        "E": "ADN primasa"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la replicación, la cadena rezagada se sintetiza en pequeños segmentos llamados fragmentos de Okazaki. La enzima ADN ligasa es la responsable de unir estos fragmentos, creando un enlace fosfodiéster para formar una cadena de ADN continua y completa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_012",
+      "pregunta": "¿Qué significa que el código genético sea \"universal\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que cada aminoácido es codificado por un único codón.",
+        "B": "Que solo se utiliza en organismos eucariontes complejos.",
+        "C": "Que, con pequeñas excepciones, prácticamente todas las especies utilizan las mismas relaciones codón-aminoácido.",
+        "D": "Que el código genético puede cambiar y adaptarse a cada especie individual.",
+        "E": "Que el código genético se lee en ambas direcciones (5' a 3' y 3' a 5')."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La universalidad del código genético es una característica fundamental que indica que el mismo codón especifica el mismo aminoácido en la gran mayoría de los organismos, desde bacterias hasta humanos. Esto sugiere un ancestro evolutivo común para toda la vida en la Tierra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_013",
+      "pregunta": "¿Cuál es la secuencia correcta de eventos principales durante la expresión de un gen para producir una proteína?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Traducción del ADN en ARNm, seguido de la transcripción en una proteína.",
+        "B": "La cadena de ADN no codificante actúa como molde para la ARN polimerasa, el ARNm viaja al ribosoma, y el ARNt une su anticodón al codón del ARNm para añadir un aminoácido.",
+        "C": "El ARNt lee el ADN directamente, transporta el mensaje al ribosoma donde el ARNm ensambla los aminoácidos.",
+        "D": "Replicación del ADN para crear una copia, que luego es leída por el ribosoma para formar el ARNm y la proteína simultáneamente.",
+        "E": "El ribosoma se une al ADN, transcribe una sección a proteína, y luego el ARNm transporta la proteína fuera del núcleo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta opción describe correctamente el flujo de información y los roles de cada molécula. Primero, la transcripción ocurre usando el ADN como molde para crear ARNm. Luego, el ARNm maduro va al ribosoma. Finalmente, durante la traducción, el ARNt reconoce los codones en el ARNm y entrega los aminoácidos correspondientes para construir la proteína. Las otras opciones confunden los procesos, sus ubicaciones o las funciones de las moléculas implicadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_014",
+      "pregunta": "¿Cuál es la consecuencia directa de la interacción específica entre un codón en el ARNm y un anticodón en el ARNt dentro del ribosoma?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Asegura que el ADN se replique sin errores.",
+        "B": "Determina el plegamiento tridimensional final de la proteína.",
+        "C": "Garantiza que el aminoácido correcto sea añadido a la cadena polipeptídica en crecimiento.",
+        "D": "Causa la terminación inmediata de la síntesis de proteínas.",
+        "E": "Inicia el proceso de transcripción en el núcleo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unión codón-anticodón es el mecanismo central de la traducción del código genético. Cada ARNt está cargado con un aminoácido específico que corresponde a su anticodón. El apareamiento preciso entre el codón del ARNm y el anticodón del ARNt en el ribosoma es lo que asegura que la secuencia de aminoácidos en la proteína sea la correcta, según las instrucciones del gen original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_020_015",
+      "pregunta": "La hipótesis inicial del Dogma Central, según lo expuesto por Crick, no permitía la transferencia de información desde una proteína, pero no impedía otro flujo de información que fue demostrado posteriormente. ¿Cuál de los siguientes procesos representa esa transferencia no impedida por la hipótesis original?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Transferencia de información de proteína a proteína.",
+        "B": "Transferencia de información de proteína a ARN.",
+        "C": "Síntesis de una secuencia de ADN a partir de una secuencia de ARN.",
+        "D": "Síntesis de ARN directamente a partir de otra molécula de ARN.",
+        "E": "Traducción directa de la información del ADN a una proteína sin ARNm."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El texto menciona explícitamente que la hipótesis inicial de Crick no impedía que se sintetizara una secuencia de ADN a partir de una secuencia de ARN. Este proceso, conocido como transcripción inversa, fue demostrado más tarde y es una excepción al flujo más común de ADN a ARN. Las transferencias de información desde proteínas (opciones A y B) fueron explícitamente prohibidas por el dogma.",
+      "imagen": null
+    }
+  ]
+}

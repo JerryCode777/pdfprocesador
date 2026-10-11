@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 123,
+  "total_temas": 137,
+  "titulo_tema": "Asociación de resistencias (serie y paralelo)",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_123_001",
+      "pregunta": "¿Qué característica define a una conexión de resistencias en serie?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Proporciona varias trayectorias para el flujo de electrones.",
+        "B": "El voltaje es el mismo en cada resistencia.",
+        "C": "Forma una sola trayectoria para el flujo de los electrones.",
+        "D": "La corriente se divide entre las diferentes resistencias.",
+        "E": "La resistencia equivalente siempre es menor que la resistencia más pequeña."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una conexión en serie se caracteriza porque los componentes se conectan uno a continuación del otro, formando un único camino o trayectoria para el flujo de la corriente eléctrica. Las opciones A, D y E describen características de una conexión en paralelo, mientras que la opción B es incorrecta para una conexión en serie, ya que el voltaje se divide.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_002",
+      "pregunta": "¿Cómo se comporta la intensidad de corriente en un circuito con resistencias conectadas en serie?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La corriente es diferente en cada resistencia.",
+        "B": "La corriente total es la suma de las corrientes individuales.",
+        "C": "La misma intensidad de corriente pasa a través de cada resistencia.",
+        "D": "La corriente es mayor en la primera resistencia y disminuye en las siguientes.",
+        "E": "La corriente es cero en todas las resistencias."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una conexión en serie, al existir una única trayectoria, la cantidad de carga que fluye por unidad de tiempo (corriente) debe ser la misma en todos los puntos del circuito. Por lo tanto, la intensidad de corriente es constante y la misma a través de cada una de las resistencias. Matemáticamente, se expresa como $$I = I_1 = I_2 = I_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_003",
+      "pregunta": "¿Cuál es la fórmula para calcular la resistencia equivalente ($R_{eq}$) de tres resistencias ($R_1, R_2, R_3$) conectadas en serie?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R_{eq} = R_1 + R_2 + R_3$$",
+        "B": "$$\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}$$",
+        "C": "$$R_{eq} = R_1 = R_2 = R_3$$",
+        "D": "$$R_{eq} = \\frac{R_1 + R_2 + R_3}{3}$$",
+        "E": "$$R_{eq} = (R_1 \\cdot R_2 \\cdot R_3)^{\\frac{1}{3}}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La resistencia equivalente en una conexión en serie es la suma numérica de las resistencias individuales. Esta resistencia total tiene el mismo efecto en el circuito que la combinación de todas las resistencias. La fórmula correcta es $$R_{eq} = R_1 + R_2 + R_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_004",
+      "pregunta": "¿Qué característica principal describe una conexión de resistencias en paralelo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las resistencias se conectan una a continuación de otra en un solo lazo.",
+        "B": "La corriente que pasa por cada resistencia es idéntica.",
+        "C": "El circuito se ramifica en varias trayectorias para el flujo de electrones.",
+        "D": "El voltaje total se divide equitativamente entre todas las resistencias.",
+        "E": "La resistencia equivalente es la suma de las resistencias individuales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una conexión en paralelo se define por la presencia de múltiples caminos o ramificaciones para el flujo de la corriente eléctrica. Cada resistencia está conectada a los mismos dos puntos del circuito, permitiendo que la corriente se divida entre ellas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_005",
+      "pregunta": "¿Cómo se comporta la diferencia de potencial o voltaje en un circuito con resistencias conectadas en paralelo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El voltaje total es la suma de los voltajes en cada resistencia.",
+        "B": "El voltaje es mayor en la resistencia de menor valor.",
+        "C": "El voltaje se divide proporcionalmente al valor de cada resistencia.",
+        "D": "El voltaje es el mismo para todos los componentes.",
+        "E": "El voltaje es cero en todas las resistencias."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una propiedad fundamental de la conexión en paralelo es que cada componente conectado de esta forma está sometido a la misma diferencia de potencial o voltaje. Esto se debe a que los extremos de todas las resistencias están conectados a los mismos dos puntos comunes del circuito. Se expresa como $$V = V_1 = V_2 = V_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_006",
+      "pregunta": "En una conexión de resistencias en serie, ¿cómo se relaciona la resistencia equivalente ($R_{eq}$) con las resistencias individuales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistencia equivalente es siempre menor que la resistencia más pequeña.",
+        "B": "La resistencia equivalente es siempre igual a la resistencia más pequeña.",
+        "C": "La resistencia equivalente es siempre mayor que cualquier resistencia individual.",
+        "D": "La resistencia equivalente es el promedio de las resistencias individuales.",
+        "E": "La resistencia equivalente es siempre igual a la resistencia más grande."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Debido a que la resistencia equivalente en serie se calcula como la suma de las resistencias individuales ($$R_{eq} = R_1 + R_2 + R_3 + ...$$), el resultado siempre será un valor mayor que el de la resistencia individual más grande en la combinación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_007",
+      "pregunta": "Si un voltaje total $V$ se aplica a una combinación de resistencias en serie, ¿cómo se distribuye este voltaje entre ellas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cada resistencia recibe el mismo voltaje $V$.",
+        "B": "El voltaje se divide, y la suma de los voltajes individuales ($V_1, V_2, ...$) es igual al voltaje total $V$.",
+        "C": "Solo la primera resistencia recibe el voltaje total $V$.",
+        "D": "El voltaje en cada resistencia es inversamente proporcional a su resistencia.",
+        "E": "El voltaje es cero en todas las resistencias excepto en la última."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una conexión en serie, la diferencia de potencial total aplicada a la combinación se reparte o divide entre los distintos resistores. La suma de las caídas de potencial individuales a través de cada resistor es igual al voltaje total suministrado. La fórmula que lo describe es $$V = V_1 + V_2 + V_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_008",
+      "pregunta": "¿Cuál es el comportamiento de la corriente total ($I$) en una conexión de resistencias en paralelo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La corriente total es igual a la corriente que pasa por la resistencia más pequeña.",
+        "B": "La corriente total es la misma a través de cada resistor.",
+        "C": "La corriente total es la suma de las corrientes individuales que pasan por cada resistor.",
+        "D": "La corriente total es cero porque se cancela en las ramificaciones.",
+        "E": "La corriente total es igual a la corriente que pasa por la resistencia más grande."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un circuito en paralelo, la corriente total que sale de la fuente se divide en las diferentes ramificaciones. Cada rama con su resistencia recibe una parte de la corriente total. La suma de todas estas corrientes individuales es igual a la corriente total del circuito, lo cual se expresa como $$I = I_1 + I_2 + I_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_009",
+      "pregunta": "En una conexión de resistencias en paralelo, ¿cómo se compara la resistencia equivalente ($R_{eq}$) con las resistencias individuales del grupo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es siempre mayor que la resistencia más grande del grupo.",
+        "B": "Es siempre igual al promedio de todas las resistencias.",
+        "C": "Es siempre la suma de todas las resistencias.",
+        "D": "Es siempre menor que la resistencia más pequeña en el grupo.",
+        "E": "Es siempre igual a la resistencia más grande del grupo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una característica clave de la conexión en paralelo es que al agregar más caminos para la corriente, la resistencia total del circuito disminuye. La resistencia equivalente de un conjunto de resistores en paralelo siempre será menor que el valor de la resistencia individual más pequeña de dicho conjunto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_010",
+      "pregunta": "La disposición de resistencias \"una a continuación de otra a modo de eslabones de una cadena\" corresponde a una conexión:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En paralelo",
+        "B": "Mixta",
+        "C": "En serie",
+        "D": "En cortocircuito",
+        "E": "Abierta"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La analogía de los \"eslabones de una cadena\" describe perfectamente la conexión en serie, donde cada componente se conecta secuencialmente, uno después del otro, formando una única trayectoria para la corriente, similar a cómo se unen los eslabones para formar una cadena.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_011",
+      "pregunta": "¿Qué principio de conexión se utiliza en los faros de un automóvil para asegurar que si uno se funde, el otro siga funcionando?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Conexión en serie, para mantener la corriente constante.",
+        "B": "Conexión en paralelo, para que cada faro sea independiente.",
+        "C": "Conexión mixta, para equilibrar voltaje y corriente.",
+        "D": "Conexión en serie, para que ambos reciban la mitad del voltaje.",
+        "E": "Conexión en paralelo, para que la resistencia total aumente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los faros de un automóvil se conectan en paralelo. Esto asegura que cada faro reciba el voltaje completo de la batería y, lo más importante, que el circuito de cada faro sea independiente del otro. Si un faro se funde (interrumpiendo su rama del circuito), el otro puede seguir funcionando sin problemas porque su trayectoria para la corriente permanece completa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_012",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa correctamente el cálculo de la resistencia equivalente ($R_{eq}$) para una conexión en paralelo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$R_{eq} = R_1 + R_2 + R_3$$",
+        "B": "$$\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}$$",
+        "C": "$$R_{eq} = V \\cdot I$$",
+        "D": "$$R_{eq} = \\frac{R_1 R_2 R_3}{R_1 + R_2 + R_3}$$",
+        "E": "$$R_{eq} = R_1 = R_2 = R_3$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para una conexión en paralelo, el inverso de la resistencia equivalente es igual a la suma de los inversos de las resistencias individuales. Esta fórmula refleja cómo al añadir más caminos en paralelo, la resistencia total disminuye. La opción A corresponde a la conexión en serie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_013",
+      "pregunta": "Si se tienen $n$ resistencias idénticas, cada una con un valor de resistencia $R$, y se conectan en paralelo, ¿cuál es la fórmula para su resistencia equivalente ($R_{eq}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$R_{eq} = n \\cdot R$$",
+        "B": "$$R_{eq} = R^n$$",
+        "C": "$$R_{eq} = R$$",
+        "D": "$$R_{eq} = \\frac{n}{R}$$",
+        "E": "$$R_{eq} = \\frac{R}{n}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Este es un caso especial de la conexión en paralelo. Usando la fórmula general: $$\\frac{1}{R_{eq}} = \\frac{1}{R} + \\frac{1}{R} + ... (n \\text{ veces}) = \\frac{n}{R}$$. Al despejar $R_{eq}$, se obtiene $$R_{eq} = \\frac{R}{n}$$. Esto muestra que la resistencia equivalente disminuye a medida que se agregan más resistencias idénticas en paralelo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_014",
+      "pregunta": "Un circuito tiene tres resistencias en serie: $R_1=5\\Omega$, $R_2=10\\Omega$ y $R_3=15\\Omega$. ¿Qué se puede afirmar con certeza sobre la resistencia equivalente ($R_{eq}$) del circuito?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$R_{eq}$ es menor que $5\\Omega$.",
+        "B": "$R_{eq}$ es igual a $15\\Omega$.",
+        "C": "$R_{eq}$ es mayor que $15\\Omega$.",
+        "D": "$R_{eq}$ es igual a $10\\Omega$.",
+        "E": "$R_{eq}$ es igual a la suma de los inversos de las resistencias."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una conexión en serie, la resistencia equivalente es siempre mayor que cualquier resistencia individual, ya que se obtiene sumándolas. En este caso, $$R_{eq} = R_1 + R_2 + R_3 = 5\\Omega + 10\\Omega + 15\\Omega = 30\\Omega$$. El valor de $30\\Omega$ es, efectivamente, mayor que la resistencia más grande, que es $15\\Omega$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_123_015",
+      "pregunta": "Considere un circuito con dos resistencias en paralelo, $R_A = 20\\Omega$ y $R_B = 60\\Omega$. ¿Qué se puede predecir sobre la resistencia equivalente ($R_{eq}$) sin realizar el cálculo completo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$R_{eq}$ será mayor que $60\\Omega$.",
+        "B": "$R_{eq}$ estará entre $20\\Omega$ y $60\\Omega$.",
+        "C": "$R_{eq}$ será igual a $80\\Omega$.",
+        "D": "$R_{eq}$ será menor que $20\\Omega$.",
+        "E": "$R_{eq}$ será igual al promedio, $40\\Omega$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una propiedad fundamental de las resistencias en paralelo es que la resistencia equivalente total siempre es menor que la más pequeña de las resistencias individuales en el grupo. En este caso, la resistencia más pequeña es $R_A = 20\\Omega$. Por lo tanto, se puede afirmar con certeza que $R_{eq}$ será menor que $20\\Omega$, incluso antes de calcular el valor exacto ($$R_{eq} = 15\\Omega$$).",
+      "imagen": null
+    }
+  ]
+}

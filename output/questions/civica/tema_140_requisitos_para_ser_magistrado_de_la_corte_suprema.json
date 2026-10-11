@@ -1,0 +1,233 @@
+{
+  "materia": "civica",
+  "numero_tema": 140,
+  "total_temas": 252,
+  "titulo_tema": "Requisitos para ser magistrado de la Corte Suprema",
+  "preguntas": [
+    {
+      "id_temporal": "civica_140_001",
+      "pregunta": "¿Cuál es el órgano de mayor jerarquía dentro del Poder Judicial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El Tribunal Constitucional",
+        "B": "La Corte Superior de Justicia",
+        "C": "La Corte Suprema de Justicia",
+        "D": "El Consejo Nacional de la Magistratura",
+        "E": "La Fiscalía de la Nación"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Corte Suprema de Justicia es el máximo órgano jurisdiccional del Poder Judicial, encargada de impartir justicia en última instancia. Las otras opciones corresponden a otros organismos constitucionales autónomos o a instancias judiciales de menor jerarquía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_002",
+      "pregunta": "Para ser magistrado de la Corte Suprema, se requiere ser peruano de...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "nacimiento.",
+        "B": "padres peruanos.",
+        "C": "residencia continua por 20 años.",
+        "D": "elección popular.",
+        "E": "nacionalización."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Uno de los requisitos fundamentales e inalterables para aspirar al cargo de magistrado de la Corte Suprema es haber nacido en territorio peruano, es decir, ser peruano de nacimiento. La nacionalización o la ascendencia no son suficientes para cumplir con esta exigencia constitucional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_003",
+      "pregunta": "¿Cuál es la edad mínima, representada por la variable $E$, para ser nombrado magistrado de la Corte Suprema?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E \\geq 40$$",
+        "B": "$$E > 45$$",
+        "C": "$$E = 45$$",
+        "D": "$$E > 40$$",
+        "E": "$$E \\geq 50$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La normativa establece que un candidato a magistrado de la Corte Suprema debe ser mayor de cuarenta y cinco años. Matemáticamente, esto se expresa como una edad $E$ que debe ser estrictamente mayor que 45, es decir, $E > 45$. Cumplir 45 años no es suficiente; se debe tener más de esa edad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_004",
+      "pregunta": "El Presidente de la Corte Suprema, quien también es el jefe del Poder Judicial, es elegido para un periodo de...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "un año.",
+        "B": "dos años.",
+        "C": "tres años.",
+        "D": "cuatro años.",
+        "E": "cinco años."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El mandato del Presidente de la Corte Suprema tiene una duración establecida de dos años. Este periodo fijo permite una rotación en la máxima dirigencia del Poder Judicial, sin posibilidad de reelección inmediata para el cargo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_005",
+      "pregunta": "Un abogado que aspira a ser magistrado de la Corte Suprema debe haber ejercido la abogacía o la docencia universitaria en materia jurídica por un mínimo de...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "cinco años.",
+        "B": "diez años.",
+        "C": "quince años.",
+        "D": "veinte años.",
+        "E": "doce años."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para los profesionales del derecho que no provienen de la carrera judicial, se exige una trayectoria profesional o académica de al menos quince años, ya sea en el ejercicio libre de la abogacía o como docente universitario en disciplinas jurídicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_006",
+      "pregunta": "¿Quiénes son los responsables de elegir al Presidente de la Corte Suprema de Justicia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Congreso de la República",
+        "B": "El Presidente de la República",
+        "C": "Los Jueces Supremos Titulares en sesión de Sala Plena",
+        "D": "Todos los jueces del Poder Judicial mediante voto universal",
+        "E": "Una comisión especial nombrada por el Poder Ejecutivo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La elección del máximo representante del Poder Judicial es un proceso interno. Son los Jueces Supremos Titulares, es decir, los miembros de pleno derecho de la Corte Suprema, quienes se reúnen en Sala Plena y eligen a su presidente mediante votación secreta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_007",
+      "pregunta": "¿Cuál es la composición principal de la Corte Suprema de Justicia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente por Jueces Supremos Titulares",
+        "B": "Por jueces de todas las instancias judiciales",
+        "C": "Por vocales supremos titulares y vocales supremos provisionales",
+        "D": "Por magistrados y fiscales supremos",
+        "E": "Por un presidente y cuatro vocales"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura de la Corte Suprema de Justicia incluye dos tipos de miembros: los vocales supremos titulares, que son los magistrados nombrados de forma permanente, y los vocales supremos provisionales, que son designados para cubrir vacantes de manera temporal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_008",
+      "pregunta": "Si un Juez Superior Titular aspira a ser magistrado de la Corte Suprema, ¿cuántos años como mínimo debe haber ejercido ese cargo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "5 años",
+        "B": "15 años",
+        "C": "No hay un requisito de años, solo de cargo",
+        "D": "12 años",
+        "E": "10 años"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para los magistrados que provienen de la carrera judicial, el requisito de experiencia es haber desempeñado el cargo de Juez Superior Titular o Fiscal del mismo nivel durante un periodo mínimo de diez años. Este requisito es diferente al exigido para abogados o docentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_009",
+      "pregunta": "¿Qué mecanismo se utiliza para garantizar la libre decisión en la elección del Presidente de la Corte Suprema?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Votación a mano alzada",
+        "B": "Aclamación pública",
+        "C": "Designación directa del presidente saliente",
+        "D": "Votación secreta",
+        "E": "Consenso unánime obligatorio"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El proceso de elección del Presidente de la Corte Suprema se realiza mediante votación secreta. Este método asegura que cada Juez Supremo Titular pueda emitir su voto de manera libre y sin presiones externas o internas, fortaleciendo la independencia del Poder Judicial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_010",
+      "pregunta": "Un Fiscal Superior Titular con $A$ años de experiencia aspira a ser magistrado supremo. ¿Qué condición debe cumplir $A$ para que el requisito de experiencia sea válido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$A > 15$$",
+        "B": "$$A = 10$$",
+        "C": "$$A \\leq 10$$",
+        "D": "$$A \\geq 10$$",
+        "E": "$$A < 15$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La normativa equipara la experiencia de un Juez Superior Titular con la de un Fiscal del mismo nivel. Por lo tanto, un Fiscal Superior Titular debe haber ejercido su cargo por un periodo mínimo de diez años. Matemáticamente, esto se representa como $A \\geq 10$, donde $A$ son los años de experiencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_011",
+      "pregunta": "Al ser elegido por sus pares, el Presidente de la Corte Suprema ostenta la máxima jefatura de ¿qué poder del Estado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Poder Ejecutivo",
+        "B": "Poder Legislativo",
+        "C": "Poder Judicial",
+        "D": "Poder Electoral",
+        "E": "Consejo de Ministros"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Presidente de la Corte Suprema de Justicia no solo preside el máximo tribunal, sino que también asume la jefatura de todo el Poder Judicial. Esta posición lo convierte en el máximo representante de uno de los tres poderes clásicos del Estado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_012",
+      "pregunta": "Comparando las vías de acceso a la Corte Suprema, ¿cuál es la diferencia en años de experiencia requerida entre un Juez Superior y un abogado o docente universitario?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Juez Superior necesita 5 años más.",
+        "B": "El abogado o docente necesita 5 años más.",
+        "C": "Ambos necesitan 10 años.",
+        "D": "Ambos necesitan 15 años.",
+        "E": "El abogado o docente necesita 10 años menos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Existe una diferencia en el tiempo de experiencia exigido según la procedencia del candidato. Un Juez Superior Titular requiere un mínimo de 10 años en el cargo, mientras que un abogado en ejercicio o un docente universitario necesita acreditar 15 años. La diferencia es, por tanto, de 5 años adicionales para estos últimos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_013",
+      "pregunta": "Un ciudadano peruano de nacimiento, de 50 años, ha sido Juez Superior Titular durante 8 años y previamente ejerció la abogacía durante 7 años. ¿Por qué no cumple los requisitos para ser magistrado de la Corte Suprema?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque no es mayor de 45 años.",
+        "B": "Porque no es peruano de nacimiento.",
+        "C": "Porque la experiencia como juez es insuficiente y no se puede sumar a la de abogado.",
+        "D": "Porque la suma de sus experiencias ($$8+7=15$$) es válida.",
+        "E": "Porque necesitaba 15 años como Juez Superior."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque cumple los requisitos de nacionalidad y edad, el candidato no satisface el requisito de experiencia. La normativa establece dos caminos excluyentes: o se tienen al menos 10 años como Juez Superior, o al menos 15 años como abogado/docente. El candidato no cumple ninguna de las dos condiciones por separado (tiene 8 años de juez y 7 de abogado), y la ley no permite sumar los tiempos de ambas vías.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_014",
+      "pregunta": "Una abogada de 46 años, peruana de nacimiento, ha sido docente universitaria en materia jurídica por un tiempo $T_{docencia} = 16$ años. ¿Cuál de las siguientes afirmaciones sobre su elegibilidad es correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "No es elegible porque necesita 10 años como Juez.",
+        "B": "No es elegible porque su edad es menor a 50 años.",
+        "C": "Es elegible porque cumple todos los requisitos: nacionalidad, edad ($$46 > 45$$) y experiencia ($$16 \\geq 15$$).",
+        "D": "No es elegible porque la docencia universitaria no es una vía válida.",
+        "E": "Es elegible, pero solo si también ha ejercido la abogacía por 15 años."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La candidata es plenamente elegible. Cumple el requisito de ser peruana de nacimiento. Su edad es de 46 años, que es mayor a los 45 años requeridos. Finalmente, su experiencia como docente universitaria es de 16 años, superando el mínimo de 15 años exigido para esa vía de acceso. No necesita cumplir con los requisitos de la otra vía (ser juez).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_140_015",
+      "pregunta": "El hecho de que el Presidente de la Corte Suprema sea elegido por los propios Jueces Supremos Titulares en Sala Plena refuerza principalmente el principio de:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Dependencia del Poder Ejecutivo.",
+        "B": "Autonomía y autogobierno del Poder Judicial.",
+        "C": "Supremacía del Poder Legislativo.",
+        "D": "Participación ciudadana directa.",
+        "E": "Jerarquía administrativa sobre la jurisdiccional."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este método de elección interna, donde los miembros de más alto rango de un poder del Estado eligen a su propio líder, es una manifestación clara del principio de autonomía y autogobierno. Asegura que la dirección del Poder Judicial no sea impuesta por otros poderes (Ejecutivo o Legislativo), salvaguardando su independencia, un pilar fundamental en una democracia.",
+      "imagen": null
+    }
+  ]
+}

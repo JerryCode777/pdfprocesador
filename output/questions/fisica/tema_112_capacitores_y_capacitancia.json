@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 112,
+  "total_temas": 137,
+  "titulo_tema": "Capacitores y Capacitancia",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_112_001",
+      "pregunta": "¿Cuál es la función principal de un capacitor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Generar un campo magnético constante.",
+        "B": "Aumentar la resistencia en un circuito.",
+        "C": "Almacenar energía potencial eléctrica y carga eléctrica.",
+        "D": "Convertir corriente alterna en corriente directa.",
+        "E": "Medir la diferencia de potencial entre dos puntos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un capacitor es un dispositivo electrónico cuya función fundamental es almacenar energía en forma de campo eléctrico, lo que equivale a almacenar energía potencial eléctrica y carga eléctrica en sus conductores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_002",
+      "pregunta": "¿Cuál es la unidad de la capacitancia en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Volt (V)",
+        "B": "Coulomb (C)",
+        "C": "Farad (F)",
+        "D": "Ohm (Ω)",
+        "E": "Joule (J)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad de medida para la capacitancia en el Sistema Internacional es el farad (F). Se define como un coulomb por voltio ($$1 C/V$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_003",
+      "pregunta": "¿Cómo está constituido el capacitor o condensador más sencillo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Por una sola placa conductora.",
+        "B": "Por dos alambres enrollados entre sí.",
+        "C": "Por un par de placas conductoras separadas por un aislante o vacío.",
+        "D": "Por un material semiconductor y un aislante.",
+        "E": "Por un núcleo de hierro y un bobinado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El tipo de capacitor más simple y fundamental es el de placas paralelas, que consiste en dos placas conductoras situadas una frente a la otra y separadas por un material dieléctrico (aislante) o por el vacío.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_004",
+      "pregunta": "En el símbolo de un capacitor, ¿qué representan las líneas verticales (rectas o curvas)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La dirección del campo eléctrico.",
+        "B": "Los conductores que almacenan la carga.",
+        "C": "El material aislante entre las placas.",
+        "D": "Los alambres que lo conectan al circuito.",
+        "E": "La fuente de voltaje."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la simbología estándar de los capacitores, las líneas verticales, ya sean rectas o una recta y una curva, representan los dos conductores o placas donde se almacena la carga eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_005",
+      "pregunta": "Según la relación entre campo eléctrico y potencial, $$V_{AB} = E \\cdot d$$, ¿cuál es la unidad derivada para el campo eléctrico $E$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Coulomb por metro ($$C/m$$)",
+        "B": "Farad por metro ($$F/m$$)",
+        "C": "Voltio por metro ($$V/m$$)",
+        "D": "Joule por Coulomb ($$J/C$$)",
+        "E": "Metro por voltio ($$m/V$$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Despejando el campo eléctrico $E$ de la fórmula $$V_{AB} = E \\cdot d$$, obtenemos $$E = V_{AB} / d$$. Si la diferencia de potencial $V_{AB}$ se mide en voltios (V) y la distancia $d$ en metros (m), la unidad para el campo eléctrico es voltio por metro ($$V/m$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_006",
+      "pregunta": "¿Mediante qué fórmula se define la capacitancia $C$ de un capacitor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C = Q \\cdot V_{AB}$$",
+        "B": "$$C = V_{AB} / Q$$",
+        "C": "$$C = Q / V_{AB}$$",
+        "D": "$$C = E \\cdot d$$",
+        "E": "$$C = Q^2 / V_{AB}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacitancia $C$ se define como la razón de la magnitud de la carga $Q$ en cualquiera de los conductores a la magnitud de la diferencia de potencial $V_{AB}$ entre ellos. La fórmula que representa esta definición es $$C = Q / V_{AB}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_007",
+      "pregunta": "¿Cuál es la característica principal de la carga eléctrica en una conexión de capacitores en serie?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga total es la suma de las cargas individuales.",
+        "B": "La carga en cada capacitor es proporcional a su capacitancia.",
+        "C": "La magnitud de la carga en todos los capacitores es la misma.",
+        "D": "El primer capacitor tiene más carga que el último.",
+        "E": "La carga en todos los capacitores es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una conexión en serie, los capacitores están conectados uno tras otro en una única trayectoria. Esto obliga a que la magnitud de la carga $q$ que se acumula en cada capacitor sea idéntica ($$q = q_1 = q_2 = q_3$$...).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_008",
+      "pregunta": "¿Cómo se describe la distribución de carga en los dos conductores de un capacitor una vez que se ha almacenado energía en él?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos conductores tienen una carga neta positiva.",
+        "B": "Uno tiene carga positiva ($$+Q$$) y el otro una cantidad igual de carga positiva ($$+Q$$).",
+        "C": "Uno tiene carga positiva ($$+Q$$) y el otro una cantidad igual de carga negativa ($$-Q$$).",
+        "D": "Ambos conductores tienen una carga neta negativa.",
+        "E": "Uno de los conductores está cargado y el otro permanece neutro."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El proceso de almacenar energía en un capacitor implica transferir carga de un conductor a otro. Esto resulta en una separación de cargas, donde un conductor acumula una carga positiva ($$+Q$$) y el otro una carga negativa de igual magnitud ($$-Q$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_009",
+      "pregunta": "La definición de un farad (F) es equivalente a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un joule por voltio ($$1 J/V$$)",
+        "B": "Un voltio por coulomb ($$1 V/C$$)",
+        "C": "Un coulomb por segundo ($$1 C/s$$)",
+        "D": "Un coulomb por voltio ($$1 C/V$$)",
+        "E": "Un voltio por metro ($$1 V/m$$)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La capacitancia se define como $$C = Q/V_{AB}$$. Si la carga $Q$ se mide en coulombs (C) y la diferencia de potencial $V_{AB}$ en voltios (V), entonces la capacitancia $C$ se mide en farads (F). Por lo tanto, $$1 F = 1 C/V$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_010",
+      "pregunta": "Según su definición, ¿por qué la capacitancia $C$ es siempre una cantidad positiva?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la carga eléctrica $Q$ siempre es positiva.",
+        "B": "Porque es la razón de las magnitudes de la carga y la diferencia de potencial, las cuales se toman como positivas.",
+        "C": "Porque el trabajo realizado para cargar el capacitor siempre es positivo.",
+        "D": "Porque la energía potencial eléctrica no puede ser negativa.",
+        "E": "Porque el campo eléctrico $E$ apunta en la dirección positiva."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La capacitancia se define como $$C = Q / V_{AB}$$. En esta fórmula, $Q$ es la magnitud de la carga en un conductor y $V_{AB}$ es la magnitud de la diferencia de potencial. Dado que las magnitudes son siempre valores positivos, el resultado de su división también es siempre positivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_011",
+      "pregunta": "¿Qué ocurre con las diferencias de potencial individuales en una conexión de capacitores en serie?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son siempre iguales entre sí.",
+        "B": "Son todas nulas.",
+        "C": "Su suma es siempre cero.",
+        "D": "La primera es siempre la mayor.",
+        "E": "No son las mismas (generalmente)."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En un circuito en serie, aunque la carga es la misma en todos los capacitores, la diferencia de potencial a través de cada uno depende de su capacitancia individual ($$V = Q/C$$). A menos que todos los capacitores tengan la misma capacitancia, sus diferencias de potencial individuales no serán las mismas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_012",
+      "pregunta": "¿Cómo se almacena la energía en un capacitor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como energía cinética en los electrones que fluyen.",
+        "B": "Como energía química en el material aislante.",
+        "C": "Como energía térmica debido a la resistencia de las placas.",
+        "D": "Como energía potencial eléctrica a partir del trabajo efectuado para trasladar las cargas.",
+        "E": "Como energía magnética generada por las cargas estáticas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para cargar un capacitor, se debe realizar trabajo para mover las cargas de un conductor a otro en contra de las fuerzas eléctricas. Este trabajo se almacena en el dispositivo como energía potencial eléctrica, la cual puede ser liberada posteriormente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_013",
+      "pregunta": "En una región con un campo eléctrico uniforme $E$, la diferencia de potencial entre dos puntos A y B es $V_{AB}$. Si la distancia $d$ entre estos puntos se reduce a la mitad sin cambiar el campo eléctrico, ¿cuál será la nueva diferencia de potencial $V'_{AB}$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$V'_{AB} = 2 V_{AB}$$",
+        "B": "$$V'_{AB} = 4 V_{AB}$$",
+        "C": "$$V'_{AB} = V_{AB}$$",
+        "D": "$$V'_{AB} = \frac{1}{2} V_{AB}$$",
+        "E": "$$V'_{AB} = \frac{1}{4} V_{AB}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La relación entre estas magnitudes es $$V_{AB} = E \\cdot d$$. Si el campo eléctrico $E$ es constante, la diferencia de potencial $V_{AB}$ es directamente proporcional a la distancia $d$. Por lo tanto, si la distancia se reduce a la mitad ($$d' = d/2$$), la nueva diferencia de potencial será $$V'_{AB} = E \\cdot (d/2) = \frac{1}{2} (E \\cdot d) = \frac{1}{2} V_{AB}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_014",
+      "pregunta": "Un capacitor específico tiene una capacitancia $C$. Si se duplica la carga $Q$ que almacena, ¿qué le sucede a la diferencia de potencial $V_{AB}$ entre sus placas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se reduce a la mitad.",
+        "B": "Permanece igual.",
+        "C": "Se duplica.",
+        "D": "Se cuadruplica.",
+        "E": "Se reduce a un cuarto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacitancia $C$ es una constante para un capacitor dado, determinada por su geometría y el material dieléctrico. La relación es $$C = Q / V_{AB}$$, que se puede reescribir como $$V_{AB} = Q / C$$. Como $C$ es constante, la diferencia de potencial $V_{AB}$ es directamente proporcional a la carga $Q$. Si la carga se duplica, la diferencia de potencial también debe duplicarse para mantener la relación constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_112_015",
+      "pregunta": "Se conectan en serie tres capacitores distintos: $C_1$, $C_2$ y $C_3$. Si se sabe que la carga en el capacitor $C_2$ es $q_2$, ¿cuál es la magnitud de la carga $q_1$ en el capacitor $C_1$ y la carga $q_3$ en el capacitor $C_3$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$q_1 < q_2$$ y $$q_3 > q_2$$",
+        "B": "$$q_1 = q_2 = q_3$$",
+        "C": "$$q_1 > q_2$$ y $$q_3 < q_2$$",
+        "D": "Depende de los valores de capacitancia de cada uno.",
+        "E": "$$q_1 + q_3 = q_2$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una propiedad fundamental de la conexión en serie es que la magnitud de la carga es la misma para todos los componentes en la serie. La carga no se acumula ni se pierde entre los capacitores. Por lo tanto, si la carga en un capacitor es $q_2$, la carga en todos los demás también debe tener esa misma magnitud: $$q = q_1 = q_2 = q_3$$",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 119,
+  "total_temas": 137,
+  "titulo_tema": "Fuerza electromotriz (f.e.m.)",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_119_001",
+      "pregunta": "¿Cuál es la función principal de una fuente de f.e.m. en un circuito cerrado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Disipar la energía eléctrica en forma de calor",
+        "B": "Aumentar la resistencia total del circuito",
+        "C": "Mantener una corriente eléctrica",
+        "D": "Transformar energía eléctrica en energía química",
+        "E": "Crear nuevos electrones libres en el conductor"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una fuente de f.e.m. (fuerza electromotriz), como una pila o un generador, es el dispositivo encargado de mantener una corriente eléctrica en un circuito cerrado. Lo logra transformando otra forma de energía (química, mecánica, etc.) en energía eléctrica, proporcionando la diferencia de potencial necesaria para que las cargas fluyan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_002",
+      "pregunta": "¿Cómo se define la fuerza electromotriz (f.e.m.) de una batería?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como la fuerza física que empuja a los electrones",
+        "B": "Como la cantidad total de carga que puede almacenar",
+        "C": "Como el trabajo que efectúa por coulomb de carga que pasa por ella",
+        "D": "Como la resistencia que opone al paso de la corriente",
+        "E": "Como la velocidad a la que se mueven las cargas en el circuito"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza electromotriz (f.e.m.), representada por $$\\varepsilon$$, se define como el trabajo realizado por la fuente de voltaje (como una batería) por cada unidad de carga que la atraviesa. Sus unidades son Joules por Coulomb (J/C), lo que equivale a un voltio (V).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_003",
+      "pregunta": "¿Qué característica fundamental define a una fuente de voltaje como ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tiene una resistencia interna infinita",
+        "B": "Su f.e.m. es siempre de 1 volt",
+        "C": "No se ve afectada por la temperatura",
+        "D": "Posee una resistencia interna igual a cero ($$r = 0$$)",
+        "E": "Solo puede conectarse a un circuito abierto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una fuente de voltaje ideal es un modelo teórico que se caracteriza por tener una resistencia interna nula ($$r = 0$$). En este caso, la diferencia de potencial en sus terminales es siempre igual a su f.e.m. ($$\\varepsilon$$), sin importar la corriente que suministre. Las fuentes reales, en cambio, tienen una resistencia interna no nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_004",
+      "pregunta": "¿Qué establece la Ley de Ohm sobre la relación entre diferencia de potencial e intensidad de corriente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La diferencia de potencial es inversamente proporcional a la intensidad de corriente.",
+        "B": "La diferencia de potencial es directamente proporcional a la intensidad de corriente.",
+        "C": "La diferencia de potencial es igual al cuadrado de la intensidad de corriente.",
+        "D": "No existe una relación matemática entre ambas magnitudes.",
+        "E": "La diferencia de potencial es constante sin importar la intensidad de corriente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de Ohm establece que, en una corriente eléctrica, la diferencia de potencial ($$\\Delta V$$) es directamente proporcional a la intensidad de corriente eléctrica ($$I$$). Esta relación se expresa matemáticamente como $$\\Delta V = IR$$, donde $$R$$ es la constante de proporcionalidad conocida como resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_005",
+      "pregunta": "Según el contenido, ¿cuál de los siguientes metales es el mejor conductor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cobre",
+        "B": "Oro",
+        "C": "Aluminio",
+        "D": "Plata",
+        "E": "Hierro"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El contenido especifica que el mejor conductor metálico es la plata (Ag). Esto se debe a que posee una mayor cantidad de electrones libres en comparación con otros metales como el cobre, lo que facilita el flujo de la corriente eléctrica y resulta en una menor resistividad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_006",
+      "pregunta": "¿Por qué el término \"fuerza electromotriz\" puede ser conceptualmente confuso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque solo se aplica a dispositivos magnéticos",
+        "B": "Porque no es una fuerza, sino una diferencia de potencial",
+        "C": "Porque sus unidades no corresponden a ninguna magnitud física",
+        "D": "Porque su valor cambia constantemente en una batería",
+        "E": "Porque es una fuerza que actúa a nivel atómico"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El nombre \"fuerza electromotriz\" es histórico y puede llevar a confusión, ya que no se trata de una fuerza en el sentido mecánico (medida en Newtons). En realidad, la f.e.m. es una cantidad de energía por unidad de carga, es decir, una diferencia de potencial, que se mide en voltios.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_007",
+      "pregunta": "En la fórmula $$R_f = R_0(1 + \\alpha\\Delta T)$$, ¿qué representa el término $$R_0$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistividad del material",
+        "B": "La resistencia eléctrica final",
+        "C": "El coeficiente de temperatura",
+        "D": "La resistencia eléctrica inicial",
+        "E": "La variación de la resistencia"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula que describe la variación de la resistencia con la temperatura, $$R_0$$ representa la resistencia eléctrica inicial del conductor, medida en ohmios ($$\\Omega$$), antes de que ocurra la variación de temperatura ($$\\Delta T$$). $$R_f$$ es la resistencia final, y $$\\alpha$$ es el coeficiente de temperatura del material.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_008",
+      "pregunta": "¿Cuál es la relación entre el voltaje en terminales ($$V_{ab}$$) y la f.e.m. ($$\\varepsilon$$) de una batería real cuando está suministrando corriente a un circuito?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_{ab} > \\varepsilon$$",
+        "B": "$$V_{ab} = \\varepsilon$$",
+        "C": "$$V_{ab} < \\varepsilon$$",
+        "D": "$$V_{ab} = 0$$",
+        "E": "La relación es indeterminada"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Debido a la resistencia interna ($$r$$) de una batería real, parte del potencial se pierde dentro de la propia batería cuando fluye una corriente ($$I$$). El voltaje en terminales ($$V_{ab}$$) se calcula como $$V_{ab} = \\varepsilon - Ir$$. Como el término $$Ir$$ es positivo, el voltaje en terminales siempre será menor que la f.e.m. ($$\\varepsilon$$) cuando la batería está en operación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_009",
+      "pregunta": "La resistividad de un material depende fundamentalmente de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La longitud y el área del conductor",
+        "B": "La temperatura y la presión del ambiente",
+        "C": "La especie de la sustancia y la estructura de su red cristalina",
+        "D": "La corriente que circula y el voltaje aplicado",
+        "E": "El tipo de fuente de voltaje a la que está conectado"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistividad ($$\\rho$$) es una propiedad intrínseca de cada material. Su valor depende de factores microscópicos como la cantidad de electrones libres disponibles para la conducción y la estructura de la red cristalina del material, que afecta cómo se mueven estos electrones. Por eso, caracteriza la dependencia de la resistencia con la especie de la sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_010",
+      "pregunta": "¿Qué ocurre con un conductor cuando transporta energía eléctrica, según el texto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Experimenta una reducción de su masa",
+        "B": "Su resistividad se vuelve cero",
+        "C": "Se enfría y se contrae",
+        "D": "Experimenta una elevación de temperatura y dilatación",
+        "E": "Sus propiedades químicas cambian permanentemente"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El paso de una corriente eléctrica a través de un conductor genera calor debido a las colisiones de los electrones con los átomos de la red cristalina (efecto Joule). Este aumento de temperatura provoca que el material se dilate, y a su vez, que su resistencia eléctrica varíe.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_011",
+      "pregunta": "¿En qué situación la f.e.m. ($$\\varepsilon$$) de una batería es igual a la diferencia de potencial entre sus terminales ($$V_{ab}$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando la corriente en el circuito es máxima",
+        "B": "Solo si la batería es ideal ($$r=0$$)",
+        "C": "Cuando la batería no está conectada a un circuito externo",
+        "D": "Tanto en una fuente ideal como cuando no está conectada",
+        "E": "Cuando la temperatura del circuito es muy baja"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La f.e.m. ($$\\varepsilon$$) representa el máximo potencial. En una fuente ideal, como $$r=0$$, el voltaje terminal $$V_{ab} = \\varepsilon - I(0) = \\varepsilon$$ siempre. En una fuente real, $$V_{ab} = \\varepsilon - Ir$$. El voltaje terminal es igual a la f.e.m. solo cuando la corriente $$I=0$$, lo que ocurre cuando la batería está en un circuito abierto (no conectada). Por lo tanto, la igualdad se cumple en ambos escenarios descritos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_012",
+      "pregunta": "¿Qué energía es transformada en energía eléctrica por una fuente de voltaje como una pila?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Energía nuclear",
+        "B": "Energía mecánica",
+        "C": "Energía potencial gravitatoria",
+        "D": "Energía térmica",
+        "E": "Energía química"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Las fuentes de voltaje, como pilas y baterías, funcionan mediante reacciones químicas internas. Estas reacciones liberan energía, que se transforma en energía eléctrica, creando una diferencia de potencial entre sus terminales. Otros dispositivos, como los generadores, transforman energía mecánica en eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_013",
+      "pregunta": "En un circuito con una fuente de voltaje real, ¿cuál es la fórmula que determina la corriente ($$I$$) que fluye a través de una resistencia externa ($$R$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$I = \\frac{\\varepsilon}{R}$$",
+        "B": "$$I = \\frac{\\varepsilon - Ir}{R}$$",
+        "C": "$$I = \\frac{\\varepsilon}{r}$$",
+        "D": "$$I = \\frac{\\varepsilon}{R + r}$$",
+        "E": "$$I = \\varepsilon (R+r)$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para una fuente real con f.e.m. ($$\\varepsilon$$) y resistencia interna ($$r$$), la resistencia total que la corriente debe vencer es la suma de la resistencia externa ($$R$$) y la interna ($$r$$). Aplicando la Ley de Ohm al circuito completo, la corriente total es el voltaje total ($$\\varepsilon$$) dividido por la resistencia total ($$R+r$$), lo que resulta en la fórmula $$I = \\frac{\\varepsilon}{R + r}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_014",
+      "pregunta": "Una batería real tiene una f.e.m. ($$\\varepsilon$$) y una resistencia interna ($$r$$). Si se conecta a una resistencia externa ($$R$$), la diferencia de potencial en los terminales de la batería está dada por:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$V_{ab} = \\varepsilon$$",
+        "B": "$$V_{ab} = IR$$",
+        "C": "$$V_{ab} = \\varepsilon + Ir$$",
+        "D": "$$V_{ab} = I(R-r)$$",
+        "E": "$$V_{ab} = \\varepsilon - Ir$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La f.e.m. ($$\\varepsilon$$) es el potencial total que la fuente puede proporcionar. Sin embargo, al fluir una corriente ($$I$$), se produce una caída de potencial interna debido a la resistencia ($$r$$) de la propia fuente, igual a $$Ir$$. Por lo tanto, el potencial disponible en los terminales ($$V_{ab}$$) para el circuito externo es la f.e.m. menos esta caída interna, es decir, $$V_{ab} = \\varepsilon - Ir$$. También es cierto que $$V_{ab} = IR$$, pero la pregunta pide la expresión en términos de la f.e.m. y la caída de potencial interna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_119_015",
+      "pregunta": "Se tiene una fuente de voltaje real con f.e.m. ($$\\varepsilon$$) y resistencia interna ($$r$$) constantes. Si el valor de la resistencia externa ($$R$$) en el circuito se duplica, ¿qué le ocurre a la corriente ($$I$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La corriente se duplica",
+        "B": "La corriente se reduce a la mitad",
+        "C": "La corriente disminuye, pero no necesariamente a la mitad",
+        "D": "La corriente aumenta",
+        "E": "La corriente no cambia"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La corriente en el circuito se calcula con la fórmula $$I = \\frac{\\varepsilon}{R + r}$$. Si la resistencia externa $$R$$ se duplica, el nuevo valor de la resistencia total es $$2R + r$$. La nueva corriente será $$I' = \\frac{\\varepsilon}{2R + r}$$. Dado que el denominador ($$2R+r$$) es mayor que el denominador original ($$R+r$$), la corriente $$I'$$ será menor que $$I$$. Sin embargo, no se reduce exactamente a la mitad a menos que la resistencia interna $$r$$ sea cero (fuente ideal), lo cual no es el caso. Por lo tanto, la corriente disminuye.",
+      "imagen": null
+    }
+  ]
+}

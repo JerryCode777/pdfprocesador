@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_008_001",
-      "pregunta": "¿Qué es un elemento?",
+      "pregunta": "¿Cuál es la definición de un elemento químico?",
       "dificultad": 1,
       "opciones": {
-        "A": "Una sustancia constituida por dos o más tipos de átomos en proporciones fijas.",
-        "B": "Una sustancia que no se puede separar en otras más sencillas por medios químicos.",
-        "C": "Una combinación de sustancias que conservan sus propiedades individuales.",
-        "D": "Cualquier material que se puede separar por filtración o destilación.",
-        "E": "La partícula más pequeña de un compuesto."
+        "A": "Una sustancia que puede ser separada en otras más sencillas por medios físicos.",
+        "B": "Una sustancia constituida por dos o más tipos de átomos en proporciones fijas.",
+        "C": "Una sustancia que no se puede separar en otras más sencillas por medios químicos.",
+        "D": "La partícula más pequeña de un compuesto.",
+        "E": "Una mezcla de varios átomos que conservan sus propiedades."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Un elemento es una sustancia pura fundamental que no puede descomponerse en sustancias más simples utilizando métodos químicos. Las demás opciones describen un compuesto (A), una mezcla (C), la separación de mezclas (D) o un átomo en el contexto de un compuesto (E).",
+      "respuesta_correcta": "C",
+      "explicacion": "Un elemento es una sustancia pura fundamental que no puede descomponerse en sustancias más simples utilizando métodos químicos. Las opciones A y E describen características de una mezcla, mientras que la opción B define a un compuesto. La opción D es incorrecta, ya que la partícula más pequeña de un elemento es un átomo, no un compuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_002",
+      "pregunta": "¿Qué es un compuesto químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una sustancia cuyos componentes se pueden separar por métodos físicos como la filtración.",
+        "B": "Una sustancia constituida por elementos de dos o más tipos, combinados en proporciones fijas.",
+        "C": "Una sustancia que no se puede representar mediante una fórmula química.",
+        "D": "Una unión de sustancias donde cada una conserva sus propiedades características.",
+        "E": "Una sustancia que no puede separarse en componentes más sencillos por ningún medio."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un compuesto es una sustancia formada por la unión química de dos o más elementos diferentes en proporciones de masa definidas y constantes. Sus componentes solo pueden separarse mediante reacciones químicas. Las opciones A, C y D describen propiedades de las mezclas, y la E describe a un elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_008_003",
       "pregunta": "¿Cuál es la partícula más pequeña que conserva las propiedades de un elemento?",
       "dificultad": 1,
       "opciones": {
         "A": "Una molécula",
         "B": "Un compuesto",
-        "C": "Un átomo",
-        "D": "Una mezcla",
+        "C": "Una mezcla",
+        "D": "Un átomo",
         "E": "Una fórmula"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El átomo es la unidad básica de un elemento que puede intervenir en una combinación química y que conserva las propiedades características de dicho elemento. Una molécula es la unión de dos o más átomos, un compuesto es la unión de diferentes elementos, y una mezcla es una combinación no química de sustancias.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_008_003",
-      "pregunta": "¿Cómo se define un compuesto químico?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Una sustancia cuyos componentes se pueden separar por métodos físicos.",
-        "B": "Una sustancia que no se puede separar en otras más sencillas por ningún medio.",
-        "C": "Una sustancia conformada por dos o más sustancias en cantidades variables.",
-        "D": "Una sustancia constituida por elementos de dos o más tipos, combinados en proporciones fijas.",
-        "E": "Una sustancia representada por el símbolo de una o dos letras."
-      },
       "respuesta_correcta": "D",
-      "explicacion": "Un compuesto es una sustancia formada por la unión química de dos o más elementos diferentes en proporciones de masa definidas y constantes. Esta combinación fija es lo que lo distingue de una mezcla. Por ejemplo, el agua ($$H_2O$$) siempre tiene dos átomos de hidrógeno por cada átomo de oxígeno.",
+      "explicacion": "La partícula más pequeña que conserva las propiedades distintivas de un elemento es el átomo. Una molécula es la unión de dos o más átomos, un compuesto es una sustancia de diferentes elementos, una mezcla es una combinación no química, y una fórmula es una representación simbólica.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_004",
-      "pregunta": "¿Cuál es una característica fundamental de las mezclas en cuanto a su composición?",
+      "pregunta": "Según la convención química, ¿cómo se escriben los símbolos de los elementos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Su composición es siempre fija y definida.",
-        "B": "Se representan mediante fórmulas químicas.",
-        "C": "Las sustancias se mezclan en cantidades variables.",
-        "D": "Sus componentes solo se separan por métodos químicos.",
-        "E": "Pierden sus propiedades características al combinarse."
+        "A": "Con una o dos letras, ambas siempre en minúscula.",
+        "B": "Con una sola letra, siempre mayúscula.",
+        "C": "Con una o dos letras, donde la primera siempre es mayúscula y la segunda, si existe, es minúscula.",
+        "D": "Con tres letras para evitar confusiones.",
+        "E": "Con cualquier letra del alfabeto, sin importar si es mayúscula o minúscula."
       },
       "respuesta_correcta": "C",
-      "explicacion": "A diferencia de los compuestos, las mezclas se caracterizan porque sus componentes se pueden combinar en cualquier proporción, es decir, su composición es variable. Por ejemplo, se puede mezclar un poco de sal en agua o mucha sal en agua.",
+      "explicacion": "Los símbolos químicos para los elementos consisten en una o dos letras. La primera letra siempre se escribe en mayúscula. Si hay una segunda letra, esta siempre debe ser minúscula. Por ejemplo, Hierro es $$Fe$$ y Oro es $$Au$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_005",
-      "pregunta": "¿Qué método se utiliza para separar una mezcla de sólidos con partículas de diferentes tamaños, como arena y cemento?",
+      "pregunta": "¿Cuál de las siguientes es una característica fundamental de las mezclas?",
       "dificultad": 1,
       "opciones": {
-        "A": "Decantación",
-        "B": "Levigación",
-        "C": "Imantación",
-        "D": "Tamizado",
-        "E": "Destilación"
+        "A": "Se representan mediante una única fórmula química.",
+        "B": "Sus componentes se combinan en proporciones fijas y definidas.",
+        "C": "Sus componentes solo se pueden separar por medios químicos.",
+        "D": "Las sustancias que la conforman se pueden mezclar en cantidades variables.",
+        "E": "Sus propiedades son totalmente diferentes a las de sus componentes."
       },
       "respuesta_correcta": "D",
-      "explicacion": "El tamizado es un método físico que consiste en pasar una mezcla de sólidos de diferentes tamaños por un tamiz o criba. Las partículas más pequeñas pasan a través de los poros del tamiz, mientras que las más grandes quedan retenidas. Es ideal para separar arena y cemento.",
+      "explicacion": "Una característica clave de las mezclas es que sus componentes pueden combinarse en proporciones variables, a diferencia de los compuestos que tienen una composición fija. Las opciones A, B, C y E son características de los compuestos, no de las mezclas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_006",
-      "pregunta": "¿Cuál es la diferencia principal entre los métodos para separar los componentes de una mezcla y los de un compuesto?",
+      "pregunta": "¿Cuál es la diferencia principal entre la separación de los componentes de un compuesto y los de una mezcla?",
       "dificultad": 2,
       "opciones": {
-        "A": "Las mezclas se separan por métodos químicos y los compuestos por métodos físicos.",
-        "B": "Las mezclas se separan por métodos físicos y los compuestos por métodos químicos.",
-        "C": "Ambos se separan únicamente por métodos físicos.",
-        "D": "Ambos se separan únicamente por métodos químicos.",
-        "E": "Las mezclas no se pueden separar, pero los compuestos sí."
+        "A": "Los compuestos se separan por métodos físicos y las mezclas por métodos químicos.",
+        "B": "Ambos se separan únicamente mediante procesos físicos.",
+        "C": "Los compuestos se separan por métodos químicos, mientras que las mezclas se separan por métodos físicos.",
+        "D": "Las mezclas no pueden separarse, pero los compuestos sí.",
+        "E": "Ambos se separan únicamente mediante reacciones químicas."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los componentes de una mezcla no están unidos químicamente, por lo que conservan sus propiedades y pueden ser separados mediante procedimientos físicos (filtración, decantación, etc.). En cambio, los elementos de un compuesto están unidos por enlaces químicos, y para separarlos es necesario romper dichos enlaces, lo que requiere un proceso químico (como la electrólisis).",
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción fundamental radica en la naturaleza de los enlaces. En un compuesto, los elementos están unidos químicamente, por lo que se requieren medios químicos (reacciones) para separarlos. En una mezcla, las sustancias solo están combinadas físicamente y conservan su identidad, por lo que se pueden separar por métodos físicos (filtración, decantación, etc.).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_007",
-      "pregunta": "El método de separación por decantación se basa fundamentalmente en la diferencia de:",
+      "pregunta": "¿Qué método de separación se emplearía para separar una mezcla de arena y cemento, considerando que tienen partículas de diferentes tamaños?",
       "dificultad": 2,
       "opciones": {
-        "A": "Tamaño de las partículas",
-        "B": "Puntos de ebullición",
-        "C": "Propiedades magnéticas",
-        "D": "Densidades de los componentes",
-        "E": "Solubilidad en agua"
+        "A": "Levigación",
+        "B": "Imantación",
+        "C": "Decantación",
+        "D": "Tamizado",
+        "E": "Destilación"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La decantación se utiliza para separar mezclas heterogéneas, ya sea de un sólido en un líquido o de dos líquidos no miscibles (que no se mezclan). El método aprovecha que el componente más denso se asienta en el fondo por gravedad, permitiendo que el menos denso sea retirado. Un ejemplo claro es la separación de arena y agua.",
+      "explicacion": "El tamizado es el método ideal para separar sólidos con partículas de diferentes tamaños. Se utiliza un tamiz (una malla con una abertura específica) que permite el paso de las partículas más pequeñas (cemento) y retiene las más grandes (arena).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_008",
-      "pregunta": "¿Cómo se comparan las propiedades de un compuesto, como el cloruro de sodio ($$NaCl$$), con las de sus elementos constituyentes (sodio $Na$ y cloro $Cl$)?",
+      "pregunta": "La sustancia con la fórmula química $$NH_3$$ (amoniaco) se clasifica como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Las propiedades del compuesto son un promedio de las propiedades de sus elementos.",
-        "B": "Las propiedades del compuesto son idénticas a las propiedades de sus elementos.",
-        "C": "Las propiedades del compuesto son distintas de las propiedades de sus componentes.",
-        "D": "El compuesto conserva solo las propiedades físicas de sus elementos.",
-        "E": "El compuesto conserva solo las propiedades químicas de sus elementos."
+        "A": "Un elemento, porque contiene nitrógeno.",
+        "B": "Una mezcla, porque contiene hidrógeno y nitrógeno.",
+        "C": "Un compuesto, porque está formado por dos elementos diferentes en proporciones fijas.",
+        "D": "Un átomo, porque es una unidad fundamental.",
+        "E": "Una mezcla heterogénea."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Una característica definitoria de un compuesto es que sus propiedades físicas y químicas son completamente diferentes de las de los elementos que lo forman. Por ejemplo, el sodio ($$Na$$) es un metal reactivo y el cloro ($$Cl$$) es un gas venenoso, pero al combinarse forman el cloruro de sodio ($$NaCl$$), la sal de mesa, que es un sólido cristalino comestible.",
+      "explicacion": "El amoniaco ($$NH_3$$) es un compuesto porque está formado por la unión química de dos elementos distintos (Nitrógeno e Hidrógeno) en una proporción fija y constante (un átomo de nitrógeno por cada tres átomos de hidrógeno). Su fórmula química es la representación de esta composición fija.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_009",
-      "pregunta": "¿Qué método de separación es el más adecuado para aislar limaduras de hierro mezcladas con arena?",
+      "pregunta": "¿Por qué el método de decantación es efectivo para separar una mezcla de aceite y agua?",
       "dificultad": 2,
       "opciones": {
-        "A": "Tamizado",
-        "B": "Levigación",
-        "C": "Imantación",
-        "D": "Decantación",
-        "E": "Filtración"
+        "A": "Porque el aceite es magnético y el agua no.",
+        "B": "Porque el aceite y el agua tienen diferentes tamaños de partículas.",
+        "C": "Porque el aceite y el agua son líquidos no miscibles con diferentes densidades.",
+        "D": "Porque el aceite se disuelve en el agua y luego se evapora.",
+        "E": "Porque ambos líquidos tienen el mismo punto de ebullición."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La imantación es el método ideal para esta mezcla porque aprovecha las propiedades magnéticas del hierro. Al acercar un imán, las limaduras de hierro serán atraídas, separándose eficazmente de la arena, que no es magnética.",
+      "explicacion": "La decantación para líquidos se basa en la diferencia de densidades y en que no se mezclan (son inmiscibles). Al dejar reposar la mezcla, el líquido menos denso (aceite) flota sobre el más denso (agua), formando capas distintas que pueden ser separadas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_010",
-      "pregunta": "¿Por qué una mezcla, a diferencia de un compuesto, no se representa mediante una fórmula química?",
+      "pregunta": "¿En qué propiedad física se basa el método de imantación para separar componentes de una mezcla?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque las mezclas no contienen elementos químicos.",
-        "B": "Porque la composición de una mezcla es variable.",
-        "C": "Porque las mezclas solo existen en estado líquido.",
-        "D": "Porque los componentes de una mezcla no se pueden separar.",
-        "E": "Porque las mezclas son siempre homogéneas."
+        "A": "En la diferencia de densidades.",
+        "B": "En la diferencia de tamaños de partícula.",
+        "C": "En la capacidad de una sustancia de ser atraída por un campo magnético.",
+        "D": "En la diferencia de puntos de ebullición.",
+        "E": "En la solubilidad de los componentes en un disolvente."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Una fórmula química, como $$H_2O$$ para el agua, indica una proporción fija y constante de átomos. Las mezclas no tienen una fórmula porque sus componentes pueden estar presentes en cualquier proporción. Por ejemplo, el aire es una mezcla de gases cuya composición puede variar ligeramente de un lugar a otro.",
+      "respuesta_correcta": "C",
+      "explicacion": "La imantación o separación magnética se utiliza cuando uno de los componentes de la mezcla tiene propiedades ferromagnéticas (es atraído por un imán), como el hierro, mientras que los otros no. Al acercar un imán, este atrae y separa el componente metálico del resto de la mezcla.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_011",
-      "pregunta": "De las siguientes opciones, ¿cuál representa un compuesto?",
+      "pregunta": "Si al mezclar dos sustancias, el resultado tiene propiedades completamente nuevas y distintas a las de sus componentes originales, y estos solo se pueden separar por medios químicos, se ha formado:",
       "dificultad": 2,
       "opciones": {
-        "A": "Oro ($$Au$$)",
-        "B": "Arena y agua",
-        "C": "Hierro ($$Fe$$)",
-        "D": "Amoniaco ($$NH_3$$)",
-        "E": "Aire"
+        "A": "Una mezcla homogénea.",
+        "B": "Un compuesto.",
+        "C": "Una mezcla heterogénea.",
+        "D": "Un elemento.",
+        "E": "Una solución."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El amoniaco ($$NH_3$$) es un compuesto porque está formado por la combinación química de dos elementos diferentes (nitrógeno e hidrógeno) en una proporción fija. El oro ($$Au$$) y el hierro ($$Fe$$) son elementos. La arena y el agua, y el aire son ejemplos de mezclas.",
+      "respuesta_correcta": "B",
+      "explicacion": "Estas son las características que definen a un compuesto: sus propiedades son diferentes a las de los elementos que lo forman, y sus componentes están unidos químicamente, por lo que solo pueden ser separados mediante reacciones químicas. Las mezclas, en cambio, conservan las propiedades de sus componentes.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_012",
-      "pregunta": "¿En qué se basa el método de levigación para separar una mezcla de sólidos?",
+      "pregunta": "El método de levigación, usado en minería, es eficaz para separar sólidos basado en:",
       "dificultad": 2,
       "opciones": {
-        "A": "En la diferencia de tamaño de las partículas.",
-        "B": "En la atracción magnética de uno de los componentes.",
-        "C": "En la diferencia de densidad al tratarlos con un disolvente.",
-        "D": "En la diferencia de puntos de fusión.",
-        "E": "En la capacidad de uno de los sólidos para disolverse completamente."
+        "A": "Su magnetismo.",
+        "B": "Su tamaño de partícula.",
+        "C": "Su color y aspecto.",
+        "D": "Su diferencia de densidad al usar un disolvente.",
+        "E": "Su conductividad eléctrica."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La levigación consiste en pulverizar una mezcla de sólidos y tratarla con un disolvente apropiado. La corriente del líquido arrastra a las partículas más ligeras (menos densas), mientras que las más pesadas (más densas) se depositan en el fondo. Es un método muy utilizado en minería para separar metales preciosos.",
+      "respuesta_correcta": "D",
+      "explicacion": "La levigación consiste en pulverizar una mezcla de sólidos y tratarla con un disolvente (generalmente agua). Las partículas más densas precipitan (se van al fondo), mientras que las más ligeras quedan suspendidas y son arrastradas por la corriente, permitiendo su separación.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_013",
-      "pregunta": "Se analiza una sustancia pura y se descubre que está formada por dos elementos distintos. Al intentar separarla por filtración no se logra, pero al aplicar un proceso químico se obtienen los dos elementos por separado. La sustancia analizada es:",
+      "pregunta": "Se tiene una mezcla de limaduras de hierro, arena fina y pequeñas virutas de corcho. ¿Cuál sería la secuencia correcta de métodos para separar los tres componentes?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un elemento",
-        "B": "Una mezcla homogénea",
-        "C": "Una mezcla heterogénea",
-        "D": "Un compuesto",
-        "E": "Un átomo"
+        "A": "Primero tamizado para el corcho, luego decantación para la arena.",
+        "B": "Solo decantación, añadiendo agua y esperando que se formen tres capas.",
+        "C": "Primero imantación para el hierro, y luego levigación (añadir agua) para separar el corcho (flota) de la arena (se hunde).",
+        "D": "Primero levigación para retirar el hierro, y luego tamizado para el corcho.",
+        "E": "Tamizado para separar la arena y luego imantación para el corcho."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La descripción coincide perfectamente con la definición de un compuesto. Está formada por más de un elemento, lo que descarta que sea un elemento. No se puede separar por un método físico como la filtración, lo que descarta que sea una mezcla. La separación solo es posible por medios químicos, confirmando que se trata de un compuesto donde los elementos están enlazados químicamente.",
+      "respuesta_correcta": "C",
+      "explicacion": "El orden lógico y eficiente es: 1) Usar la imantación para retirar fácilmente las limaduras de hierro, que son magnéticas. 2) Añadir agua a la mezcla restante de arena y corcho; esto es una aplicación de la levigación, donde el corcho, por ser menos denso que el agua, flotará, y la arena, más densa, se irá al fondo, permitiendo su separación.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_014",
-      "pregunta": "Un minero tiene una mezcla de arena y pequeñas pepitas de oro. Para separarlas, decide agregar agua y agitar la mezcla, de modo que la arena (más liviana) quede en suspensión y pueda ser retirada con el agua, mientras que el oro (más pesado) se asienta en el fondo. ¿Qué método de separación está aplicando?",
+      "pregunta": "Dadas las siguientes sustancias: Oro ($$Au$$), Cloruro de Sodio ($$NaCl$$) y una mezcla de arena y agua. ¿Cuál de ellas puede ser separada en sus componentes constituyentes únicamente por medios químicos?",
       "dificultad": 3,
       "opciones": {
-        "A": "Tamizado",
-        "B": "Imantación",
-        "C": "Levigación",
-        "D": "Decantación simple",
-        "E": "Filtración"
+        "A": "Únicamente el Oro ($$Au$$).",
+        "B": "Únicamente el Cloruro de Sodio ($$NaCl$$).",
+        "C": "Únicamente la mezcla de arena y agua.",
+        "D": "Tanto el Oro ($$Au$$) como el Cloruro de Sodio ($$NaCl$$).",
+        "E": "Ninguna de las tres."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Este proceso es un ejemplo clásico de levigación. Se utiliza un líquido (agua) para separar sólidos de diferente densidad. Las partículas más livianas (arena) son arrastradas por la corriente del líquido, mientras que las más densas (oro) precipitan y se quedan en el fondo del recipiente. Aunque comparte principios con la decantación, el uso de una corriente para arrastrar material liviano es característico de la levigación.",
+      "respuesta_correcta": "B",
+      "explicacion": "Esta pregunta evalúa la diferencia entre elemento, compuesto y mezcla. El Oro ($$Au$$) es un elemento, por lo que no puede separarse en sustancias más sencillas por medios químicos. La mezcla de arena y agua se separa por medios físicos (decantación). Solo el Cloruro de Sodio ($$NaCl$$), que es un compuesto, puede separarse en sus elementos constituyentes (Sodio y Cloro) mediante procesos químicos como la electrólisis.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_008_015",
-      "pregunta": "En un laboratorio se tiene una mezcla de aceite y agua. Se observa que forman dos capas distintas debido a que no se mezclan y tienen diferente densidad. ¿Qué instrumento y método serían los más apropiados para separarlos eficazmente?",
+      "pregunta": "Un proceso de minería describe el uso de una corriente de agua para arrastrar material más liviano (ganga) y dejar en el fondo el mineral más pesado (oro). ¿Qué método de separación se está aplicando y qué propiedad es fundamental para su éxito?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un tamiz, usando el método de tamizado.",
-        "B": "Un imán, usando el método de imantación.",
-        "C": "Papel filtro, usando el método de filtración.",
-        "D": "Un embudo de separación, usando el método de decantación.",
-        "E": "Un matraz de destilación, usando el método de destilación."
+        "A": "Tamizado, basado en el tamaño de las partículas.",
+        "B": "Imantación, basado en las propiedades magnéticas del oro.",
+        "C": "Decantación, basado en que los líquidos no son miscibles.",
+        "D": "Levigación, basado en la gran diferencia de densidad entre el oro y la ganga.",
+        "E": "Filtración, basado en la solubilidad de la ganga en el agua."
       },
       "respuesta_correcta": "D",
-      "explicacion": "Para separar dos líquidos no miscibles (que no se mezclan) con diferentes densidades, como el aceite y el agua, el método más adecuado es la decantación. El instrumento específico para esta tarea es el embudo de separación, que tiene una llave en la parte inferior para controlar el flujo y permitir que el líquido más denso (agua) salga primero, cerrando la llave justo cuando la interfaz entre los dos líquidos llega a la salida.",
+      "explicacion": "El escenario descrito es una aplicación clásica de la levigación. Se utiliza un líquido (agua) para separar sólidos con diferentes densidades. El oro es extremadamente denso y precipita (se queda en el fondo), mientras que los materiales más ligeros como arena y rocas (ganga) son suspendidos y arrastrados por la corriente de agua. La propiedad clave es la diferencia de densidad.",
       "imagen": null
     }
   ]

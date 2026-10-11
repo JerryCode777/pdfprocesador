@@ -1,0 +1,233 @@
+{
+  "materia": "lenguaje",
+  "numero_tema": 221,
+  "total_temas": 225,
+  "titulo_tema": "El correo electrónico",
+  "preguntas": [
+    {
+      "id_temporal": "lenguaje_221_001",
+      "pregunta": "¿Qué parte de una dirección de correo electrónico identifica al usuario específico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La denominación después del símbolo @",
+        "B": "El nombre completo en la firma",
+        "C": "La denominación antes del símbolo @",
+        "D": "El campo 'ASUNTO'",
+        "E": "La dirección postal del remitente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La dirección de correo electrónico se compone de dos partes fundamentales separadas por el símbolo @. La parte que se encuentra antes del @ corresponde al nombre o identificador único del usuario, mientras que la parte que se encuentra después del @ corresponde al dominio del proveedor de servicios de correo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_002",
+      "pregunta": "En la cabecera de un correo electrónico, ¿cuál es la función del campo 'ASUNTO'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Indicar la dirección del remitente",
+        "B": "Proporcionar una breve descripción del motivo del mensaje",
+        "C": "Listar los archivos adjuntos",
+        "D": "Señalar la dirección del destinatario principal",
+        "E": "Establecer la prioridad del correo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El campo 'ASUNTO' sirve para ofrecer una descripción concisa sobre el contenido o el propósito del correo. Esto permite al destinatario tener una idea clara del tema del mensaje antes de abrirlo, facilitando la organización y priorización de su bandeja de entrada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_003",
+      "pregunta": "¿Qué son los 'ADJUNTOS' en el contexto de un correo electrónico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las direcciones de correo de destinatarios secundarios",
+        "B": "Documentos en formato digital o archivos informáticos que se anexan al mensaje",
+        "C": "Los párrafos de conclusión del texto",
+        "D": "Los datos de contacto que aparecen en la firma",
+        "E": "El saludo inicial del correo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los adjuntos, también conocidos como archivos anexos, son documentos digitales o cualquier tipo de archivo informático (imágenes, hojas de cálculo, PDFs, etc.) que se envían junto con el cuerpo del mensaje de correo electrónico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_004",
+      "pregunta": "¿Qué campo de la cabecera de un correo es generado automáticamente por el sistema y no suele aparecer al redactar el mensaje?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "PARA (destinatario)",
+        "B": "ASUNTO",
+        "C": "DE (remitente)",
+        "D": "ADJUNTOS",
+        "E": "FIRMA"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El campo 'DE' (remitente) contiene la dirección de correo de la persona que envía el mensaje. Este campo es completado de forma automática por el sistema de correo electrónico al momento del envío, utilizando la dirección de la cuenta desde la que se redacta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_005",
+      "pregunta": "En la estructura formal del contenido de un correo, ¿qué elemento se recomienda usar al principio para establecer el tono del mensaje?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La firma",
+        "B": "El texto introductorio",
+        "C": "La despedida",
+        "D": "El saludo",
+        "E": "El asunto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El saludo es la primera parte del contenido del correo y es fundamental porque establece el tono del mensaje (formal, informal, amistoso) y crea un contacto más personal con el destinatario antes de presentar el cuerpo del texto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_006",
+      "pregunta": "Al analizar la dirección de correo 'contacto@empresa.com', ¿qué representa la parte 'empresa.com'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El nombre del usuario",
+        "B": "El asunto del mensaje",
+        "C": "El dominio al que pertenece la cuenta",
+        "D": "El nombre del archivo adjunto",
+        "E": "El servidor de salida de correo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura de una dirección de correo electrónico se divide en 'usuario@dominio'. La parte que sigue al símbolo @, en este caso 'empresa.com', corresponde al dominio, que generalmente identifica a la organización, empresa o proveedor de servicios de correo electrónico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_007",
+      "pregunta": "¿Cuál es la función específica del primer párrafo dentro del cuerpo del texto de un correo electrónico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Resumir las ideas y concluir el mensaje",
+        "B": "Presentar el tema que se va a exponer",
+        "C": "Incluir los datos de contacto del remitente",
+        "D": "Despedirse formalmente del destinatario",
+        "E": "Saludar y establecer un tono amistoso"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El primer párrafo del texto tiene un rol introductorio. Su función principal es presentar de manera clara el tema o el motivo central del correo, contextualizando al lector sobre lo que se desarrollará en los párrafos siguientes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_008",
+      "pregunta": "¿Cómo se puede enviar un mismo correo electrónico a varios destinatarios principales de forma simultánea?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Enviando un correo individual a cada persona",
+        "B": "Adjuntando una lista de contactos en un archivo",
+        "C": "Escribiendo las direcciones en el campo 'ASUNTO'",
+        "D": "Creando una firma diferente para cada destinatario",
+        "E": "Escribiendo todas las direcciones en el campo 'PARA', separadas por comas o puntos y comas"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La funcionalidad del campo 'PARA' permite incluir múltiples direcciones de correo. Para ello, simplemente se deben escribir las direcciones de todos los destinatarios una tras otra, utilizando una coma o un punto y coma como separador entre ellas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_009",
+      "pregunta": "¿Qué distingue la 'FIRMA' del resto de los componentes de un correo electrónico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es la única parte generada automáticamente por el sistema",
+        "B": "Contiene el mensaje principal y el desarrollo del tema",
+        "C": "Es un bloque de texto final que contiene datos de contacto del remitente",
+        "D": "Describe brevemente el motivo del correo antes de abrirlo",
+        "E": "Siempre incluye archivos digitales como PDFs o imágenes"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La firma es un bloque de texto que se coloca al final del correo, después de la despedida. Su propósito es proporcionar información de contacto del remitente, como nombre completo, empresa, teléfono y otros datos relevantes, a diferencia del cuerpo del texto (mensaje) o la cabecera (asunto, destinatario).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_010",
+      "pregunta": "¿Cuál es el propósito principal del párrafo final en el texto de un correo bien estructurado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Presentar un nuevo tema de discusión",
+        "B": "Introducir al remitente y sus credenciales",
+        "C": "Recuperar de forma sintética las ideas expuestas y concluir",
+        "D": "Funcionar como saludo inicial para el destinatario",
+        "E": "Listar los archivos que se han adjuntado al mensaje"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El párrafo final cumple una función de cierre. Su objetivo es sintetizar los puntos clave tratados en el correo, reafirmar el propósito del mensaje y ofrecer una conclusión clara, asegurando que el mensaje principal haya sido comprendido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_011",
+      "pregunta": "¿Por qué se afirma que el correo electrónico es una variación moderna de la carta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque ambos requieren el uso de papel y tinta",
+        "B": "Porque comparten una estructura comunicativa básica de remitente, destinatario, saludo, cuerpo y despedida",
+        "C": "Porque solo se pueden enviar a una persona a la vez",
+        "D": "Porque su entrega es siempre instantánea y garantizada",
+        "E": "Porque ambos son exclusivamente para comunicaciones científicas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El correo electrónico es considerado una evolución de la carta tradicional porque adapta sus elementos estructurales (quién envía, a quién se envía, un saludo, el desarrollo de un mensaje, una despedida) a un formato digital, manteniendo la misma lógica de comunicación asíncrona entre dos o más partes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_012",
+      "pregunta": "¿Qué información, aparte del nombre y teléfono, se considera esencial en la firma de un correo profesional?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El saludo utilizado en el correo",
+        "B": "El nombre de la empresa",
+        "C": "El asunto del mensaje",
+        "D": "La dirección del destinatario",
+        "E": "Un resumen del texto del correo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un contexto profesional, la firma debe identificar claramente al remitente y su afiliación. Por ello, además del nombre completo y el teléfono de contacto, es fundamental incluir el nombre de la empresa para la cual trabaja.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_013",
+      "pregunta": "Un investigador necesita enviar los resultados de su estudio, contenidos en un documento de Word, a un colega. ¿En qué parte de la estructura del correo electrónico debe incluir dicho documento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "En el campo 'ASUNTO'",
+        "B": "En la 'FIRMA'",
+        "C": "Copiado directamente en el 'TEXTO'",
+        "D": "En la sección de 'ADJUNTOS'",
+        "E": "En el campo 'PARA'"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La forma correcta de enviar archivos informáticos, como un documento de Word, a través de un correo electrónico es utilizando la función de 'ADJUNTOS'. Esto permite que el archivo se anexe al mensaje sin alterar el formato del cuerpo del texto y que el destinatario pueda descargarlo fácilmente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_014",
+      "pregunta": "¿Cuál es la secuencia correcta de los elementos dentro del cuerpo de un correo electrónico formal, desde el inicio hasta el final?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Texto, saludo, despedida, firma",
+        "B": "Saludo, despedida, texto, firma",
+        "C": "Firma, saludo, texto, despedida",
+        "D": "Saludo, texto, despedida, firma",
+        "E": "Despedida, firma, saludo, texto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La estructura lógica y formal del contenido de un correo electrónico sigue un orden específico para garantizar una comunicación clara y cortés. Se comienza con un 'saludo', seguido del 'texto' o cuerpo del mensaje, luego la 'despedida' para cerrar la comunicación, y finalmente la 'firma' con los datos del remitente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_221_015",
+      "pregunta": "Si un correo tiene en el campo 'PARA' la dirección 'equipo@proyecto.net' y el campo 'ASUNTO' dice 'Revisión Minuta 05/10', ¿cuál es la inferencia más lógica sobre el propósito del párrafo final del texto de este correo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Presentar por primera vez a los miembros del equipo",
+        "B": "Sintetizar las acciones o decisiones clave discutidas en la minuta y solicitar los siguientes pasos",
+        "C": "Ser un saludo genérico sin relación con el contenido",
+        "D": "Contener la dirección de correo electrónico de cada miembro del equipo",
+        "E": "Explicar cómo adjuntar archivos en un correo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Dado que el asunto indica una revisión de una minuta (resumen de una reunión), es lógico aplicar el principio de que el párrafo final sirve como síntesis y conclusión. Por lo tanto, su función sería resumir los puntos más importantes de la revisión y probablemente indicar los pasos a seguir o las acciones requeridas por parte del equipo.",
+      "imagen": null
+    }
+  ]
+}

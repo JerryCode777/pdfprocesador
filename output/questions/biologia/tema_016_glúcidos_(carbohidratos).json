@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 16,
+  "total_temas": 320,
+  "titulo_tema": "Glúcidos (Carbohidratos)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_016_001",
+      "pregunta": "¿Cuál es la fórmula química general que representa a los glúcidos, también conocidos como hidratos de carbono?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$(C_2H_2O)_n$$",
+        "B": "$$(CH_2O)_n$$",
+        "C": "$$(CHO)_n$$",
+        "D": "$$(C_6H_{12}O_6)_n$$",
+        "E": "$$(C_5H_{10}O_5)_n$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula general para los glúcidos es $$(CH_2O)_n$$. Esta fórmula indica que por cada átomo de carbono, hay dos átomos de hidrógeno y un átomo de oxígeno, lo que literalmente los describe como 'hidratos de carbono'. Las opciones D y E corresponden a las fórmulas específicas de hexosas y pentosas respectivamente, no a la fórmula general.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_002",
+      "pregunta": "¿Cuál de los siguientes monosacáridos es un componente estructural fundamental del ARN (ácido ribonucleico)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Desoxirribosa",
+        "B": "Glucosa",
+        "C": "Fructosa",
+        "D": "Ribosa",
+        "E": "Galactosa"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ribosa es una pentosa (un monosacárido de 5 carbonos) que forma parte de la estructura de los nucleótidos del ARN. Por otro lado, la desoxirribosa es el azúcar que forma parte de la estructura del ADN. Glucosa, fructosa y galactosa son hexosas con funciones principalmente energéticas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_003",
+      "pregunta": "¿Cuál es la principal función del glucógeno en el organismo de los animales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Estructural, formando la pared celular",
+        "B": "De reserva energética en hígado y músculos",
+        "C": "Lubricante en el tejido conectivo",
+        "D": "Componente del exoesqueleto",
+        "E": "Transporte de oxígeno en la sangre"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El glucógeno es el polisacárido de reserva energética característico de los animales. Se almacena en grandes cantidades en el hígado (hasta un 10%) y en los músculos (2%) para ser degradado a glucosa cuando el cuerpo requiere un aporte energético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_004",
+      "pregunta": "Desde el punto de vista químico, ¿cómo se definen los monosacáridos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Polímeros de aminoácidos",
+        "B": "Ácidos grasos con grupos hidroxilo",
+        "C": "Polihidroxialdehídos o polihidroxicetonas",
+        "D": "Cadenas de nucleótidos",
+        "E": "Ésteres de glicerol"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los monosacáridos se definen químicamente como polihidroxialdehídos o polihidroxicetonas. Esto significa que su estructura molecular contiene varios grupos hidroxilo ($-OH$) y un grupo carbonilo ($C=O$), que puede estar en forma de aldehído ($-CHO$) o de cetona ($-CO$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_005",
+      "pregunta": "¿Qué polisacárido estructural, formado por unidades de N-Acetilglucosamina, compone la pared celular de los hongos y el exoesqueleto de los artrópodos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Celulosa",
+        "B": "Almidón",
+        "C": "Quitina",
+        "D": "Glucógeno",
+        "E": "Mureína"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La quitina es un polisacárido estructural formado por la unión de monómeros de N-Acetilglucosamina. Es el principal componente del exoesqueleto rígido de los artrópodos (insectos, crustáceos) y también forma la pared celular de los hongos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_006",
+      "pregunta": "La sacarosa, comúnmente conocida como azúcar de caña o de remolacha, es un disacárido formado por la unión de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Glucosa + Glucosa",
+        "B": "Glucosa + Galactosa",
+        "C": "Fructosa + Galactosa",
+        "D": "Glucosa + Fructosa",
+        "E": "Fructosa + Fructosa"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La sacarosa es un disacárido que se forma por la unión de un monosacárido de glucosa y uno de fructosa a través de un enlace glucosídico de tipo $\\alpha(1,2)$. La unión Glucosa + Glucosa da lugar a la maltosa, y la unión Glucosa + Galactosa forma la lactosa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_007",
+      "pregunta": "¿Cuál es la principal diferencia estructural entre la amilosa y la amilopectina, los dos polímeros que componen el almidón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La amilosa está formada por fructosa y la amilopectina por glucosa.",
+        "B": "La amilosa tiene enlaces de tipo $\\beta$ y la amilopectina de tipo $\\alpha$.",
+        "C": "La amilosa es una molécula lineal, mientras que la amilopectina es ramificada.",
+        "D": "La amilosa es un polisacárido de reserva animal y la amilopectina es vegetal.",
+        "E": "La amilosa es un disacárido y la amilopectina es un polisacárido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto la amilosa como la amilopectina son polímeros de glucosa y componentes del almidón. La diferencia clave es su estructura: la amilosa es una cadena lineal donde las glucosas se unen por enlaces $\\alpha(1,4)$, mientras que la amilopectina es una cadena ramificada que presenta enlaces $\\alpha(1,4)$ en la cadena principal y enlaces $\\alpha(1,6)$ en los puntos de ramificación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_008",
+      "pregunta": "¿Qué tipo de enlace glucosídico es característico de la celulosa, confiriéndole su gran estabilidad y su función como molécula estructural?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Enlace $\\alpha(1,4)$",
+        "B": "Enlace $\\beta(1,4)$",
+        "C": "Enlace $\\alpha(1,6)$",
+        "D": "Enlace $\\beta(1,2)$",
+        "E": "Enlace $\\alpha(1,1)$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La celulosa está constituida por miles de monómeros de glucosa unidos por enlaces $\\beta(1,4)$. Este tipo de enlace es muy estable y resistente a la hidrólisis por parte de la mayoría de los animales, lo que permite que la celulosa forme fibras lineales y rígidas, ideales para su función estructural en la pared celular de las plantas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_009",
+      "pregunta": "¿Cuál de las siguientes pentosas desempeña un papel crucial en la fotosíntesis al formar parte de la enzima RuBisCO, que fija el $$CO_2$$ atmosférico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ribosa",
+        "B": "Desoxirribosa",
+        "C": "Arabinosa",
+        "D": "Xilosa",
+        "E": "Ribulosa"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La ribulosa es la pentosa que forma parte de la enzima ribulosa-1,5-bifosfato carboxilasa (RuBisCO). Esta enzima es fundamental en el Ciclo de Calvin de la fotosíntesis, ya que cataliza la primera etapa de fijación del dióxido de carbono ($$CO_2$$) atmosférico, un paso esencial para la producción de materia orgánica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_010",
+      "pregunta": "Durante la formación de un disacárido, dos monosacáridos se unen mediante un enlace O-glucosídico. ¿Qué molécula se libera en esta reacción de condensación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una molécula de dióxido de carbono ($$CO_2$$)",
+        "B": "Una molécula de oxígeno ($$O_2$$)",
+        "C": "Una molécula de agua ($$H_2O$$)",
+        "D": "Un ion hidroxilo ($$OH^-$$)",
+        "E": "Un monosacárido de tres carbonos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La formación del enlace O-glucosídico ocurre a través de una reacción de deshidratación o condensación. En este proceso, el grupo hidroxilo ($-OH$) de un monosacárido reacciona con el grupo hidroxilo de otro, lo que resulta en la formación de un enlace covalente y la liberación de una molécula de agua ($$H_2O$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_011",
+      "pregunta": "La celobiosa es un disacárido que constituye la unidad conformadora de la celulosa. ¿De qué monosacáridos y tipo de enlace está compuesto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Glucosa + Fructosa con enlace $\\alpha(1,2)$",
+        "B": "Glucosa + Glucosa con enlace $\\beta(1,4)$",
+        "C": "Galactosa + Glucosa con enlace $\\beta(1,4)$",
+        "D": "Glucosa + Glucosa con enlace $\\alpha(1,4)$",
+        "E": "Fructosa + Fructosa con enlace $\\beta(2,1)$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La celobiosa es el disacárido que se repite para formar la larga cadena de la celulosa. Está compuesto por dos residuos de glucosa que se unen mediante un enlace glucosídico de tipo $\\beta(1,4)$, el mismo enlace que caracteriza a la celulosa y le confiere sus propiedades estructurales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_012",
+      "pregunta": "De acuerdo con las funciones descritas, ¿cuál de las siguientes opciones NO corresponde a una función principal de los glúcidos en los seres vivos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Almacenamiento de energía en forma de almidón.",
+        "B": "Ser componentes estructurales de la pared celular bacteriana.",
+        "C": "Actuar como la principal molécula de almacenamiento de información genética.",
+        "D": "Servir como combustible e intermediarios metabólicos.",
+        "E": "Formar parte de la estructura de ácidos nucleicos como el ARN."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los glúcidos cumplen funciones energéticas (combustible, almidón, glucógeno), estructurales (pared celular, exoesqueleto, ribosa en ARN) y de reserva. Sin embargo, la principal molécula encargada del almacenamiento de la información genética es el ADN (ácido desoxirribonucleico), que es un ácido nucleico, no un glúcido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_013",
+      "pregunta": "Tanto el almidón como la celulosa son polisacáridos formados por monómeros de glucosa, pero cumplen funciones muy diferentes (reserva energética vs. estructural). ¿Cuál es la razón química fundamental de esta diferencia funcional?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El almidón se encuentra en plantas y la celulosa en animales.",
+        "B": "La celulosa es una molécula ramificada, mientras que el almidón es siempre lineal.",
+        "C": "La diferencia en el tipo de enlace glucosídico: $\\alpha(1,4)$ en el almidón y $\\beta(1,4)$ en la celulosa.",
+        "D": "El monómero del almidón es la glucosa y el de la celulosa es la galactosa.",
+        "E": "El almidón es soluble en agua, mientras que la celulosa es un gas a temperatura ambiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La clave de la diferencia funcional reside en la estereoquímica del enlace glucosídico. El almidón posee enlaces $\\alpha(1,4)$, que son fácilmente hidrolizables por las enzimas digestivas de la mayoría de los organismos, lo que lo hace ideal para liberar glucosa y obtener energía. Por el contrario, la celulosa posee enlaces $\\beta(1,4)$, que crean cadenas muy estables y lineales, resistentes a la degradación enzimática, lo cual es perfecto para una función estructural.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_014",
+      "pregunta": "La mureína o peptidoglucano confiere rigidez a la pared celular bacteriana, protegiendo a la célula. ¿Qué tipos de biomoléculas se asocian para constituir esta compleja estructura?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un polisacárido de glucosa y una doble capa de lípidos.",
+        "B": "Cadenas de quitina unidas a proteínas estructurales.",
+        "C": "Glicosaminoglicanos como el ácido hialurónico y una proteína central.",
+        "D": "Unidades de N-Acetilglucosamina y Ácido N-acetilmurámico asociadas con péptidos.",
+        "E": "Un polímero de ribulosa y cadenas de aminoácidos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El peptidoglucano es un heteropolímero complejo que combina un componente glucídico y un componente peptídico. Su estructura básica consiste en cadenas de polisacáridos formadas por la alternancia de dos derivados de azúcares, N-Acetilglucosamina y Ácido N-acetilmurámico. Estas cadenas están entrecruzadas por cadenas cortas de péptidos, creando una malla tridimensional resistente que constituye la pared bacteriana.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_016_015",
+      "pregunta": "La fructosa se utiliza como edulcorante para diabéticos. ¿Cuál es la razón metabólica que justifica este uso?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es menos dulce que la glucosa y se necesita menos cantidad.",
+        "B": "Su metabolismo no precisa de insulina para ingresar a las células.",
+        "C": "Aporta el doble de calorías que la glucosa.",
+        "D": "Se convierte directamente en glucógeno sin ser utilizada como energía.",
+        "E": "Es un polisacárido que se absorbe muy lentamente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fructosa es una hexosa que puede ser metabolizada por las células sin la necesidad de la hormona insulina. Dado que en la diabetes hay problemas con la producción o la acción de la insulina, el uso de fructosa como edulcorante es una alternativa, ya que su ruta metabólica inicial no depende de esta hormona para la captación celular, a diferencia de la glucosa.",
+      "imagen": null
+    }
+  ]
+}

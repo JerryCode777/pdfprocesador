@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 33,
+  "total_temas": 137,
+  "titulo_tema": "Energía Cinética",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_033_001",
+      "pregunta": "¿Cuál es la unidad de medida para la energía, al igual que para el trabajo, en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Watt (W)",
+        "C": "Joule (J)",
+        "D": "Kilogramo (kg)",
+        "E": "Pascal (Pa)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto la energía como el trabajo se miden en Joules (J) en el Sistema Internacional. El Newton es la unidad de fuerza, el Watt es la unidad de potencia, el Kilogramo es la unidad de masa y el Pascal es la unidad de presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_002",
+      "pregunta": "De acuerdo con su definición, ¿en qué situación la energía cinética ($E_k$) de una partícula es igual a cero?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando la partícula se mueve con velocidad constante",
+        "B": "Únicamente si la partícula está en reposo",
+        "C": "Cuando la aceleración es negativa",
+        "D": "Cuando la fuerza neta es cero",
+        "E": "Cuando su energía potencial es máxima"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía cinética está directamente relacionada con el movimiento. Su definición establece que es cero únicamente si la partícula está en reposo, es decir, cuando su velocidad es cero. La fórmula $$E_k = \\frac{1}{2}mv^2$$ confirma que si la velocidad $v$ es cero, entonces $E_k$ también es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_003",
+      "pregunta": "¿Cuál es la fórmula matemática que representa la energía cinética ($E_k$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E_k = mgh$$",
+        "B": "$$E_k = ma$$",
+        "C": "$$E_k = \\frac{1}{2}mv$$",
+        "D": "$$E_k = \\frac{1}{2}mv^2$$",
+        "E": "$$E_k = F_R \\cdot d$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula para la energía cinética de una partícula es $$E_k = \\frac{1}{2}mv^2$$, donde $m$ es la masa de la partícula y $v$ es su rapidez. Las otras opciones corresponden a la energía potencial gravitatoria ($mgh$), la segunda ley de Newton ($ma$) y el trabajo ($F_R \\cdot d$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_004",
+      "pregunta": "¿Con qué propiedad de un sistema se asocia fundamentalmente la energía potencial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Con su movimiento",
+        "B": "Con su temperatura",
+        "C": "Con la posición del sistema",
+        "D": "Con su masa total",
+        "E": "Con su aceleración"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial es la energía asociada con la posición de un sistema, no con su movimiento. Ejemplos de esto son la energía potencial gravitacional, que depende de la altura, y la energía potencial elástica, que depende de la compresión o estiramiento de un resorte.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_005",
+      "pregunta": "La energía mecánica se puede presentar en forma de energía potencial, energía cinética o la suma de ambas. ¿A qué se deben estas formas de energía?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A la temperatura y presión del sistema",
+        "B": "A la masa y el volumen de un objeto",
+        "C": "Al calor y la luz emitidos por un objeto",
+        "D": "A la posición y al movimiento de un objeto",
+        "E": "A las reacciones químicas y nucleares"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía mecánica se define como la energía debida a la posición de algo (energía potencial) y la debida al movimiento de algo (energía cinética).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_006",
+      "pregunta": "¿Qué tipo de cantidad física es la energía cinética y por qué?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Vectorial, porque depende de la velocidad que es un vector.",
+        "B": "Escalar, porque solo depende de la masa y la rapidez, no de la dirección.",
+        "C": "Vectorial, porque siempre apunta en la misma dirección que la fuerza.",
+        "D": "Escalar, porque su valor es siempre constante.",
+        "E": "Adimensional, porque es una relación entre masa y velocidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía cinética es una cantidad escalar. Aunque la velocidad es un vector, la energía cinética solo depende del módulo de la velocidad (la rapidez) elevada al cuadrado y de la masa. Por lo tanto, no tiene una dirección asociada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_007",
+      "pregunta": "Si un cuerpo se mueve con velocidad constante (MRU), ¿cuál es el valor del trabajo neto ($W_{NETO}$) realizado sobre él y por qué?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo, porque hay desplazamiento.",
+        "B": "Negativo, porque la fuerza se opone al movimiento.",
+        "C": "Cero, porque la aceleración es cero.",
+        "D": "Igual a su energía cinética, porque está en movimiento.",
+        "E": "No se puede determinar sin conocer la masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo neto se define como $$W_{NETO} = mad$$. En un movimiento con velocidad constante (MRU), la aceleración $a$ es cero. Por lo tanto, sin importar la masa o el desplazamiento, el trabajo neto realizado sobre el cuerpo es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_008",
+      "pregunta": "Bajo qué condición fundamental existe trabajo neto sobre un cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre que el cuerpo tenga masa y velocidad.",
+        "B": "Únicamente si se mueve en línea recta.",
+        "C": "Si sobre el cuerpo existe una fuerza resultante que logra desplazarlo.",
+        "D": "Cuando la energía potencial del cuerpo cambia.",
+        "E": "Siempre que su velocidad sea constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que exista un trabajo neto, deben cumplirse dos condiciones: debe haber una fuerza resultante (neta) actuando sobre el cuerpo, y esta fuerza debe causar un desplazamiento. Si la fuerza resultante es cero o si no hay desplazamiento, el trabajo neto es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_009",
+      "pregunta": "¿Por qué es imposible que la energía cinética de una partícula sea un valor negativo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la energía es una cantidad vectorial y su módulo no puede ser negativo.",
+        "B": "Porque la masa ($m$) y el cuadrado de la rapidez ($v^2$) son siempre cantidades no negativas.",
+        "C": "Porque la energía total del universo es constante y positiva.",
+        "D": "Porque la energía potencial siempre la compensaría para ser positiva.",
+        "E": "Porque la unidad Joule (J) no admite valores negativos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía cinética se calcula con la fórmula $$E_k = \\frac{1}{2}mv^2$$. La masa $m$ de una partícula es una cantidad escalar positiva. La rapidez $v$ elevada al cuadrado, $v^2$, siempre será un número no negativo (cero o positivo), independientemente de la dirección del movimiento. El producto de dos números no negativos es siempre no negativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_010",
+      "pregunta": "¿Cuál es la relación entre el trabajo neto ($W_{NETO}$), la masa ($m$), la aceleración ($a$) y el desplazamiento ($d$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{NETO} = \\frac{ma}{d}$$",
+        "B": "$$W_{NETO} = mgh$$",
+        "C": "$$W_{NETO} = m + a + d$$",
+        "D": "$$W_{NETO} = \\frac{1}{2}ma^2$$",
+        "E": "$$W_{NETO} = mad$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El trabajo neto es el producto de la fuerza resultante por el desplazamiento, $$W_{NETO} = F_R \\cdot d$$. Según la segunda ley de Newton, la fuerza resultante es el producto de la masa por la aceleración, $$F_R = ma$$. Sustituyendo esta relación, se obtiene que $$W_{NETO} = mad$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_011",
+      "pregunta": "La energía potencial gravitatoria ($E_{PG}$) se calcula como $$E_{PG} = mgh$$. ¿Qué representa el término $h$ en esta fórmula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La altura máxima que puede alcanzar el cuerpo.",
+        "B": "La altura del cuerpo respecto de un nivel de referencia arbitrario.",
+        "C": "La distancia horizontal recorrida por el cuerpo.",
+        "D": "La hipotenusa del desplazamiento del cuerpo.",
+        "E": "Una constante universal de la gravitación."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la fórmula de la energía potencial gravitatoria, $h$ representa la posición vertical (altura) del cuerpo medida con respecto a un nivel de referencia que se puede elegir por conveniencia (por ejemplo, el suelo, una mesa, etc.). La energía potencial depende de esta elección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_012",
+      "pregunta": "¿Cuál es la diferencia fundamental entre el concepto de energía y el de trabajo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No hay diferencia, son exactamente el mismo concepto.",
+        "B": "La energía es la capacidad de realizar trabajo, mientras que el trabajo es la transferencia de energía por una fuerza.",
+        "C": "La energía se mide en Joules y el trabajo en Watts.",
+        "D": "La energía es una cantidad vectorial y el trabajo es una cantidad escalar.",
+        "E": "La energía solo se relaciona con la posición y el trabajo solo con el movimiento."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía se define como la capacidad o propiedad que permite a un objeto realizar trabajo. El trabajo, por su parte, es un proceso de transferencia de energía que ocurre cuando una fuerza produce un desplazamiento. Aunque se miden en las mismas unidades (Joules), conceptualmente son distintos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_013",
+      "pregunta": "Si dos partículas, A y B, tienen la misma masa, pero la partícula A tiene el doble de rapidez que la partícula B, ¿cómo es la energía cinética de A ($E_{kA}$) en comparación con la de B ($E_{kB}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$E_{kA} = E_{kB}$$",
+        "B": "$$E_{kA} = 2 \\cdot E_{kB}$$",
+        "C": "$$E_{kA} = \\frac{1}{2} E_{kB}$$",
+        "D": "$$E_{kA} = 4 \\cdot E_{kB}$$",
+        "E": "$$E_{kA} = \\sqrt{2} \\cdot E_{kB}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía cinética es $$E_k = \\frac{1}{2}mv^2$$. Para la partícula B, $$E_{kB} = \\frac{1}{2}mv_B^2$$. Para la partícula A, la rapidez es $v_A = 2v_B$. Sustituyendo: $$E_{kA} = \\frac{1}{2}m(v_A)^2 = \\frac{1}{2}m(2v_B)^2 = \\frac{1}{2}m(4v_B^2) = 4 \\left( \\frac{1}{2}mv_B^2 \\right) = 4 \\cdot E_{kB}$$. La energía cinética de A es cuatro veces la de B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_014",
+      "pregunta": "Un objeto es empujado con una fuerza resultante constante, pero no logra moverse. ¿Qué se puede concluir sobre el trabajo neto realizado y la energía cinética del objeto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El trabajo neto es positivo y la energía cinética aumenta.",
+        "B": "El trabajo neto es cero y la energía cinética no cambia.",
+        "C": "El trabajo neto es negativo y la energía cinética disminuye.",
+        "D": "El trabajo neto es igual a la fuerza y la energía cinética es cero.",
+        "E": "No se puede determinar sin conocer la masa del objeto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo neto se calcula como $$W_{NETO} = F_R \\cdot d$$. Si el objeto no se mueve, su desplazamiento $d$ es cero. Por lo tanto, el trabajo neto es cero. Como el objeto permanece en reposo, su velocidad es cero, y su energía cinética, $$E_k = \\frac{1}{2}mv^2$$, también es cero y no cambia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_033_015",
+      "pregunta": "¿Cuál es la principal distinción conceptual entre energía cinética y energía potencial gravitatoria?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía cinética depende de la masa y la potencial no.",
+        "B": "La energía cinética se asocia al estado de movimiento de un cuerpo, mientras que la potencial gravitatoria se asocia a su posición en un campo gravitatorio.",
+        "C": "La energía cinética siempre es mayor que la energía potencial gravitatoria.",
+        "D": "La energía cinética es una cantidad escalar, mientras que la energía potencial gravitatoria es una cantidad vectorial.",
+        "E": "La energía cinética se puede transformar en trabajo, pero la energía potencial gravitatoria no."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental radica en su origen. La energía cinética está intrínsecamente ligada al movimiento (depende de la rapidez $v$). En contraste, la energía potencial gravitatoria está asociada a la configuración del sistema, es decir, a la posición (altura $h$) de un objeto dentro de un campo gravitatorio, independientemente de si se está moviendo o no en ese instante.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 87,
+  "total_temas": 137,
+  "titulo_tema": "Conducción",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_087_001",
+      "pregunta": "¿Qué es un calorímetro?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un dispositivo para medir la temperatura de los cuerpos.",
+        "B": "Un recipiente para calentar líquidos a alta presión.",
+        "C": "Un recipiente cerrado y aislado térmicamente para determinar el calor específico.",
+        "D": "Un motor que convierte el calor en trabajo mecánico.",
+        "E": "Un aislante utilizado para prevenir la transferencia de calor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un calorímetro es, por definición, un recipiente con características específicas (cerrado y aislado térmicamente) cuya función principal es permitir la determinación del calor específico de diferentes sustancias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_002",
+      "pregunta": "¿Cuál es el mecanismo de transferencia de calor que se presenta principalmente en los sólidos y no implica transferencia de materia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Radiación",
+        "B": "Convección",
+        "C": "Evaporación",
+        "D": "Conducción",
+        "E": "Sublimación"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La conducción es la forma de propagación del calor que ocurre a través del contacto directo entre cuerpos o partes de un mismo cuerpo, sin que haya un desplazamiento de materia. Este fenómeno es característico de los materiales sólidos, como los metales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_003",
+      "pregunta": "¿En qué consiste la convección como mecanismo de transferencia de calor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En la transferencia de calor por ondas electromagnéticas.",
+        "B": "En el paso de calor entre cuerpos en contacto directo sin mover materia.",
+        "C": "En el transporte de energía calorífica debido al desplazamiento de las moléculas del cuerpo.",
+        "D": "En la absorción de calor durante un cambio de fase de sólido a líquido.",
+        "E": "En la medición del calor específico de un gas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La convección se define como el transporte de calor que se produce por el movimiento físico de las moléculas de un fluido (líquido o gas). Las moléculas calientes se desplazan, transportando la energía calorífica con ellas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_004",
+      "pregunta": "¿Cuál es la dirección natural del flujo de calor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De una región de baja temperatura a una de alta temperatura.",
+        "B": "De una región de alta temperatura a una de baja temperatura.",
+        "C": "Siempre de un sólido a un líquido.",
+        "D": "De un cuerpo con menos masa a uno con más masa.",
+        "E": "De manera aleatoria entre dos regiones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El calor es una forma de energía en tránsito que siempre fluye de manera espontánea desde una zona con mayor temperatura hacia una zona con menor temperatura, hasta que se alcanza el equilibrio térmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_005",
+      "pregunta": "¿En qué tipos de sustancias ocurre principalmente la transferencia de calor por convección?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Únicamente en los sólidos metálicos.",
+        "B": "En el vacío.",
+        "C": "En líquidos o gases.",
+        "D": "En sólidos cristalinos y amorfos.",
+        "E": "Solamente en los gases nobles."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La convección requiere el desplazamiento de moléculas para transportar el calor, un fenómeno que es posible en los fluidos, es decir, en líquidos y gases, cuyas partículas tienen libertad de movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_006",
+      "pregunta": "¿Cuál es la finalidad principal para la que se utiliza un calorímetro?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Medir la temperatura de ebullición de un líquido.",
+        "B": "Determinar la masa de un cuerpo por su capacidad calorífica.",
+        "C": "Almacenar energía térmica de forma indefinida.",
+        "D": "Determinar el calor específico de los cuerpos.",
+        "E": "Calcular la velocidad de transferencia de calor por radiación."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La función específica del calorímetro, como recipiente aislado, es permitir realizar mediciones de intercambio de calor para poder calcular una propiedad intrínseca de los materiales: su calor específico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_007",
+      "pregunta": "¿Qué representa el 'equivalente en agua de un calorímetro'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa total de agua que puede contener el calorímetro.",
+        "B": "La cantidad de agua que tiene la misma masa que el calorímetro.",
+        "C": "La masa de agua que se calienta a la misma temperatura que el calorímetro.",
+        "D": "La cantidad de agua que absorbe o disipa la misma cantidad de calor que el calorímetro para un mismo cambio de temperatura.",
+        "E": "El volumen de agua necesario para disolver el material del calorímetro."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El equivalente en agua es un concepto que simplifica los cálculos al representar la capacidad calorífica del calorímetro como si fuera una masa de agua. Específicamente, es la masa de agua que tendría el mismo comportamiento térmico (absorber o disipar la misma cantidad de calor para el mismo cambio de temperatura) que el propio recipiente del calorímetro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre los mecanismos de conducción y convección?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La conducción solo ocurre en líquidos y la convección en sólidos.",
+        "B": "La conducción requiere un medio material, mientras que la convección puede ocurrir en el vacío.",
+        "C": "La conducción transfiere calor sin transferencia de masa, mientras que la convección implica el desplazamiento de masa.",
+        "D": "La conducción es un proceso rápido y la convección es un proceso lento.",
+        "E": "La conducción transfiere calor de frío a caliente, y la convección de caliente a frío."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción clave entre ambos mecanismos radica en el movimiento de la materia. En la conducción, la energía se transfiere de molécula a molécula por contacto, pero las moléculas no se desplazan de su posición. En la convección, las moléculas del fluido se mueven, transportando la energía calorífica con ellas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_009",
+      "pregunta": "En la fórmula del equivalente en agua de un calorímetro, $$m_{agua} = \\frac{m_{cal} \\cdot C_{cal}}{C_{agua}}$$, ¿qué representa el término $m_{cal}$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa del agua contenida en el calorímetro.",
+        "B": "El calor específico del calorímetro.",
+        "C": "La masa del calorímetro.",
+        "D": "El equivalente en agua del calorímetro.",
+        "E": "El cambio de temperatura del calorímetro."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la expresión matemática para el equivalente en agua, cada variable tiene un significado específico. El término $m_{cal}$ corresponde a la masa del propio calorímetro, que es un factor necesario para calcular su capacidad para absorber o disipar calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_010",
+      "pregunta": "Si al calentar una olla con agua en una estufa, el mango metálico de la olla también se calienta, ¿qué mecanismo de transferencia de calor es el principal responsable de calentar el mango?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Convección, porque el calor fluye a través del metal.",
+        "B": "Radiación, porque la estufa emite ondas de calor.",
+        "C": "Conducción, porque el calor se transfiere a través del material sólido del mango.",
+        "D": "Evaporación, porque el agua al hervir calienta el mango.",
+        "E": "Equivalente en agua, porque el mango absorbe calor como el agua."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El mango es una parte sólida de la olla. El calor viaja desde la parte de la olla en contacto con el fuego hacia el mango a través del material metálico. Este proceso, que implica la transferencia de calor en un sólido sin transferencia de materia, es la conducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_011",
+      "pregunta": "Al calentar una habitación con un radiador, el aire cercano a él se calienta, se vuelve menos denso y asciende, mientras que el aire más frío y denso desciende para ocupar su lugar, creando una corriente. ¿Cómo se denomina este proceso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Conducción",
+        "B": "Radiación",
+        "C": "Aislamiento térmico",
+        "D": "Equilibrio térmico",
+        "E": "Convección"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El escenario describe el movimiento de masa (aire) debido a diferencias de temperatura y densidad. El desplazamiento de las moléculas de aire caliente transportando energía calorífica es el mecanismo de transferencia de calor conocido como convección. Este es el principal modo en que se calientan los fluidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_012",
+      "pregunta": "¿Qué condición es indispensable para que se produzca la transferencia de calor por conducción entre dos objetos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que ambos objetos sean líquidos.",
+        "B": "Que exista un espacio vacío entre ellos.",
+        "C": "Que los objetos estén en contacto físico directo.",
+        "D": "Que uno de los objetos sea un gas.",
+        "E": "Que ambos objetos tengan la misma temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La conducción es un mecanismo de transferencia de calor que depende de la interacción directa entre las partículas de los cuerpos. Por lo tanto, es fundamental que los objetos se encuentren en contacto físico para que la energía térmica pueda pasar de uno a otro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_013",
+      "pregunta": "¿Cuál de las siguientes expresiones matemáticas representa correctamente el cálculo del equivalente en agua ($m_{agua}$) de un calorímetro?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$m_{agua} = \\frac{m_{cal} \\cdot C_{agua}}{C_{cal}}$$",
+        "B": "$$m_{agua} = m_{cal} \\cdot C_{cal} \\cdot C_{agua}$$",
+        "C": "$$m_{agua} = \\frac{C_{cal} \\cdot C_{agua}}{m_{cal}}$$",
+        "D": "$$m_{agua} = \\frac{m_{cal} \\cdot C_{cal}}{C_{agua}}$$",
+        "E": "$$m_{agua} = m_{cal} + C_{cal} + C_{agua}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula correcta para el equivalente en agua ($m_{agua}$) relaciona la capacidad calorífica del calorímetro ($m_{cal} \\cdot C_{cal}$) con la del agua ($C_{agua}$). La expresión es $m_{agua} = (m_{cal} \\cdot C_{cal}) / C_{agua}$. Las otras opciones presentan combinaciones incorrectas de las variables.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_014",
+      "pregunta": "Utilizando la relación $$m_{agua} = \\frac{m_{cal} \\cdot C_{cal}}{C_{agua}}$$, si se construye un calorímetro con un material que tiene un calor específico ($C_{cal}$) mayor, pero manteniendo la misma masa ($m_{cal}$), ¿cómo se verá afectado su equivalente en agua ($m_{agua}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Disminuirá, porque el calor específico es inversamente proporcional.",
+        "B": "Aumentará, porque $m_{agua}$ es directamente proporcional a $C_{cal}$.",
+        "C": "No cambiará, porque la masa del calorímetro es la misma.",
+        "D": "Será igual a cero, ya que los efectos se cancelan.",
+        "E": "Dependerá del valor del calor específico del agua, $C_{agua}$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Analizando la fórmula, se observa que el equivalente en agua ($m_{agua}$) es directamente proporcional al calor específico del calorímetro ($C_{cal}$). Esto significa que si $C_{cal}$ aumenta y las otras variables ($m_{cal}$ y $C_{agua}$) se mantienen constantes, el valor de $m_{agua}$ también aumentará. Físicamente, esto implica que se necesitaría una mayor cantidad de agua para igualar la capacidad de absorción de calor del nuevo calorímetro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_087_015",
+      "pregunta": "Dos barras metálicas idénticas, A y B, se ponen en contacto. La barra A está a 80°C y la barra B a 20°C. ¿Qué proceso describe la transferencia de energía entre ellas hasta que alcanzan el equilibrio térmico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Convección, ya que las moléculas de metal se desplazarán de A hacia B.",
+        "B": "Radiación, porque la barra A emite calor en forma de ondas hacia B.",
+        "C": "Conducción, porque el calor se transfiere a través del contacto directo entre los sólidos.",
+        "D": "Calorimetría, porque se está midiendo el calor específico de las barras.",
+        "E": "Equivalente en agua, porque la transferencia de calor es similar a la del agua."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El escenario describe dos cuerpos sólidos en contacto directo con diferentes temperaturas. La energía fluirá de la barra más caliente (A) a la más fría (B) a través de su punto de contacto. Este mecanismo de transferencia de calor en sólidos, sin desplazamiento de materia, es la conducción. La convección no ocurre en sólidos, y aunque siempre hay algo de radiación, la conducción es el mecanismo dominante en este caso.",
+      "imagen": null
+    }
+  ]
+}

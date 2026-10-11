@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_302_001",
-      "pregunta": "¿Cuál es la estructura general que representa a un aldehído?",
+      "pregunta": "¿Cuál es la estructura general de un aldehído?",
       "dificultad": 1,
       "opciones": {
         "A": "$$R-CO-R'$$",
         "B": "$$R-OH$$",
-        "C": "$$R-CHO$$",
-        "D": "$$R-O-R'$$",
+        "C": "$$R-O-R'$$",
+        "D": "$$R-CHO$$",
         "E": "$$R-COOH$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un aldehído se caracteriza por tener un grupo carbonilo ($$-C=O$$) enlazado a un grupo alquilo ($$R$$) y a un átomo de hidrógeno. Esta configuración se representa de forma abreviada con la fórmula general $$R-CHO$$. La opción A, $$R-CO-R'$$, representa a una cetona; la B, $$R-OH$$, a un alcohol; la D, $$R-O-R'$$, a un éter; y la E, $$R-COOH$$, a un ácido carboxílico.",
+      "respuesta_correcta": "D",
+      "explicacion": "La estructura general de un aldehído es $$R-CHO$$, lo que indica que el grupo carbonilo ($$-C=O$$) está enlazado a un grupo alquilo ($$R$$) y a un átomo de hidrógeno. La opción A corresponde a una cetona, la B a un alcohol, la C a un éter y la E a un ácido carboxílico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_002",
-      "pregunta": "¿Qué terminación se utiliza para nombrar a las cetonas según la nomenclatura IUPAC?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "-al",
-        "B": "-ol",
-        "C": "-oico",
-        "D": "-ona",
-        "E": "-ano"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "La nomenclatura IUPAC para las cetonas consiste en sustituir la terminación \"-ano\" del alcano con la misma cantidad de carbonos por la terminación \"-ona\". Por ejemplo, el propano se convierte en propanona. El sufijo \"-al\" es para aldehídos, \"-ol\" para alcoholes, y \"-oico\" para ácidos carboxílicos.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_302_003",
-      "pregunta": "¿Cuál es la estructura general de una cetona?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$$R-CHO$$",
-        "B": "$$R-CO-R'$$",
-        "C": "$$R-COO-R'$$",
-        "D": "$$R-NH_2$$",
-        "E": "$$R-OH$$"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "Una cetona se define por tener un grupo carbonilo ($$-C=O$$) enlazado a dos grupos alquilo ($$R$$ y $$R'$$), que pueden ser idénticos o diferentes. Su fórmula general es $$R-CO-R'$$. La opción A, $$R-CHO$$, es un aldehído; la C, $$R-COO-R'$$, es un éster; la D, $$R-NH_2$$ es una amina; y la E, $$R-OH$$, es un alcohol.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_302_004",
-      "pregunta": "¿Qué sufijo se añade al nombre del alcano correspondiente para nombrar un aldehído?",
+      "pregunta": "Según la nomenclatura IUPAC, ¿qué terminación sustituye a la \"-o\" de un alcano para nombrar a un aldehído?",
       "dificultad": 1,
       "opciones": {
         "A": "-ona",
         "B": "-ol",
         "C": "-al",
-        "D": "-ino",
-        "E": "-ico"
+        "D": "-oico",
+        "E": "-ilo"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Según las reglas de la IUPAC, los aldehídos se nombran tomando el nombre del alcano de la cadena principal y cambiando la letra final \"-o\" por el sufijo \"-al\". Por ejemplo, el etano se convierte en etanal. El sufijo \"-ona\" corresponde a las cetonas y \"-ol\" a los alcoholes.",
+      "explicacion": "Para nombrar un aldehído según las reglas de la IUPAC, la letra final \"-o\" del alcano correspondiente se reemplaza por la terminación \"-al\". Por ejemplo, el etano se convierte en etanal. La terminación \"-ona\" es para cetonas y \"-ol\" para alcoholes.",
       "imagen": null
     },
     {
-      "id_temporal": "quimica_302_005",
-      "pregunta": "En la nomenclatura de aldehídos, ¿qué número de localizador se asigna siempre al carbono del grupo funcional $$-CHO$$?",
+      "id_temporal": "quimica_302_003",
+      "pregunta": "¿Cuál es la estructura general que representa a una cetona?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R-CHO$$",
+        "B": "$$R-CO-R'$$",
+        "C": "$$R-OH$$",
+        "D": "$$R-O-R'$$",
+        "E": "$$R-COOH$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estructura general de una cetona es $$R-CO-R'$$, donde el grupo carbonilo ($$-C=O$$) está enlazado a dos grupos alquilo, que pueden ser iguales o diferentes. La opción A corresponde a un aldehído.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_302_004",
+      "pregunta": "En la nomenclatura de aldehídos, ¿qué número se asigna siempre al carbono del grupo carbonilo ($$-CHO$$)?",
       "dificultad": 1,
       "opciones": {
         "A": "El número más bajo posible",
         "B": "El número 2",
-        "C": "No se le asigna número",
-        "D": "El último número de la cadena",
-        "E": "El número 1"
+        "C": "El número 1",
+        "D": "No se le asigna número",
+        "E": "Depende de los otros sustituyentes"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El carbono del grupo aldehído ($$-CHO$$) se encuentra siempre en el extremo de una cadena carbonada. Por convención de la IUPAC, a este carbono se le asigna siempre la posición número 1. Debido a que su posición es invariable, no es necesario indicar este número en el nombre del compuesto.",
+      "respuesta_correcta": "C",
+      "explicacion": "En la nomenclatura IUPAC para aldehídos, el carbono del grupo funcional aldehído ($$-CHO$$) siempre se encuentra al final de la cadena, por lo que se le asigna por definición la posición número 1. Esto hace innecesario indicar su posición en el nombre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_302_005",
+      "pregunta": "¿Qué terminación se utiliza para nombrar a las cetonas según el sistema IUPAC?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-al",
+        "B": "-ona",
+        "C": "-ol",
+        "D": "-dial",
+        "E": "-ano"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las cetonas se nombran reemplazando la terminación \"-ano\" del alcano con la misma cantidad de carbonos por la terminación \"-ona\". Por ejemplo, el propano se convierte en propanona.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_006",
-      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula $$CH_{3}CH_{2}CHO$$?",
+      "pregunta": "¿Cuál es la principal diferencia estructural entre el grupo funcional de un aldehído y el de una cetona?",
       "dificultad": 2,
       "opciones": {
-        "A": "Etanal",
-        "B": "Propanona",
-        "C": "Ácido propanoico",
-        "D": "Propanal",
-        "E": "Propanol"
+        "A": "Las cetonas tienen un doble enlace oxígeno y los aldehídos no.",
+        "B": "El carbono carbonílico de un aldehído está unido a un hidrógeno, mientras que el de una cetona está unido a dos grupos alquilo.",
+        "C": "Los aldehídos son siempre cadenas lineales y las cetonas son siempre cíclicas.",
+        "D": "Las cetonas contienen un grupo hidroxilo ($$-OH$$) y los aldehídos no.",
+        "E": "El carbono carbonílico de una cetona está unido a un hidrógeno, mientras que el de un aldehído a dos grupos alquilo."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La molécula tiene una cadena de tres átomos de carbono, por lo que su alcano de referencia es el propano. Al contener el grupo funcional aldehído ($$-CHO$$), se sustituye la terminación \"-o\" de propano por \"-al\". Por lo tanto, el nombre correcto es Propanal.",
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos, aldehídos y cetonas, contienen un grupo carbonilo ($$-C=O$$). La diferencia fundamental radica en sus enlaces: en un aldehído ($$R-CHO$$), el carbono carbonílico se une al menos a un átomo de hidrógeno. En una cetona ($$R-CO-R'$$), este carbono se une a dos grupos alquilo, lo que significa que el grupo carbonilo es interno en la cadena.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_007",
-      "pregunta": "Al nombrar una molécula que contiene un grupo hidroxilo ($$-OH$$) y un doble enlace, ¿qué grupo funcional tiene prioridad para recibir el localizador más bajo?",
+      "pregunta": "¿Cuál es el nombre IUPAC para el compuesto $$CH_3CHO$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "El doble enlace",
-        "B": "El grupo hidroxilo ($$-OH$$)",
-        "C": "Ambos tienen la misma prioridad",
-        "D": "El que esté más cerca del centro de la cadena",
-        "E": "El triple enlace, si estuviera presente"
+        "A": "Metanal",
+        "B": "Propanal",
+        "C": "Etanal",
+        "D": "Etanona",
+        "E": "1-Etanal"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura IUPAC, el grupo funcional hidroxilo ($$-OH$$) de los alcoholes tiene mayor prioridad que las insaturaciones (dobles o triples enlaces). Por consiguiente, la cadena de carbonos se numera de tal manera que el carbono enlazado al grupo $$-OH$$ reciba el número localizador más bajo posible.",
+      "respuesta_correcta": "C",
+      "explicacion": "El compuesto tiene dos átomos de carbono, por lo que su alcano correspondiente es el etano. Al ser un aldehído (presencia del grupo $$-CHO$$), la terminación \"-o\" se cambia por \"-al\". Por lo tanto, el nombre correcto es Etanal. No se necesita un número localizador porque el carbono del aldehído es siempre el número 1.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_008",
-      "pregunta": "¿Qué sufijo se utiliza para nombrar un compuesto que contiene dos grupos funcionales aldehído en su cadena principal?",
+      "pregunta": "¿Cuál es el nombre IUPAC para la molécula $$CH_3-CO-CH_3$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "-diona",
-        "B": "-dial",
-        "C": "-bisal",
-        "D": "-diol",
-        "E": "-diico"
+        "A": "Propanal",
+        "B": "2-Propanal",
+        "C": "Acetona",
+        "D": "Propanona",
+        "E": "Etil metil cetona"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Cuando una molécula presenta dos grupos aldehído en su estructura, se utiliza el sufijo \"-dial\". El nombre se construye a partir del alcano correspondiente seguido de esta terminación, como por ejemplo, Butanodial. El sufijo \"-diona\" se usa para dos grupos cetona y \"-diol\" para dos grupos alcohol.",
+      "respuesta_correcta": "D",
+      "explicacion": "La molécula tiene una cadena de tres carbonos (propano) y un grupo carbonilo en el carbono central, característico de una cetona. Por lo tanto, la terminación \"-ano\" se cambia por \"-ona\", resultando en el nombre Propanona. Aunque su nombre común es acetona, el nombre IUPAC es Propanona.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_009",
-      "pregunta": "¿Cuál es la principal diferencia estructural entre un aldehído y una cetona?",
+      "pregunta": "Cuando una molécula contiene dos grupos funcionales aldehído, ¿qué sufijo se emplea en su nomenclatura?",
       "dificultad": 2,
       "opciones": {
-        "A": "Las cetonas tienen un doble enlace oxígeno y los aldehídos no.",
-        "B": "Los aldehídos tienen al menos un hidrógeno unido al carbonilo, mientras que las cetonas tienen dos grupos alquilo.",
-        "C": "Los aldehídos son siempre cíclicos y las cetonas son lineales.",
-        "D": "El grupo carbonilo de un aldehído está en medio de la cadena y el de una cetona al final.",
-        "E": "No hay diferencia estructural, solo en su nomenclatura."
+        "A": "-diona",
+        "B": "di-al",
+        "C": "-al-al",
+        "D": "-dial",
+        "E": "bis-aldehído"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Ambos grupos funcionales, aldehídos y cetonas, poseen un grupo carbonilo ($$-C=O$$). La diferencia fundamental radica en los sustituyentes unidos a este grupo. En un aldehído ($$R-CHO$$), el carbono del carbonilo está enlazado a al menos un átomo de hidrógeno. En una cetona ($$R-CO-R'$$), este carbono está enlazado a dos grupos que contienen carbono (alquilos).",
+      "respuesta_correcta": "D",
+      "explicacion": "Para nombrar un compuesto que contiene dos grupos aldehído en su cadena principal, se utiliza el sufijo \"-dial\". Se nombra el alcano correspondiente a la longitud de la cadena y se añade esta terminación. Por ejemplo, una cadena de 4 carbonos con aldehídos en ambos extremos se llamaría Butanodial.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_010",
-      "pregunta": "¿Cuál es el nombre IUPAC para la molécula $$CH_{3}-CO-CH_{3}$$?",
+      "pregunta": "Al nombrar una molécula que posee un grupo funcional hidroxilo ($$-OH$$) y un doble enlace, ¿cuál de ellos tiene prioridad para recibir el localizador más bajo?",
       "dificultad": 2,
       "opciones": {
-        "A": "Acetona",
-        "B": "Etanona",
-        "C": "Metil cetona",
-        "D": "Propanal",
-        "E": "Propanona"
+        "A": "El doble enlace, por ser una insaturación.",
+        "B": "El grupo funcional hidroxilo ($$-OH$$).",
+        "C": "Ninguno, se numera para que la suma de localizadores sea la menor.",
+        "D": "El que esté más cerca del centro de la cadena.",
+        "E": "Tienen la misma prioridad."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Esta molécula es una cetona con una cadena de tres carbonos. El alcano base es el propano. Para nombrar la cetona, se reemplaza la terminación \"-ano\" por \"-ona\", lo que da como resultado el nombre Propanona. Acetona es el nombre común para este compuesto, pero no el nombre sistemático IUPAC.",
+      "respuesta_correcta": "B",
+      "explicacion": "El grupo funcional hidroxilo ($$-OH$$) tiene una mayor prioridad que las insaturaciones (dobles y triples enlaces). Por lo tanto, la cadena de carbono se numera de tal manera que el carbono unido al grupo $$-OH$$ reciba el localizador más bajo posible.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_011",
-      "pregunta": "¿Por qué no es necesario especificar la posición del grupo funcional en el nombre \"Propanal\"?",
+      "pregunta": "¿Por qué en la nomenclatura de cetonas es necesario precisar la posición del grupo carbonilo, a diferencia de los aldehídos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque es una molécula muy pequeña.",
-        "B": "Porque el grupo aldehído ($$-CHO$$) siempre ocupa la posición 1 por definición.",
-        "C": "Porque es un nombre común y no IUPAC.",
-        "D": "Porque la molécula es simétrica.",
-        "E": "Porque el grupo carbonilo puede estar en cualquier posición."
+        "A": "Porque las cetonas son más reactivas.",
+        "B": "Porque el grupo carbonilo en una cetona puede ocupar diferentes posiciones internas, mientras que en un aldehído siempre está en el carbono 1.",
+        "C": "Es una convención sin base estructural.",
+        "D": "Porque el grupo carbonilo de un aldehído no forma parte de la cadena principal.",
+        "E": "Solo es necesario en cetonas cíclicas."
       },
       "respuesta_correcta": "B",
-      "explicacion": "En el sistema de nomenclatura IUPAC para aldehídos, el carbono del grupo funcional ($$-CHO$$) siempre se define como el carbono número 1 de la cadena principal. Dado que su posición es fija e inequívoca, no es necesario incluir el localizador \"1\" en el nombre del compuesto.",
+      "explicacion": "El grupo aldehído ($$-CHO$$) por su estructura siempre se encuentra en un extremo de la cadena, por lo que se le asigna la posición 1 por defecto. En cambio, el grupo carbonilo de una cetona ($$-CO-$$) es interno y puede estar en diferentes posiciones en cadenas de más de cuatro carbonos (p. ej., 2-Pentanona o 3-Pentanona), haciendo indispensable el uso de un localizador para evitar ambigüedad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_012",
-      "pregunta": "¿Cómo se nombra una cetona cíclica según las reglas de la IUPAC?",
+      "pregunta": "Al nombrar una cetona cíclica, como la ciclohexanona, ¿cómo se indica la presencia del grupo funcional?",
       "dificultad": 2,
       "opciones": {
-        "A": "Usando el prefijo \"ceto-\" antes del nombre del cicloalcano.",
-        "B": "Se nombra el sustituyente alquilo seguido de la palabra \"cetona\".",
-        "C": "Se añade la terminación \"-ona\" o \"-diona\" al nombre del sistema cíclico.",
-        "D": "Se numera el ciclo y se usa el sufijo \"-carbaldehído\".",
-        "E": "Siempre se considera un sustituyente de una cadena principal."
+        "A": "Añadiendo el prefijo \"ceto-\" al nombre del cicloalcano.",
+        "B": "Tratando el anillo como un sustituyente.",
+        "C": "Añadiendo la terminación \"-ona\" al nombre del sistema cíclico.",
+        "D": "Usando el sufijo \"-al\" como en los aldehídos.",
+        "E": "Anteponiendo la palabra \"Cetona\" al nombre del ciclo."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Para las cetonas cíclicas, el nombre se forma tomando el nombre del cicloalcano correspondiente y añadiendo el sufijo \"-ona\" (para un grupo carbonilo), \"-diona\" (para dos), y así sucesivamente. Por ejemplo, un anillo de seis miembros con un grupo cetona se denomina Ciclohexanona.",
+      "explicacion": "Las cetonas cíclicas se nombran añadiendo las terminaciones \"-ona\", \"-diona\", etc., directamente al nombre del sistema cíclico. Por ejemplo, un ciclohexano con un grupo cetona se nombra Ciclohexanona.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_013",
-      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula $$H_{3}C–CH(OH)–CH_{2}–CH=CH–CH_{3}$$?",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para el compuesto $$H_3C–CH(OH)–CH_2–CH=CH–CH_3$$?",
       "dificultad": 3,
       "opciones": {
         "A": "Hex-2-en-5-ol",
-        "B": "2-Hidroxihex-4-eno",
-        "C": "Hex-4-en-2-ol",
-        "D": "Hexan-2-ol-4-eno",
-        "E": "5-Hidroxihex-2-eno"
+        "B": "Hex-4-en-2-ol",
+        "C": "2-Hidroxihex-4-eno",
+        "D": "5-Hidroxihex-2-eno",
+        "E": "Hexanoleno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El grupo funcional principal es el alcohol ($$-OH$$), que tiene prioridad sobre el doble enlace. Por lo tanto, la cadena se numera desde el extremo más cercano al grupo $$-OH$$, que en este caso es la derecha. Esto asigna la posición 2 al carbono con el $$-OH$$. El doble enlace comienza en el carbono 4. La cadena tiene 6 carbonos (hex-). El nombre se forma indicando la posición del doble enlace (4-en) y la del grupo alcohol (2-ol). Combinando estas partes se obtiene Hex-4-en-2-ol.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para nombrar este compuesto, se debe seguir la regla de prioridad: el grupo $$-OH$$ tiene prioridad sobre el doble enlace. Por lo tanto, la cadena de 6 carbonos (Hex-) se numera desde la izquierda para dar al $$-OH$$ el localizador más bajo, que es 2. El doble enlace comienza en el carbono 4. El nombre se construye indicando la posición del doble enlace (\"-4-en-\") y luego la del alcohol (\"-2-ol\"). El nombre completo es Hex-4-en-2-ol.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_014",
-      "pregunta": "¿Por qué es necesario utilizar un localizador para nombrar la pentanona pero no para la propanona?",
+      "pregunta": "Identifique el nombre IUPAC correcto para el compuesto cuya estructura es $$CH_3CH_2COCH_3$$.",
       "dificultad": 3,
       "opciones": {
-        "A": "Porque la propanona es un nombre común.",
-        "B": "Porque la cadena del butano es más larga y requiere numeración siempre.",
-        "C": "Porque en la propanona, el grupo carbonilo solo puede estar en la posición 2, haciendo el localizador redundante.",
-        "D": "La butanona es cíclica, mientras que la propanona es lineal.",
-        "E": "Ambos compuestos requieren siempre un localizador para ser nombrados correctamente."
+        "A": "Propanona",
+        "B": "Metil etil cetona",
+        "C": "2-Butanal",
+        "D": "Butanona",
+        "E": "1-Metilpropanona"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "En la propanona ($$CH_{3}-CO-CH_{3}$$), el grupo carbonilo solo puede estar en el carbono central (posición 2). Si estuviera en un carbono terminal (1 o 3), sería un aldehído (propanal). Por lo tanto, su posición es única e inequívoca, y el localizador es innecesario. En cambio, en una cetona de cadena más larga como la pentanona, el carbonilo podría estar en la posición 2 o 3, creando isómeros de posición (Pentan-2-ona y Pentan-3-ona). Esto hace que el uso de un localizador sea indispensable para diferenciar entre ellos.",
+      "respuesta_correcta": "D",
+      "explicacion": "La cadena principal tiene 4 átomos de carbono, por lo que el nombre base es \"butano\". El grupo funcional es una cetona ($$-CO-$$), así que la terminación es \"-ona\". Al numerar la cadena, el grupo carbonilo recibe el localizador más bajo posible, que es 2. Sin embargo, en una cadena de 4 carbonos, esta es la única posición posible para un grupo cetona, por lo que el nombre IUPAC aceptado es simplemente Butanona. \"Metil etil cetona\" es un nombre común, no IUPAC.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_302_015",
-      "pregunta": "¿Cuál sería el nombre IUPAC para una molécula que consta de una cadena de 9 carbonos con grupos cetona en las posiciones 2 y 7, y un sustituyente ciclohexilo en la posición 5?",
+      "pregunta": "¿Cuál es el nombre correcto para una cadena de nonano con grupos cetona en las posiciones 2 y 7, y un sustituyente ciclohexilo en la posición 5?",
       "dificultad": 3,
       "opciones": {
-        "A": "5-ciclohexilnonano-2,7-cetona",
-        "B": "2,7-dicetononano-5-ciclohexilo",
-        "C": "5-ciclohexil-2,7-nonadiona",
-        "D": "5-ciclohexilnonano-2,7-diona",
-        "E": "Ciclohexil-5 nonano-2,7-diona"
+        "A": "5-Ciclohexil-2,7-nonanodial",
+        "B": "5-Ciclohexilnonano-2,7-diona",
+        "C": "2,7-Diceto-5-ciclohexilnonano",
+        "D": "Ciclohexilnonanodiona",
+        "E": "Nonano-2,7-diona, 5-ciclohexil"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El nombre se construye siguiendo las reglas IUPAC. Primero, se identifica la cadena principal, que es de 9 carbonos (nonano). Luego, se localizan los sustituyentes y grupos funcionales. Hay un grupo ciclohexilo en la posición 5 (5-ciclohexil). Hay dos grupos cetona en las posiciones 2 y 7, lo que se indica con el sufijo \"-diona\" y sus localizadores (2,7-diona). Combinando estas partes en el orden correcto (sustituyente, cadena principal, sufijo del grupo funcional) se obtiene 5-ciclohexilnonano-2,7-diona.",
+      "respuesta_correcta": "B",
+      "explicacion": "El nombre se construye siguiendo las reglas IUPAC. La cadena principal es de 9 carbonos (nonano). Hay dos grupos cetona, por lo que se usa el sufijo \"-diona\", con sus localizadores (2,7). Hay un sustituyente ciclohexilo en la posición 5. Los sustituyentes se nombran primero. Por lo tanto, el nombre completo es 5-ciclohexilnonano-2,7-diona.",
       "imagen": null
     }
   ]

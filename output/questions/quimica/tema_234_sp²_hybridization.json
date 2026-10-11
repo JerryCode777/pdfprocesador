@@ -3,5 +3,231 @@
   "numero_tema": 234,
   "total_temas": 322,
   "titulo_tema": "sp² Hybridization",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_234_001",
+      "pregunta": "¿Cuál es el ángulo aproximado que forman entre sí los tres orbitales híbridos $sp^2$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$90^\\circ$$",
+        "B": "$$109.5^\\circ$$",
+        "C": "$$120^\\circ$$",
+        "D": "$$180^\\circ$$",
+        "E": "$$60^\\circ$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La hibridación $sp^2$ resulta en tres orbitales híbridos que se orientan en un plano para minimizar la repulsión electrónica. Esta disposición corresponde a una geometría trigonal plana, con ángulos de enlace de aproximadamente $120^\\circ$ entre cada orbital. El ángulo de $109.5^\\circ$ corresponde a la hibridación $sp^3$ y el de $180^\\circ$ a la hibridación $sp$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_002",
+      "pregunta": "¿Qué porcentaje de carácter \"s\" posee un orbital híbrido $sp^2$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "25%",
+        "B": "33%",
+        "C": "50%",
+        "D": "67%",
+        "E": "100%"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un orbital híbrido $sp^2$ se forma por la combinación de un orbital atómico $s$ y dos orbitales atómicos $p$. Por lo tanto, el carácter \"s\" es de una parte en tres, lo que equivale aproximadamente al 33%. El 67% restante corresponde al carácter \"p\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_003",
+      "pregunta": "En el proceso de hibridación $sp^2$, ¿cuántos orbitales $2p$ del átomo de carbono permanecen sin hibridar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cero",
+        "B": "Uno",
+        "C": "Dos",
+        "D": "Tres",
+        "E": "Cuatro"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La hibridación $sp^2$ implica la mezcla del orbital $2s$ con dos de los tres orbitales $2p$. Esto da como resultado tres orbitales híbridos $sp^2$ y deja un orbital $2p$ original sin cambios o sin hibridar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_004",
+      "pregunta": "¿Cuál es el tipo de hibridación que presentan los seis átomos de carbono en la molécula de benceno ($C_6H_6$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$sp$",
+        "B": "$sp^2$",
+        "C": "$sp^3$",
+        "D": "$sp^3d$",
+        "E": "No presentan hibridación"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estructura del benceno es un hexágono plano con ángulos de enlace C-C-C de $120^\\circ$. Esta geometría es característica de átomos con hibridación $sp^2$. Cada uno de los seis átomos de carbono en el benceno tiene esta hibridación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_005",
+      "pregunta": "Según el modelo de hibridación, los tres orbitales $sp^2$ se encuentran distribuidos en...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "los vértices de un tetraedro.",
+        "B": "un eje común con orientación opuesta.",
+        "C": "un plano.",
+        "D": "una forma esférica.",
+        "E": "dos planos perpendiculares."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los tres orbitales híbridos $sp^2$ se disponen en un mismo plano, apuntando hacia los vértices de un triángulo equilátero. Esta disposición plana es la que da lugar a la geometría trigonal plana con ángulos de $120^\\circ$. La disposición tetraédrica corresponde a la hibridación $sp^3$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_006",
+      "pregunta": "¿Cuál es la orientación del orbital $p$ no hibridado con respecto al plano formado por los orbitales híbridos $sp^2$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralelo al plano",
+        "B": "Perpendicular al plano",
+        "C": "En un ángulo de $$45^\\circ$$ con el plano",
+        "D": "Contenido dentro del mismo plano",
+        "E": "No tiene una orientación definida"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando un átomo sufre hibridación $sp^2$, los tres orbitales híbridos resultantes se sitúan en un plano. El orbital $p$ que no participó en la hibridación se mantiene en su orientación original, que es perpendicular a dicho plano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_007",
+      "pregunta": "¿Qué tipo de hibridación se asocia con la formación de enlaces triples y una orientación de orbitales híbridos a $$180^\\circ$$ entre sí?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$sp$",
+        "B": "$sp^2$",
+        "C": "$sp^3$",
+        "D": "$s^2p$",
+        "E": "$p^3$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La hibridación $sp$ se utiliza para explicar la formación de enlaces triples. Resulta en dos orbitales híbridos $sp$ que se orientan en un eje común con un ángulo de $180^\\circ$ entre ellos, dando lugar a una geometría lineal. La hibridación $sp^2$ se asocia con enlaces dobles y ángulos de $120^\\circ$, mientras que la $sp^3$ se asocia con enlaces sencillos y ángulos de $109.5^\\circ$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_008",
+      "pregunta": "La evidencia de que todos los ángulos de enlace C-C-C en el benceno son de $$120^\\circ$$ es consistente con que sus átomos de carbono tienen hibridación...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$sp$, que forma ángulos de $$180^\\circ$$",
+        "B": "$sp^2$, que forma ángulos de $$120^\\circ$$",
+        "C": "$sp^3$, que forma ángulos de $$109.5^\\circ$$",
+        "D": "$sp^3$, pero la tensión del anillo lo fuerza a $$120^\\circ$$",
+        "E": "sin hibridar, adoptando la geometría del anillo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El modelo de hibridación de orbitales predice geometrías y ángulos de enlace específicos. Un ángulo de $$120^\\circ$$ es la firma de la hibridación $sp^2$. El hecho de que el benceno presente experimentalmente estos ángulos en su estructura hexagonal plana confirma que el modelo de hibridación $sp^2$ es adecuado para describir sus átomos de carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_009",
+      "pregunta": "¿Cómo se compara el carácter \"s\" de un orbital $sp^2$ con el de un orbital $sp$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El orbital $sp^2$ tiene mayor carácter \"s\"",
+        "B": "El orbital $sp$ tiene mayor carácter \"s\"",
+        "C": "Ambos tienen el mismo carácter \"s\"",
+        "D": "El carácter \"s\" depende del átomo, no de la hibridación",
+        "E": "El orbital $sp^2$ tiene carácter \"p\" pero no \"s\""
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El carácter \"s\" se refiere a la contribución del orbital $s$ en el orbital híbrido. En la hibridación $sp$, se mezcla un orbital $s$ con un orbital $p$, resultando en un 50% de carácter \"s\". En la hibridación $sp^2$, se mezcla un orbital $s$ con dos orbitales $p$, resultando en un 33% de carácter \"s\". Por lo tanto, el orbital $sp$ tiene un mayor carácter \"s\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_010",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente el resultado de la hibridación $sp^2$ en contraste con la hibridación $sp^3$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La hibridación $sp^2$ produce menos orbitales híbridos que la $sp^3$.",
+        "B": "La hibridación $sp^3$ deja un orbital $p$ sin hibridar.",
+        "C": "La hibridación $sp^2$ forma una geometría tetraédrica.",
+        "D": "La hibridación $sp^3$ forma ángulos de $120^\\circ$.",
+        "E": "Ambas producen el mismo número de orbitales híbridos."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La hibridación $sp^2$ (un $s$ + dos $p$) resulta en tres orbitales híbridos. La hibridación $sp^3$ (un $s$ + tres $p$) resulta en cuatro orbitales híbridos. Por lo tanto, la hibridación $sp^2$ produce menos orbitales híbridos. La hibridación $sp^3$ no deja orbitales $p$ sin hibridar y forma una geometría tetraédrica con ángulos de $109.5^\\circ$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_011",
+      "pregunta": "La longitud de los enlaces carbono-carbono en el benceno ($139 \\text{ pm}$) es un valor intermedio entre un enlace sencillo ($154 \\text{ pm}$) y uno doble ($134 \\text{ pm}$). ¿Qué sugiere esta evidencia estructural?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El benceno alterna rápidamente entre enlaces sencillos y dobles.",
+        "B": "Todos los enlaces carbono-carbono en el benceno son idénticos y de una naturaleza intermedia.",
+        "C": "La mitad de los enlaces son sencillos y la otra mitad son dobles.",
+        "D": "Los enlaces del benceno son más débiles que los enlaces sencillos típicos.",
+        "E": "La molécula de benceno no es plana."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El hecho de que todos los enlaces C-C tengan la misma longitud, y que esta sea intermedia entre la de un enlace simple y uno doble, indica que no hay enlaces simples y dobles distintos. En cambio, todos los enlaces son equivalentes, con un carácter parcial de doble enlace, lo que se refleja en una densidad electrónica idéntica en todos ellos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_012",
+      "pregunta": "¿Por qué la reactividad del benceno se considera inusual para una molécula insaturada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque es una molécula saturada que se comporta como insaturada.",
+        "B": "Porque, a pesar de ser insaturada, no experimenta las reacciones de adición típicas de los alquenos.",
+        "C": "Porque reacciona más violentamente que los alquenos típicos.",
+        "D": "Porque todos sus enlaces son enlaces sencillos, lo que le confiere estabilidad.",
+        "E": "Porque su estructura es tetraédrica, no plana."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las moléculas insaturadas, como los alquenos, típicamente sufren reacciones de adición a través de sus dobles enlaces. El benceno, aunque es insaturado, es notablemente estable y no sufre estas reacciones de adición, lo que lo hace mucho menos reactivo de lo esperado y constituye una de sus propiedades químicas más características.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_013",
+      "pregunta": "Considerando que cada uno de los seis átomos de carbono en el benceno tiene hibridación $sp^2$, ¿cuál es el número total de orbitales $p$ no hibridados en la molécula completa y cuál es su disposición espacial colectiva?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Seis orbitales $p$, todos paralelos entre sí y perpendiculares al plano del anillo.",
+        "B": "Un orbital $p$, ubicado en el centro del anillo.",
+        "C": "Doce orbitales $p$, seis paralelos y seis perpendiculares al anillo.",
+        "D": "Seis orbitales $p$, orientados radialmente hacia el exterior del anillo.",
+        "E": "Tres orbitales $p$, alternados en posiciones opuestas del hexágono."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La hibridación $sp^2$ en cada uno de los seis átomos de carbono del benceno deja un orbital $p$ sin hibridar por cada carbono. Por lo tanto, hay un total de seis orbitales $p$ no hibridados en la molécula. Dado que cada orbital $p$ es perpendicular al plano de los orbitales $sp^2$ (que forman el anillo), todos estos seis orbitales $p$ son paralelos entre sí, posicionados por encima y por debajo del plano del anillo hexagonal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_014",
+      "pregunta": "Un átomo de carbono forma enlaces con otros tres átomos. Si se observa que estos tres enlaces se encuentran en un mismo plano y los ángulos entre ellos son de aproximadamente $120^\\circ$, ¿qué se puede concluir sobre la hibridación de ese átomo de carbono y la existencia de otros orbitales de valencia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Tiene hibridación $sp^3$ y no le quedan orbitales de valencia disponibles.",
+        "B": "Tiene hibridación $sp$ y dos orbitales $p$ no hibridados perpendiculares entre sí.",
+        "C": "Tiene hibridación $sp^2$ y un orbital $p$ no hibridado perpendicular al plano de los enlaces.",
+        "D": "Tiene hibridación $sp^2$ y todos sus orbitales de valencia están formando estos tres enlaces.",
+        "E": "No está hibridado; utiliza sus orbitales $s$ y $p$ puros para formar los enlaces."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una geometría con tres enlaces en un plano y ángulos de $120^\\circ$ corresponde a una disposición trigonal plana. Este arreglo es el resultado de la hibridación $sp^2$. Este tipo de hibridación utiliza un orbital $s$ y dos orbitales $p$, dejando un orbital $p$ de valencia sin hibridar. Este orbital $p$ restante es perpendicular al plano de los tres orbitales híbridos $sp^2$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_234_015",
+      "pregunta": "A partir de la descripción de los diferentes tipos de hibridación, ¿qué característica geométrica fundamental diferencia a una molécula con carbonos de hibridación $sp^2$ (como el benceno) de una con hibridación $sp^3$ (como el metano)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La presencia de enlaces dobles en la hibridación $sp^3$.",
+        "B": "La hibridación $sp^2$ conduce a estructuras planas, mientras que la $sp^3$ conduce a estructuras tridimensionales (tetraédricas).",
+        "C": "La hibridación $sp^3$ siempre forma anillos, mientras que la $sp^2$ forma cadenas.",
+        "D": "El número de orbitales híbridos es el mismo en ambos casos, solo cambia el ángulo.",
+        "E": "La hibridación $sp^2$ es para compartir dos electrones, y la $sp^3$ para compartir cuatro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia geométrica más importante es la dimensionalidad. La hibridación $sp^2$ resulta en tres orbitales coplanares que forman estructuras planas (geometría trigonal plana). En contraste, la hibridación $sp^3$ produce cuatro orbitales que apuntan a los vértices de un tetraedro, resultando en una estructura tridimensional. El benceno es plano debido a la hibridación $sp^2$, mientras que el metano ($CH_4$, no mencionado pero un ejemplo clásico) es tetraédrico debido a la hibridación $sp^3$.",
+      "imagen": null
+    }
+  ]
 }

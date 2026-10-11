@@ -6,158 +6,53 @@
   "preguntas": [
     {
       "id_temporal": "quimica_230_001",
-      "pregunta": "¿Qué describe el concepto de covalencia del carbono?",
+      "pregunta": "¿Qué se entiende por covalencia en el átomo de carbono?",
       "dificultad": 1,
       "opciones": {
-        "A": "La capacidad de transferir electrones a metales.",
-        "B": "La capacidad de compartir electrones con otros átomos mediante enlaces covalentes.",
-        "C": "La tendencia a formar enlaces iónicos con no metales.",
-        "D": "La pérdida total de sus electrones de valencia.",
-        "E": "La formación de orbitales sin electrones."
+        "A": "La capacidad de perder electrones para formar cationes.",
+        "B": "La capacidad de ganar electrones para formar aniones.",
+        "C": "La capacidad de compartir electrones con otros átomos mediante enlaces covalentes.",
+        "D": "La transferencia completa de electrones de un átomo a otro.",
+        "E": "La atracción electrostática entre iones de carga opuesta."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La covalencia es la capacidad que tiene un átomo, en este caso el carbono, para formar enlaces covalentes. Esto se logra al compartir sus electrones de valencia con otros átomos, que pueden ser iguales o diferentes. Las otras opciones describen procesos como la formación de enlaces iónicos (transferencia de electrones) o la pérdida de electrones, que no corresponden a la definición de covalencia.",
+      "respuesta_correcta": "C",
+      "explicacion": "La covalencia del carbono se define específicamente como su capacidad para formar enlaces compartiendo electrones con otros átomos, ya sean de carbono o de otros elementos. Las otras opciones describen la formación de enlaces iónicos (transferencia de electrones) o la formación de iones, que son procesos distintos al enlace covalente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_230_002",
-      "pregunta": "¿Cómo se define el proceso de hibridación de orbitales atómicos?",
+      "pregunta": "¿Cuál es la definición de hibridación de orbitales atómicos?",
       "dificultad": 1,
       "opciones": {
-        "A": "La eliminación de orbitales para aumentar la energía del átomo.",
-        "B": "La promoción de electrones sin que los orbitales cambien.",
-        "C": "La combinación de orbitales atómicos puros para formar nuevos orbitales híbridos.",
-        "D": "La ionización completa del átomo para formar un catión.",
-        "E": "La fusión de núcleos atómicos para crear un nuevo elemento."
+        "A": "La promoción de un electrón a un nivel de energía superior.",
+        "B": "La combinación de orbitales atómicos puros para formar nuevos orbitales híbridos.",
+        "C": "La eliminación de electrones de la capa de valencia.",
+        "D": "El ordenamiento de electrones según la regla de Hund en orbitales puros.",
+        "E": "La formación de enlaces dobles y triples exclusivamente."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La hibridación es un modelo que describe la combinación o solapamiento de orbitales atómicos puros (como los orbitales s y p) para generar un nuevo conjunto de orbitales, llamados orbitales híbridos. Este proceso implica una redistribución de los orbitales originales para explicar la geometría y las propiedades de enlace observadas en las moléculas.",
+      "respuesta_correcta": "B",
+      "explicacion": "La hibridación es el proceso teórico de combinación o solapamiento de orbitales atómicos puros (como los orbitales s y p) para generar un conjunto de nuevos orbitales, denominados híbridos, que tienen energías y formas diferentes a los originales. Este proceso permite explicar la geometría molecular observada.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_230_003",
-      "pregunta": "¿Qué científico fue el responsable de postular la teoría de la hibridación de orbitales?",
+      "pregunta": "¿Quién fue el científico que postuló el concepto de hibridación de orbitales?",
       "dificultad": 1,
       "opciones": {
         "A": "Niels Bohr",
-        "B": "Gilbert N. Lewis",
-        "C": "Linus Pauling",
-        "D": "Erwin Schrödinger",
-        "E": "Dmitri Mendeléyev"
+        "B": "Erwin Schrödinger",
+        "C": "Friedrich Hund",
+        "D": "Linus Pauling",
+        "E": "Gilbert N. Lewis"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Linus Pauling, un destacado químico y ganador de dos premios Nobel, fue quien postuló la teoría de la hibridación de orbitales para explicar la estructura de las moléculas, como el metano ($$CH_4$$), donde el carbono forma cuatro enlaces idénticos a pesar de tener electrones en orbitales $s$ y $p$ con diferentes energías.",
+      "respuesta_correcta": "D",
+      "explicacion": "Linus Pauling fue el químico que propuso la teoría de la hibridación de orbitales para explicar la estructura de las moléculas y la naturaleza de los enlaces químicos, especialmente en la química del carbono.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_230_004",
-      "pregunta": "¿Cuál es la configuración electrónica del átomo de carbono en su estado basal?",
+      "pregunta": "En la hibridación $sp³$, ¿cuántos orbitales híbridos nuevos se obtienen?",
       "dificultad": 1,
-      "opciones": {
-        "A": "$$1s^2 2s^1 2p^3$$",
-        "B": "$$1s^2 2s^2 2p^2$$",
-        "C": "$$1s^2 2s^2 2p^6$$",
-        "D": "$$1s^2 2s^2$$",
-        "E": "$$1s^2 2p^4$$"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "El estado basal representa la configuración electrónica de menor energía de un átomo. Para el carbono, que tiene 6 electrones, esta configuración es $$1s^2 2s^2 2p^2$$. Esto significa que tiene dos electrones en el primer nivel de energía ($$1s$$), dos en el orbital $$2s$$ y dos en los orbitales $$2p$$ del segundo nivel.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_230_005",
-      "pregunta": "¿Cuáles son los tres tipos de hibridación que se mencionan para el átomo de carbono?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$$sp^3, sp^2, sp$$",
-        "B": "$$s^3, p^2, p^1$$",
-        "C": "$$d^2sp^3, dsp^2, dsp$$",
-        "D": "$$sp^4, sp^3, sp^2$$",
-        "E": "$$s, p, d$$"
-      },
-      "respuesta_correcta": "A",
-      "explicacion": "Para el carbono, los tipos de hibridación dependen de cuántos orbitales $p$ se combinan con el orbital $s$. Las tres hibridaciones posibles son: $$sp^3$$ (un $s$ con tres $p$), $$sp^2$$ (un $s$ con dos $p$) y $$sp$$ (un $s$ con un $p$). Cada tipo de hibridación da lugar a geometrías moleculares y tipos de enlace diferentes.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_230_006",
-      "pregunta": "¿Qué evento ocurre para que el carbono pase de su estado basal ($$1s^2 2s^2 2p^2$$) a su estado excitado ($$1s^2 2s^1 2p^3$$)?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Un electrón del orbital $$1s$$ es transferido al $$2s$$.",
-        "B": "El átomo pierde un electrón del orbital $$2p$$.",
-        "C": "Se combinan los orbitales $$2s$$ y $$2p$$ directamente.",
-        "D": "Un electrón del orbital $$2s$$ es promovido a un orbital $$2p$$ vacío.",
-        "E": "El átomo gana un electrón en el orbital $$2s$$."
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "El paso del estado basal al excitado es un paso conceptual previo a la hibridación. Implica la absorción de una pequeña cantidad de energía que promueve uno de los electrones del orbital $$2s$$ al orbital $$2pz$$ que se encuentra vacío. Esto resulta en la configuración $$1s^2 2s^1 2p^3$$, con cuatro electrones desapareados, lo que permite al carbono formar cuatro enlaces.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_230_007",
-      "pregunta": "¿A partir de qué combinación de orbitales atómicos puros se forman los cuatro orbitales híbridos $$sp^3$$?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Cuatro orbitales $$p$$",
-        "B": "Un orbital $$s$$ y dos orbitales $$p$$",
-        "C": "Dos orbitales $$s$$ y dos orbitales $$p$$",
-        "D": "Un orbital $$2s$$ y los tres orbitales $$2p$$ ($$2px, 2py, 2pz$$)",
-        "E": "Un orbital $$s$$ y un orbital $$p$$"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "La hibridación $$sp^3$$ recibe su nombre de los orbitales que se combinan. Se mezcla un orbital atómico $$2s$$ con los tres orbitales atómicos $$2p$$ (denominados $$2px, 2py, 2pz$$). El resultado de esta combinación son cuatro nuevos orbitales híbridos, idénticos en forma y energía, llamados orbitales $$sp^3$$.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_230_008",
-      "pregunta": "En un orbital híbrido $$sp^3$$, ¿cuál es el porcentaje de carácter 's' y carácter 'p'?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "50% 's' y 50% 'p'",
-        "B": "33.3% 's' y 66.7% 'p'",
-        "C": "25% 's' y 75% 'p'",
-        "D": "75% 's' y 25% 'p'",
-        "E": "0% 's' y 100% 'p'"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "La hibridación $$sp^3$$ se forma a partir de cuatro orbitales atómicos: uno de tipo $s$ y tres de tipo $p$. Al combinarse para formar cuatro orbitales híbridos idénticos, el carácter original se distribuye equitativamente. Por lo tanto, cada orbital $$sp^3$$ tiene 1/4 de carácter $s$ (25%) y 3/4 de carácter $p$ (75%).",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_230_009",
-      "pregunta": "¿Qué principio o regla explica por qué los cuatro electrones de valencia del carbono se distribuyen en orbitales $$sp^3$$ semillenos?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Principio de exclusión de Pauli",
-        "B": "Regla de Hund",
-        "C": "Principio de Aufbau",
-        "D": "Principio de incertidumbre de Heisenberg",
-        "E": "Ley de la conservación de la masa"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla de Hund establece que, dentro de un subnivel de energía, los electrones ocuparán primero los orbitales de forma individual (semillenos) antes de empezar a aparearse. Dado que los cuatro orbitales híbridos $$sp^3$$ tienen la misma energía (son degenerados), los cuatro electrones de valencia del carbono se distribuyen uno en cada orbital, resultando en cuatro orbitales semillenos listos para formar enlaces.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_230_010",
-      "pregunta": "¿Cuál es la configuración electrónica que representa el estado excitado del carbono, que es el paso previo a la hibridación?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "$$1s^2 2s^2 2p^2$$",
-        "B": "$$1s^2 2s^1 2p^3$$",
-        "C": "$$1s^2 2s^2 2p^1$$",
-        "D": "$$1s^2 2s^0 2p^4$$",
-        "E": "$$1s^2 2s^2 2p^3$$"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "El estado excitado se alcanza cuando un electrón del orbital $$2s$$ es promovido al orbital $$2p$$ vacío. Esto cambia la configuración basal $$1s^2 2s^2 2p^2$$ a la configuración excitada $$1s^2 2s^1 2p^3$$. Este estado presenta cuatro electrones desapareados, lo que explica la capacidad del carbono para formar cuatro enlaces.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_230_011",
-      "pregunta": "¿Cuántos orbitales híbridos $$sp^3$$ se obtienen al finalizar el proceso de hibridación?",
-      "dificultad": 2,
       "opciones": {
         "A": "Uno",
         "B": "Dos",
@@ -166,67 +61,172 @@
         "E": "Cinco"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El número de orbitales híbridos formados es siempre igual al número de orbitales atómicos puros que se combinan. En la hibridación $$sp^3$$, se combina un orbital $$s$$ con tres orbitales $$p$$ (1 + 3 = 4 orbitales puros). Por lo tanto, se generan cuatro orbitales híbridos $$sp^3$$.",
+      "explicacion": "La hibridación $sp³$ se produce por la mezcla de un orbital atómico $s$ y tres orbitales atómicos $p$. El número de orbitales híbridos resultantes es igual al número de orbitales puros que se combinan, por lo tanto, se obtienen cuatro orbitales híbridos $sp³$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_230_005",
+      "pregunta": "¿Cuál es la configuración electrónica del carbono en su estado basal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1s^2 2s^1 2p^3$$",
+        "B": "$$1s^2 2s^2 2p^2$$",
+        "C": "$$1s^2 2s^2 2p^6$$",
+        "D": "$$1s^2 2s^2$$",
+        "E": "$$1s^2 2s^1 2p^5$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El estado basal representa la configuración electrónica de menor energía para un átomo. Para el carbono, que tiene 6 electrones, esta configuración es $$1s^2 2s^2 2p^2$$. La opción A corresponde al estado excitado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_230_006",
+      "pregunta": "¿Qué evento fundamental ocurre para que el carbono pase de su estado basal a su estado excitado, previo a la hibridación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un electrón del orbital $1s$ salta al orbital $2p$.",
+        "B": "Se pierde un electrón del orbital $2p$.",
+        "C": "Un electrón del orbital $2s$ es promovido a un orbital $2p$ vacío.",
+        "D": "Los electrones del orbital $2p$ se aparean.",
+        "E": "El átomo gana un electrón en el orbital $2s$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El paso del estado basal ($$1s^2 2s^2 2p^2$$) al estado excitado ($$1s^2 2s^1 2p^3$$) implica que el átomo absorbe energía, lo que permite que uno de los electrones del orbital $2s$ sea promovido al orbital $2p_z$, que estaba vacío. Esto resulta en cuatro orbitales semillenos, lo que maximiza la capacidad de formación de enlaces.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_230_007",
+      "pregunta": "Un orbital híbrido $sp³$ se denomina así porque proviene de la combinación de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tres orbitales $s$ y un orbital $p$.",
+        "B": "Un orbital $s$ y tres orbitales $p$.",
+        "C": "Un orbital $s$ y un orbital $p$, tres veces.",
+        "D": "Orbitales de los niveles de energía 1 y 3.",
+        "E": "Orbitales con tres electrones cada uno."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El nombre de los orbitales híbridos indica los orbitales puros que participaron en su formación. En el caso de $sp³$, la notación significa que se combinó un orbital $s$ (el superíndice implícito es 1) con tres orbitales $p$ (el superíndice es 3).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_230_008",
+      "pregunta": "¿Cuál es la configuración electrónica del carbono en su estado excitado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1s^2 2s^2 2p^2$$",
+        "B": "$$1s^2 2s^1 2p^2$$",
+        "C": "$$1s^2 2s^0 2p^4$$",
+        "D": "$$1s^2 2s^2 2p^3$$",
+        "E": "$$1s^2 2s^1 2p^3$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El estado excitado del carbono se alcanza cuando un electrón del orbital $2s$ se promueve al orbital $2p$ vacío. Esto cambia la configuración basal $$1s^2 2s^2 2p^2$$ a $$1s^2 2s^1 2p^3$$, dejando cuatro electrones desapareados, uno en el orbital $2s$ y tres en los orbitales $2p$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_230_009",
+      "pregunta": "¿Qué porcentaje de carácter 's' posee cada uno de los cuatro orbitales híbridos $sp³$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "100%",
+        "B": "75%",
+        "C": "50%",
+        "D": "25%",
+        "E": "0%"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los orbitales híbridos $sp³$ se forman a partir de un orbital $s$ y tres orbitales $p$, para un total de cuatro orbitales. La contribución del orbital $s$ se divide equitativamente entre los cuatro orbitales híbridos resultantes. Por lo tanto, el carácter 's' es de (1 orbital s / 4 orbitales híbridos) * 100% = 25%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_230_010",
+      "pregunta": "¿Qué característica comparten los cuatro orbitales híbridos $sp³$ que se forman?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tienen la misma energía.",
+        "B": "Tienen diferentes formas y tamaños.",
+        "C": "Dos son de tipo 's' y dos son de tipo 'p'.",
+        "D": "Están orientados en un mismo plano.",
+        "E": "Permanecen vacíos después de la hibridación."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Un principio clave de la hibridación es que los orbitales atómicos de diferentes energías (como el $2s$ y el $2p$) se combinan para formar un nuevo conjunto de orbitales híbridos que son todos equivalentes en energía (degenerados). Por lo tanto, los cuatro orbitales $sp³$ tienen la misma energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_230_011",
+      "pregunta": "De acuerdo con la regla de Hund, ¿cómo se distribuyen los electrones de valencia del carbono en los orbitales híbridos $sp³$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dos electrones en un orbital y los otros dos en otro, dejando dos orbitales vacíos.",
+        "B": "Los cuatro electrones se aparean en dos de los cuatro orbitales.",
+        "C": "Un electrón ocupa cada uno de los cuatro orbitales, manteniéndolos semillenos.",
+        "D": "Los electrones se distribuyen aleatoriamente sin seguir ninguna regla.",
+        "E": "Tres electrones en un orbital y el cuarto en otro orbital."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de Hund establece que en orbitales de igual energía (degenerados), los electrones se distribuyen de forma que ocupan el mayor número posible de orbitales, y con espines paralelos. Dado que los cuatro orbitales $sp³$ tienen la misma energía, los cuatro electrones de valencia del carbono se distribuyen uno en cada orbital, resultando en cuatro orbitales semillenos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_230_012",
-      "pregunta": "El propósito fundamental del modelo de hibridación es explicar la formación de...",
+      "pregunta": "¿Qué orbitales atómicos puros del carbono se mezclan para dar lugar a la hibridación $sp³$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Iones positivos y negativos.",
-        "B": "Isótopos radiactivos del carbono.",
-        "C": "Nuevos orbitales híbridos a partir de orbitales puros.",
-        "D": "La promoción de electrones a niveles de energía superiores sin formar enlaces.",
-        "E": "La estructura del núcleo atómico."
+        "A": "El orbital $1s$ y tres orbitales $2p$.",
+        "B": "El orbital $2s$ y los orbitales $2p_x$, $2p_y$ y $2p_z$.",
+        "C": "El orbital $2s$ y dos de los tres orbitales $2p$.",
+        "D": "Únicamente los tres orbitales $2p$.",
+        "E": "Los orbitales $1s$, $2s$ y $2p$."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El objetivo principal de la teoría de la hibridación es proponer un modelo que justifique las geometrías moleculares y la equivalencia de los enlaces que se observan experimentalmente. Esto se logra mediante la postulación de la combinación de orbitales atómicos puros (como s y p) para formar un nuevo conjunto de orbitales híbridos (como $$sp^3, sp^2, sp$$) que tienen las propiedades adecuadas para formar los enlaces observados.",
+      "respuesta_correcta": "B",
+      "explicacion": "La hibridación $sp³$ involucra la capa de valencia del carbono. Específicamente, se combinan el único orbital esférico $2s$ con los tres orbitales lobulares $2p$ ($2p_x$, $2p_y$, y $2p_z$) para formar cuatro orbitales híbridos $sp³$ idénticos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_230_013",
-      "pregunta": "¿Cuál es la principal consecuencia de que los cuatro orbitales híbridos $$sp^3$$ tengan la misma energía (sean degenerados)?",
+      "pregunta": "¿Cuál es la consecuencia directa, en términos de capacidad de enlace, de la hibridación $sp³$ del carbono?",
       "dificultad": 3,
       "opciones": {
-        "A": "Que el carbono solo pueda formar dos enlaces covalentes fuertes y dos débiles.",
-        "B": "Que los cuatro electrones de valencia se apareen en dos orbitales, dejando dos vacíos.",
-        "C": "Que los cuatro electrones de valencia puedan distribuirse en orbitales semillenos, permitiendo la formación de cuatro enlaces equivalentes.",
-        "D": "Que el átomo de carbono se vuelva altamente inestable y no pueda enlazarse.",
-        "E": "Que los orbitales híbridos mantengan la forma esférica del orbital $$s$$."
+        "A": "Reduce la capacidad del carbono para formar enlaces, de cuatro a dos.",
+        "B": "Hace que el carbono solo pueda formar enlaces iónicos.",
+        "C": "Resulta en cuatro orbitales semillenos, haciendo que cuatro electrones estén disponibles para el enlace.",
+        "D": "Mantiene la capacidad de formar solo dos enlaces, como en el estado basal.",
+        "E": "Transforma al carbono en un átomo inerte que no forma enlaces."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El hecho de que los cuatro orbitales $$sp^3$$ sean degenerados (tengan la misma energía) es crucial. Según la regla de Hund, los electrones ocuparán orbitales de igual energía de forma individual antes de aparearse. Esto permite que los cuatro electrones de valencia del carbono ocupen cada uno un orbital $$sp^3$$, creando cuatro orbitales semillenos. Cada uno de estos orbitales puede entonces solaparse con un orbital de otro átomo para formar cuatro enlaces covalentes, lo cual es característico del carbono en compuestos como el metano.",
+      "explicacion": "En su estado basal ($$2s^2 2p^2$$), el carbono parece tener solo dos electrones desapareados, sugiriendo que formaría dos enlaces. La hibridación, que pasa por el estado excitado, redistribuye los cuatro electrones de valencia en cuatro orbitales híbridos $sp³$ de igual energía, cada uno con un electrón. Esto hace que el carbono tenga cuatro electrones disponibles para formar cuatro enlaces covalentes, lo cual concuerda con la tetravalencia observada del carbono.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_230_014",
-      "pregunta": "Analizando el proceso de hibridación $$sp^3$$, ¿qué relación se cumple siempre entre los orbitales que se combinan y los que se forman?",
+      "pregunta": "Si un orbital híbrido tiene un 75% de carácter 'p', ¿de qué tipo de hibridación se trata y qué implica sobre su composición?",
       "dificultad": 3,
       "opciones": {
-        "A": "El número de orbitales híbridos es el doble del número de orbitales $$p$$ utilizados.",
-        "B": "Se forma un orbital híbrido por cada electrón de valencia del átomo.",
-        "C": "El número de orbitales híbridos formados es siempre igual al número de orbitales atómicos puros que se combinaron.",
-        "D": "La energía total de los orbitales híbridos es mayor que la suma de las energías de los orbitales puros.",
-        "E": "Se pierde un orbital $$p$$ en el proceso de hibridación."
+        "A": "Hibridación $sp$, implicando que se formó de un orbital $s$ y un orbital $p$.",
+        "B": "Hibridación $sp^2$, implicando que se formó de un orbital $s$ y dos orbitales $p$.",
+        "C": "Hibridación $sp³$, implicando que se formó de un orbital $s$ y tres orbitales $p$.",
+        "D": "Hibridación $p^3$, implicando que se formó solo de tres orbitales $p$.",
+        "E": "Hibridación $s^3p$, implicando que se formó de tres orbitales $s$ y un orbital $p$."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Este es un principio fundamental de la hibridación, a menudo llamado 'conservación de orbitales'. El número de orbitales que entran en el proceso de mezcla debe ser igual al número de orbitales que resultan. En la hibridación $$sp^3$$, un orbital $$s$$ y tres orbitales $$p$$ (4 en total) se combinan para dar lugar a cuatro orbitales híbridos $$sp^3$$ (4 en total).",
+      "explicacion": "Un 75% de carácter 'p' significa que las tres cuartas partes de la composición del orbital híbrido provienen de orbitales $p$. El 25% restante debe provenir de un orbital $s$. Esta proporción (3 partes de $p$ por 1 parte de $s$) corresponde exactamente a la hibridación $sp³$, donde un orbital $s$ y tres orbitales $p$ se combinan para formar cuatro orbitales híbridos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_230_015",
-      "pregunta": "Considerando la transición del estado basal al estado hibridado $$sp^3$$ en el carbono, ¿cuál es el resultado final en términos de capacidad de enlace?",
+      "pregunta": "El proceso de hibridación en el carbono se describe como una secuencia de estados. ¿Cuál es el orden correcto de estos estados?",
       "dificultad": 3,
       "opciones": {
-        "A": "La formación de dos orbitales llenos y dos vacíos, permitiendo dos enlaces.",
-        "B": "La creación de cuatro orbitales semillenos, cada uno disponible para formar un enlace covalente.",
-        "C": "La pérdida de los electrones del nivel 2, dejando al carbono sin capacidad de enlace.",
-        "D": "La formación de un orbital $$s$$ y tres orbitales $$p$$ con energías distintas.",
-        "E": "La promoción de un electrón sin cambiar la cantidad de enlaces que puede formar (divalencia)."
+        "A": "Estado excitado → Estado basal → Estado hibridado",
+        "B": "Estado basal → Estado hibridado → Estado excitado",
+        "C": "Estado hibridado → Estado basal → Estado excitado",
+        "D": "Estado basal → Estado excitado → Estado hibridado",
+        "E": "Estado excitado → Estado hibridado → Estado basal"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El proceso completo (excitación y posterior hibridación $$sp^3$$) transforma la configuración basal del carbono, que aparenta tener capacidad para dos enlaces (divalencia, por sus dos electrones en orbitales $$p$$), en un estado con cuatro orbitales híbridos $$sp^3$$ idénticos en energía y forma. Cada uno de estos orbitales contiene un electrón, lo que resulta en cuatro orbitales semillenos. Esto hace que el carbono esté disponible para formar cuatro enlaces covalentes, explicando así su tetravalencia característica en muchos compuestos orgánicos.",
+      "respuesta_correcta": "D",
+      "explicacion": "El modelo de hibridación postula una secuencia lógica para explicar la formación de enlaces. Primero, el átomo se encuentra en su estado de mínima energía, el estado basal. Luego, absorbe energía para promover un electrón, alcanzando el estado excitado, que tiene más electrones desapareados. Finalmente, los orbitales del estado excitado se combinan matemáticamente para formar los orbitales del estado hibridado, que son los que participarán en el enlace.",
       "imagen": null
     }
   ]

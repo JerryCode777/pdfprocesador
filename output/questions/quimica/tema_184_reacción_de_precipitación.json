@@ -9,224 +9,224 @@
       "pregunta": "¿Qué es un precipitado en el contexto de una reacción química?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un líquido que se separa de una mezcla.",
-        "B": "Un gas liberado durante una reacción en disolución.",
+        "A": "Un líquido que se forma y se separa de la disolución.",
+        "B": "Un gas liberado durante la reacción.",
         "C": "Un sólido insoluble que se forma en el seno de una disolución.",
-        "D": "Un compuesto soluble que colorea la disolución.",
-        "E": "El catalizador que acelera la formación de productos."
+        "D": "Una sal completamente soluble en agua.",
+        "E": "El catalizador que acelera la reacción."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Un precipitado es, por definición, un sólido que se forma a partir de una disolución y que es insoluble en el disolvente. En las reacciones de precipitación, dos disoluciones de compuestos iónicos solubles reaccionan para formar un producto sólido insoluble.",
+      "explicacion": "Un precipitado se define como un sólido con baja solubilidad o completamente insoluble que se genera en el interior de una disolución como resultado de una reacción química. Las otras opciones describen otros fenómenos químicos, pero no la formación de un precipitado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_002",
-      "pregunta": "Las reacciones de metátesis, como la precipitación y la neutralización, también se conocen como reacciones NO-REDOX. ¿Qué característica fundamental justifica este nombre?",
+      "pregunta": "¿Qué característica principal define a las reacciones de metátesis como NO-REDOX?",
       "dificultad": 1,
       "opciones": {
-        "A": "Producen siempre agua como subproducto.",
-        "B": "No presentan cambios en el estado de oxidación de los elementos.",
-        "C": "Son reacciones que siempre liberan calor (exotérmicas).",
-        "D": "Requieren la presencia de un metal como catalizador.",
-        "E": "Involucran una transferencia de protones pero no de electrones."
+        "A": "Siempre liberan energía en forma de calor.",
+        "B": "Solo ocurren en medio acuoso.",
+        "C": "Hay una transferencia de protones entre las especies.",
+        "D": "No presentan cambios en el estado de oxidación de los elementos.",
+        "E": "Involucran la formación de enlaces covalentes."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Estas reacciones se denominan NO-REDOX porque no hay una transferencia neta de electrones entre los reactivos. Como resultado, el estado de oxidación de cada uno de los elementos involucrados permanece constante antes y después de la reacción. Las reacciones REDOX, en cambio, se caracterizan por el cambio en los estados de oxidación.",
+      "respuesta_correcta": "D",
+      "explicacion": "Las reacciones de metátesis se clasifican como NO-REDOX porque los números o estados de oxidación de todos los elementos involucrados permanecen constantes desde los reactivos hasta los productos. No hay transferencia de electrones, que es la característica principal de las reacciones REDOX.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_003",
-      "pregunta": "¿Qué tipo de reacción de metátesis se produce entre un ácido y una base para formar sal y agua?",
+      "pregunta": "Según las reglas generales de solubilidad, ¿cuál de los siguientes aniones forma compuestos que son siempre solubles en agua?",
       "dificultad": 1,
       "opciones": {
-        "A": "Precipitación",
-        "B": "Combustión",
-        "C": "Síntesis",
-        "D": "Descomposición",
-        "E": "Neutralización"
+        "A": "$$SO_4^{2-}$$",
+        "B": "$$OH^-$$",
+        "C": "$$CO_3^{2-}$$",
+        "D": "$$Cl^-$$",
+        "E": "$$NO_3^-$$"
       },
       "respuesta_correcta": "E",
-      "explicacion": "La reacción entre un ácido y una base es la definición de una reacción de neutralización. En este proceso, las propiedades del ácido y de la base se anulan mutuamente, produciendo una sal (un compuesto iónico) y agua. El ejemplo clásico es $$HCl + NaOH \\rightarrow NaCl + H_2O$$.",
+      "explicacion": "De acuerdo con las reglas de solubilidad proporcionadas, todos los nitratos, que contienen el anión $$NO_3^-$$, son solubles en agua sin excepciones mencionadas. Los otros aniones tienen excepciones específicas en las que forman compuestos insolubles.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_004",
-      "pregunta": "¿Cuál es la forma general que representa una reacción de metátesis o doble desplazamiento?",
+      "pregunta": "¿Cuáles son los productos típicos de una reacción de neutralización?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$A + B \\rightarrow AB$$",
-        "B": "$$AB \\rightarrow A + B$$",
-        "C": "$$AB + CD \\rightarrow AD + CB$$",
-        "D": "$$A + BC \\rightarrow AC + B$$",
-        "E": "$$C_xH_y + O_2 \\rightarrow CO_2 + H_2O$$"
+        "A": "Un precipitado y un gas.",
+        "B": "Un ácido y una base.",
+        "C": "Sal y agua.",
+        "D": "Dos sales diferentes.",
+        "E": "Un óxido y agua."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La ecuación general $$AB + CD \\rightarrow AD + CB$$ representa una reacción de metátesis. En ella, los cationes ($$A^+$$ y $$C^+$$) intercambian sus aniones ($$B^-$$ y $$D^-$$) para formar dos nuevos compuestos ($$AD$$ y $$CB$$). Las otras opciones representan reacciones de síntesis, descomposición, desplazamiento simple y combustión, respectivamente.",
+      "explicacion": "Una reacción de neutralización es un tipo de reacción de metátesis que ocurre entre un ácido y una base. Los productos característicos de esta reacción son siempre una sal y agua, como se ejemplifica en la reacción $$HCl + NaOH \\rightarrow NaCl + H_2O$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_005",
-      "pregunta": "De acuerdo con las reglas generales de solubilidad, todos los compuestos que contienen el anión nitrato ($$NO_3^-$$) son:",
+      "pregunta": "¿Cuál es la representación general de una reacción de metátesis o doble desplazamiento?",
       "dificultad": 1,
       "opciones": {
-        "A": "Insolubles",
-        "B": "Poco solubles",
-        "C": "Solubles",
-        "D": "Insolubles excepto con metales alcalinos",
-        "E": "Solubles solo en ácidos fuertes"
+        "A": "$$A + B \\rightarrow AB$$",
+        "B": "$$AB + CD \\rightarrow AD + CB$$",
+        "C": "$$AB \\rightarrow A + B$$",
+        "D": "$$A + BC \\rightarrow AC + B$$",
+        "E": "$$A + O_2 \\rightarrow AO$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Una de las reglas de solubilidad más consistentes es que todos los nitratos ($$NO_3^-$$) son solubles en agua, sin excepciones comunes. Esto los hace muy útiles en química para preparar disoluciones de diferentes cationes.",
+      "respuesta_correcta": "B",
+      "explicacion": "La forma general $$AB + CD \\rightarrow AD + CB$$ representa una reacción de metátesis, donde los cationes ($A^+$ y $C^+$) intercambian sus aniones ($B^-$ y $D^-$) para formar dos nuevos compuestos. Las otras opciones representan reacciones de síntesis, descomposición, desplazamiento simple y combustión, respectivamente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_006",
-      "pregunta": "Aplicando las reglas de solubilidad, ¿cuál de los siguientes cloruros ($$Cl^-$$) formará un precipitado en agua?",
+      "pregunta": "La mayoría de los compuestos con el anión cloruro, $$Cl^-$$, son solubles. ¿Cuál de los siguientes cationes forma una excepción, resultando en un compuesto insoluble?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$NaCl$$",
-        "B": "$$KCl$$",
-        "C": "$$CaCl_2$$",
-        "D": "$$AgCl$$",
-        "E": "$$NH_4Cl$$"
+        "A": "$$Na^+$$",
+        "B": "$$K^+$$",
+        "C": "$$NH_4^+$$",
+        "D": "$$Ag^+$$",
+        "E": "$$Ca^{2+}$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La regla de solubilidad para los haluros ($$Cl^-, Br^-, I^-$$) indica que son generalmente solubles, con excepciones notables para los compuestos de plata ($$Ag^+$$), mercurio(I) ($$Hg_2^{2+}$$) y plomo(II) ($$Pb^{2+}$$). Por lo tanto, el cloruro de plata ($$AgCl$$) es insoluble y formará un precipitado. Los otros cloruros listados son solubles.",
+      "explicacion": "Según las reglas de solubilidad, los cloruros ($$Cl^-$$) son generalmente solubles, pero tienen excepciones importantes. Los cloruros de plata ($$Ag^+$$), mercurio(I) ($$Hg_2^{2+}$$) y plomo(II) ($$Pb^{2+}$$) son insolubles. Por lo tanto, el cloruro de plata ($$AgCl$$) es un precipitado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_007",
-      "pregunta": "Los compuestos que contienen los aniones carbonato ($$CO_3^{2-}$$) y fosfato ($$PO_4^{3-}$$) son generalmente insolubles. ¿Cuáles son las excepciones a esta regla?",
+      "pregunta": "¿Cuál de los siguientes compuestos es insoluble en agua según las reglas de solubilidad?",
       "dificultad": 2,
       "opciones": {
-        "A": "Compuestos con cationes de metales de transición.",
-        "B": "Compuestos con cationes del grupo IA y amonio ($$NH_4^+$$).",
-        "C": "Compuestos con cationes de plata ($$Ag^+$$) y plomo ($$Pb^{2+}$$).",
-        "D": "Compuestos con cationes del grupo IIA como $$Ca^{2+}$$ y $$Ba^{2+}$$.",
-        "E": "Todos los carbonatos y fosfatos son insolubles sin excepción."
+        "A": "Nitrato de potasio ($$KNO_3$$)",
+        "B": "Sulfato de sodio ($$Na_2SO_4$$)",
+        "C": "Hidróxido de Bario ($$Ba(OH)_2$$)",
+        "D": "Fosfato de Calcio ($$Ca_3(PO_4)_2$$)",
+        "E": "Cloruro de amonio ($$NH_4Cl$$)"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla general establece que la mayoría de los carbonatos y fosfatos son insolubles. Sin embargo, hay excepciones importantes: aquellos compuestos formados con cationes de metales del grupo IA (como $$Na^+, K^+$$) y el ión amonio ($$NH_4^+$$) son solubles en agua.",
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de solubilidad para los fosfatos ($$PO_4^{3-}$$) indica que son insolubles, excepto cuando se combinan con cationes del grupo IA o amonio ($$NH_4^+$$). Como el calcio ($$Ca^{2+}$$) pertenece al grupo IIA, el fosfato de calcio es insoluble. Los otros compuestos son solubles: los nitratos son siempre solubles, el sulfato de sodio es soluble (sodio es del grupo IA), el hidróxido de bario es una de las excepciones solubles y los compuestos de amonio son solubles.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_008",
-      "pregunta": "La reacción $$BaCl_2(ac) + Na_2SO_4(ac) \\rightarrow BaSO_4(s) + 2NaCl(ac)$$ es un ejemplo de:",
+      "pregunta": "La principal diferencia entre una reacción de precipitación y una de neutralización es que:",
       "dificultad": 2,
       "opciones": {
-        "A": "Una reacción de neutralización porque se forma una sal.",
-        "B": "Una reacción REDOX porque hay un sólido involucrado.",
-        "C": "Una reacción de precipitación porque se forma un sólido insoluble.",
-        "D": "Una reacción de síntesis porque se combinan dos compuestos.",
-        "E": "Una reacción de desplazamiento simple."
+        "A": "La neutralización es NO-REDOX y la precipitación es REDOX.",
+        "B": "La neutralización forma sal y agua, mientras que la precipitación forma un sólido insoluble.",
+        "C": "La precipitación siempre requiere de un ácido fuerte.",
+        "D": "La neutralización ocurre entre dos sales y la precipitación entre un ácido y una base.",
+        "E": "No existe una diferencia fundamental, ambos términos son sinónimos."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Esta reacción es de precipitación porque dos compuestos iónicos solubles en disolución acuosa ($$BaCl_2$$ y $$Na_2SO_4$$) reaccionan para formar un producto sólido insoluble, el sulfato de bario ($$BaSO_4$$), que precipita. La formación de este sólido es la característica distintiva de una reacción de precipitación.",
+      "respuesta_correcta": "B",
+      "explicacion": "Ambas son tipos de reacciones de metátesis y son NO-REDOX. La diferencia clave radica en sus productos. Una reacción de neutralización es específicamente la reacción entre un ácido y una base para formar sal y agua. Una reacción de precipitación es aquella donde la combinación de reactivos (generalmente dos sales solubles) da como resultado la formación de un producto sólido insoluble (el precipitado).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_009",
-      "pregunta": "Según las reglas, la mayoría de los hidróxidos ($$OH^-$$) son insolubles. ¿Cuál de los siguientes hidróxidos es una excepción y es soluble en agua?",
+      "pregunta": "Los compuestos con el anión sulfato, $$SO_4^{2-}$$, son generalmente solubles. ¿Cuál de las siguientes opciones contiene únicamente cationes que forman sulfatos insolubles?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$Cu(OH)_2$$",
-        "B": "$$Fe(OH)_3$$",
-        "C": "$$Al(OH)_3$$",
-        "D": "$$Sr(OH)_2$$",
-        "E": "$$Mg(OH)_2$$"
+        "A": "$$Na^+, K^+, NH_4^+$$",
+        "B": "$$Ag^+, Hg_2^{2+}$$",
+        "C": "$$Ca^{2+}, Sr^{2+}, Ba^{2+}$$",
+        "D": "$$Mg^{2+}, Zn^{2+}, Cu^{2+}$$",
+        "E": "Todos los cationes del grupo IA."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La regla para los hidróxidos indica que son mayormente insolubles. Las excepciones clave son los hidróxidos de los metales del grupo IA, el amonio ($$NH_4^+$$), y parcialmente los de estroncio ($$Sr^{2+}$$) y bario ($$Ba^{2+}$$). Por lo tanto, el hidróxido de estroncio ($$Sr(OH)_2$$) es soluble, mientras que los otros son hidróxidos de metales de transición o alcalinotérreos no exentos, que son insolubles.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de solubilidad para el anión sulfato ($$SO_4^{2-}$$) establece que la mayoría de los sulfatos son solubles, con las excepciones notables de los formados con $$Ca^{2+}, Sr^{2+}, Ba^{2+}$$ y $$Pb^{2+}$$. Por lo tanto, la opción que agrupa a estos cationes de excepción es la correcta.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_010",
-      "pregunta": "¿Cuál de los siguientes sulfatos ($$SO_4^{2-}$$) es insoluble en agua?",
+      "pregunta": "Considerando la reacción entre nitrato de plomo(II), $$Pb(NO_3)_2$$, y cloruro de sodio, $$NaCl$$, ¿cuál sería el precipitado formado?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$Na_2SO_4$$",
-        "B": "$$MgSO_4$$",
-        "C": "$$BaSO_4$$",
-        "D": "$$K_2SO_4$$",
-        "E": "$$(NH_4)_2SO_4$$"
+        "A": "$$NaNO_3$$",
+        "B": "$$PbCl_2$$",
+        "C": "$$Pb(Na)_2$$",
+        "D": "$$Cl(NO_3)$$",
+        "E": "No se forma ningún precipitado."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La regla general para los sulfatos es que son solubles. Sin embargo, existen excepciones importantes para los sulfatos de calcio ($$Ca^{2+}$$), estroncio ($$Sr^{2+}$$), bario ($$Ba^{2+}$$) y plomo ($$Pb^{2+}$$). El sulfato de bario ($$BaSO_4$$) es uno de estos compuestos insolubles. Los demás sulfatos listados son solubles.",
+      "respuesta_correcta": "B",
+      "explicacion": "Esta es una reacción de metátesis: $$Pb(NO_3)_2 + 2NaCl \\rightarrow PbCl_2 + 2NaNO_3$$. Para identificar el precipitado, analizamos la solubilidad de los productos. El nitrato de sodio ($$NaNO_3$$) es soluble, ya que todos los nitratos y los compuestos de sodio (grupo IA) lo son. El cloruro de plomo(II) ($$PbCl_2$$) es insoluble, porque el $$Pb^{2+}$$ es una de las excepciones a la regla de solubilidad de los cloruros. Por lo tanto, $$PbCl_2$$ es el precipitado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_011",
-      "pregunta": "¿Por qué la reacción entre un ácido y una base, como $$HCl + NaOH \\rightarrow NaCl + H_2O$$, se considera de metátesis pero no de precipitación?",
+      "pregunta": "La mayoría de los hidróxidos ($$OH^−$$) son insolubles. ¿Cuál de los siguientes compuestos es una de las excepciones y es soluble en agua?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque involucra transferencia de electrones.",
-        "B": "Porque los productos, sal ($$NaCl$$) y agua ($$H_2O$$), son solubles.",
-        "C": "Porque no sigue el patrón $$AB + CD \\rightarrow AD + CB$$.",
-        "D": "Porque los reactivos no están en disolución acuosa.",
-        "E": "Porque es una reacción endotérmica."
+        "A": "Hidróxido de Cobre(II) ($$Cu(OH)_2$$)",
+        "B": "Hidróxido de Hierro(III) ($$Fe(OH)_3$$)",
+        "C": "Hidróxido de Estroncio ($$Sr(OH)_2$$)",
+        "D": "Hidróxido de Aluminio ($$Al(OH)_3$$)",
+        "E": "Hidróxido de Magnesio ($$Mg(OH)_2$$)"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Aunque es una reacción de metátesis (intercambio de iones), no se clasifica como de precipitación porque no se forma un producto sólido insoluble. Tanto el cloruro de sodio ($$NaCl$$) como el agua ($$H_2O$$) son solubles/líquidos, por lo que no se observa la formación de un precipitado.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las reglas de solubilidad indican que los hidróxidos son mayoritariamente insolubles. Sin embargo, hay excepciones importantes: los hidróxidos del grupo IA (como NaOH), del amonio ($$NH_4^+$$), del estroncio ($$Sr^{2+}$$) y del bario ($$Ba^{2+}$$) son solubles. El hidróxido de estroncio ($$Sr(OH)_2$$) cae en esta categoría de excepciones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_012",
-      "pregunta": "La mayoría de los sulfuros ($$S^{2-}$$) son insolubles. ¿Cuál de los siguientes compuestos de sulfuro es soluble en agua?",
+      "pregunta": "¿Qué par de disoluciones acuosas, al ser mezcladas, formarán un precipitado de sulfuro?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$CuS$$",
-        "B": "$$FeS$$",
-        "C": "$$PbS$$",
-        "D": "$$CaS$$",
-        "E": "$$ZnS$$"
+        "A": "Sulfuro de sodio ($$Na_2S$$) y Cloruro de potasio ($$KCl$$)",
+        "B": "Sulfuro de amonio ($$(NH_4)_2S$$) y Nitrato de sodio ($$NaNO_3$$)",
+        "C": "Sulfuro de litio ($$Li_2S$$) y Nitrato de bario ($$Ba(NO_3)_2$$)",
+        "D": "Nitrato de cobre(II) ($$Cu(NO_3)_2$$) y Sulfuro de sodio ($$Na_2S$$)",
+        "E": "Sulfuro de calcio ($$CaS$$) y Cloruro de amonio ($$NH_4Cl$$)"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La regla de solubilidad para los sulfuros indica que son insolubles, con la excepción de los formados con cationes de los grupos IA y IIA, y el ión amonio ($$NH_4^+$$). El calcio ($$Ca^{2+}$$) pertenece al grupo IIA, por lo que el sulfuro de calcio ($$CaS$$) es soluble. Los otros sulfuros listados son de metales de transición o post-transición, y son insolubles.",
+      "explicacion": "La regla indica que los sulfuros ($$S^{2-}$$) son insolubles, excepto los de los grupos IA, IIA y $$NH_4^+$$. Al mezclar nitrato de cobre(II) y sulfuro de sodio, los productos serían nitrato de sodio ($$NaNO_3$$), que es soluble, y sulfuro de cobre(II) ($$CuS$$). El cobre ($$Cu^{2+}$$) no pertenece a los grupos IA, IIA, ni es amonio, por lo que el $$CuS$$ será un precipitado insoluble.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_013",
-      "pregunta": "Si se mezclan disoluciones acuosas de nitrato de plomo(II) ($$Pb(NO_3)_2$$) y yoduro de potasio ($$KI$$), ¿qué precipitado se formará? La reacción es $$Pb(NO_3)_2 + 2KI \\rightarrow PbI_2 + 2KNO_3$$.",
+      "pregunta": "Se mezclan disoluciones acuosas de sulfato de cobre(II) ($$CuSO_4$$) e hidróxido de sodio ($$NaOH$$). ¿Cuál es la fórmula del precipitado que se forma y por qué?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$KNO_3$$",
-        "B": "$$PbI_2$$",
-        "C": "No se forma ningún precipitado.",
-        "D": "Tanto $$PbI_2$$ como $$KNO_3$$ precipitan.",
-        "E": "$$KI$$"
+        "A": "$$Na_2SO_4$$, porque los sulfatos con metales del grupo IA son insolubles.",
+        "B": "$$Cu(OH)_2$$, porque la mayoría de los hidróxidos son insolubles y el cobre no es una excepción.",
+        "C": "$$CuS$$, porque es un producto de la reacción de neutralización.",
+        "D": "No se forma precipitado, ya que ambos productos son solubles.",
+        "E": "$$NaOH$$, porque las bases fuertes precipitan en presencia de sales."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Para determinar el precipitado, debemos analizar la solubilidad de los productos: $$PbI_2$$ y $$KNO_3$$. Según las reglas, todos los nitratos son solubles, por lo que $$KNO_3$$ permanecerá disuelto. Para los yoduros ($$I^-$$), la regla indica que son solubles excepto con $$Ag^+$$, $$Hg_2^{2+}$$ y $$Pb^{2+}$$. Por lo tanto, el yoduro de plomo(II) ($$PbI_2$$) es insoluble y será el precipitado que se observe.",
+      "explicacion": "La reacción de metátesis es $$CuSO_4 + 2NaOH \\rightarrow Cu(OH)_2 + Na_2SO_4$$. Analizando los productos: (1) El sulfato de sodio ($$Na_2SO_4$$) es soluble porque contiene un catión del grupo IA ($$Na^+$$). (2) El hidróxido de cobre(II) ($$Cu(OH)_2$$) es insoluble. La regla establece que los hidróxidos son insolubles, y el cobre ($$Cu^{2+}$$) no se encuentra entre las excepciones (grupo IA, $$NH_4^+, Sr^{2+}, Ba^{2+}$$). Por lo tanto, $$Cu(OH)_2$$ es el precipitado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_014",
-      "pregunta": "¿Qué par de disoluciones acuosas, al ser mezcladas, NO producirán un precipitado?",
+      "pregunta": "Se desea remover iones $$Ba^{2+}$$ de una disolución acuosa mediante precipitación. ¿Cuál de las siguientes disoluciones sería la más efectiva para lograrlo, según las reglas de solubilidad?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$AgNO_3(ac) + KBr(ac)$$. Productos potenciales: $$AgBr, KNO_3$$.",
-        "B": "$$Na_2CO_3(ac) + CaCl_2(ac)$$. Productos potenciales: $$CaCO_3, NaCl$$.",
-        "C": "$$KOH(ac) + MgCl_2(ac)$$. Productos potenciales: $$Mg(OH)_2, KCl$$.",
-        "D": "$$LiNO_3(ac) + (NH_4)_2SO_4(ac)$$. Productos potenciales: $$Li_2SO_4, NH_4NO_3$$.",
-        "E": "$$Ba(OH)_2(ac) + H_2SO_4(ac)$$. Productos potenciales: $$BaSO_4, H_2O$$."
+        "A": "Nitrato de Sodio ($$NaNO_3$$)",
+        "B": "Cloruro de Potasio ($$KCl$$)",
+        "C": "Sulfato de Sodio ($$Na_2SO_4$$)",
+        "D": "Yoduro de Amonio ($$NH_4I$$)",
+        "E": "Hidróxido de Bario ($$Ba(OH)_2$$)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Se deben analizar los productos de cada reacción: A) $$AgBr$$ es insoluble (excepción de bromuros). B) $$CaCO_3$$ es insoluble (regla de carbonatos). C) $$Mg(OH)_2$$ es insoluble (regla de hidróxidos). E) $$BaSO_4$$ es insoluble (excepción de sulfatos). En la opción D, los productos son sulfato de litio ($$Li_2SO_4$$) y nitrato de amonio ($$NH_4NO_3$$). El litio es del grupo IA, por lo que su sulfato es soluble. Todos los nitratos y compuestos de amonio son solubles. Como ambos productos son solubles, no se formará ningún precipitado.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para precipitar iones $$Ba^{2+}$$, necesitamos agregar un anión que forme un compuesto insoluble con él. Analizamos las opciones: (A) El nitrato de bario ($$Ba(NO_3)_2$$) sería soluble. (B) El cloruro de bario ($$BaCl_2$$) sería soluble. (C) El sulfato de bario ($$BaSO_4$$) es insoluble, ya que el $$Ba^{2+}$$ es una de las excepciones a la regla de solubilidad de los sulfatos. (D) El yoduro de bario ($$BaI_2$$) sería soluble. (E) Agregar más $$Ba(OH)_2$$ no removería los iones $$Ba^{2+}$$. Por lo tanto, el sulfato de sodio es la opción más efectiva.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_184_015",
-      "pregunta": "Se desea remover iones de sulfato ($$SO_4^{2-}$$) de una disolución mediante precipitación. ¿Cuál de las siguientes disoluciones sería más efectiva para agregar y formar un precipitado?",
+      "pregunta": "Al combinar una disolución de carbonato de amonio ($$(NH_4)_2CO_3$$) con una disolución de cloruro de estroncio ($$SrCl_2$$), ¿qué afirmación describe correctamente el resultado?",
       "dificultad": 3,
       "opciones": {
-        "A": "Cloruro de sodio ($$NaCl$$)",
-        "B": "Nitrato de potasio ($$KNO_3$$)",
-        "C": "Cloruro de bario ($$BaCl_2$$)",
-        "D": "Nitrato de amonio ($$NH_4NO_3$$)",
-        "E": "Sulfato de magnesio ($$MgSO_4$$)"
+        "A": "No ocurre reacción porque todos los posibles productos son solubles.",
+        "B": "Se forma un precipitado de cloruro de amonio ($$NH_4Cl$$).",
+        "C": "Se produce una reacción de neutralización formando agua.",
+        "D": "Se forma un precipitado de carbonato de estroncio ($$SrCO_3$$).",
+        "E": "Se libera dióxido de carbono gaseoso."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Para remover iones sulfato ($$SO_4^{2-}$$) por precipitación, se necesita agregar un catión que forme un compuesto insoluble con él. Según las reglas de solubilidad, los sulfatos son insolubles con $$Ca^{2+}$$, $$Sr^{2+}$$, $$Ba^{2+}$$ y $$Pb^{2+}$$. De las opciones, el cloruro de bario ($$BaCl_2$$) aporta el catión bario ($$Ba^{2+}$$), que reaccionará con el sulfato para formar $$BaSO_4$$, un precipitado sólido. Las otras opciones contienen cationes ($$Na^+, K^+, NH_4^+, Mg^{2+}$$) que forman sulfatos solubles, por lo que no causarían precipitación.",
+      "respuesta_correcta": "D",
+      "explicacion": "La reacción de doble desplazamiento es $$(NH_4)_2CO_3 + SrCl_2 \\rightarrow 2NH_4Cl + SrCO_3$$. Ahora, evaluamos la solubilidad de los productos. (1) El cloruro de amonio ($$NH_4Cl$$) es soluble, ya que todos los compuestos de amonio ($$NH_4^+$$) y la mayoría de los cloruros son solubles. (2) El carbonato de estroncio ($$SrCO_3$$) es insoluble. La regla establece que los carbonatos ($$CO_3^{2-}$$) son insolubles, a menos que se combinen con cationes del grupo IA o amonio. El estroncio ($$Sr^{2+}$$) pertenece al grupo IIA, por lo que no es una excepción. Así, el $$SrCO_3$$ precipita.",
       "imagen": null
     }
   ]

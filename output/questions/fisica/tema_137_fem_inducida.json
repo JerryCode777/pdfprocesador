@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 137,
+  "total_temas": 137,
+  "titulo_tema": "FEM inducida",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_137_001",
+      "pregunta": "¿Cuál es la causa principal de la producción de una fuerza electromotriz (fem) inducida en un circuito?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presencia de una corriente eléctrica constante.",
+        "B": "Un campo magnético estático y uniforme.",
+        "C": "Una variación del flujo magnético a través del circuito.",
+        "D": "La resistencia eléctrica del material del circuito.",
+        "E": "La longitud del conductor en el circuito."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza electromotriz (fem) inducida se genera fundamentalmente cuando hay una variación del flujo magnético a través de un circuito en un intervalo de tiempo. Un campo magnético constante o una corriente constante no inducen una fem. La resistencia y la longitud son propiedades del circuito, pero no la causa de la inducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_002",
+      "pregunta": "¿En qué unidades se mide la fuerza electromotriz inducida ($ε$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Webers (Wb)",
+        "B": "Teslas (T)",
+        "C": "Amperios (A)",
+        "D": "Ohmios (Ω)",
+        "E": "Voltios (V)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fuerza electromotriz ($ε$), al ser una diferencia de potencial, se mide en voltios (V). Los webers (Wb) miden el flujo magnético, los teslas (T) la inducción magnética, los amperios (A) la corriente eléctrica y los ohmios (Ω) la resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_003",
+      "pregunta": "En la fórmula de la fem inducida, $$ε = -N \frac{ΔΦ_B}{Δt}$$, ¿qué principio físico fundamental representa el signo negativo (-)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ley de Ohm",
+        "B": "Ley de Lenz",
+        "C": "Ley de Coulomb",
+        "D": "Fuerza de Lorentz",
+        "E": "Ley de Ampere"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El signo negativo en la ecuación de la fem inducida es una consecuencia directa de la Ley de Lenz. Esta ley establece que la corriente inducida en un circuito generará un campo magnético que se opone a la variación del flujo magnético que la originó.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_004",
+      "pregunta": "Para una barra metálica que se mueve en un campo magnético, ¿qué magnitud física representa el símbolo $L$ en la fórmula de la fem de movimiento $$ε = vBL$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La inductancia del conductor.",
+        "B": "El trabajo (labor) realizado sobre las cargas.",
+        "C": "La fuerza de Lorentz.",
+        "D": "La longitud del conductor.",
+        "E": "La carga eléctrica total."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la ecuación de la fem de movimiento, $$ε = vBL$$, el símbolo $L$ representa la longitud del conductor que se está moviendo a través del campo magnético. Las otras opciones representan conceptos diferentes en electromagnetismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_005",
+      "pregunta": "Según la fórmula $$ε = - \frac{ΔΦ_B}{Δt}$$, ¿qué representa la expresión $ΔΦ_B$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La variación del campo eléctrico.",
+        "B": "La densidad de corriente.",
+        "C": "La variación del flujo magnético.",
+        "D": "La diferencia de potencial.",
+        "E": "La inducción magnética."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El símbolo $Φ_B$ representa el flujo magnético. Por lo tanto, $ΔΦ_B$ representa la variación (cambio) del flujo magnético a través del circuito, y se mide en webers (Wb).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_006",
+      "pregunta": "Si se tiene una bobina con $N$ espiras, ¿cómo se compara la magnitud de la fem inducida total con la fem inducida en una sola espira, si la variación del flujo magnético es la misma para todas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es la misma.",
+        "B": "Es $N$ veces mayor.",
+        "C": "Es $N$ veces menor.",
+        "D": "Es $N^2$ veces mayor.",
+        "E": "Es igual a cero."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fem inducida en una sola espira es $$ε_{espira} = - \frac{ΔΦ_B}{Δt}$$. Para una bobina con $N$ espiras, las fem de cada espira se suman, resultando en una fem total de $$ε_{total} = -N \frac{ΔΦ_B}{Δt}$$. Por lo tanto, la fem total es $N$ veces mayor que la de una sola espira.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_007",
+      "pregunta": "¿Qué fuerza es la responsable de la polarización de las cargas dentro de una barra conductora que se mueve en un campo magnético, dando lugar a la fem de movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fuerza gravitacional",
+        "B": "Fuerza eléctrica interna",
+        "C": "Fuerza normal",
+        "D": "Fuerza de Lorentz",
+        "E": "Fuerza de fricción"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando una barra conductora se mueve en un campo magnético, las cargas libres dentro de ella (electrones) experimentan la fuerza de Lorentz. Esta fuerza actúa sobre las cargas en movimiento, separándolas y creando una polarización que da origen a un campo eléctrico y, consecuentemente, a la fem de movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_008",
+      "pregunta": "En un circuito con una espira, si la magnitud de la variación del flujo magnético $ΔΦ_B$ se mantiene constante, pero el tiempo $Δt$ en que ocurre esta variación se reduce a la mitad, ¿qué le sucede a la magnitud de la fem inducida $ε$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad.",
+        "B": "Se mantiene igual.",
+        "C": "Se cuadruplica.",
+        "D": "Se duplica.",
+        "E": "Se hace cero."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud de la fem inducida está dada por $$|ε| = \frac{|ΔΦ_B|}{|Δt|}$$. Dado que la fem es inversamente proporcional al tiempo $Δt$, si $Δt$ se reduce a la mitad, la magnitud de la fem inducida se duplicará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_009",
+      "pregunta": "Según la Ley de Lenz, el campo magnético generado por la corriente inducida...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "siempre tiene la misma dirección que el campo magnético externo.",
+        "B": "tiende a compensar la variación del flujo magnético que lo origina.",
+        "C": "es siempre perpendicular al movimiento del conductor.",
+        "D": "aumenta la variación del flujo magnético original.",
+        "E": "es nulo si el conductor tiene resistencia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de Lenz establece que la dirección de la corriente inducida es tal que el campo magnético que esta produce se opone al cambio en el flujo magnético que la indujo. En otras palabras, tiende a 'compensar' o contrarrestar la variación del flujo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_010",
+      "pregunta": "Una barra conductora de longitud $L$ se mueve con velocidad $v$ en una región donde el campo magnético $B$ es nulo. ¿Cuál es la magnitud de la fem inducida en la barra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$vL$$",
+        "B": "$$B L$$",
+        "C": "Depende de la resistencia de la barra",
+        "D": "$$0$$",
+        "E": "Infinita"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fem de movimiento se calcula con la fórmula $$ε = vBL$$. Si la magnitud del campo magnético $B$ es cero ($B=0$), entonces el producto será cero, independientemente de los valores de $v$ y $L$. Por lo tanto, la fem inducida es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_011",
+      "pregunta": "Si una barra conductora con resistencia $R$ se mueve sobre carriles metálicos, generando una fem inducida $ε$, ¿cómo se determina la corriente eléctrica inducida $I$ que circula por el circuito?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$I = εR$$",
+        "B": "$$I = \frac{R}{ε}$$",
+        "C": "$$I = ε^2 R$$",
+        "D": "$$I = \frac{ε}{R}$$",
+        "E": "$$I = \\sqrt{\frac{ε}{R}}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La relación entre la fuerza electromotriz (voltaje), la corriente y la resistencia en un circuito está dada por la Ley de Ohm, que establece que $$ε = IR$$. Despejando la corriente $I$, obtenemos $$I = \frac{ε}{R}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_012",
+      "pregunta": "¿Cuál de las siguientes combinaciones de parámetros NO producirá una fem de movimiento ($ε$) en una barra conductora?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Velocidad $v > 0$, campo magnético $B > 0$, longitud $L > 0$.",
+        "B": "Barra en reposo ($v=0$), campo magnético $B > 0$, longitud $L > 0$.",
+        "C": "Velocidad $v > 0$, campo magnético $B > 0$, longitud $L$ muy grande.",
+        "D": "Velocidad $v > 0$, campo magnético $B$ muy débil pero no nulo, longitud $L > 0$.",
+        "E": "Barra muy corta ($L>0$), velocidad $v > 0$, campo magnético $B > 0$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fem de movimiento se calcula como $$ε = vBL$$. Para que se genere una fem, es necesario que la velocidad $v$, el campo magnético $B$ y la longitud $L$ sean todos distintos de cero. Si la barra está en reposo ($v=0$), el producto será cero y no se inducirá ninguna fem.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_013",
+      "pregunta": "Una barra conductora de longitud $L$ y resistencia $R$ se desplaza con rapidez constante $v$ sobre carriles metálicos dentro de un campo magnético uniforme $B$. ¿Cuál es la expresión para la magnitud de la corriente eléctrica inducida ($I$) en el circuito?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$I = vBLR$$",
+        "B": "$$I = \frac{vB}{L R}$$",
+        "C": "$$I = \frac{vBL}{R}$$",
+        "D": "$$I = \frac{R}{vBL}$$",
+        "E": "$$I = \frac{v L}{BR}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este problema requiere combinar dos conceptos. Primero, la fem inducida en la barra en movimiento es $$ε = vBL$$. Segundo, la Ley de Ohm relaciona la fem, la corriente y la resistencia como $$I = \frac{ε}{R}$$. Sustituyendo la primera ecuación en la segunda, obtenemos la expresión para la corriente inducida: $$I = \frac{vBL}{R}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_014",
+      "pregunta": "Se induce una fem $ε$ en una bobina de $N$ espiras debido a un cambio de flujo $ΔΦ_B$ en un tiempo $Δt$. Si el número de espiras se duplica ($2N$) y el tiempo en que ocurre el mismo cambio de flujo también se duplica ($2Δt$), ¿cuál es la nueva fem inducida $ε'$ en términos de la fem original $ε$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$ε' = 4ε$$",
+        "B": "$$ε' = 2ε$$",
+        "C": "$$ε' = ε$$",
+        "D": "$$ε' = \frac{ε}{2}$$",
+        "E": "$$ε' = \frac{ε}{4}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fem original es $$ε = -N \frac{ΔΦ_B}{Δt}$$. La nueva fem $ε'$ se calcula con los nuevos parámetros: $N' = 2N$ y $Δt' = 2Δt$. Sustituyendo en la fórmula: $$ε' = -N' \frac{ΔΦ_B}{Δt'} = -(2N) \frac{ΔΦ_B}{2Δt}$$. Los factores de 2 en el numerador y el denominador se cancelan, resultando en $$ε' = -N \frac{ΔΦ_B}{Δt}$$, que es exactamente igual a la fem original $ε$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_137_015",
+      "pregunta": "En un circuito con una sola espira ($N=1$), se induce una fem $ε_1$ debido a cierta tasa de cambio de flujo magnético. Si posteriormente el número de espiras se aumenta a $N=3$ y, al mismo tiempo, la tasa de cambio del flujo magnético ($ΔΦ_B/Δt$) se duplica, ¿cuál será la nueva fem inducida $ε_2$ en comparación con la original?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$ε_2 = \frac{2}{3} ε_1$$",
+        "B": "$$ε_2 = \frac{3}{2} ε_1$$",
+        "C": "$$ε_2 = 5 ε_1$$",
+        "D": "$$ε_2 = 6 ε_1$$",
+        "E": "$$ε_2 = \frac{1}{6} ε_1$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud de la fem inducida se calcula con la fórmula $$|ε| = N \\left| \frac{ΔΦ_B}{Δt} \right|$$. Inicialmente, tenemos $$|ε_1| = (1) \\left| \frac{ΔΦ_B}{Δt} \right|_{inicial}$$. En la segunda situación, el número de espiras es $N=3$ y la tasa de cambio de flujo es el doble, es decir, $$\\left| \frac{ΔΦ_B}{Δt} \right|_{nueva} = 2 \\left| \frac{ΔΦ_B}{Δt} \right|_{inicial}$$. Por lo tanto, la nueva fem es $$|ε_2| = (3) \times \\left( 2 \\left| \frac{ΔΦ_B}{Δt} \right|_{inicial} \right) = 6 \\left| \frac{ΔΦ_B}{Δt} \right|_{inicial}$$. Comparando con la fem original, encontramos que $$|ε_2| = 6 |ε_1|$$.",
+      "imagen": null
+    }
+  ]
+}

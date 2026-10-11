@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 54,
+  "total_temas": 137,
+  "titulo_tema": "Principio de Pascal",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_054_001",
+      "pregunta": "¿Qué característica define a los líquidos inmiscibles?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tienen la misma densidad y color.",
+        "B": "Se evaporan a la misma temperatura.",
+        "C": "Cuando se juntan, no llegan a mezclarse.",
+        "D": "Son siempre transparentes e inodoros.",
+        "E": "Conducen la electricidad de forma eficiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los líquidos inmiscibles se definen por su incapacidad para mezclarse homogéneamente cuando se juntan. Un ejemplo común es el agua y el aceite. Las otras opciones describen propiedades que no son definitorias de la inmiscibilidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_002",
+      "pregunta": "¿Qué establece fundamentalmente el Principio de Pascal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presión en un líquido aumenta con la profundidad.",
+        "B": "La presión ejercida sobre un líquido se transmite con la misma intensidad en todas las direcciones.",
+        "C": "Un objeto sumergido en un líquido experimenta un empuje hacia arriba.",
+        "D": "La densidad de un líquido cambia con la temperatura.",
+        "E": "La presión es inversamente proporcional al volumen del recipiente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Principio de Pascal postula que cualquier cambio de presión aplicado a un fluido incompresible y en equilibrio dentro de un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones y en todos los puntos del fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_003",
+      "pregunta": "¿Cuál de los siguientes dispositivos es una aplicación fundamental del Principio de Pascal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un termómetro de mercurio",
+        "B": "Una lente de aumento",
+        "C": "Un motor eléctrico",
+        "D": "Una prensa hidráulica",
+        "E": "Un barómetro"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La prensa hidráulica es la aplicación por excelencia del Principio de Pascal. Utiliza este principio para amplificar fuerzas, lo que es la base para el funcionamiento de elevadores, frenos y otras máquinas hidráulicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_004",
+      "pregunta": "Cuando se combinan dos líquidos inmiscibles de diferente densidad en un recipiente, ¿cómo tienden a organizarse?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se mezclan formando una emulsión.",
+        "B": "El más denso tiende a subir y el menos denso a quedarse en el fondo.",
+        "C": "El menos denso tiende a subir y el más denso a quedarse en el fondo.",
+        "D": "Se organizan en capas horizontales alternas.",
+        "E": "Ambos se solidifican en la superficie de contacto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Debido a la acción de la gravedad, el líquido con mayor densidad (más masa por unidad de volumen) se hunde, mientras que el líquido menos denso flota sobre él. Por lo tanto, el menos denso se ubica en la parte superior y el más denso en el fondo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_005",
+      "pregunta": "¿Cuál es la función principal de una prensa hidráulica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Disminuir la presión de un líquido.",
+        "B": "Medir la densidad de un fluido.",
+        "C": "Amplificar las fuerzas aplicadas.",
+        "D": "Transferir calor entre dos cilindros.",
+        "E": "Almacenar energía potencial en un líquido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una prensa hidráulica es una máquina diseñada para amplificar la fuerza. Al aplicar una fuerza pequeña en un cilindro de sección pequeña, se genera una fuerza mucho mayor en el cilindro de sección grande, basándose en el Principio de Pascal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_006",
+      "pregunta": "Para dos líquidos inmiscibles en equilibrio en un tubo en U, ¿cuál es la relación entre las alturas de sus superficies libres ($h_A$, $h_B$) con relación a la superficie de separación y sus densidades ($\rho_A$, $\rho_B$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las alturas son directamente proporcionales a sus densidades.",
+        "B": "Las alturas son inversamente proporcionales a sus densidades.",
+        "C": "El producto de la altura y la densidad es constante para ambos líquidos.",
+        "D": "Las alturas son iguales independientemente de las densidades.",
+        "E": "La suma de sus alturas es igual a la suma de sus densidades."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación se describe como: \"Las alturas de sus superficies libres con relación a las superficies de separación son inversamente proporcionales a sus densidades”. Esto se expresa matemáticamente como $$\frac{h_A}{h_B} = \frac{\rho_B}{\rho_A}$$, lo que significa que el líquido menos denso alcanzará una mayor altura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_007",
+      "pregunta": "¿De qué componentes principales consta una prensa hidráulica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "De un solo cilindro con un pistón móvil.",
+        "B": "De dos cilindros de igual sección comunicados entre sí.",
+        "C": "De una turbina y un generador.",
+        "D": "De dos cilindros de diferente sección comunicados entre sí.",
+        "E": "De un tubo en U lleno de mercurio."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La estructura básica de una prensa hidráulica consiste en dos cilindros de diferente área o sección transversal que están interconectados y contienen un líquido. Esta diferencia de secciones es crucial para la amplificación de la fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_008",
+      "pregunta": "En un tubo en U con dos líquidos inmiscibles A y B, la ecuación $$\rho_A g h_A = \rho_B g h_B$$ representa la igualdad de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las masas de los líquidos en cada brazo.",
+        "B": "Las fuerzas ejercidas por las columnas de líquido.",
+        "C": "Las presiones hidrostáticas en la superficie de separación.",
+        "D": "Los volúmenes de los líquidos.",
+        "E": "Las energías potenciales de las columnas de líquido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación es el resultado de igualar las presiones hidrostáticas ejercidas por las columnas de líquido A y B en el punto más bajo, que es la interfaz o superficie de separación entre ellos. La presión hidrostática se calcula como $P = \rho g h$. Al igualar $P_A$ y $P_B$ en ese nivel, obtenemos $$\rho_A g h_A = \rho_B g h_B$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_009",
+      "pregunta": "¿Qué dispositivo se menciona como una demostración experimental del principio sobre la transmisión de la presión en un líquido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El tubo en U",
+        "B": "La prensa hidráulica",
+        "C": "La jeringa de Pascal",
+        "D": "El elevador hidráulico",
+        "E": "El freno hidráulico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La jeringa de Pascal es un instrumento que se utiliza para demostrar experimentalmente el Principio de Pascal. Consiste en una esfera hueca con varios orificios, a la que se le aplica presión mediante un émbolo, mostrando que el líquido sale con la misma fuerza por todos los orificios.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_010",
+      "pregunta": "El funcionamiento de los elevadores y frenos hidráulicos se basa en:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El principio de Arquímedes.",
+        "B": "La ley de la conservación de la energía.",
+        "C": "La existencia de líquidos inmiscibles.",
+        "D": "El principio de Pascal.",
+        "E": "La primera ley de Newton."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Tanto los elevadores como los frenos hidráulicos son sistemas que utilizan un líquido para transmitir y amplificar una fuerza. Este mecanismo es una aplicación directa y fundamental del Principio de Pascal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_011",
+      "pregunta": "La conclusión de que \"la presión que se ejerce sobre un líquido dentro de un recipiente, se transmite con la misma intensidad en todas las direcciones\" fue enunciada por:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Arquímedes",
+        "B": "Newton",
+        "C": "Torricelli",
+        "D": "Galileo",
+        "E": "Pascal"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Esta afirmación es la esencia del principio físico que lleva el nombre de Blaise Pascal, quien realizó experimentos y formuló esta conclusión fundamental sobre el comportamiento de los fluidos confinados.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_012",
+      "pregunta": "La fórmula $$\frac{h_A}{h_B} = \frac{\rho_B}{\rho_A}$$ para dos líquidos inmiscibles en un tubo en U se obtiene al simplificar la ecuación de igualdad de presiones. ¿Qué términos se cancelan de la ecuación original $$\rho_A g h_A = \rho_B g h_B$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las densidades $\rho_A$ y $\rho_B$.",
+        "B": "Las alturas $h_A$ y $h_B$.",
+        "C": "La presión atmosférica $P_0$.",
+        "D": "La aceleración de la gravedad $g$.",
+        "E": "No se cancela ningún término."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación de igualdad de presiones en la interfaz es $$\rho_A g h_A = \rho_B g h_B$$. Dado que la aceleración de la gravedad $g$ es un factor común en ambos lados de la ecuación, se puede cancelar o dividir por ella, lo que resulta en $$\rho_A h_A = \rho_B h_B$$. Al reorganizar esta última expresión para comparar las alturas, se obtiene $$\frac{h_A}{h_B} = \frac{\rho_B}{\rho_A}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_013",
+      "pregunta": "En un tubo en U que contiene dos líquidos inmiscibles A y B en equilibrio, se observa que la altura de la columna del líquido A ($h_A$) es significativamente mayor que la altura de la columna del líquido B ($h_B$). ¿Qué se puede inferir sobre sus densidades?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La densidad del líquido A es mucho mayor que la del líquido B ($$\rho_A > \rho_B$$).",
+        "B": "La densidad del líquido B es mucho mayor que la del líquido A ($$\rho_B > \rho_A$$).",
+        "C": "Ambos líquidos tienen la misma densidad ($$\rho_A = \rho_B$$).",
+        "D": "La densidad no afecta la altura de las columnas.",
+        "E": "El líquido A es un gas y el líquido B es un sólido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación entre alturas y densidades es inversamente proporcional: $$\frac{h_A}{h_B} = \frac{\rho_B}{\rho_A}$$. Si $h_A$ es mayor que $h_B$, para que la igualdad se mantenga, el numerador del lado derecho ($\rho_B$) debe ser mayor que el denominador ($\rho_A$). Por lo tanto, el líquido menos denso (A) necesita una columna más alta para igualar la presión de la columna más corta del líquido más denso (B).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_014",
+      "pregunta": "¿Cómo logra una prensa hidráulica, que consta de dos cilindros de diferente sección, amplificar una fuerza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Aumentando la densidad del líquido en el cilindro más grande.",
+        "B": "Aplicando el principio de Pascal, donde la presión transmitida es la misma, pero actúa sobre un área mayor para producir una fuerza mayor.",
+        "C": "Reduciendo la gravedad que actúa sobre el cilindro más pequeño.",
+        "D": "Generando una reacción química en el líquido que libera energía.",
+        "E": "Haciendo que el líquido fluya más rápido en el cilindro de mayor sección."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Principio de Pascal establece que la presión ($$P$$) se transmite por igual a todo el fluido. La presión se define como fuerza ($$F$$) por unidad de área ($$A$$), es decir, $$P = F/A$$. En una prensa hidráulica, la presión es la misma en ambos cilindros ($$P_1 = P_2$$), por lo que $$\frac{F_1}{A_1} = \frac{F_2}{A_2}$$. Si el área del segundo cilindro ($$A_2$$) es mucho mayor que la del primero ($$A_1$$), entonces la fuerza resultante ($$F_2$$) será mucho mayor que la fuerza aplicada ($$F_1$$) para mantener la igualdad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_054_015",
+      "pregunta": "La relación $$\frac{h_A}{h_B} = \frac{\rho_B}{\rho_A}$$ se deriva de igualar las presiones en la superficie de separación de dos líquidos inmiscibles. ¿Cuál es la expresión física fundamental que representa esta igualdad de presiones antes de cualquier simplificación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\rho_A h_A = \rho_B h_B$$",
+        "B": "$$P_A + P_0 = P_B + P_0$$",
+        "C": "$$F_1/A_1 = F_2/A_2$$",
+        "D": "$$m_A g = m_B g$$",
+        "E": "$$V_A \rho_A = V_B \rho_B$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La derivación comienza estableciendo que la presión total en un punto A al nivel de la interfaz en un brazo es igual a la presión total en un punto B al mismo nivel en el otro brazo. La presión total en cada punto es la suma de la presión hidrostática de la columna de líquido más la presión atmosférica ($$P_0$$) que actúa sobre la superficie libre. Por lo tanto, la ecuación inicial es $$P_A + P_0 = P_B + P_0$$, donde $$P_A = \rho_A g h_A$$ y $$P_B = \rho_B g h_B$$. A partir de esta igualdad fundamental se deriva la relación final.",
+      "imagen": null
+    }
+  ]
+}

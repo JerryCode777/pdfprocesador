@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 80,
+  "total_temas": 137,
+  "titulo_tema": "Calor",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_080_001",
+      "pregunta": "¿Qué es el calor según su definición física?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una propiedad que se almacena en los objetos calientes.",
+        "B": "La energía que se transfiere de un objeto a otro debido a una diferencia de temperatura.",
+        "C": "Una medida de la temperatura de un cuerpo en el Sistema Internacional.",
+        "D": "La energía potencial total de las partículas de un objeto.",
+        "E": "Una fuerza invisible que provoca el aumento de la temperatura."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El calor, representado por el símbolo $Q$, se define como la energía en tránsito que fluye de un objeto de mayor temperatura a uno de menor temperatura. No es una propiedad que un cuerpo posea o almacene, sino el proceso de transferencia de energía debido a una diferencia térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_002",
+      "pregunta": "¿Cuál es la unidad de medida del calor en el Sistema Internacional (SI)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Caloría (cal)",
+        "B": "Grado Celsius (°C)",
+        "C": "Joule (J)",
+        "D": "Newton (N)",
+        "E": "Kilogramo (kg)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que el calor es una forma de energía en tránsito, su unidad en el Sistema Internacional (SI) es el Joule (J), la misma que para el trabajo y otras formas de energía. La caloría (cal) es otra unidad común, pero no pertenece al SI.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_003",
+      "pregunta": "¿Qué campo de la física se dedica a estudiar las condiciones bajo las cuales se produce la transferencia de calor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Mecánica",
+        "B": "Termodinámica",
+        "C": "Óptica",
+        "D": "Electromagnetismo",
+        "E": "Calorimetría"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La calorimetría es la parte de la física que se enfoca específicamente en el estudio de la transferencia de calor y las condiciones necesarias para que esta ocurra, así como la medición de las cantidades de calor transferidas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_004",
+      "pregunta": "¿Cuál fue la definición original de la unidad caloría (cal)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad de calor para calentar 1 kg de agua en 1 °C.",
+        "B": "La energía liberada al quemar 1 g de carbono.",
+        "C": "El equivalente a 4,186 Joules de trabajo mecánico.",
+        "D": "La cantidad de calor para calentar 1 g de agua en 1 °C.",
+        "E": "La energía necesaria para evaporar 1 g de agua."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Originalmente, la caloría fue definida como la cantidad de calor necesaria para elevar la temperatura de 1 gramo de agua en 1 grado Celsius. Esta definición la vincula directamente a una propiedad específica del agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_005",
+      "pregunta": "¿Qué símbolo se utiliza para representar la cantidad de calor transferido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$T$",
+        "B": "$Q$",
+        "C": "$J$",
+        "D": "$C$",
+        "E": "$W$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En física, el símbolo convencional para representar el calor como energía transferida es la letra $Q$. Los otros símbolos suelen representar temperatura ($T$), la unidad Joule ($J$), caloría ($C$ o cal) o trabajo ($W$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_006",
+      "pregunta": "¿En qué dirección ocurre la transferencia de calor entre dos objetos en contacto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Del objeto con más masa al de menos masa.",
+        "B": "Del objeto con menor temperatura al de mayor temperatura.",
+        "C": "Del objeto más grande al más pequeño.",
+        "D": "Del objeto con mayor temperatura al de menor temperatura.",
+        "E": "La dirección es aleatoria y no predecible."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una ley fundamental de la transferencia de calor es que la energía siempre fluye espontáneamente desde un cuerpo o sistema con una temperatura más alta hacia uno con una temperatura más baja, hasta que se alcanza el equilibrio térmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_007",
+      "pregunta": "¿Por qué es conceptualmente incorrecto afirmar que un objeto \"contiene una cierta cantidad de calor\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el calor solo puede medirse en calorías, no en cantidades.",
+        "B": "Porque el calor se disipa muy rápidamente para poder ser contenido.",
+        "C": "Porque el calor es energía en tránsito y no una sustancia o energía almacenable.",
+        "D": "Porque el calor es una propiedad exclusiva de los gases y no de los sólidos.",
+        "E": "Porque solo los objetos a más de 100 °C pueden contener calor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor no es una propiedad intrínseca de un objeto que se pueda almacenar. Es el proceso de transferencia de energía debido a una diferencia de temperatura. Un objeto posee energía interna, pero el término \"calor\" se reserva para la energía que se está moviendo de un lugar a otro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_008",
+      "pregunta": "¿Cuál es la equivalencia numérica correcta que define el equivalente mecánico del calor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1 \\text{ J} = 4,186 \\text{ cal}$$",
+        "B": "$$1 \\text{ cal} = 1 \\text{ J}$$",
+        "C": "$$1 \\text{ cal} = 0,24 \\text{ J}$$",
+        "D": "$$1 \\text{ J} = 1000 \\text{ cal}$$",
+        "E": "$$1 \\text{ cal} = 4,186 \\text{ J}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El equivalente mecánico del calor establece la relación directa entre la unidad de energía mecánica (Joule) y la unidad térmica (caloría). La conversión aceptada es que una caloría equivale a 4,186 Joules de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_009",
+      "pregunta": "¿Qué demostró fundamentalmente el experimento de James Joule con las pesas que caen y las paletas que agitan el agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la temperatura y el calor son la misma magnitud física.",
+        "B": "Que la energía mecánica puede convertirse en energía térmica.",
+        "C": "Que el agua es la única sustancia que puede calentarse por agitación.",
+        "D": "Que la energía potencial gravitatoria no se conserva en un sistema cerrado.",
+        "E": "Que el calor es una forma de energía potencial."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El experimento de Joule fue crucial para demostrar que diferentes formas de energía son interconvertibles. Específicamente, mostró que la energía mecánica (la energía potencial de las pesas convertida en energía cinética de las paletas) se podía transformar en energía térmica, evidenciada por el aumento de la temperatura del agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_010",
+      "pregunta": "En el aparato de Joule, ¿qué transformación de energía es la causa principal del incremento de temperatura en el agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía térmica del aire se convierte en energía cinética del agua.",
+        "B": "La energía química de las paletas se libera en forma de calor.",
+        "C": "La energía potencial gravitatoria de las pesas se convierte en energía térmica.",
+        "D": "La energía lumínica del entorno es absorbida por el agua.",
+        "E": "La energía cinética de las pesas se convierte en energía potencial del agua."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La secuencia de transformación de energía en el experimento de Joule es la siguiente: la energía potencial gravitatoria de las pesas se convierte en energía cinética a medida que caen. Esta energía cinética se transfiere a las paletas, que agitan el agua. La agitación aumenta la energía interna del agua, lo que se manifiesta como un aumento de su temperatura, es decir, un incremento de energía térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_011",
+      "pregunta": "De acuerdo con el texto, ¿qué cantidad de energía mecánica, medida en el S.I., se requiere para elevar la temperatura de 1 g de agua en 1 °C?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$0,24 \\text{ J}$$",
+        "B": "$$1 \\text{ J}$$",
+        "C": "$$4,186 \\text{ J}$$",
+        "D": "$$100 \\text{ J}$$",
+        "E": "No se puede determinar con la información."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La elevación de la temperatura de 1 g de agua en 1 °C define una caloría. El equivalente mecánico del calor establece que 1 caloría es igual a 4,186 Joules. Por lo tanto, se necesitan 4,186 J de energía mecánica para producir este efecto térmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_012",
+      "pregunta": "¿Cuál es la relación inversa del equivalente mecánico del calor, es decir, cuántas calorías equivalen a un Joule?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1 \\text{ J} = 4,186 \\text{ cal}$$",
+        "B": "$$1 \\text{ J} = 1 \\text{ cal}$$",
+        "C": "$$1 \\text{ J} = 100 \\text{ cal}$$",
+        "D": "$$1 \\text{ J} = 0,24 \\text{ cal}$$",
+        "E": "$$1 \\text{ J} = 4186 \\text{ cal}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Sabiendo que $1 \\text{ cal} = 4,186 \\text{ J}$, para encontrar el valor de $1 \\text{ J}$ en calorías, debemos calcular el inverso de 4,186, que es $1 / 4,186 \\approx 0,2388$. Este valor se redondea comúnmente a $0,24 \\text{ cal}$. Por lo tanto, $1 \\text{ J} = 0,24 \\text{ cal}$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_013",
+      "pregunta": "Al afirmar que se necesitan $$4,186 \\text{ J}$$ de energía para lograr el mismo efecto que $$1 \\text{ cal}$$ de calor, ¿qué principio fundamental se está ilustrando?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La ley de la gravitación universal.",
+        "B": "La equivalencia entre energía mecánica y energía térmica.",
+        "C": "El principio de Arquímedes.",
+        "D": "La segunda ley del movimiento de Newton.",
+        "E": "La ley de la conservación de la masa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta afirmación es la esencia del equivalente mecánico del calor, un principio que demuestra que el trabajo mecánico y el calor no son fenómenos distintos, sino dos manifestaciones de la energía que son interconvertibles. La cantidad $$4,186 \\text{ J}$$ es el factor de conversión que cuantifica esta equivalencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_014",
+      "pregunta": "Un horno de microondas calienta un refrigerio. Considerando los conceptos presentados, ¿cuál es la descripción más precisa de lo que ocurre?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El horno añade una sustancia llamada \"calor\" al refrigerio.",
+        "B": "El refrigerio absorbe calor del aire frío del horno.",
+        "C": "Se produce una transferencia de energía desde el horno hacia el refrigerio debido a una diferencia de temperatura.",
+        "D": "El refrigerador contiene una cantidad fija de calor que se libera.",
+        "E": "La temperatura del refrigerio disminuye al recibir calor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque el mecanismo del microondas es por radiación, el principio fundamental sigue siendo una transferencia de energía que aumenta la temperatura del refrigerio. La opción C describe correctamente el proceso en términos de transferencia de energía (calor) que ocurre para causar un aumento de temperatura, alineándose con la definición de que el calor es energía en tránsito.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_080_015",
+      "pregunta": "Si en una variación del experimento de Joule, la caída de las pesas solo logra agitar el agua sin aumentar su temperatura, ¿cuál sería la conclusión más lógica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía potencial gravitatoria se destruyó.",
+        "B": "El agua tiene una capacidad calorífica nula.",
+        "C": "La energía mecánica transferida al agua no se convirtió en energía térmica.",
+        "D": "El calor fluyó del agua hacia las paletas.",
+        "E": "El equivalente mecánico del calor es infinito."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento de temperatura es la evidencia de la conversión de energía mecánica en energía térmica. Si no hay aumento de temperatura, significa que, por alguna razón (como una disipación completa de energía hacia el exterior o un fallo del sistema), la energía de la agitación no logró aumentar la energía interna del agua. Por lo tanto, la conversión de energía mecánica a térmica no ocurrió como se esperaba.",
+      "imagen": null
+    }
+  ]
+}

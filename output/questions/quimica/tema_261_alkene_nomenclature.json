@@ -6,212 +6,212 @@
   "preguntas": [
     {
       "id_temporal": "quimica_261_001",
-      "pregunta": "¿Qué sufijo se utiliza en el sistema IUPAC para nombrar a los hidrocarburos que contienen al menos un doble enlace carbono-carbono?",
+      "pregunta": "¿Cuál es el sufijo característico utilizado en la nomenclatura IUPAC para nombrar a los alquenos?",
       "dificultad": 1,
       "opciones": {
         "A": "-ano",
-        "B": "-eno",
+        "B": "-ilo",
         "C": "-ino",
-        "D": "-ilo",
-        "E": "-al"
+        "D": "-eno",
+        "E": "-ol"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura IUPAC, los alquenos, que son hidrocarburos con uno o más dobles enlaces, se nombran utilizando la terminación \"-eno\". El sufijo \"-ano\" se usa para alcanos (enlaces simples) y \"-ino\" para alquinos (enlaces triples).",
+      "respuesta_correcta": "D",
+      "explicacion": "El sistema de nomenclatura IUPAC establece que los hidrocarburos que contienen al menos un doble enlace carbono-carbono, conocidos como alquenos, deben llevar el sufijo '-eno'. El sufijo '-ano' es para alcanos (enlaces simples), y '-ino' es para alquinos (enlaces triples).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_002",
-      "pregunta": "¿En qué estado de la materia se encuentran los tres primeros miembros de la serie de los alquenos en condiciones estándar?",
+      "pregunta": "¿En qué estado físico se encuentran los tres primeros miembros de la serie de los alquenos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Líquido",
-        "B": "Sólido",
+        "A": "Sólido",
+        "B": "Líquido",
         "C": "Gaseoso",
         "D": "Plasma",
-        "E": "Coloide"
+        "E": "Coloidal"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los alquenos más pequeños, que son el eteno, propeno y buteno, tienen puntos de ebullición muy bajos y son gaseosos a temperatura y presión estándar. A medida que la cadena de carbono aumenta, las fuerzas intermoleculares se hacen más fuertes, y los alquenos se vuelven líquidos y luego sólidos.",
+      "explicacion": "Las propiedades físicas de los alquenos varían con el tamaño de la molécula. Los alquenos más pequeños, que son los tres primeros de la serie (eteno, propeno y buteno), son gases a temperatura y presión estándar debido a sus bajas fuerzas intermoleculares.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_003",
-      "pregunta": "¿Cuál es la función biológica del etileno (eteno) en las plantas?",
+      "pregunta": "¿Cuál es la función del etileno (eteno) en las plantas?",
       "dificultad": 1,
       "opciones": {
         "A": "Actúa como pigmento para la fotosíntesis.",
-        "B": "Es un componente estructural de la pared celular.",
-        "C": "Funciona como hormona que regula la maduración.",
-        "D": "Transporta agua desde las raíces a las hojas.",
-        "E": "Inhibe el crecimiento de la planta."
+        "B": "Es el principal componente estructural de la pared celular.",
+        "C": "Funciona como hormona que regula la maduración de los vegetales.",
+        "D": "Transporta agua y nutrientes desde las raíces.",
+        "E": "Almacena energía en forma de almidón."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El etileno, cuyo nombre IUPAC es eteno, es una hormona vegetal que desempeña un papel crucial en varios procesos del ciclo de vida de la planta, incluyendo el crecimiento, desarrollo y senescencia, y es especialmente conocido por ser el responsable de la maduración de los frutos y vegetales.",
+      "explicacion": "El etileno, cuyo nombre IUPAC es eteno ($$CH_2=CH_2$$), es una hormona vegetal natural. Juega un papel crucial en varios procesos del ciclo de vida de la planta, siendo especialmente conocido por ser el alqueno responsable de la maduración de frutas y vegetales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_004",
-      "pregunta": "¿Cuál es la fórmula general para un alquino que contiene un solo enlace triple?",
+      "pregunta": "¿Cómo es la solubilidad de los alquenos en agua?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son muy solubles.",
+        "B": "Son ligeramente solubles.",
+        "C": "Son insolubles.",
+        "D": "Su solubilidad depende de la temperatura.",
+        "E": "Forman soluciones coloidales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los alquenos son compuestos apolares, mientras que el agua es un solvente polar. Debido al principio de 'lo semejante disuelve a lo semejante', los alquenos no se disuelven en agua. Sin embargo, son solubles en solventes apolares como el benceno o el cloroformo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_261_005",
+      "pregunta": "La fórmula general para un alquino acíclico que contiene un solo enlace triple es:",
       "dificultad": 1,
       "opciones": {
         "A": "$$C_nH_{2n+2}$$",
         "B": "$$C_nH_{2n}$$",
         "C": "$$C_nH_{2n-2}$$",
-        "D": "$$C_nH_{2n+4}$$",
-        "E": "$$C_nH_{2n-4t}$$"
+        "D": "$$C_nH_{2n-4}$$",
+        "E": "$$C_nH_n$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La fórmula general para un alquino acíclico (de cadena abierta) con un solo enlace triple es $$C_nH_{2n-2}$$, donde $n$ es el número de átomos de carbono. Esta fórmula refleja la pérdida de cuatro átomos de hidrógeno en comparación con el alcano correspondiente ($$C_nH_{2n+2}$$) debido a la formación del enlace triple.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_261_005",
-      "pregunta": "¿Cómo se describe la solubilidad de los alquenos en agua?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Son muy solubles en agua.",
-        "B": "Son insolubles en agua.",
-        "C": "Su solubilidad aumenta con el número de carbonos.",
-        "D": "Son solubles solo en agua caliente.",
-        "E": "Se disuelven formando soluciones ácidas."
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "Los alquenos son compuestos apolares debido a que están formados principalmente por enlaces carbono-carbono y carbono-hidrógeno. El agua es un solvente polar. Siguiendo el principio de \"lo semejante disuelve a lo semejante\", los alquenos son insolubles en agua pero sí son solubles en solventes apolares como el benceno o el éter.",
+      "explicacion": "Los alquinos se caracterizan por tener un enlace triple carbono-carbono. La fórmula general para un alquino con un solo triple enlace es $$C_nH_{2n-2}$$, donde $n$ representa el número de átomos de carbono. Esta fórmula refleja la pérdida de cuatro hidrógenos en comparación con el alcano correspondiente ($$C_nH_{2n+2}$$) para formar los dos enlaces $\\pi$ del triple enlace.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_006",
-      "pregunta": "¿Qué característica estructural es la principal responsable de que los alquenos sean químicamente más reactivos que los alcanos?",
+      "pregunta": "¿A qué se debe que los alquenos sean químicamente más activos que los alcanos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Su menor densidad en comparación con el agua.",
-        "B": "La presencia de enlaces sigma (σ) más débiles.",
-        "C": "La presencia del enlace pi (π) en el doble enlace.",
-        "D": "Sus puntos de fusión más elevados.",
-        "E": "Su capacidad para formar cadenas largas."
+        "A": "A la presencia de enlaces simples C-C, que son muy estables.",
+        "B": "A su mayor densidad en comparación con los alcanos.",
+        "C": "A la presencia del enlace pi ($\\pi$) en el doble enlace.",
+        "D": "A su insolubilidad en agua.",
+        "E": "A que sus puntos de ebullición son más bajos."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La mayor reactividad de los alquenos se debe a la presencia del doble enlace, que consta de un enlace sigma (σ) fuerte y un enlace pi (π) más débil. Los electrones del enlace pi están más expuestos y son más accesibles para reaccionar con electrófilos, lo que hace que los alquenos sean susceptibles a reacciones de adición, a diferencia de los alcanos, que solo tienen enlaces sigma.",
+      "explicacion": "La mayor reactividad de los alquenos en comparación con los alcanos se debe a la presencia del doble enlace ($C=C$). Este doble enlace está compuesto por un enlace sigma ($\\sigma$) fuerte y un enlace pi ($\\pi$) más débil y expuesto. El enlace $\\pi$ es susceptible al ataque de reactivos electrófilos, lo que hace que los alquenos participen en reacciones de adición con facilidad, una vía reactiva no disponible para los alcanos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_007",
-      "pregunta": "Al nombrar un alqueno según las reglas de la IUPAC, ¿cuál es el criterio principal para enumerar la cadena de carbono principal?",
+      "pregunta": "¿Cómo varía el punto de ebullición de los alquenos a medida que aumenta el número de átomos de carbono en la cadena?",
       "dificultad": 2,
       "opciones": {
-        "A": "Comenzar por el extremo que da la numeración más baja a los sustituyentes.",
-        "B": "Comenzar por el extremo más cercano al doble enlace.",
-        "C": "Asignar el número 1 al carbono con más hidrógenos.",
-        "D": "Comenzar siempre por el extremo izquierdo de la estructura dibujada.",
-        "E": "Asegurar que la cadena principal sea la más larga posible, sin importar la posición del doble enlace."
+        "A": "Disminuye linealmente.",
+        "B": "Aumenta.",
+        "C": "Permanece constante.",
+        "D": "Disminuye exponencialmente.",
+        "E": "Varía de forma impredecible."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La regla fundamental para la nomenclatura de alquenos es que la cadena principal se debe enumerar comenzando por el extremo que otorgue el número más bajo posible al primer carbono del doble enlace. La posición del doble enlace tiene prioridad sobre la posición de los sustituyentes.",
+      "explicacion": "Al igual que en los alcanos, los puntos de fusión y ebullición de los alquenos aumentan a medida que aumenta el número de carbonos. Esto se debe a que las moléculas más grandes tienen mayores fuerzas intermoleculares (fuerzas de van der Waals), lo que requiere más energía para pasar del estado líquido al gaseoso.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_008",
-      "pregunta": "¿Qué es un dieno conjugado?",
+      "pregunta": "¿Cuál es la regla principal para enumerar la cadena principal de carbonos en un alqueno?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un alqueno con dos dobles enlaces separados por más de un enlace simple.",
-        "B": "Un alqueno donde los dos dobles enlaces comparten un mismo átomo de carbono.",
-        "C": "Un alqueno con dos dobles enlaces separados por un único enlace simple.",
-        "D": "Un hidrocarburo que contiene un triple enlace y un doble enlace.",
-        "E": "Un alqueno cíclico con dos dobles enlaces."
+        "A": "Empezar por el extremo más cercano a un sustituyente o ramificación.",
+        "B": "Enumerar de manera que la suma de los localizadores de los sustituyentes sea la menor posible.",
+        "C": "Empezar por el extremo que asigne el número más bajo posible al doble enlace.",
+        "D": "Enumerar siempre de izquierda a derecha.",
+        "E": "Asignar el número 1 al carbono con hibridación sp²."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los dienos son alquenos con dos dobles enlaces. Se clasifican como conjugados (o alternados) cuando los dos dobles enlaces están separados por exactamente un enlace simple. Este patrón de alternancia (doble-simple-doble) confiere propiedades especiales a la molécula. Un ejemplo es `CH₂=CH-CH=CH₂`.",
+      "explicacion": "En la nomenclatura IUPAC para alquenos, la prioridad la tiene el doble enlace. La cadena principal se debe enumerar comenzando por el extremo que otorgue el localizador (número) más bajo al primer carbono del doble enlace, independientemente de la posición de los sustituyentes.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_009",
-      "pregunta": "¿Cómo varía la tendencia de los puntos de ebullición en la serie homóloga de los alquenos?",
+      "pregunta": "¿Cómo se clasifican los dienos en los que los dos dobles enlaces están separados por un único enlace simple C-C?",
       "dificultad": 2,
       "opciones": {
-        "A": "Disminuyen a medida que aumenta el número de carbonos.",
-        "B": "Permanecen constantes independientemente del tamaño de la molécula.",
-        "C": "Aumentan a medida que aumenta el número de carbonos.",
-        "D": "No siguen un patrón predecible.",
-        "E": "Son siempre más altos que los de los alcanos correspondientes."
+        "A": "Aislados",
+        "B": "Acumulados",
+        "C": "Alenos",
+        "D": "Conjugados",
+        "E": "Acetilénicos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Al igual que en los alcanos, los puntos de fusión y ebullición de los alquenos aumentan a medida que aumenta el número de átomos de carbono. Esto se debe a que las moléculas más grandes tienen una mayor superficie de contacto, lo que resulta en fuerzas intermoleculares de van der Waals más fuertes, requiriendo más energía para separarlas.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los dienos son alquenos con dos dobles enlaces. Cuando estos dobles enlaces están separados por exactamente un enlace simple (patrón: doble-simple-doble), se denominan dienos conjugados o alternados. Esta disposición permite una deslocalización de los electrones $\\pi$, confiriendo una estabilidad especial a la molécula.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_010",
-      "pregunta": "La estructura `CH₂=CH–CH₂–CH₂–CH=CH–CH₃` corresponde a un tipo específico de dieno. ¿Cuál es su clasificación?",
+      "pregunta": "Un alqueno que presenta dos dobles enlaces que pertenecen a un único átomo de carbono se conoce como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Dieno conjugado",
-        "B": "Dieno acumulado (aleno)",
-        "C": "Dieno aislado",
-        "D": "Trieno",
-        "E": "Alquino"
+        "A": "Dieno aislado",
+        "B": "Dieno conjugado",
+        "C": "Polieno",
+        "D": "Alquino",
+        "E": "Dieno acumulado o aleno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Este compuesto es un dieno porque tiene dos dobles enlaces. Para clasificarlo, se observa la separación entre ellos. Los dobles enlaces están separados por dos enlaces simples (`-CH₂-CH₂-`). Cuando los dobles enlaces están separados por más de un enlace simple, el dieno se clasifica como aislado.",
+      "respuesta_correcta": "E",
+      "explicacion": "Los dienos acumulados, también llamados alenos, son aquellos en los que un átomo de carbono participa en dos dobles enlaces simultáneamente, formando una estructura del tipo $$C=C=C$$. Los dienos aislados tienen los dobles enlaces separados por más de un enlace simple, y los conjugados por exactamente un enlace simple.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_011",
-      "pregunta": "Si un hidrocarburo contiene tres dobles enlaces en su estructura, ¿qué terminación se utiliza para nombrarlo según el sistema IUPAC?",
+      "pregunta": "El hidrocarburo más simple de los alquinos, utilizado comúnmente en soldaduras, es el:",
       "dificultad": 2,
       "opciones": {
-        "A": "-triano",
-        "B": "-dieno",
-        "C": "-polieno",
-        "D": "-trieno",
-        "E": "-trino"
+        "A": "Metino",
+        "B": "Etileno",
+        "C": "Propino",
+        "D": "Acetileno",
+        "E": "Butadieno"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Para moléculas con múltiples dobles enlaces, se utilizan terminaciones específicas. Si hay dos dobles enlaces, se usa \"-dieno\". Si hay tres dobles enlaces, la terminación correcta es \"-trieno\". El término \"polieno\" es general y se refiere a cualquier molécula con dos o más dobles enlaces.",
+      "explicacion": "El alquino más simple es el etino, comúnmente conocido como acetileno ($$C_2H_2$$). Es un gas muy reactivo que, al quemarse con oxígeno, produce una llama de muy alta temperatura, lo que lo hace ideal para aplicaciones de soldadura y corte de metales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_012",
-      "pregunta": "¿Qué tipo de hibridación presentan los átomos de carbono que forman un triple enlace en un alquino?",
+      "pregunta": "Según las reglas de nomenclatura, ¿qué modificación se debe hacer al prefijo de la cadena principal cuando un hidrocarburo contiene más de un doble enlace, como en el nombre 'octa-1,6-dieno'?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$sp$$",
-        "B": "$$sp^2$$",
-        "C": "$$sp^3$$",
-        "D": "$$sp^3d$$",
-        "E": "$$sp^2d$$"
+        "A": "Se debe añadir la terminación '-il'.",
+        "B": "Se debe eliminar la última vocal del prefijo.",
+        "C": "Se debe terminar el prefijo de la cadena con la letra 'a'.",
+        "D": "El prefijo no sufre ninguna modificación.",
+        "E": "Se debe utilizar el prefijo 'poli-' antes del nombre de la cadena."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Los alquinos se caracterizan por tener un triple enlace carbono-carbono ($$C≡C$$). Para formar este triple enlace (un enlace sigma y dos enlaces pi), cada átomo de carbono utiliza orbitales híbridos $sp$. Esta hibridación da como resultado una geometría lineal alrededor del triple enlace.",
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando un alqueno contiene dos o más dobles enlaces (dieno, trieno, etc.), se inserta la letra 'a' después del prefijo que indica el número de carbonos de la cadena principal. Por ejemplo, una cadena de ocho carbonos con dos dobles enlaces se nombra como 'octa-dieno', no 'oct-dieno'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_013",
-      "pregunta": "Aplicando las reglas de nomenclatura IUPAC, ¿cuál es el nombre correcto para el compuesto `CH₃-CH=CH-CH₂-CH=CH₂`?",
+      "pregunta": "Clasifique el siguiente dieno según la disposición de sus dobles enlaces: $$CH_2=CH-CH_2-CH_2-CH=CH_2$$",
       "dificultad": 3,
       "opciones": {
-        "A": "hexa-2,5-dieno",
-        "B": "hex-2,5-dieno",
-        "C": "hexa-1,4-dieno",
-        "D": "hex-1,4-dieno",
-        "E": "2,5-hexadieno"
+        "A": "Aleno",
+        "B": "Aislado",
+        "C": "Acetilénico",
+        "D": "Conjugado",
+        "E": "Acumulado"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Para nombrar este compuesto, primero se identifica la cadena principal de 6 carbonos (prefijo hex-). Luego, se numera la cadena para dar los localizadores más bajos a los dobles enlaces. Empezando por la derecha, los dobles enlaces están en las posiciones 1 y 4. Empezando por la izquierda, estarían en 2 y 5. Se elige la numeración 1,4 por ser la más baja. Finalmente, como hay más de un doble enlace, el prefijo de la cadena principal termina en \"a\", resultando en \"hexa\". Por lo tanto, el nombre completo es hexa-1,4-dieno.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para clasificar un dieno, se observa la separación entre los dobles enlaces. En la molécula $$CH_2=CH-CH_2-CH_2-CH=CH_2$$, los dos dobles enlaces están separados por dos enlaces simples ($-CH_2-CH_2-$). Cuando los dobles enlaces están separados por más de un enlace simple, se clasifican como dienos aislados. Los conjugados tienen un enlace simple de separación y los acumulados (alenos) tienen cero.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_261_014",
-      "pregunta": "¿Cómo se clasifica un dieno que presenta la estructura `CH₃-CH=C=CH-CH₃`?",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula $$CH_3-CH=CH-CH=CH-CH_3$$?",
       "dificultad": 3,
       "opciones": {
-        "A": "Conjugado",
-        "B": "Aislado",
-        "C": "Acumulado o aleno",
-        "D": "Cíclico",
-        "E": "Alternado"
+        "A": "2,4-Hexeno",
+        "B": "Hexa-2,4-dieno",
+        "C": "Hex-2,4-dieno",
+        "D": "2,4-Dimetilbutadieno",
+        "E": "Hexa-1,3-dieno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Esta estructura muestra dos dobles enlaces que se originan en el mismo átomo de carbono central (el tercer carbono de la cadena). Cuando los dos dobles enlaces le pertenecen a un único carbono, el dieno se clasifica como acumulado o también se le denomina aleno.",
+      "respuesta_correcta": "B",
+      "explicacion": "1. **Identificar la cadena principal:** La cadena más larga tiene 6 carbonos (prefijo 'hex-'). 2. **Identificar los dobles enlaces:** Hay dos dobles enlaces, por lo que el sufijo es '-dieno'. 3. **Enumerar la cadena:** Se empieza por el extremo que da los localizadores más bajos a los dobles enlaces. Tanto de izquierda a derecha como de derecha a izquierda, los dobles enlaces empiezan en el carbono 2 y 4. 4. **Construir el nombre:** Como es un dieno, se añade la letra 'a' al prefijo de la cadena ('hexa-'). Se indican las posiciones de los dobles enlaces antes del sufijo. El nombre completo es hexa-2,4-dieno.",
       "imagen": null
     },
     {
@@ -223,10 +223,10 @@
         "B": "$$C_5H_{10}$$",
         "C": "$$C_5H_8$$",
         "D": "$$C_5H_6$$",
-        "E": "$$C_5H_4$$"
+        "E": "$$C_5H_5$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El prefijo \"pent-\" indica que la molécula tiene 5 átomos de carbono ($n=5$). La fórmula general para un alquino con un triple enlace es $$C_nH_{2n-2}$$. Sustituyendo $n=5$ en la fórmula: $$C_5H_{2(5)-2} = C_5H_{10-2} = C_5H_8$$. Por lo tanto, la fórmula molecular del pentino es $$C_5H_8$$.",
+      "explicacion": "El prefijo 'pent-' indica una cadena de 5 átomos de carbono, por lo que $n=5$. La fórmula general para un alquino con un solo triple enlace es $$C_nH_{2n-2}$$. Sustituyendo $n=5$ en la fórmula: $$C_5H_{2(5)-2} = C_5H_{10-2} = C_5H_8$$. Por lo tanto, la fórmula molecular del pentino es $$C_5H_8$$.",
       "imagen": null
     }
   ]

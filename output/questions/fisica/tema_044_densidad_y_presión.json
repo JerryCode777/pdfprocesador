@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 44,
+  "total_temas": 137,
+  "titulo_tema": "Densidad y Presión",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_044_001",
+      "pregunta": "¿Cuál es la definición de densidad de un cuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fuerza que ejerce por unidad de área.",
+        "B": "La cantidad de materia por unidad de volumen.",
+        "C": "La resistencia de un fluido a fluir.",
+        "D": "El peso total de un objeto.",
+        "E": "La capacidad de un cuerpo para ser comprimido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La densidad es una magnitud escalar que se define como la cantidad de masa contenida en una unidad de volumen. Su fórmula es $$ \\rho = \\frac{m}{V} $$. Las otras opciones describen la presión, la viscosidad, el peso y la compresibilidad, respectivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_002",
+      "pregunta": "¿Cómo se define la presión ejercida por un fluido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como la relación entre la masa y el volumen.",
+        "B": "Como la fuerza ejercida perpendicularmente sobre una superficie, dividida por el área de esa superficie.",
+        "C": "Como el peso del fluido que envuelve a un cuerpo.",
+        "D": "Como la energía interna de un fluido por unidad de temperatura.",
+        "E": "Como la ausencia total de viscosidad en un líquido o gas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión ($$P$$) se define como la magnitud de la fuerza ($$F$$) aplicada perpendicularmente sobre una superficie, dividida entre el área ($$A$$) de dicha superficie. La fórmula es $$P = \\frac{F}{A}$$. Las otras opciones se refieren a la densidad, la presión atmosférica, la termodinámica y los fluidos ideales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_003",
+      "pregunta": "¿Cuál es la característica principal de un fluido ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es altamente compresible.",
+        "B": "Tiene una densidad muy alta.",
+        "C": "No existe ningún tipo de viscosidad.",
+        "D": "Su temperatura es siempre constante.",
+        "E": "Ejerce una presión nula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un fluido ideal es un modelo teórico en el que se asume que no existe ningún tipo de viscosidad, es decir, no hay fuerzas de fricción interna entre las capas del fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_004",
+      "pregunta": "En el Sistema Internacional de Unidades, la unidad de presión es el Pascal (Pa). ¿A qué es equivalente 1 Pascal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1 \\frac{kg}{m^3}$$",
+        "B": "$$1 \\frac{N}{m^2}$$",
+        "C": "$$1 \\frac{g}{cm^3}$$",
+        "D": "$$1 \\frac{kg}{m}$$",
+        "E": "$$1 \\frac{N}{cm^2}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión se define como fuerza por unidad de área. En el Sistema Internacional, la fuerza se mide en Newtons (N) y el área en metros cuadrados (m²). Por lo tanto, 1 Pascal (Pa) es exactamente igual a 1 Newton por metro cuadrado ($$1 \\frac{N}{m^2}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_005",
+      "pregunta": "¿Qué origina la presión atmosférica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La rotación de la Tierra.",
+        "B": "La temperatura del aire.",
+        "C": "El peso de la columna de aire sobre la superficie terrestre.",
+        "D": "La viscosidad de los gases en la atmósfera.",
+        "E": "La energía interna de las moléculas de aire."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión atmosférica es la presión ejercida por la atmósfera terrestre sobre los cuerpos que están en ella. Se debe al peso del aire, ya que, como cualquier sustancia cercana a la Tierra, es atraído por la gravedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_006",
+      "pregunta": "¿Cuál es la fórmula matemática que representa correctamente la densidad ($$\\rho$$) en términos de masa ($$m$$) y volumen ($$V$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\rho = m \\cdot V$$",
+        "B": "$$\\rho = \\frac{V}{m}$$",
+        "C": "$$\\rho = \\frac{m}{V}$$",
+        "D": "$$\\rho = m - V$$",
+        "E": "$$\\rho = m^2 \\cdot V$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La densidad se define como la cantidad de masa por unidad de volumen. Por lo tanto, su fórmula se obtiene dividiendo la masa ($$m$$) de una sustancia entre el volumen ($$V$$) que ocupa: $$ \\rho = \\frac{m}{V} $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_007",
+      "pregunta": "La presión ($$P$$) se define como la relación entre la magnitud de la fuerza ($$F$$) y el área ($$A$$) sobre la que actúa. ¿Cuál es la fórmula correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = F \\cdot A$$",
+        "B": "$$P = \\frac{A}{F}$$",
+        "C": "$$P = F - A$$",
+        "D": "$$P = F^2 \\cdot A$$",
+        "E": "$$P = \\frac{F}{A}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La presión se define como la fuerza ejercida por unidad de área. La fórmula que representa esta relación es $$ P = \\frac{F}{A} $$, donde $$P$$ es la presión, $$F$$ es la magnitud de la fuerza perpendicular a la superficie, y $$A$$ es el área sobre la cual se aplica la fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_008",
+      "pregunta": "¿Por qué se considera que la densidad es una propiedad intensiva?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque depende de la forma del objeto.",
+        "B": "Porque cambia con la temperatura y la presión.",
+        "C": "Porque su valor es el mismo para cualquier cantidad de una sustancia dada.",
+        "D": "Porque solo se aplica a los fluidos y no a los sólidos.",
+        "E": "Porque es una cantidad vectorial."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una propiedad intensiva es aquella que no depende de la cantidad de materia o del tamaño del sistema. La densidad es intensiva porque un kilogramo de agua tiene la misma densidad que diez kilogramos de agua. La relación entre masa y volumen se mantiene constante para una sustancia específica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_009",
+      "pregunta": "¿Cuál es la dirección de la fuerza que un fluido estático ejerce sobre la superficie de un objeto sumergido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre hacia abajo, en la dirección de la gravedad.",
+        "B": "Paralela a la superficie del objeto.",
+        "C": "En la dirección del flujo del fluido.",
+        "D": "Siempre perpendicular a la superficie del objeto.",
+        "E": "En un ángulo de 45 grados con respecto a la superficie."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los fluidos en reposo (estáticos) no pueden soportar esfuerzos cortantes o de tensión. Por esta razón, la única fuerza que pueden ejercer sobre una superficie es de compresión, y esta fuerza actúa siempre de manera perpendicular a dicha superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_010",
+      "pregunta": "Según sus propiedades de compresibilidad, ¿qué afirmación es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los líquidos y los gases son igualmente compresibles.",
+        "B": "Los líquidos son muy compresibles, mientras que los gases lo son poco.",
+        "C": "Ni los líquidos ni los gases se pueden comprimir.",
+        "D": "Los gases son muy compresibles, mientras que los líquidos lo son poco.",
+        "E": "Solo los fluidos ideales son compresibles."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La compresibilidad se refiere a la capacidad de un fluido de reducir su volumen bajo presión. Las moléculas en los gases están muy separadas, lo que permite que se compriman fácilmente. En cambio, en los líquidos las moléculas están mucho más juntas, por lo que su compresibilidad es muy baja.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_011",
+      "pregunta": "Se menciona que la presión es proporcional a la magnitud de la fuerza y no depende de su dirección. ¿Qué tipo de cantidad física es la presión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Vectorial",
+        "B": "Fundamental",
+        "C": "Escalar",
+        "D": "Adimensional",
+        "E": "Tensorial"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión es una cantidad escalar. Aunque se origina a partir de una fuerza (que es un vector), la presión en un punto de un fluido actúa en todas las direcciones con la misma magnitud. Se define por su magnitud, no por una dirección específica, por lo que es un escalar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_012",
+      "pregunta": "¿Cuál es el valor de la presión atmosférica normal a nivel del mar expresado en milímetros de mercurio (mm Hg)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1.01325 \\text{ mm Hg}$$",
+        "B": "$$76 \\text{ mm Hg}$$",
+        "C": "$$1000 \\text{ mm Hg}$$",
+        "D": "$$760 \\text{ mm Hg}$$",
+        "E": "$$29.92 \\text{ mm Hg}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La presión atmosférica normal, que es el valor medio a nivel del mar, tiene varias equivalencias. Una de las más comunes, utilizada en barómetros de mercurio, es de 760 milímetros de mercurio (mm Hg), que también es equivalente a 1 atmósfera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_013",
+      "pregunta": "Si la densidad de un líquido es de $$1.5 \\frac{g}{cm^3}$$, ¿cuál es su densidad en $$ \\frac{kg}{m^3} $$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$0.0015 \\frac{kg}{m^3}$$",
+        "B": "$$15 \\frac{kg}{m^3}$$",
+        "C": "$$150 \\frac{kg}{m^3}$$",
+        "D": "$$1500 \\frac{kg}{m^3}$$",
+        "E": "$$0.15 \\frac{kg}{m^3}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para convertir la densidad de $$ \\frac{g}{cm^3} $$ a $$ \\frac{kg}{m^3} $$, se debe multiplicar el valor por 1000. Esto se debe a que $$1 \\text{ g} = 10^{-3} \\text{ kg}$$ y $$1 \\text{ cm}^3 = (10^{-2})^3 \\text{ m}^3 = 10^{-6} \\text{ m}^3$$. Por lo tanto, la razón de conversión es $$ \\frac{10^{-3}}{10^{-6}} = 10^3 = 1000$$. Así, $$ 1.5 \\frac{g}{cm^3} \\times 1000 = 1500 \\frac{kg}{m^3} $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_014",
+      "pregunta": "Se tienen dos esferas macizas del mismo material. La esfera A tiene una masa $$m$$ y un volumen $$V$$. La esfera B tiene una masa $$2m$$. ¿Cuál es la densidad de la esfera B en relación con la densidad de la esfera A ($$\\rho_A$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La densidad de B es $$2\\rho_A$$.",
+        "B": "La densidad de B es $$\\frac{1}{2}\\rho_A$$.",
+        "C": "La densidad de B es la misma que $$\\rho_A$$.",
+        "D": "La densidad de B es $$4\\rho_A$$.",
+        "E": "No se puede determinar sin conocer el volumen de B."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La densidad es una propiedad intensiva del material, lo que significa que no depende de la cantidad de materia. Como ambas esferas están hechas del mismo material, tienen la misma densidad, independientemente de sus masas o volúmenes. Si la masa de la esfera B es el doble ($$2m$$), su volumen también será el doble ($$2V$$), manteniendo la relación $$ \\rho = \\frac{2m}{2V} = \\frac{m}{V} $$ constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_044_015",
+      "pregunta": "Sabiendo que la presión atmosférica normal a nivel del mar es $$P_₀ = 1.01325 \\times 10^5 \\text{ Pa}$$ y también $$P_₀ = 1 \\text{ atm}$$. ¿Qué opción representa correctamente la equivalencia entre atmósferas (atm) y pascales (Pa)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$1 \\text{ atm} = 101.325 \\text{ Pa}$$",
+        "B": "$$1 \\text{ Pa} = 1.01325 \\times 10^5 \\text{ atm}$$",
+        "C": "$$1 \\text{ atm} = 760 \\text{ Pa}$$",
+        "D": "$$1 \\text{ atm} = 1.01325 \\times 10^5 \\text{ Pa}$$",
+        "E": "$$1 \\text{ Pa} = 101325 \\text{ atm}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El contenido establece que la presión atmosférica normal ($$P_₀$$) tiene un valor de $$1 \\text{ atm}$$ y también es igual a $$1.01325 \\times 10^5 \\text{ Pa}$$. Al ser ambos valores equivalentes a la misma cantidad física ($$P_₀$$), se puede establecer una igualdad directa entre ellos. Por lo tanto, $$1 \\text{ atm} = 1.01325 \\times 10^5 \\text{ Pa}$$.",
+      "imagen": null
+    }
+  ]
+}

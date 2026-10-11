@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 118,
+  "total_temas": 137,
+  "titulo_tema": "Resistividad y variación con la temperatura",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_118_001",
+      "pregunta": "¿Qué magnitud física caracteriza la dependencia de la resistencia eléctrica con la especie del material?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Conductividad",
+        "B": "Resistividad",
+        "C": "Densidad",
+        "D": "Temperatura",
+        "E": "Voltaje"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La resistividad, representada por la letra griega rho ($\rho$), es la propiedad intrínseca de un material que cuantifica su oposición al flujo de corriente eléctrica. A diferencia de la resistencia, que depende de la geometría del objeto, la resistividad es una característica del material en sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_002",
+      "pregunta": "En la fórmula para la variación de la resistencia con la temperatura, $$R_f = R_0(1 + \\alpha\\Delta T)$$, ¿qué representa el término $R_0$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Resistencia final en ohmios",
+        "B": "Resistividad del material",
+        "C": "Resistencia eléctrica inicial en ohmios",
+        "D": "Coeficiente de temperatura",
+        "E": "Variación de la resistencia"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la ecuación $$R_f = R_0(1 + \\alpha\\Delta T)$$, el término $R_0$ representa la resistencia eléctrica inicial del conductor, medida en ohmios ($\\Omega$), antes de que ocurra el cambio de temperatura $\\Delta T$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_003",
+      "pregunta": "¿Cuál es la función principal de dispositivos como pilas, baterías y generadores en un circuito?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Almacenar carga eléctrica estática",
+        "B": "Disipar energía en forma de calor",
+        "C": "Aumentar la resistividad del circuito",
+        "D": "Actuar como fuentes de voltaje o f.e.m.",
+        "E": "Medir la corriente eléctrica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las pilas, baterías y generadores funcionan como fuentes de voltaje o fuerza electromotriz (f.e.m.). Su propósito es proporcionar la energía necesaria para mantener una corriente eléctrica fluyendo en un circuito cerrado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_004",
+      "pregunta": "Según sus propiedades conductoras, ¿cuál es el mejor conductor metálico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cobre (Cu)",
+        "B": "Oro (Au)",
+        "C": "Aluminio (Al)",
+        "D": "Hierro (Fe)",
+        "E": "Plata (Ag)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La plata (Ag) es conocida por ser el mejor conductor metálico de la electricidad. Esto se debe a que posee una alta densidad de electrones libres que pueden moverse fácilmente a través de su estructura cristalina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_005",
+      "pregunta": "¿Qué tipo de transformación de energía realiza una fuente de voltaje?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Energía eléctrica en energía mecánica",
+        "B": "Energía térmica en energía eléctrica",
+        "C": "Energía química, mecánica u otra en energía eléctrica",
+        "D": "Energía eléctrica en energía luminosa",
+        "E": "Energía potencial en energía cinética"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una fuente de voltaje o f.e.m. tiene la función fundamental de convertir alguna forma de energía (como la química en una batería o la mecánica en un generador) en energía eléctrica, que luego impulsa la corriente en un circuito.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_006",
+      "pregunta": "¿Qué dos factores principales de un material determinan su resistividad eléctrica ($\rho$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La longitud y el área transversal",
+        "B": "La temperatura y la presión",
+        "C": "La cantidad de electrones libres y la estructura de la red cristalina",
+        "D": "El voltaje aplicado y la corriente resultante",
+        "E": "La masa y el volumen del conductor"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistividad es una propiedad intrínseca del material y depende de su microestructura. Específicamente, está determinada por la cantidad de electrones de conducción (electrones libres) disponibles y la organización de los átomos en su red cristalina, que afecta la facilidad con la que estos electrones pueden moverse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_007",
+      "pregunta": "¿Por qué la resistencia de la plata es menor que la del cobre?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la plata es más densa que el cobre",
+        "B": "Porque la plata tiene más electrones libres que el cobre",
+        "C": "Porque la plata tiene una red cristalina más irregular",
+        "D": "Porque la plata se calienta menos que el cobre",
+        "E": "Porque la plata es un metal más noble"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La conductividad eléctrica en los metales se debe al movimiento de electrones libres. La plata tiene una mayor cantidad de estos electrones por unidad de volumen en comparación con el cobre, lo que le permite conducir la corriente con menos oposición, resultando en una menor resistencia y resistividad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_008",
+      "pregunta": "La fórmula $$R_f = R_0(1 + \\alpha\\Delta T)$$ describe la relación entre la resistencia y ¿qué otra magnitud física?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La longitud del conductor",
+        "B": "La presión atmosférica",
+        "C": "La corriente eléctrica",
+        "D": "El voltaje aplicado",
+        "E": "La temperatura"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Esta fórmula modela cómo varía la resistencia eléctrica de un material cuando cambia su temperatura. La resistencia final ($R_f$) depende de la resistencia inicial ($R_0$), el coeficiente de temperatura ($\\alpha$) y la variación de la temperatura ($\\Delta T$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_009",
+      "pregunta": "¿Qué fenómeno físico, además del aumento de resistencia, experimenta un conductor cuando se eleva su temperatura al transportar energía eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Contracción",
+        "B": "Fusión",
+        "C": "Magnetización",
+        "D": "Dilatación",
+        "E": "Ionización"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El aumento de temperatura en un conductor provoca una mayor vibración de sus átomos. Esta mayor agitación atómica hace que el material se expanda en todas sus dimensiones, un fenómeno conocido como dilatación térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_010",
+      "pregunta": "¿Cuál es el propósito fundamental de una fuente de f.e.m. en el mantenimiento de una corriente en un circuito cerrado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Crear los electrones que forman la corriente",
+        "B": "Proporcionar la energía para mover las cargas",
+        "C": "Reducir la resistencia total del circuito",
+        "D": "Evitar que el conductor se caliente",
+        "E": "Convertir la energía eléctrica en calor"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una fuente de f.e.m. (fuerza electromotriz) no crea cargas, sino que realiza trabajo sobre ellas. Al convertir otra forma de energía en energía eléctrica, proporciona la diferencia de potencial (voltaje) necesaria para impulsar los electrones y mantener así un flujo de corriente continuo en el circuito.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_011",
+      "pregunta": "En la expresión para la variación de la resistencia, ¿qué representa el término $\\alpha$ y cuáles son sus unidades?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Resistividad, en $$\\Omega \\cdot m$$",
+        "B": "Conductividad, en $$S/m$$",
+        "C": "Variación de temperatura, en $$^\\circ C$$",
+        "D": "Coeficiente de temperatura de la resistencia, en $$^\\circ C^{-1}$$",
+        "E": "Resistencia específica, en $$\\Omega$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo $\\alpha$ representa el coeficiente de temperatura de la resistencia. Es una propiedad del material que indica cuánto cambia su resistencia por cada grado Celsius de cambio en la temperatura. Sus unidades son recíprocas de la temperatura, es decir, $$^\\circ C^{-1}$$ o $$K^{-1}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_012",
+      "pregunta": "Si un conductor transporta energía eléctrica y su temperatura aumenta, ¿cómo se relaciona este fenómeno con la resistencia eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistencia no cambia con la temperatura",
+        "B": "La resistencia disminuye al aumentar la temperatura",
+        "C": "La resistencia varía con la temperatura",
+        "D": "La resistencia solo cambia si el conductor se dilata",
+        "E": "La resistencia se vuelve infinita"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia de un conductor no es constante, sino que depende de la temperatura. Para la mayoría de los metales, un aumento de temperatura provoca un aumento en la agitación de la red cristalina, lo que obstaculiza más el flujo de electrones y, por tanto, aumenta la resistencia eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_013",
+      "pregunta": "Analizando la fórmula $$R_f = R_0(1 + \\alpha\\Delta T)$$, si un material tiene un coeficiente de temperatura $\\alpha$ positivo y su temperatura aumenta ($\\Delta T > 0$), ¿qué le sucede a su resistencia final $R_f$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Disminuye porque el término $$(1 + \\alpha\\Delta T)$$ es menor que 1",
+        "B": "Se mantiene igual a $R_0$",
+        "C": "Aumenta porque el término $$(1 + \\alpha\\Delta T)$$ es mayor que 1",
+        "D": "Se vuelve negativa",
+        "E": "El resultado es impredecible sin conocer $R_0$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si $\\alpha$ es positivo y $\\Delta T$ es positivo (aumento de temperatura), el producto $\\alpha\\Delta T$ es un número positivo. Al sumarle 1, el factor $$(1 + \\alpha\\Delta T)$$ será mayor que 1. Al multiplicar la resistencia inicial $R_0$ por un número mayor que 1, la resistencia final $R_f$ será mayor que $R_0$. Por lo tanto, la resistencia aumenta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_014",
+      "pregunta": "Considerando que la resistividad ($\rho$) se debe a la cantidad de electrones libres y la estructura cristalina, ¿qué se puede inferir sobre la resistividad de la plata en comparación con la del cobre, sabiendo que la plata es mejor conductora?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La resistividad de la plata es mayor que la del cobre",
+        "B": "La resistividad de la plata es menor que la del cobre",
+        "C": "Ambos materiales tienen la misma resistividad",
+        "D": "La resistividad depende de la temperatura, no del material",
+        "E": "La resistividad de la plata es el doble que la del cobre"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un mejor conductor es aquel que ofrece menos oposición al flujo de corriente. La resistividad ($\rho$) es la medida de esta oposición intrínseca. Dado que la plata es mejor conductora que el cobre (debido a su mayor número de electrones libres), su resistividad debe ser menor que la del cobre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_118_015",
+      "pregunta": "¿Cuál es la función fundamental que permite a una fuente de f.e.m. mantener una corriente constante en un circuito cerrado que tiene resistencia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Suministrar un número infinito de electrones al circuito",
+        "B": "Eliminar la resistencia del conductor mediante un proceso químico",
+        "C": "Proporcionar continuamente la energía eléctrica que se disipa en la resistencia",
+        "D": "Enfriar el conductor para que su resistencia disminuya a cero",
+        "E": "Invertir periódicamente la polaridad del voltaje"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un circuito con resistencia, la energía eléctrica se convierte continuamente en otras formas (principalmente calor). Para mantener un flujo de corriente constante, una fuente de f.e.m. debe reponer esta energía perdida. Lo hace transformando energía de otra fuente (química, mecánica) en la energía eléctrica necesaria para impulsar las cargas a través de la resistencia del circuito.",
+      "imagen": null
+    }
+  ]
+}

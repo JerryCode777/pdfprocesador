@@ -1,0 +1,233 @@
+{
+  "materia": "lenguaje",
+  "numero_tema": 174,
+  "total_temas": 225,
+  "titulo_tema": "Formato de Referencias según número de autores",
+  "preguntas": [
+    {
+      "id_temporal": "lenguaje_174_001",
+      "pregunta": "¿Cómo se debe formatear la referencia de una obra que tiene un solo autor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se incluye solo el nombre completo del autor.",
+        "B": "Se inicia con el título de la obra, seguido del autor.",
+        "C": "Se incluye el apellido del autor, seguido de la inicial del nombre.",
+        "D": "Se escribe el nombre y apellido completos sin comas.",
+        "E": "Se pone únicamente el apellido del autor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para una obra con un solo autor, el formato estándar requiere que se liste primero el apellido completo del autor, seguido de una coma y luego la inicial de su nombre. Por ejemplo: Apellido, A. Las otras opciones describen formatos incorrectos para esta situación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_002",
+      "pregunta": "En una lista de referencias, ¿qué se debe hacer si una obra no tiene un autor identificado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se escribe \"Anónimo\" en lugar del autor.",
+        "B": "Se omite la referencia por completo.",
+        "C": "Se inicia la entrada de la referencia con el título de la obra.",
+        "D": "Se utiliza el nombre de la editorial como autor.",
+        "E": "Se coloca el URL de la fuente en el lugar del autor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando una fuente carece de autor, la norma indica que la entrada en la lista de referencias debe comenzar directamente con el título de la obra. Las demás opciones, como usar \"Anónimo\" u omitir la referencia, son prácticas incorrectas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_003",
+      "pregunta": "¿Qué elemento se utiliza para unir el nombre del último autor en una referencia en español con múltiples autores?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una coma (,)",
+        "B": "Un ampersand (&)",
+        "C": "La conjunción \"y\"",
+        "D": "Un punto y coma (;)",
+        "E": "La palabra \"et al.\""
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para las referencias en español que tienen de dos a veinte autores, todos los autores se enlistan y el último se une al penúltimo mediante la conjunción \"y\". El ampersand (&) se reserva para fuentes en otros idiomas como el inglés.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_004",
+      "pregunta": "¿Cuál es uno de los errores más frecuentes al crear una lista de referencias para fuentes en línea?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Incluir demasiados autores.",
+        "B": "Colocar solo el URL en la fuente de las referencias.",
+        "C": "Omitir el año de publicación.",
+        "D": "Escribir el título en mayúsculas.",
+        "E": "Usar la conjunción \"y\" en lugar de \"&\"."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un error común en la referenciación de fuentes web es limitarse a pegar el URL. Una referencia completa requiere más información, como el autor (si lo hay), el título de la página o artículo, la fecha y el nombre del sitio web, además del URL.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_005",
+      "pregunta": "Según las normas de referenciación, ¿qué relación debe existir entre las citas en el texto y la lista de referencias final?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La lista de referencias debe incluir solo las fuentes más importantes.",
+        "B": "Solo las citas directas necesitan una entrada en la lista de referencias.",
+        "C": "Todas las citas dentro del texto deben corresponder a una entrada en la lista de referencias.",
+        "D": "La lista de referencias es opcional si las citas están bien hechas.",
+        "E": "La lista de referencias puede incluir bibliografía consultada pero no citada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Es un principio fundamental de la escritura académica que cada fuente citada dentro del cuerpo del texto debe tener su correspondiente entrada completa en la lista de referencias que se presenta al final del documento. Esto permite al lector localizar y verificar todas las fuentes utilizadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_006",
+      "pregunta": "¿Cómo se debe referenciar una obra que tiene un total de 18 autores?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se mencionan los primeros 5 autores y se añade \"et al.\".",
+        "B": "Se mencionan todos los apellidos e iniciales de los 18 autores.",
+        "C": "Se mencionan los primeros 10 autores, puntos suspensivos y el último autor.",
+        "D": "Se menciona solo al primer autor.",
+        "E": "Se mencionan los primeros 17 autores y se añade \"y otros\"."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La regla para obras con entre dos y veinte autores estipula que se deben listar todos ellos en la referencia. Los apellidos e iniciales de los 18 autores deben ser incluidos, uniendo al último con la conjunción \"y\" (o \"&\" si es en otro idioma).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_007",
+      "pregunta": "Para una fuente en inglés con tres autores (Smith, Johnson, Williams), ¿cuál sería el formato correcto para enlistarlos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Smith, J., Johnson, K. y Williams, L.",
+        "B": "Smith, J., Johnson, K., Williams, L.",
+        "C": "Smith, J. et al.",
+        "D": "Smith, J., Johnson, K. & Williams, L.",
+        "E": "Smith and Johnson and Williams."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando la fuente original está en inglés u otro idioma que no sea el español, se utiliza el símbolo ampersand (&) en lugar de la conjunción \"y\" para conectar al último autor de la lista. Por lo tanto, el formato correcto es Apellido, A., Apellido, B. & Apellido, C.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_008",
+      "pregunta": "¿A partir de qué cantidad de autores se debe omitir a algunos de ellos en la lista de referencias?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A partir de siete autores.",
+        "B": "Cuando hay más de diez autores.",
+        "C": "Exactamente con veinte autores.",
+        "D": "Cuando hay más de veinte autores.",
+        "E": "A partir de tres autores."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de omisión de autores se aplica específicamente a obras que tienen más de veinte autores (es decir, 21 o más). Para obras con 20 autores o menos, se deben listar todos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_009",
+      "pregunta": "En el caso de una publicación con 25 autores, ¿cómo se estructura la lista de autores en la referencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se incluyen los primeros 6 autores, seguidos de \"et al.\" y el último autor.",
+        "B": "Se incluyen los primeros 19 autores, se usan tres puntos, y se añade el último autor.",
+        "C": "Se incluyen todos los 25 autores sin excepción.",
+        "D": "Se incluye solo el primer autor, seguido de puntos suspensivos.",
+        "E": "Se incluyen los primeros 20 autores y se omite el resto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para obras con más de veinte autores, el formato correcto es listar los primeros diecinueve autores, insertar tres puntos suspensivos (...) para indicar la omisión, y finalizar con el nombre del último autor de la lista.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_010",
+      "pregunta": "¿Cuál es la principal diferencia en el formato de referencia entre una obra con 20 autores y una con 21 autores?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En la de 20 se usa \"y\", y en la de 21 se usa \"&\".",
+        "B": "En la de 20 se listan todos, mientras que en la de 21 se omiten algunos autores intermedios.",
+        "C": "La de 20 autores no requiere año de publicación, la de 21 sí.",
+        "D": "En la de 20 se usa el apellido, y en la de 21 solo el título.",
+        "E": "No hay ninguna diferencia en el formato."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El umbral de veinte autores es crucial. Para una obra con exactamente veinte autores, se deben listar todos. Para una obra con veintiuno (más de veinte), se aplica la regla de omisión: se listan los primeros 19, se añaden puntos suspensivos y se finaliza con el último autor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_011",
+      "pregunta": "Si encuentras una referencia formateada como \"González, J., González, A. y Ramos, F.\", ¿qué puedes deducir sobre el número de autores de la obra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La obra tiene exactamente un autor.",
+        "B": "La obra tiene más de veinte autores.",
+        "C": "La obra tiene entre dos y veinte autores.",
+        "D": "La obra no tiene autor y esos son los editores.",
+        "E": "La obra es de un autor anónimo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este formato, que lista a todos los autores y une al último con \"y\", es el que se utiliza para obras que tienen de dos a veinte autores. Si tuviera un autor, solo aparecería uno. Si tuviera más de veinte, se usarían puntos suspensivos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_012",
+      "pregunta": "¿Qué elemento común se mantiene en el formato de referencias para 1, 15 y 25 autores?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El uso de puntos suspensivos.",
+        "B": "La inclusión del apellido e inicial del primer autor.",
+        "C": "La omisión de los autores intermedios.",
+        "D": "El uso del símbolo \"&\".",
+        "E": "Se inicia siempre con el título de la obra."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Independientemente del número total de autores (ya sea uno, quince o veinticinco), el formato de la referencia siempre comenzará con el apellido y la inicial del primer autor. Las otras reglas, como el uso de puntos suspensivos o la omisión, solo se aplican a casos específicos de cantidad de autores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_013",
+      "pregunta": "Un artículo científico tiene 22 autores. El primer autor es García, A. y el último es Zavala, P. ¿Cuál de las siguientes opciones representa la forma correcta de iniciar la referencia de los autores?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "García, A., ..., Zavala, P.",
+        "B": "García, A., Apellido2, B., Apellido3, C., ..., Apellido19, S. ... y Zavala, P.",
+        "C": "García, A., Apellido2, B., ..., Apellido19, S., ... Zavala, P.",
+        "D": "García, A. et al.",
+        "E": "García, A. y 21 otros."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al tener más de 20 autores (en este caso, 22), se debe aplicar la regla específica: se listan los primeros 19 autores (comenzando con García, A.), se colocan tres puntos suspensivos para indicar la omisión de los autores 20 y 21, y se finaliza la lista con el nombre del último autor (Zavala, P.). La opción C representa esta estructura (Apellido1, ..., Apellido19, ... Apellido22). No se utiliza \"y\" ni \"&\" antes del último autor en este formato.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_014",
+      "pregunta": "Estás revisando una bibliografía y encuentras dos entradas: 1) López-Gómez, V. (2021)... y 2) Pérez, M., Suárez, L. y Roca, J. (2022)... Basándote únicamente en el formato de los autores, ¿qué conclusión es correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La primera fuente es un libro y la segunda un artículo.",
+        "B": "La primera fuente tiene un autor y la segunda tiene entre dos y veinte autores.",
+        "C": "La segunda fuente tiene más de veinte autores.",
+        "D": "La primera fuente no tiene autor identificado.",
+        "E": "Ambas fuentes están incorrectamente referenciadas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El formato de los autores nos da información sobre su cantidad. \"López-Gómez, V.\" sigue la regla de un solo autor (Apellido, A.). \"Pérez, M., Suárez, L. y Roca, J.\" sigue la regla de enlistar a todos los autores cuando son entre dos y veinte. El formato no permite determinar el tipo de publicación (libro, artículo) ni si hay errores en el resto de la referencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_174_015",
+      "pregunta": "Un estudiante debe referenciar un informe sin autor, una tesis con un autor, un libro en inglés con 10 autores y un artículo con 24 autores. ¿Qué combinación de reglas de formato necesitará aplicar respectivamente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Título primero; Apellido, A.; Listar los 10 con \"y\"; Listar los 19, ..., último autor.",
+        "B": "Anónimo; Apellido, A.; Listar los 10 con \"&\"; Listar el primero et al.",
+        "C": "Título primero; Apellido, A.; Listar los 10 con \"&\"; Listar los 19, ..., último autor.",
+        "D": "Título primero; Nombre, A.; Listar todos con \"y\"; Listar los 19 y el último.",
+        "E": "Omitir la referencia; Apellido, A.; Listar los 10 con \"y\"; Listar los 24."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para resolver esto, se debe aplicar la regla correcta a cada caso en orden: 1) Sin autor: se inicia con el título. 2) Un autor: se usa el formato Apellido, A. 3) 10 autores en inglés: se listan todos y se usa \"&\" para unir al último. 4) 24 autores (más de 20): se listan los primeros 19, se usan puntos suspensivos (...) y se añade el último autor. La opción C es la única que combina correctamente estas cuatro reglas.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 127,
+  "total_temas": 137,
+  "titulo_tema": "Magnetismo",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_127_001",
+      "pregunta": "¿Qué es un imán?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un material que solo puede repeler otros cuerpos",
+        "B": "Un cuerpo que genera un campo magnético continuo",
+        "C": "Cualquier mineral metálico que conduce electricidad",
+        "D": "Un material que solo funciona cuando pasa corriente por él",
+        "E": "Un cuerpo que únicamente atrae materiales no metálicos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un imán se define como un cuerpo o material que tiene la capacidad de generar un campo magnético continuo a su alrededor. Esta propiedad le permite atraer hacia sí otros imanes o cuerpos de materiales ferromagnéticos como el hierro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_002",
+      "pregunta": "¿Cuál fue el primer material observado con propiedades magnéticas naturales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El cobalto",
+        "B": "El hierro puro",
+        "C": "El níquel",
+        "D": "La magnetita ($$Fe_3O_4$$)",
+        "E": "El acero"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El primer material en el que se observaron propiedades magnéticas fue la magnetita, un mineral de hierro cuya fórmula química es $$Fe_3O_4$$. Este descubrimiento fue el punto de partida para el estudio del magnetismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_003",
+      "pregunta": "¿Cómo se denominan las zonas de un imán donde se concentran sus efectos magnéticos externos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Zonas neutras",
+        "B": "Puntos de inducción",
+        "C": "Polos magnéticos",
+        "D": "Centros de fuerza",
+        "E": "Meridianos geográficos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las zonas de un imán donde sus efectos magnéticos, como la atracción y repulsión, son más intensos se denominan polos magnéticos. Todo imán tiene al menos un polo Norte y un polo Sur.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_004",
+      "pregunta": "¿Qué es el magnetismo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La propiedad de los cuerpos de conducir electricidad",
+        "B": "La propiedad que tienen ciertas sustancias de atraer o repeler algunos cuerpos",
+        "C": "El fenómeno que ocurre únicamente cuando hay corriente eléctrica",
+        "D": "La capacidad de los materiales para resistir la deformación",
+        "E": "La fuerza que mantiene unidos a los planetas en el sistema solar"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El magnetismo se define como la propiedad que presentan determinadas sustancias, como los minerales de hierro, cobalto y níquel, de ejercer fuerzas de atracción o repulsión sobre ciertos cuerpos, como trozos de hierro o acero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_005",
+      "pregunta": "¿A qué se le llama campo magnético?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al interior de un conductor eléctrico",
+        "B": "A la fuerza con la que se atraen dos imanes",
+        "C": "A la región del espacio que rodea a un polo magnético y posee propiedades magnéticas",
+        "D": "Al camino que sigue la electricidad en un circuito",
+        "E": "A la zona neutra de un imán"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El campo magnético es la región del espacio que rodea a un imán o a una corriente eléctrica. Dentro de este campo, se manifiestan fuerzas magnéticas de atracción o repulsión sobre otros polos magnéticos o sobre cargas eléctricas en movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_006",
+      "pregunta": "¿Cuál es el enunciado correcto de la 'Ley de los polos' magnéticos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Polos magnéticos de igual nombre se atraen y de nombres contrarios se repelen",
+        "B": "Polos magnéticos de igual nombre se repelen y de nombres contrarios se atraen",
+        "C": "Todos los polos magnéticos se atraen entre sí, sin importar su nombre",
+        "D": "La atracción o repulsión solo ocurre entre un polo Norte y una zona neutra",
+        "E": "Todos los polos magnéticos se repelen entre sí, sin importar su nombre"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de los polos establece la regla fundamental de la interacción magnética: dos polos del mismo tipo (Norte-Norte o Sur-Sur) se repelen, mientras que dos polos de tipo opuesto (Norte-Sur) se atraen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_007",
+      "pregunta": "¿Qué ocurre si un imán se suspende para que pueda oscilar libremente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Gira indefinidamente sin detenerse",
+        "B": "Pierde sus propiedades magnéticas",
+        "C": "Apunta siempre hacia el Este geográfico",
+        "D": "Se orienta con el meridiano geográfico",
+        "E": "Se alinea perpendicularmente al campo magnético terrestre"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Debido a la interacción con el campo magnético de la Tierra, un imán que puede girar libremente se alineará con el meridiano geográfico. El polo del imán que apunta hacia el Norte geográfico se denomina polo Norte magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_008",
+      "pregunta": "Por convención, ¿cuál es la dirección de las líneas de fuerza o de inducción de un campo magnético?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Salen del polo sur e ingresan al polo norte",
+        "B": "Se originan en la zona neutra y se expanden hacia los polos",
+        "C": "Salen del polo norte e ingresan al polo sur",
+        "D": "Van en paralelo al imán, sin tocar los polos",
+        "E": "No tienen una dirección definida"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por un acuerdo o convención, las líneas que representan el campo magnético se dibujan de tal manera que emergen (salen) del polo Norte magnético y se curvan para reingresar (entrar) por el polo Sur magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_009",
+      "pregunta": "¿Qué científico ideó la representación del campo magnético mediante líneas de inducción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Isaac Newton",
+        "B": "Albert Einstein",
+        "C": "Nikola Tesla",
+        "D": "Galileo Galilei",
+        "E": "Michael Faraday"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Michael Faraday fue quien concibió la idea de visualizar los campos magnéticos utilizando líneas imaginarias, a las que llamó líneas de fuerza o líneas de inducción. Este concepto fue fundamental para el desarrollo de la teoría electromagnética.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_010",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre las líneas de inducción magnética es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son líneas abiertas que comienzan en el polo Norte y terminan en el Sur",
+        "B": "Pueden cruzarse o interceptarse en puntos de alta intensidad",
+        "C": "Son más densas en la zona neutra del imán",
+        "D": "Son líneas cerradas y nunca se interceptan",
+        "E": "Existen solo dentro del imán y no en el espacio que lo rodea"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las líneas de inducción magnética tienen dos propiedades clave: son siempre curvas cerradas (continúan por dentro del imán para cerrar el bucle) y nunca se cruzan ni se interceptan entre sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_011",
+      "pregunta": "¿Qué es la fuerza magnética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza que mantiene unida la materia del imán",
+        "B": "La fuerza con la que se atraen o repelen los polos de un imán",
+        "C": "La fuerza que convierte un material en ferromagnético",
+        "D": "La resistencia de un imán a ser desmagnetizado",
+        "E": "La energía almacenada en el campo magnético"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza magnética es el nombre específico que recibe la fuerza de interacción (atracción o repulsión) que surge entre los polos magnéticos de dos o más imanes, o entre un imán y un material ferromagnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_012",
+      "pregunta": "¿Qué diferencia fundamental se establece entre magnetismo y electromagnetismo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El magnetismo es natural y el electromagnetismo es artificial",
+        "B": "El magnetismo se relaciona con imanes y el electromagnetismo con corrientes eléctricas",
+        "C": "No hay ninguna diferencia, son sinónimos",
+        "D": "El magnetismo solo atrae y el electromagnetismo solo repele",
+        "E": "El magnetismo ocurre en sólidos y el electromagnetismo en gases"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El magnetismo se refiere a los fenómenos asociados con imanes permanentes y materiales ferromagnéticos. El electromagnetismo, en cambio, trata específicamente con los fenómenos magnéticos que se originan cuando una corriente eléctrica fluye a través de conductores y bobinas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_013",
+      "pregunta": "¿Qué principio fundamental sobre los imanes explica por qué no es posible aislar un solo polo magnético?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La ley de los polos, que indica que polos iguales se repelen",
+        "B": "El hecho de que los imanes son dipolos magnéticos y sus polos son inseparables",
+        "C": "La convención de que las líneas de fuerza salen del polo Norte",
+        "D": "La orientación de los imanes con el meridiano geográfico",
+        "E": "La existencia de una zona neutra en la parte intermedia del imán"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La razón por la cual no existen imanes con un solo polo (monopolos magnéticos) es que los imanes son, por naturaleza, dipolos magnéticos. Esto significa que los polos Norte y Sur siempre existen en pares y son inseparables. Si se corta un imán, cada pieza se convertirá en un nuevo imán con su propio par de polos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_014",
+      "pregunta": "Si se colocan dos imanes de barra uno al lado del otro, con sus polos Norte enfrentados, ¿qué fenómeno se observará entre ellos debido a la Ley de los polos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una fuerte fuerza de atracción que los unirá",
+        "B": "No habrá ninguna interacción entre ellos",
+        "C": "Una fuerza de repulsión que tenderá a separarlos",
+        "D": "Los imanes girarán 90 grados para alinearse perpendicularmente",
+        "E": "Se anularán mutuamente sus campos magnéticos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aplicando la Ley de los polos, que establece que 'polos magnéticos de igual nombre se repelen', al enfrentar dos polos Norte, la interacción resultante será una fuerza magnética de repulsión. Esta fuerza empujará a los imanes para que se alejen el uno del otro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_127_015",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe una imposibilidad física según las propiedades de las líneas de inducción magnética?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las líneas de inducción forman bucles cerrados que pasan por dentro del imán",
+        "B": "Dos líneas de inducción magnética se cruzan en el punto medio entre dos polos opuestos",
+        "C": "Las líneas de inducción son más densas cerca de los polos, donde el campo es más fuerte",
+        "D": "Una línea de inducción sale del polo Norte y entra en el polo Sur del mismo imán",
+        "E": "El campo magnético se extiende en el espacio que rodea al imán"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una regla fundamental de las líneas de inducción magnética es que nunca se interceptan o se cruzan. Cada punto en el espacio solo puede tener una dirección para el campo magnético. Por lo tanto, es físicamente imposible que dos líneas de campo se crucen, ya que esto implicaría dos direcciones diferentes para el campo en el mismo punto.",
+      "imagen": null
+    }
+  ]
+}

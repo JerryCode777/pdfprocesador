@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 108,
+  "total_temas": 137,
+  "titulo_tema": "Energía potencial eléctrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_108_001",
+      "pregunta": "¿Cómo se define la energía potencial eléctrica ($$U$$) de una carga ($$q_0$$) en un punto 'P' de un campo eléctrico externo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como la energía por unidad de carga en el punto 'P'",
+        "B": "Como el trabajo realizado para traer dicha carga desde el infinito hasta el punto 'P'",
+        "C": "Como la fuerza eléctrica que actúa sobre la carga en el punto 'P'",
+        "D": "Como el flujo eléctrico a través de una superficie que contiene a 'P'",
+        "E": "Como la distancia desde la carga fuente hasta el punto 'P'"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial eléctrica ($$U$$) en un punto se define conceptualmente como el trabajo que se debe realizar contra el campo eléctrico para mover una carga de prueba ($$q_0$$) desde una posición de referencia (el infinito) hasta dicho punto 'P'. Las otras opciones definen conceptos diferentes: la opción A define el potencial eléctrico, la opción C se relaciona con la ley de Coulomb y la opción D con el flujo eléctrico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_002",
+      "pregunta": "¿Cuál es la unidad de la Energía Potencial Eléctrica en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Coulomb (C)",
+        "B": "Newton (N)",
+        "C": "Joule (J)",
+        "D": "Metro (m)",
+        "E": "Volt (V)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial eléctrica, al ser una forma de energía y equivalente al trabajo realizado, se mide en Joules (J) en el Sistema Internacional. El Coulomb es la unidad de carga, el Newton de fuerza, el Metro de distancia y el Volt de potencial eléctrico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_003",
+      "pregunta": "¿Qué es el potencial eléctrico ($$V$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El trabajo total realizado en un campo eléctrico.",
+        "B": "La energía potencial por unidad de carga.",
+        "C": "La fuerza por unidad de distancia.",
+        "D": "La carga total de un sistema.",
+        "E": "El flujo eléctrico a través de una superficie."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El potencial eléctrico ($$V$$) se define como la cantidad de energía potencial eléctrica ($$U$$) que posee una unidad de carga de prueba ($$q_0$$) en un punto específico de un campo eléctrico. Es una medida de la energía potencial normalizada por la carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_004",
+      "pregunta": "En la fórmula de la energía potencial eléctrica $$U = k \frac{Q q_0}{d}$$, ¿qué representa la variable $$Q$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La carga de prueba",
+        "B": "La constante de Coulomb",
+        "C": "La distancia de separación",
+        "D": "La carga fuente o puntual",
+        "E": "El trabajo realizado"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula para la energía potencial eléctrica de un sistema de dos cargas, $$Q$$ representa la carga fuente, que es la carga que crea el campo eléctrico en el que se mueve la otra carga. Por otro lado, $$q_0$$ es la carga de prueba, $$d$$ es la distancia y $$k$$ es la constante de Coulomb.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_005",
+      "pregunta": "¿Bajo qué condición angular el flujo del campo eléctrico a través de una superficie es nulo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando el ángulo $$\theta$$ entre el campo y la normal es 0°",
+        "B": "Cuando el ángulo $$\theta$$ entre el campo y la normal es 45°",
+        "C": "Cuando el ángulo $$\theta$$ entre el campo y la normal es 180°",
+        "D": "Cuando el ángulo $$\theta$$ entre el campo y la normal es 90°",
+        "E": "Cuando el ángulo $$\theta$$ entre el campo y la normal es 270°"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El flujo eléctrico es nulo cuando el coseno del ángulo ($$\theta$$) entre el vector del campo eléctrico y el vector normal a la superficie es cero. Esto ocurre cuando $$\theta = 90^\\circ$$, ya que $$cos(90^\\circ) = 0$$. Físicamente, esto significa que ninguna línea de campo eléctrico atraviesa la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_006",
+      "pregunta": "¿Qué ocurre con el flujo del campo eléctrico ($$\\Phi_E$$) a través de una superficie si el ángulo ($$\theta$$) entre el campo eléctrico y la normal a la superficie es de 0°?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El flujo es nulo.",
+        "B": "El flujo es máximo.",
+        "C": "El flujo es negativo.",
+        "D": "El flujo es la mitad de su valor máximo.",
+        "E": "El flujo es indefinido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo eléctrico alcanza su valor máximo cuando el campo eléctrico es perpendicular a la superficie, lo que significa que es paralelo a la normal de la superficie. En este caso, el ángulo $$\theta$$ entre el campo y la normal es 0°, y como $$cos(0^\\circ) = 1$$, la fórmula del flujo se simplifica a $$\\Phi_E = E A$$, su máximo valor posible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_007",
+      "pregunta": "¿Cuál es la expresión matemática que relaciona la energía potencial eléctrica ($$U$$) con el trabajo ($$W$$) realizado para traer una carga desde el infinito a un punto 'P'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$U = -W_{(\\infty \to P)}$$",
+        "B": "$$U = \frac{W_{(\\infty \to P)}}{q_0}$$",
+        "C": "$$U = W_{(\\infty \to P)}$$",
+        "D": "$$U = W_{(\\infty \to P)} \\cdot d$$",
+        "E": "$$U = k \\cdot W_{(\\infty \to P)}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición fundamental de la energía potencial eléctrica ($$U$$) en un punto 'P' es que es exactamente igual al trabajo ($$W$$) realizado contra las fuerzas del campo eléctrico para mover una carga desde el infinito (donde la energía potencial es cero) hasta ese punto. Por lo tanto, $$U = W_{(\\infty \to P)}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_008",
+      "pregunta": "Según la información proporcionada, ¿cuál es el valor del flujo del campo eléctrico a través de cualquier superficie cerrada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre es máximo",
+        "B": "Depende de la carga encerrada",
+        "C": "Siempre es nulo",
+        "D": "Es igual al producto $$E \\cdot A$$",
+        "E": "Es un valor negativo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las propiedades adicionales mencionadas establece que el flujo del campo eléctrico a través de una superficie cerrada siempre es nulo. Esto implica que la misma cantidad de líneas de campo que entran en la superficie también deben salir de ella.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_009",
+      "pregunta": "¿Cómo se define el vector 'normal a la superficie' en el cálculo del flujo eléctrico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un vector paralelo a la superficie.",
+        "B": "Un vector con la misma dirección que el campo eléctrico.",
+        "C": "El vector que representa el área de la superficie.",
+        "D": "El vector perpendicular a la cara interna de la superficie.",
+        "E": "El vector perpendicular a la cara externa de la superficie."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La normal a la superficie es un concepto geométrico crucial para calcular el flujo. Se define como un vector que es perpendicular (forma un ángulo de 90°) con la superficie en un punto dado y, por convención para el flujo, apunta hacia la cara externa de la misma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_010",
+      "pregunta": "Si se conoce la energía potencial eléctrica ($$U$$) asociada a una carga de prueba ($$q_0$$) en un punto, ¿cómo se calcula el potencial eléctrico ($$V$$) en ese mismo punto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V = U \\cdot q_0$$",
+        "B": "$$V = \frac{U}{q_0}$$",
+        "C": "$$V = \frac{q_0}{U}$$",
+        "D": "$$V = U - q_0$$",
+        "E": "$$V = U$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El potencial eléctrico ($$V$$) se define como la energía potencial ($$U$$) por unidad de carga ($$q_0$$). Por lo tanto, para encontrar el potencial en un punto, se divide la energía potencial de una carga de prueba en ese punto por el valor de la propia carga de prueba, lo que da la relación $$V = \frac{U}{q_0}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_011",
+      "pregunta": "Considerando la fórmula $$U = k \frac{Q q_0}{d}$$, si la distancia de separación $$d$$ entre las cargas $$Q$$ y $$q_0$$ se duplica, ¿qué le sucede a la energía potencial eléctrica $$U$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se duplica",
+        "B": "Se reduce a la cuarta parte",
+        "C": "Se cuadruplica",
+        "D": "Se reduce a la mitad",
+        "E": "No cambia"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula $$U = k \frac{Q q_0}{d}$$, la energía potencial eléctrica $$U$$ es inversamente proporcional a la distancia $$d$$. Si la distancia $$d$$ se reemplaza por $$2d$$, la nueva energía potencial será $$U' = k \frac{Q q_0}{2d} = \frac{1}{2} (k \frac{Q q_0}{d}) = \frac{1}{2} U$$. Por lo tanto, la energía se reduce a la mitad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_012",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa correctamente la energía potencial eléctrica ($$U$$) entre una carga fuente ($$Q$$) y una carga de prueba ($$q_0$$) separadas por una distancia ($$d$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$U = k \frac{Q q_0}{d^2}$$",
+        "B": "$$U = k \frac{Q}{d}$$",
+        "C": "$$U = \frac{Q q_0}{d}$$",
+        "D": "$$U = k \frac{Q q_0}{d}$$",
+        "E": "$$U = k \frac{Q + q_0}{d}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula correcta para la energía potencial eléctrica de un sistema de dos cargas puntuales es $$U = k \frac{Q q_0}{d}$$, donde $$k$$ es la constante de Coulomb, $$Q$$ y $$q_0$$ son las cargas, y $$d$$ es la distancia entre ellas. La opción A corresponde a la fuerza eléctrica, no a la energía potencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_013",
+      "pregunta": "Si el flujo del campo eléctrico a través de una superficie plana es nulo porque el ángulo $$\theta$$ es de 90°, ¿qué se puede concluir sobre la orientación del vector de campo eléctrico ($$\\vec{E}$$) con respecto al plano de la superficie?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El campo eléctrico es perpendicular a la superficie.",
+        "B": "El campo eléctrico es paralelo a la superficie.",
+        "C": "El campo eléctrico es nulo en todos los puntos de la superficie.",
+        "D": "El campo eléctrico forma un ángulo de 45° con la superficie.",
+        "E": "La superficie debe ser cerrada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El ángulo $$\theta$$ se mide entre el vector del campo eléctrico y el vector normal a la superficie. Si $$\theta = 90^\\circ$$, significa que el campo eléctrico y la normal son perpendiculares entre sí. Dado que la normal es, por definición, perpendicular a la superficie, si el campo es perpendicular a la normal, entonces debe ser necesariamente paralelo al plano de la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_014",
+      "pregunta": "Sabiendo que la energía potencial eléctrica $$U$$ es igual al trabajo $$W_{(\\infty \to P)}$$ y que el potencial eléctrico $$V$$ es la energía potencial por unidad de carga $$q_0$$, ¿cuál es la expresión correcta para $$V$$ en términos de $$W_{(\\infty \to P)}$$ y $$q_0$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$V = W_{(\\infty \to P)} \\cdot q_0$$",
+        "B": "$$V = W_{(\\infty \to P)} + q_0$$",
+        "C": "$$V = \frac{q_0}{W_{(\\infty \to P)}}$$",
+        "D": "$$V = \frac{W_{(\\infty \to P)}}{q_0}$$",
+        "E": "$$V = W_{(\\infty \to P)}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este problema requiere combinar dos definiciones. Primero, sabemos que $$V = \frac{U}{q_0}$$. Segundo, sabemos que $$U = W_{(\\infty \to P)}$$. Sustituyendo la segunda ecuación en la primera, reemplazamos $$U$$ por $$W_{(\\infty \to P)}$$, lo que nos da como resultado la expresión $$V = \frac{W_{(\\infty \to P)}}{q_0}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_108_015",
+      "pregunta": "La expresión $$U = k \frac{Q q_0}{d}$$ representa el trabajo necesario para:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Calcular la fuerza de atracción o repulsión entre las cargas $$Q$$ y $$q_0$$.",
+        "B": "Mover la carga $$q_0$$ en una trayectoria circular de radio $$d$$ alrededor de $$Q$$.",
+        "C": "Traer la carga $$q_0$$ desde el infinito hasta una distancia $$d$$ de la carga $$Q$$.",
+        "D": "Acelerar la carga $$q_0$$ hasta una velocidad $$v$$ a una distancia $$d$$ de $$Q$$.",
+        "E": "Calcular el potencial eléctrico generado únicamente por la carga $$Q$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula $$U = k \frac{Q q_0}{d}$$ es la expresión cuantitativa de la definición de energía potencial eléctrica. Esta energía es equivalente al trabajo $$W_{(\\infty \to P)}$$ que se debe realizar para vencer la fuerza del campo eléctrico generado por $$Q$$ y mover la carga $$q_0$$ desde el infinito (distancia infinita) hasta un punto P situado a una distancia $$d$$ de $$Q$$.",
+      "imagen": null
+    }
+  ]
+}

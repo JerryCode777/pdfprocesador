@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 91,
+  "total_temas": 137,
+  "titulo_tema": "Calor Latente",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_091_001",
+      "pregunta": "¿Cuál es la fórmula utilizada para calcular la energía $Q$ necesaria para cambiar la fase de una sustancia de masa $m$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$Q = mc\\Delta T$$",
+        "B": "$$E = mc^2$$",
+        "C": "$$Q = \\pm mL$$",
+        "D": "$$L = Qm$$",
+        "E": "$$Q = \\frac{m}{L}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía calorífica $Q$ requerida para un cambio de fase se calcula con la fórmula $$Q = \\pm mL$$, donde $m$ es la masa de la sustancia y $L$ es el calor latente específico de esa sustancia para esa transición de fase. El signo depende de si la energía es absorbida (+) o liberada (-).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_002",
+      "pregunta": "¿Qué sucede con la temperatura de una sustancia pura mientras está experimentando un cambio de fase, como la fusión o la vaporización?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aumenta proporcionalmente al calor añadido.",
+        "B": "Disminuye gradualmente.",
+        "C": "Se mantiene constante.",
+        "D": "Aumenta de forma exponencial.",
+        "E": "Oscila alrededor de un valor medio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica fundamental de los cambios de fase en sustancias puras a una presión determinada es que la temperatura permanece constante durante todo el proceso. La energía añadida o eliminada se utiliza para el reordenamiento molecular y no para aumentar o disminuir la energía cinética de las moléculas (temperatura).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_003",
+      "pregunta": "¿A qué temperatura ocurre la fusión y la solidificación del agua?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$100°C$$",
+        "B": "$$0°C$$",
+        "C": "$$-273°C$$",
+        "D": "$$50°C$$",
+        "E": "$$0 K$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para el agua, el cambio de fase entre sólido (hielo) y líquido (agua) ocurre a una temperatura definida de $$0°C$$. Este es el punto de fusión cuando se añade calor y el punto de solidificación cuando se retira calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_004",
+      "pregunta": "¿Cómo se denomina la cantidad de calor involucrada en el cambio de fase de líquido a sólido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$Q_{FUSIÓN}$$",
+        "B": "$$Q_{VAPORIZACIÓN}$$",
+        "C": "$$Q_{CONDENSACIÓN}$$",
+        "D": "$$Q_{SOLIDIFICACIÓN}$$",
+        "E": "$$Q_{SUBLIMACIÓN}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El calor transferido durante un cambio de fase adopta una denominación específica según el proceso. Para el cambio de estado de líquido a sólido, el calor involucrado se denomina calor de solidificación, o $$Q_{SOLIDIFICACIÓN}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_005",
+      "pregunta": "¿Cuál es el valor aproximado del calor latente de vaporización ($L_v$) del agua en $$cal/g$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$80 \\ cal/g$$",
+        "B": "$$-80 \\ cal/g$$",
+        "C": "$$540 \\ cal/g$$",
+        "D": "$$-540 \\ cal/g$$",
+        "E": "$$100 \\ cal/g$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor latente de vaporización ($L_v$) es la energía necesaria para convertir 1 gramo de líquido en vapor a su temperatura de ebullición. Para el agua, este valor es aproximadamente $$540 \\ cal/g$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_006",
+      "pregunta": "¿Por qué el calor de transformación se denomina \"calor latente\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la energía se transfiere muy lentamente.",
+        "B": "Porque el término \"latente\" significa \"escondido\", ya que la energía añadida no causa un aumento de temperatura.",
+        "C": "Porque es una forma de energía que no se puede medir directamente.",
+        "D": "Porque solo se manifiesta en sustancias transparentes.",
+        "E": "Porque es el calor que queda almacenado permanentemente en la sustancia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La palabra \"latente\" significa \"escondido\". Se utiliza este término porque durante un cambio de fase, la energía calorífica que se absorbe o se libera no se manifiesta como un cambio de temperatura, sino que está \"escondida\" en el cambio de la estructura molecular de la sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_007",
+      "pregunta": "En un proceso de condensación, como cuando el vapor de agua se convierte en agua líquida, ¿qué signo se utiliza en la fórmula $$Q = \\pm mL$$ y por qué?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo, porque la sustancia gana masa.",
+        "B": "Negativo, porque se remueve energía de la sustancia.",
+        "C": "Positivo, porque el líquido tiene más energía que el vapor.",
+        "D": "Negativo, porque la temperatura disminuye.",
+        "E": "Es indiferente, el signo no tiene un significado físico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El signo negativo se elige cuando la energía se remueve de una sustancia. La condensación es un proceso exotérmico en el que el vapor debe liberar energía para pasar al estado líquido. Por lo tanto, el calor transferido $Q$ es negativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_008",
+      "pregunta": "¿Cuál es la relación matemática entre el calor latente de fusión del agua ($L_f = 3,33 \\times 10^5 \\ J/kg$) y su calor latente de solidificación ($L_s$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$L_f = L_s$$",
+        "B": "$$L_s = 0$$",
+        "C": "$$L_f > L_s$$",
+        "D": "$$L_f = -L_s$$",
+        "E": "No existe una relación directa."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fusión (absorción de energía) y la solidificación (liberación de energía) son procesos inversos. Por ello, la magnitud del calor latente es la misma, pero el signo es opuesto. Si $$L_f = 3,33 \\times 10^5 \\ J/kg$$, entonces $$L_s = -3,33 \\times 10^5 \\ J/kg$$, lo que se resume en la relación $$L_f = -L_s$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_009",
+      "pregunta": "¿En qué se invierte la energía calorífica que se transfiere a una sustancia durante un cambio de fase?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En aumentar la energía cinética de las moléculas.",
+        "B": "Únicamente en aumentar el volumen de la sustancia.",
+        "C": "En el reordenamiento de la estructura molecular.",
+        "D": "En disminuir la masa de la sustancia.",
+        "E": "En producir una reacción química."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Durante un cambio de fase, la temperatura no cambia, lo que significa que la energía cinética promedio de las moléculas permanece constante. La energía transferida se invierte exclusivamente en cambiar la energía potencial intermolecular, es decir, en el reordenamiento de las moléculas para pasar de una fase a otra (por ejemplo, de una estructura ordenada en un sólido a una desordenada en un líquido).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_010",
+      "pregunta": "¿Qué establece el Principio Fundamental de la Calorimetría?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El calor siempre fluye del cuerpo de mayor masa al de menor masa.",
+        "B": "La temperatura final de una mezcla es siempre la media aritmética de las iniciales.",
+        "C": "La energía no se crea ni se destruye, solo se transforma.",
+        "D": "La cantidad de calor perdida por unos cuerpos es igual a la cantidad de calor ganada por otros.",
+        "E": "Todos los cuerpos tienden a alcanzar una temperatura de $$0°C$$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Principio Fundamental de la Calorimetría es una manifestación de la conservación de la energía. Establece que en un sistema aislado donde solo hay intercambio de calor, la suma del calor cedido por los cuerpos más calientes debe ser igual a la suma del calor absorbido por los cuerpos más fríos. En resumen: calor perdido = calor ganado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_011",
+      "pregunta": "Para derretir un trozo de hielo a $$0°C$$, el proceso requiere la absorción de energía. ¿Qué signo tendrá el calor de fusión ($Q_{FUSIÓN}$) en este caso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Negativo, porque la temperatura es baja.",
+        "B": "Positivo, porque la energía es absorbida por la sustancia.",
+        "C": "Cero, porque la temperatura no cambia.",
+        "D": "Dependerá de la presión atmosférica.",
+        "E": "Negativo, porque el hielo pierde su forma sólida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La convención de signos establece que cuando la energía es absorbida por una sustancia, el calor transferido ($Q$) es positivo. La fusión es un proceso endotérmico que requiere que el hielo absorba energía del entorno para romper su estructura cristalina, por lo tanto, $$Q_{FUSIÓN}$$ es positivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_012",
+      "pregunta": "El calor latente de condensación del agua es $$L_c \\approx -540 \\ cal/g$$. ¿Qué significa el signo negativo en este valor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que se necesitan $$540 \\ cal$$ para crear un gramo de vapor.",
+        "B": "Que la temperatura del vapor debe ser negativa.",
+        "C": "Que por cada gramo de vapor que se condensa, se liberan $$540 \\ cal$$ de energía.",
+        "D": "Que el proceso de condensación destruye energía.",
+        "E": "Que el agua líquida tiene una energía negativa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El signo negativo indica que la energía se remueve o libera de la sustancia. Por lo tanto, un valor de $$L_c = -540 \\ cal/g$$ significa que cada gramo de vapor de agua debe liberar 540 calorías de energía al entorno para poder condensarse y convertirse en agua líquida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_013",
+      "pregunta": "¿Qué cantidad de calor, en calorías, se debe retirar para solidificar completamente 20 gramos de agua que se encuentran a $$0°C$$? (Dato: $$L_s \\approx -80 \\ cal/g$$)",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$1600 \\ cal$$",
+        "B": "$$-1600 \\ cal$$",
+        "C": "$$800 \\ cal$$",
+        "D": "$$-800 \\ cal$$",
+        "E": "$$10800 \\ cal$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Se utiliza la fórmula del calor latente $$Q = mL_s$$. La masa es $$m = 20 \\ g$$ y el calor latente de solidificación es $$L_s \\approx -80 \\ cal/g$$. Al sustituir los valores, obtenemos: $$Q = (20 \\ g) \\times (-80 \\ cal/g) = -1600 \\ cal$$. El signo negativo confirma que es calor que se retira de la sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_014",
+      "pregunta": "Comparando los valores de calor latente para el agua ($$L_f \\approx 80 \\ cal/g$$ y $$L_v \\approx 540 \\ cal/g$$), ¿qué proceso requiere más energía por gramo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fusión requiere más energía que la vaporización.",
+        "B": "La solidificación requiere más energía que la condensación.",
+        "C": "La vaporización requiere significativamente más energía que la fusión.",
+        "D": "Ambos procesos requieren la misma cantidad de energía.",
+        "E": "La comparación no es posible sin conocer la temperatura inicial."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al comparar las magnitudes de los calores latentes, se observa que $$L_v (540 \\ cal/g)$$ es mucho mayor que $$L_f (80 \\ cal/g)$$. Esto significa que se necesita casi 7 veces más energía para convertir un gramo de agua líquida en vapor que para convertir un gramo de hielo en agua líquida. Esto se debe a que la vaporización requiere romper completamente las fuerzas intermoleculares, mientras que la fusión solo las debilita.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_091_015",
+      "pregunta": "Se necesita derretir una masa $m$ de hielo a $$0°C$$. ¿Qué expresión en el Sistema Internacional (con Joules y kilogramos) representa la cantidad de calor necesaria?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$Q = m \\cdot (2,26 \\times 10^6 \\ J/kg)$$",
+        "B": "$$Q = -m \\cdot (3,33 \\times 10^5 \\ J/kg)$$",
+        "C": "$$Q = m \\cdot (-2,26 \\times 10^6 \\ J/kg)$$",
+        "D": "$$Q = m \\cdot (3,33 \\times 10^5 \\ J/kg)$$",
+        "E": "$$Q = m \\cdot (80 \\ J/kg)$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El proceso es la fusión (derretir hielo). Por lo tanto, se utiliza el calor latente de fusión, $$L_f$$. El problema pide la expresión en el Sistema Internacional, cuyo valor para el agua es $$L_f = 3,33 \\times 10^5 \\ J/kg$$. Como la fusión es un proceso que absorbe energía, el signo es positivo. La fórmula correcta es $$Q = mL_f$$, que se convierte en $$Q = m \\cdot (3,33 \\times 10^5 \\ J/kg)$$.",
+      "imagen": null
+    }
+  ]
+}

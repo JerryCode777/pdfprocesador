@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 84,
+  "total_temas": 137,
+  "titulo_tema": "Calor Específico",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_084_001",
+      "pregunta": "¿Cuál es la ecuación que representa la relación entre el calor absorbido $Q$, la capacidad calorífica $C$ y la variación de temperatura $\\Delta T$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$C = Q\\Delta T$$",
+        "B": "$$\\Delta T = CQ$$",
+        "C": "$$Q = C\\Delta T$$",
+        "D": "$$Q = \\frac{C}{\\Delta T}$$",
+        "E": "$$Q = C + \\Delta T$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacidad calorífica $C$ de un objeto se define como la constante de proporcionalidad entre el calor absorbido $Q$ y la variación de temperatura $\\Delta T$ que este provoca. La fórmula que describe esta relación es $$Q = C\\Delta T$$, indicando que el calor es directamente proporcional al cambio de temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_002",
+      "pregunta": "¿Qué se entiende por calor sensible?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El calor que provoca un cambio en la estructura molecular de un objeto.",
+        "B": "La energía necesaria para que un objeto cambie de estado, como de líquido a gas.",
+        "C": "El calor que únicamente puede ser detectado por instrumentos de alta precisión.",
+        "D": "El calor que provoca un aumento o disminución de la temperatura sin cambiar la estructura molecular.",
+        "E": "La cantidad total de energía interna de un sistema."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El calor sensible es aquel que, al ser absorbido o cedido por un cuerpo, produce una variación en su temperatura (se vuelve más caliente o más frío) pero no altera su estado de agregación ni su estructura molecular. Por el contrario, el calor que produce cambios de fase se denomina calor latente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_003",
+      "pregunta": "La ecuación $$Q = cm\\Delta T$$ relaciona el calor $Q$ con la masa $m$ y el cambio de temperatura $\\Delta T$. ¿Qué representa el término $c$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Capacidad calorífica",
+        "B": "Constante de dilatación",
+        "C": "Calor latente",
+        "D": "Calor específico",
+        "E": "Conductividad térmica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula $$Q = cm\\Delta T$$, el término $c$ representa el calor específico. Es una propiedad intrínseca de cada sustancia que indica la cantidad de calor necesaria para elevar en un grado la temperatura de una unidad de masa de dicha sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_004",
+      "pregunta": "¿Cuál es el valor del calor específico del agua líquida en unidades de $$\\text{cal/g °C}$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$0,25 \\text{ cal/g °C}$$",
+        "B": "$$0,5 \\text{ cal/g °C}$$",
+        "C": "$$1,0 \\text{ cal/g °C}$$",
+        "D": "$$1,5 \\text{ cal/g °C}$$",
+        "E": "$$2,0 \\text{ cal/g °C}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor específico del agua líquida es un valor de referencia muy importante y es de $$1 \\text{ cal/g °C}$$. Esto significa que se necesita una caloría para elevar la temperatura de un gramo de agua en un grado Celsius.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_005",
+      "pregunta": "¿Cuál es el valor del calor específico para el hielo y para el vapor de agua en unidades de $$\\text{cal/g °C}$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1,0 \\text{ cal/g °C}$$",
+        "B": "$$0,5 \\text{ cal/g °C}$$",
+        "C": "$$0,75 \\text{ cal/g °C}$$",
+        "D": "$$1,25 \\text{ cal/g °C}$$",
+        "E": "$$0,0 \\text{ cal/g °C}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Tanto el hielo como el vapor de agua tienen un calor específico de $$0,5 \\text{ cal/g °C}$$. Este valor es la mitad del calor específico del agua líquida, lo que indica que se necesita menos calor para cambiar su temperatura en comparación con el agua en estado líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_006",
+      "pregunta": "¿Qué característica describe a los materiales que tienen un alto calor específico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se calientan y se enfrían rápidamente.",
+        "B": "Son principalmente metales.",
+        "C": "Requieren poca energía para cambiar su temperatura.",
+        "D": "Tardan en calentarse y en enfriarse.",
+        "E": "No pueden almacenar calor."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un alto calor específico significa que se necesita una gran cantidad de calor para elevar la temperatura de una masa determinada. Por lo tanto, los materiales con alto calor específico, como el agua, tardan mucho tiempo en calentarse y también en enfriarse, ya que deben liberar una gran cantidad de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_007",
+      "pregunta": "En la relación $$Q = cm\\Delta T$$, ¿qué tipo de proporcionalidad existe entre la cantidad de calor $Q$ y la masa $m$ de la sustancia, si $\\Delta T$ se mantiene constante?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Proporcionalidad inversa",
+        "B": "Proporcionalidad directa",
+        "C": "Proporcionalidad cuadrática",
+        "D": "No existe proporcionalidad",
+        "E": "Proporcionalidad logarítmica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación $$Q = cm\\Delta T$$ muestra que $Q$ es directamente proporcional a la masa $m$. Esto significa que si se duplica la masa de la sustancia, se necesitará el doble de calor para lograr el mismo cambio de temperatura $\\Delta T$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_008",
+      "pregunta": "Si un material como un metal no tarda en calentarse al recibir energía, se puede inferir que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tiene un alto calor específico.",
+        "B": "Tiene una masa muy grande.",
+        "C": "Tiene un bajo calor específico.",
+        "D": "Es un excelente aislante térmico.",
+        "E": "Su capacidad calorífica es infinita."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los materiales que se calientan rápidamente son aquellos que requieren poca energía para elevar su temperatura. Esta propiedad corresponde a un bajo calor específico. Los metales son un ejemplo clásico de materiales con bajo calor específico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_009",
+      "pregunta": "¿Cómo se compara el calor específico del agua líquida ($$c_{\\text{agua}}$$) con el del hielo ($$c_{\\text{hielo}}$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$c_{\\text{agua}} < c_{\\text{hielo}}$$",
+        "B": "$$c_{\\text{agua}} = c_{\\text{hielo}}$$",
+        "C": "$$c_{\\text{agua}} > c_{\\text{hielo}}$$",
+        "D": "Son inversamente proporcionales.",
+        "E": "No se pueden comparar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor específico del agua líquida es $$c_{\\text{agua}} = 1 \\text{ cal/g °C}$$, mientras que el del hielo es $$c_{\\text{hielo}} = 0,5 \\text{ cal/g °C}$$. Por lo tanto, el calor específico del agua líquida es mayor (de hecho, es el doble) que el del hielo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_010",
+      "pregunta": "¿Cuál es la diferencia fundamental entre capacidad calorífica ($C$) y calor específico ($c$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son sinónimos y se usan indistintamente.",
+        "B": "$C$ se mide en Joules y $c$ en Kelvin.",
+        "C": "$C$ se refiere a un objeto completo, mientras que $c$ es una propiedad de la sustancia por unidad de masa.",
+        "D": "$C$ solo se aplica a líquidos y $c$ a sólidos.",
+        "E": "$C$ es constante para todas las sustancias, mientras que $c$ varía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacidad calorífica $C$ es una propiedad extensiva que depende de la masa total y la composición del objeto ($$Q = C\\Delta T$$). En cambio, el calor específico $c$ es una propiedad intensiva, característica de la sustancia, que se define por unidad de masa ($$c = \\frac{Q}{m\\Delta T}$$). La relación entre ambas es $$C = cm$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_011",
+      "pregunta": "Si se desea calcular el calor $Q$ necesario para cambiar la temperatura de una masa $m$ de una sustancia conocida, ¿cuál de las siguientes ecuaciones es la más apropiada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Q = C\\Delta T$$",
+        "B": "$$Q = cm\\Delta T$$",
+        "C": "$$c = Qm\\Delta T$$",
+        "D": "$$Q = \\frac{m}{c\\Delta T}$$",
+        "E": "$$C = \\frac{Q}{m}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación $$Q = cm\\Delta T$$ es la que involucra explícitamente la masa ($m$) y el calor específico ($c$) de la sustancia. La ecuación $$Q = C\\Delta T$$ se usaría si se conociera la capacidad calorífica ($C$) del objeto en su totalidad, no las propiedades de la sustancia que lo compone.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_012",
+      "pregunta": "El hecho de que el agua tarde en calentarse en comparación con los metales es una consecuencia directa de que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El agua tiene una densidad menor que los metales.",
+        "B": "El agua tiene un calor específico alto y los metales uno bajo.",
+        "C": "El agua es un compuesto y los metales son elementos.",
+        "D": "El agua se encuentra en estado líquido y los metales en estado sólido.",
+        "E": "El agua tiene un calor específico bajo y los metales uno alto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La lentitud con la que el agua cambia su temperatura se debe a su alto calor específico ($$1 \\text{ cal/g °C}$$). Necesita absorber mucha energía para calentarse. Por el contrario, los metales tienen calores específicos bajos, por lo que su temperatura aumenta rápidamente con una cantidad de calor mucho menor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_013",
+      "pregunta": "Se suministra la misma cantidad de calor $Q$ a 10 gramos de agua líquida y a 10 gramos de vapor de agua. Suponiendo que no hay cambios de fase, ¿qué ocurrirá con las variaciones de temperatura ($\\Delta T_{\\text{agua}}$ y $\\Delta T_{\\text{vapor}}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\Delta T_{\\text{agua}} = \\Delta T_{\\text{vapor}}$$",
+        "B": "$$\\Delta T_{\\text{agua}} = 2 \\times \\Delta T_{\\text{vapor}}$$",
+        "C": "$$\\Delta T_{\\text{vapor}} = 2 \\times \\Delta T_{\\text{agua}}$$",
+        "D": "$$\\Delta T_{\\text{agua}} > 2 \\times \\Delta T_{\\text{vapor}}$$",
+        "E": "$$\\Delta T_{\\text{vapor}} = 0,5 \\times \\Delta T_{\\text{agua}}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "De la fórmula $$Q = cm\\Delta T$$, podemos despejar $\\Delta T = \\frac{Q}{cm}$. Dado que $Q$ y $m$ son iguales para ambas sustancias, la variación de temperatura es inversamente proporcional al calor específico $c$. Sabemos que $$c_{\\text{agua}} = 1 \\text{ cal/g °C}$$ y $$c_{\\text{vapor}} = 0,5 \\text{ cal/g °C}$$. Como el calor específico del vapor es la mitad que el del agua, su aumento de temperatura será el doble: $$\\Delta T_{\\text{vapor}} = \\frac{Q}{m \\times 0,5}$$ y $$\\Delta T_{\\text{agua}} = \\frac{Q}{m \\times 1}$$. Por lo tanto, $$\\Delta T_{\\text{vapor}} = 2 \\times \\Delta T_{\\text{agua}}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_014",
+      "pregunta": "Dos esferas de igual masa, una de metal ($$c_{\\text{metal}} \\approx 0,1 \\text{ cal/g °C}$$) y otra de una sustancia similar al hielo ($$c_{\\text{hielo}} = 0,5 \\text{ cal/g °C}$$), absorben la misma cantidad de calor sensible $Q$. Si el cambio de temperatura del metal fue $\\Delta T_{\\text{metal}}$, ¿cuál fue el cambio de temperatura de la esfera de hielo, $\\Delta T_{\\text{hielo}}$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\Delta T_{\\text{hielo}} = 5 \\times \\Delta T_{\\text{metal}}$$",
+        "B": "$$\\Delta T_{\\text{hielo}} = \\Delta T_{\\text{metal}}$$",
+        "C": "$$\\Delta T_{\\text{hielo}} = 0,5 \\times \\Delta T_{\\text{metal}}$$",
+        "D": "$$\\Delta T_{\\text{hielo}} = 0,2 \\times \\Delta T_{\\text{metal}}$$",
+        "E": "$$\\Delta T_{\\text{hielo}} = 2 \\times \\Delta T_{\\text{metal}}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Utilizamos la relación $\\Delta T = \\frac{Q}{cm}$. Como $Q$ y $m$ son iguales para ambas esferas, la razón entre sus cambios de temperatura es inversamente proporcional a la razón de sus calores específicos: $$\\frac{\\Delta T_{\\text{hielo}}}{\\Delta T_{\\text{metal}}} = \\frac{c_{\\text{metal}}}{c_{\\text{hielo}}}$$. Sustituyendo los valores: $$\\frac{\\Delta T_{\\text{hielo}}}{\\Delta T_{\\text{metal}}} = \\frac{0,1}{0,5} = \\frac{1}{5} = 0,2$$. Por lo tanto, $$\\Delta T_{\\text{hielo}} = 0,2 \\times \\Delta T_{\\text{metal}}$$. El hielo, con mayor calor específico, se calienta 5 veces menos que el metal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_084_015",
+      "pregunta": "Un objeto A y un objeto B de la misma masa reciben la misma cantidad de calor $Q$. Si se observa que el objeto A aumenta su temperatura mucho más que el objeto B ($\\Delta T_A \\gg \\Delta T_B$), ¿qué se puede concluir acerca de sus calores específicos $c_A$ y $c_B$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$c_A \\gg c_B$$",
+        "B": "$$c_A \\ll c_B$$",
+        "C": "$$c_A = c_B$$",
+        "D": "No se puede concluir nada sin saber la masa.",
+        "E": "La capacidad calorífica es la misma para ambos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación fundamental es $$Q = cm\\Delta T$$. Si despejamos el calor específico, obtenemos $$c = \\frac{Q}{m\\Delta T}$$. Dado que $Q$ y $m$ son idénticos para ambos objetos, el calor específico $c$ es inversamente proporcional a la variación de temperatura $\\Delta T$. Como el objeto A experimenta una variación de temperatura mucho mayor ($\\Delta T_A \\gg \\Delta T_B$), su calor específico debe ser mucho menor que el del objeto B. Por lo tanto, $$c_A \\ll c_B$$.",
+      "imagen": null
+    }
+  ]
+}

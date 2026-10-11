@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 129,
+  "total_temas": 137,
+  "titulo_tema": "Electromagnetismo",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_129_001",
+      "pregunta": "¿Quién fue el científico que observó por primera vez en 1820 el efecto magnético de la corriente eléctrica al notar el movimiento de una aguja magnética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Jean-Baptiste Biot",
+        "B": "Michael Faraday",
+        "C": "Hans Christian Oersted",
+        "D": "Félix Savart",
+        "E": "André-Marie Ampère"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Hans Christian Oersted fue el físico que en 1820 descubrió la relación entre la electricidad y el magnetismo. Su experimento, conocido como el Efecto Oersted, demostró que un conductor que transporta una corriente eléctrica genera un campo magnético a su alrededor, lo cual se evidenció por la desviación de una brújula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_002",
+      "pregunta": "¿Cuál es la conclusión principal del Efecto Oersted?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Los campos magnéticos generan calor.",
+        "B": "Las corrientes eléctricas generan campos magnéticos.",
+        "C": "Los imanes pueden crear cargas eléctricas.",
+        "D": "La resistencia de un conductor depende de su campo magnético.",
+        "E": "La electricidad y el magnetismo son fenómenos no relacionados."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Efecto Oersted establece la conexión fundamental entre la electricidad y el magnetismo. La conclusión central de las observaciones de Oersted es que toda corriente eléctrica produce un campo magnético en el espacio que la rodea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_003",
+      "pregunta": "¿Para qué se utiliza la regla de la mano derecha en el electromagnetismo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Para calcular la intensidad de la corriente eléctrica.",
+        "B": "Para medir la distancia al conductor.",
+        "C": "Para determinar el sentido de las líneas del campo magnético.",
+        "D": "Para calcular la resistencia del material conductor.",
+        "E": "Para saber si la corriente es alterna o directa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de la mano derecha es una convención mnemotécnica utilizada para determinar la dirección y el sentido del campo magnético que se forma alrededor de un conductor por el que circula una corriente. El pulgar indica el sentido de la corriente y los demás dedos indican el sentido de las líneas de campo magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_004",
+      "pregunta": "En la representación gráfica de corrientes en un plano, ¿qué significa el símbolo ⊗?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una corriente saliente al plano del papel.",
+        "B": "La ausencia de campo magnético.",
+        "C": "Un polo magnético norte.",
+        "D": "Una corriente entrante al plano del papel.",
+        "E": "La dirección del campo eléctrico."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo ⊗ se utiliza para representar una corriente que fluye hacia adentro del plano de observación (por ejemplo, el papel). Se asemeja a la parte trasera de una flecha (la cola con plumas), indicando que se aleja del observador.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_005",
+      "pregunta": "Según la Ley de Biot-Savart, ¿cómo es la relación entre la intensidad del campo magnético ($B$) y la intensidad de la corriente eléctrica ($I$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inversamente proporcional.",
+        "B": "Directamente proporcional.",
+        "C": "Proporcional al cuadrado de la corriente.",
+        "D": "No tienen relación.",
+        "E": "Inversamente proporcional al cuadrado de la corriente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de Biot-Savart establece que la intensidad del campo magnético ($B$) en un punto es directamente proporcional a la intensidad de la corriente eléctrica ($I$) que lo genera. Esto significa que si la corriente aumenta, el campo magnético también aumenta en la misma proporción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_006",
+      "pregunta": "¿Qué forma tienen las líneas de fuerza del campo magnético que envuelven a un conductor rectilíneo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Líneas rectas paralelas al conductor.",
+        "B": "Espirales que se alejan del conductor.",
+        "C": "Circunferencias concéntricas al conductor.",
+        "D": "Líneas rectas que parten radialmente del conductor.",
+        "E": "Parábolas centradas en el conductor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El campo magnético generado por una corriente en un conductor rectilíneo envuelve al conductor. Sus líneas de fuerza son circunferencias concéntricas situadas en un plano perpendicular al conductor, con el conductor en el centro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_007",
+      "pregunta": "De acuerdo con la experiencia de Oersted, ¿qué sucede con el campo magnético si se invierte el sentido de la corriente eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El campo magnético desaparece.",
+        "B": "El sentido de la desviación magnética se invierte.",
+        "C": "La intensidad del campo se duplica.",
+        "D": "El campo magnético no sufre ningún cambio.",
+        "E": "Las líneas de campo se vuelven rectas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Oersted dedujo que el sentido de la desviación de la aguja magnética depende del sentido de la corriente. Por lo tanto, si se invierte el sentido de la corriente, el campo magnético invierte su sentido, lo que causa que la desviación de una brújula también se invierta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_008",
+      "pregunta": "¿Cuál es la orientación del campo magnético con respecto a la dirección de la corriente que lo produce?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralela y en el mismo sentido.",
+        "B": "Paralela y en sentido opuesto.",
+        "C": "Forma un ángulo de 45°.",
+        "D": "Es aleatoria.",
+        "E": "Transversal (perpendicular)."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Una de las conclusiones de los experimentos de Oersted es que el campo magnético generado por una corriente es siempre transversal, es decir, perpendicular a la dirección en la que fluye la corriente eléctrica. Las líneas de campo circulan alrededor del conductor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_009",
+      "pregunta": "Según la Ley de Biot-Savart, si la distancia ($d$) desde un conductor a un punto se duplica, ¿cómo varía la intensidad del campo magnético ($B$) en ese punto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se duplica.",
+        "B": "Se cuadruplica.",
+        "C": "Se mantiene igual.",
+        "D": "Se reduce a la mitad.",
+        "E": "Se reduce a la cuarta parte."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Biot-Savart establece una relación de proporcionalidad inversa entre la intensidad del campo magnético ($B$) y la distancia ($d$) al conductor. Por lo tanto, si la distancia se duplica, la intensidad del campo magnético se reduce a la mitad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_010",
+      "pregunta": "En la regla de la mano derecha, ¿qué representa el dedo pulgar y qué representan los otros dedos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Pulgar: campo magnético; otros dedos: sentido de la corriente.",
+        "B": "Pulgar: sentido de la corriente; otros dedos: sentido del campo magnético.",
+        "C": "Pulgar: polo norte; otros dedos: polo sur.",
+        "D": "Pulgar: fuerza eléctrica; otros dedos: fuerza magnética.",
+        "E": "Pulgar: voltaje; otros dedos: resistencia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para aplicar la regla de la mano derecha, se orienta el pulgar en el mismo sentido que la corriente eléctrica ($I$). Los otros dedos, al envolver o curvarse alrededor del conductor, indican el sentido circular de las líneas de inducción del campo magnético ($B$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_011",
+      "pregunta": "¿Qué característica de las líneas de fuerza del campo magnético se deduce del hecho de que envuelven al conductor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que son siempre débiles.",
+        "B": "Que son líneas abiertas.",
+        "C": "Que solo existen dentro del conductor.",
+        "D": "Que son líneas de fuerza cerradas.",
+        "E": "Que son paralelas a la corriente."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El hecho de que el campo magnético envuelva al conductor, formando circunferencias, implica que sus líneas de fuerza no tienen un principio ni un fin; son trayectorias cerradas. Esto es una característica fundamental de los campos magnéticos generados por corrientes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_012",
+      "pregunta": "Si el símbolo ⊙ representa una corriente saliente, ¿de qué parte de una flecha imaginaria proviene esta convención?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "De la cola de la flecha.",
+        "B": "De la sombra de la flecha.",
+        "C": "Del cuerpo de la flecha.",
+        "D": "De la punta de la flecha.",
+        "E": "De la estela que deja la flecha."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La convención utiliza la analogía de una flecha. Si la flecha viene hacia el observador, lo primero que se ve es su punta, representada por un punto (⊙). Si la flecha se aleja, se ve su cola con plumas, representada por una cruz (⊗).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_013",
+      "pregunta": "Un conductor rectilíneo transporta una corriente hacia el norte. Usando la regla de la mano derecha, ¿en qué dirección apuntará el campo magnético en un punto directamente debajo del conductor?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Hacia el norte.",
+        "B": "Hacia el sur.",
+        "C": "Hacia el este.",
+        "D": "Hacia el oeste.",
+        "E": "Hacia abajo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aplicando la regla de la mano derecha, si apuntas el pulgar hacia el norte (dirección de la corriente), tus dedos se curvarán alrededor del conductor. En un punto directamente debajo del conductor, tus dedos apuntarán hacia el este, indicando la dirección del campo magnético en ese punto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_014",
+      "pregunta": "Un campo magnético tiene una intensidad $B$ a una distancia $d$ de un conductor con corriente $I$. Si la corriente se reduce a un tercio ($I/3$) y la distancia se duplica ($2d$), ¿cuál será la nueva intensidad del campo magnético $B'$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$B' = \\frac{B}{6}$$",
+        "B": "$$B' = \\frac{2B}{3}$$",
+        "C": "$$B' = 6B$$",
+        "D": "$$B' = \\frac{3B}{2}$$",
+        "E": "$$B' = \\frac{B}{5}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Según la Ley de Biot-Savart, la intensidad del campo $B$ es directamente proporcional a la corriente $I$ e inversamente proporcional a la distancia $d$. La nueva intensidad $B'$ será proporcional a la nueva corriente ($I/3$) e inversamente proporcional a la nueva distancia ($2d$). Por lo tanto, el factor de cambio es $(\\frac{1}{3}) / 2 = \\frac{1}{6}$. La nueva intensidad será $B' = B/6$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_129_015",
+      "pregunta": "Se observa un conductor representado por el símbolo ⊙ en el plano del papel. Aplicando la regla de la mano derecha, ¿en qué sentido giran las líneas del campo magnético alrededor del conductor?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "En el sentido de las agujas del reloj.",
+        "B": "En sentido contrario a las agujas del reloj.",
+        "C": "Salen radialmente hacia afuera.",
+        "D": "Entran radialmente hacia el centro.",
+        "E": "No giran, son líneas rectas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El símbolo ⊙ indica que la corriente sale del plano del papel, como si la punta de una flecha viniera hacia nosotros. Al aplicar la regla de la mano derecha, se debe apuntar el pulgar hacia afuera del papel. Al hacer esto, los otros dedos se curvan en sentido contrario a las agujas del reloj, indicando que ese es el sentido de las líneas del campo magnético.",
+      "imagen": null
+    }
+  ]
+}

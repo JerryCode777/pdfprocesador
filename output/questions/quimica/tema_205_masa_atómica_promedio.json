@@ -3,5 +3,231 @@
   "numero_tema": 205,
   "total_temas": 322,
   "titulo_tema": "Masa Atómica Promedio",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_205_001",
+      "pregunta": "¿Cuál es la unidad estándar utilizada para expresar la masa de un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Gramo (g)",
+        "B": "Kilogramo (kg)",
+        "C": "Unidad de masa atómica (uma)",
+        "D": "Mol (mol)",
+        "E": "Dalton (Da)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa de un átomo se expresa en unidades de masa atómica, abreviadas como 'uma'. Esta unidad está específicamente diseñada para manejar las masas extremadamente pequeñas de los átomos. El gramo y el kilogramo son unidades demasiado grandes para esta escala, y el mol es una unidad de cantidad de sustancia, no de masa de un solo átomo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_002",
+      "pregunta": "¿Qué isótopo se utiliza como referencia para definir la unidad de masa atómica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hidrógeno-1",
+        "B": "Oxígeno-16",
+        "C": "Carbono-14",
+        "D": "Carbono-12",
+        "E": "Uranio-235"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad de masa atómica (uma) se define como exactamente un doceavo ($$1/12$$) de la masa de un átomo de carbono-12. Este isótopo, que tiene seis protones y seis neutrones, fue elegido como el estándar universal para medir la masa atómica de todos los demás elementos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_003",
+      "pregunta": "Según la descripción, ¿de qué depende principalmente la masa atómica de un átomo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Del número de electrones y protones",
+        "B": "Únicamente del número de protones",
+        "C": "Del número de protones y neutrones",
+        "D": "Únicamente del número de electrones",
+        "E": "Del número de neutrones y electrones"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa atómica de un átomo depende principalmente de la cantidad de protones y neutrones que contiene en su núcleo. Los electrones también tienen masa, pero es tan pequeña en comparación con la de los protones y neutrones que su contribución a la masa total del átomo es generalmente considerada despreciable para este cálculo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_004",
+      "pregunta": "¿Cuál es el enfoque principal de la estequiometría?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Estudiar la velocidad de las reacciones químicas",
+        "B": "Analizar la estructura tridimensional de las moléculas",
+        "C": "Describir las propiedades físicas de los elementos",
+        "D": "Utilizar fórmulas químicas para obtener información cuantitativa de las sustancias",
+        "E": "Clasificar los elementos en la tabla periódica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La estequiometría es la rama de la química que se enfoca en el estudio de las relaciones cuantitativas, es decir, las cantidades medibles de reactivos y productos en las reacciones químicas, utilizando para ello las fórmulas y ecuaciones químicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_005",
+      "pregunta": "¿Cómo se calcula la masa molecular de una sustancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Promediando las masas atómicas de los elementos presentes",
+        "B": "Sumando las masas atómicas promedio de todos los átomos en la molécula",
+        "C": "Multiplicando las masas atómicas de los elementos",
+        "D": "Contando el número total de átomos en la molécula",
+        "E": "Dividiendo la masa total por el número de elementos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa molecular se obtiene sumando las masas atómicas promedio de cada uno de los átomos que componen la molécula. Para ello, se multiplica la masa atómica promedio de cada elemento por el número de veces que su átomo aparece en la fórmula molecular y luego se suman todos los resultados.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_006",
+      "pregunta": "¿Por qué es necesario calcular una 'masa atómica promedio' para la mayoría de los elementos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la masa de un átomo cambia con el tiempo",
+        "B": "Porque los átomos de un mismo elemento tienen diferente número de protones",
+        "C": "Porque la mayoría de los elementos existen en la naturaleza como una mezcla de isótopos",
+        "D": "Porque es imposible medir la masa de un solo átomo con exactitud",
+        "E": "Porque la masa atómica depende de la temperatura y la presión"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa atómica que aparece en la tabla periódica es un promedio ponderado porque la mayoría de los elementos se encuentran en la naturaleza como una mezcla de varios isótopos. Los isótopos son átomos del mismo elemento con diferente número de neutrones y, por lo tanto, diferente masa. El promedio considera la masa de cada isótopo y su abundancia natural.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_007",
+      "pregunta": "¿Qué dos datos son indispensables para calcular la masa atómica promedio de un elemento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número atómico y el número de electrones de cada isótopo",
+        "B": "La masa de cada isótopo y su porcentaje de abundancia natural",
+        "C": "El símbolo químico y el número de protones del elemento",
+        "D": "La masa molecular del compuesto más común y su densidad",
+        "E": "El número de neutrones de cada isótopo y su reactividad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para calcular la masa atómica promedio, se necesita conocer la masa atómica de cada uno de los isótopos naturales del elemento y el porcentaje de abundancia con el que cada uno de ellos se encuentra en la naturaleza. El cálculo es un promedio ponderado basado en estos dos valores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_008",
+      "pregunta": "¿Cuál es la fórmula matemática correcta para calcular la masa atómica relativa o promedio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$ \\text{m.A. relativa} = \\Sigma (\\text{m.A. isótopo}) \\div \\text{No. de isótopos} $$",
+        "B": "$$ \\text{m.A. relativa} = \\Sigma (\\text{m.A. isótopo} + \\% \\text{Abundancia}) $$",
+        "C": "$$ \\text{m.A. relativa} = \\frac{\\Sigma (\\text{m.A. isótopo} \\times \\% \\text{Abundancia})}{100\\%} $$",
+        "D": "$$ \\text{m.A. relativa} = \\frac{100\\%}{\\Sigma (\\text{m.A. isótopo} \\times \\% \\text{Abundancia})} $$",
+        "E": "$$ \\text{m.A. relativa} = \\Sigma (\\text{m.A. isótopo}) \\times 100\\% $$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula correcta para la masa atómica promedio es un promedio ponderado. Se multiplica la masa de cada isótopo por su porcentaje de abundancia, se suman ($$\\Sigma$$) todos estos productos y finalmente se divide el resultado total entre 100% para normalizar el valor. Las otras opciones representan cálculos matemáticos incorrectos que no reflejan un promedio ponderado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_009",
+      "pregunta": "El isótopo carbono-12, usado como referencia, se caracteriza por tener:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "6 protones y 7 neutrones",
+        "B": "12 protones y 12 neutrones",
+        "C": "6 protones y 12 electrones",
+        "D": "12 protones y 6 neutrones",
+        "E": "6 protones y 6 neutrones"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El número en el nombre del isótopo (carbono-12) representa su número de masa, que es la suma de protones y neutrones. El carbono siempre tiene 6 protones (es su número atómico). Por lo tanto, para que la suma sea 12, debe tener 6 neutrones ($$6 \\text{ protones} + 6 \\text{ neutrones} = 12$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_010",
+      "pregunta": "La masa atómica del carbono es 12.01 uma y no exactamente 12 uma. ¿Cuál es la razón principal de esta diferencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Errores de redondeo en las mediciones experimentales.",
+        "B": "La presencia de otros isótopos como el carbono-13 en la mezcla natural.",
+        "C": "La masa de los electrones que se suma a la del núcleo.",
+        "D": "El carbono-12 en realidad tiene una masa ligeramente superior a 12 uma.",
+        "E": "La conversión de unidades de gramos a uma introduce un decimal."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa atómica promedio del carbono (12.01 uma) es ligeramente superior a 12 porque, aunque el isótopo C-12 es el más abundante (98.90%), existe una pequeña proporción del isótopo C-13 (1.10%), que es más pesado. El promedio ponderado de las masas de estos dos isótopos da como resultado 12.01 uma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_011",
+      "pregunta": "¿Cuál es la diferencia fundamental entre 'masa atómica' y 'masa molecular'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son términos sinónimos para el mismo concepto.",
+        "B": "La masa atómica es para un átomo y la masa molecular es para una mezcla de isótopos.",
+        "C": "La masa atómica se refiere a un solo átomo, mientras que la masa molecular es la suma de masas atómicas en una molécula.",
+        "D": "La masa atómica se mide en gramos y la masa molecular en uma.",
+        "E": "La masa atómica es un número entero, mientras que la masa molecular es siempre un decimal."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La 'masa atómica' se refiere a la masa de un único átomo (ya sea de un isótopo específico o el promedio del elemento). En cambio, la 'masa molecular' es un concepto aplicable a las moléculas y se calcula sumando las masas atómicas promedio de todos los átomos que la forman.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_012",
+      "pregunta": "Si un elemento hipotético existiera en la naturaleza con un solo isótopo estable, ¿cómo sería su masa atómica promedio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sería imposible de determinar.",
+        "B": "Sería igual a la masa atómica de ese único isótopo.",
+        "C": "Sería exactamente la mitad de la masa atómica del isótopo.",
+        "D": "Sería siempre un número entero.",
+        "E": "Se calcularía promediando con el carbono-12."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El concepto de masa atómica promedio surge de la necesidad de promediar las masas de múltiples isótopos. Si un elemento tiene un solo isótopo natural, su abundancia es del 100%. Por lo tanto, el promedio ponderado es simplemente la masa de ese único isótopo. No hay otras masas con las que promediar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_013",
+      "pregunta": "Sabiendo que la masa atómica promedio del carbono es 12.01 uma y sus isótopos son C-12 (masa ≈ 12 uma) y C-13 (masa ≈ 13 uma), ¿qué se puede inferir con certeza sobre sus abundancias?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos isótopos tienen una abundancia similar, cercana al 50%.",
+        "B": "El isótopo C-13 es significativamente más abundante que el C-12.",
+        "C": "El isótopo C-12 es abrumadoramente más abundante que el C-13.",
+        "D": "Existen otros isótopos con masas menores a 12 uma.",
+        "E": "La abundancia de cada isótopo no se puede inferir de la masa promedio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa atómica promedio (12.01 uma) es un promedio ponderado. Dado que este valor está extremadamente cerca de 12 (la masa del C-12) y muy lejos de 13 (la masa del C-13), se puede concluir que el isótopo C-12 debe contribuir mucho más al promedio, lo que significa que es mucho más abundante. De hecho, su abundancia es del 98.90%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_014",
+      "pregunta": "Se tiene una molécula con la fórmula química $AB_2$. La masa atómica promedio del elemento $A$ es de 30.0 uma y la del elemento $B$ es de 20.0 uma. ¿Cuál es el procedimiento correcto para calcular la masa molecular de $AB_2$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sumar las masas atómicas y dividir entre 3: $$(30.0 + 20.0) / 3$$",
+        "B": "Sumar la masa atómica de A y la masa atómica de B: $$30.0 + 20.0$$",
+        "C": "Multiplicar la masa atómica de A por dos y sumarle la de B: $$(2 \\times 30.0) + 20.0$$",
+        "D": "Sumar la masa atómica de A y el doble de la masa atómica de B: $$30.0 + (2 \\times 20.0)$$",
+        "E": "Promediar la masa de A con el doble de la masa de B: $$(30.0 + 2 \\times 20.0) / 2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para calcular la masa molecular, se deben sumar las masas atómicas promedio de todos los átomos presentes. La molécula $AB_2$ contiene un átomo de A y dos átomos de B. Por lo tanto, el cálculo correcto es: (1 × masa atómica de A) + (2 × masa atómica de B), que corresponde a $$30.0 + (2 \\times 20.0) = 70.0 \\text{ uma}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_205_015",
+      "pregunta": "Un elemento Z tiene dos isótopos: Z-50 (masa 50.0 uma) y Z-52 (masa 52.0 uma). Si la masa atómica promedio de Z en la tabla periódica es 51.5 uma, ¿qué se puede deducir sobre la abundancia de sus isótopos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Z-50 es mucho más abundante que Z-52.",
+        "B": "Z-52 es mucho más abundante que Z-50.",
+        "C": "Ambos isótopos tienen una abundancia de aproximadamente 25% y 75%.",
+        "D": "Ambos isótopos tienen una abundancia muy cercana al 50%.",
+        "E": "Es imposible hacer una deducción sin conocer el número atómico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa atómica promedio de 51.5 uma se encuentra exactamente a tres cuartas partes del camino entre 50.0 y 52.0 ($$50.0 + 0.75 \\times (52.0 - 50.0) = 51.5$$). En un promedio ponderado, esto significa que el isótopo más pesado, Z-52, debe tener una ponderación (abundancia) de 75%, y el más ligero, Z-50, una abundancia de 25%. Si las abundancias fueran cercanas al 50%, el promedio sería cercano a 51.0 uma. Las opciones A y B son incorrectas porque el promedio no está muy cerca de ninguno de los extremos.",
+      "imagen": null
+    }
+  ]
 }

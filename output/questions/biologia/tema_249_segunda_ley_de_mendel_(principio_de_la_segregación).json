@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 249,
+  "total_temas": 320,
+  "titulo_tema": "Segunda Ley de Mendel (Principio de la Segregación)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_249_001",
+      "pregunta": "¿Con qué otro nombre se conoce la Segunda Ley de Mendel?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ley de la dominancia",
+        "B": "Ley de la herencia ligada al sexo",
+        "C": "Ley de la segregación",
+        "D": "Ley de la uniformidad",
+        "E": "Ley de la distribución independiente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Segunda Ley de Mendel es también conocida como la ley de la segregación o separación de los alelos. Esta ley postula que durante la formación de los gametos, los dos alelos de un gen se separan, de modo que cada gameto recibe solo un alelo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_002",
+      "pregunta": "En el experimento de Mendel, ¿cuál es la característica del alelo que se manifiesta en el fenotipo de un individuo heterocigoto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Recesivo",
+        "B": "Codominante",
+        "C": "Oculto",
+        "D": "Dominante",
+        "E": "Segregado"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "De los dos alelos presentes en un heterocigoto, solamente el alelo dominante se manifiesta en el fenotipo. El alelo recesivo, aunque está presente en el genotipo, permanece oculto y no se expresa fenotípicamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_003",
+      "pregunta": "¿Cuál fue el fenotipo de la totalidad de la primera generación filial ($F_1$) en el experimento de Mendel sobre el color de la semilla?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "100% semillas verdes",
+        "B": "50% amarillas y 50% verdes",
+        "C": "100% semillas amarillas",
+        "D": "75% amarillas y 25% verdes",
+        "E": "100% semillas de color intermedio"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la primera generación filial ($F_1$), todas las plantas producto del cruce inicial mostraron el fenotipo dominante, que en este caso fue 100% semillas amarillas. Esto ocurre porque todos los descendientes eran heterocigotos y el alelo amarillo ($A$) es dominante sobre el verde ($a$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_004",
+      "pregunta": "Según la interpretación del experimento, ¿qué le sucede al alelo recesivo ($a$) en la primera generación filial ($F_1$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se elimina del genoma",
+        "B": "Se transforma en dominante",
+        "C": "Se manifiesta junto al dominante",
+        "D": "Permanece oculto",
+        "E": "Muta a una nueva forma"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la generación $F_1$, que es 100% heterocigota ($Aa$), el alelo recesivo ($a$) para el color verde permanece oculto. No se expresa en el fenotipo debido a la presencia del alelo dominante ($A$), pero no desaparece y puede ser transmitido a la siguiente generación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_005",
+      "pregunta": "¿Cuál es el genotipo característico de toda la primera generación filial ($F_1$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "100% homocigoto dominante",
+        "B": "100% homocigoto recesivo",
+        "C": "50% homocigoto y 50% heterocigoto",
+        "D": "100% heterocigoto",
+        "E": "25% homocigoto dominante, 50% heterocigoto, 25% homocigoto recesivo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La primera generación filial ($F_1$) resultante del cruce de dos líneas puras (una dominante y una recesiva) es genotípicamente uniforme, siendo el 100% de los individuos heterocigotos. Esto significa que cada individuo posee un alelo dominante y un alelo recesivo para el rasgo estudiado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_006",
+      "pregunta": "¿Qué procedimiento realizó Mendel para obtener la segunda generación filial ($F_2$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cruzó las plantas progenitoras originales de nuevo",
+        "B": "Polinizó las plantas de la generación $F_1$ entre sí",
+        "C": "Cruzó una planta de $F_1$ con una de las progenitoras",
+        "D": "Utilizó polen de una especie diferente",
+        "E": "Seleccionó únicamente las semillas verdes de $F_1$ para sembrar"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para obtener la segunda generación filial ($F_2$), Mendel tomó las plantas que crecieron de las semillas de la primera generación ($F_1$) y las autopolinizó o las cruzó entre sí. Este cruce entre individuos heterocigotos fue lo que le permitió observar la segregación de los alelos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_007",
+      "pregunta": "¿Cuál es la proporción fenotípica que se observó en la segunda generación filial ($F_2$) en el experimento del color de la semilla?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "1 amarilla : 1 verde",
+        "B": "2 amarillas : 1 verde",
+        "C": "Todas amarillas",
+        "D": "3 amarillas : 1 verde",
+        "E": "1 amarilla : 3 verdes"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al cruzar las plantas de la generación $F_1$ entre sí, Mendel observó que la descendencia ($F_2$) no era uniforme. Obtuvo semillas amarillas y verdes en una proporción aproximada de 3 amarillas por cada 1 verde, es decir, una proporción fenotípica de $$3:1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_008",
+      "pregunta": "La reaparición del color verde en las semillas de la segunda generación ($F_2$) indica que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El alelo verde es más fuerte que el amarillo",
+        "B": "Ocurrió una mutación en la generación $F_1$",
+        "C": "El alelo recesivo no había desaparecido en la $F_1$",
+        "D": "La dominancia del color amarillo es incompleta",
+        "E": "Las condiciones ambientales favorecieron el color verde"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El hecho de que el fenotipo recesivo (color verde) vuelva a manifestarse en la $F_2$ es la evidencia clave de la Segunda Ley de Mendel. Demuestra que el alelo recesivo, aunque estaba oculto en la generación $F_1$ heterocigota, no se perdió ni se alteró, y pudo segregarse para formar individuos homocigotos recesivos en la $F_2$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_009",
+      "pregunta": "¿Cómo contribuyen los progenitores a la composición alélica de la descendencia para un rasgo como el color de la semilla?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Solo el progenitor con polen aporta alelos",
+        "B": "Solo el progenitor con el óvulo aporta alelos",
+        "C": "Ambos progenitores aportan dos alelos cada uno",
+        "D": "Se combinan aleatoriamente cuatro alelos de ambos progenitores",
+        "E": "Cada progenitor aporta un alelo a través de sus gametos"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La herencia mendeliana se basa en que cada progenitor aporta un solo alelo para cada gen a su descendencia. El polen (gameto masculino) contiene un alelo y el óvulo (gameto femenino) contiene el otro. La fusión de estos gametos restablece el par de alelos en el cigoto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_010",
+      "pregunta": "El término \"disyunción de los alelos\" es sinónimo de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La expresión de un gen dominante",
+        "B": "La combinación de alelos en la fecundación",
+        "C": "La separación de los alelos durante la formación de gametos",
+        "D": "La ocultación de un alelo recesivo",
+        "E": "La manifestación de un fenotipo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La disyunción o segregación de los alelos es el concepto central de la Segunda Ley de Mendel. Se refiere al proceso que ocurre durante la meiosis, donde los dos alelos de un gen que posee un individuo se separan (se segregan) para que cada gameto (polen u óvulo) reciba solo uno de ellos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_011",
+      "pregunta": "En el cruce de la $F_1$, ¿qué genotipos debían tener las plantas progenitoras para que en su descendencia ($F_2$) aparecieran semillas verdes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas debían ser homocigotas dominantes ($AA$)",
+        "B": "Ambas debían ser heterocigotas ($Aa$)",
+        "C": "Una debía ser homocigota dominante ($AA$) y la otra heterocigota ($Aa$)",
+        "D": "Ambas debían ser homocigotas recesivas ($aa$)",
+        "E": "Una debía ser heterocigota ($Aa$) y la otra homocigota recesiva ($aa$)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que el rasgo recesivo (semillas verdes, genotipo $aa$) reaparezca, es necesario que ambos progenitores puedan aportar el alelo recesivo ($a$). Dado que las plantas de la $F_1$ tenían fenotipo amarillo, pero descendían de un cruce que incluía el alelo verde, su único genotipo posible era heterocigoto ($Aa$). Al cruzarse dos heterocigotos ($Aa \\times Aa$), existe la posibilidad de que la descendencia herede un alelo $a$ de cada progenitor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_012",
+      "pregunta": "¿Qué explica el Principio de la Segregación sobre los alelos de un individuo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los alelos siempre se manifiestan juntos en el fenotipo.",
+        "B": "Que los alelos se separan al formar gametos, y cada gameto lleva un solo alelo.",
+        "C": "Que los alelos de diferentes genes siempre se heredan en el mismo paquete.",
+        "D": "Que un alelo dominante siempre elimina al recesivo del genoma.",
+        "E": "Que los alelos se crean de nuevo en cada generación."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Principio de la Segregación establece que los dos alelos para un carácter heredado se separan (segregan) durante la producción de gametos, de modo que terminan en gametos diferentes. Por lo tanto, un óvulo o un espermatozoide (o polen) obtiene solo una de las dos copias alélicas presentes en el organismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_013",
+      "pregunta": "La proporción fenotípica de $$3:1$$ en la generación $F_2$ es el resultado directo de:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La segregación de alelos en progenitores heterocigotos y la dominancia completa del alelo amarillo.",
+        "B": "Únicamente la presencia de un alelo dominante en la generación $F_1$.",
+        "C": "Una tasa de mutación constante que produce el alelo verde.",
+        "D": "La codominancia entre los alelos de color amarillo y verde.",
+        "E": "El cruce entre un homocigoto dominante y un homocigoto recesivo."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La proporción $$3:1$$ se explica por dos factores clave. Primero, la segregación de alelos en los progenitores $F_1$ (ambos $Aa$) produce gametos con alelos $A$ y $a$ en igual proporción. Segundo, la dominancia completa del alelo $A$ sobre $a$ hace que tanto los genotipos homocigotos dominantes ($AA$) como los heterocigotos ($Aa$) muestren el mismo fenotipo (amarillo). Solo los homocigotos recesivos ($aa$) muestran el fenotipo verde. La combinación probabilística de estos gametos produce una proporción genotípica de $1 AA : 2 Aa : 1 aa$, que resulta en la proporción fenotípica de 3 amarillos : 1 verde.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_014",
+      "pregunta": "Basado en los resultados del cruce de la $F_1$, ¿qué se puede inferir sobre la naturaleza de los alelos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los alelos son fluidos que se mezclan en la descendencia.",
+        "B": "Los alelos son partículas discretas que mantienen su identidad a través de las generaciones.",
+        "C": "El alelo dominante modifica físicamente al alelo recesivo para desactivarlo.",
+        "D": "Los alelos solo existen en pares y nunca pueden estar solos.",
+        "E": "La expresión de un alelo depende completamente del ambiente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La reaparición del rasgo recesivo (verde) en la $F_2$ después de haber estado 'oculto' en la $F_1$ es una fuerte evidencia de que los alelos no se mezclan ni se alteran. Se comportan como unidades o partículas discretas de herencia que se transmiten intactas de una generación a la siguiente, manteniendo su identidad incluso cuando no se expresan fenotípicamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_249_015",
+      "pregunta": "Si una planta de la generación $F_1$ (genotipo heterocigoto) produce gametos, ¿cuál es la predicción de la Ley de la Segregación sobre los alelos en esos gametos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Todos los gametos llevarán el alelo dominante ($A$).",
+        "B": "Todos los gametos llevarán el alelo recesivo ($a$).",
+        "C": "La mitad de los gametos llevará el alelo dominante ($A$) y la otra mitad el recesivo ($a$).",
+        "D": "Cada gameto llevará ambos alelos ($A$ y $a$).",
+        "E": "La proporción de alelos en los gametos será de $3 A : 1 a$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La esencia de la Ley de la Segregación es que los dos alelos de un individuo para un gen se separan durante la meiosis. En un heterocigoto ($Aa$), esto significa que el 50% de los gametos producidos contendrá el alelo $A$ y el otro 50% contendrá el alelo $a$. Esta separación equitativa es fundamental para predecir las proporciones de la descendencia.",
+      "imagen": null
+    }
+  ]
+}

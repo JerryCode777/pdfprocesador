@@ -9,224 +9,224 @@
       "pregunta": "¿Cuál es el objetivo principal al balancear una ecuación química?",
       "dificultad": 1,
       "opciones": {
-        "A": "Asegurar que la masa de los productos sea mayor que la de los reactantes.",
-        "B": "Colocar coeficientes para que el número de átomos de cada elemento sea igual en ambos lados de la ecuación.",
-        "C": "Simplificar las fórmulas químicas para que sean más fáciles de leer.",
-        "D": "Identificar qué sustancias son gaseosas y cuáles son líquidas.",
-        "E": "Cambiar los subíndices de las fórmulas para igualar el número de átomos."
+        "A": "Asegurar que el número de moléculas sea igual en reactantes y productos.",
+        "B": "Igualar la masa total de los reactantes con la masa de los productos.",
+        "C": "Colocar coeficientes para que el número de átomos de cada elemento sea igual en ambos lados de la ecuación.",
+        "D": "Simplificar las fórmulas químicas de los compuestos involucrados.",
+        "E": "Garantizar que todos los reactantes se consuman por completo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El balanceo de una ecuación química consiste en colocar coeficientes numéricos delante de las fórmulas para que se cumpla la ley de conservación de la materia, lo que significa que el número de átomos de cada elemento debe ser idéntico tanto en los reactantes (lado izquierdo) como en los productos (lado derecho).",
+      "respuesta_correcta": "C",
+      "explicacion": "El propósito fundamental del balanceo de una ecuación química es cumplir con la Ley de Conservación de la Masa. Esto se logra ajustando los coeficientes numéricos que preceden a las fórmulas, de manera que la cantidad de átomos de cada elemento sea idéntica en el lado de los reactantes y en el de los productos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_002",
-      "pregunta": "Según el método de tanteo o simple inspección, ¿qué tipo de elemento se recomienda balancear en primer lugar?",
+      "pregunta": "Según el método de tanteo o simple inspección, ¿cuál es el orden recomendado para balancear los elementos en una ecuación?",
       "dificultad": 1,
       "opciones": {
-        "A": "Oxígenos",
-        "B": "Hidrógenos",
-        "C": "No metales",
-        "D": "Metales",
-        "E": "Cualquier elemento al azar"
+        "A": "1° hidrógenos, 2° oxígenos, 3° metales, 4° no metales.",
+        "B": "1° oxígenos, 2° hidrógenos, 3° no metales, 4° metales.",
+        "C": "1° no metales, 2° metales, 3° oxígenos, 4° hidrógenos.",
+        "D": "1° metales, 2° no metales, 3° hidrógenos, 4° oxígenos.",
+        "E": "El orden no es importante y se puede empezar por cualquier elemento."
       },
       "respuesta_correcta": "D",
-      "explicacion": "El método de tanteo o simple inspección recomienda seguir un orden específico para facilitar el balanceo. El primer paso sugerido es balancear los átomos de los elementos metálicos.",
+      "explicacion": "Para el método de tanteo, se recomienda seguir un orden específico para facilitar el proceso. El orden sugerido es comenzar con los metales, seguido de los no metales, luego los átomos de hidrógeno y, finalmente, los átomos de oxígeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_003",
-      "pregunta": "¿Cuál es el estado de oxidación (E.O.) de un átomo en su estado elemental, como en $$H_2$$ o $$Na$$?",
+      "pregunta": "¿Cuál es el estado de oxidación (E.O.) de un átomo en su estado elemental, como en $$O_2$$ o $$Na$$?",
       "dificultad": 1,
       "opciones": {
         "A": "+1",
         "B": "-1",
         "C": "0",
-        "D": "-2",
-        "E": "Depende del elemento"
+        "D": "Igual a su número atómico.",
+        "E": "Igual a la carga de su ion más común."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Una de las reglas para determinar los estados de oxidación establece que cualquier átomo en su estado elemental, es decir, no combinado con otros elementos, tiene un estado de oxidación igual a cero. Ejemplos incluyen gases diatómicos como $$O_2$$ y metales puros como $$Na$$.",
+      "explicacion": "Una de las reglas para determinar los estados de oxidación establece que cualquier átomo en su forma elemental, es decir, no combinado con otros elementos, tiene un estado de oxidación de 0. Ejemplos incluyen el sodio metálico ($$Na$$), el hidrógeno diatómico ($$H_2$$) y el oxígeno diatómico ($$O_2$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_004",
-      "pregunta": "En la mayoría de los compuestos químicos, ¿cuál es el estado de oxidación asignado al oxígeno?",
+      "pregunta": "En un compuesto o molécula neutra, ¿cuál debe ser la suma de los estados de oxidación de todos los átomos que la componen?",
       "dificultad": 1,
       "opciones": {
-        "A": "0",
-        "B": "+1",
-        "C": "+2",
-        "D": "-1",
-        "E": "-2"
+        "A": "1",
+        "B": "-1",
+        "C": "Depende del número de átomos.",
+        "D": "La carga del catión más estable.",
+        "E": "0"
       },
       "respuesta_correcta": "E",
-      "explicacion": "Por regla general, al oxígeno se le asigna un estado de oxidación de -2 en la gran mayoría de sus compuestos. Una excepción notable son los peróxidos, donde su estado de oxidación es -1.",
+      "explicacion": "Para que una molécula o un compuesto sea eléctricamente neutro, la suma de todas las cargas positivas y negativas de sus átomos (representadas por sus estados de oxidación) debe anularse mutuamente. Por lo tanto, la suma total de los estados de oxidación es siempre cero.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_005",
-      "pregunta": "Para una molécula o compuesto neutro, ¿cuál debe ser la suma de los estados de oxidación de todos sus átomos?",
+      "pregunta": "¿Cuál es el estado de oxidación del hidrógeno en la mayoría de sus compuestos, y cuál es la excepción mencionada?",
       "dificultad": 1,
       "opciones": {
-        "A": "Igual a la carga del catión",
-        "B": "Cero",
-        "C": "Igual al número de oxígenos",
-        "D": "Siempre +1",
-        "E": "Siempre -1"
+        "A": "Es -1, excepto en ácidos donde es +1.",
+        "B": "Es +1, excepto en hidruros metálicos donde es -1.",
+        "C": "Es siempre +1, sin excepciones.",
+        "D": "Es 0, excepto cuando se combina con oxígeno.",
+        "E": "Es -1, excepto cuando se combina con no metales."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Una regla fundamental para asignar estados de oxidación es que, en cualquier compuesto eléctricamente neutro, la suma algebraica de los estados de oxidación de todos los átomos que lo componen debe ser igual a cero.",
+      "explicacion": "Generalmente, el hidrógeno tiene un estado de oxidación de +1 cuando se combina con no metales. Sin embargo, hay una excepción importante: en los hidruros metálicos (compuestos de hidrógeno con un metal), el hidrógeno es más electronegativo y adopta un estado de oxidación de -1.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_006",
-      "pregunta": "El método de balanceo REDOX se basa fundamentalmente en:",
+      "pregunta": "¿En qué se basa fundamentalmente el método de balanceo REDOX?",
       "dificultad": 2,
       "opciones": {
-        "A": "La igualación de masas moleculares en reactantes y productos.",
-        "B": "El ordenamiento aleatorio de coeficientes hasta encontrar un balance.",
-        "C": "Los cambios en los estados de oxidación de los elementos.",
-        "D": "La adición de moléculas de agua e iones hidroxilo únicamente.",
-        "E": "La ionización de todos los compuestos presentes en la reacción."
+        "A": "En la igualación de masas molares de reactantes y productos.",
+        "B": "En el conteo aleatorio de átomos hasta encontrar un equilibrio.",
+        "C": "En los cambios de los estados de oxidación de los elementos.",
+        "D": "En la adición de moléculas de agua e iones hidróxido.",
+        "E": "En la ionización de todos los compuestos de la ecuación."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El método REDOX (reducción-oxidación) se centra en identificar qué elementos cambian su estado de oxidación durante la reacción. El balanceo se logra igualando el número de electrones perdidos en la oxidación con el número de electrones ganados en la reducción.",
+      "explicacion": "El método de balanceo REDOX (reducción-oxidación) se centra en la transferencia de electrones entre los reactivos, lo cual se manifiesta como un cambio en los estados de oxidación de los átomos involucrados. La identificación de qué elemento se oxida (pierde electrones) y cuál se reduce (gana electrones) es el pilar de este método.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_007",
-      "pregunta": "Siguiendo el orden recomendado para el método de tanteo, ¿cuál es la secuencia correcta para balancear los elementos?",
+      "pregunta": "El estado de oxidación del oxígeno es -2 en la mayoría de los compuestos. ¿Cuál es su estado de oxidación en los peróxidos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Oxígenos → Hidrógenos → Metales → No metales",
-        "B": "Hidrógenos → Oxígenos → No metales → Metales",
-        "C": "Metales → No metales → Hidrógenos → Oxígenos",
-        "D": "No metales → Metales → Oxígenos → Hidrógenos",
-        "E": "Metales → Hidrógenos → No metales → Oxígenos"
+        "A": "-2",
+        "B": "0",
+        "C": "+1",
+        "D": "-1",
+        "E": "+2"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El método de simple inspección o tanteo sugiere un orden para hacer el proceso más sistemático y menos azaroso. La secuencia recomendada es: primero los metales, segundo los no metales, tercero los hidrógenos y, finalmente, los oxígenos.",
+      "respuesta_correcta": "D",
+      "explicacion": "Aunque el oxígeno comúnmente trabaja con un estado de oxidación de -2, en los compuestos conocidos como peróxidos (como el peróxido de hidrógeno, $$H_2O_2$$), su estado de oxidación es -1. Esta es una excepción importante a la regla general.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_008",
-      "pregunta": "En el método ion-electrón para un medio ácido, ¿cómo se compensa un exceso de átomos de oxígeno en un lado de una semirreacción?",
+      "pregunta": "¿Cuál es el primer paso a seguir tanto en el método REDOX como en el método ion-electrón para balancear una ecuación?",
       "dificultad": 2,
       "opciones": {
-        "A": "Añadiendo iones $$OH^-$$ al mismo lado.",
-        "B": "Añadiendo moléculas de $$H_2O$$ al mismo lado y el doble de $$H^+$$ al otro.",
-        "C": "Añadiendo iones $$H^+$$ al lado con exceso de oxígeno.",
-        "D": "Añadiendo moléculas de $$H_2O$$ al lado opuesto y el doble de iones $$H^+$$ al lado con exceso de oxígeno.",
-        "E": "Añadiendo moléculas de $$H_2O$$ en el extremo opuesto y, en el extremo contrario al agua, el doble de iones $$H^+$$."
+        "A": "Escribir las semirreacciones de oxidación y reducción.",
+        "B": "Determinar los estados de oxidación de todos los átomos.",
+        "C": "Balancear la masa de los átomos principales.",
+        "D": "Igualar el número de electrones ganados y perdidos.",
+        "E": "Añadir moléculas de $$H_2O$$ e iones $$H^+$$."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "La regla para balancear oxígeno en medio ácido con el método ion-electrón es la siguiente: por cada átomo de oxígeno en exceso en un lado, se añade una molécula de agua ($$H_2O$$) en el lado opuesto. Para balancear los hidrógenos recién añadidos, se coloca el doble de iones hidrógeno ($$H^+$$) en el lado contrario al agua.",
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos métodos, REDOX y ion-electrón, se basan en los cambios de los números de oxidación. Por lo tanto, el primer paso indispensable es calcular y asignar el estado de oxidación a cada uno de los átomos en la ecuación para poder identificar qué elementos se oxidan y cuáles se reducen.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_009",
-      "pregunta": "A diferencia de su estado de oxidación común de +1, ¿en qué tipo de compuestos el hidrógeno tiene un estado de oxidación de -1?",
+      "pregunta": "En el método ion-electrón, al balancear una semirreacción en medio ácido, ¿cómo se compensa un exceso de átomos de oxígeno en un lado de la ecuación?",
       "dificultad": 2,
       "opciones": {
-        "A": "En peróxidos",
-        "B": "En ácidos",
-        "C": "En su estado elemental ($$H_2$$)",
-        "D": "En hidruros metálicos",
-        "E": "En el ion hidronio ($$H_3O^+$$)"
+        "A": "Añadiendo iones $$OH^-$$ en el mismo lado.",
+        "B": "Añadiendo moléculas de $$H_2O$$ en el mismo lado y el doble de iones $$OH^-$$ en el lado contrario.",
+        "C": "Añadiendo el mismo número de moléculas de $$H_2O$$ en el lado contrario y el doble de iones $$H^+$$ en el lado original.",
+        "D": "Añadiendo iones $$O^{2-}$$ en el lado con déficit de oxígeno.",
+        "E": "Quitando átomos de hidrógeno del lado con exceso de oxígeno."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El hidrógeno generalmente tiene un estado de oxidación de +1. La principal excepción es cuando se combina con metales para formar hidruros metálicos (ej. NaH, CaH₂), donde el metal es menos electronegativo y el hidrógeno adopta un estado de oxidación de -1.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla para balancear oxígeno en medio ácido es específica: por cada átomo de oxígeno en exceso en un lado, se añade una molécula de agua ($$H_2O$$) en el lado opuesto. Para balancear los hidrógenos recién añadidos, se colocan dos iones hidrógeno ($$H^+$$) por cada molécula de agua en el lado contrario (es decir, el lado original).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_010",
-      "pregunta": "Al balancear una semirreacción de oxidación, ¿en qué lado de la ecuación se colocan los electrones ($$e^-$$)?",
+      "pregunta": "Para balancear una semirreacción en medio básico usando el método ion-electrón, ¿qué se hace si hay un exceso de átomos de oxígeno en un extremo?",
       "dificultad": 2,
       "opciones": {
-        "A": "En el lado de los reactantes, porque se ganan.",
-        "B": "En el lado de los productos, porque se pierden.",
-        "C": "No se colocan electrones en la semirreacción de oxidación.",
-        "D": "Se distribuyen por igual en ambos lados.",
-        "E": "En el lado que contenga átomos de oxígeno."
+        "A": "Se añade igual número de $$H_2O$$ en el otro extremo y el doble de $$H^+$$ en el extremo original.",
+        "B": "Se compensa con igual número de $$OH^-$$ en el otro extremo.",
+        "C": "Se incrementa con igual número de $$H_2O$$ en el mismo extremo y se coloca el doble de iones $$OH^-$$ en el otro extremo.",
+        "D": "Se añade la mitad de moléculas de $$O_2$$ en el lado con déficit.",
+        "E": "Se añade igual número de $$H_2O$$ en el mismo extremo y el mismo número de $$OH^-$$ en el otro extremo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La oxidación es el proceso de pérdida de electrones. En una semirreacción, estos electrones perdidos se representan como un producto, por lo que se escriben en el lado derecho (productos) de la ecuación. Por ejemplo, $$X \rightarrow X^{n+} + ne^-$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla para balancear oxígeno en medio básico indica que por cada átomo de oxígeno en exceso, se añade una molécula de agua ($$H_2O$$) en el mismo lado del exceso. Luego, para balancear los hidrógenos, se colocan dos iones hidróxido ($$OH^-$$) en el lado opuesto por cada molécula de agua añadida.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_011",
-      "pregunta": "En la reacción $$KMnO_4 + KI + H_2O \rightarrow MnO_2 + I_2 + KOH$$, ¿qué elemento se oxida y qué elemento se reduce?",
+      "pregunta": "En la reacción de ejemplo $$KMnO_4 + KI + H_2O \rightarrow MnO_2 + I_2 + KOH$$, ¿cuál es la semirreacción iónica que representa la oxidación?",
       "dificultad": 2,
       "opciones": {
-        "A": "El potasio ($$K$$) se oxida y el manganeso ($$Mn$$) se reduce.",
-        "B": "El yodo ($$I$$) se oxida y el manganeso ($$Mn$$) se reduce.",
-        "C": "El oxígeno ($$O$$) se reduce y el hidrógeno ($$H$$) se oxida.",
-        "D": "El manganeso ($$Mn$$) se oxida y el yodo ($$I$$) se reduce.",
-        "E": "El yodo ($$I$$) se reduce y el potasio ($$K$$) se oxida."
+        "A": "$$(MnO_4)^- \rightarrow MnO_2$$",
+        "B": "$$I^- \rightarrow I_2$$",
+        "C": "$$K^+ \rightarrow KOH$$",
+        "D": "$$H_2O \rightarrow OH^-$$",
+        "E": "$$KMnO_4 \rightarrow MnO_2$$"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Para identificar la oxidación y la reducción, se determinan los estados de oxidación. El yodo pasa de $$I^-$$ (E.O. = -1) a $$I_2$$ (E.O. = 0), aumentando su estado de oxidación (se oxida). El manganeso pasa de $$(MnO_4)^-$$ (E.O. de Mn = +7) a $$MnO_2$$ (E.O. de Mn = +4), disminuyendo su estado de oxidación (se reduce).",
+      "explicacion": "La oxidación es el proceso en el que una especie química pierde electrones, aumentando su estado de oxidación. En la reacción dada, el ion yoduro ($$I^-$$) con estado de oxidación -1 se transforma en yodo molecular ($$I_2$$) con estado de oxidación 0. Esta pérdida de electrones se representa con la semirreacción iónica $$I^- \rightarrow I_2$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_012",
-      "pregunta": "¿Qué distingue principalmente al método ion-electrón del método REDOX general?",
+      "pregunta": "¿Por qué es crucial igualar el número de electrones ganados y perdidos en los métodos de balanceo REDOX y ion-electrón?",
       "dificultad": 2,
       "opciones": {
-        "A": "El método ion-electrón solo funciona para reacciones en fase gaseosa.",
-        "B": "El método REDOX no considera la transferencia de electrones.",
-        "C": "El método ion-electrón es sistemático y utiliza reglas específicas para balancear H y O en medios ácidos o básicos.",
-        "D": "El método ion-electrón no requiere la ionización de las sustancias.",
-        "E": "El método REDOX es un sinónimo exacto del método de tanteo."
+        "A": "Para asegurar que la carga total de la ecuación sea cero.",
+        "B": "Porque los electrones no pueden crearse ni destruirse en una reacción química.",
+        "C": "Para simplificar los coeficientes estequiométricos finales.",
+        "D": "Para determinar si la reacción ocurre en medio ácido o básico.",
+        "E": "Para balancear el número de átomos de oxígeno e hidrógeno."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Aunque ambos métodos se basan en la transferencia de electrones, el método ion-electrón es más sistemático y está diseñado específicamente para reacciones en solución acuosa, ya sea en medio ácido o básico. Proporciona reglas claras para balancear los átomos de oxígeno e hidrógeno usando $$H_2O$$, $$H^+$$ y $$OH^-$$, lo que no es un enfoque explícito en el método REDOX general descrito.",
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de conservación de la carga dicta que el número total de electrones perdidos en la semirreacción de oxidación debe ser exactamente igual al número total de electrones ganados en la semirreacción de reducción. Los electrones se transfieren, no se crean ni se destruyen. Igualar los electrones es un paso fundamental para combinar las semirreacciones y obtener la ecuación global balanceada.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_013",
-      "pregunta": "En la semirreacción de reducción en medio básico $$(MnO_4)^- \rightarrow MnO_2$$, ¿cuál es la forma correcta de balancear la masa y la carga?",
+      "pregunta": "En el balanceo de la semirreacción de reducción $$(MnO_4)^- \rightarrow MnO_2$$ en medio básico, ¿cuántas moléculas de $$H_2O$$ y cuántos iones $$OH^-$$ se necesitan para balancear la masa?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$(MnO_4)^- + 4H^+ + 3e^- \rightarrow MnO_2 + 2H_2O$$",
-        "B": "$$(MnO_4)^- \rightarrow MnO_2 + O_2 + 3e^-$$",
-        "C": "$$(MnO_4)^- + 2H_2O \rightarrow MnO_2 + 4OH^- - 3e^-$$",
-        "D": "$$(MnO_4)^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-$$",
-        "E": "$$(MnO_4)^- + 3e^- \rightarrow MnO_2$$"
+        "A": "4 $$H_2O$$ a la izquierda y 2 $$OH^-$$ a la derecha.",
+        "B": "2 $$H_2O$$ a la derecha y 4 $$OH^-$$ a la izquierda.",
+        "C": "2 $$H_2O$$ a la izquierda y 4 $$OH^-$$ a la derecha.",
+        "D": "4 $$H_2O$$ a la derecha y 2 $$OH^-$$ a la izquierda.",
+        "E": "1 $$H_2O$$ a la izquierda y 2 $$OH^-$$ a la derecha."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para balancear esta semirreacción en medio básico: 1) Los $$Mn$$ ya están balanceados. 2) Hay 4 $$O$$ a la izquierda y 2 $$O$$ a la derecha, un exceso de 2 $$O$$ a la izquierda. Se añaden 2 $$H_2O$$ al mismo lado y el doble (4) de $$OH^-$$ al otro: $$(MnO_4)^- + 2H_2O \rightarrow MnO_2 + 4OH^-$$. 3) Se balancea la carga: la izquierda tiene carga -1, la derecha -4. Se añaden 3 electrones ($$3e^-$$) al lado izquierdo para igualar las cargas (-4 en ambos lados). La semirreacción final es $$(MnO_4)^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "Analizando la semirreacción $$(MnO_4)^- \rightarrow MnO_2$$: \n1. Hay 4 oxígenos a la izquierda y 2 a la derecha, un exceso de 2 oxígenos a la izquierda. \n2. Según las reglas del medio básico, se añaden 2 $$H_2O$$ en el mismo lado (izquierda) y el doble (4) de $$OH^-$$ en el lado opuesto (derecha). \n3. La semirreacción queda: $$(MnO_4)^- + 2H_2O \rightarrow MnO_2 + 4OH^-$$. Así, los átomos de Mn, O y H quedan balanceados por masa.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_014",
-      "pregunta": "Al balancear la reacción completa $$KMnO_4 + KI + H_2O \rightarrow MnO_2 + I_2 + KOH$$, las semirreacciones son $$2I^- \rightarrow I_2 + 2e^-$$ (oxidación) y $$(MnO_4)^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-$$ (reducción). ¿Por qué factores se deben multiplicar las semirreacciones para igualar los electrones transferidos?",
+      "pregunta": "Considerando la ecuación final balanceada $$2KMnO_4 + 6KI + 4H_2O \rightarrow 2MnO_2 + 3I_2 + 8KOH$$, ¿cuál es la relación estequiométrica entre el agente oxidante ($$KMnO_4$$) y el agente reductor ($$KI$$)?",
       "dificultad": 3,
       "opciones": {
-        "A": "Oxidación por 2, reducción por 2",
-        "B": "Oxidación por 2, reducción por 3",
-        "C": "Oxidación por 6, reducción por 6",
-        "D": "Oxidación por 1, reducción por 3",
-        "E": "Oxidación por 3, reducción por 2"
+        "A": "1:1",
+        "B": "2:3",
+        "C": "1:3",
+        "D": "3:1",
+        "E": "2:8"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El objetivo es que el número de electrones perdidos en la oxidación sea igual al número de electrones ganados en la reducción. La semirreacción de oxidación produce 2 electrones, mientras que la de reducción consume 3 electrones. El mínimo común múltiplo de 2 y 3 es 6. Para alcanzar 6 electrones en ambas, la semirreacción de oxidación debe multiplicarse por 3 ($$2e^- \times 3 = 6e^-$$) y la semirreacción de reducción debe multiplicarse por 2 ($$3e^- \times 2 = 6e^-$$).",
+      "respuesta_correcta": "C",
+      "explicacion": "El agente oxidante es el que se reduce (en este caso $$KMnO_4$$) y el agente reductor es el que se oxida ($$KI$$). En la ecuación final balanceada, los coeficientes estequiométricos indican la proporción en la que reaccionan. El coeficiente de $$KMnO_4$$ es 2 y el de $$KI$$ es 6. La relación es 2:6, que se simplifica a 1:3. Esto significa que por cada mol de permanganato de potasio, se necesitan 3 moles de yoduro de potasio para que la reacción proceda.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_198_015",
-      "pregunta": "De acuerdo con el método ion-electrón para un medio básico, si una semirreacción presenta un exceso de iones $$OH^-$$ en un lado, ¿cuál es el procedimiento correcto para balancearlos?",
+      "pregunta": "Para balancear el intercambio de electrones entre las semirreacciones $$2I^- \rightarrow I_2 + 2e^-$$ y $$(MnO_4)^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-$$, ¿por qué factores se deben multiplicar la primera y la segunda semirreacción, respectivamente?",
       "dificultad": 3,
       "opciones": {
-        "A": "Añadir el doble de iones $$H^+$$ al lado opuesto.",
-        "B": "Añadir un número igual de moléculas de $$H_2O$$ al mismo lado.",
-        "C": "Compensar con un número igual de iones $$OH^-$$ en el otro extremo.",
-        "D": "Eliminar los iones $$OH^-$$ y usar las reglas de medio ácido.",
-        "E": "Añadir electrones hasta que la carga se neutralice."
+        "A": "Por 2 y por 3",
+        "B": "Por 3 y por 2",
+        "C": "Por 1 y por 6",
+        "D": "Por 6 y por 1",
+        "E": "Por 2 y por 2"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Las reglas para el balanceo de masa en medio básico especifican cómo tratar el exceso de oxígeno e hidrógeno. En el caso de que el balanceo inicial de otros átomos genere un desequilibrio de iones $$OH^-$$ (o de iones $$H^+$$ en medio ácido), la regla indica que se debe compensar añadiendo el mismo número de esos iones en el lado contrario de la semirreacción para restablecer el equilibrio.",
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo es que el número de electrones perdidos en la oxidación sea igual al número de electrones ganados en la reducción. La primera semirreacción libera 2 electrones, y la segunda consume 3. Para igualarlos, se busca el mínimo común múltiplo de 2 y 3, que es 6. Por lo tanto, la primera semirreacción se multiplica por 3 (para un total de 6 $$e^-$$ perdidos) y la segunda semirreacción se multiplica por 2 (para un total de 6 $$e^-$$ ganados).",
       "imagen": null
     }
   ]

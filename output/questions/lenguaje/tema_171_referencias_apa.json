@@ -1,0 +1,233 @@
+{
+  "materia": "lenguaje",
+  "numero_tema": 171,
+  "total_temas": 225,
+  "titulo_tema": "Referencias APA",
+  "preguntas": [
+    {
+      "id_temporal": "lenguaje_171_001",
+      "pregunta": "¿Cuál es la función principal de una lista de referencias en un trabajo académico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Presentar un listado de lecturas recomendadas sobre el tema.",
+        "B": "Proporcionar la información completa de las fuentes citadas en el texto.",
+        "C": "Resumir las ideas principales de los autores mencionados.",
+        "D": "Mostrar el currículum de los autores citados.",
+        "E": "Incluir todas las obras consultadas, aunque no se hayan citado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La lista de referencias tiene como propósito fundamental ofrecer la información completa y detallada de cada una de las fuentes que fueron citadas explícitamente dentro del texto, permitiendo al lector localizar y confirmar dicha información. No es una lista de lecturas recomendadas ni un compendio de resúmenes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_002",
+      "pregunta": "¿Cuáles son los cuatro elementos básicos comunes a todas las referencias en formato APA?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Autor, Ciudad, Título y Editorial.",
+        "B": "Autor, Fecha, Título y Fuente.",
+        "C": "Título, Año, URL y Número de página.",
+        "D": "Nombre del autor, Título de la obra, Resumen y Enlace.",
+        "E": "Apellido, Editorial, Fecha y País."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Independientemente del tipo de documento, toda referencia en estilo APA debe contener cuatro datos básicos: el autor (responsable de la obra), la fecha (cuándo se publicó), el título (cómo se llama) y la fuente (dónde se puede localizar).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_003",
+      "pregunta": "¿Qué es una cita en el contexto de la escritura académica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La lista completa de fuentes al final del documento.",
+        "B": "Un resumen de la obra original del autor.",
+        "C": "La indicación de la autoría de ideas de otros dentro del propio texto.",
+        "D": "Una opinión personal sobre el trabajo de otro autor.",
+        "E": "La transcripción exacta de un fragmento sin mencionar al autor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una cita es la mención que se hace dentro de un escrito para atribuir ideas, teorías o investigaciones a sus autores originales. Se diferencia de la referencia, que es la información bibliográfica completa que aparece al final del texto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_004",
+      "pregunta": "¿Cómo se define el plagio en el ámbito académico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Utilizar únicamente fuentes de internet en un trabajo.",
+        "B": "Reclamar ideas de otro como propias, desacreditando al autor original.",
+        "C": "Citar a un autor más de cinco veces en un mismo párrafo.",
+        "D": "Escribir un texto con un estilo similar al de otro autor.",
+        "E": "No estar de acuerdo con las ideas de un autor citado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El plagio es la acción de presentar las ideas, palabras o trabajo de otra persona como si fueran propios, sin dar el crédito correspondiente al autor original. Puede ocurrir de forma intencional o por una citación y referenciación inadecuadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_005",
+      "pregunta": "Según el formato APA, ¿cuál es la forma correcta de citar entre paréntesis una obra de un solo autor llamado Harris publicada en 2020?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "(Harris, p. 2020)",
+        "B": "(Harris, 2020).",
+        "C": "(Harris, 2020)",
+        "D": "(2020, Harris)",
+        "E": "(Harris J., 2020)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para una cita entre paréntesis (parentética) de un solo autor, se coloca el apellido del autor seguido de una coma y el año de publicación, todo dentro del paréntesis. No se incluye la inicial del nombre ni la abreviatura de página, a menos que sea una cita textual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_006",
+      "pregunta": "¿Cuál es la diferencia fundamental entre una lista de referencias y una bibliografía?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las referencias se ordenan alfabéticamente y la bibliografía cronológicamente.",
+        "B": "La bibliografía es para libros y las referencias son para artículos en línea.",
+        "C": "No hay ninguna diferencia, son términos intercambiables.",
+        "D": "Las referencias solo incluyen fuentes citadas, mientras que la bibliografía puede incluir obras de fundamento no citadas.",
+        "E": "Las referencias usan sangría francesa y la bibliografía no."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La distinción clave es que la lista de referencias, utilizada en el estilo APA, contiene únicamente las fuentes que se citaron de forma explícita en el texto. En cambio, una bibliografía puede incluir también otras obras que sirvieron de base o para consulta, pero que no fueron directamente citadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_007",
+      "pregunta": "¿Cómo se debe citar en el texto una fuente con cuatro autores por primera vez?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Mencionando los apellidos de todos los autores, seguido del año.",
+        "B": "Mencionando el apellido del primer autor, seguido de \"y colaboradores\" y el año.",
+        "C": "Mencionando el apellido del primer autor, seguido de et al. y el año.",
+        "D": "Creando una sigla con las iniciales de todos los autores y el año.",
+        "E": "Mencionando solo el título de la obra y el año."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando una obra tiene tres o más autores, desde la primera vez que se cita en el texto, se debe incluir únicamente el apellido del primer autor seguido de la abreviatura \"et al.\" (que significa \"y otros\") y el año de publicación. Por ejemplo: (Harris et al., 2020).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_008",
+      "pregunta": "Al citar una organización conocida por sus siglas, como los Centers for Disease Control and Prevention [CDC], ¿qué formato se utiliza en las citas *posteriores* a la primera?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se vuelve a escribir el nombre completo junto con la sigla.",
+        "B": "Se utiliza únicamente la sigla y el año, como en (CDC, 2020).",
+        "C": "Se utiliza solo el nombre completo, sin la sigla.",
+        "D": "Se omite el autor y se cita solo el título de la publicación.",
+        "E": "Se escribe \"la organización previamente mencionada\" y el año."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para grupos de autores conocidos por sus siglas, la primera cita debe incluir el nombre completo seguido de la sigla entre corchetes. En todas las citas subsecuentes, solo se utiliza la sigla y el año, por ejemplo: (CDC, 2020).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_009",
+      "pregunta": "¿Qué sucede en la lista de referencias cuando una obra tiene más de veinte autores?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se listan todos los autores sin excepción.",
+        "B": "Se lista solo al primer autor seguido de \"et al.\".",
+        "C": "Se incluyen los primeros 19, se usan tres puntos (...) y se añade el último autor.",
+        "D": "Se incluyen los primeros 6 autores, se usan puntos suspensivos y se añade el último autor.",
+        "E": "Se inicia la referencia con el título de la obra, omitiendo los autores."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para obras con más de veinte autores (21 o más), el formato de la referencia APA estipula que se deben listar los apellidos e iniciales de los primeros 19 autores, seguido de tres puntos suspensivos (...), y finalmente, el apellido e inicial del último autor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_010",
+      "pregunta": "¿Cuál de las siguientes opciones describe un error frecuente que rompe la conexión entre la cita y la referencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Usar un tipo de letra diferente para la lista de referencias.",
+        "B": "Incluir una referencia en la lista final, pero no citarla en ninguna parte del texto.",
+        "C": "Citar a un autor y luego estar en desacuerdo con su idea.",
+        "D": "Colocar la lista de referencias antes de las conclusiones.",
+        "E": "Utilizar \"y\" en lugar de \"&\" para autores en español en la lista de referencias."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un error común es incluir una entrada completa en la lista de referencias que nunca fue citada en el cuerpo del trabajo. El sistema APA requiere que toda cita en el texto tenga su correspondiente referencia al final, y viceversa, manteniendo una relación directa y verificable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_011",
+      "pregunta": "¿Cómo se formatea una cita entre paréntesis para una fuente con dos autores, Harris y Cook, publicada en 2020?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "(Harris y Cook, 2020)",
+        "B": "(Harris & Cook, 2020)",
+        "C": "(Harris, Cook, 2020)",
+        "D": "(Harris et al., 2020)",
+        "E": "(Harris and Cook, 2020)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para una cita entre paréntesis de dos autores, se unen sus apellidos con el símbolo ampersand (&). El formato correcto es (Apellido1 & Apellido2, Año). El uso de \"y\" o \"and\" se reserva para las citas narrativas (fuera del paréntesis).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_012",
+      "pregunta": "¿Cuál es la forma correcta de iniciar la entrada en la lista de referencias para una obra que no tiene autor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se utiliza la palabra \"Anónimo\" en lugar del autor.",
+        "B": "Se inicia con la fecha de publicación.",
+        "C": "Se inicia con el título de la obra.",
+        "D": "Se inicia con la fuente o la editorial.",
+        "E": "Se omite esa fuente de la lista de referencias."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando una obra carece de un autor identificable, el primer elemento de la referencia es el título de la obra. La entrada se ordena alfabéticamente en la lista de referencias según la primera palabra significativa del título.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_013",
+      "pregunta": "Un estudiante está escribiendo sobre un estudio realizado por Taylor, Johnson, Smith y Davis en 2018. ¿Cuál es la forma correcta de incluir una cita entre paréntesis para este trabajo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "(Taylor, Johnson, Smith & Davis, 2018)",
+        "B": "(Taylor, 2018)",
+        "C": "(Taylor y otros, 2018)",
+        "D": "(Taylor et al., 2018)",
+        "E": "(T.J.S.D., 2018)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al tratarse de una fuente con tres o más autores (en este caso, cuatro), la norma APA indica que se debe citar utilizando el apellido del primer autor seguido de la abreviatura \"et al.\" y el año. Las demás opciones son incorrectas porque listan a todos los autores, usan una expresión en español no estandarizada o una sigla inventada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_014",
+      "pregunta": "Un investigador ha incluido la siguiente entrada en su lista de referencias: \"Centers for Disease Control and Prevention [CDC]. (2020). *Título del informe*. ...\". ¿Cómo debería formular la *primera* cita narrativa en su texto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El CDC (2020) informó que...",
+        "B": "Centers for Disease Control and Prevention (CDC, 2020) explicó que...",
+        "C": "Según la investigación (CDC, 2020), se encontró que...",
+        "D": "El grupo de autores (2020) concluyó...",
+        "E": "En el año 2020, se publicó que..."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la primera cita de un grupo conocido por su sigla, se debe escribir el nombre completo de la organización y, a continuación, la sigla y el año entre paréntesis. Las citas posteriores usarán solo la sigla. La opción B sigue este formato para una cita narrativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_171_015",
+      "pregunta": "Al revisar su trabajo, un estudiante nota que para una fuente de YouTube, en su lista de referencias solo ha puesto \"https://www.youtube.com/watch?v=5v8B5h6iQao&feature=youtu.be\". ¿Qué error fundamental está cometiendo según las pautas de referenciación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "No está utilizando un acortador de URL para el enlace.",
+        "B": "Está incluyendo una fuente de video, lo cual no está permitido.",
+        "C": "Está colocando solo el URL en lugar de la referencia completa con autor, fecha, título y fuente.",
+        "D": "El enlace de YouTube no está activo y funcional.",
+        "E": "Debería haber incluido también la fecha en que accedió al video."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Uno de los errores frecuentes es considerar que la URL es suficiente como referencia. Una referencia completa debe incluir los cuatro elementos básicos: autor (o responsable del contenido), fecha de publicación, título del video y la fuente (en este caso, YouTube, seguido del enlace). Simplemente pegar el enlace omite toda la información de atribución necesaria.",
+      "imagen": null
+    }
+  ]
+}

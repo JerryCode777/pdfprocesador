@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 128,
+  "total_temas": 137,
+  "titulo_tema": "Campo magnético",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_128_001",
+      "pregunta": "¿Cómo se denomina la región del espacio que rodea a un polo magnético y que posee propiedades magnéticas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerza magnética",
+        "B": "Inducción eléctrica",
+        "C": "Campo magnético",
+        "D": "Dipolo magnético",
+        "E": "Línea de fuerza"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El campo magnético es la región del espacio que rodea a una fuente magnética (como un imán) donde se manifiestan fuerzas magnéticas de atracción o repulsión. Las otras opciones se refieren a conceptos relacionados pero distintos: la fuerza magnética es la interacción, el dipolo es la naturaleza del imán y las líneas de fuerza son la representación gráfica del campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_002",
+      "pregunta": "¿Cuál es la unidad del vector de inducción magnética en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Weber (Wb)",
+        "B": "Gauss (G)",
+        "C": "Faraday (F)",
+        "D": "Tesla (T)",
+        "E": "Ampere (A)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad en el Sistema Internacional (S.I.) para el módulo del vector de inducción magnética ($B$), que indica la intensidad del campo magnético, es el Tesla, simbolizado como (T).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_003",
+      "pregunta": "¿Cómo se llama la fuerza de atracción o repulsión entre los polos de un imán?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerza de inducción",
+        "B": "Fuerza magnética",
+        "C": "Fuerza electromagnética",
+        "D": "Fuerza de campo",
+        "E": "Fuerza de Lorentz"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza con la que los polos magnéticos interactúan, ya sea atrayéndose o repeliéndose, se denomina específicamente fuerza magnética. Es la manifestación fundamental del magnetismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_004",
+      "pregunta": "¿Quién ideó la representación del campo magnético mediante líneas imaginarias llamadas líneas de inducción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Isaac Newton",
+        "B": "Albert Einstein",
+        "C": "Nikola Tesla",
+        "D": "James Clerk Maxwell",
+        "E": "Michael Faraday"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Michael Faraday fue el científico que propuso una forma visual e intuitiva de representar los campos magnéticos utilizando líneas imaginarias, conocidas como líneas de fuerza o líneas de inducción magnética, para describir la dirección y la intensidad del campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_005",
+      "pregunta": "Un imán, al tener siempre un polo norte y un polo sur que son inseparables, se conoce como un...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Monopolo magnético",
+        "B": "Campo unipolar",
+        "C": "Dipolo magnético",
+        "D": "Aislante magnético",
+        "E": "Conductor magnético"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La característica de que los polos magnéticos norte y sur de un imán no pueden ser separados se describe diciendo que el imán es un dipolo magnético. No existen los monopolos magnéticos (imanes con un solo polo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_006",
+      "pregunta": "Según la convención establecida, ¿cuál es la dirección de las líneas de inducción magnética fuera de un imán?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Del polo sur al polo norte",
+        "B": "Del polo norte al polo sur",
+        "C": "Del centro del imán hacia afuera",
+        "D": "Paralelas al eje del imán",
+        "E": "En círculos concéntricos alrededor de cada polo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por convenio, las líneas de inducción magnética se dibujan como si salieran del polo norte del imán e ingresaran al polo sur, describiendo el camino que seguiría un hipotético polo norte móvil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_007",
+      "pregunta": "¿Qué relación geométrica existe entre el vector de inducción magnética ($B$) y las líneas de inducción en cualquier punto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El vector $B$ es perpendicular a las líneas de inducción.",
+        "B": "El vector $B$ es paralelo pero en sentido opuesto a las líneas de inducción.",
+        "C": "El vector $B$ forma un ángulo de 45 grados con las líneas de inducción.",
+        "D": "El vector $B$ no tiene relación con la dirección de las líneas.",
+        "E": "El vector $B$ es siempre tangente a las líneas de inducción."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El vector de inducción magnética, $B$, se define de tal manera que en cualquier punto del espacio, es tangente a la línea de inducción que pasa por ese punto y apunta en la misma dirección que la línea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_008",
+      "pregunta": "Si se deja que un imán suspendido gire libremente, ¿hacia dónde apuntará su polo sur?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Al Polo Sur geográfico de la Tierra",
+        "B": "Al Polo Norte magnético de la Tierra",
+        "C": "Al Este geográfico",
+        "D": "Al Polo Sur magnético de la Tierra",
+        "E": "Al ecuador magnético"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los polos opuestos se atraen. El polo sur de un imán (como el de una brújula) es atraído y, por lo tanto, apunta hacia el Polo Norte magnético de la Tierra. Este polo magnético se encuentra cerca del Polo Sur geográfico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_009",
+      "pregunta": "¿Qué característica fundamental distingue a las líneas de inducción magnética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son líneas abiertas que empiezan en el polo norte y terminan en el infinito.",
+        "B": "Pueden cruzarse en puntos donde el campo es muy intenso.",
+        "C": "Son líneas cerradas y nunca se interceptan.",
+        "D": "Son siempre líneas rectas y paralelas entre sí.",
+        "E": "Salen del polo sur e ingresan por el polo norte."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dos propiedades esenciales de las líneas de inducción magnética son que siempre forman bucles cerrados (continúan por dentro del imán para cerrarse) y que nunca se cruzan o interceptan, ya que esto implicaría que el campo magnético tiene dos direcciones en un mismo punto, lo cual es físicamente imposible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_010",
+      "pregunta": "¿Cuál es la relación entre los polos geográficos y magnéticos de la Tierra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Polo Norte magnético coincide exactamente con el Polo Norte geográfico.",
+        "B": "El Polo Norte magnético es vecino del Polo Sur geográfico.",
+        "C": "El Polo Sur magnético es vecino del Polo Sur geográfico.",
+        "D": "Los polos magnéticos y geográficos son perpendiculares entre sí.",
+        "E": "La Tierra no tiene polos magnéticos definidos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los polos magnéticos y geográficos de la Tierra no coinciden. El Polo Norte magnético terrestre (que atrae al polo sur de las brújulas) está ubicado cerca del Polo Sur geográfico, y viceversa, el Polo Sur magnético está cerca del Polo Norte geográfico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_011",
+      "pregunta": "¿Qué indica el módulo del vector de inducción magnética ($B$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La dirección de la fuerza magnética.",
+        "B": "La polaridad del imán.",
+        "C": "La temperatura del campo.",
+        "D": "Qué tan intenso es el campo magnético.",
+        "E": "La cantidad de líneas de inducción."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El vector de inducción magnética ($B$) es una cantidad vectorial. Su dirección es tangente a las líneas de campo, mientras que su módulo o magnitud indica la intensidad (o 'fuerza') del campo magnético en un punto determinado. Un valor de $B$ más alto significa un campo magnético más intenso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_012",
+      "pregunta": "Las propiedades magnéticas de un campo se manifiestan mediante fuerzas sobre otro polo o sobre...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cargas eléctricas en reposo.",
+        "B": "Objetos de cualquier material.",
+        "C": "Masas neutras en reposo.",
+        "D": "Cargas eléctricas en movimiento.",
+        "E": "Campos gravitatorios."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un campo magnético ejerce fuerzas sobre los polos de otros imanes y también sobre cargas eléctricas, pero únicamente si estas se encuentran en movimiento. Las cargas eléctricas en reposo no experimentan ninguna fuerza magnética.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_013",
+      "pregunta": "Si un imán de barra se parte por la mitad, ¿cuál es el resultado esperado de acuerdo con el principio de inseparabilidad de los polos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se obtiene un polo norte aislado y un polo sur aislado.",
+        "B": "Una de las mitades pierde su magnetismo.",
+        "C": "Ambas mitades se convierten en imanes completos, cada uno con su propio polo norte y sur.",
+        "D": "Ambas mitades se repelen violentamente.",
+        "E": "Se crea un único imán con cuatro polos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de que los imanes son dipolos magnéticos y sus polos son inseparables implica que no se pueden crear monopolos magnéticos. Al partir un imán, cada fragmento se convierte instantáneamente en un nuevo imán más pequeño, completo, con su propio polo norte y su propio polo sur.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_014",
+      "pregunta": "¿Por qué el magnetismo del hierro presente en el núcleo de la Tierra no puede ser la causa directa de su campo magnético?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque no hay suficiente hierro en el núcleo.",
+        "B": "Porque la presión en el núcleo es demasiado alta.",
+        "C": "Porque la elevada temperatura del núcleo anularía el magnetismo.",
+        "D": "Porque el hierro del núcleo no es un material ferromagnético.",
+        "E": "Porque la rotación de la Tierra cancela cualquier efecto magnético."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los materiales ferromagnéticos como el hierro pierden sus propiedades magnéticas permanentes cuando se calientan por encima de una temperatura crítica conocida como punto de Curie. La temperatura del núcleo terrestre es muy superior a este punto, por lo que el hierro allí se encuentra en un estado que no puede mantener un magnetismo permanente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_128_015",
+      "pregunta": "La afirmación de que las líneas de inducción magnética nunca se interceptan se debe a que:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las líneas son siempre paralelas por definición.",
+        "B": "La intersección requeriría una cantidad infinita de energía.",
+        "C": "Si se cruzaran, el vector de inducción magnética ($B$) tendría dos direcciones diferentes en el mismo punto, lo cual es imposible.",
+        "D": "Los polos norte y sur se anularían en el punto de intersección.",
+        "E": "Es una convención matemática sin fundamento físico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El vector de inducción magnética ($B$) es tangente a la línea de campo en cada punto. Si dos líneas se cruzaran, habría dos tangentes posibles en el punto de intersección. Esto significaría que el campo magnético tendría dos direcciones simultáneamente en un único punto del espacio, lo cual contradice la naturaleza unívoca del campo vectorial y es físicamente imposible.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 252,
+  "total_temas": 320,
+  "titulo_tema": "Herencia Mendeliana",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_252_001",
+      "pregunta": "¿Qué se entiende por herencia dominante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un tipo de herencia donde los fenotipos de los padres se mezclan para formar uno nuevo.",
+        "B": "Un mecanismo donde ambos alelos se manifiestan por igual en el heterocigoto.",
+        "C": "Un tipo de herencia donde los híbridos solo manifiestan uno de los fenotipos paternos.",
+        "D": "La herencia en la que el alelo recesivo enmascara al dominante.",
+        "E": "Un proceso donde los genes desaparecen en la primera generación y reaparecen en la segunda."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La herencia dominante se define como aquella en la que los individuos heterocigotos (híbridos) expresan únicamente el fenotipo asociado a uno de los alelos, el dominante. Este alelo dominante enmascara por completo la expresión del otro alelo, el recesivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_002",
+      "pregunta": "¿Cuál es la característica principal de la dominancia incompleta o herencia intermedia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El fenotipo del heterocigoto es idéntico al del homocigoto dominante.",
+        "B": "El fenotipo del heterocigoto es una mezcla intermedia entre los fenotipos de ambos homocigotos.",
+        "C": "Solo se manifiesta el fenotipo del homocigoto recesivo.",
+        "D": "Los alelos se fusionan y crean un gen completamente nuevo.",
+        "E": "El heterocigoto muestra ambos fenotipos parentales de forma separada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la dominancia incompleta, el individuo heterocigoto no expresa el fenotipo de ninguno de los parentales puros, sino que presenta un fenotipo intermedio. Un ejemplo clásico es el color rosado de las flores de la planta \"maravilla del Perú\", resultado del cruce entre una planta de flores rojas y una de flores blancas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_003",
+      "pregunta": "En la herencia dominante, ¿qué genotipos manifestarán el carácter dominante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Únicamente el homocigoto recesivo ($$aa$$).",
+        "B": "Únicamente el heterocigoto ($$Aa$$).",
+        "C": "Tanto el homocigoto dominante ($$AA$$) como el heterocigoto ($$Aa$$).",
+        "D": "Únicamente el homocigoto dominante ($$AA$$).",
+        "E": "Tanto el heterocigoto ($$Aa$$) como el homocigoto recesivo ($$aa$$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El carácter dominante se manifiesta siempre que el alelo dominante ($$A$$) esté presente. Por lo tanto, se expresará tanto en individuos homocigotos dominantes, que tienen dos copias del alelo ($$AA$$), como en individuos heterocigotos, que tienen una copia del alelo dominante y una del recesivo ($$Aa$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_004",
+      "pregunta": "¿Bajo qué condición se cumple la independencia de los genes, permitiendo que no se mezclen ni desaparezcan entre generaciones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando los genes están muy juntos en el mismo cromosoma.",
+        "B": "Cuando los genes se encuentran en distintos cromosomas.",
+        "C": "Únicamente cuando los caracteres son dominantes.",
+        "D": "Solo en el caso de la dominancia incompleta.",
+        "E": "Esta condición se cumple siempre sin excepción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La independencia de los genes, un principio clave, se cumple específicamente cuando los genes que regulan los caracteres estudiados están localizados en cromosomas diferentes. Si estuvieran en el mismo cromosoma, tenderían a heredarse juntos, alterando las proporciones esperadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_005",
+      "pregunta": "En la dominancia incompleta, como en la planta \"maravilla del Perú\", ¿cuál es la simbología genética utilizada para representar el fenotipo intermedio (flores rosadas)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$Rr$$",
+        "B": "$$RB$$",
+        "C": "$$N¹N²$$",
+        "D": "$$Nn$$",
+        "E": "$$R+B$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para la dominancia incompleta o herencia intermedia, se utiliza una simbología específica para indicar que no hay una relación de dominancia-recesividad completa. La notación $$N¹N²$$ se usa para representar al individuo heterocigoto que presenta el fenotipo intermedio, diferenciándolo del caso de dominancia completa ($$Aa$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_006",
+      "pregunta": "Al cruzar dos plantas de \"maravilla del Perú\" con flores rosadas, ¿cuál es la proporción fenotípica esperada en la descendencia (generación F2)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "3 rojas : 1 blanca",
+        "B": "1 roja : 1 rosada : 1 blanca",
+        "C": "100% flores rosadas",
+        "D": "1 roja : 2 rosadas : 1 blanca",
+        "E": "3 rosadas : 1 blanca"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este es un resultado clásico de la dominancia incompleta. Al cruzar dos heterocigotos (flores rosadas, $$N¹N²$$), la descendencia F2 mostrará una proporción fenotípica de 1:2:1, que corresponde a 25% de flores rojas ($$N¹N¹$$), 50% de flores rosadas ($$N¹N²$$) y 25% de flores blancas ($$N²N²$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_007",
+      "pregunta": "¿Cuál es la principal diferencia en la manifestación del fenotipo de un individuo heterocigoto ($$Aa$$) en herencia dominante frente a un heterocigoto ($$N¹N²$$) en dominancia incompleta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No hay ninguna diferencia, ambos muestran un fenotipo intermedio.",
+        "B": "El individuo $$Aa$$ muestra el fenotipo dominante, mientras que el $$N¹N²$$ muestra un fenotipo intermedio.",
+        "C": "El individuo $$Aa$$ muestra un fenotipo intermedio, mientras que el $$N¹N²$$ muestra el fenotipo dominante.",
+        "D": "El individuo $$Aa$$ muestra el fenotipo recesivo y el $$N¹N²$$ el dominante.",
+        "E": "Ambos individuos muestran el fenotipo dominante."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental radica en cómo se expresa el genotipo heterocigoto. En la herencia dominante, el alelo dominante ($$A$$) enmascara completamente al recesivo ($$a$$), por lo que el fenotipo de $$Aa$$ es igual al de $$AA$$. En la dominancia incompleta, ningún alelo enmascara al otro, resultando en un fenotipo intermedio para el heterocigoto $$N¹N²$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_008",
+      "pregunta": "En la dominancia incompleta, se menciona que un alelo es responsable de un producto funcional y el otro de uno no funcional. ¿Qué consecuencia tiene esto en el individuo heterocigoto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El producto no funcional anula completamente al producto funcional.",
+        "B": "El individuo produce una cantidad intermedia del producto funcional, resultando en un fenotipo intermedio.",
+        "C": "El organismo compensa produciendo el doble de producto funcional a partir del único alelo activo.",
+        "D": "Se crea un nuevo producto a partir de la combinación de ambos alelos.",
+        "E": "El alelo no funcional se repara y se vuelve funcional."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El mecanismo subyacente de la dominancia incompleta es cuantitativo. El homocigoto con dos alelos funcionales produce una cantidad 'completa' del producto. El heterocigoto, con un solo alelo funcional, produce una cantidad 'intermedia' (aproximadamente la mitad), lo que se traduce en un fenotipo intermedio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_009",
+      "pregunta": "Si en la generación F2 de un cruce de plantas de \"maravilla del Perú\" el 50% de la descendencia tiene flores rosadas, ¿qué nos dice esto sobre su genotipo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son homocigotos dominantes.",
+        "B": "Son homocigotos recesivos.",
+        "C": "La mitad son homocigotos y la otra mitad heterocigotos.",
+        "D": "Son heterocigotos.",
+        "E": "Su genotipo no se puede determinar a partir del fenotipo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la dominancia incompleta, el fenotipo intermedio (rosado) corresponde unívocamente al genotipo heterocigoto ($$N¹N²$$). A diferencia de la dominancia completa, donde el fenotipo dominante puede corresponder a dos genotipos ($$AA$$ y $$Aa$$), aquí la relación fenotipo-genotipo es directa para el rasgo intermedio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_010",
+      "pregunta": "¿Qué significa que el alelo dominante ($$A$$) 'enmascara' al alelo recesivo ($$a$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el alelo $$a$$ es eliminado físicamente del genoma.",
+        "B": "Que la presencia del alelo $$A$$ es suficiente para producir un fenotipo que oculta por completo cualquier efecto del alelo $$a$$.",
+        "C": "Que el alelo $$a$$ se transforma en alelo $$A$$ en presencia de este último.",
+        "D": "Que ambos alelos se expresan, pero el producto de $$A$$ es visualmente más llamativo.",
+        "E": "Que el alelo $$a$$ solo se activa en ausencia total del alelo $$A$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término 'enmascarar' se refiere a la relación funcional entre los alelos en un heterocigoto. El producto del alelo dominante es suficiente para determinar el fenotipo del organismo, haciendo que el fenotipo asociado al alelo recesivo no sea visible, aunque el alelo recesivo siga presente en el genotipo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_011",
+      "pregunta": "La proporción fenotípica $$1:2:1$$ obtenida en la F2 de un cruce con dominancia incompleta es significativa porque...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es idéntica a la proporción genotípica, a diferencia de la dominancia completa.",
+        "B": "Prueba que los genes siempre se mezclan de forma irreversible.",
+        "C": "Es la misma proporción que se obtiene en la herencia dominante.",
+        "D": "Demuestra que el fenotipo es independiente del genotipo.",
+        "E": "Indica que ha ocurrido una mutación en la generación F1."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "En la dominancia completa, el cruce de dos heterocigotos ($$Aa \times Aa$$) da una proporción genotípica de $$1 AA : 2 Aa : 1 aa$$, pero una proporción fenotípica de 3 dominantes : 1 recesivo. En la dominancia incompleta, la proporción fenotípica ($$1 \text{ rojo} : 2 \text{ rosados} : 1 \text{ blanco}$$) refleja directamente la proporción genotípica ($$1 N¹N¹ : 2 N¹N² : 1 N²N²$$), ya que cada genotipo tiene un fenotipo distinto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_012",
+      "pregunta": "La providencial elección de caracteres por parte de Mendel fue clave para sus descubrimientos. ¿Qué habría ocurrido si hubiera estudiado dos caracteres regulados por genes en el mismo cromosoma?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Habría observado los mismos resultados de independencia.",
+        "B": "Los resultados no habrían seguido el patrón de herencia independiente.",
+        "C": "Habría descubierto la dominancia incompleta en su lugar.",
+        "D": "Todos los descendientes habrían sido idénticos a uno de los padres.",
+        "E": "Los genes se habrían fusionado en uno solo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si los genes para dos caracteres diferentes están en el mismo cromosoma, tienden a heredarse juntos (fenómeno conocido como ligamiento), en lugar de segregarse independientemente. Esto habría llevado a resultados que no se ajustarían a las proporciones mendelianas clásicas, complicando la interpretación de que los genes son unidades independientes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_013",
+      "pregunta": "Basado en el mecanismo de la dominancia incompleta, donde un alelo produce una enzima funcional y el otro una no funcional, ¿qué genotipo produciría la mayor cantidad de pigmento rojo en la flor de la \"maravilla del Perú\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El heterocigoto ($$N¹N²$$), porque combina la información de ambos.",
+        "B": "El homocigoto para el alelo no funcional ($$N²N²$$).",
+        "C": "El homocigoto para el alelo funcional, que corresponde al fenotipo rojo.",
+        "D": "Todos los genotipos producirían la misma cantidad de pigmento.",
+        "E": "No es posible determinarlo con la información proporcionada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La intensidad del color rojo es proporcional a la cantidad de producto funcional (pigmento). El homocigoto con dos alelos funcionales (genotipo para flores rojas) producirá la máxima cantidad de pigmento. El heterocigoto ($$N¹N²$$), con un solo alelo funcional, producirá una cantidad intermedia (flor rosada), y el homocigoto con dos alelos no funcionales (genotipo para flores blancas) no producirá pigmento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_014",
+      "pregunta": "En la herencia dominante, un individuo $$AA$$ y un individuo $$Aa$$ tienen el mismo fenotipo. ¿Qué implica esto sobre la función del alelo $$A$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que el alelo $$A$$ necesita la presencia del alelo $$a$$ para funcionar correctamente.",
+        "B": "Que tener dos copias del alelo $$A$$ es perjudicial y el organismo lo compensa.",
+        "C": "Que una sola copia del alelo $$A$$ es suficiente para producir la cantidad de producto necesaria para el fenotipo completo.",
+        "D": "Que el alelo $$a$$ produce una sustancia que imita el efecto del alelo $$A$$.",
+        "E": "Que el fenotipo no está relacionado con la cantidad de producto genético."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El hecho de que el heterocigoto ($$Aa$$) sea fenotípicamente indistinguible del homocigoto dominante ($$AA$$) indica que la dosis de un solo alelo $$A$$ es suficiente para generar el máximo efecto fenotípico. A diferencia de la dominancia incompleta, donde la dosis importa, aquí se alcanza un umbral de producto con una sola copia del alelo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_252_015",
+      "pregunta": "Si la afirmación 'los genes son independientes entre sí' no se cumple siempre, sino solo cuando están en distintos cromosomas, ¿qué se puede deducir sobre la naturaleza de la herencia genética?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que la herencia es un proceso completamente aleatorio y sin reglas.",
+        "B": "Que la ubicación física de los genes en los cromosomas es un factor crítico que afecta cómo se heredan los rasgos.",
+        "C": "Que los genes pueden desaparecer permanentemente si no están en cromosomas separados.",
+        "D": "Que la dominancia y la recesividad de un gen dependen del cromosoma en el que se encuentre.",
+        "E": "Que todos los genes de un organismo se heredan como una única unidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta excepción a la regla de la independencia mendeliana revela una capa más profunda de la genética: la organización física de los genes. Demuestra que los cromosomas actúan como vehículos para los genes, y aquellos que comparten el mismo vehículo (cromosoma) tienden a viajar juntos durante la meiosis, un concepto conocido como ligamiento genético. Por lo tanto, la posición de un gen es fundamental para predecir sus patrones de herencia en combinación con otros genes.",
+      "imagen": null
+    }
+  ]
+}

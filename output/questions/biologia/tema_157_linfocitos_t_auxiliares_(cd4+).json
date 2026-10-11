@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 157,
+  "total_temas": 320,
+  "titulo_tema": "Linfocitos T auxiliares (CD4+)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_157_001",
+      "pregunta": "¿En qué órgano se produce el proceso de maduración de los linfocitos T después de nacer en la médula ósea roja?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En la médula ósea roja",
+        "B": "En los ganglios linfáticos",
+        "C": "En el bazo",
+        "D": "En el Timo",
+        "E": "En el hígado"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos T se originan en la médula ósea roja, pero desde allí viajan a través de la linfa hasta el Timo, que es el órgano linfoide primario donde completan su proceso de maduración y se diferencian en subtipos como los CD4+ y CD8+.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_002",
+      "pregunta": "¿Qué tipo de molécula utilizan los linfocitos T auxiliares (CD4+) para reconocer fragmentos antigénicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anticuerpos de superficie",
+        "B": "Receptores de citoquinas",
+        "C": "Sus TCR (Receptores de Células T)",
+        "D": "Proteínas MHC de clase I",
+        "E": "Perforinas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos T auxiliares (CD4+) utilizan sus Receptores de Células T, conocidos como TCR, para reconocer específicamente los fragmentos de antígenos que les son presentados por otras células del sistema inmunitario.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_003",
+      "pregunta": "La inmunidad celular se caracteriza principalmente por la ausencia de la participación de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Linfocitos T",
+        "B": "Macrófagos",
+        "C": "Anticuerpos",
+        "D": "Células Natural Killer",
+        "E": "Citoquinas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica fundamental de la respuesta inmunitaria celular es que no involucra la acción de anticuerpos. En su lugar, depende de la acción directa de células como los linfocitos T (CD4+ y CD8+), macrófagos y células Natural Killer para eliminar patógenos o células anormales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_004",
+      "pregunta": "¿Sobre qué clase de proteínas MHC presentan las células presentadoras de antígenos los fragmentos antigénicos a los linfocitos T auxiliares (CD4+)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Proteínas MHC de clase I",
+        "B": "Proteínas MHC de clase II",
+        "C": "Proteínas MHC de clase III",
+        "D": "Receptores TCR",
+        "E": "Inmunoglobulinas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los linfocitos T auxiliares (CD4+) están especializados en reconocer fragmentos antigénicos que son expuestos en la superficie de las células presentadoras de antígenos (como los macrófagos) a través de las proteínas del Complejo Mayor de Histocompatibilidad (MHC) de clase II.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_005",
+      "pregunta": "¿Cuál es el lugar de origen de los linfocitos T antes de que migren para madurar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El Timo",
+        "B": "La linfa",
+        "C": "Los ganglios linfáticos",
+        "D": "El bazo",
+        "E": "La médula ósea roja"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Todos los linfocitos, incluyendo los linfocitos T, nacen o se originan a partir de células madre hematopoyéticas localizadas en la médula ósea roja. Posteriormente, los precursores de los linfocitos T migran al timo para completar su maduración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_006",
+      "pregunta": "¿Cuál es la principal consecuencia de la interacción entre un linfocito T auxiliar (CD4+) y una célula presentadora de antígenos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La destrucción inmediata de la célula presentadora de antígenos.",
+        "B": "La producción de anticuerpos por parte del linfocito T.",
+        "C": "La liberación de citoquinas por el linfocito T auxiliar.",
+        "D": "La fagocitosis del linfocito T por parte del macrófago.",
+        "E": "La transformación del linfocito T en una célula de memoria."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando un linfocito T auxiliar (CD4+) reconoce un antígeno presentado por una célula presentadora, se activa. Esta activación desencadena una respuesta que incluye la liberación de citoquinas, moléculas de señalización que coordinan y amplifican la respuesta inmunitaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_007",
+      "pregunta": "Las citoquinas liberadas por los linfocitos T auxiliares (CD4+) tienen una doble función, que consiste en:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Inducir apoptosis y abrir poros en la célula diana.",
+        "B": "Estimular la producción de MHC-I y MHC-II.",
+        "C": "Neutralizar toxinas y opsonizar bacterias.",
+        "D": "Atraer neutrófilos e inducir la fiebre.",
+        "E": "Estimular la proliferación de linfocitos y la actividad de las células presentadoras."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Las citoquinas liberadas por los linfocitos T auxiliares actúan como potentes mensajeros. Por un lado, promueven la proliferación (expansión clonal) de los propios linfocitos T para aumentar el número de células específicas contra el antígeno. Por otro lado, potencian la actividad de las células presentadoras de antígenos, como los macrófagos, mejorando su capacidad para eliminar patógenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_008",
+      "pregunta": "¿Qué diferencia fundamental existe en el reconocimiento de antígenos entre los linfocitos T CD4+ y los T CD8+?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los CD4+ reconocen antígenos libres en la sangre y los CD8+ reconocen antígenos en células.",
+        "B": "Los CD4+ reconocen antígenos en MHC de clase II, mientras que los CD8+ los reconocen en MHC de clase I.",
+        "C": "Los CD4+ utilizan anticuerpos para el reconocimiento y los CD8+ utilizan sus TCR.",
+        "D": "Los CD4+ reconocen antígenos de virus y los CD8+ reconocen antígenos de bacterias.",
+        "E": "Los CD4+ maduran en el timo y los CD8+ maduran en la médula ósea."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La principal distinción funcional en el reconocimiento radica en el tipo de molécula MHC que presenta el antígeno. Los linfocitos T auxiliares (CD4+) se especializan en reconocer antígenos presentados por células presentadoras de antígenos en moléculas MHC de clase II. En cambio, los linfocitos T citotóxicos (CD8+) reconocen antígenos presentados por casi cualquier célula del cuerpo (infectada o tumoral) en moléculas MHC de clase I.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_009",
+      "pregunta": "De acuerdo con el proceso descrito, un macrófago que ha fagocitado y digerido parcialmente un microorganismo invasor, presentará los fragmentos antigénicos a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Linfocitos B para iniciar la producción de anticuerpos.",
+        "B": "Linfocitos T citotóxicos (CD8+) para que destruyan al macrófago.",
+        "C": "Células Natural Killer para una respuesta inespecífica.",
+        "D": "Linfocitos T auxiliares (CD4+) a través de proteínas MHC de clase II.",
+        "E": "Otros macrófagos para inducir una fagocitosis en cadena."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los macrófagos son células presentadoras de antígenos profesionales. Después de fagocitar un patógeno, procesan sus proteínas y presentan los fragmentos resultantes en sus moléculas MHC de clase II. Esta presentación está específicamente dirigida a la activación de los linfocitos T auxiliares (CD4+), que orquestarán la respuesta inmune subsiguiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_010",
+      "pregunta": "La inmunidad celular, donde participan los linfocitos T, está implicada en procesos como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La producción masiva de anticuerpos contra toxinas.",
+        "B": "La respuesta alérgica mediada por histamina.",
+        "C": "El rechazo primario de trasplantes y la eliminación de células transformantes.",
+        "D": "La neutralización de virus en la sangre antes de que infecten las células.",
+        "E": "La inmunidad pasiva transferida de madre a hijo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunidad celular es crucial para identificar y eliminar células propias que han sido alteradas, como las células infectadas por virus, las células tumorales (transformantes) o las células de un órgano trasplantado que son reconocidas como extrañas. Por ello, es un actor principal en el rechazo de trasplantes y la vigilancia tumoral.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_011",
+      "pregunta": "Además de los linfocitos T CD4+ y CD8+, ¿qué otros tipos de células se mencionan como participantes en la inmunidad celular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Linfocitos B y células plasmáticas",
+        "B": "Neutrófilos y basófilos",
+        "C": "Mastocitos y eosinófilos",
+        "D": "Natural Killer y macrófagos activados",
+        "E": "Células dendríticas y eritrocitos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La respuesta inmunitaria celular es un esfuerzo coordinado de varios tipos de células. El contenido especifica que, además de los linfocitos T CD4+ y CD8+, también participan las células Natural Killer (NK) y los macrófagos que han sido activados por las propias células T.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_012",
+      "pregunta": "¿Qué mecanismo permite la especificidad en el reconocimiento de antígenos tanto en linfocitos CD4+ como en CD8+?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La liberación de perforinas y fragmentinas.",
+        "B": "La estructura única de sus receptores TCR.",
+        "C": "La capacidad de fagocitar patógenos.",
+        "D": "La secreción de interleucinas.",
+        "E": "La expresión de moléculas MHC en su superficie."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La especificidad del reconocimiento de un linfocito T por un antígeno concreto reside en la estructura molecular de su Receptor de Célula T (TCR). Cada linfocito T tiene un TCR único que solo puede unirse a un fragmento antigénico específico (epítopo) presentado por una molécula MHC, garantizando una respuesta altamente dirigida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_013",
+      "pregunta": "Si una mutación genética impidiera la expresión funcional de las proteínas MHC de clase II en los macrófagos de un individuo, ¿cuál sería la consecuencia más directa para la respuesta inmunitaria celular?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los linfocitos T citotóxicos (CD8+) no podrían destruir células infectadas.",
+        "B": "Los linfocitos T auxiliares (CD4+) no podrían ser activados por los macrófagos.",
+        "C": "Los linfocitos B no podrían producir anticuerpos.",
+        "D": "Las células Natural Killer atacarían indiscriminadamente a los macrófagos.",
+        "E": "Los macrófagos no podrían fagocitar microorganismos invasores."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La activación de los linfocitos T auxiliares (CD4+) depende críticamente del reconocimiento de antígenos presentados en moléculas MHC de clase II. Si los macrófagos (células presentadoras de antígenos) no pueden expresar estas moléculas, el primer paso de la activación de los CD4+ falla. Esto impediría que estos linfocitos orquesten y ayuden a otras partes de la respuesta inmune, pero la activación de los CD8+ (que dependen de MHC-I) no se vería directamente afectada por esta vía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_014",
+      "pregunta": "¿Cuál de las siguientes secuencias describe correctamente la activación y función inicial de un linfocito T auxiliar (CD4+)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Liberación de citoquinas -> Reconocimiento del antígeno -> Proliferación del linfocito.",
+        "B": "Reconocimiento del antígeno en MHC-II por el TCR -> Liberación de citoquinas -> Estimulación de la proliferación de linfocitos.",
+        "C": "Inyección de perforinas -> Reconocimiento del antígeno -> Apoptosis de la célula presentadora.",
+        "D": "Proliferación del linfocito -> Viaje al timo para madurar -> Liberación de citoquinas.",
+        "E": "Fagocitosis del patógeno -> Presentación en MHC-I -> Liberación de anticuerpos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El proceso de activación sigue un orden lógico y específico. Primero, el linfocito T auxiliar debe reconocer el fragmento antigénico presentado en una molécula MHC de clase II a través de su TCR. Esta interacción es la señal de activación, que desencadena la liberación de citoquinas. Finalmente, estas citoquinas actúan para promover la proliferación de más linfocitos (expansión clonal) y activar otras células inmunes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_157_015",
+      "pregunta": "Un linfocito T auxiliar (CD4+) se encuentra con una célula de la piel infectada por un virus que presenta un antígeno viral en una molécula MHC de clase I. ¿Cuál sería la reacción del linfocito CD4+?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Liberaría citoquinas para activar a la célula de la piel.",
+        "B": "Destruiría a la célula de la piel inyectándole perforinas y fragmentinas.",
+        "C": "No habría ninguna interacción, ya que los CD4+ reconocen antígenos en MHC de clase II.",
+        "D": "Se transformaría en un linfocito T citotóxico (CD8+) para poder actuar.",
+        "E": "Fagocitaría a la célula de la piel infectada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este escenario pone a prueba la especificidad del reconocimiento. Los linfocitos T auxiliares (CD4+) están 'programados' para interactuar exclusivamente con antígenos presentados en moléculas MHC de clase II, típicas de las células presentadoras de antígenos. Una célula de la piel infectada presentaría el antígeno viral en MHC de clase I, que es la señal para los linfocitos T citotóxicos (CD8+). Por lo tanto, el linfocito CD4+ no reconocería el complejo y no se activaría en esta situación.",
+      "imagen": null
+    }
+  ]
+}

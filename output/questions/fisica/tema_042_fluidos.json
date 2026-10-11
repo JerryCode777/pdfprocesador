@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 42,
+  "total_temas": 137,
+  "titulo_tema": "Fluidos",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_042_001",
+      "pregunta": "¿Qué característica principal define a un fluido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tener una forma y volumen fijos.",
+        "B": "Ser una sustancia que puede escurrir y cambiar de forma fácilmente.",
+        "C": "Estar compuesto únicamente por moléculas de agua.",
+        "D": "Ser siempre visible y tangible.",
+        "E": "Tener una estructura molecular perfectamente ordenada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un fluido se define como una sustancia que puede escurrir y cambiar su forma debido a la acción de fuerzas pequeñas. Esta propiedad es característica tanto de líquidos como de gases, los cuales no tienen una forma fija y se adaptan al recipiente que los contiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_002",
+      "pregunta": "¿Cuál es la expresión matemática que representa la densidad ($$\\rho$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\rho = m \\cdot V$$",
+        "B": "$$\\rho = \\frac{V}{m}$$",
+        "C": "$$\\rho = m + V$$",
+        "D": "$$\\rho = \\frac{m}{V}$$",
+        "E": "$$\\rho = V - m$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La densidad, representada por la letra griega rho ($$\\rho$$), es una magnitud que relaciona la masa ($$m$$) de un cuerpo con el volumen ($$V$$) que ocupa. Se calcula dividiendo la masa entre el volumen, de acuerdo con la fórmula $$\\rho = \\frac{m}{V}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_003",
+      "pregunta": "¿Qué estados de la materia son considerados fluidos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólidos y líquidos",
+        "B": "Sólidos y gases",
+        "C": "Líquidos y gases",
+        "D": "Únicamente los líquidos",
+        "E": "Plasma y sólidos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto los líquidos como los gases se clasifican como fluidos. Comparten la propiedad de que sus moléculas no están en posiciones fijas, lo que les permite fluir y adaptarse a la forma de sus contenedores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_004",
+      "pregunta": "¿Qué es un fluido ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un fluido que es perfectamente compresible.",
+        "B": "Un fluido que no tiene ningún tipo de viscosidad.",
+        "C": "Un fluido con una densidad extremadamente alta.",
+        "D": "Cualquier fluido que se encuentre en la naturaleza.",
+        "E": "Un fluido que solo puede ser un líquido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un fluido ideal es un modelo teórico utilizado para simplificar el estudio del movimiento de los fluidos. Su característica principal es la ausencia total de viscosidad, que es la fricción interna entre las moléculas del fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_005",
+      "pregunta": "La densidad es una magnitud escalar que representa la cantidad de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Volumen por cada unidad de masa.",
+        "B": "Fuerza por cada unidad de superficie.",
+        "C": "Materia por cada unidad de volumen.",
+        "D": "Energía por cada unidad de masa.",
+        "E": "Peso por cada unidad de área."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición fundamental de la densidad es la cantidad de masa (materia) contenida en una unidad de volumen. Mide qué tan compacta está la materia en un cuerpo o sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_006",
+      "pregunta": "¿Cuál es la razón principal por la que los globos de Cantoya flotan en el aire atmosférico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El papel del globo es más ligero que el aire.",
+        "B": "La llama empuja el globo hacia arriba.",
+        "C": "El aire caliente dentro del globo es menos denso que el aire más frío que lo rodea.",
+        "D": "La forma del globo le permite cortar el viento.",
+        "E": "El aire caliente es más viscoso y genera sustentación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los globos de Cantoya flotan por un principio de empuje hidrostático. Al calentar el aire dentro del globo, sus moléculas se expanden, ocupando más volumen y disminuyendo su densidad. Como este aire caliente es menos denso que el aire atmosférico más frío y denso que lo rodea, el globo experimenta una fuerza de empuje hacia arriba que lo hace flotar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_007",
+      "pregunta": "¿Qué diferencia existe en cuanto a la compresibilidad entre líquidos y gases?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos son totalmente incompresibles.",
+        "B": "Los líquidos son muy compresibles y los gases lo son poco.",
+        "C": "No hay diferencia, ambos son igualmente compresibles.",
+        "D": "Los gases son muy compresibles, mientras que los líquidos lo son muy poco.",
+        "E": "Únicamente los gases pueden ser comprimidos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una propiedad distintiva de los fluidos es su compresibilidad. Los gases son muy compresibles, lo que significa que su volumen puede reducirse significativamente al aplicar una fuerza. En cambio, los líquidos son considerados poco compresibles; su volumen apenas cambia bajo presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_008",
+      "pregunta": "Si se tienen dos objetos de volúmenes diferentes pero fabricados con el mismo material, ¿cómo serán sus densidades?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El objeto de mayor volumen tendrá mayor densidad.",
+        "B": "El objeto de menor volumen tendrá mayor densidad.",
+        "C": "Ambos objetos tendrán la misma densidad.",
+        "D": "La densidad será cero para ambos.",
+        "E": "No se puede determinar sin conocer sus masas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La densidad es una propiedad intensiva del material, lo que significa que no depende de la cantidad de materia. Por lo tanto, dos objetos hechos del mismo material tendrán la misma densidad, independientemente de sus masas o volúmenes, ya que la relación entre masa y volumen ($$\\rho = m/V$$) se mantiene constante para esa sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_009",
+      "pregunta": "La afirmación \"la densidad es una propiedad intensiva\" significa que su valor:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta proporcionalmente con la masa.",
+        "B": "Depende de la forma geométrica del cuerpo.",
+        "C": "Es el mismo para todas las sustancias.",
+        "D": "No depende de la masa ni del volumen del cuerpo estudiado.",
+        "E": "Cambia dependiendo de la temperatura y la presión."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las propiedades intensivas son aquellas que no dependen de la cantidad de materia del sistema. La densidad es un ejemplo claro: un pequeño trozo de hierro tiene la misma densidad que una gran viga de hierro. Su valor es intrínseco al material, no a la cantidad que se tenga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_010",
+      "pregunta": "¿Cuál es la característica que diferencia fundamentalmente a un fluido real de un fluido ideal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La compresibilidad",
+        "B": "La densidad",
+        "C": "La temperatura",
+        "D": "La viscosidad",
+        "E": "La energía interna"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La distinción clave entre un fluido real (que se encuentra en la naturaleza) y un fluido ideal (un modelo teórico) es la viscosidad. Los fluidos reales siempre presentan algún grado de fricción interna o viscosidad, mientras que los fluidos ideales se definen como aquellos que carecen por completo de ella para simplificar su análisis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_011",
+      "pregunta": "Un conjunto de moléculas que se ordenan aleatoriamente y se mantienen juntas por fuerzas cohesivas débiles corresponde a la definición de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un sólido cristalino",
+        "B": "Un fluido",
+        "C": "Un metal",
+        "D": "Un compuesto iónico",
+        "E": "Un coloide"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta descripción corresponde a la estructura molecular de un fluido. A diferencia de los sólidos, donde las moléculas tienen posiciones fijas, en los fluidos las moléculas están dispuestas al azar y unidas por fuerzas cohesivas débiles, lo que les permite moverse y fluir.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_012",
+      "pregunta": "¿Cuál de las siguientes listas menciona únicamente propiedades fundamentales de los fluidos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Masa, peso y aceleración",
+        "B": "Color, sabor y olor",
+        "C": "Densidad, presión, temperatura y viscosidad",
+        "D": "Elasticidad, dureza y maleabilidad",
+        "E": "Longitud, área y volumen"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las propiedades fundamentales que caracterizan el estado y comportamiento de un fluido incluyen la densidad, la presión, la temperatura, la energía interna y la viscosidad. Las otras opciones listan propiedades generales de la materia o de los sólidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_013",
+      "pregunta": "Un material tiene una densidad de $$2.5 \\frac{g}{cm^3}$$. Para expresar este valor en unidades del Sistema Internacional ($$\\frac{kg}{m^3}$$), se debe multiplicar por 1000. ¿Cuál es el valor convertido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$0.0025 \\frac{kg}{m^3}$$",
+        "B": "$$25 \\frac{kg}{m^3}$$",
+        "C": "$$250 \\frac{kg}{m^3}$$",
+        "D": "$$2500 \\frac{kg}{m^3}$$",
+        "E": "$$0.25 \\frac{kg}{m^3}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para convertir la densidad de $$\\frac{g}{cm^3}$$ a $$\\frac{kg}{m^3}$$, se utiliza el factor de conversión 1000. Por lo tanto, se realiza la siguiente operación: $$2.5 \\frac{g}{cm^3} \\times 1000 = 2500 \\frac{kg}{m^3}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_014",
+      "pregunta": "Se tienen dos bloques, A y B, del mismo material. El bloque B tiene el triple de masa ($$m_B = 3m_A$$) y el triple de volumen ($$V_B = 3V_A$$) que el bloque A. ¿Cómo se relaciona la densidad del bloque B ($$\\rho_B$$) con la del bloque A ($$\\rho_A$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\rho_B = 3\\rho_A$$",
+        "B": "$$\\rho_B = 9\\rho_A$$",
+        "C": "$$\\rho_B = \\frac{1}{3}\\rho_A$$",
+        "D": "$$\\rho_B = \\rho_A$$",
+        "E": "$$\\rho_B = 6\\rho_A$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La densidad es una propiedad intensiva del material, por lo que no cambia con la cantidad de sustancia. Como ambos bloques son del mismo material, sus densidades deben ser iguales. Matemáticamente, la densidad de A es $$\\rho_A = \\frac{m_A}{V_A}$$. La densidad de B es $$\\rho_B = \\frac{m_B}{V_B} = \\frac{3m_A}{3V_A} = \\frac{m_A}{V_A} = \\rho_A$$. Por lo tanto, $$\\rho_B = \\rho_A$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_042_015",
+      "pregunta": "Un objeto tiene una masa de $$400$$ g y ocupa un volumen de $$50$$ cm³. ¿Cuál es la densidad del material del que está hecho?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$0.125 \\frac{g}{cm^3}$$",
+        "B": "$$20000 \\frac{g}{cm^3}$$",
+        "C": "$$8 \\frac{g}{cm^3}$$",
+        "D": "$$350 \\frac{g}{cm^3}$$",
+        "E": "$$450 \\frac{g}{cm^3}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para calcular la densidad, se utiliza la fórmula $$\\rho = \\frac{m}{V}$$. Sustituyendo los valores dados, la masa $$m = 400$$ g y el volumen $$V = 50$$ cm³, se obtiene: $$\\rho = \\frac{400 \\text{ g}}{50 \\text{ cm}^3} = 8 \\frac{g}{cm^3}$$.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 140,
+  "total_temas": 320,
+  "titulo_tema": "Linfocitos B",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_140_001",
+      "pregunta": "¿En qué lugar del cuerpo humano se forman los linfocitos B?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En el timo",
+        "B": "En la médula ósea roja",
+        "C": "En los ganglios linfáticos",
+        "D": "En el bazo",
+        "E": "En el hígado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los linfocitos B, al igual que otros componentes sanguíneos, se forman y maduran en la médula ósea roja. El timo es el lugar de maduración de los linfocitos T, no de los B. Los ganglios linfáticos y el bazo son órganos linfoides secundarios donde los linfocitos se activan, pero no donde se forman.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_002",
+      "pregunta": "¿Cuál es la función principal de los linfocitos B una vez que se activan?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inducir la apoptosis en células dañadas",
+        "B": "Actuar como barrera epitelial física",
+        "C": "Producir y secretar anticuerpos",
+        "D": "Reconocer antígenos propios en el timo",
+        "E": "Generar una respuesta inflamatoria inmediata"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La función característica de los linfocitos B es su capacidad para producir anticuerpos (inmunoglobulinas). Al reconocer un antígeno específico, se activan y se diferencian en células plasmáticas, que son las fábricas de anticuerpos. La inducción de apoptosis es propia de los linfocitos Natural Killer y T citotóxicos, mientras que la inflamación es parte de la respuesta innata.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_003",
+      "pregunta": "¿A qué rama del sistema inmunitario pertenecen los linfocitos B?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sistema inmune innato",
+        "B": "Sistema inmune adaptativo",
+        "C": "Barreras físicas y químicas",
+        "D": "Inmunidad celular únicamente",
+        "E": "Sistema de complemento"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los linfocitos B son un componente clave del sistema inmune adaptativo. Este sistema se caracteriza por su especificidad (reconocen antígenos únicos) y memoria, a diferencia del sistema inmune innato, que es inespecífico y no genera memoria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_004",
+      "pregunta": "¿Qué tipo de linfocito participa en el sistema inmune innato y es capaz de reconocer células estresadas o dañadas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Linfocito B",
+        "B": "Linfocito T",
+        "C": "Célula plasmática",
+        "D": "Linfocito Natural Killer",
+        "E": "Leucocito"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos Natural Killer (NK) son parte del sistema inmune innato. Su función es patrullar el organismo y reconocer células que muestran signos de estrés, como las células tumorales o las infectadas por virus, para eliminarlas mediante citotoxicidad. Los linfocitos B y T pertenecen al sistema adaptativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_005",
+      "pregunta": "La respuesta inmunitaria humoral se basa principalmente en la acción de moléculas producidas por los linfocitos B. ¿Cuáles son estas moléculas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Perforinas y granzimas",
+        "B": "Antígenos leucocitarios humanos (HLA)",
+        "C": "Citocinas inflamatorias",
+        "D": "Anticuerpos o inmunoglobulinas",
+        "E": "Receptores de células T"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La respuesta inmunitaria humoral tiene como componentes principales y efectores a los anticuerpos, también conocidos como inmunoglobulinas. Estas proteínas son producidas y secretadas por los linfocitos B (específicamente, por las células plasmáticas derivadas de ellos) para combatir microorganismos extracelulares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_006",
+      "pregunta": "¿Qué evento desencadena la activación de un linfocito B y su posterior conversión en una célula plasmática?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La llegada a la madurez en el timo",
+        "B": "La liberación de perforinas y granzimas",
+        "C": "El reconocimiento de un antígeno específico",
+        "D": "El inicio de una respuesta inflamatoria",
+        "E": "La detección de una célula estresada"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El paso crucial para que un linfocito B se active es el reconocimiento de un antígeno para el cual es específico. Una vez que su receptor de membrana (una inmunoglobulina) se une a este antígeno, el linfocito B se activa, prolifera y se diferencia en una célula plasmática, cuya función es producir masivamente anticuerpos contra ese mismo antígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_007",
+      "pregunta": "Aunque tanto los linfocitos B como los T se originan en la médula ósea roja, ¿cuál es la principal diferencia en su proceso de maduración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los linfocitos B maduran en la médula ósea, mientras que los T migran al timo para madurar.",
+        "B": "Los linfocitos T maduran en la médula ósea, mientras que los B migran al timo para madurar.",
+        "C": "Ambos tipos de linfocitos maduran completamente en la médula ósea roja.",
+        "D": "Ambos tipos de linfocitos migran al timo para completar su maduración.",
+        "E": "Los linfocitos B maduran en los ganglios y los T en la médula ósea."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La diferencia fundamental radica en el sitio de maduración. Los linfocitos B completan su formación y maduración en la médula ósea (de ahí la 'B' de bone, hueso en inglés). En cambio, los linfocitos T, aunque se originan en la médula ósea, deben viajar al timo para pasar por un proceso de selección y maduración donde aprenden a distinguir lo propio de lo ajeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_008",
+      "pregunta": "¿Cómo ejercen su efecto citotóxico los linfocitos Natural Killer?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Secretando anticuerpos que marcan la célula para su destrucción",
+        "B": "Presentando el antígeno de la célula dañada a los linfocitos T",
+        "C": "Liberando gránulos con perforinas y granzimas que inician la apoptosis",
+        "D": "Induciendo una respuesta inflamatoria localizada alrededor de la célula",
+        "E": "Lisando la célula por fenómenos osmóticos mediante el MHC"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos Natural Killer (NK) contienen gránulos citotóxicos. Al reconocer una célula diana (estresada, tumoral o infectada), liberan el contenido de estos gránulos. Las perforinas crean poros en la membrana de la célula diana, y las granzimas ingresan a través de ellos para activar las vías de la apoptosis o muerte celular programada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_009",
+      "pregunta": "¿Por qué la respuesta inmune innata no mejora con exposiciones repetidas al mismo microorganismo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque los anticuerpos que produce son de corta duración",
+        "B": "Porque no guarda ninguna información del organismo ni de la respuesta generada",
+        "C": "Porque depende de la maduración de células en el timo, que es un proceso lento",
+        "D": "Porque su única función es presentar antígenos al sistema adaptativo",
+        "E": "Porque se especializa únicamente en la defensa antivírica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una característica definitoria de la inmunidad innata es la ausencia de memoria inmunológica. Responde de la misma manera y con la misma intensidad cada vez que se encuentra con un patógeno, ya que sus componentes no están diseñados para 'recordar' encuentros previos. La memoria es una propiedad exclusiva del sistema inmune adaptativo (linfocitos B y T).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_010",
+      "pregunta": "¿Cuál es el papel fundamental del Complejo Mayor de Histocompatibilidad (MHC) en la respuesta inmune específica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Destruir directamente a los microorganismos mediante lisis osmótica",
+        "B": "Unir y presentar péptidos antigénicos a los linfocitos T",
+        "C": "Actuar como receptores en los linfocitos B para reconocer toxinas",
+        "D": "Formar parte de los gránulos de los linfocitos Natural Killer",
+        "E": "Ser el principal componente de la respuesta inflamatoria"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El MHC (también conocido como HLA en humanos) actúa como una plataforma de presentación. Las células procesan proteínas extrañas (antígenos) en pequeños fragmentos (péptidos) y los exhiben en su superficie unidos a moléculas de MHC. Esta presentación es esencial para que los linfocitos T puedan reconocer el antígeno e iniciar la respuesta inmune específica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_011",
+      "pregunta": "La respuesta inmunitaria humoral, mediada por linfocitos B, es el mecanismo de defensa más importante contra ¿qué tipo de agentes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Células infectadas por virus y células tumorales",
+        "B": "Microorganismos intracelulares obligados",
+        "C": "Microorganismos extracelulares y sus toxinas",
+        "D": "Células propias estresadas o dañadas",
+        "E": "Tejidos trasplantados incompatibles"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La respuesta humoral es particularmente efectiva contra patógenos que se encuentran fuera de las células, en los fluidos corporales como la sangre o la linfa. Los anticuerpos secretados pueden unirse a estos microorganismos extracelulares o a sus toxinas, neutralizándolos y facilitando su eliminación. La defensa contra células infectadas o tumorales es principalmente tarea de la inmunidad celular (linfocitos T y NK).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_012",
+      "pregunta": "Existen dos tipos principales de inmunoglobulinas: de membrana y circulantes. ¿Cuál es la función principal de las inmunoglobulinas circulantes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Actuar como receptores en la superficie del linfocito B",
+        "B": "Presentar antígenos a los linfocitos T",
+        "C": "Ser los auténticos efectores de la respuesta inmunitaria humoral",
+        "D": "Iniciar la maduración del linfocito B en la médula ósea",
+        "E": "Mediar la citotoxicidad de los linfocitos Natural Killer"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las inmunoglobulinas circulantes, también llamadas anticuerpos, son las moléculas que viajan por el torrente sanguíneo y otros fluidos para encontrar y neutralizar patógenos. Son, por tanto, los efectores directos de la inmunidad humoral. Las inmunoglobulinas de membrana, en cambio, permanecen ancladas al linfocito B y funcionan como receptores que detectan la presencia del antígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_013",
+      "pregunta": "Si un individuo nace con una agenesia del timo (ausencia de este órgano), ¿qué proceso de la inmunidad adaptativa se vería más directamente afectado?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La formación y maduración de los linfocitos B en la médula ósea",
+        "B": "La producción de perforinas y granzimas por los linfocitos NK",
+        "C": "La capacidad de los linfocitos T para reconocer antígenos propios y ajenos",
+        "D": "La respuesta inflamatoria inicial frente a una lesión tisular",
+        "E": "La producción de inmunoglobulinas de membrana por parte de los linfocitos B"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El timo es el órgano indispensable para la maduración de los linfocitos T. Es allí donde estas células 'aprenden' a diferenciar las estructuras propias del cuerpo de las extrañas. Sin timo, los linfocitos T no podrían madurar correctamente, lo que anularía su capacidad funcional y comprometería gravemente toda la rama celular de la inmunidad adaptativa y la colaboración con los linfocitos B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_014",
+      "pregunta": "Considerando la secuencia de eventos de la inmunidad humoral, ¿cuál de las siguientes opciones describe el proceso en el orden correcto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un linfocito T presenta un antígeno a una célula plasmática para que produzca anticuerpos.",
+        "B": "Un linfocito B reconoce un antígeno, se activa, se convierte en célula plasmática y esta produce anticuerpos.",
+        "C": "El MHC de una célula dañada activa directamente a un linfocito B para que libere perforinas.",
+        "D": "La inflamación causa que los linfocitos B maduren en el timo y se conviertan en células de memoria.",
+        "E": "Un anticuerpo reconoce a una célula estresada, activando a un linfocito NK para que se convierta en célula plasmática."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta opción describe la cascada de activación canónica del linfocito B. El proceso se inicia con el reconocimiento del antígeno específico por parte del receptor del linfocito B. Esto conduce a la activación celular, que implica la proliferación y diferenciación en células plasmáticas, las cuales son las responsables finales de la producción masiva de anticuerpos circulantes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_140_015",
+      "pregunta": "Si una mutación genética impidiera que el Complejo Mayor de Histocompatibilidad (MHC) presentara péptidos antigénicos en la superficie celular, ¿cuál sería la consecuencia más directa para la respuesta inmune específica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los linfocitos Natural Killer perderían su capacidad citolítica.",
+        "B": "La respuesta inmune innata se detendría por completo.",
+        "C": "Los linfocitos B no podrían formarse en la médula ósea.",
+        "D": "Los linfocitos T no podrían reconocer los antígenos y, por tanto, no se activarían.",
+        "E": "Los anticuerpos no podrían unirse a los microorganismos extracelulares."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La función principal del MHC es presentar antígenos a los linfocitos T. Si el MHC no puede cumplir esta función, los linfocitos T no tendrían forma de 'ver' que una célula está infectada o que hay un antígeno presente. Como la activación de los linfocitos T es un pilar central de la inmunidad adaptativa (tanto para la respuesta celular como para la ayuda a los linfocitos B), su fallo en la activación paralizaría la respuesta inmune específica.",
+      "imagen": null
+    }
+  ]
+}

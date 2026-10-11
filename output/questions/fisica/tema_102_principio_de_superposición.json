@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 102,
+  "total_temas": 137,
+  "titulo_tema": "Principio de Superposición",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_102_001",
+      "pregunta": "¿Cómo se define una carga puntual en el contexto de los campos eléctricos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una carga que tiene un valor numérico de 1.",
+        "B": "Una carga cuyas dimensiones espaciales son muy pequeñas en comparación con las longitudes pertinentes del problema.",
+        "C": "Cualquier carga que esté fija en una posición del espacio.",
+        "D": "Una carga utilizada específicamente para realizar pruebas, conocida como $$q_₀$$.",
+        "E": "La unidad fundamental de carga en el sistema internacional."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una carga puntual es aquella que, para fines prácticos en un problema, puede considerarse que ocupa un único punto en el espacio. Esto es válido cuando su tamaño físico es insignificante en comparación con las distancias a otros objetos o puntos de interés.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_002",
+      "pregunta": "¿Cuál es la función principal de las líneas de campo eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Determinar la masa de las partículas cargadas.",
+        "B": "Medir la temperatura en una región con cargas.",
+        "C": "Representar visualmente el campo eléctrico en una región del espacio.",
+        "D": "Mostrar la trayectoria exacta que seguirá una partícula.",
+        "E": "Cuantificar el número de cargas fuente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las líneas de campo eléctrico son una construcción imaginaria, una herramienta gráfica que ayuda a visualizar la dirección y la intensidad relativa del campo eléctrico en diferentes puntos de una región del espacio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_003",
+      "pregunta": "¿Qué establece el Principio de Superposición para los campos eléctricos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El campo eléctrico más fuerte anula a todos los demás.",
+        "B": "El campo eléctrico total es el promedio de los campos individuales.",
+        "C": "El campo eléctrico total es la suma vectorial de los campos que cada carga produce de forma independiente.",
+        "D": "El campo eléctrico es siempre constante en presencia de múltiples cargas.",
+        "E": "El campo eléctrico total es el producto de las magnitudes de los campos individuales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Principio de Superposición establece que para encontrar el campo eléctrico neto en un punto, debido a varias cargas, se debe calcular el campo de cada carga individualmente en ese punto y luego sumar todos esos campos como vectores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_004",
+      "pregunta": "En cualquier punto de una línea de campo eléctrico, ¿qué relación guarda el vector campo eléctrico ($$E$$) con la línea?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es perpendicular a la línea.",
+        "B": "Es tangente a la línea.",
+        "C": "Apunta hacia el origen de la línea.",
+        "D": "Es paralelo a la línea.",
+        "E": "Tiene un ángulo de 45 grados con la línea."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por definición, la dirección del vector de campo eléctrico ($$E$$) en un punto cualquiera del espacio es siempre tangente a la línea de campo que pasa por ese punto. Esto indica la dirección de la fuerza que actuaría sobre una carga de prueba positiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_005",
+      "pregunta": "¿Cuál es una característica fundamental de una carga de prueba ($$q_₀$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Debe ser siempre negativa.",
+        "B": "Debe tener una magnitud igual a la de la carga fuente.",
+        "C": "Debe ser lo suficientemente grande para generar un campo fuerte.",
+        "D": "Debe ser lo suficientemente pequeña como para no perturbar el campo que se mide.",
+        "E": "Debe estar en movimiento constante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El propósito de una carga de prueba es \"sondear\" el campo eléctrico existente sin alterarlo. Si la carga de prueba fuera grande, su propio campo eléctrico modificaría la distribución de las cargas fuente, cambiando así el campo que se intenta medir.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_006",
+      "pregunta": "La fórmula del Principio de Superposición es $$E_p = E_1 + E_2 + E_3 + ...$$. ¿Qué tipo de operación matemática representa el símbolo \"+\" en esta ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Suma algebraica de las magnitudes.",
+        "B": "Suma vectorial.",
+        "C": "Producto punto.",
+        "D": "Suma aritmética simple.",
+        "E": "Producto cruz."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Dado que el campo eléctrico ($$E$$) es una cantidad vectorial (tiene magnitud y dirección), la suma de múltiples campos debe realizarse siguiendo las reglas de la adición de vectores. No es una simple suma de sus magnitudes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_007",
+      "pregunta": "Si las líneas de campo eléctrico son imaginarias, ¿qué implica esto sobre su naturaleza física?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que no existen en la realidad y son solo un concepto matemático.",
+        "B": "Que son una herramienta de visualización y no tienen una existencia física tangible.",
+        "C": "Que solo pueden ser vistas con instrumentos especiales.",
+        "D": "Que sus efectos no son reales.",
+        "E": "Que solo se aplican a problemas teóricos y no prácticos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término \"imaginarias\" significa que las líneas de campo no son objetos físicos que se puedan tocar o ver. Son un modelo, una representación gráfica muy útil para entender y predecir el comportamiento de los campos eléctricos, que sí son reales y tienen efectos medibles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_008",
+      "pregunta": "Según el Principio de Superposición, ¿cómo contribuye cada carga fuente al campo eléctrico total en un punto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cada carga contribuye en proporción a su distancia.",
+        "B": "La carga más cercana domina y las demás tienen un efecto despreciable.",
+        "C": "Todas las cargas alteran mutuamente sus campos.",
+        "D": "Cada carga produce su propio campo de manera independiente de las otras cargas presentes.",
+        "E": "Solo las cargas positivas contribuyen al campo total."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un pilar del principio es que el campo eléctrico creado por una carga puntual no se ve afectado por la presencia de otras cargas. Por lo tanto, podemos calcular cada campo por separado y luego sumarlos vectorialmente para obtener el resultado total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_009",
+      "pregunta": "¿Por qué es crucial que una carga de prueba ($$q_₀$$) no perturbe la distribución de las cargas responsables del campo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque si lo hace, el experimento se vuelve muy costoso.",
+        "B": "Porque el objetivo es medir el campo original, y si este es alterado, la medición no es válida.",
+        "C": "Porque podría causar una reacción en cadena y destruir las cargas fuente.",
+        "D": "Porque las leyes de la física solo se aplican a sistemas no perturbados.",
+        "E": "Porque es imposible medir un campo que ha sido perturbado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El propósito de usar una carga de prueba es determinar las propiedades de un campo eléctrico preexistente. Si la carga de prueba altera ese campo (por ejemplo, al repeler o atraer a las cargas fuente y cambiar sus posiciones), lo que se medirá será el nuevo campo perturbado, no el original que se quería estudiar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_010",
+      "pregunta": "Si conocemos la forma de una línea de campo eléctrico en una región, ¿qué información podemos deducir sobre el vector $$E$$ en cualquier punto de esa línea?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La magnitud exacta del campo eléctrico.",
+        "B": "La dirección del campo eléctrico.",
+        "C": "Tanto la magnitud como la dirección del campo eléctrico.",
+        "D": "La aceleración que experimentaría una carga.",
+        "E": "El potencial eléctrico en ese punto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La propiedad fundamental de las líneas de campo es que el vector del campo eléctrico ($$E$$) es siempre tangente a ellas. Por lo tanto, al observar la línea en un punto, conocemos inmediatamente la dirección del campo en ese punto, aunque la línea por sí sola no nos da el valor de la magnitud.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_011",
+      "pregunta": "El término \"carga fuente\" ($$Q$$) se utiliza para designar a...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "la carga de prueba utilizada para medir el campo.",
+        "B": "la carga o distribución de cargas que crea el campo eléctrico que se está estudiando.",
+        "C": "una carga con valor unitario y positivo.",
+        "D": "el conjunto de todas las cargas en el universo.",
+        "E": "la carga neta de un objeto neutro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las cargas fuente son las responsables de generar el campo eléctrico en una región del espacio. La carga de prueba ($$q_₀$$) es la que se utiliza para detectar y medir los efectos de ese campo creado por la(s) carga(s) fuente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_012",
+      "pregunta": "Si el campo eléctrico total en un punto $$P$$ es $$E_p = E_1 + E_2$$, ¿qué representa físicamente $$E_1$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La mitad del campo eléctrico total.",
+        "B": "El campo eléctrico que existiría en el punto $$P$$ si solo estuviera presente la primera carga fuente.",
+        "C": "El campo eléctrico de la carga de prueba.",
+        "D": "El campo eléctrico más débil de los dos.",
+        "E": "Una constante matemática sin significado físico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cada término en la suma de superposición ($$E_1$$, $$E_2$$, etc.) representa el campo eléctrico que una carga fuente individual crearía en el punto de interés si todas las demás cargas fuente fueran ignoradas o no existieran.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_013",
+      "pregunta": "En un punto del espacio, dos cargas puntuales generan campos eléctricos $$E_1$$ y $$E_2$$. Si el campo total en ese punto es cero ($$E_p = 0$$), ¿qué se puede afirmar con certeza sobre los vectores $$E_1$$ y $$E_2$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos vectores, $$E_1$$ y $$E_2$$, deben ser nulos individualmente.",
+        "B": "Los vectores tienen magnitudes idénticas y la misma dirección.",
+        "C": "Los vectores tienen magnitudes idénticas pero direcciones opuestas.",
+        "D": "Los vectores son perpendiculares entre sí.",
+        "E": "Uno de los vectores debe ser el doble del otro en magnitud."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Principio de Superposición establece que $$E_p = E_1 + E_2$$. Para que la suma vectorial de dos vectores sea el vector nulo, ambos deben tener exactamente la misma magnitud pero apuntar en direcciones opuestas (un ángulo de 180° entre ellos). De esta manera, se cancelan mutuamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_014",
+      "pregunta": "La validez de aplicar la suma vectorial $$E_p = E_1 + E_2 + ...$$ se fundamenta en que el campo generado por una carga puntual...",
+      "dificultad": 3,
+      "opciones": {
+        "A": "siempre apunta hacia afuera de la carga.",
+        "B": "no es alterado por la presencia de otras cargas puntuales.",
+        "C": "disminuye con el cuadrado de la distancia.",
+        "D": "es siempre más fuerte que el campo de una carga de prueba.",
+        "E": "solo puede ser sumado con campos de cargas del mismo signo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio funciona porque los campos eléctricos se superponen sin interferir entre sí. El campo que la carga $$Q_1$$ produce en un punto $$P$$ es exactamente el mismo, independientemente de que la carga $$Q_2$$ esté presente o no. Esta independencia permite sumar sus efectos vectorialmente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_102_015",
+      "pregunta": "Si un objeto cargado es demasiado grande para ser considerado una \"carga puntual\" en un problema, ¿qué implicación tiene esto para el cálculo del campo eléctrico que produce?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El objeto no produce ningún campo eléctrico neto.",
+        "B": "El Principio de Superposición ya no se puede aplicar de ninguna forma.",
+        "C": "El cálculo del campo se vuelve más complejo, ya que se debe considerar la distribución de la carga en todo el volumen del objeto.",
+        "D": "El campo eléctrico será uniforme en todos los puntos alrededor del objeto.",
+        "E": "Se debe usar una carga de prueba mucho más grande para poder medir el campo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de carga puntual es una simplificación para cuando las dimensiones del objeto son irrelevantes. Si no lo son, el objeto no puede tratarse como un único punto. Para calcular el campo, a menudo se debe dividir el objeto en muchísimos elementos infinitesimales (que sí pueden tratarse como cargas puntuales) y luego sumar (integrar) las contribuciones de todos esos elementos, lo cual es una aplicación más avanzada del Principio de Superposición.",
+      "imagen": null
+    }
+  ]
+}

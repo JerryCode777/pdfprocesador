@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 259,
+  "total_temas": 320,
+  "titulo_tema": "Sistema Sanguíneo ABO",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_259_001",
+      "pregunta": "¿Qué se entiende por alelos múltiples en el contexto de la herencia genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La existencia de dos alelos que controlan múltiples caracteres.",
+        "B": "La presencia de un solo alelo que determina varios fenotipos.",
+        "C": "La existencia de tres o más alelos para la herencia de un único carácter.",
+        "D": "Cuando dos alelos dominantes se expresan al mismo tiempo.",
+        "E": "Un alelo que es recesivo frente a todos los demás."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los alelos múltiples se definen como la condición en la que existen tres o más formas alternativas (alelos) de un gen que pueden ocupar el mismo locus en un cromosoma y que están involucradas en la herencia de un solo carácter. Cada uno de estos alelos puede producir un fenotipo distinto. Las otras opciones describen conceptos diferentes como la pleiotropía, la codominancia o simplemente son incorrectas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_002",
+      "pregunta": "¿Cuántos alelos controlan la herencia de los grupos sanguíneos en el sistema ABO?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un solo alelo",
+        "B": "Dos alelos",
+        "C": "Tres alelos",
+        "D": "Cuatro alelos",
+        "E": "Múltiples genes"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema de grupos sanguíneos ABO está controlado por un solo gen que presenta tres alelos diferentes: el alelo $I^A$, el alelo $I^B$ y el alelo $i^o$. Esta es una característica clásica de herencia por alelos múltiples.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_003",
+      "pregunta": "¿En qué cromosoma se localiza el gen que controla los antígenos del sistema ABO?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cromosoma X",
+        "B": "Cromosoma 21",
+        "C": "Cromosoma 9",
+        "D": "Cromosoma 1",
+        "E": "Cromosoma Y"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El gen responsable de determinar los antígenos en la superficie de los glóbulos rojos, y por lo tanto el grupo sanguíneo del sistema ABO, se encuentra ubicado específicamente en el cromosoma 9.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_004",
+      "pregunta": "En el sistema sanguíneo ABO, los antígenos presentes en la superficie de los glóbulos rojos también se denominan:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aglutininas",
+        "B": "Fenotipos",
+        "C": "Inmunoglobulinas",
+        "D": "Genotipos",
+        "E": "Aglutinógenos"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Los antígenos del sistema ABO, que son las moléculas en la superficie de los glóbulos rojos que determinan el tipo de sangre, se conocen técnicamente como aglutinógenos. Las aglutininas, por otro lado, son los anticuerpos presentes en el plasma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_005",
+      "pregunta": "Las moléculas de anticuerpos dentro del sistema sanguíneo ABO reciben el nombre de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aglutinógenos",
+        "B": "Alelos",
+        "C": "Aglutininas",
+        "D": "Cromosomas",
+        "E": "Receptores"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la terminología del sistema ABO, los anticuerpos que se encuentran en el plasma sanguíneo y que reaccionan contra los antígenos extraños se denominan aglutininas. Los aglutinógenos son los antígenos de la superficie celular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_006",
+      "pregunta": "¿Cuál es la relación de dominancia entre los alelos $I^A$ y $I^B$ del sistema ABO?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$I^A$ es dominante sobre $I^B$",
+        "B": "$I^B$ es dominante sobre $I^A$",
+        "C": "Ambos son recesivos",
+        "D": "Son codominantes entre sí",
+        "E": "Su relación es de dominancia incompleta"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En el sistema ABO, los alelos $I^A$ y $I^B$ son codominantes. Esto significa que cuando un individuo hereda ambos alelos, los dos se expresan por igual y simultáneamente, dando como resultado el fenotipo del grupo sanguíneo AB, que presenta tanto el antígeno A como el antígeno B en sus glóbulos rojos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_007",
+      "pregunta": "¿Cómo se describe la relación genética entre el alelo $I^A$ y el alelo $i^o$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son codominantes",
+        "B": "$i^o$ es dominante sobre $I^A$",
+        "C": "$I^A$ es dominante sobre $i^o$",
+        "D": "Son recesivos ambos",
+        "E": "Tienen dominancia incompleta"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación entre estos alelos es de dominancia simple. El alelo $I^A$ es dominante sobre el alelo $i^o$. Esto implica que un individuo con el genotipo $I^A i^o$ expresará el fenotipo del grupo sanguíneo A, ya que la presencia del alelo dominante $I^A$ enmascara la del alelo recesivo $i^o$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_008",
+      "pregunta": "¿Qué determina el fenotipo (grupo A, B, AB u O) de una persona en el sistema ABO?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La cantidad de glóbulos rojos",
+        "B": "El tipo de anticuerpos heredados de los padres",
+        "C": "La combinación de los alelos $I^A$, $I^B$ e $i^o$ que hereda",
+        "D": "La ubicación del gen en el cromosoma 9",
+        "E": "La presencia de aglutininas en los glóbulos rojos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El fenotipo del grupo sanguíneo de una persona es el resultado directo de la combinación específica de los tres posibles alelos ($I^A$, $I^B$, $i^o$) que hereda de sus progenitores. Esta combinación alélica (genotipo) determina qué antígenos (aglutinógenos) se producirán en la superficie de sus glóbulos rojos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_009",
+      "pregunta": "De los siguientes ejemplos, ¿cuál es una característica controlada por alelos múltiples?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La capacidad de enrollar la lengua",
+        "B": "El albinismo",
+        "C": "El color de ojos de la mosca de la fruta",
+        "D": "La hemofilia",
+        "E": "El daltonismo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El color de ojos de la mosca de la fruta es un ejemplo clásico de un carácter determinado por alelos múltiples, donde diferentes alelos en un mismo locus genético dan lugar a una variedad de colores de ojos. Las otras opciones suelen ser ejemplos de herencia mendeliana simple o ligada al sexo, pero no de alelos múltiples.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_010",
+      "pregunta": "¿Cuál de los tres alelos del sistema sanguíneo ABO es recesivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El alelo $I^A$",
+        "B": "El alelo $I^B$",
+        "C": "Los alelos $I^A$ y $I^B$ son recesivos",
+        "D": "El alelo $i^o$",
+        "E": "Ningún alelo es completamente recesivo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la jerarquía de dominancia del sistema ABO, el alelo $i^o$ es recesivo tanto frente al alelo $I^A$ como al alelo $I^B$. Esto significa que el fenotipo del grupo O solo se expresa cuando un individuo hereda dos copias del alelo $i^o$, es decir, tiene un genotipo homocigoto recesivo ($i^o i^o$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_011",
+      "pregunta": "La característica fundamental que define el sistema ABO es la presencia de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Anticuerpos en la superficie de los glóbulos rojos",
+        "B": "Antígenos en el plasma sanguíneo",
+        "C": "Antígenos específicos en la superficie de los glóbulos rojos",
+        "D": "Tres tipos de aglutininas diferentes",
+        "E": "Alelos recesivos en el cromosoma 9"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema de grupos sanguíneos ABO se define y clasifica en función de la presencia o ausencia de antígenos específicos (aglutinógenos A y B) en la membrana de los glóbulos rojos. La presencia de estos antígenos está controlada genéticamente por los alelos del sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_012",
+      "pregunta": "El sistema sanguíneo ABO se compone fundamentalmente de dos tipos de moléculas: dos antígenos y dos anticuerpos. ¿Cómo se denominan respectivamente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Anticuerpos y antígenos",
+        "B": "Aglutinógenos y aglutininas",
+        "C": "Alelos y fenotipos",
+        "D": "Aglutininas y aglutinógenos",
+        "E": "Receptores y ligandos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La pregunta pide el nombre de los antígenos y los anticuerpos, en ese orden. Los antígenos son los aglutinógenos, y los anticuerpos son las aglutininas. Por lo tanto, la respuesta correcta es aglutinógenos y aglutininas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_013",
+      "pregunta": "¿Cuál de los cuatro fenotipos del sistema ABO es un ejemplo directo de codominancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Grupo A",
+        "B": "Grupo B",
+        "C": "Grupo O",
+        "D": "Grupo AB",
+        "E": "Todos los grupos son codominantes"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La codominancia ocurre cuando dos alelos diferentes se expresan ambos de forma completa y simultánea en el fenotipo de un individuo heterocigoto. En el sistema ABO, esto sucede con los alelos $I^A$ y $I^B$. Un individuo con genotipo $I^A I^B$ produce tanto el antígeno A como el antígeno B, resultando en el fenotipo AB. Los grupos A y B manifiestan dominancia sobre $i^o$, y el grupo O es el fenotipo recesivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_014",
+      "pregunta": "Aplicando los principios de dominancia, si una persona tiene el fenotipo sanguíneo B, ¿cuál de las siguientes afirmaciones sobre su genotipo es necesariamente cierta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su genotipo es $I^B I^B$.",
+        "B": "Su genotipo es $I^B i^o$.",
+        "C": "No puede tener el alelo $i^o$.",
+        "D": "Debe tener al menos un alelo $I^B$.",
+        "E": "Su genotipo es homocigoto dominante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El alelo $I^B$ es dominante sobre $i^o$. Para que se exprese el fenotipo B, el individuo puede tener un genotipo homocigoto dominante ($I^B I^B$) o heterocigoto ($I^B i^o$). Por lo tanto, no podemos asegurar si es homocigoto o heterocigoto sin más información. Sin embargo, lo que es absolutamente necesario y cierto es que debe poseer al menos una copia del alelo dominante $I^B$ para producir el antígeno B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_259_015",
+      "pregunta": "Considerando que el alelo $i^o$ es recesivo, ¿qué combinación de alelos debe tener una persona para expresar el fenotipo del grupo sanguíneo O?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un alelo $I^A$ y un alelo $i^o$.",
+        "B": "Un alelo $I^B$ y un alelo $i^o$.",
+        "C": "Dos alelos $i^o$.",
+        "D": "Un alelo $i^o$ y cualquier otro alelo.",
+        "E": "Cualquier combinación que no incluya $I^A$ y $I^B$ juntos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un alelo recesivo solo puede expresarse en el fenotipo cuando el individuo es homocigoto para dicho alelo, es decir, cuando no hay un alelo dominante que enmascare su efecto. Dado que $i^o$ es recesivo frente a $I^A$ y $I^B$, la única forma de que una persona tenga el grupo sanguíneo O (que se caracteriza por la ausencia de antígenos A y B) es que su genotipo sea homocigoto recesivo, es decir, $i^o i^o$.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 271,
+  "total_temas": 320,
+  "titulo_tema": "Monosomía",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_271_001",
+      "pregunta": "¿Qué es una aneuploidía?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presencia de más de dos juegos cromosómicos completos.",
+        "B": "La alteración en la estructura de un solo cromosoma.",
+        "C": "La ausencia o presencia de cromosomas adicionales, sin ser un juego completo.",
+        "D": "Una condición donde todas las células del cuerpo son triploides.",
+        "E": "La separación correcta de los cromosomas durante la meiosis."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una aneuploidía es una anomalía cromosómica que consiste en la ausencia de uno o más cromosomas o la presencia de cromosomas adicionales, alterando el número total pero sin llegar a constituir un juego cromosómico completo extra. La opción A describe la poliploidía. La opción D es un tipo específico de poliploidía. Las opciones B y E son incorrectas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_002",
+      "pregunta": "¿Cómo se define una monosomía?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presencia de un cromosoma adicional en uno de los pares.",
+        "B": "La carencia o pérdida de un cromosoma en un par.",
+        "C": "La existencia de tres juegos completos de cromosomas.",
+        "D": "Una condición en la que coexisten células diploides y poliploides.",
+        "E": "El proceso de no separación de los cromosomas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una monosomía es un tipo de aneuploidía que se caracteriza por la ausencia o pérdida de un cromosoma en un par cromosómico homólogo. La opción A define una trisomía. La opción C define una triploidía. La opción D describe un mosaico. La opción E define la no disyunción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_003",
+      "pregunta": "¿Cuál es la causa principal de las monosomías y trisomías?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presencia de mosaicos celulares.",
+        "B": "La poliploidía en las células germinales.",
+        "C": "La no disyunción cromosómica durante la meiosis.",
+        "D": "La fertilización de un gameto por múltiples espermatozoides.",
+        "E": "Alteraciones en el número de juegos cromosómicos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La causa principal de las aneuploidías, como las monosomías y las trisomías, es la no disyunción cromosómica. Este es un error que ocurre durante la meiosis (I o II) en el que los cromosomas homólogos o las cromátidas hermanas no se separan correctamente, lo que lleva a gametos con un número anómalo de cromosomas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_004",
+      "pregunta": "¿Qué es una enfermedad cromosómica, en su definición más general?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una mutación en un gen específico.",
+        "B": "La alteración del número total de cromosomas.",
+        "C": "La no separación de las cromátidas hermanas únicamente.",
+        "D": "Una condición que solo afecta a los cromosomas sexuales.",
+        "E": "La presencia de células diploides y triploides en un mismo individuo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una enfermedad cromosómica se define fundamentalmente como una alteración en el número total de cromosomas de un individuo. Esto abarca tanto las poliploidías (cambios en juegos completos) como las aneuploidías (pérdida o ganancia de cromosomas individuales).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_005",
+      "pregunta": "¿Qué término describe la presencia de más de dos juegos cromosómicos completos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aneuploidía",
+        "B": "Monosomía",
+        "C": "Trisomía",
+        "D": "No disyunción",
+        "E": "Poliploidía"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La poliploidía es la condición en la cual un organismo tiene más de dos juegos completos de cromosomas. Ejemplos de esto son la triploidía ($$3N$$) y la tetraploidía ($$4N$$). Las otras opciones describen alteraciones que no implican juegos cromosómicos completos adicionales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_006",
+      "pregunta": "¿Qué fórmula representa correctamente una monosomía en humanos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$2N + 1 = 47$$",
+        "B": "$$3N = 69$$",
+        "C": "$$2N - 1 = 45$$",
+        "D": "$$4N = 92$$",
+        "E": "$$2N = 46$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula para una monosomía es $$2N - 1$$, lo que indica que al número diploide normal ($$2N$$) de cromosomas se le resta uno. En los seres humanos, donde $$2N = 46$$, una monosomía resulta en un total de 45 cromosomas. La opción A representa una trisomía, B y D son poliploidías, y E es el número cromosómico normal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_007",
+      "pregunta": "El fenómeno de la no disyunción, que causa monosomías, puede ocurrir en:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente en la meiosis I.",
+        "B": "Únicamente en la meiosis II.",
+        "C": "Tanto en la meiosis I como en la meiosis II.",
+        "D": "Solo durante la mitosis.",
+        "E": "Exclusivamente en las células somáticas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La no disyunción es la no separación de los cromosomas y es la causa principal de las aneuploidías. Este error en la segregación cromosómica puede ocurrir tanto durante la meiosis I (cuando los cromosomas homólogos no se separan) como durante la meiosis II (cuando las cromátidas hermanas no se separan).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_008",
+      "pregunta": "¿Cuál es la principal diferencia entre una poliploidía y una aneuploidía?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La poliploidía afecta a juegos cromosómicos completos, mientras que la aneuploidía afecta a cromosomas individuales.",
+        "B": "La aneuploidía es siempre mortal en humanos, mientras que la poliploidía no lo es.",
+        "C": "La poliploidía es causada por la no disyunción, pero la aneuploidía tiene otras causas.",
+        "D": "La aneuploidía implica tener células $$3N$$ o $$4N$$, mientras que la poliploidía es una condición $$2N-1$$.",
+        "E": "No existe diferencia fundamental; ambos términos son sinónimos."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La diferencia clave radica en la escala de la alteración numérica. La poliploidía implica la adición de uno o más juegos cromosómicos completos (ej. $$3N$$, $$4N$$). En contraste, la aneuploidía implica la pérdida o ganancia de uno o más cromosomas individuales, pero no un juego completo (ej. $$2N-1$$ o $$2N+1$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_009",
+      "pregunta": "Si un individuo es denominado \"trisómico\", ¿qué condición cromosómica presenta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Carece de un cromosoma en un par.",
+        "B": "Tiene un cromosoma adicional en uno de los pares.",
+        "C": "Posee tres juegos completos de cromosomas.",
+        "D": "Tiene una mezcla de células diploides y triploides.",
+        "E": "Sus gametos son anómalos debido a la no disyunción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un individuo trisómico es aquel que tiene un cromosoma adicional en uno de sus pares cromosómicos, resultando en un total de tres cromosomas de ese tipo en lugar de los dos habituales. La opción A describe una monosomía, y la opción C una triploidía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_010",
+      "pregunta": "¿Cuál es el resultado directo de la no disyunción cromosómica durante la formación de gametos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La producción de gametos exclusivamente diploides.",
+        "B": "La formación de mosaicos celulares en el futuro embrión.",
+        "C": "La generación de gametos con un reparto desigual y anómalo de cromosomas.",
+        "D": "La muerte celular programada de todas las células germinales.",
+        "E": "La creación de un individuo poliploide."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La no disyunción es, por definición, la no separación de los cromosomas, lo que conlleva a un reparto desigual de los mismos durante la meiosis. El resultado directo de este error es la producción de gametos anómalos, es decir, gametos que tienen un cromosoma de más (n+1) o un cromosoma de menos (n-1).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_011",
+      "pregunta": "Según la información proporcionada sobre la viabilidad, ¿qué condición es más común en los seres humanos vivos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Triploidía ($$3N$$)",
+        "B": "Tetraploidía ($$4N$$)",
+        "C": "Poliploidía general",
+        "D": "Aneuploidía",
+        "E": "Mosaicos puros de células tetraploides"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El contenido indica que las aneuploidías son las anomalías cromosómicas más comunes en el ser humano. En contraste, las poliploidías como la triploidía ($$3N$$) y la tetraploidía ($$4N$$) son generalmente mortales, y los pocos individuos que nacen vivos con estas condiciones son mosaicos y tienen una esperanza de vida muy corta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_012",
+      "pregunta": "¿Cuál es el destino más probable de un embrión humano con triploidía ($$3N$$) en todas sus células?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Desarrollarse hasta la edad adulta sin complicaciones.",
+        "B": "Ser abortado espontáneamente al comienzo del embarazo.",
+        "C": "Nacer y vivir unos cuantos días como un mosaico.",
+        "D": "Convertirse en un individuo tetraploide.",
+        "E": "Desarrollar una monosomía compensatoria."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La poliploidía, como la triploidía ($$3N$$) en todas las células, es una condición mortal en el ser humano. Se especifica que la triploidía no es rara en los embriones que son abortados espontáneamente en las primeras etapas del embarazo, lo que indica que esta es la consecuencia más común.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_013",
+      "pregunta": "Si un gameto anómalo carente de un cromosoma (resultado de no disyunción) es fecundado por un gameto normal, ¿qué condición se originará en el cigoto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una trisomía, con fórmula $$2N+1$$.",
+        "B": "Una triploidía, con fórmula $$3N$$.",
+        "C": "Una condición diploide normal, $$2N$$.",
+        "D": "Una monosomía, con fórmula $$2N-1$$.",
+        "E": "Un mosaico de células normales y aneuploides."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un gameto normal aporta 'N' cromosomas. Un gameto anómalo que carece de un cromosoma aporta 'N-1' cromosomas. La fecundación de estos dos gametos dará como resultado un cigoto con un número total de cromosomas de $$N + (N-1) = 2N-1$$. Esta fórmula corresponde a una monosomía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_014",
+      "pregunta": "¿Por qué los pocos individuos triploides o tetraploides que nacen vivos son descritos como mosaicos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque todas sus células son poliploides, pero de diferente tipo ($$3N$$ y $$4N$$).",
+        "B": "Porque la poliploidía solo afecta a las células de la piel, creando un patrón.",
+        "C": "Porque poseen una mezcla de células con un número de cromosomas normal (diploides, $$2N$$) y células poliploides.",
+        "D": "Porque el término 'mosaico' es un sinónimo de 'poliploide'.",
+        "E": "Porque sus cromosomas se organizan en un patrón visual tipo mosaico durante la meiosis."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La poliploidía completa es letal para el ser humano. Los pocos casos de nacidos vivos que se han estudiado presentaban mosaicismo. Esto significa que no todas sus células eran poliploides, sino que coexistían líneas celulares diferentes: una línea con el número normal de cromosomas (diploides, $$2N$$) y otra línea con la alteración poliploide ($$3N$$ o $$4N$$). La presencia de células normales es lo que permite una supervivencia limitada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_271_015",
+      "pregunta": "Analizando la causa de las aneuploidías, ¿qué se puede inferir sobre el reparto de cromosomas que conduce a una monosomía?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se produce una duplicación de todo el genoma antes de la meiosis.",
+        "B": "Uno de los gametos resultantes de la meiosis carecerá de un cromosoma específico.",
+        "C": "Ambos gametos implicados en la fecundación deben ser anómalos.",
+        "D": "El error ocurre después de la fecundación, durante las primeras mitosis del cigoto.",
+        "E": "Se genera un juego cromosómico extra completo que luego se pierde parcialmente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La monosomía surge de una aneuploidía, causada por la no disyunción durante la meiosis. Este error provoca un reparto desigual de cromosomas. Específicamente, para que se forme un cigoto monosómico ($$2N-1$$), uno de los gametos que participan en la fecundación debe ser anómalo por carecer de un cromosoma (gameto n-1), mientras que el otro gameto es normal (gameto n). Por lo tanto, se infiere que el proceso de no disyunción genera un gameto al que le falta un cromosoma.",
+      "imagen": null
+    }
+  ]
+}

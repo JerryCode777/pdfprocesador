@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 36,
+  "total_temas": 137,
+  "titulo_tema": "Teorema del Trabajo y la Energía",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_036_001",
+      "pregunta": "¿Cómo se define la energía mecánica ($E_M$) de un sistema?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como la suma de la energía cinética ($E_k$) y la energía potencial ($E_p$)",
+        "B": "Únicamente como la energía debida al movimiento, es decir, la energía cinética",
+        "C": "Como la diferencia entre la energía potencial y la energía cinética",
+        "D": "Únicamente como la energía almacenada, es decir, la energía potencial",
+        "E": "Como el producto de la masa por la aceleración de la gravedad y la altura"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La energía mecánica total ($E_M$) de un sistema se determina por la suma de su energía cinética ($E_k$), que está asociada al movimiento, y su energía potencial ($E_p$), que está asociada a la posición o configuración (puede ser gravitatoria y/o elástica). La fórmula es $$E_M = E_k + E_p$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_002",
+      "pregunta": "Según el teorema del trabajo neto y la energía cinética, el trabajo neto ($W_{NETO}$) realizado sobre un cuerpo es igual a:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La variación de su energía cinética ($$\\Delta E_k$$)",
+        "B": "La variación de su energía potencial ($$\\Delta E_p$$)",
+        "C": "La energía mecánica final ($E_{Mf}$)",
+        "D": "Cero, si el cuerpo se mueve",
+        "E": "La suma de la energía cinética inicial y final"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El teorema fundamental establece que el trabajo neto (realizado por la fuerza resultante) sobre un objeto es exactamente igual al cambio o variación en su energía cinética. Esto se expresa matemáticamente como $$W_{NETO} = \\Delta E_k = E_{kf} - E_{k0}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_003",
+      "pregunta": "¿Qué indica un trabajo neto positivo ($W_{NETO} > 0$) realizado sobre un cuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que el cuerpo tiene un movimiento acelerado",
+        "B": "Que el cuerpo tiene un movimiento desacelerado",
+        "C": "Que la energía cinética del cuerpo disminuye",
+        "D": "Que el cuerpo se mueve con velocidad constante",
+        "E": "Que no actúan fuerzas sobre el cuerpo"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Un trabajo neto positivo significa que la energía cinética final es mayor que la inicial ($E_{kf} > E_{k0}$), lo que implica un aumento en la velocidad del cuerpo. Por lo tanto, el cuerpo experimenta un movimiento acelerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_004",
+      "pregunta": "¿Qué caracteriza a las fuerzas conservativas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Dependen de la posición del cuerpo (altura o deformación)",
+        "B": "Dependen de la velocidad del cuerpo",
+        "C": "Siempre se oponen al movimiento",
+        "D": "Solo aparecen en sistemas sin movimiento",
+        "E": "Son siempre constantes en magnitud y dirección"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las fuerzas conservativas, como la gravitatoria y la elástica, se definen porque el trabajo que realizan depende únicamente de las posiciones inicial y final del cuerpo, y no de la trayectoria seguida. Están asociadas a una energía potencial que depende de la posición (altura para la gravitatoria, deformación para la elástica).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_005",
+      "pregunta": "¿Qué ocurre con la energía mecánica de un sistema si sobre él actúan solamente fuerzas conservativas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía mecánica se conserva (permanece constante)",
+        "B": "La energía mecánica aumenta linealmente",
+        "C": "La energía mecánica disminuye hasta llegar a cero",
+        "D": "Solo la energía cinética se conserva",
+        "E": "Solo la energía potencial se conserva"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El principio de conservación de la energía mecánica establece que si las únicas fuerzas que realizan trabajo en un sistema son conservativas, la energía mecánica total ($E_M = E_k + E_p$) del sistema permanece constante. Es decir, $$E_{M0} = E_{Mf}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_006",
+      "pregunta": "¿Cuál es la expresión matemática completa para la energía mecánica ($E_M$) que incluye energía cinética, potencial gravitatoria y potencial elástica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$E_M = \\frac{1}{2}mv^2 + mgh + \\frac{1}{2}kx^2$$",
+        "B": "$$E_M = mv^2 + mgh + kx^2$$",
+        "C": "$$E_M = \\frac{1}{2}mv^2 - mgh - \\frac{1}{2}kx^2$$",
+        "D": "$$E_M = mgh + \\frac{1}{2}kx^2$$",
+        "E": "$$E_M = \\frac{1}{2}mv^2$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La energía mecánica total es la suma de todas sus formas de energía cinética y potencial. La expresión correcta es la suma de la energía cinética ($$\\frac{1}{2}mv^2$$), la energía potencial gravitatoria ($$mgh$$) y la energía potencial elástica ($$\\frac{1}{2}kx^2$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_007",
+      "pregunta": "La derivación del teorema del trabajo neto y la energía cinética ($W_{NETO} = \\Delta E_k$) utiliza la Segunda Ley de Newton ($F_R = ma$) en conjunto con una ecuación del M.R.U.V. ¿Cuál es esa ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$v_f^2 = v_0^2 + 2ad$$",
+        "B": "$$d = v_0 t + \\frac{1}{2}at^2$$",
+        "C": "$$v_f = v_0 + at$$",
+        "D": "$$x_f = x_0 + v_0 t$$",
+        "E": "$$a = \\frac{\\Delta v}{\\Delta t}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El teorema se deriva partiendo de $$W_{NETO} = F_R d = mad$$. La ecuación cinemática $$v_f^2 = v_0^2 + 2ad$$ se reordena para despejar el término $$ad$$, obteniendo $$ad = \\frac{v_f^2 - v_0^2}{2}$$. Al sustituir esto en la ecuación del trabajo, se llega a $$W_{NETO} = m(\\frac{v_f^2 - v_0^2}{2}) = \\frac{1}{2}mv_f^2 - \\frac{1}{2}mv_0^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_008",
+      "pregunta": "Si el trabajo neto realizado sobre un objeto es negativo ($W_{NETO} < 0$), ¿qué se puede concluir sobre su energía cinética y su movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su energía cinética disminuye y tiene un movimiento desacelerado",
+        "B": "Su energía cinética aumenta y tiene un movimiento acelerado",
+        "C": "Su energía cinética se mantiene constante",
+        "D": "Su energía potencial aumenta necesariamente",
+        "E": "El objeto debe detenerse instantáneamente"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Un trabajo neto negativo implica que $$W_{NETO} = E_{kf} - E_{k0} < 0$$, lo que significa que la energía cinética final es menor que la inicial ($E_{kf} < E_{k0}$). Una disminución en la energía cinética corresponde a una disminución en la velocidad, por lo tanto, el movimiento es desacelerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_009",
+      "pregunta": "¿Bajo qué condición específica es válida la ecuación $$E_{PG0} + E_{k0} = E_{PGf} + E_{kf}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el trabajo realizado por las fuerzas no conservativas es cero",
+        "B": "Siempre que haya movimiento",
+        "C": "Únicamente cuando el objeto está en caída libre",
+        "D": "Cuando el trabajo neto es positivo",
+        "E": "En presencia de fuerzas de fricción significativas"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Esta ecuación representa la conservación de la energía mecánica ($$E_{M0} = E_{Mf}$$). Este principio solo se cumple cuando no hay fuerzas no conservativas (como la fricción) realizando trabajo, o si el trabajo que realizan es nulo ($$W_{FNC}=0$$). En ese caso, la energía mecánica total al inicio es igual a la energía mecánica total al final.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_010",
+      "pregunta": "¿Cuál es la relación matemática que describe el efecto del trabajo realizado por fuerzas no conservativas ($W_{FNC}$) en un sistema?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{FNC} = \\Delta E_M$$",
+        "B": "$$W_{FNC} = \\Delta E_k$$",
+        "C": "$$W_{FNC} = -\\Delta E_p$$",
+        "D": "$$W_{FNC} = 0$$",
+        "E": "$$W_{FNC} = E_M$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Cuando actúan fuerzas no conservativas, la energía mecánica del sistema no se conserva. El trabajo realizado por estas fuerzas ($W_{FNC}$) es precisamente igual al cambio en la energía mecánica total del sistema. Esto se expresa como $$W_{FNC} = \\Delta E_M = E_{Mf} - E_{M0}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_011",
+      "pregunta": "La expresión para el cambio en la energía cinética ($\\Delta E_k$) de un cuerpo de masa $m$ que cambia su velocidad de $v_0$ a $v_f$ es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\frac{1}{2}mv_f^2 - \\frac{1}{2}mv_0^2$$",
+        "B": "$$\\frac{1}{2}m(v_f - v_0)^2$$",
+        "C": "$$m(v_f^2 - v_0^2)$$",
+        "D": "$$\\frac{1}{2}mv_0^2 - \\frac{1}{2}mv_f^2$$",
+        "E": "$$m(v_f - v_0)$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El cambio o variación de cualquier cantidad se define como el valor final menos el valor inicial. Para la energía cinética, esto es $$ \\Delta E_k = E_{kf} - E_{k0} $$. Sustituyendo la fórmula de la energía cinética ($$E_k = \\frac{1}{2}mv^2$$), obtenemos $$ \\Delta E_k = \\frac{1}{2}mv_f^2 - \\frac{1}{2}mv_0^2 $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_012",
+      "pregunta": "La ley de conservación de la energía mecánica, $$E_{M0} = E_{Mf}$$, se puede reescribir agrupando las energías cinética y potencial. ¿Cuál de las siguientes formas es equivalente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$E_{k0} + E_{PG0} = E_{kf} + E_{PGf}$$",
+        "B": "$$E_{kf} - E_{k0} = 0$$",
+        "C": "$$E_{k0} - E_{PG0} = E_{kf} - E_{PGf}$$",
+        "D": "$$W_{NETO} = E_{Mf} - E_{M0}$$",
+        "E": "$$\\Delta E_k = \\Delta E_p$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La conservación de la energía mecánica significa que la energía mecánica inicial ($E_{M0}$) es igual a la final ($E_{Mf}$). Dado que la energía mecánica es la suma de la energía cinética y potencial ($E_M = E_k + E_p$), la ecuación $$E_{M0} = E_{Mf}$$ se expande a $$E_{k0} + E_{p0} = E_{kf} + E_{pf}$$. En el contexto de la energía potencial gravitatoria, esto es $$E_{k0} + E_{PG0} = E_{kf} + E_{PGf}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_013",
+      "pregunta": "Al analizar la derivación del teorema del trabajo y la energía cinética, se parte de $$W_{NETO} = mad$$. ¿A qué expresión de energía es equivalente el término $$mad$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "A la variación de la energía cinética, $$\\frac{1}{2}mv_f^2 - \\frac{1}{2}mv_0^2$$",
+        "B": "A la energía potencial gravitatoria, $$mgh$$",
+        "C": "A la variación de la energía mecánica, $$E_{Mf} - E_{M0}$$",
+        "D": "A la energía cinética final, $$\\frac{1}{2}mv_f^2$$",
+        "E": "A la fuerza resultante, $$F_R$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El propósito de la derivación es conectar el concepto mecánico de trabajo ($$W_{NETO} = F_R d = mad$$) con el concepto de energía. Mediante la sustitución de la relación cinemática $$ad = (v_f^2 - v_0^2)/2$$, se demuestra que $$mad = m(\\frac{v_f^2 - v_0^2}{2})$$, lo cual es exactamente la definición de la variación de la energía cinética ($$\\Delta E_k$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_014",
+      "pregunta": "El teorema del trabajo y la energía mecánica ($$W_{FNC} = \\Delta E_M$$) generaliza la ley de conservación de la energía. ¿Qué interrogante fundamental resuelve este teorema?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "¿Qué ocurre con la energía del sistema si actúan fuerzas no conservativas?",
+        "B": "¿Por qué la energía cinética depende del cuadrado de la velocidad?",
+        "C": "¿Cómo se define una fuerza conservativa?",
+        "D": "¿Cuál es la relación entre masa y energía?",
+        "E": "¿Por qué el trabajo neto es igual a la variación de energía cinética?"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La ley de conservación de la energía mecánica es un caso ideal que aplica solo cuando $$W_{FNC} = 0$$. El teorema del trabajo y la energía mecánica ($$W_{FNC} = \\Delta E_M$$) responde a una pregunta más general y práctica: ¿cómo cuantificamos el cambio en la energía mecánica total cuando hay fuerzas disipativas como la fricción? La respuesta es que el cambio es exactamente igual al trabajo hecho por esas fuerzas no conservativas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_036_015",
+      "pregunta": "Partiendo de la relación $$W_{FC} + W_{FNC} = E_{kf} - E_{k0}$$, ¿cuál es el paso conceptual clave para llegar a la fórmula $$W_{FNC} = E_{Mf} - E_{M0}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Reconocer que el trabajo de las fuerzas conservativas ($W_{FC}$) es igual al negativo de la variación de la energía potencial ($$-\\Delta E_p$$)",
+        "B": "Asumir que el trabajo de las fuerzas conservativas ($W_{FC}$) es siempre cero",
+        "C": "Igualar el trabajo de las fuerzas no conservativas ($W_{FNC}$) a la variación de energía cinética",
+        "D": "Cancelar los términos de energía cinética en ambos lados de la ecuación",
+        "E": "Establecer que $$W_{FC} = W_{FNC}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El paso fundamental en la derivación es sustituir el término del trabajo realizado por las fuerzas conservativas ($W_{FC}$) por su equivalente en energía. La definición establece que $$W_{FC} = -\\Delta E_p = -(E_{pf} - E_{p0})$$. Al hacer esta sustitución en la ecuación $$W_{FC} + W_{FNC} = E_{kf} - E_{k0}$$, se obtiene $$-(E_{pf} - E_{p0}) + W_{FNC} = E_{kf} - E_{k0}$$. Reordenando los términos se agrupan las energías finales e iniciales, llegando a $$W_{FNC} = (E_{kf} + E_{pf}) - (E_{k0} + E_{p0})$$, que es $$W_{FNC} = E_{Mf} - E_{M0}$$.",
+      "imagen": null
+    }
+  ]
+}

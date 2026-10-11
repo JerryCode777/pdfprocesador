@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_040_001",
-      "pregunta": "¿Cuál de las siguientes partículas subatómicas se encuentra en el núcleo y tiene una carga relativa de +1?",
+      "pregunta": "¿Cuál es la carga eléctrica relativa de un protón?",
       "dificultad": 1,
       "opciones": {
-        "A": "Electrón",
-        "B": "Protón",
-        "C": "Neutrón",
-        "D": "Partícula alfa",
-        "E": "Núclido"
+        "A": "-1",
+        "B": "0",
+        "C": "+1",
+        "D": "+2",
+        "E": "Sin carga"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El protón es la partícula subatómica que se localiza en el núcleo del átomo y posee una carga eléctrica relativa de +1. El electrón tiene carga -1 y se encuentra fuera del núcleo. El neutrón también está en el núcleo, pero no tiene carga. Una partícula alfa y un núclido son conceptos diferentes que no corresponden a esta descripción.",
+      "respuesta_correcta": "C",
+      "explicacion": "El protón es una partícula subatómica fundamental que se define por tener una carga eléctrica relativa de +1. Esta carga es de igual magnitud pero de signo opuesto a la del electrón, que es de -1.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_002",
-      "pregunta": "¿Qué símbolo se utiliza para representar el número atómico, que indica el número de protones en el núcleo?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$A$",
-        "B": "$E$",
-        "C": "$N$",
-        "D": "$Z$",
-        "E": "$P$"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "El número atómico se representa con el símbolo $Z$. Este número es fundamental porque define a qué elemento químico pertenece un átomo, ya que es igual al número de protones que contiene en su núcleo. El símbolo $A$ representa el número de masa, y $E$ el símbolo del elemento.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_040_003",
-      "pregunta": "¿Cuál es la partícula neutra más pequeña representativa de un elemento que conserva todas sus propiedades?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Molécula",
-        "B": "Protón",
-        "C": "Núcleo",
-        "D": "Electrón",
-        "E": "Átomo"
-      },
-      "respuesta_correcta": "E",
-      "explicacion": "Un átomo se define como la partícula neutra más pequeña de un elemento que aún conserva las propiedades químicas de dicho elemento. Las demás opciones son incorrectas: una molécula está formada por dos o más átomos, mientras que el protón, electrón y núcleo son componentes subatómicos del átomo.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_040_004",
-      "pregunta": "De las tres partículas subatómicas fundamentales, ¿cuál posee la menor masa?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Protón",
-        "B": "Electrón",
-        "C": "Neutrón",
-        "D": "Tienen la misma masa",
-        "E": "Núcleo"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "El electrón tiene una masa de aproximadamente $0.00054858$ uma, que es significativamente menor que la masa del protón ($1.0073$ uma) y la del neutrón ($1.0087$ uma). Por esta razón, su masa a menudo se considera despreciable al calcular la masa total del átomo.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_040_005",
-      "pregunta": "¿Qué dos tipos de partículas subatómicas constituyen el núcleo de un átomo?",
+      "pregunta": "¿Qué partículas subatómicas fundamentales constituyen el núcleo de un átomo?",
       "dificultad": 1,
       "opciones": {
         "A": "Protones y electrones",
         "B": "Electrones y neutrones",
         "C": "Solo protones",
         "D": "Protones y neutrones",
-        "E": "Solo neutrones"
+        "E": "Solo electrones"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El núcleo atómico es la región central, densa y con carga positiva del átomo. Está compuesto por protones y neutrones. Los electrones, por otro lado, se encuentran en el espacio que rodea al núcleo.",
+      "explicacion": "El núcleo atómico es la región central, densa y cargada positivamente de un átomo. Está compuesto por protones (con carga positiva) y neutrones (sin carga). Los electrones orbitan alrededor del núcleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_040_003",
+      "pregunta": "El número atómico, representado por el símbolo $Z$, ¿a qué cantidad corresponde?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al número de neutrones en el núcleo",
+        "B": "A la suma de protones y neutrones",
+        "C": "Al número de protones en el núcleo",
+        "D": "Al número de electrones en la capa más externa",
+        "E": "A la masa total del átomo en uma"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número atómico ($Z$) es una propiedad fundamental que identifica a un elemento químico. Se define como el número de protones que se encuentran en el núcleo de un átomo de ese elemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_040_004",
+      "pregunta": "¿Cómo se describe correctamente la estructura del núcleo atómico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Grande, de baja densidad y con carga negativa",
+        "B": "Pequeño, muy denso y con carga positiva",
+        "C": "Grande, difuso y eléctricamente neutro",
+        "D": "Pequeño, muy denso y con carga negativa",
+        "E": "Ocupa casi todo el volumen del átomo y es neutro"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El núcleo es una parte muy pequeña en comparación con el tamaño total del átomo, pero contiene casi toda su masa, lo que lo hace extremadamente denso. Su carga es positiva debido a la presencia de los protones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_040_005",
+      "pregunta": "De las tres partículas subatómicas fundamentales, ¿cuál posee la masa más pequeña?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Protón",
+        "B": "Neutrón",
+        "C": "Electrón",
+        "D": "Núcleo",
+        "E": "Partícula alfa"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El electrón tiene una masa de aproximadamente 0.00054858 uma, que es significativamente menor que la del protón (1.0073 uma) y la del neutrón (1.0087 uma). La masa del electrón es tan pequeña que a menudo se considera despreciable al calcular la masa atómica.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_006",
-      "pregunta": "En el experimento de Rutherford, ¿qué observación específica lo llevó a concluir que la mayor parte del átomo es espacio vacío?",
+      "pregunta": "En el experimento de Rutherford, el hecho de que la mayoría de las partículas alfa atravesaran la lámina de oro sin desviarse demostró que:",
       "dificultad": 2,
       "opciones": {
-        "A": "Algunas partículas alfa se desviaron ligeramente.",
-        "B": "Muy pocas partículas alfa rebotaron hacia atrás.",
-        "C": "La mayoría de las partículas alfa atravesaron la lámina de oro sin desviarse.",
-        "D": "La lámina de oro se volvió radiactiva.",
-        "E": "Las partículas alfa aumentaron su velocidad al pasar."
+        "A": "El núcleo es extremadamente denso.",
+        "B": "La mayor parte del átomo es espacio vacío.",
+        "C": "Los electrones tienen una carga negativa fuerte.",
+        "D": "El oro es un elemento muy pesado.",
+        "E": "El núcleo tiene una carga negativa."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Rutherford observó que la gran mayoría de las partículas alfa pasaban a través de la delgada lámina de oro como si no hubiera nada. Esto le llevó a proponer que el átomo no es una esfera maciza, sino que consiste en su mayor parte en espacio vacío, con la masa y la carga positiva concentradas en un núcleo muy pequeño.",
+      "respuesta_correcta": "B",
+      "explicacion": "Si la mayor parte de las partículas alfa pasaron a través de la lámina sin interactuar, significa que no encontraron ningún obstáculo en su camino. Esto llevó a Rutherford a proponer un modelo atómico en el que la masa y la carga positiva están concentradas en un núcleo muy pequeño, y el resto del átomo es principalmente espacio vacío.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_007",
-      "pregunta": "¿Qué información proporciona el número atómico ($Z$) en un átomo que es eléctricamente neutro?",
+      "pregunta": "En un átomo eléctricamente neutro, el número atómico ($Z$) no solo indica el número de protones, sino también el número de:",
       "dificultad": 2,
       "opciones": {
-        "A": "La suma de protones y neutrones.",
-        "B": "Solamente el número de neutrones.",
-        "C": "El número de protones y también el número de electrones.",
-        "D": "Solamente el número de protones.",
-        "E": "La masa del núcleo en uma."
+        "A": "Neutrones",
+        "B": "Electrones",
+        "C": "Núclidos",
+        "D": "Partículas alfa",
+        "E": "Iones"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El número atómico ($Z$) siempre indica el número de protones en el núcleo. En un átomo eléctricamente neutro, la carga positiva total debe ser igual a la carga negativa total. Como los protones tienen carga +1 y los electrones -1, el número de electrones debe ser igual al número de protones.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para que un átomo sea eléctricamente neutro, el número total de cargas positivas debe anularse con el número total de cargas negativas. Como cada protón tiene una carga de +1 y cada electrón tiene una carga de -1, sus cantidades deben ser iguales. Por lo tanto, en un átomo neutro, $Z = \text{número de protones} = \text{número de electrones}$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_008",
-      "pregunta": "¿Cuál fue la discrepancia de masa que llevó a la postulación de la existencia del neutrón?",
+      "pregunta": "¿Cómo es la masa de un neutrón en comparación con la de un protón?",
       "dificultad": 2,
       "opciones": {
-        "A": "La masa de un electrón era mucho menor que la de un protón.",
-        "B": "Un átomo de helio era más ligero de lo esperado.",
-        "C": "La relación de masa entre helio (2 protones) e hidrógeno (1 protón) era de 4 a 1, y no de 2 a 1.",
-        "D": "Los protones y los electrones no sumaban la masa atómica total.",
-        "E": "El núcleo tenía una carga que no correspondía al número de protones."
+        "A": "Exactamente igual",
+        "B": "Significativamente menor",
+        "C": "Ligeramente mayor",
+        "D": "El doble de la masa del protón",
+        "E": "El neutrón no tiene masa"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Se sabía que el helio tenía 2 protones y el hidrógeno 1. Si solo existieran protones y electrones, la masa del helio debería ser aproximadamente el doble que la del hidrógeno. Sin embargo, la masa era cuatro veces mayor. Esta diferencia de masa no se podía explicar solo con protones, lo que sugirió la existencia de otra partícula masiva pero sin carga en el núcleo: el neutrón.",
+      "explicacion": "Comparando sus masas en unidades de masa atómica (uma), el protón tiene una masa de 1.0073 uma, mientras que el neutrón tiene una masa de 1.0087 uma. Por lo tanto, el neutrón es ligeramente más masivo que el protón.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_009",
-      "pregunta": "¿Qué es un núclido?",
+      "pregunta": "¿Qué discrepancia experimental llevó a la propuesta de la existencia del neutrón?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un átomo con un número desigual de protones y electrones.",
-        "B": "El nombre genérico para cualquier partícula subatómica.",
-        "C": "Un núcleo con un número específico de protones y neutrones.",
-        "D": "Un átomo que ha emitido radiación.",
-        "E": "La región del espacio donde se encuentran los electrones."
+        "A": "La desviación de partículas alfa en el experimento de Rutherford.",
+        "B": "La neutralidad eléctrica general de los átomos.",
+        "C": "Que la relación de masa entre helio (2 protones) e hidrógeno (1 protón) era de 4 a 1, no de 2 a 1.",
+        "D": "La existencia de electrones dentro de los átomos.",
+        "E": "La emisión de radiación de alta energía por parte del berilio."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Un núclido es un término específico para referirse a un tipo de núcleo atómico caracterizado por un número determinado de protones (número atómico $Z$) y un número determinado de neutrones. Define la composición exacta del núcleo.",
+      "explicacion": "Si los núcleos solo contuvieran protones, el helio ($Z=2$) debería tener el doble de masa que el hidrógeno ($Z=1$). Sin embargo, se observó que su masa era cuatro veces mayor. Esta diferencia no se podía explicar solo con protones y electrones, lo que llevó a postular la existencia de una partícula neutra con masa en el núcleo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_010",
-      "pregunta": "Según los datos proporcionados sobre las masas de las partículas subatómicas, ¿cómo se compara la masa de un neutrón con la de un protón?",
+      "pregunta": "¿Quién descubrió el neutrón mediante un experimento que consistió en bombardear berilio con partículas alfa?",
       "dificultad": 2,
       "opciones": {
-        "A": "La masa del neutrón es ligeramente mayor que la del protón.",
-        "B": "La masa del protón es ligeramente mayor que la del neutrón.",
-        "C": "Ambas partículas tienen exactamente la misma masa.",
-        "D": "La masa del neutrón es el doble que la del protón.",
-        "E": "La masa del protón es significativamente menor que la del neutrón."
+        "A": "E. Rutherford",
+        "B": "Niels Bohr",
+        "C": "John Dalton",
+        "D": "James Chadwick",
+        "E": "J.J. Thomson"
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Los valores de masa dados son $1.0087$ uma para el neutrón y $1.0073$ uma para el protón. Al comparar estos dos valores, se observa que la masa del neutrón es ligeramente superior a la del protón. Ambas son, sin embargo, mucho más masivas que el electrón.",
+      "respuesta_correcta": "D",
+      "explicacion": "Fue James Chadwick quien, en 1932, realizó el experimento clave de bombardear una lámina de berilio con partículas alfa. Esto produjo una radiación neutra y de alta energía, que él identificó como un flujo de partículas a las que llamó neutrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_011",
-      "pregunta": "¿Qué logró demostrar James Chadwick en su experimento de 1932?",
+      "pregunta": "¿Qué es un núclido?",
       "dificultad": 2,
       "opciones": {
-        "A": "La existencia del núcleo atómico.",
-        "B": "Que los átomos son eléctricamente neutros.",
-        "C": "La existencia del electrón.",
-        "D": "La existencia de una partícula subatómica sin carga eléctrica, el neutrón.",
-        "E": "Que la carga positiva del átomo se concentra en el núcleo."
+        "A": "El nombre que se le da a la órbita de un electrón.",
+        "B": "Un átomo que ha perdido o ganado electrones.",
+        "C": "Cualquier partícula que se encuentre en el núcleo.",
+        "D": "Un sinónimo del término 'átomo'.",
+        "E": "Un núcleo con un número específico de protones y neutrones."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El experimento de James Chadwick consistió en bombardear una lámina de berilio con partículas alfa. Esto produjo una radiación de alta energía que no era desviada por campos eléctricos o magnéticos, lo que indicaba que estaba compuesta por partículas neutras. Chadwick identificó estas partículas como neutrones, confirmando la existencia de la tercera partícula subatómica fundamental.",
+      "respuesta_correcta": "E",
+      "explicacion": "El término núclido se usa para referirse a una especie nuclear particular, definida por su número de protones ($Z$) y su número de neutrones. Por ejemplo, el protio, el deuterio y el tritio son tres núclidos diferentes del elemento hidrógeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_012",
-      "pregunta": "En la notación simbólica de un núclido, el número de masa ($A$) se escribe como superíndice a la izquierda y el número atómico ($Z$) como subíndice a la izquierda. ¿Qué representa el número de masa ($A$)?",
+      "pregunta": "En la notación simbólica de un núclido, ${}^{A}_{Z}E$, ¿qué representa el subíndice $Z$ a la izquierda del símbolo del elemento?",
       "dificultad": 2,
       "opciones": {
-        "A": "El número total de protones.",
-        "B": "El número total de electrones en un átomo neutro.",
-        "C": "La suma del número de protones y neutrones.",
-        "D": "La carga total del núcleo.",
-        "E": "El número total de neutrones."
+        "A": "El número de masa",
+        "B": "El número de neutrones",
+        "C": "La carga iónica",
+        "D": "El número atómico",
+        "E": "El número total de partículas"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Aunque el texto define explícitamente la posición de $A$ y $Z$, el concepto de número de masa ($A$) se deriva de la composición del núcleo. Representa el número total de nucleones (partículas en el núcleo), es decir, la suma de los protones ($Z$) y los neutrones. La pregunta pide el significado de $A$, no su posición.",
+      "respuesta_correcta": "D",
+      "explicacion": "En la notación estándar para un núclido, el subíndice izquierdo ($Z$) siempre representa el número atómico, es decir, el número de protones. El superíndice izquierdo ($A$) representa el número de masa (protones + neutrones).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_013",
-      "pregunta": "Basado en el modelo de Rutherford, si una partícula alfa pasa muy cerca del núcleo de un átomo de oro, ¿qué resultado es más probable?",
+      "pregunta": "Un átomo neutro tiene un número atómico $Z=11$. ¿Cuántos protones y electrones tiene este átomo?",
       "dificultad": 3,
       "opciones": {
-        "A": "La partícula será absorbida por el núcleo.",
-        "B": "La partícula atravesará sin ninguna desviación.",
-        "C": "La partícula se desviará significativamente de su trayectoria original.",
-        "D": "La partícula se convertirá en un electrón.",
-        "E": "La partícula se detendrá y permanecerá junto al núcleo."
+        "A": "11 protones y 0 electrones",
+        "B": "11 protones y 11 electrones",
+        "C": "11 protones y 12 electrones",
+        "D": "12 protones y 11 electrones",
+        "E": "No se puede determinar sin el número de masa"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El modelo de Rutherford postula un núcleo denso y con carga positiva. Las partículas alfa también tienen carga positiva. Cuando una partícula alfa pasa cerca del núcleo, la fuerza de repulsión electrostática entre ambas cargas positivas hará que la trayectoria de la partícula alfa se curve o desvíe. Cuanto más cerca pase, mayor será la desviación. El rebote ocurre solo en colisiones casi directas.",
+      "respuesta_correcta": "B",
+      "explicacion": "Por definición, el número atómico ($Z$) es igual al número de protones, por lo tanto, el átomo tiene 11 protones. Como el átomo es eléctricamente neutro, el número de cargas positivas (protones) debe ser igual al número de cargas negativas (electrones). Por lo tanto, el átomo también debe tener 11 electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_014",
-      "pregunta": "Un átomo neutro tiene un número atómico $Z=15$. ¿Qué se puede afirmar con certeza sobre la composición de este átomo?",
+      "pregunta": "¿Qué inferencia se puede hacer al observar que solo unas pocas partículas alfa rebotaron en el experimento de Rutherford?",
       "dificultad": 3,
       "opciones": {
-        "A": "Tiene 15 neutrones en su núcleo.",
-        "B": "Tiene 15 protones y 15 electrones.",
-        "C": "Su número de masa $A$ es 15.",
-        "D": "La suma de sus protones y neutrones es 15.",
-        "E": "Tiene 15 protones y 30 electrones."
+        "A": "Que los electrones tienen una masa considerable.",
+        "B": "Que el núcleo es muy pequeño y tiene una carga positiva concentrada.",
+        "C": "Que la lámina de oro era demasiado delgada.",
+        "D": "Que la mayoría de los átomos de oro no tienen núcleo.",
+        "E": "Que las partículas alfa son eléctricamente neutras."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El número atómico ($Z$) define el número de protones, por lo tanto, el átomo tiene 15 protones. Como el átomo es neutro, el número de electrones (carga negativa) debe ser igual al número de protones (carga positiva), por lo que también tiene 15 electrones. No se puede determinar el número de neutrones o el número de masa ($A$) solo con el número atómico.",
+      "explicacion": "Las partículas alfa son positivas. El hecho de que rebotaran implicaba una fuerte repulsión con otra carga positiva. El hecho de que esto sucediera muy raramente indicaba que el objetivo (el núcleo) era extremadamente pequeño en comparación con el tamaño total del átomo. Por lo tanto, la carga positiva debía estar altamente concentrada en un volumen diminuto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_040_015",
-      "pregunta": "El hecho de que a principios de 1900 se supiera que los átomos eran eléctricamente neutros y que contenían electrones con carga negativa, ¿qué implicación lógica tenía sobre la estructura atómica?",
+      "pregunta": "Considerando las masas relativas de las partículas subatómicas (Protón $\\approx 1.0073$ uma, Neutrón $\\approx 1.0087$ uma, Electrón $\\approx 0.00055$ uma), ¿dónde reside prácticamente toda la masa de un átomo?",
       "dificultad": 3,
       "opciones": {
-        "A": "Los electrones debían estar concentrados en el centro del átomo.",
-        "B": "Debía existir una cantidad de carga positiva igual a la carga negativa total de los electrones.",
-        "C": "Los átomos debían contener partículas sin carga para mantener la estabilidad.",
-        "D": "La masa del átomo debía ser igual a la masa de sus electrones.",
-        "E": "Los átomos de diferentes elementos debían tener el mismo número de electrones."
+        "A": "Distribuida uniformemente en todo el átomo",
+        "B": "Principalmente en la nube de electrones",
+        "C": "Exclusivamente en los neutrones",
+        "D": "Concentrada en el núcleo",
+        "E": "Exclusivamente en los protones"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Si un átomo es neutro en su conjunto, y contiene partículas de carga negativa (electrones), es una consecuencia lógica que también deba contener una cantidad equivalente de carga positiva para que las cargas se cancelen y el resultado neto sea cero. Este razonamiento fue un paso clave hacia la postulación y descubrimiento del protón y el núcleo.",
+      "respuesta_correcta": "D",
+      "explicacion": "Las masas del protón y del neutrón son, individualmente, alrededor de 1800 veces mayores que la masa del electrón. Dado que los protones y los neutrones se encuentran juntos en el núcleo, la suma de sus masas constituye la práctica totalidad de la masa del átomo, concentrándola en esa pequeña región central.",
       "imagen": null
     }
   ]

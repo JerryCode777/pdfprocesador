@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 79,
+  "total_temas": 137,
+  "titulo_tema": "Calor y Calorimetría",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_079_001",
+      "pregunta": "¿Qué es la calorimetría?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El estudio de la temperatura y sus escalas de medición.",
+        "B": "La rama de la física que estudia las condiciones para que ocurra la transferencia de calor.",
+        "C": "La ciencia que mide la cantidad de calorías en los alimentos.",
+        "D": "El proceso de convertir energía térmica en energía mecánica.",
+        "E": "La medición de la capacidad de un objeto para retener calor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La calorimetría es la parte de la física que se enfoca en estudiar las condiciones necesarias para que se produzca la transferencia de calor entre objetos o sistemas. No se centra en la medición de la temperatura en sí, ni en las calorías de los alimentos, sino en el proceso de transferencia de energía térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_002",
+      "pregunta": "¿Cuál es la definición de calor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La temperatura interna de un objeto.",
+        "B": "Una sustancia invisible que fluye de los cuerpos calientes.",
+        "C": "La energía que se transfiere de un objeto a otro debido a una diferencia de temperatura.",
+        "D": "La cantidad total de energía cinética de las partículas de un cuerpo.",
+        "E": "Una propiedad intrínseca de la materia, como la masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor no es una propiedad que un objeto posee, sino la energía que está en tránsito de un objeto a otro. Esta transferencia ocurre específicamente porque existe una diferencia de temperatura entre los objetos involucrados.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_003",
+      "pregunta": "¿Cuál es la condición fundamental para que el calor se transfiera entre dos objetos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que ambos objetos estén en contacto físico directo.",
+        "B": "Que uno de los objetos esté en estado líquido o gaseoso.",
+        "C": "Que exista una diferencia de temperatura entre ellos.",
+        "D": "Que los objetos tengan la misma masa.",
+        "E": "Que se aplique una fuerza externa sobre ellos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La transferencia de calor es un proceso que se desencadena por una diferencia de temperatura. Si no hay diferencia de temperatura, no hay transferencia neta de calor, incluso si los objetos están en contacto. El calor siempre fluye del objeto de mayor temperatura al de menor temperatura para intentar alcanzar un equilibrio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_004",
+      "pregunta": "¿En qué dirección ocurre la transferencia de calor de forma natural?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Del objeto más grande al más pequeño.",
+        "B": "Del objeto con menor temperatura al de mayor temperatura.",
+        "C": "Del objeto con mayor temperatura al de menor temperatura.",
+        "D": "Del objeto con mayor densidad al de menor densidad.",
+        "E": "En ambas direcciones simultáneamente y con la misma magnitud."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La segunda ley de la termodinámica dicta que el calor fluye espontáneamente desde un cuerpo con una temperatura más alta hacia un cuerpo con una temperatura más baja, y nunca en la dirección opuesta de forma espontánea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_005",
+      "pregunta": "El estudio de las condiciones que rigen la transferencia de calor es el objeto de estudio de la:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Termodinámica",
+        "B": "Mecánica",
+        "C": "Óptica",
+        "D": "Calorimetría",
+        "E": "Acústica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por definición, la calorimetría es la parte de la física dedicada a estudiar las condiciones bajo las cuales se produce la transferencia de calor. Si bien está relacionada con la termodinámica, la calorimetría se enfoca específicamente en este aspecto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_006",
+      "pregunta": "Si un objeto A tiene una temperatura mayor que un objeto B, ¿qué ocurre cuando entran en contacto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El objeto B transfiere calor al objeto A.",
+        "B": "No hay transferencia de energía entre ellos.",
+        "C": "Ambos objetos pierden calor hacia el entorno.",
+        "D": "El objeto A transfiere calor al objeto B.",
+        "E": "El objeto A transfiere frío al objeto B."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El calor es energía en tránsito que fluye desde el cuerpo de mayor temperatura hacia el de menor temperatura. Por lo tanto, el objeto A, al estar más caliente, transferirá energía en forma de calor al objeto B, que está más frío.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_007",
+      "pregunta": "Al colocar un alimento en un refrigerador, este se enfría. ¿Cómo se explica este fenómeno según el concepto de calor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El refrigerador introduce 'frío' en el alimento.",
+        "B": "El alimento transfiere calor al ambiente más frío del refrigerador.",
+        "C": "La temperatura del alimento disminuye por la ausencia de luz.",
+        "D": "La presión dentro del refrigerador comprime el alimento y lo enfría.",
+        "E": "El alimento pierde masa y, por lo tanto, temperatura."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El enfriamiento no es la adición de 'frío', sino la extracción de calor. El alimento, al tener una temperatura mayor que el interior del refrigerador, transfiere su energía térmica (calor) al ambiente más frío hasta que sus temperaturas se equilibran. El calor fluye del alimento al refrigerador.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_008",
+      "pregunta": "¿Qué afirmación describe correctamente la relación entre calor y temperatura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Calor y temperatura son sinónimos y miden lo mismo.",
+        "B": "El calor es la causa y la diferencia de temperatura es el efecto.",
+        "C": "Un objeto con alta temperatura necesariamente contiene una gran cantidad de calor.",
+        "D": "Una diferencia de temperatura entre dos objetos es la causa de la transferencia de calor.",
+        "E": "El calor es una forma de materia y la temperatura es una forma de energía."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La temperatura es una medida de la energía cinética promedio de las partículas de un objeto, mientras que el calor es la energía que se transfiere debido a una diferencia en esa temperatura. Por lo tanto, la diferencia de temperatura es la condición necesaria (la causa) para que ocurra la transferencia de calor (el efecto).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_009",
+      "pregunta": "Calentar un refrigerio en un horno de microondas es un ejemplo de un proceso donde:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El refrigerio pierde calor hacia el horno.",
+        "B": "La temperatura del refrigerio disminuye.",
+        "C": "Se transfiere calor del horno al refrigerio, aumentando su temperatura.",
+        "D": "El horno y el refrigerio intercambian frío.",
+        "E": "No ocurre transferencia de energía, solo un cambio de estado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En este caso, el horno de microondas genera energía que es absorbida por el refrigerio. Esta energía transferida es calor, que provoca un aumento en la agitación de las moléculas del alimento y, consecuentemente, un aumento de su temperatura. El calor fluye de la fuente de energía (horno) al objeto más frío (refrigerio).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_010",
+      "pregunta": "¿Por qué el término 'calor' se refiere a una transferencia de energía y no a la energía contenida en un cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el calor solo existe cuando hay movimiento.",
+        "B": "Porque los cuerpos no contienen energía, solo temperatura.",
+        "C": "Porque el calor describe el proceso de intercambio energético debido a diferencias de temperatura.",
+        "D": "Porque el calor es medido en grados, a diferencia de la energía interna.",
+        "E": "Porque todos los cuerpos contienen la misma cantidad de energía base."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En física, es incorrecto decir que un objeto 'tiene calor'. Un objeto tiene energía interna. El término 'calor' se reserva exclusivamente para describir la energía que está en tránsito de un sistema a otro como resultado de una diferencia de temperatura. Es un proceso, no una propiedad estática.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_011",
+      "pregunta": "Si dos objetos, X e Y, están en un sistema aislado y el calor fluye de X a Y, ¿qué se puede concluir con certeza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El objeto X tiene más masa que el objeto Y.",
+        "B": "La temperatura inicial del objeto X es mayor que la del objeto Y.",
+        "C": "El objeto Y se enfriará con el tiempo.",
+        "D": "La temperatura inicial del objeto Y es mayor que la del objeto X.",
+        "E": "Ambos objetos tienen la misma temperatura inicial."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La dirección del flujo de calor está determinada únicamente por la diferencia de temperatura. Si el calor se transfiere de X a Y, es porque X se encuentra a una temperatura más alta que Y. Otras propiedades como la masa o el material no determinan la dirección del flujo de calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_012",
+      "pregunta": "¿Cuál de los siguientes escenarios NO involucra una transferencia de calor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una taza de café caliente que se enfría en una habitación.",
+        "B": "Un cubito de hielo que se derrite en la mano.",
+        "C": "Dos objetos en contacto que se encuentran a la misma temperatura.",
+        "D": "Calentar agua en una estufa.",
+        "E": "Poner un queso en el refrigerador para conservarlo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La transferencia de calor ocurre si y solo si existe una diferencia de temperatura entre dos objetos o sistemas. Si ambos objetos están a la misma temperatura, se encuentran en equilibrio térmico y no hay un flujo neto de calor entre ellos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_013",
+      "pregunta": "Imagina dos cuerpos, P y Q, en contacto. Si la temperatura de P es de 50°C y la de Q es de 50°C, ¿qué se puede afirmar sobre la transferencia de calor entre ellos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El calor fluye de P a Q porque P tiene más energía interna.",
+        "B": "El calor fluye de Q a P porque Q es más denso.",
+        "C": "No hay transferencia neta de calor entre P y Q.",
+        "D": "Se transfiere una cantidad significativa de calor de P a Q.",
+        "E": "La transferencia de calor depende del material del que están hechos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El requisito indispensable para la transferencia de calor es la existencia de una diferencia de temperatura. Dado que ambos cuerpos están a la misma temperatura (50°C), se encuentran en equilibrio térmico. En esta condición, no hay un flujo neto de energía en forma de calor entre ellos, independientemente de su masa, material o energía interna total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_014",
+      "pregunta": "Un estudiante afirma que 'para enfriar un objeto, hay que añadirle frío'. ¿Por qué esta afirmación es conceptualmente incorrecta desde el punto de vista de la calorimetría?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el frío no se puede medir con precisión.",
+        "B": "Porque el 'frío' no es una sustancia o energía que se pueda transferir; el enfriamiento es el resultado de la pérdida de calor.",
+        "C": "Porque enfriar un objeto siempre requiere un cambio de estado, como la congelación.",
+        "D": "Porque el frío y el calor son la misma forma de energía, pero con signos opuestos.",
+        "E": "Porque solo los gases pueden transferir frío, no los sólidos ni los líquidos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En física, el 'frío' no se considera una entidad transferible. Es simplemente la percepción de una baja temperatura o la ausencia de calor. El proceso de enfriamiento se describe correctamente como la transferencia de calor desde el objeto más caliente hacia el entorno o el objeto más frío. Por lo tanto, un objeto se enfría porque cede o pierde calor, no porque 'recibe frío'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_079_015",
+      "pregunta": "Si el calor es energía transferida debido a una diferencia de temperatura, ¿qué sucederá con el proceso de transferencia de calor entre un helado y una habitación caliente a lo largo del tiempo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El helado transferirá continuamente calor a la habitación hasta evaporarse.",
+        "B": "La transferencia de calor se detendrá cuando el helado se derrita por completo.",
+        "C": "La habitación transferirá calor al helado hasta que ambos alcancen la misma temperatura (equilibrio térmico).",
+        "D": "La transferencia de calor será constante e infinita.",
+        "E": "La habitación se enfriará a la misma temperatura que el helado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La transferencia de calor continuará mientras exista una diferencia de temperatura. La habitación, al tener una temperatura mayor, transferirá calor al helado. Este proceso hará que la temperatura del helado (y el agua resultante) aumente y la de la habitación disminuya ligeramente. La transferencia neta de calor cesará únicamente cuando todo el sistema (habitación y contenido del helado) alcance una temperatura uniforme, conocida como equilibrio térmico.",
+      "imagen": null
+    }
+  ]
+}

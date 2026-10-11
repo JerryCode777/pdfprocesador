@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 170,
+  "total_temas": 320,
+  "titulo_tema": "Reacción Antígeno-Anticuerpo",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_170_001",
+      "pregunta": "¿Qué tipo de interacción química caracteriza la unión entre un antígeno y un anticuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Covalente y permanente",
+        "B": "No covalente y reversible",
+        "C": "Metálica y fuerte",
+        "D": "Enzimática e irreversible",
+        "E": "Iónica y permanente"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La unión antígeno-anticuerpo es de naturaleza no covalente, lo que significa que se basa en interacciones débiles como puentes de hidrógeno, fuerzas iónicas, interacciones hidrofóbicas y fuerzas de Van der Waals. Esta naturaleza no covalente hace que la unión sea reversible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_002",
+      "pregunta": "¿Cómo se denomina la propiedad del sistema inmunitario que le permite no reaccionar contra los antígenos del propio organismo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Especificidad",
+        "B": "Memoria",
+        "C": "Clonalidad",
+        "D": "Tolerancia",
+        "E": "Opsonización"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La tolerancia es la capacidad fundamental del sistema inmunitario para reconocer los componentes propios del cuerpo como \"propios\" y, por lo tanto, no montar una respuesta inmune contra ellos. Este mecanismo es crucial para prevenir la autoinmunidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_003",
+      "pregunta": "¿Cuántos lugares de unión al antígeno tiene una molécula de inmunoglobulina básica (monomérica)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Uno",
+        "B": "Dos",
+        "C": "Cuatro",
+        "D": "Cinco",
+        "E": "Diez"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cada molécula de inmunoglobulina en su forma básica tiene una estructura en forma de 'Y', y posee dos sitios de unión idénticos para el antígeno, uno en el extremo de cada brazo de la 'Y'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_004",
+      "pregunta": "Cuando se forman grandes entramados entre antígenos solubles y anticuerpos, ¿qué fenómeno ocurre?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Neutralización",
+        "B": "Opsonización",
+        "C": "Tolerancia",
+        "D": "Precipitación",
+        "E": "Clonalidad"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La formación de grandes redes o complejos moleculares entre antígenos y anticuerpos hace que pierdan su solubilidad y caigan de la disolución, formando un precipitado. Este proceso facilita su posterior eliminación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_005",
+      "pregunta": "¿Qué característica de la respuesta inmune se refiere a su capacidad de generar una respuesta única para cada agente invasor específico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Memoria",
+        "B": "Tolerancia",
+        "C": "Especificidad",
+        "D": "Clonalidad",
+        "E": "Reversibilidad"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La especificidad es la propiedad que permite al sistema inmunitario distinguir entre diferentes antígenos y montar una respuesta dirigida y única contra cada uno de ellos, como una llave que encaja en una sola cerradura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_006",
+      "pregunta": "¿En qué se basa principalmente la especificidad de la interacción antígeno-anticuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En la carga eléctrica total del antígeno.",
+        "B": "En la complementariedad estructural entre el epítopo y las regiones variables del anticuerpo.",
+        "C": "En la presencia de enlaces covalentes fuertes.",
+        "D": "En la capacidad del anticuerpo para fagocitar al antígeno.",
+        "E": "En la temperatura del medio donde ocurre la reacción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La alta especificidad de esta interacción se debe a un ajuste preciso, similar al de una llave en una cerradura, entre la forma tridimensional del epítopo del antígeno y el sitio de unión en las regiones variables del anticuerpo (paratope).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_007",
+      "pregunta": "En el proceso de opsonización, ¿cuál es la función principal de los fragmentos Fc de las inmunoglobulinas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Unirse directamente al antígeno para inactivarlo.",
+        "B": "Actuar como señales que son reconocidas por las células fagocitarias.",
+        "C": "Destruir directamente la membrana del microorganismo.",
+        "D": "Iniciar la producción de más anticuerpos.",
+        "E": "Formar el precipitado del complejo antígeno-anticuerpo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una vez que el anticuerpo se ha unido al antígeno por sus regiones variables, los fragmentos Fc (la 'cola' de la inmunoglobulina) quedan expuestos y funcionan como un 'marcador' o señal que los receptores de las células fagocitarias pueden reconocer, mejorando así la eficiencia de la fagocitosis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_008",
+      "pregunta": "¿De qué manera la precipitación de complejos antígeno-anticuerpo ayuda en la defensa del organismo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Impide la proliferación de linfocitos.",
+        "B": "Genera una memoria inmunológica más duradera.",
+        "C": "Neutraliza directamente los virus dentro de las células.",
+        "D": "Agrupa los antígenos, facilitando su fagocitosis por macrófagos y PMNs.",
+        "E": "Activa la producción de toxinas contra el patógeno."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La precipitación aglomera los antígenos solubles en grandes masas insolubles. Esto los convierte en un blanco más grande y fácil de detectar y engullir para las células fagocitarias, como los macrófagos y los neutrófilos polimorfonucleares (PMNs), optimizando su eliminación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_009",
+      "pregunta": "Según la propiedad de 'memoria' del sistema inmune, ¿cómo es la respuesta ante una segunda infección por el mismo agente invasor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es idéntica en intensidad y duración a la primera.",
+        "B": "Es más lenta pero produce anticuerpos más específicos.",
+        "C": "Es más intensa y eficaz que la respuesta inicial.",
+        "D": "El sistema inmune ya no reacciona al haber desarrollado tolerancia.",
+        "E": "Es más débil, ya que los recursos se usaron en la primera infección."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La memoria inmunológica permite que, tras un primer contacto, el sistema conserve células específicas (linfocitos de memoria). En un segundo encuentro con el mismo antígeno, estas células se activan rápidamente, generando una respuesta mucho más rápida, fuerte (intensa) y efectiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_010",
+      "pregunta": "¿Qué consecuencia directa tiene un fallo en el mecanismo de tolerancia inmunológica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una inmunodeficiencia severa.",
+        "B": "La aparición de enfermedades autoinmunes.",
+        "C": "La incapacidad de generar memoria inmunológica.",
+        "D": "Una respuesta alérgica exagerada a antígenos inocuos.",
+        "E": "Una mayor susceptibilidad a infecciones virales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si el mecanismo de tolerancia falla, el sistema inmunitario pierde la capacidad de distinguir lo 'propio' de lo 'extraño'. Como resultado, puede comenzar a atacar a las células y tejidos del propio organismo, dando lugar a enfermedades autoinmunes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_011",
+      "pregunta": "La proliferación de un linfocito activado para generar una gran cantidad de células idénticas es un ejemplo de la propiedad de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tolerancia",
+        "B": "Memoria",
+        "C": "Especificidad",
+        "D": "Opsonización",
+        "E": "Clonalidad"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La clonalidad, o expansión clonal, es el proceso por el cual un linfocito que reconoce un antígeno específico se activa y se divide múltiples veces para producir un gran número de células hijas genéticamente idénticas (un clon). Todas estas células tendrán el mismo receptor y combatirán al mismo antígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_012",
+      "pregunta": "¿Cómo logra un anticuerpo neutralizar una toxina bacteriana?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Alterando el pH alrededor de la toxina para desnaturalizarla.",
+        "B": "Uniéndose a la toxina e impidiendo que esta se una a los receptores celulares.",
+        "C": "Enviando una señal para que la bacteria que la produce se autodestruya.",
+        "D": "Catalizando la descomposición de la toxina en fragmentos inofensivos.",
+        "E": "Fagocitando directamente la molécula de la toxina."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La neutralización ocurre cuando los anticuerpos se unen a sitios clave en la toxina. Esta unión bloquea físicamente la capacidad de la toxina para interactuar con sus receptores en la superficie de las células del huésped, inhabilitando así su efecto tóxico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_013",
+      "pregunta": "Las inmunoglobulinas que forman pentámeros, como la IgM, son especialmente eficaces en la precipitación de antígenos porque...",
+      "dificultad": 3,
+      "opciones": {
+        "A": "sus fragmentos Fc son más reconocibles por los macrófagos.",
+        "B": "son las únicas capaces de neutralizar virus.",
+        "C": "su gran tamaño les impide salir de los vasos sanguíneos.",
+        "D": "poseen un elevado número de sitios de unión por complejo, facilitando la formación de grandes entramados.",
+        "E": "la unión que forman con el antígeno es covalente e irreversible."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La precipitación depende de la capacidad de formar grandes redes tridimensionales (entramados) entre antígenos y anticuerpos. Una IgM pentamérica tiene 10 sitios de unión al antígeno, lo que le permite unir simultáneamente muchas moléculas de antígeno y formar estos grandes complejos de manera muy eficiente, a diferencia de un anticuerpo monomérico con solo dos sitios de unión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_014",
+      "pregunta": "¿Qué dos características de la respuesta inmune son la base biológica fundamental para el éxito de la vacunación a largo plazo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Tolerancia y Clonalidad",
+        "B": "Precipitación y Opsonización",
+        "C": "Neutralización y Tolerancia",
+        "D": "Especificidad y Memoria",
+        "E": "Clonalidad y Reversibilidad"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La vacunación funciona al introducir un antígeno de forma segura para que el sistema inmune genere una respuesta (Especificidad) y, lo que es más importante, cree un recuerdo de ese antígeno (Memoria). Gracias a esta memoria, si el individuo se encuentra con el patógeno real en el futuro, su sistema inmune montará una respuesta secundaria rápida y potente que evitará la enfermedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_170_015",
+      "pregunta": "El proceso de opsonización demuestra la colaboración directa entre...",
+      "dificultad": 3,
+      "opciones": {
+        "A": "la respuesta celular y la respuesta humoral.",
+        "B": "la memoria inmunológica y la tolerancia.",
+        "C": "la respuesta humoral específica y el mecanismo de defensa inespecífico de las células fagocitarias.",
+        "D": "la neutralización y la precipitación.",
+        "E": "el desarrollo embrionario y la respuesta inmune adulta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La opsonización es un claro ejemplo de la interacción entre diferentes ramas de la defensa. La respuesta humoral (específica) produce anticuerpos que se unen a un patógeno concreto. Estos anticuerpos actúan entonces como un puente, marcando al patógeno para que sea reconocido y eliminado más eficientemente por células del sistema inmune inespecífico, como los macrófagos (células fagocitarias).",
+      "imagen": null
+    }
+  ]
+}

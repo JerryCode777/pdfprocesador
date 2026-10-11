@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 67,
+  "total_temas": 137,
+  "titulo_tema": "Equilibrio Térmico",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_067_001",
+      "pregunta": "¿Cuál es la definición de equilibrio térmico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La condición en la que dos cuerpos en contacto tienen la misma masa.",
+        "B": "El estado en el que un cuerpo alcanza su temperatura máxima posible.",
+        "C": "La condición en la que dos cuerpos en contacto intercambian calor hasta alcanzar la misma temperatura.",
+        "D": "El proceso por el cual un cuerpo frío absorbe toda la energía de uno caliente.",
+        "E": "La situación en la que la energía cinética de las partículas de un cuerpo es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El equilibrio térmico es la condición que se alcanza cuando dos o más cuerpos en contacto térmico dejan de intercambiar energía en forma de calor. Esto ocurre precisamente cuando sus temperaturas se igualan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_002",
+      "pregunta": "La temperatura es una magnitud física que mide principalmente...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad total de calor en un objeto.",
+        "B": "La energía cinética promedio de las partículas en un objeto.",
+        "C": "La energía potencial de las partículas de un objeto.",
+        "D": "La masa total de un objeto.",
+        "E": "La capacidad de un objeto para transferir calor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura es una medida directa de la energía cinética promedio de las moléculas y átomos que componen un cuerpo. A mayor agitación (energía cinética), mayor es la temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_003",
+      "pregunta": "¿Cómo se describe el movimiento de las partículas en un objeto que se considera frío?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las partículas se mueven muy rápidamente.",
+        "B": "Las partículas dejan de moverse por completo.",
+        "C": "Las partículas se mueven más lentamente.",
+        "D": "El movimiento de las partículas es aleatorio y no depende de la temperatura.",
+        "E": "Las partículas vibran pero no se desplazan."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un objeto se considera frío cuando la energía cinética promedio de sus partículas es baja, lo que se traduce en un movimiento más lento de dichas partículas en comparación con un objeto caliente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_004",
+      "pregunta": "¿En qué dirección ocurre la transferencia espontánea de energía interna entre dos cuerpos en contacto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Del cuerpo con menor temperatura al de mayor temperatura.",
+        "B": "Del cuerpo con mayor masa al de menor masa.",
+        "C": "Del cuerpo de mayor temperatura al de menor temperatura.",
+        "D": "En ambas direcciones simultáneamente y en igual magnitud.",
+        "E": "Del cuerpo más grande al más pequeño."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía, en forma de calor, fluye de manera espontánea desde el cuerpo que tiene una temperatura más alta hacia el que tiene una temperatura más baja, hasta que ambas temperaturas se igualan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_005",
+      "pregunta": "¿En qué momento se detiene la transferencia de energía interna entre dos cuerpos en contacto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando el cuerpo más frío se evapora.",
+        "B": "Cuando el cuerpo más caliente agota su energía.",
+        "C": "Cuando se alcanza la temperatura de equilibrio.",
+        "D": "Inmediatamente después de entrar en contacto.",
+        "E": "Cuando la presión entre ambos es igual a cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La transferencia de energía interna, conocida como calor, culmina cuando los dos cuerpos alcanzan la misma temperatura, un estado conocido como temperatura de equilibrio. En ese punto, el flujo neto de energía es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_006",
+      "pregunta": "Al poner en contacto un cuerpo A a 90°C y un cuerpo B a 10°C, ¿qué sucede con sus temperaturas hasta alcanzar el equilibrio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura de A aumenta y la de B disminuye.",
+        "B": "Ambas temperaturas aumentan.",
+        "C": "La temperatura de A disminuye y la de B aumenta.",
+        "D": "Ambas temperaturas disminuyen.",
+        "E": "Sus temperaturas no cambian, solo se transfiere energía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cuerpo de mayor temperatura (A) cederá energía al de menor temperatura (B). Como resultado, la temperatura de A disminuirá, mientras que la temperatura de B aumentará hasta que ambas alcancen un valor intermedio de equilibrio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_007",
+      "pregunta": "La expresión matemática $$Q_{ganado} = -Q_{perdido}$$ representa:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la energía siempre se pierde en forma de calor.",
+        "B": "Que la cantidad de energía ganada por el cuerpo frío es igual a la cantidad de energía perdida por el cuerpo caliente.",
+        "C": "Que la temperatura final es el promedio exacto de las temperaturas iniciales.",
+        "D": "Que el calor ganado es siempre negativo.",
+        "E": "Que la transferencia de calor es un proceso ineficiente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta ecuación es una manifestación de la conservación de la energía. Establece que, en un sistema aislado, toda la energía (calor) que pierde el objeto más caliente es absorbida por el objeto más frío. El signo negativo en $$-Q_{perdido}$$ indica que es una cantidad de energía que sale del cuerpo caliente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_008",
+      "pregunta": "¿Por qué motivo fundamental deja de existir la transferencia de calor cuando un sistema alcanza el equilibrio térmico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la energía total del sistema se ha agotado.",
+        "B": "Porque los objetos ya no están en contacto físico.",
+        "C": "Porque el calor solo existe cuando hay una diferencia de temperaturas.",
+        "D": "Porque las partículas de los cuerpos dejan de moverse.",
+        "E": "Porque la presión externa impide el flujo de energía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor es, por definición, energía en tránsito debido a una diferencia de temperatura. Cuando dos cuerpos alcanzan la misma temperatura (equilibrio térmico), esta diferencia desaparece, y por lo tanto, el flujo neto de calor entre ellos se vuelve cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_009",
+      "pregunta": "Un termómetro funciona porque entra en equilibrio térmico con el objeto que mide. Esto significa que la lectura del termómetro indica:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura que el objeto tenía antes de ser medido.",
+        "B": "La temperatura del termómetro, que es la misma que la del objeto en el momento de la medición.",
+        "C": "Una temperatura promedio entre el termómetro y el objeto.",
+        "D": "La capacidad calorífica del objeto.",
+        "E": "La energía total transferida al termómetro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que un termómetro dé una lectura precisa, debe estar en contacto con el objeto el tiempo suficiente para que ambos alcancen el equilibrio térmico. En ese punto, la temperatura del termómetro es igual a la del objeto, y esa es la temperatura que se lee.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_010",
+      "pregunta": "¿Qué implica la expresión matemática $$Q_1 + Q_2 + Q_3 = 0$$ en un sistema aislado de tres cuerpos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los tres cuerpos deben tener la misma temperatura inicial.",
+        "B": "Que la suma algebraica de los calores intercambiados entre los cuerpos es cero.",
+        "C": "Que cada cuerpo pierde una cantidad igual de calor.",
+        "D": "Que no ocurre ninguna transferencia de calor en el sistema.",
+        "E": "Que la temperatura de equilibrio del sistema es 0."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta ecuación representa la ley de conservación de la energía para un sistema térmicamente aislado. Significa que el calor ganado por algunos cuerpos (valores de $Q$ positivos) es igual en magnitud al calor perdido por otros (valores de $Q$ negativos), de modo que la suma neta de energía intercambiada es nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_011",
+      "pregunta": "Cuando se habla de una \"transferencia de energía interna\" de un cuerpo caliente a uno frío, nos referimos al proceso conocido como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumento de la energía cinética.",
+        "B": "Equilibrio térmico.",
+        "C": "Medición de temperatura.",
+        "D": "Transferencia de calor.",
+        "E": "Cambio de estado."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El calor es la energía interna que se transfiere de un sistema a otro debido a una diferencia de temperatura. Por lo tanto, el proceso de transferencia de energía interna del cuerpo más caliente al más frío es la transferencia de calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_012",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor la relación entre la temperatura de un gas y la energía de sus partículas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura es la suma de todas las energías cinéticas de las partículas.",
+        "B": "La temperatura es proporcional a la energía cinética promedio de las partículas.",
+        "C": "La temperatura no tiene relación con la energía de las partículas.",
+        "D": "A mayor temperatura, menor es la energía cinética promedio.",
+        "E": "La temperatura es igual a la energía cinética de la partícula más rápida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura de una sustancia es una medida macroscópica que está directamente relacionada con la energía cinética promedio de sus constituyentes microscópicos (átomos o moléculas). No es la suma total ni la energía de una sola partícula, sino el promedio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_013",
+      "pregunta": "Si al poner en contacto un bloque de metal X con un recipiente de agua Y, se observa que la temperatura del agua aumenta, ¿qué se puede concluir acerca de sus temperaturas iniciales?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La temperatura inicial de X era menor que la de Y.",
+        "B": "Ambos cuerpos tenían la misma temperatura inicial.",
+        "C": "La temperatura inicial de X era mayor que la de Y.",
+        "D": "El metal X tenía más masa que el agua Y.",
+        "E": "No se puede concluir nada sin saber sus masas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía fluye espontáneamente del cuerpo de mayor temperatura al de menor temperatura. Si la temperatura del agua (Y) aumenta, significa que está ganando energía. Esta energía debe provenir del bloque de metal (X), lo que implica que la temperatura inicial del metal era mayor que la del agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_014",
+      "pregunta": "La expresión matemática $$Q_{ganado} = -Q_{perdido}$$ se puede reescribir como $$Q_{ganado} + Q_{perdido} = 0$$. ¿Qué principio fundamental se está aplicando en un sistema de dos cuerpos que alcanzan el equilibrio térmico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Principio de Arquímedes.",
+        "B": "Segunda Ley de Newton.",
+        "C": "Ley de la Conservación de la Masa.",
+        "D": "Ley de la Conservación de la Energía.",
+        "E": "Principio de Pascal."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación $$Q_{ganado} + Q_{perdido} = 0$$ establece que la suma neta del calor intercambiado en un sistema aislado es cero. Esto significa que no se crea ni se destruye energía, simplemente se transfiere de un cuerpo a otro. Este es el enunciado de la Ley de la Conservación de la Energía aplicada a procesos térmicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_067_015",
+      "pregunta": "Considerando un sistema aislado donde el cuerpo A transfiere energía al cuerpo B hasta que alcanzan una temperatura de equilibrio $T_{eq}$. ¿Qué afirmación es necesariamente correcta sobre la temperatura inicial de A ($T_A$) y la temperatura inicial de B ($T_B$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$T_A < T_{eq} < T_B$$",
+        "B": "$$T_B < T_{eq} < T_A$$",
+        "C": "$$T_{eq} < T_A < T_B$$",
+        "D": "$$T_A = T_B = T_{eq}$$",
+        "E": "$$T_{eq} = \\frac{T_A + T_B}{2}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si el cuerpo A transfiere energía al cuerpo B, significa que A es el cuerpo más caliente y B es el más frío. Por lo tanto, la temperatura inicial de A ($T_A$) debe ser mayor que la temperatura inicial de B ($T_B$). La temperatura de equilibrio ($T_{eq}$) será un valor intermedio al que A desciende y B asciende. Esto se expresa correctamente como $$T_B < T_{eq} < T_A$$. La opción E solo es cierta en casos muy específicos donde las masas y calores específicos son iguales, lo cual no se puede asumir en general.",
+      "imagen": null
+    }
+  ]
+}

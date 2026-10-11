@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_110_001",
-      "pregunta": "¿Cómo se define el radio iónico?",
+      "pregunta": "¿Cómo se compara el radio de un catión con el de su átomo neutro correspondiente?",
       "dificultad": 1,
       "opciones": {
-        "A": "La distancia exacta entre el núcleo y el electrón más externo de un átomo neutro.",
-        "B": "La mitad de la distancia entre dos núcleos atómicos en una molécula diatómica.",
-        "C": "Una medida que proporciona el tamaño relativo de los átomos ionizados.",
-        "D": "El volumen total ocupado por la nube de electrones de un ion.",
-        "E": "La medida del radio del núcleo de un átomo que ha perdido o ganado electrones."
+        "A": "Es siempre mayor",
+        "B": "Es siempre menor",
+        "C": "Es siempre igual",
+        "D": "Depende del número de protones",
+        "E": "Es impredecible"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El radio iónico se define de forma análoga al radio atómico, pero se aplica a iones (átomos que han ganado o perdido electrones). Proporciona una medida del tamaño relativo del ion, cuyo tamaño real puede variar según su entorno.",
+      "respuesta_correcta": "B",
+      "explicacion": "Un catión se forma cuando un átomo neutro pierde uno o más electrones. Al tener menos electrones, la carga positiva del núcleo (protones) atrae con mayor fuerza a los electrones restantes, lo que provoca una contracción de la nube electrónica y, por tanto, una disminución del radio. La relación es: $$ \\text{Radio átomo} > \\text{Radio catión} $$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_002",
-      "pregunta": "¿Qué relación de tamaño existe entre un anión y su átomo neutro correspondiente?",
+      "pregunta": "¿Qué es la electronegatividad?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$R_{\\text{anión}} < R_{\\text{átomo}}$$",
-        "B": "$$R_{\\text{anión}} > R_{\\text{átomo}}$$",
-        "C": "$$R_{\\text{anión}} = R_{\\text{átomo}}$$",
-        "D": "$$R_{\\text{anión}} \\approx 2 \\cdot R_{\\text{átomo}}$$",
-        "E": "La relación es variable y no sigue un patrón definido."
+        "A": "La energía necesaria para remover un electrón de un átomo.",
+        "B": "La fuerza relativa de un átomo para atraer electrones en un enlace químico.",
+        "C": "La distancia entre el núcleo y el electrón más externo de un ion.",
+        "D": "La tendencia de un átomo a formar aniones en estado gaseoso.",
+        "E": "El tamaño relativo de un átomo en una molécula."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Un anión se forma cuando un átomo neutro gana electrones. El aumento en el número de electrones en el nivel más externo provoca una mayor repulsión entre ellos, lo que expande la nube electrónica. Por lo tanto, el radio del anión es siempre mayor que el del átomo neutro del que proviene.",
+      "explicacion": "La electronegatividad se define como la medida de la fuerza relativa con la que un átomo atrae hacia sí los electrones cuando forma parte de un enlace químico en una molécula. Es una propiedad fundamental para entender la naturaleza de los enlaces (iónicos o covalentes).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_003",
-      "pregunta": "¿Cómo se compara el radio de un catión con el de su átomo neutro original?",
+      "pregunta": "¿Cuál es la tendencia general del radio iónico al descender en un grupo de la tabla periódica?",
       "dificultad": 1,
       "opciones": {
-        "A": "El radio del catión es mayor que el del átomo neutro.",
-        "B": "El radio del catión es menor que el del átomo neutro.",
-        "C": "Ambos radios son idénticos.",
-        "D": "El radio del catión es exactamente la mitad del radio del átomo neutro.",
-        "E": "No existe una relación consistente entre los radios."
+        "A": "Disminuye",
+        "B": "Aumenta",
+        "C": "Permanece constante",
+        "D": "Aumenta y luego disminuye",
+        "E": "No sigue una tendencia clara"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Un catión se forma cuando un átomo neutro pierde electrones. Al haber menos electrones, la carga positiva del núcleo (protones) atrae con mayor fuerza a los electrones restantes, contrayendo la nube electrónica. Por esta razón, la relación es siempre $$R_{\\text{átomo}} > R_{\\text{catión}}$$.",
+      "explicacion": "Al igual que el radio atómico, el radio iónico aumenta al descender en un grupo. Esto se debe a que cada elemento sucesivo hacia abajo tiene un nivel de energía (capa electrónica) adicional, lo que incrementa la distancia entre el núcleo y los electrones más externos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_004",
-      "pregunta": "¿Cuál es la tendencia general del radio iónico al descender en un grupo de la tabla periódica?",
+      "pregunta": "¿Cómo es el radio de un anión en comparación con el del átomo neutro del que procede?",
       "dificultad": 1,
       "opciones": {
-        "A": "Disminuye porque aumenta la carga nuclear.",
-        "B": "Aumenta debido a la adición de nuevos niveles de energía.",
-        "C": "Permanece constante ya que los elementos tienen propiedades similares.",
-        "D": "Varía de forma irregular sin una tendencia clara.",
-        "E": "Disminuye en los metales y aumenta en los no metales."
+        "A": "Es menor",
+        "B": "Es igual",
+        "C": "Es mayor",
+        "D": "Puede ser mayor o menor dependiendo del elemento",
+        "E": "Es exactamente la mitad"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Al descender en un grupo, cada elemento tiene un nivel de energía principal adicional. Esto significa que los electrones más externos están más lejos del núcleo, lo que resulta en un aumento del radio iónico, de manera análoga al radio atómico.",
+      "respuesta_correcta": "C",
+      "explicacion": "Un anión se forma cuando un átomo neutro gana uno o más electrones. El aumento en el número de electrones en el nivel externo genera una mayor repulsión entre ellos. Esta repulsión expande la nube electrónica, haciendo que el radio del anión sea mayor que el del átomo neutro original. La relación es: $$ \\text{Radio anión} > \\text{Radio átomo} $$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_005",
-      "pregunta": "En la tabla periódica, ¿qué ocurre con el radio iónico a medida que se avanza hacia la derecha en un periodo?",
+      "pregunta": "Según las propiedades periódicas, ¿qué tipo de elementos tienden a tener una baja electronegatividad?",
       "dificultad": 1,
       "opciones": {
-        "A": "Aumenta.",
-        "B": "Disminuye.",
-        "C": "Se mantiene constante.",
-        "D": "Aumenta para los cationes y disminuye para los aniones.",
-        "E": "No sigue una tendencia definida."
+        "A": "Elementos con carácter no metálico",
+        "B": "Elementos con altas energías de ionización",
+        "C": "Elementos con carácter metálico o electropositivo",
+        "D": "Elementos con altas afinidades electrónicas",
+        "E": "Gases nobles"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Al igual que el radio atómico, el radio iónico tiende a disminuir al moverse hacia la derecha en un periodo. Esto se debe al aumento del número atómico ($Z$), lo que incrementa la carga nuclear y la atracción sobre los electrones, compactando el ion.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los elementos con bajas energías de ionización y bajas afinidades electrónicas, que son características de los metales, tienen una baja electronegatividad. Esto significa que tienden a ceder electrones en lugar de atraerlos, lo que se conoce como carácter electropositivo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_006",
-      "pregunta": "¿Cuál es la justificación física de que un anión sea más grande que su átomo neutro?",
+      "pregunta": "¿Cuál es la razón principal por la que el radio atómico disminuye al avanzar hacia la derecha en un periodo?",
       "dificultad": 2,
       "opciones": {
-        "A": "La adición de protones en el núcleo que expanden su campo de fuerza.",
-        "B": "La disminución de la carga nuclear efectiva al añadir electrones.",
-        "C": "El aumento de la repulsión entre los electrones en la capa de valencia.",
-        "D": "La pérdida de un nivel cuántico principal completo.",
-        "E": "La transformación del átomo en un isótopo más pesado."
+        "A": "Se añaden más niveles de energía.",
+        "B": "La atracción del núcleo sobre los electrones externos aumenta.",
+        "C": "La repulsión entre los electrones del mismo nivel disminuye.",
+        "D": "El número de neutrones en el núcleo aumenta.",
+        "E": "Los átomos tienden a formar cationes más fácilmente."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Cuando un átomo gana electrones para formar un anión, estos electrones adicionales se ubican en el nivel de energía más externo. El incremento en el número de electrones en el mismo nivel aumenta las fuerzas de repulsión entre ellos, lo que causa que la nube electrónica se expanda y, por ende, el radio iónico sea mayor.",
+      "respuesta_correcta": "B",
+      "explicacion": "Al moverse hacia la derecha en un periodo, el número atómico ($Z$) aumenta, lo que significa que hay más protones en el núcleo. Aunque también se añaden electrones, estos se ubican en el mismo nivel de energía. La mayor carga nuclear ejerce una atracción más fuerte sobre los electrones de la capa más externa, contrayendo el átomo y disminuyendo su radio.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_007",
-      "pregunta": "¿Por qué motivo el radio de un catión es significativamente menor que el de su átomo de origen?",
+      "pregunta": "Ordene correctamente las siguientes especies de menor a mayor radio: átomo neutro (X), su catión ($$X^+$$) y su anión ($$X^-$$).",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque el número de protones disminuye, reduciendo la atracción.",
-        "B": "Debido a que los electrones restantes se reorganizan en niveles de energía inferiores.",
-        "C": "Porque al haber menos electrones, la carga nuclear positiva predomina y atrae con más fuerza a los electrones restantes.",
-        "D": "A causa de un aumento en la repulsión entre los electrones de la capa externa.",
-        "E": "Porque los neutrones del núcleo se compactan."
+        "A": "$$X^+ < X < X^-$$",
+        "B": "$$X^- < X < X^+$$",
+        "C": "$$X < X^+ < X^-$$",
+        "D": "$$X < X^- < X^+$$",
+        "E": "$$X^+ < X^- < X$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La formación de un catión implica la pérdida de electrones. El número de protones en el núcleo permanece constante, por lo que la carga nuclear positiva no cambia. Esta carga ahora actúa sobre un número menor de electrones, resultando en una atracción más fuerte por cada electrón y una consecuente contracción del radio.",
+      "respuesta_correcta": "A",
+      "explicacion": "La correcta ordenación se basa en la comparación de radios: 1) El catión ($$X^+$$) es el más pequeño porque al perder un electrón, la atracción del núcleo sobre los electrones restantes es más fuerte. 2) El átomo neutro ($X$) tiene un tamaño intermedio. 3) El anión ($$X^-$$) es el más grande porque al ganar un electrón, la repulsión entre los electrones de la capa externa aumenta, expandiendo la nube electrónica. Por lo tanto, el orden de menor a mayor radio es catión < átomo neutro < anión.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_008",
-      "pregunta": "¿Cuál es la razón principal por la que el radio atómico disminuye a lo largo de un periodo?",
+      "pregunta": "Si un elemento tiene una alta energía de ionización y una alta afinidad electrónica, ¿qué se puede concluir sobre su electronegatividad?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se añaden más capas de electrones, expandiendo el átomo.",
-        "B": "Los átomos ganan masa, lo que los hace más densos y pequeños.",
-        "C": "La repulsión entre electrones se vuelve más fuerte y los empuja hacia afuera.",
-        "D": "Aumenta la carga nuclear ($Z$), ejerciendo una mayor atracción sobre los electrones del mismo nivel energético.",
-        "E": "Disminuye el número de neutrones, permitiendo que el núcleo se contraiga."
+        "A": "Tendrá una electronegatividad muy baja.",
+        "B": "Tendrá una electronegatividad alta.",
+        "C": "Su electronegatividad será cercana a cero.",
+        "D": "Estas propiedades no están relacionadas con la electronegatividad.",
+        "E": "Tendrá un carácter marcadamente metálico."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Al avanzar hacia la derecha en un periodo, el número atómico ($Z$) aumenta, lo que significa que hay más protones en el núcleo. Aunque también se añaden electrones, estos entran en el mismo nivel de energía. La mayor carga positiva del núcleo atrae con más fuerza a estos electrones, reduciendo la distancia núcleo-electrón y, por lo tanto, el radio atómico.",
+      "respuesta_correcta": "B",
+      "explicacion": "La electronegatividad está directamente relacionada con la energía de ionización y la afinidad electrónica. Una alta energía de ionización significa que es difícil quitarle un electrón, y una alta afinidad electrónica significa que libera mucha energía al ganar uno. Ambas características indican una fuerte tendencia a atraer electrones, lo que resulta en una alta electronegatividad y un fuerte carácter no metálico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_009",
-      "pregunta": "Dado que es imposible aislar un solo ion para medir su radio directamente, ¿qué tipo de método se emplea para su determinación?",
+      "pregunta": "¿Por qué un anión tiene un radio mayor que su átomo neutro?",
       "dificultad": 2,
       "opciones": {
-        "A": "Observación directa con microscopios electrónicos.",
-        "B": "Cálculos teóricos basados en la electronegatividad.",
-        "C": "Medición del volumen del ion en estado gaseoso.",
-        "D": "Métodos indirectos como la difracción de rayos X en cristales iónicos.",
-        "E": "Uso de espectrometría de masas para separar iones por tamaño."
+        "A": "Porque el núcleo pierde protones durante la ionización.",
+        "B": "Porque los electrones adicionales se añaden a un nuevo nivel de energía más lejano.",
+        "C": "Porque el número de protones es insuficiente para atraer fuertemente a los electrones adicionales.",
+        "D": "Porque la repulsión entre el mayor número de electrones en la capa externa expande la nube electrónica.",
+        "E": "Porque la carga nuclear efectiva disminuye drásticamente."
       },
       "respuesta_correcta": "D",
-      "explicacion": "El tamaño de un ion depende de su interacción con las partículas que lo rodean. Por ello, no se puede aislar y medir directamente. Se utilizan técnicas indirectas, como la difracción de rayos X sobre estructuras cristalinas, para determinar las distancias interiónicas y a partir de ellas inferir los radios iónicos.",
+      "explicacion": "Cuando un átomo neutro gana electrones para formar un anión, estos electrones se añaden a la capa de valencia. El aumento de la densidad de carga negativa en esta capa provoca un incremento en las fuerzas de repulsión entre los electrones, lo que hace que la nube electrónica se expanda y, en consecuencia, el radio iónico del anión sea mayor que el radio del átomo neutro.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_010",
-      "pregunta": "¿Qué propiedad describe la fuerza relativa de un átomo para atraer hacia sí los electrones de un enlace químico?",
+      "pregunta": "La tendencia del radio iónico en la tabla periódica es...",
       "dificultad": 2,
       "opciones": {
-        "A": "Energía de ionización",
-        "B": "Radio iónico",
-        "C": "Afinidad electrónica",
-        "D": "Carácter metálico",
-        "E": "Electronegatividad"
+        "A": "Opuesta a la del radio atómico.",
+        "B": "Similar a la del radio atómico: aumenta hacia abajo en los grupos y disminuye hacia la derecha en los periodos.",
+        "C": "Similar a la de la electronegatividad: disminuye hacia abajo y aumenta hacia la derecha.",
+        "D": "Completamente aleatoria y sin un patrón definido.",
+        "E": "Constante para todos los elementos de un mismo periodo."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "La electronegatividad es, por definición, la medida de la capacidad de un átomo para atraer los electrones compartidos en un enlace químico. Una alta electronegatividad indica una fuerte atracción por los electrones.",
+      "respuesta_correcta": "B",
+      "explicacion": "El radio iónico sigue las mismas tendencias generales que el radio atómico en la tabla periódica. Aumenta al descender por un grupo debido a la adición de nuevos niveles de energía, y disminuye al avanzar hacia la derecha en un periodo debido al aumento de la carga nuclear efectiva que atrae más fuertemente a los electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_011",
-      "pregunta": "¿Qué relación existe entre la electronegatividad de un elemento y su carácter metálico?",
+      "pregunta": "¿Por qué es imposible medir directamente el radio de un solo átomo o ion aislado?",
       "dificultad": 2,
       "opciones": {
-        "A": "Los elementos con alta electronegatividad tienen un fuerte carácter metálico.",
-        "B": "Los elementos con baja electronegatividad tienen un carácter metálico o electropositivo.",
-        "C": "No hay relación directa entre electronegatividad y carácter metálico.",
-        "D": "Todos los metales tienen la misma electronegatividad.",
-        "E": "La electronegatividad solo se aplica a los no metales."
+        "A": "Porque los átomos y los iones son demasiado pequeños para cualquier técnica de medición.",
+        "B": "Porque el tamaño real depende de su interacción con átomos o iones circundantes.",
+        "C": "Porque el principio de incertidumbre de Heisenberg impide localizar los electrones.",
+        "D": "Porque los electrones se mueven a la velocidad de la luz.",
+        "E": "Porque los núcleos atómicos no tienen un borde definido."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Los elementos con carácter metálico tienden a ceder electrones en lugar de atraerlos. Esta tendencia se corresponde con una baja energía de ionización y, consecuentemente, con una baja electronegatividad. Por ello, a los elementos metálicos también se les llama electropositivos.",
+      "explicacion": "El radio de un átomo o ion no es una propiedad intrínseca y fija, sino que su tamaño efectivo depende del entorno químico en el que se encuentra, es decir, de cómo interactúa con otras partículas a su alrededor. Por esta razón, no se puede aislar una sola partícula para medirla, y se recurre a métodos indirectos como la difracción de rayos X en cristales, que mide distancias internucleares.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_012",
-      "pregunta": "¿Cuál de las siguientes expresiones ordena correctamente los radios de una especie atómica X y sus iones comunes?",
+      "pregunta": "La escala más conocida para cuantificar la electronegatividad fue creada por:",
       "dificultad": 2,
       "opciones": {
-        "A": "$$R_{X^+} > R_{X} > R_{X^-}$$",
-        "B": "$$R_{X} > R_{X^-} > R_{X^+}$$",
-        "C": "$$R_{X^-} > R_{X} > R_{X^+}$$",
-        "D": "$$R_{X^-} > R_{X^+} > R_{X}$$",
-        "E": "$$R_{X^+} = R_{X} = R_{X^-}$$"
+        "A": "Dmitri Mendeléyev",
+        "B": "Gilbert N. Lewis",
+        "C": "Niels Bohr",
+        "D": "Erwin Schrödinger",
+        "E": "Linus Pauling"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El orden correcto de radios se basa en la relación entre el número de protones y electrones. El anión ($X^-$) es el más grande debido a la repulsión electrónica adicional. El átomo neutro ($X$) es de tamaño intermedio. El catión ($X^+$) es el más pequeño porque la carga nuclear atrae con más fuerza al menor número de electrones. Por lo tanto, el orden decreciente es anión > átomo neutro > catión.",
+      "respuesta_correcta": "E",
+      "explicacion": "Linus Pauling, un destacado químico estadounidense, desarrolló la escala de electronegatividad más utilizada. Basó su escala en datos termoquímicos de energías de enlace para calcular la diferencia de electronegatividad entre dos átomos en un enlace.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_013",
-      "pregunta": "Un elemento con alta energía de ionización y alta afinidad electrónica, ¿qué tipo de ion tiende a formar y cómo cambia su radio?",
+      "pregunta": "¿Cuál de las siguientes expresiones matemáticas representa correctamente las relaciones generales entre el radio de un átomo y sus iones?",
       "dificultad": 3,
       "opciones": {
-        "A": "Tiende a formar un catión, y su radio aumenta.",
-        "B": "Tiende a formar un catión, y su radio disminuye.",
-        "C": "Tiende a formar un anión, y su radio disminuye.",
-        "D": "Tiende a formar un anión, y su radio aumenta.",
-        "E": "No forma iones, por lo que su radio no cambia."
+        "A": "$$\\text{Radio átomo} < \\text{Radio catión}$$",
+        "B": "$$\\text{Radio anión} < \\text{Radio átomo}$$",
+        "C": "$$\\text{Radio átomo} > \\text{Radio catión}$$",
+        "D": "$$\\text{Radio catión} = \\text{Radio anión}$$",
+        "E": "$$\\text{Radio anión} = \\text{Radio átomo}$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Un elemento con alta energía de ionización (dificultad para perder electrones) y alta afinidad electrónica (facilidad para ganar electrones) tiene alta electronegatividad y carácter no metálico. Por lo tanto, tenderá a ganar electrones para formar un anión. Al formar un anión, el número de electrones supera al de protones, aumentando la repulsión electrónica y, en consecuencia, el radio del ion es mayor que el del átomo neutro.",
+      "respuesta_correcta": "C",
+      "explicacion": "La formación de un catión implica la pérdida de electrones, lo que aumenta la atracción efectiva del núcleo sobre los electrones restantes, resultando en un radio menor. Por lo tanto, la relación correcta es que el radio del átomo neutro es siempre mayor que el radio de su catión correspondiente ($$\\text{Radio átomo} > \\text{Radio catión}$$). Las otras opciones son incorrectas: los aniones son más grandes que sus átomos neutros, y no hay una igualdad general entre los radios.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_014",
-      "pregunta": "Al comparar los iones $Na^+$ y $K^+$, sabiendo que el Sodio (Na) está en el periodo 3 y el Potasio (K) en el periodo 4 del mismo grupo, ¿cuál tendrá un radio iónico mayor y por qué?",
+      "pregunta": "Un elemento X, con un número atómico $Z$, forma un catión $X^{2+}$. Un elemento Y, con número atómico $Z+1$ y en el mismo periodo, forma un anión $Y^{-}$. ¿Qué se puede inferir sobre los radios de los átomos neutros X e Y?",
       "dificultad": 3,
       "opciones": {
-        "A": "$Na^+$, porque tiene menor número atómico.",
-        "B": "$K^+$, porque tiene más niveles de energía ocupados por electrones.",
-        "C": "$Na^+$, porque su carga nuclear es más efectiva.",
-        "D": "$K^+$, porque tiene más protones atrayendo a los mismos electrones.",
-        "E": "Tendrán el mismo radio porque poseen la misma carga."
+        "A": "El radio de X es mayor que el radio de Y.",
+        "B": "El radio de Y es mayor que el radio de X.",
+        "C": "Los radios de X e Y son iguales.",
+        "D": "El radio de $X^{2+}$ es mayor que el radio de Y.",
+        "E": "No se puede establecer una comparación sin saber los valores de $Z$."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El radio iónico, al igual que el atómico, aumenta al descender en un grupo. El ion potasio ($K^+$) se encuentra en un periodo inferior al del ion sodio ($Na^+$). Esto significa que los electrones más externos del $K^+$ están en un nivel de energía principal más alto (n=4 para K, n=3 para Na) y, por lo tanto, más alejados del núcleo. Como resultado, el radio de $K^+$ es mayor que el de $Na^+$.",
+      "respuesta_correcta": "A",
+      "explicacion": "Ambos elementos, X e Y, están en el mismo periodo. El radio atómico disminuye hacia la derecha en un periodo debido al aumento de la carga nuclear. Como Y tiene un número atómico ($Z+1$) mayor que X ($Z$), el átomo de Y está a la derecha del átomo de X. Por lo tanto, el átomo de X tendrá un radio mayor que el átomo de Y.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_110_015",
-      "pregunta": "Si comparamos los iones isoelectrónicos $O^{2-}$ y $F^-$, ambos con 10 electrones, pero con Oxígeno ($Z=8$) y Flúor ($Z=9$), ¿cuál ión se espera que tenga un radio menor y por qué?",
+      "pregunta": "Si comparamos dos iones con el mismo número de electrones (isoelectrónicos) pero diferente número de protones, como $O^{2-}$ (Z=8) y $F^{-}$ (Z=9), ¿cuál tendrá el radio iónico más grande y por qué?",
       "dificultad": 3,
       "opciones": {
-        "A": "$O^{2-}$, porque tiene menos protones y su atracción es más débil.",
-        "B": "$F^-$, porque su mayor carga nuclear ($Z=9$) atrae con más fuerza a los mismos 10 electrones.",
-        "C": "$O^{2-}$, porque su carga iónica -2 causa una mayor expansión.",
-        "D": "$F^-$, porque al ser más electronegativo, compacta más sus electrones.",
-        "E": "Ambos tendrán el mismo radio porque son isoelectrónicos."
+        "A": "$F^{-}$ tendrá el radio más grande porque tiene más protones.",
+        "B": "$O^{2-}$ tendrá el radio más grande porque su menor carga nuclear atrae con menos fuerza a la misma cantidad de electrones.",
+        "C": "Ambos tendrán el mismo radio porque tienen el mismo número de electrones.",
+        "D": "$F^{-}$ tendrá el radio más grande porque el flúor es más electronegativo.",
+        "E": "$O^{2-}$ tendrá el radio más grande porque el oxígeno está más a la izquierda en la tabla periódica."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Aunque esta pregunta introduce el concepto de especies isoelectrónicas no explícito en el texto, se puede resolver aplicando el principio fundamental de la atracción nuclear. Ambos iones tienen 10 electrones. Sin embargo, el núcleo de Flúor tiene 9 protones ($Z=9$), mientras que el de Oxígeno tiene 8 protones ($Z=8$). La mayor carga nuclear del Flúor ejerce una atracción más intensa sobre la misma cantidad de electrones, lo que resulta en una nube electrónica más contraída y, por lo tanto, un radio iónico menor para el $F^-$ en comparación con el $O^{2-}$.",
+      "explicacion": "Ambos iones, $O^{2-}$ y $F^{-}$, tienen 10 electrones. Sin embargo, el núcleo de oxígeno tiene 8 protones, mientras que el núcleo de flúor tiene 9 protones. El núcleo con más protones (flúor) ejercerá una atracción electrostática más fuerte sobre la misma nube de 10 electrones. Esta mayor atracción en $F^{-}$ provoca que su nube electrónica se contraiga más, resultando en un radio iónico menor. Por lo tanto, $O^{2-}$ con su menor carga nuclear, tendrá el radio iónico más grande.",
       "imagen": null
     }
   ]

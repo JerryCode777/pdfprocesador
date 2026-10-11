@@ -6,6 +6,36 @@
   "preguntas": [
     {
       "id_temporal": "quimica_253_001",
+      "pregunta": "¿Cuál es el otro nombre con el que se conocen los alcanos, derivado de su baja reactividad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Olefinas",
+        "B": "Parafinas",
+        "C": "Acetilenos",
+        "D": "Aromáticos",
+        "E": "Cetonas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los alcanos también se denominan parafinas. Este nombre proviene del latín *parum affinis*, que significa 'poca afinidad', y hace referencia a su naturaleza relativamente inerte y su baja tendencia a reaccionar en comparación con otros grupos de compuestos orgánicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_253_002",
+      "pregunta": "¿Qué tipo de hibridación presentan los átomos de carbono en los alcanos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$sp$$",
+        "B": "$$sp^2$$",
+        "C": "$$sp^3$$",
+        "D": "$$sp^3d$$",
+        "E": "$$d^2sp^3$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En los alcanos, cada átomo de carbono forma cuatro enlaces covalentes simples con otros átomos. Esta geometría tetraédrica es característica de la hibridación $$sp^3$$, donde un orbital s y tres orbitales p se combinan para formar cuatro orbitales híbridos equivalentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_253_003",
       "pregunta": "¿Cuál es la fórmula general que representa a los alcanos, donde $n$ es el número de átomos de carbono?",
       "dificultad": 1,
       "opciones": {
@@ -13,220 +43,190 @@
         "B": "$$C_nH_{2n-2}$$",
         "C": "$$C_nH_{n+2}$$",
         "D": "$$C_nH_{2n+2}$$",
-        "E": "$$C_nH_{3n}$$"
+        "E": "$$C_{2n}H_n$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La fórmula general para los alcanos es $$C_nH_{2n+2}$$. Esta fórmula indica que por cada $n$ átomos de carbono, hay $2n+2$ átomos de hidrógeno. Las otras opciones corresponden a otras familias de hidrocarburos, como alquenos ($$C_nH_{2n}$$) o alquinos ($$C_nH_{2n-2}$$).",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_253_002",
-      "pregunta": "¿Qué tipo de hibridación presentan los átomos de carbono en la molécula de un alcano?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$$sp$$",
-        "B": "$$sp^2$$",
-        "C": "$$sp^3$$",
-        "D": "$$sp^3d$$",
-        "E": "$$sp^2d^2$$"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "En los alcanos, los átomos de carbono están unidos únicamente por enlaces covalentes simples. Esta configuración de enlaces corresponde a una hibridación $$sp^3$$, que resulta en una geometría tetraédrica alrededor de cada carbono. La hibridación $$sp^2$$ es característica de los alquenos (dobles enlaces) y la $$sp$$ de los alquinos (triples enlaces).",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_253_003",
-      "pregunta": "Además de ser llamados hidrocarburos saturados, ¿con qué otro nombre se conoce a los alcanos?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Olefinas",
-        "B": "Parafinas",
-        "C": "Acetilenos",
-        "D": "Aromáticos",
-        "E": "Éteres"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "Los alcanos también se denominan parafinas. Este nombre proviene del latín *parum affinis*, que significa 'poca afinidad', y hace referencia a su baja reactividad química en comparación con otros compuestos orgánicos.",
+      "explicacion": "La fórmula general para los alcanos acíclicos (de cadena abierta) es $$C_nH_{2n+2}$$. Esta fórmula permite determinar el número de átomos de hidrógeno si se conoce el número de átomos de carbono ($n$). Por ejemplo, para el metano ($n=1$), la fórmula es $$CH_4$$, y para el etano ($n=2$), es $$C_2H_6$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_004",
-      "pregunta": "¿Qué tipo de enlace covalente es el único que une a los átomos de carbono entre sí en un alcano?",
+      "pregunta": "En la estructura de un alcano, los átomos de carbono se unen entre sí exclusivamente mediante ¿qué tipo de enlaces?",
       "dificultad": 1,
       "opciones": {
-        "A": "Doble",
-        "B": "Triple",
-        "C": "Dativo",
-        "D": "Iónico",
-        "E": "Simple"
+        "A": "Enlaces covalentes dobles",
+        "B": "Enlaces iónicos",
+        "C": "Enlaces covalentes simples",
+        "D": "Enlaces covalentes triples",
+        "E": "Puentes de hidrógeno"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Los alcanos son hidrocarburos saturados, lo que significa que cada átomo de carbono forma el máximo número posible de enlaces con otros átomos. Esto se logra a través de enlaces covalentes simples (C-C), sin la presencia de enlaces dobles o triples.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los alcanos son hidrocarburos saturados, lo que significa que cada átomo de carbono está unido al máximo número posible de otros átomos. Esto se logra a través de enlaces covalentes simples (enlaces sigma) entre los átomos de carbono, sin la presencia de enlaces dobles o triples.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_005",
-      "pregunta": "La denominación de los alcanos como \"parafinas\" se debe a que son compuestos:",
+      "pregunta": "Una de las propiedades fundamentales de los alcanos es que arden en presencia de:",
       "dificultad": 1,
       "opciones": {
-        "A": "Muy reactivos",
-        "B": "Relativamente inertes",
-        "C": "Solubles en agua",
-        "D": "Gaseosos a cualquier temperatura",
-        "E": "Con alta densidad"
+        "A": "Agua",
+        "B": "Nitrógeno",
+        "C": "Un catalizador metálico",
+        "D": "Oxígeno",
+        "E": "Un ácido fuerte"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El nombre \"parafina\" deriva del latín *parum affinis* (poca afinidad), lo cual refleja la propiedad de los alcanos de ser relativamente inertes, es decir, tienen una baja tendencia a reaccionar químicamente con otras sustancias.",
+      "respuesta_correcta": "D",
+      "explicacion": "Aunque los alcanos son poco reactivos en general, una de sus reacciones más importantes es la combustión. Arden vigorosamente en presencia de oxígeno, liberando energía en forma de calor y luz, y produciendo dióxido de carbono y agua. Esta propiedad los hace excelentes combustibles.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_006",
-      "pregunta": "¿Cómo varía el punto de ebullición de los alcanos de cadena lineal a medida que aumenta el número de átomos de carbono?",
+      "pregunta": "¿Cómo cambia el estado físico de los alcanos de cadena lineal a medida que aumenta su número de átomos de carbono?",
       "dificultad": 2,
       "opciones": {
-        "A": "Disminuye",
-        "B": "Permanece constante",
-        "C": "Aumenta",
-        "D": "Disminuye primero y luego aumenta",
-        "E": "No sigue un patrón definido"
+        "A": "Pasan de sólidos a líquidos y luego a gases",
+        "B": "Pasan de gases a líquidos y luego a sólidos",
+        "C": "Todos son gases a temperatura ambiente",
+        "D": "Todos son líquidos a temperatura ambiente",
+        "E": "El estado físico no depende del número de carbonos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "A medida que aumenta el número de átomos de carbono en la cadena de un alcano, la masa molecular también aumenta. Esto intensifica las fuerzas intermoleculares (fuerzas de Van der Waals), lo que requiere más energía para separar las moléculas y pasar al estado gaseoso. Por lo tanto, el punto de ebullición aumenta.",
+      "respuesta_correcta": "B",
+      "explicacion": "El estado físico de los alcanos está directamente relacionado con la longitud de su cadena de carbono. Los cuatro primeros (de 1 a 4 carbonos) son gases a temperatura ambiente. A partir del pentano ($$C_5H_{12}$$) hasta el hexadecano ($$C_{16}H_{34}$$) son líquidos, y los alcanos con más de 16 átomos de carbono son sólidos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_007",
-      "pregunta": "¿Cuál de los siguientes alcanos es más probable que sea líquido a temperatura ambiente?",
+      "pregunta": "¿Cuál es la relación entre el número de átomos de carbono en un alcano de cadena lineal y su punto de ebullición?",
       "dificultad": 2,
       "opciones": {
-        "A": "Metano ($$CH_4$$)",
-        "B": "Etano ($$C_2H_6$$)",
-        "C": "Propano ($$C_3H_8$$)",
-        "D": "Octano ($$C_8H_{18}$$)",
-        "E": "Eicosano ($$C_{20}H_{42}$$)"
+        "A": "A mayor número de carbonos, menor punto de ebullición.",
+        "B": "A mayor número de carbonos, mayor punto de ebullición.",
+        "C": "El punto de ebullición es constante para todos los alcanos.",
+        "D": "El punto de ebullición disminuye hasta 10 carbonos y luego aumenta.",
+        "E": "No existe una relación directa."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Los alcanos con 1 a 4 átomos de carbono son gases. Aquellos que tienen entre 5 y 16 carbonos (como el octano, $C_8H_{18}$) son líquidos a temperatura ambiente. Los alcanos con más de 16 carbonos son sólidos.",
+      "respuesta_correcta": "B",
+      "explicacion": "A medida que aumenta el número de átomos de carbono en la cadena de un alcano, también aumenta la masa molecular y la superficie de contacto entre las moléculas. Esto fortalece las fuerzas de dispersión de London (fuerzas intermoleculares), por lo que se requiere más energía para separar las moléculas y pasar al estado gaseoso, resultando en un punto de ebullición más alto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_008",
-      "pregunta": "En cuanto a la solubilidad, los alcanos se caracterizan por ser:",
+      "pregunta": "Debido a su naturaleza apolar, ¿en cuál de los siguientes solventes se espera que un alcano como el heptano ($$C_7H_{16}$$) sea soluble?",
       "dificultad": 2,
       "opciones": {
-        "A": "Solubles en agua e insolubles en benceno",
-        "B": "Insolubles en agua y solubles en benceno",
-        "C": "Solubles tanto en agua como en éter",
-        "D": "Insolubles tanto en agua como en cloroformo",
-        "E": "Solubles únicamente en disolventes polares"
+        "A": "Agua ($$H_2O$$)",
+        "B": "Etanol ($$C_2H_5OH$$)",
+        "C": "Cloroformo ($$CHCl_3$$)",
+        "D": "Ácido acético ($$CH_3COOH$$)",
+        "E": "Amoníaco líquido ($$NH_3$$)"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los alcanos son moléculas apolares. Siguiendo el principio de \"lo semejante disuelve a lo semejante\", son insolubles en disolventes polares como el agua, pero son solubles en disolventes apolares como el benceno, el éter o el cloroformo.",
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de solubilidad 'lo semejante disuelve a lo semejante' se aplica aquí. Los alcanos son moléculas apolares. El agua, el etanol, el ácido acético y el amoníaco son solventes polares. El cloroformo, junto con el éter y el benceno, es un solvente apolar (o de baja polaridad), por lo que es capaz de disolver a los alcanos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_009",
-      "pregunta": "¿Cómo afecta una mayor ramificación en la estructura de un alcano a su punto de ebullición, en comparación con su isómero de cadena lineal?",
+      "pregunta": "¿Cómo afecta la ramificación de la cadena de un alcano a su punto de ebullición en comparación con su isómero lineal?",
       "dificultad": 2,
       "opciones": {
-        "A": "Aumenta su punto de ebullición",
-        "B": "No tiene efecto sobre el punto de ebullición",
-        "C": "Disminuye su punto de ebullición",
-        "D": "Hace que el compuesto se vuelva sólido",
-        "E": "Aumenta su solubilidad en agua"
+        "A": "La ramificación aumenta el punto de ebullición.",
+        "B": "La ramificación no tiene efecto en el punto de ebullición.",
+        "C": "La ramificación disminuye el punto de ebullición.",
+        "D": "El efecto depende de si la ramificación es par o impar.",
+        "E": "La ramificación solo afecta el punto de fusión."
       },
       "respuesta_correcta": "C",
-      "explicacion": "A medida que una molécula de alcano se vuelve más ramificada, su forma se hace más compacta y esférica. Esto reduce el área de superficie de contacto entre moléculas adyacentes, debilitando las fuerzas intermoleculares de Van der Waals. Como resultado, se necesita menos energía para hervir el compuesto, y su punto de ebullición disminuye.",
+      "explicacion": "Para alcanos con el mismo número de átomos de carbono (isómeros), una mayor ramificación hace que la molécula sea más compacta y esférica. Esto reduce la superficie de contacto entre las moléculas, debilitando las fuerzas intermoleculares de dispersión de London. Como resultado, se necesita menos energía para hervir el compuesto, y su punto de ebullición disminuye.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_010",
-      "pregunta": "¿Qué propiedad de los alcanos, además de los puntos de fusión y ebullición, aumenta con el número de átomos de carbono?",
+      "pregunta": "¿Cuál de los siguientes alcanos es un gas a temperatura y presión estándar?",
       "dificultad": 2,
       "opciones": {
-        "A": "La reactividad",
-        "B": "La solubilidad en agua",
-        "C": "La volatilidad",
-        "D": "La densidad",
-        "E": "El carácter gaseoso"
+        "A": "Butano ($$C_4H_{10}$$)",
+        "B": "Pentano ($$C_5H_{12}$$)",
+        "C": "Octano ($$C_8H_{18}$$)",
+        "D": "Decano ($$C_{10}H_{22}$$)",
+        "E": "Hexadecano ($$C_{16}H_{34}$$)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Al aumentar el número de átomos de carbono y de hidrógeno en una molécula de alcano, su masa molecular aumenta. Dado que el volumen no aumenta proporcionalmente a la masa, la densidad (masa/volumen) del compuesto también tiende a aumentar.",
+      "respuesta_correcta": "A",
+      "explicacion": "Los alcanos con uno a cuatro átomos de carbono son gaseosos en condiciones estándar. El butano, con 4 átomos de carbono, se encuentra en este grupo. El pentano, octano, decano y hexadecano, al tener 5 o más átomos de carbono, son líquidos a temperatura ambiente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_011",
-      "pregunta": "Considerando las propiedades de los alcanos, ¿cuál de las siguientes afirmaciones es correcta?",
+      "pregunta": "Además de los puntos de fusión y ebullición, ¿qué otra propiedad física de los alcanos se incrementa a medida que aumenta el número de átomos de carbono?",
       "dificultad": 2,
       "opciones": {
-        "A": "Los cuatro primeros alcanos son líquidos.",
-        "B": "Los alcanos no pueden arder en presencia de oxígeno.",
-        "C": "El pentano ($$C_5H_{12}$$) es un gas a temperatura ambiente.",
-        "D": "Tienen puntos de fusión y ebullición relativamente bajos.",
-        "E": "A mayor ramificación, mayor es el punto de ebullición."
+        "A": "La volatilidad",
+        "B": "La reactividad química",
+        "C": "La solubilidad en agua",
+        "D": "La densidad",
+        "E": "La presión de vapor"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Los alcanos, al ser moléculas apolares con fuerzas intermoleculares débiles (Van der Waals), tienen puntos de fusión y ebullición relativamente bajos en comparación con compuestos polares de masa molecular similar. Las otras opciones son incorrectas: los cuatro primeros alcanos son gases, sí arden, el pentano es el primer alcano líquido, y a mayor ramificación el punto de ebullición disminuye.",
+      "explicacion": "A medida que la cadena de carbono se alarga, la masa molecular del alcano aumenta en mayor proporción que su volumen. Dado que la densidad es la relación entre masa y volumen ($$\\rho = m/V$$), el resultado es un aumento gradual de la densidad. Las demás opciones son incorrectas: la volatilidad y la presión de vapor disminuyen, la reactividad no cambia significativamente y la solubilidad en agua permanece muy baja.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_012",
-      "pregunta": "Un alcano con la fórmula $$C_3H_8$$ (propano) y otro con la fórmula $$C_{16}H_{34}$$ (hexadecano) se encuentran a temperatura y presión estándar. ¿Cuáles son sus estados físicos más probables, respectivamente?",
+      "pregunta": "La afirmación de que los alcanos son 'insolubles en el agua, pero solubles en solventes apolares' implica que los alcanos son moléculas:",
       "dificultad": 2,
       "opciones": {
-        "A": "Líquido y Sólido",
-        "B": "Gas y Líquido",
-        "C": "Sólido y Gas",
-        "D": "Gas y Sólido",
-        "E": "Ambos son líquidos"
+        "A": "Polares",
+        "B": "Iónicas",
+        "C": "Apolares",
+        "D": "Anfipáticas",
+        "E": "Metálicas"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los alcanos con 1 a 4 átomos de carbono son gases. El propano ($$C_3H_8$$) entra en esta categoría. Los alcanos con 5 a 16 átomos de carbono son líquidos. El hexadecano ($$C_{16}H_{34}$$) se encuentra en el límite superior de este rango, por lo que es un líquido.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla general de solubilidad es 'lo semejante disuelve a lo semejante'. El agua es un solvente polar. Si los alcanos son insolubles en agua pero solubles en solventes apolares (como benceno o éter), se deduce que los alcanos son moléculas apolares. Sus enlaces carbono-carbono y carbono-hidrógeno tienen una diferencia de electronegatividad muy pequeña, lo que resulta en una distribución de carga muy uniforme.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_013",
-      "pregunta": "Utilizando la fórmula general de los alcanos, $$C_nH_{2n+2}$$, determine la fórmula molecular de un alcano que posee 7 átomos de carbono.",
+      "pregunta": "Utilizando la fórmula general de los alcanos, $$C_nH_{2n+2}$$, ¿cuál es la fórmula molecular correcta para el nonano, un alcano con 9 átomos de carbono?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$C_7H_{14}$$",
-        "B": "$$C_7H_{12}$$",
-        "C": "$$C_7H_{18}$$",
-        "D": "$$C_7H_{15}$$",
-        "E": "$$C_7H_{16}$$"
+        "A": "$$C_9H_{18}$$",
+        "B": "$$C_9H_{22}$$",
+        "C": "$$C_9H_{16}$$",
+        "D": "$$C_9H_{20}$$",
+        "E": "$$C_9H_{11}$$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Para resolver esto, se sustituye el valor de $n=7$ en la fórmula general $$C_nH_{2n+2}$$. El número de hidrógenos será $2(7) + 2 = 14 + 2 = 16$. Por lo tanto, la fórmula molecular correcta es $$C_7H_{16}$$ (heptano).",
+      "respuesta_correcta": "D",
+      "explicacion": "Para encontrar la fórmula molecular del nonano, se sustituye el número de carbonos, $n=9$, en la fórmula general $$C_nH_{2n+2}$$. El número de hidrógenos será $2n+2 = 2(9)+2 = 18+2 = 20$. Por lo tanto, la fórmula molecular correcta es $$C_9H_{20}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_014",
-      "pregunta": "Se tienen dos isómeros con la fórmula molecular $$C_6H_{14}$$: el hexano (cadena lineal) y el 2,2-dimetilbutano (muy ramificado). ¿Cuál de ellos se espera que tenga el punto de ebullición más bajo y por qué?",
+      "pregunta": "Se comparan dos isómeros con la fórmula molecular $$C_5H_{12}$$: el n-pentano (una cadena lineal) y el neopentano (2,2-dimetilpropano, una cadena muy ramificada). ¿Cuál de ellos se espera que tenga el punto de ebullición más bajo?",
       "dificultad": 3,
       "opciones": {
-        "A": "El hexano, porque las cadenas lineales son menos estables.",
-        "B": "El 2,2-dimetilbutano, porque su estructura ramificada reduce el área de contacto intermolecular.",
-        "C": "Ambos tendrán el mismo punto de ebullición al tener la misma masa molecular.",
-        "D": "El hexano, porque tiene una menor densidad.",
-        "E": "El 2,2-dimetilbutano, porque los enlaces en las ramificaciones son más débiles."
+        "A": "n-pentano, porque su cadena es más larga.",
+        "B": "Neopentano, porque su estructura es más compacta.",
+        "C": "Ambos tendrán exactamente el mismo punto de ebullición.",
+        "D": "Es imposible determinarlo sin datos experimentales.",
+        "E": "n-pentano, porque tiene menos enlaces carbono-hidrógeno."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Para isómeros de alcanos, un aumento en la ramificación conduce a una forma molecular más compacta y esférica. Esto disminuye la superficie de contacto entre las moléculas, lo que a su vez debilita las fuerzas de dispersión de London (un tipo de fuerza de Van der Waals). Con fuerzas intermoleculares más débiles, se requiere menos energía para separar las moléculas, resultando en un punto de ebullición más bajo para el isómero más ramificado (2,2-dimetilbutano).",
+      "explicacion": "A medida que un alcano se ramifica más, su forma se vuelve más esférica o compacta. Esta forma reduce el área de superficie de contacto disponible para las interacciones intermoleculares (fuerzas de London) con otras moléculas. Fuerzas más débiles requieren menos energía para superarse, lo que resulta en un punto de ebullición más bajo. Por lo tanto, el neopentano, al ser más ramificado, tendrá un punto de ebullición inferior al del n-pentano lineal.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_253_015",
-      "pregunta": "Un hidrocarburo saturado tiene 18 átomos de carbono. Basado en las propiedades generales de los alcanos, ¿cuál sería su estado físico y su comportamiento en éter?",
+      "pregunta": "Un hidrocarburo saturado es un líquido a temperatura ambiente. ¿Cuál de las siguientes fórmulas moleculares es la más consistente con esta propiedad?",
       "dificultad": 3,
       "opciones": {
-        "A": "Líquido y soluble",
-        "B": "Gas e insoluble",
-        "C": "Sólido y soluble",
-        "D": "Sólido e insoluble",
-        "E": "Líquido e insoluble"
+        "A": "$$C_3H_8$$",
+        "B": "$$C_8H_{18}$$",
+        "C": "$$C_{18}H_{38}$$",
+        "D": "$$C_{2}H_{6}$$",
+        "E": "$$C_8H_{16}$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un alcano con 18 átomos de carbono ($$C_{18}H_{38}$$) se encuentra en el rango de los alcanos que son sólidos a temperatura ambiente (a partir de 17 carbonos). Por otro lado, el éter es un disolvente apolar. Dado que los alcanos son apolares, serán solubles en disolventes apolares como el éter. Por lo tanto, el compuesto será sólido y soluble en éter.",
+      "respuesta_correcta": "B",
+      "explicacion": "Los alcanos (hidrocarburos saturados) presentan diferentes estados físicos según la longitud de su cadena. Los que tienen de 1 a 4 carbonos ($$C_2H_6$$, $$C_3H_8$$) son gases. Los que tienen de 5 a 16 carbonos son líquidos. Los que tienen más de 16 carbonos ($$C_{18}H_{38}$$) son sólidos. Por lo tanto, $$C_8H_{18}$$ es la única fórmula que corresponde a un alcano que es líquido a temperatura ambiente. La fórmula $$C_8H_{16}$$ no corresponde a un alcano acíclico, sino a un cicloalcano o un alqueno.",
       "imagen": null
     }
   ]

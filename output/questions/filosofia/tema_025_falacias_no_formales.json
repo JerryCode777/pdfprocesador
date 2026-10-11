@@ -1,0 +1,233 @@
+{
+  "materia": "filosofia",
+  "numero_tema": 25,
+  "total_temas": 94,
+  "titulo_tema": "Falacias no Formales",
+  "preguntas": [
+    {
+      "id_temporal": "filosofi_025_001",
+      "pregunta": "¿Cuál es la definición de una falacia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una afirmación que es objetivamente falsa.",
+        "B": "Un argumento que parece válido, pero tras un análisis cuidadoso se descubren errores en su razonamiento.",
+        "C": "Cualquier argumento utilizado por un demagogo.",
+        "D": "Un razonamiento que siempre llega a una conclusión falsa.",
+        "E": "Una opinión que carece de evidencia científica."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una falacia se define como un argumento que puede parecer correcto o válido a primera vista, pero que contiene un error en el proceso de razonamiento que lo invalida. No se define por la falsedad de su conclusión (que podría ser verdadera por casualidad), sino por el defecto en la argumentación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_002",
+      "pregunta": "¿De qué idioma proviene el término \"falacia\" y cuál es su significado original?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Del griego \"sophos\", que significa \"sabiduría aparente\".",
+        "B": "Del latín \"fallacia\", que se traduce como \"engaño\".",
+        "C": "Del griego \"paralogos\", que significa \"fuera de la lógica\".",
+        "D": "Del latín \"argumentum\", que se traduce como \"prueba falsa\".",
+        "E": "Del sánscrito \"maya\", que significa \"ilusión\"."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término \"falacia\" tiene su origen en la palabra latina \"fallacia\", cuyo significado es \"engaño\". Este origen etimológico resalta la naturaleza engañosa de este tipo de razonamientos incorrectos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_003",
+      "pregunta": "¿Cuál es el principal objeto de estudio de la lógica informal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las estructuras matemáticas y simbólicas de los razonamientos.",
+        "B": "Las reglas para determinar la validez de la estructura de un argumento.",
+        "C": "Los argumentos expresados en lenguaje natural.",
+        "D": "Las leyes universales del pensamiento lógico.",
+        "E": "La historia de la argumentación en la filosofía clásica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La lógica informal se centra en el estudio de los argumentos tal como se presentan en el lenguaje cotidiano o natural. Abarca el análisis de la argumentación compleja que se produce en discusiones, debates y textos no formalizados.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_004",
+      "pregunta": "¿Qué autor de la antigüedad es reconocido por haber planteado un estudio sistemático sobre las falacias?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Platón",
+        "B": "Sócrates",
+        "C": "Aristóteles",
+        "D": "Pedro Hispano",
+        "E": "Heráclito"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aristóteles fue el primer filósofo en realizar un estudio sistemático y detallado de las falacias, el cual presentó en su tratado titulado \"Refutaciones a los sofistas\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_005",
+      "pregunta": "¿Cuál es la característica principal que define a las falacias de relevancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La conclusión del argumento es ambigua.",
+        "B": "Las premisas y la conclusión no tienen una conexión lógica entre sí.",
+        "C": "Se asume como verdadero aquello que se quiere probar.",
+        "D": "Las premisas son insuficientes para establecer la conclusión.",
+        "E": "El argumento contiene palabras con múltiples significados."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las falacias de relevancia se caracterizan porque las razones o premisas que se ofrecen para apoyar una conclusión no son pertinentes o relevantes para esa conclusión. La conexión entre lo que se dice y lo que se quiere probar es lógicamente inexistente o muy débil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_006",
+      "pregunta": "¿Cómo se describe la relación entre la lógica formal y la lógica informal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son opuestas y mutuamente excluyentes.",
+        "B": "La lógica informal es un subconjunto obsoleto de la lógica formal.",
+        "C": "Son campos de estudio complementarios.",
+        "D": "La lógica formal es la aplicación práctica de la lógica informal.",
+        "E": "No tienen ninguna relación entre sí."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque sus enfoques son diferentes, la lógica formal y la informal no se contraponen, sino que se consideran complementarias. Mientras la formal analiza la estructura abstracta de los argumentos, la informal se ocupa de la argumentación en el contexto del lenguaje natural, abarcando aspectos que la formalización no captura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_007",
+      "pregunta": "¿Qué rasgo distingue a las falacias no formales de las falacias formales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las no formales son intencionadas, mientras que las formales son errores accidentales.",
+        "B": "Las no formales se describen en lenguaje natural y no se han representado con símbolos.",
+        "C": "Las no formales siempre tienen premisas falsas, y las formales, premisas verdaderas.",
+        "D": "Las no formales son estudiadas por la filosofía, y las formales por las matemáticas.",
+        "E": "Las no formales son más sencillas de identificar que las formales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia clave es que las falacias formales se refieren a errores en la estructura lógica que pueden ser representados simbólicamente, mientras que las falacias no formales no han sido formalizadas y se describen de manera más general usando el lenguaje natural, dependiendo del contenido y el contexto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_008",
+      "pregunta": "¿Cuál es el propósito de utilizar una falacia de apelación a la emoción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Demostrar la superioridad de la emoción sobre la razón.",
+        "B": "Apoyar un argumento lógico con un componente emocional persuasivo.",
+        "C": "Manipular los sentimientos del público para lograr la aceptación de una afirmación sin evidencia lógica.",
+        "D": "Refutar un argumento contrario mostrando que es emocionalmente débil.",
+        "E": "Analizar un problema desde una perspectiva puramente sentimental."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta falacia no busca complementar la lógica, sino sustituirla. Su objetivo es manipular las emociones de la audiencia (entusiasmo, miedo, patriotismo, etc.) para que acepten una conclusión sin someterla a un escrutinio racional y sin que se presenten argumentos o evidencias relevantes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_009",
+      "pregunta": "¿Cuál es el rol fundamental de la lógica con respecto a la forma en que hablamos sobre el mundo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Describir el mundo tal como es, de manera similar a la física o la biología.",
+        "B": "Crear un lenguaje nuevo y perfecto para eliminar las ambigüedades.",
+        "C": "Proveer normas y criterios para construir y evaluar argumentos sobre el mundo.",
+        "D": "Interpretar los significados ocultos en el lenguaje cotidiano.",
+        "E": "Limitarse a estudiar la sintaxis del lenguaje, sin importar su contenido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La lógica no habla directamente acerca del mundo, pero sí proporciona herramientas (normas, leyes, principios) que permiten controlar la manera en que hablamos sobre él. Su función es ayudarnos a construir argumentos sólidos y a discernir entre razonamientos correctos y falaces.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_010",
+      "pregunta": "¿Por qué la apelación al patriotismo se considera una táctica reprobable cuando se usa en una argumentación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el patriotismo es una emoción intrínsecamente negativa y debe evitarse.",
+        "B": "Porque se utiliza para manipular y confundir a la audiencia, sustituyendo la razón por una emoción, aunque esta sea honorable.",
+        "C": "Porque todos los argumentos patrióticos son, por definición, falaces.",
+        "D": "Porque solo las personas sin argumentos lógicos recurren al patriotismo.",
+        "E": "Porque es un tema demasiado complejo para ser tratado en un debate público."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque el amor a la patria es una emoción honorable, su uso en una argumentación se vuelve falaz y reprobable cuando el objetivo es manipular los sentimientos del público para que acepten una conclusión sin el debido respaldo de evidencias o razones lógicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_011",
+      "pregunta": "¿Qué evidencia se menciona sobre el auge en el estudio de la argumentación durante la Edad Media?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La traducción de todas las obras de Aristóteles al latín.",
+        "B": "La invención de la lógica simbólica en el siglo XII.",
+        "C": "El gran número de denominaciones latinas para muchas falacias.",
+        "D": "La prohibición de los sofistas en las universidades medievales.",
+        "E": "La creación de la lógica informal como disciplina separada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El texto señala que durante la Edad Media, especialmente a partir del siglo XII, hubo un desarrollo riguroso en el estudio de la argumentación. Una consecuencia y prueba de este auge es la gran cantidad de nombres en latín que se conservan para designar los distintos tipos de falacias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_012",
+      "pregunta": "Comparando la lógica formal y la informal, ¿cuál es la principal diferencia en su enfoque analítico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La lógica formal se enfoca en el contenido de las afirmaciones, mientras que la informal se enfoca en la sintaxis.",
+        "B": "La lógica formal utiliza el lenguaje natural, mientras que la informal utiliza un lenguaje simbólico.",
+        "C": "La lógica formal analiza la estructura de los argumentos independientemente del contenido, y la informal analiza los argumentos en su contexto lingüístico.",
+        "D": "La lógica formal busca la persuasión, y la informal busca la validez universal.",
+        "E": "La lógica formal es deductiva, mientras que la informal es exclusivamente inductiva."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia fundamental radica en su objeto de análisis. La lógica formal se abstrae del contenido para evaluar la validez de la estructura o forma del argumento. En cambio, la lógica informal se sumerge en el lenguaje natural para analizar la complejidad de la argumentación en su contexto real, incluyendo la relevancia y adecuación de las premisas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_013",
+      "pregunta": "Un publicista presenta un anuncio que muestra a un grupo de gente feliz y exitosa usando un producto, con una música emotiva de fondo, y concluye: \"Únete a la gente que sabe vivir, elige nuestro producto\". ¿Qué tipo de falacia está empleando principalmente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Falacia de presuposición, porque asume que el producto da la felicidad.",
+        "B": "Falacia de inducción deficiente, porque la muestra de gente feliz es pequeña.",
+        "C": "Falacia de apelación a la emoción, porque asocia el producto con sentimientos positivos para persuadir sin pruebas.",
+        "D": "Falacia de ambigüedad, porque \"saber vivir\" es un término subjetivo.",
+        "E": "Falacia de relevancia, porque no hay conexión entre la gente y el producto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este es un caso de aplicación de la falacia de apelación a la emoción. El anuncio no ofrece argumentos lógicos ni evidencia sobre la calidad del producto. En su lugar, manipula los sentimientos del espectador, creando una asociación entre el producto y emociones deseables como la felicidad y el éxito para incitar a la compra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_014",
+      "pregunta": "¿Por qué un argumento falaz puede ser especialmente engañoso para una persona sin formación en lógica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque las falacias siempre utilizan un lenguaje técnico y complejo.",
+        "B": "Porque la conclusión de una falacia es siempre atractiva y popular.",
+        "C": "Porque las falacias están diseñadas para parecer argumentos válidos y correctos a primera vista.",
+        "D": "Porque las falacias se basan en hechos científicos que son difíciles de verificar.",
+        "E": "Porque solo los expertos pueden entender las premisas de un argumento falaz."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La naturaleza engañosa de una falacia reside en que imita la estructura de un buen argumento. Su capacidad para parecer válido y persuasivo superficialmente hace que, sin un análisis cuidadoso del razonamiento, una persona pueda aceptar la conclusión sin percatarse del error lógico que invalida el argumento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_025_015",
+      "pregunta": "Si un demagogo utiliza con frecuencia falacias de apelación a la emoción, ¿qué se puede inferir sobre su estrategia argumentativa?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su estrategia se basa en la presentación rigurosa de datos y evidencias lógicas.",
+        "B": "Busca un debate racional y estructurado con sus oponentes.",
+        "C": "Prioriza la claridad y la precisión del lenguaje para evitar ambigüedades.",
+        "D": "Su objetivo es eludir el razonamiento lógico y la evidencia, manipulando sentimientos para ganar adhesión.",
+        "E": "Intenta construir argumentos formalmente válidos pero con premisas falsas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La falacia de apelación a la emoción, comúnmente usada por demagogos, busca específicamente evitar la argumentación lógica. Al manipular los sentimientos de la multitud, el demagogo pretende que sus afirmaciones sean aceptadas sin cuestionamientos, basando su poder de persuasión no en la razón, sino en la exaltación de pasiones y prejuicios.",
+      "imagen": null
+    }
+  ]
+}

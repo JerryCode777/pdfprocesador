@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 267,
+  "total_temas": 320,
+  "titulo_tema": "Hemofilia",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_267_001",
+      "pregunta": "¿Qué es la hemofilia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una incapacidad para distinguir los colores rojo y verde.",
+        "B": "Un estado patológico caracterizado por la no coagulación de la sangre.",
+        "C": "Una condición donde se localizan genes en el cromosoma $Y$.",
+        "D": "El crecimiento de vello en el pabellón auricular.",
+        "E": "Una anomalía en la síntesis de glóbulos rojos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La hemofilia se define como un estado patológico en el cual la sangre no coagula correctamente. Esto se debe a una anomalía en la síntesis de trombina. Las otras opciones describen el daltonismo (A), la herencia holándrica (C), la hipertricosis auricular (D) o una condición no relacionada (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_002",
+      "pregunta": "¿Cuál es la causa fisiológica específica de la hemofilia mencionada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La ausencia del factor VIII de coagulación.",
+        "B": "La presencia de un gen holándrico.",
+        "C": "Una mutación en el segmento homólogo del cromosoma $X$.",
+        "D": "Una producción excesiva de trombina.",
+        "E": "La incapacidad de distinguir el color verde del rojo."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La causa directa de la hemofilia es una anomalía en la síntesis de trombina, específicamente por la ausencia del factor VIII de coagulación. Las otras opciones son incorrectas: un gen holándrico está en el cromosoma $Y$ (B), el gen de la hemofilia está en el segmento diferencial (C), la hemofilia implica una deficiencia, no un exceso, de coagulación (D), y la dificultad para ver colores es el daltonismo (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_003",
+      "pregunta": "Desde un punto de vista genético, ¿cómo se clasifica el carácter de la hemofilia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Carácter dominante",
+        "B": "Carácter holándrico",
+        "C": "Carácter recesivo",
+        "D": "Carácter codominante",
+        "E": "Carácter homólogo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La hemofilia se describe como un carácter recesivo. Esto significa que para que se manifieste, no debe haber un alelo dominante que lo enmascare. Los varones ($XY$) lo manifiestan si su único cromosoma $X$ porta el alelo. Un carácter holándrico (B) se encuentra en el cromosoma $Y$, y la hemofilia no es dominante (A), codominante (D) ni homóloga (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_004",
+      "pregunta": "¿En qué cromosoma y segmento específico se localizan los genes ginándricos como el de la hemofilia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En el segmento diferencial del cromosoma $Y$.",
+        "B": "En el segmento homólogo del cromosoma $Y$.",
+        "C": "En el segmento homólogo del cromosoma $X$.",
+        "D": "En el segmento diferencial del cromosoma $X$.",
+        "E": "En ambos segmentos homólogos de los cromosomas $X$ e $Y$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los genes ginándricos, como los responsables del daltonismo y la hemofilia, se encuentran en el segmento diferencial del cromosoma $X$. El segmento diferencial del cromosoma $Y$ contiene los genes holándricos (A). Los segmentos homólogos (B, C, E) contienen genes que regulan los mismos caracteres en ambos cromosomas sexuales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_005",
+      "pregunta": "¿Cuál de las siguientes condiciones es un ejemplo de un carácter regulado por un gen holándrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hemofilia",
+        "B": "Daltonismo",
+        "C": "Hipertricosis auricular",
+        "D": "Coagulación sanguínea normal",
+        "E": "Síntesis de trombina"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertricosis auricular es el ejemplo proporcionado de un carácter regulado por un gen holándrico, es decir, un gen localizado en el segmento diferencial del cromosoma $Y$. La hemofilia (A) y el daltonismo (B) son ejemplos de genes ginándricos, localizados en el cromosoma $X$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_006",
+      "pregunta": "¿Qué tienen en común el daltonismo y la hemofilia en cuanto a su herencia genética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos son causados por genes holándricos.",
+        "B": "Ambos son caracteres dominantes ligados al cromosoma $Y$.",
+        "C": "Ambos son caracteres recesivos localizados en el segmento diferencial del cromosoma $X$.",
+        "D": "Ambos son letales en estado homocigótico recesivo para las mujeres.",
+        "E": "Ambos afectan exclusivamente a los varones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto el daltonismo como la hemofilia son caracteres recesivos cuyos genes se localizan en el segmento diferencial del cromosoma $X$ (genes ginándricos). No son holándricos (A) ni dominantes (B). Solo la hemofilia se menciona como letal para mujeres homocigóticas recesivas (D). Aunque afectan principalmente a varones, las mujeres pueden ser portadoras y, teóricamente, padecer daltonismo, por lo que no son exclusivos de varones (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_007",
+      "pregunta": "¿Cuál es la función del segmento homólogo de los cromosomas sexuales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Localizar genes exclusivos del cromosoma $X$, como el de la hemofilia.",
+        "B": "Localizar genes exclusivos del cromosoma $Y$, como la hipertricosis auricular.",
+        "C": "Contener los genes que determinan el sexo masculino.",
+        "D": "Localizar genes que regulan los mismos caracteres en ambos cromosomas.",
+        "E": "Ser la única región donde ocurren las mutaciones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El segmento homólogo es la región de los cromosomas sexuales $X$ e $Y$ donde se localizan genes que regulan los mismos caracteres. En contraste, los segmentos diferenciales contienen genes exclusivos para cada cromosoma, como los ginándricos en el $X$ (A) y los holándricos en el $Y$ (B).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_008",
+      "pregunta": "Considerando que la hemofilia es un carácter recesivo ligado al cromosoma $X$, ¿por qué afecta fundamentalmente a los varones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el cromosoma $Y$ no tiene un alelo correspondiente para contrarrestar el gen recesivo del cromosoma $X$.",
+        "B": "Porque el gen de la hemofilia es dominante en los varones y recesivo en las mujeres.",
+        "C": "Porque las hormonas masculinas activan la expresión del gen de la hemofilia.",
+        "D": "Porque las mujeres son inmunes a los efectos del gen de la hemofilia.",
+        "E": "Porque el gen se localiza en el segmento homólogo, que es más activo en varones."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Los varones tienen un genotipo sexual $XY$. Al heredar un cromosoma $X$ con el alelo recesivo para la hemofilia, manifestarán la enfermedad porque su cromosoma $Y$ no posee un segmento homólogo con un alelo dominante que pueda enmascarar el efecto. Las mujeres ($XX$) necesitan heredar dos alelos recesivos para expresar el rasgo, siendo lo más común que sean portadoras (un alelo recesivo y uno dominante).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_009",
+      "pregunta": "¿Qué implicación tiene que la combinación homocigótica recesiva para la hemofilia sea letal en el estado embrionario?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los varones hemofílicos no sobreviven al nacimiento.",
+        "B": "Las mujeres portadoras tienen una esperanza de vida reducida.",
+        "C": "No es posible encontrar mujeres que padezcan hemofilia.",
+        "D": "La hemofilia es más severa en varones que en mujeres.",
+        "E": "La enfermedad solo puede ser transmitida por los padres."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La letalidad de la combinación homocigótica recesiva ($X^hX^h$) significa que los embriones femeninos con esta constitución genética no completan su desarrollo. Como resultado directo, las posibles mujeres hemofílicas no llegan a nacer. Esto no afecta la viabilidad de los varones hemofílicos ($X^hY$) (A) ni de las mujeres portadoras ($X^HX^h$) (B).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_010",
+      "pregunta": "La distinción entre genes ginándricos y holándricos se basa en:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Si el carácter que regulan es dominante o recesivo.",
+        "B": "El cromosoma sexual ($X$ o $Y$) en cuyo segmento diferencial se localizan.",
+        "C": "La gravedad de la enfermedad que causan.",
+        "D": "El sexo del individuo que manifiesta el carácter.",
+        "E": "Si el gen se encuentra en un segmento homólogo o diferencial."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La clasificación de un gen como ginándrico u holándrico depende de su ubicación. Los genes ginándricos se localizan en el segmento diferencial del cromosoma $X$, mientras que los genes holándricos se encuentran en el segmento diferencial del cromosoma $Y$. Las otras opciones son características o consecuencias de la herencia, pero no el criterio de clasificación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_011",
+      "pregunta": "Si un carácter es holándrico, como la hipertricosis auricular, ¿cómo se transmite de una generación a la siguiente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una madre lo transmite al 50% de sus hijos varones.",
+        "B": "Un padre lo transmite a todos sus hijos varones.",
+        "C": "Un padre lo transmite a todas sus hijas.",
+        "D": "Puede ser transmitido tanto por la madre como por el padre.",
+        "E": "Se salta una generación, apareciendo solo en los nietos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un carácter holándrico está ligado al cromosoma $Y$. Dado que un padre transmite su cromosoma $Y$ a todos sus hijos varones y su cromosoma $X$ a todas sus hijas, cualquier rasgo ligado al cromosoma $Y$ pasará indefectiblemente de un padre a todos sus hijos varones, y a ninguna de sus hijas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_012",
+      "pregunta": "¿Cuál es la relación entre el segmento diferencial del cromosoma $X$ y las enfermedades ligadas al sexo como la hemofilia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es la única parte del genoma donde pueden ocurrir estas enfermedades.",
+        "B": "Contiene los genes para estas enfermedades, que no tienen un alelo correspondiente en el cromosoma $Y$.",
+        "C": "Determina que estas enfermedades sean siempre dominantes.",
+        "D": "Hace que estas enfermedades afecten por igual a hombres y mujeres.",
+        "E": "Es una región idéntica al segmento diferencial del cromosoma $Y$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El segmento diferencial del cromosoma $X$ contiene genes, como el de la hemofilia, que no se encuentran en el cromosoma $Y$. Esta ausencia de un alelo correspondiente en el cromosoma $Y$ es la razón por la cual los varones ($XY$) expresan cualquier alelo recesivo presente en su único cromosoma $X$, lo que conduce al patrón característico de la herencia ligada al sexo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_013",
+      "pregunta": "¿Qué se puede deducir sobre la viabilidad de un embrión femenino que hereda un alelo para la hemofilia de su padre y un alelo para la coagulación normal de su madre?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El embrión no es viable, ya que la combinación es letal.",
+        "B": "Nacerá como una mujer con hemofilia, pues el gen del padre es determinante.",
+        "C": "Nacerá como una mujer portadora, pero sin manifestar la enfermedad.",
+        "D": "Nacerá con una forma leve de daltonismo en lugar de hemofilia.",
+        "E": "Su viabilidad dependerá de la presencia de genes holándricos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este escenario describe la formación de un genotipo heterocigoto. La hemofilia es un carácter recesivo. Al recibir un alelo recesivo (hemofilia) y uno dominante (coagulación normal), el alelo dominante enmascarará al recesivo. La mujer será portadora del gen de la hemofilia pero no manifestará la enfermedad. La combinación letal es la homocigótica recesiva (dos alelos para la hemofilia), no la heterocigótica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_014",
+      "pregunta": "¿Por qué es biológicamente imposible, según la información proporcionada, que un hombre sea portador sano de la hemofilia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el gen de la hemofilia es letal en todos los varones.",
+        "B": "Porque los hombres solo tienen un cromosoma $X$, por lo que no pueden tener un alelo dominante que enmascare al recesivo.",
+        "C": "Porque el cromosoma $Y$ siempre contiene un alelo dominante para la coagulación.",
+        "D": "Porque ser portador es una característica exclusiva de los genes holándricos.",
+        "E": "Porque la hemofilia solo se manifiesta en la pubertad masculina."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término 'portador sano' implica tener un alelo recesivo para una enfermedad sin manifestarla, gracias a la presencia de un alelo dominante. Esto requiere tener dos alelos para ese gen. Los hombres, con su genotipo $XY$, solo tienen una copia del gen de la hemofilia en su único cromosoma $X$. Si esa copia es el alelo recesivo, manifestarán la enfermedad; si es el dominante, estarán sanos. No hay posibilidad intermedia de 'portar' el gen recesivo sin expresarlo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_267_015",
+      "pregunta": "Si la hipertricosis auricular es causada por un gen holándrico, ¿qué se puede afirmar con certeza sobre la herencia de esta característica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una mujer puede ser portadora y transmitirla a sus hijos.",
+        "B": "Se manifestará exclusivamente en individuos con un cromosoma $Y$.",
+        "C": "Es un rasgo recesivo que puede saltarse generaciones.",
+        "D": "Está relacionada con el gen del daltonismo por su localización.",
+        "E": "Es una condición letal en el estado embrionario si se combina con hemofilia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los genes holándricos se localizan en el segmento diferencial del cromosoma $Y$. Dado que solo los varones biológicos poseen este cromosoma, cualquier característica determinada por un gen holándrico se manifestará única y exclusivamente en ellos. Las mujeres ($XX$) no poseen el cromosoma $Y$, por lo que no pueden tener ni transmitir este rasgo (A). La herencia ligada al $Y$ no puede ser recesiva en el sentido clásico, ya que no hay otro alelo con el que compararse (C).",
+      "imagen": null
+    }
+  ]
+}

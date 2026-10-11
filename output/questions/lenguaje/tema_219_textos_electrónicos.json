@@ -1,0 +1,233 @@
+{
+  "materia": "lenguaje",
+  "numero_tema": 219,
+  "total_temas": 225,
+  "titulo_tema": "Textos electrónicos",
+  "preguntas": [
+    {
+      "id_temporal": "lenguaje_219_001",
+      "pregunta": "¿Qué es fundamentalmente un correo electrónico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un programa de edición de textos en la nube.",
+        "B": "Una red social para compartir imágenes y videos.",
+        "C": "Una aplicación que permite enviar y recibir mensajes entre usuarios.",
+        "D": "Un sistema de almacenamiento de archivos digitales.",
+        "E": "Un navegador web para acceder a páginas de internet."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El correo electrónico es una aplicación diseñada específicamente para la comunicación asíncrona, permitiendo a los usuarios enviar y recibir mensajes a través de direcciones de correo únicas. Las otras opciones describen herramientas con propósitos diferentes, como editores de texto, redes sociales o navegadores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_002",
+      "pregunta": "En la cabecera de un correo electrónico, ¿qué información contiene el campo \"DE\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La dirección de correo electrónico del destinatario.",
+        "B": "El asunto del mensaje.",
+        "C": "La dirección de correo electrónico de quien envía el mensaje.",
+        "D": "La fecha y hora de la redacción.",
+        "E": "La prioridad del correo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El campo \"DE\" (o \"From\" en inglés) en la cabecera de un correo identifica al remitente, es decir, contiene la dirección de correo electrónico de la persona o entidad que ha enviado el mensaje. El campo \"PARA\" contiene la dirección del destinatario.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_003",
+      "pregunta": "¿Cuál es uno de los propósitos esenciales de los textos científicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Proporcionar entretenimiento literario.",
+        "B": "Servir como base sólida para futuras investigaciones.",
+        "C": "Expresar opiniones personales sin fundamento.",
+        "D": "Generar ingresos por publicidad.",
+        "E": "Criticar obras de arte."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los textos científicos son pilares del conocimiento, ya que documentan hallazgos, metodologías y resultados de manera rigurosa, proporcionando una base fiable sobre la cual otros investigadores pueden construir, validar o refutar conocimientos, impulsando así el avance científico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_004",
+      "pregunta": "¿A qué se considera que es una variación moderna el correo electrónico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al telegrama.",
+        "B": "A la llamada telefónica.",
+        "C": "Al fax.",
+        "D": "A la carta.",
+        "E": "Al mensaje de texto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El correo electrónico es considerado una evolución digital de la carta tradicional. Ambos comparten una estructura básica de comunicación escrita entre un remitente y un destinatario, con un encabezado, un cuerpo de mensaje y una finalidad de transmitir información.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_005",
+      "pregunta": "En un correo electrónico, ¿qué parte es el equivalente al encabezado de una carta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El cuerpo del mensaje.",
+        "B": "La firma digital.",
+        "C": "Los archivos adjuntos.",
+        "D": "La cabecera.",
+        "E": "La línea de asunto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La cabecera de un correo electrónico contiene la información esencial para su enrutamiento y contextualización, como el remitente (DE), el destinatario (PARA), el asunto, etc. Esta función es análoga a la del encabezado en una carta física, que identifica al emisor y al receptor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_006",
+      "pregunta": "Una dirección de correo electrónico se compone de un nombre de usuario y un dominio. ¿Qué parte corresponde al dominio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La denominación que aparece antes del símbolo @.",
+        "B": "El nombre completo de la persona.",
+        "C": "La denominación que aparece después del símbolo @.",
+        "D": "La contraseña de acceso.",
+        "E": "El asunto del primer correo enviado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura de una dirección de correo es `usuario@dominio`. La parte que sigue al símbolo \"@\" identifica el dominio del servidor de correo que gestiona la cuenta (por ejemplo, gmail.com, outlook.com, empresa.org). La parte anterior al \"@\" identifica al usuario específico dentro de ese dominio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_007",
+      "pregunta": "¿Mediante qué proceso los textos científicos aseguran su rigor y credibilidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Votación popular en redes sociales.",
+        "B": "Revisiones por pares.",
+        "C": "Aprobación de una entidad gubernamental.",
+        "D": "El número de veces que es compartido.",
+        "E": "La antigüedad del autor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La revisión por pares (peer review) es un proceso de validación crucial en la publicación científica. Consiste en que otros expertos en el mismo campo evalúen de forma anónima la calidad, originalidad, metodología y conclusiones de un trabajo antes de su publicación, garantizando así su rigor y credibilidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_008",
+      "pregunta": "Además de promover la investigación, ¿en qué otras áreas tienen aplicaciones prácticas los textos científicos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En la crítica literaria y el arte.",
+        "B": "Únicamente en la filosofía y las humanidades.",
+        "C": "En el marketing y la publicidad.",
+        "D": "En la medicina y la tecnología.",
+        "E": "En la política y la diplomacia."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El conocimiento generado y comunicado a través de textos científicos es la base para desarrollos prácticos y avances en campos aplicados como la medicina (nuevos tratamientos, fármacos) y la tecnología (nuevos dispositivos, materiales, software).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_009",
+      "pregunta": "¿Qué característica particular tiene el campo \"DE (remitente)\" durante la redacción de un correo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Debe ser llenado manualmente en cada mensaje.",
+        "B": "Es opcional y puede omitirse.",
+        "C": "Se puede cambiar por el nombre de otra persona.",
+        "D": "Es generado automáticamente por el sistema.",
+        "E": "Aparece vacío para que el destinatario lo llene."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "A diferencia del campo \"PARA\" o el asunto, que el usuario debe completar, el campo \"DE\" es poblado automáticamente por el cliente o servicio de correo con la dirección del remitente. Por ello, no es un campo que aparezca para ser editado al redactar un nuevo mensaje.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_010",
+      "pregunta": "¿Cuál es la función principal de la cabecera en un correo electrónico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Contener el mensaje principal y los saludos.",
+        "B": "Mostrar las imágenes y videos adjuntos.",
+        "C": "Proporcionar los datos de enrutamiento como remitente y destinatario.",
+        "D": "Almacenar el borrador del mensaje antes de ser enviado.",
+        "E": "Incluir la firma y los datos de contacto del remitente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cabecera precede al cuerpo del mensaje y contiene metadatos esenciales para la transmisión y gestión del correo. Los campos más importantes, como \"DE\" (remitente) y \"PARA\" (destinatario), son indispensables para que los servidores de correo sepan de dónde viene el mensaje y a dónde debe ser entregado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_011",
+      "pregunta": "¿Por qué son importantes los textos científicos en la educación de nuevos profesionales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque son la única fuente de información disponible.",
+        "B": "Porque ofrecen resúmenes sencillos de temas complejos.",
+        "C": "Porque son esenciales para transmitir el conocimiento validado y actual de una disciplina.",
+        "D": "Porque su lectura es obligatoria para obtener un título.",
+        "E": "Porque solo contienen información histórica y teórica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los textos científicos son un pilar en la formación académica y profesional, ya que exponen el estado del arte de una disciplina, presentan evidencia rigurosa y enseñan el método científico. Esto asegura que los futuros profesionales se formen con una base de conocimiento sólida, creíble y actualizada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_012",
+      "pregunta": "¿Qué tipo de comunicación facilitan los textos científicos entre la comunidad de expertos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una comunicación informal y breve.",
+        "B": "Una comunicación basada en opiniones y creencias.",
+        "C": "Una comunicación detallada y rigurosa.",
+        "D": "Una comunicación exclusivamente visual a través de gráficos.",
+        "E": "Una comunicación pública para audiencias no especializadas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los textos científicos están diseñados para comunicar hallazgos complejos con un alto nivel de precisión y detalle. Permiten a los expertos compartir metodologías, datos y análisis de forma exhaustiva, lo que es crucial para la validación y replicación de los resultados por parte de otros investigadores en el campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_013",
+      "pregunta": "En la dirección de correo `proyecto_final@instituto.edu.mx`, ¿qué representa la parte `proyecto_final`?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El dominio del servidor de correo.",
+        "B": "La información del usuario.",
+        "C": "El país donde se encuentra el servidor.",
+        "D": "El tipo de organización (educativa).",
+        "E": "El asunto predeterminado del mensaje."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aplicando la estructura `usuario@dominio`, la parte que se encuentra antes del símbolo `@` (`proyecto_final`) identifica de manera única a la cuenta de usuario dentro del dominio. La parte `instituto.edu.mx` corresponde al dominio, que a su vez indica el nombre de la organización, su tipo (educativa) y su ubicación geográfica (México).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_014",
+      "pregunta": "Considerando la función de un correo electrónico, ¿cuál sería la consecuencia directa de omitir la dirección en el campo \"PARA\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El mensaje se enviaría a todos los contactos guardados.",
+        "B": "El mensaje no podría ser enviado por falta de un destinatario.",
+        "C": "El sistema asignaría un destinatario aleatorio.",
+        "D": "El mensaje se guardaría automáticamente en la bandeja de salida para completarlo después.",
+        "E": "El correo se enviaría de vuelta al remitente como un autorrecibo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El campo \"PARA\" es fundamental porque especifica el destino del mensaje. Sin una dirección de destinatario, el sistema de correo no tiene a dónde dirigir la comunicación y, por lo tanto, el envío no puede ser procesado. Es un campo obligatorio para que la función principal del correo electrónico se cumpla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_219_015",
+      "pregunta": "¿Cuál es la relación fundamental entre los textos científicos y el progreso de la sociedad?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su relación es indirecta, ya que solo documentan hechos pasados.",
+        "B": "Su única contribución es generar debate académico sin impacto social.",
+        "C": "Permiten el avance social a través del desarrollo y aplicación de nuevos conocimientos.",
+        "D": "Fomentan el progreso al criticar las estructuras sociales existentes.",
+        "E": "No tienen relación, ya que la sociedad progresa principalmente por factores económicos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta requiere sintetizar el valor de los textos científicos. Al proporcionar conocimiento riguroso y validado, no solo sirven de base para más investigación, sino que sus hallazgos se traducen en aplicaciones prácticas (tecnología, medicina, etc.). Esta aplicación directa de nuevos conocimientos es un motor clave para el progreso y el bienestar de la sociedad.",
+      "imagen": null
+    }
+  ]
+}

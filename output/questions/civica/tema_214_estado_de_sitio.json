@@ -1,0 +1,233 @@
+{
+  "materia": "civica",
+  "numero_tema": 214,
+  "total_temas": 252,
+  "titulo_tema": "Estado de Sitio",
+  "preguntas": [
+    {
+      "id_temporal": "civica_214_001",
+      "pregunta": "¿Qué institución asume el control del orden interno durante un Estado de Sitio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La Policía Nacional",
+        "B": "Las Fuerzas Armadas",
+        "C": "El Congreso de la República",
+        "D": "Un consejo de ministros especial",
+        "E": "El Poder Judicial"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Durante un Estado de Sitio, la gravedad de la situación, como una guerra o invasión, hace necesario que las Fuerzas Armadas asuman el control del orden interno. Las otras instituciones mantienen sus funciones constitucionales pero el control operativo del orden pasa a la esfera militar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_002",
+      "pregunta": "¿Cuál es el plazo máximo inicial que puede durar un Estado de Sitio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "30 días",
+        "B": "60 días",
+        "C": "15 días",
+        "D": "45 días",
+        "E": "90 días"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La norma constitucional establece que el plazo para un Estado de Sitio no debe exceder los cuarenta y cinco días en su declaración inicial. Cualquier duración superior requeriría una prórroga bajo condiciones específicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_003",
+      "pregunta": "¿Cuál de las siguientes es una causa válida para la declaración de un Estado de Sitio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una crisis económica severa",
+        "B": "Un desastre natural de gran magnitud",
+        "C": "Una guerra civil",
+        "D": "Elecciones presidenciales fraudulentas",
+        "E": "Protestas sociales masivas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado de Sitio se reserva para las situaciones más graves que amenazan la existencia del Estado. Las causas son: invasión, guerra exterior, guerra civil o el peligro inminente de que ocurran. Las otras opciones, aunque graves, no constituyen las causales específicas para esta medida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_004",
+      "pregunta": "Al decretarse un Estado de Sitio, ¿qué ocurre de manera inmediata y automática con el Congreso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Entra en receso hasta que termine la emergencia",
+        "B": "Se reúne de pleno derecho",
+        "C": "Delega sus funciones al Poder Ejecutivo",
+        "D": "Convoca a nuevas elecciones",
+        "E": "Se disuelve temporalmente"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Constitución establece un mecanismo de control político inmediato. Al decretarse el Estado de Sitio, el Congreso se reúne de pleno derecho, es decir, automáticamente y sin necesidad de convocatoria, para ejercer sus funciones de fiscalización y legislativas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_005",
+      "pregunta": "¿Qué se requiere para prorrogar la duración de un Estado de Sitio más allá de su plazo inicial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un referéndum popular",
+        "B": "La aprobación de las Fuerzas Armadas",
+        "C": "Un decreto supremo del Presidente",
+        "D": "La aprobación del Congreso",
+        "E": "Una sentencia del Tribunal Constitucional"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Mientras que la declaración inicial puede ser decretada por el Ejecutivo, la prórroga o extensión del Estado de Sitio requiere explícitamente la aprobación del Congreso, lo que constituye un importante control del poder legislativo sobre el ejecutivo en una situación de excepción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_006",
+      "pregunta": "¿Cuál de los siguientes escenarios justificaría la declaración de un Estado de Sitio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una huelga general de transportistas que paraliza el país",
+        "B": "Un ciberataque masivo a la infraestructura bancaria nacional",
+        "C": "El ingreso de tropas militares de un país vecino al territorio nacional",
+        "D": "El descubrimiento de una red de corrupción en altas esferas del gobierno",
+        "E": "Una pandemia que requiere cuarentenas estrictas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un Estado de Sitio se justifica ante una invasión, guerra exterior, guerra civil o su peligro inminente. El ingreso de tropas militares extranjeras al territorio nacional es un acto de invasión o guerra exterior, cumpliendo así con los supuestos constitucionales para esta medida extrema. Las demás opciones corresponden a crisis de otra índole.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_007",
+      "pregunta": "Si el plazo inicial de un Estado de Sitio se representa con la variable $P$ en días, ¿qué expresión matemática define su límite?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P > 45$$",
+        "B": "$$P = 60$$",
+        "C": "$$P \\ge 45$$",
+        "D": "$$P < 45$$",
+        "E": "$$P \\le 45$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La norma indica que el plazo correspondiente 'no excede de cuarenta y cinco días'. Esto significa que el plazo $P$ puede ser de 45 días o menos. La expresión matemática que representa correctamente esta condición es $$P \\le 45$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_008",
+      "pregunta": "¿Cuál es la diferencia fundamental en el procedimiento para decretar inicialmente un Estado de Sitio y para prorrogarlo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La prórroga requiere un informe de las Fuerzas Armadas y la declaración inicial no.",
+        "B": "La prórroga requiere la aprobación del Congreso, mientras que la declaración inicial provoca su reunión.",
+        "C": "La declaración inicial puede durar 60 días y la prórroga solo 30.",
+        "D": "La prórroga debe ser consultada con gobiernos regionales y la declaración inicial no.",
+        "E": "No existe ninguna diferencia en el procedimiento."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al decretarse el Estado de Sitio, el Congreso se reúne de pleno derecho. Sin embargo, para que el estado de excepción continúe más allá del plazo inicial, se necesita un acto positivo del legislativo: la aprobación explícita del Congreso. Esta es la diferencia procesal clave que actúa como un contrapeso de poder.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_009",
+      "pregunta": "La asunción del control del orden interno por parte de las Fuerzas Armadas se describe como 'necesaria' debido a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La incapacidad de la policía para manejar crisis.",
+        "B": "La naturaleza y gravedad de las amenazas que lo motivan.",
+        "C": "Un acuerdo político previo entre el gobierno y los militares.",
+        "D": "La suspensión de la Constitución durante el Estado de Sitio.",
+        "E": "La necesidad de un liderazgo más autoritario."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El control militar se vuelve necesario por la propia naturaleza del Estado de Sitio. Las causas, como una guerra o una invasión, son de tal magnitud que exceden las capacidades de las fuerzas policiales y requieren una respuesta de defensa nacional, que es competencia de las Fuerzas Armadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_010",
+      "pregunta": "El hecho de que el Congreso se reúna 'de pleno derecho' al decretarse un Estado de Sitio implica que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Poder Ejecutivo pierde todas sus facultades.",
+        "B": "El Congreso asume el gobierno del país.",
+        "C": "Su reunión es obligatoria e inmediata, sin necesidad de ser convocado.",
+        "D": "Solo el presidente del Congreso puede autorizar la reunión.",
+        "E": "Las leyes aprobadas durante este período tienen mayor jerarquía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La expresión 'de pleno derecho' significa que la acción se produce por imperativo de la ley, sin requerir ningún acto o convocatoria adicional. En este contexto, asegura que el poder legislativo se constituya inmediatamente como contrapeso y fiscalizador de las acciones del ejecutivo durante el estado de excepción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_011",
+      "pregunta": "Considerando sus causas, el Estado de Sitio es una medida diseñada para proteger principalmente:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La estabilidad económica del país.",
+        "B": "La continuidad de los procesos electorales.",
+        "C": "La soberanía e integridad del Estado.",
+        "D": "Los derechos de propiedad privada.",
+        "E": "La libertad de prensa y expresión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las causales como 'invasión', 'guerra exterior' y 'guerra civil' son amenazas directas a la existencia, soberanía e integridad territorial del Estado. Por lo tanto, el Estado de Sitio es un mecanismo de defensa extremo para preservar la nación misma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_012",
+      "pregunta": "¿Qué entidad tiene la última palabra sobre la continuación de un Estado de Sitio después de los 45 días iniciales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Comando Conjunto de las Fuerzas Armadas",
+        "B": "El Presidente de la República",
+        "C": "El Congreso de la República",
+        "D": "El Tribunal Constitucional",
+        "E": "La Defensoría del Pueblo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Constitución es clara al establecer que 'la prórroga requiere aprobación del Congreso'. Esto significa que, sin importar la voluntad del Ejecutivo o la recomendación militar, la decisión final sobre la extensión del estado de excepción recae en el poder legislativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_013",
+      "pregunta": "Un gobierno decreta un Estado de Sitio por 30 días debido a una inminente guerra civil. A los 25 días, la amenaza persiste y se agrava. ¿Cuál es el procedimiento constitucional correcto para mantener el régimen de excepción sin interrupciones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Emitir un nuevo decreto por otros 30 días antes de que venza el primero.",
+        "B": "Esperar a que termine el plazo y luego decretar uno nuevo inmediatamente.",
+        "C": "Solicitar y obtener la aprobación del Congreso para una prórroga antes de que finalice el plazo inicial.",
+        "D": "Las Fuerzas Armadas, al tener el control, pueden extender el plazo unilateralmente.",
+        "E": "Convocar a un plebiscito para que la ciudadanía decida la extensión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La única vía constitucional para continuar con el Estado de Sitio es mediante una prórroga, y esta requiere obligatoriamente la aprobación del Congreso. Para evitar un vacío legal o una interrupción, el Ejecutivo debe gestionar y conseguir dicha aprobación antes de que el plazo inicial de 30 días expire.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_014",
+      "pregunta": "Si un país sufre una grave crisis sanitaria por una epidemia y disturbios por la escasez de alimentos, pero no existe un conflicto armado organizado, ¿sería constitucionalmente apropiado declarar un Estado de Sitio?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sí, porque la gravedad de la situación lo amerita.",
+        "B": "Sí, porque los disturbios pueden ser considerados un peligro inminente.",
+        "C": "No, porque las causas no corresponden a guerra, invasión o guerra civil.",
+        "D": "Sí, pero solo si las Fuerzas Armadas lo recomiendan.",
+        "E": "No, porque el Congreso no lo aprobaría."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado de Sitio tiene causales taxativas: invasión, guerra exterior, guerra civil o peligro inminente de estas. Una crisis sanitaria o disturbios por escasez, por muy graves que sean, no se encuadran en estas definiciones. Existen otros regímenes de excepción, como el Estado de Emergencia, para ese tipo de situaciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "civica_214_015",
+      "pregunta": "El conjunto de reglas para el Estado de Sitio (plazo máximo, control del Congreso en la prórroga, reunión automática del legislativo) busca un equilibrio entre:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El poder militar y el poder civil.",
+        "B": "La seguridad nacional y la economía del país.",
+        "C": "La necesidad de una acción ejecutiva fuerte en crisis y los controles democráticos para evitar abusos.",
+        "D": "Los derechos individuales y las obligaciones ciudadanas.",
+        "E": "El gobierno central y los gobiernos regionales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este marco constitucional refleja un diseño deliberado para equilibrar dos principios. Por un lado, otorga al Estado herramientas poderosas (control militar) para enfrentar amenazas existenciales. Por otro, establece candados (plazo fijo, rol del Congreso) para asegurar que este poder extraordinario sea temporal y supervisado, previniendo su uso arbitrario y preservando el orden democrático.",
+      "imagen": null
+    }
+  ]
+}

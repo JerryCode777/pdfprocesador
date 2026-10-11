@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_207_001",
-      "pregunta": "¿Qué es la masa fórmula de una sustancia?",
+      "pregunta": "¿Cómo se define la \"masa fórmula\" de una sustancia?",
       "dificultad": 1,
       "opciones": {
-        "A": "El número de Avogadro multiplicado por el número de átomos.",
-        "B": "La suma de las masas atómicas de los átomos en la fórmula química.",
-        "C": "El número total de átomos en una molécula.",
-        "D": "La masa de un mol de la sustancia en kilogramos.",
-        "E": "La cantidad de sustancia presente en 12 gramos de carbono-12."
+        "A": "El número total de átomos en su fórmula química.",
+        "B": "La suma de las masas atómicas de los átomos en su fórmula química.",
+        "C": "El número de Avogadro multiplicado por su masa molar.",
+        "D": "La masa de un solo átomo de la sustancia.",
+        "E": "El número de moles presentes en 12 gramos de la sustancia."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La masa fórmula de una sustancia se define como la suma de las masas atómicas de todos los átomos que aparecen en su fórmula química. Las otras opciones describen conceptos diferentes: el número de partículas en un mol, la atomicidad de una molécula, la masa molar o la definición de mol.",
+      "explicacion": "La masa fórmula de una sustancia se define como la suma de las masas atómicas de todos los átomos que se indican en su fórmula química. Las otras opciones son incorrectas: A se refiere al conteo de átomos (atomicidad), C es una operación matemática sin sentido en este contexto, D describe la masa atómica de un elemento, y E es una afirmación incorrecta relacionada con el concepto de mol.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_002",
-      "pregunta": "¿Qué representa un mol en el Sistema Internacional de Unidades?",
+      "pregunta": "Según el Sistema Internacional, ¿qué es un mol?",
       "dificultad": 1,
       "opciones": {
-        "A": "Una masa de 12 gramos de cualquier elemento.",
-        "B": "Un volumen de 22.4 litros a condiciones estándar.",
-        "C": "Una cantidad de sustancia que contiene aproximadamente $$6.022 \\times 10^{23}$$ entidades elementales.",
-        "D": "El número total de protones en un átomo.",
-        "E": "La masa atómica de un elemento expresada en gramos."
+        "A": "La masa de una sustancia expresada en gramos.",
+        "B": "El volumen que ocupa un gas en condiciones estándar.",
+        "C": "Una unidad de concentración para soluciones químicas.",
+        "D": "La cantidad de sustancia que contiene un número específico de entidades elementales, equivalente al número de átomos en 12 g de carbono-12.",
+        "E": "La masa correspondiente a 12 gramos de cualquier elemento químico."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El mol es la unidad de cantidad de sustancia. Se define como la cantidad que contiene un número de entidades elementales (como átomos o moléculas) igual al número de átomos presentes en exactamente 12 gramos de carbono-12. Este número es conocido como el número de Avogadro, que es aproximadamente $$6.022 \\times 10^{23}$$.",
+      "respuesta_correcta": "D",
+      "explicacion": "Un mol es la unidad del Sistema Internacional para medir la cantidad de sustancia. Se define con precisión como la cantidad que contiene tantas entidades elementales (átomos, moléculas, etc.) como átomos hay exactamente en 12 gramos del isótopo carbono-12. Las otras opciones definen otros conceptos químicos como masa, volumen molar o concentración.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_003",
-      "pregunta": "¿Para qué tipo de sustancias se utiliza específicamente el término \"unidad fórmula\" en lugar de \"molécula\"?",
+      "pregunta": "¿Cuál es el valor aproximado del número de Avogadro ($N_A$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "Sustancias gaseosas",
-        "B": "Compuestos orgánicos",
-        "C": "Metales puros",
-        "D": "Sustancias iónicas",
-        "E": "Sustancias moleculares covalentes"
+        "A": "$$6.022 \\times 10^{-23}$$",
+        "B": "$$12.00 \\times 10^{23}$$",
+        "C": "$$6.022 \\times 10^{23}$$",
+        "D": "$$1.0 \\times 10^{12}$$",
+        "E": "$$3.141 \\times 10^{23}$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para las sustancias iónicas, como el cloruro de sodio (NaCl), no existen moléculas discretas, sino una red cristalina de iones. Por esta razón, se habla de \"unidades fórmula\" para representar la proporción más simple de iones en el compuesto, y su masa correspondiente se llama \"masa fórmula\".",
+      "respuesta_correcta": "C",
+      "explicacion": "El número de Avogadro ($N_A$) es la constante que representa el número de entidades elementales (átomos, moléculas, iones, etc.) en un mol de una sustancia. Su valor aceptado es aproximadamente $$6.022 \\times 10^{23}$$. La opción A tiene el exponente negativo, lo cual es incorrecto. Las demás opciones presentan valores numéricos que no corresponden a esta constante fundamental.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_004",
-      "pregunta": "¿Cuál es el valor aproximado del número de Avogadro ($$N_a$$)?",
+      "pregunta": "¿Cómo se calcula la masa molecular de un compuesto?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$6.022 \\times 10^{-23}$$",
-        "B": "$$3.011 \\times 10^{23}$$",
-        "C": "$$12.00 \\times 10^{23}$$",
-        "D": "$$6.022 \\times 10^{23}$$",
-        "E": "$$1.660 \\times 10^{-24}$$"
+        "A": "Sumando el número de protones y neutrones de un átomo.",
+        "B": "Multiplicando las masas atómicas de los elementos que lo componen.",
+        "C": "Promediando las masas atómicas de los elementos en la molécula.",
+        "D": "Sumando las masas atómicas de todos los átomos que forman la molécula.",
+        "E": "Dividiendo la masa total de la muestra por el número de Avogadro."
       },
       "respuesta_correcta": "D",
-      "explicacion": "El número de Avogadro ($$N_a$$) representa la cantidad de entidades elementales (átomos, moléculas, iones, etc.) en un mol de una sustancia. Su valor aceptado es aproximadamente $$6.022 \\times 10^{23}$$.",
+      "explicacion": "La masa molecular se calcula mediante la suma ($$\\Sigma$$) de las masas atómicas de cada uno de los átomos presentes en la fórmula química de la molécula. Por ejemplo, para una molécula $A_x B_y$, la masa molecular sería $$x(\\text{masa atómica de A}) + y(\\text{masa atómica de B})$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_005",
-      "pregunta": "La masa molecular de un compuesto se calcula mediante la operación:",
+      "pregunta": "Para las sustancias iónicas, ¿qué término se utiliza para describir la unidad representativa en lugar de \"molécula\"?",
       "dificultad": 1,
       "opciones": {
-        "A": "Promedio de las masas atómicas",
-        "B": "Resta de las masas atómicas",
-        "C": "Suma de las masas atómicas ($$\\Sigma \\text{ Masas atómicas}$$)",
-        "D": "Producto de las masas atómicas",
-        "E": "División de la masa total entre el número de átomos"
+        "A": "Átomos iónicos",
+        "B": "Complejos moleculares",
+        "C": "Partículas elementales",
+        "D": "Unidades fórmula",
+        "E": "Cationes y aniones"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La masa molecular es la suma de las masas atómicas de todos los átomos que componen una molécula. Se representa matemáticamente como $$\\Sigma \\text{ Masas atómicas}$$, donde se multiplica la masa atómica de cada elemento por el número de veces que aparece en la fórmula y luego se suman todos los resultados.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los compuestos iónicos no forman moléculas discretas, sino redes cristalinas formadas por iones. Por esta razón, no se habla de \"moléculas\" sino de \"unidades fórmula\", que representan la proporción estequiométrica más simple de los iones en el compuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_006",
-      "pregunta": "Considerando las masas atómicas aproximadas de H = 1 uma y O = 16 uma, ¿cuál es la masa molecular del agua ($$\\text{H}_2\\text{O}$$)?",
+      "pregunta": "¿Cuál es la relación entre el método de cálculo de la masa fórmula y la masa molecular?",
       "dificultad": 2,
       "opciones": {
-        "A": "17 uma",
-        "B": "18 uma",
-        "C": "2 uma",
-        "D": "32 uma",
-        "E": "16 uma"
+        "A": "Son completamente diferentes; uno suma y el otro multiplica.",
+        "B": "La masa fórmula siempre da un resultado mayor que la masa molecular.",
+        "C": "Se calculan de la misma manera: sumando las masas atómicas de la fórmula.",
+        "D": "La masa molecular usa masas atómicas enteras y la masa fórmula usa masas exactas.",
+        "E": "No tienen ninguna relación."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La masa molecular del agua ($$\\text{H}_2\\text{O}$$) se calcula sumando las masas atómicas de sus componentes: dos átomos de hidrógeno y un átomo de oxígeno. El cálculo es: $$2 \\times (1 \\text{ uma}) + 1 \\times (16 \\text{ uma}) = 2 + 16 = 18 \\text{ uma}$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque los términos se aplican a diferentes tipos de compuestos (molecular para covalentes, fórmula para iónicos), el procedimiento de cálculo es idéntico. En ambos casos, se suman las masas atómicas de todos los átomos indicados en la fórmula química de la sustancia.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_007",
-      "pregunta": "¿Cuál es la principal similitud entre el cálculo de la masa molecular y la masa fórmula?",
+      "pregunta": "¿Cuál es el estándar de referencia utilizado para definir el mol?",
       "dificultad": 2,
       "opciones": {
-        "A": "Ambas se aplican únicamente a compuestos iónicos.",
-        "B": "El procedimiento de cálculo es exactamente el mismo.",
-        "C": "Ambas requieren el uso del número de Avogadro.",
-        "D": "Solo se pueden calcular para sustancias en estado gaseoso.",
-        "E": "Sus resultados siempre se expresan en gramos."
+        "A": "La cantidad de moléculas en 1 gramo de hidrógeno.",
+        "B": "La cantidad de átomos en 16 gramos de oxígeno-16.",
+        "C": "La cantidad de átomos en exactamente 12 gramos de carbono-12.",
+        "D": "La cantidad de partículas en 1 gramo de cualquier sustancia.",
+        "E": "El número de Avogadro dividido por 12."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Aunque los términos se usan para diferentes tipos de compuestos (masa molecular para sustancias moleculares y masa fórmula para iónicas), el método de cálculo es idéntico: sumar las masas atómicas de todos los átomos presentes en la fórmula química.",
+      "respuesta_correcta": "C",
+      "explicacion": "La definición oficial del mol en el Sistema Internacional se basa en una sustancia específica: el isótopo carbono-12. Un mol es la cantidad de sustancia que contiene tantas entidades elementales como átomos hay en exactamente 12 gramos de carbono-12. Esta cantidad es el número de Avogadro.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_008",
-      "pregunta": "La masa molecular de la glucosa ($$\\text{C}_6\\text{H}_{12}\\text{O}_6$$) es de 180 uma. ¿Cómo se obtiene este valor a partir de las masas atómicas de C=12 uma, H=1 uma y O=16 uma?",
+      "pregunta": "En el cálculo de la masa molecular de la glucosa ($C_6H_{12}O_6$), la expresión $$6(12 \\text{ uma})$$ representa la masa total aportada por:",
       "dificultad": 2,
       "opciones": {
-        "A": "$$6(12) + 6(1) + 12(16) = 270 \\text{ uma}$$",
-        "B": "$$12(12) + 1(1) + 16(6) = 241 \\text{ uma}$$",
-        "C": "$$6(12) + 12(1) + 6(16) = 180 \\text{ uma}$$",
-        "D": "$$6 + 12 + 6 + 12 + 1 + 16 = 53 \\text{ uma}$$",
-        "E": "$$(12 + 1 + 16) \\times 6 = 174 \\text{ uma}$$"
+        "A": "Los 12 átomos de hidrógeno.",
+        "B": "Los 6 átomos de oxígeno.",
+        "C": "La mitad de la molécula de glucosa.",
+        "D": "Los 6 átomos de carbono.",
+        "E": "La suma de los átomos de carbono e hidrógeno."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Para calcular la masa molecular de la glucosa, se multiplica la masa atómica de cada elemento por el número de átomos de ese elemento en la fórmula y luego se suman los resultados: $$6 \\text{ átomos de C} \\times (12 \\text{ uma/átomo}) + 12 \\text{ átomos de H} \\times (1 \\text{ uma/átomo}) + 6 \\text{ átomos de O} \\times (16 \\text{ uma/átomo}) = 72 + 12 + 96 = 180 \\text{ uma}$$.",
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula de la glucosa, $C_6H_{12}O_6$, indica que hay 6 átomos de carbono. Sabiendo que la masa atómica del carbono es de 12 uma, el término $$6(12 \\text{ uma})$$ corresponde a la contribución total de los 6 átomos de carbono a la masa molecular de la glucosa.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_009",
-      "pregunta": "¿Qué indica el número de Avogadro ($$N_a$$) en relación con un mol de moléculas de glucosa ($$\\text{C}_6\\text{H}_{12}\\text{O}_6$$)?",
+      "pregunta": "¿Por qué se utiliza el término \"masa fórmula\" específicamente para sustancias iónicas como el NaCl?",
       "dificultad": 2,
       "opciones": {
-        "A": "Que hay $$6.022 \\times 10^{23}$$ gramos de glucosa.",
-        "B": "Que hay $$6.022 \\times 10^{23}$$ átomos en total.",
-        "C": "Que hay $$6.022 \\times 10^{23}$$ moléculas de glucosa.",
-        "D": "Que hay $$6.022 \\times 10^{23}$$ moles de glucosa.",
-        "E": "Que la masa de un mol es $$6.022 \\times 10^{23}$$ uma."
+        "A": "Porque su masa es solo una fórmula teórica y no real.",
+        "B": "Porque estas sustancias no existen como moléculas discretas.",
+        "C": "Porque su cálculo es más complejo que el de la masa molecular.",
+        "D": "Porque siempre contienen metales y no metales.",
+        "E": "Porque solo se aplica a sólidos cristalinos."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El mol es una unidad que representa una cantidad específica de entidades. Un mol de cualquier sustancia contiene un número de Avogadro ($$N_a \\approx 6.022 \\times 10^{23}$$) de sus entidades elementales. En este caso, las entidades son moléculas de glucosa.",
+      "respuesta_correcta": "B",
+      "explicacion": "El término \"masa fórmula\" se usa para compuestos iónicos porque estos forman redes cristalinas tridimensionales en lugar de moléculas individuales. La \"fórmula\" (por ejemplo, NaCl) representa la proporción más simple de iones en esta red, conocida como unidad fórmula, no una molécula separada.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_010",
-      "pregunta": "La definición del mol se basa en el isótopo carbono-12. Específicamente, se refiere a la cantidad de átomos en:",
+      "pregunta": "¿Qué tipo de \"entidades elementales\" se contabilizan en un mol de glucosa ($C_6H_{12}O_6$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "12 kilogramos de carbono-12",
-        "B": "1 mol de carbono-12",
-        "C": "1 átomo de carbono-12",
-        "D": "12 gramos de cualquier isótopo de carbono",
-        "E": "Exactamente 12 gramos de carbono-12"
+        "A": "Átomos de carbono.",
+        "B": "Unidades fórmula de glucosa.",
+        "C": "Moléculas de glucosa.",
+        "D": "Iones de glucosa.",
+        "E": "La suma de todos los átomos individuales."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "La definición formal del mol establece que es la cantidad de sustancia que contiene tantas entidades elementales como átomos hay en exactamente 12 gramos del isótopo carbono-12. Esta es la referencia estándar para la unidad.",
+      "respuesta_correcta": "C",
+      "explicacion": "La glucosa es un compuesto molecular, lo que significa que su unidad fundamental es la molécula. Por lo tanto, un mol de glucosa contiene $$6.022 \\times 10^{23}$$ moléculas de $C_6H_{12}O_6$. El término \"unidades fórmula\" se reservaría para compuestos iónicos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_011",
-      "pregunta": "Si la masa atómica del Sodio (Na) es 23 uma, la del Oxígeno (O) es 16 uma y la del Hidrógeno (H) es 1 uma, ¿cuál es la masa fórmula del hidróxido de sodio (NaOH)?",
+      "pregunta": "Considerando el cálculo para la masa fórmula del NaCl, $$1(23 \\text{ uma}) + 1(35.5 \\text{ uma}) = 58.5 \\text{ uma}$$, ¿qué representan los valores 23 uma y 35.5 uma?",
       "dificultad": 2,
       "opciones": {
-        "A": "39 uma",
-        "B": "24 uma",
-        "C": "40 uma",
-        "D": "56 uma",
-        "E": "38 uma"
+        "A": "El número de protones de Na y Cl, respectivamente.",
+        "B": "Las masas atómicas de Na y Cl, respectivamente.",
+        "C": "El número de moles de cada elemento.",
+        "D": "Las masas moleculares de Na y Cl.",
+        "E": "El número de Avogadro para cada elemento."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El hidróxido de sodio (NaOH) es un compuesto iónico, por lo que calculamos su masa fórmula. Se suman las masas atómicas de cada elemento presente en la unidad fórmula: $$1 \\times (23 \\text{ uma}) + 1 \\times (16 \\text{ uma}) + 1 \\times (1 \\text{ uma}) = 23 + 16 + 1 = 40 \\text{ uma}$$.",
+      "respuesta_correcta": "B",
+      "explicacion": "En el cálculo de la masa fórmula (o molecular), los valores que se suman son las masas atómicas de los elementos constituyentes, multiplicados por el número de átomos de cada uno en la fórmula. Por lo tanto, 23 uma es la masa atómica del sodio (Na) y 35.5 uma es la masa atómica del cloro (Cl).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_012",
-      "pregunta": "Sabiendo que la masa fórmula del NaCl es 58.5 uma, ¿qué representa este valor?",
+      "pregunta": "Si un mol de una sustancia contiene $$6.022 \\times 10^{23}$$ entidades elementales, ¿cuántas entidades elementales hay en un mol de NaCl?",
       "dificultad": 2,
       "opciones": {
-        "A": "La suma de las masas atómicas de un átomo de Sodio y un átomo de Cloro.",
-        "B": "El número de Avogadro para el NaCl.",
-        "C": "La masa de un mol de NaCl en umas.",
-        "D": "El promedio de las masas atómicas de Na y Cl.",
-        "E": "La masa de un solo átomo de NaCl."
+        "A": "12",
+        "B": "Una.",
+        "C": "$$2 \\times (6.022 \\times 10^{23})$$",
+        "D": "$$6.022 \\times 10^{23}$$",
+        "E": "Depende de la masa de la muestra."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "La masa fórmula de 58.5 uma para el NaCl se calcula sumando la masa atómica del Sodio (Na), que es 23 uma, y la masa atómica del Cloro (Cl), que es 35.5 uma. El resultado es $$23 + 35.5 = 58.5 \\text{ uma}$$. Este valor corresponde a una única unidad fórmula.",
+      "respuesta_correcta": "D",
+      "explicacion": "La definición de mol es universal para cualquier sustancia. Un mol siempre contiene el número de Avogadro ($$6.022 \\times 10^{23}$$) de sus entidades elementales. Para el NaCl, la entidad elemental es la unidad fórmula, por lo que un mol de NaCl contiene $$6.022 \\times 10^{23}$$ unidades fórmula de NaCl.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_013",
-      "pregunta": "Usando las masas atómicas C=12, H=1, O=16, Na=23 y Cl=35.5 (todas en uma), ¿cuál de los siguientes compuestos tiene la mayor masa molecular o fórmula?",
+      "pregunta": "Si una sustancia está compuesta por moléculas discretas, ¿qué término es conceptualmente más apropiado para la suma de las masas atómicas de sus átomos?",
       "dificultad": 3,
       "opciones": {
-        "A": "Dióxido de carbono ($\\text{CO}_2$)",
-        "B": "Agua ($\\text{H}_2\\text{O}$)",
-        "C": "Glucosa ($\\text{C}_6\\text{H}_{12}\\text{O}_6$)",
-        "D": "Cloruro de sodio (NaCl)",
-        "E": "Metano ($\\text{CH}_4$)"
+        "A": "Masa atómica promedio",
+        "B": "Masa de unidad fórmula",
+        "C": "Masa molecular",
+        "D": "Masa iónica",
+        "E": "Masa molar"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Para resolver esta pregunta, es necesario calcular la masa de cada compuesto: A) $\\text{CO}_2$: $$12 + 2(16) = 44 \\text{ uma}$$. B) $\\text{H}_2\\text{O}$: $$2(1) + 16 = 18 \\text{ uma}$$. C) $\\text{C}_6\\text{H}_{12}\\text{O}_6$: $$6(12) + 12(1) + 6(16) = 72 + 12 + 96 = 180 \\text{ uma}$$. D) NaCl: $$23 + 35.5 = 58.5 \\text{ uma}$$. E) $\\text{CH}_4$: $$12 + 4(1) = 16 \\text{ uma}$$. Comparando los resultados, la glucosa ($\\text{C}_6\\text{H}_{12}\\text{O}_6$) tiene la mayor masa molecular con 180 uma.",
+      "explicacion": "Esta pregunta requiere aplicar la distinción conceptual. Cuando una sustancia está formada por moléculas individuales y discretas (típico de compuestos covalentes), el término correcto para la masa de una de esas moléculas es \"masa molecular\". El término \"masa de unidad fórmula\" se reserva para compuestos iónicos que no forman moléculas discretas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_014",
-      "pregunta": "Una implicación directa de la definición del mol basada en 12 g de carbono-12 es que:",
+      "pregunta": "Una muestra contiene exactamente $$6.022 \\times 10^{23}$$ moléculas de glucosa ($C_6H_{12}O_6$). ¿Qué representa esta cantidad específica de moléculas?",
       "dificultad": 3,
       "opciones": {
-        "A": "12 gramos de cualquier elemento contienen el mismo número de átomos.",
-        "B": "La masa de un mol de cualquier sustancia es siempre 12 gramos.",
-        "C": "Un mol de átomos de carbono-12 tiene una masa de exactamente 12 gramos y contiene $$N_a$$ átomos.",
-        "D": "El número de Avogadro es igual a la masa atómica del carbono-12.",
-        "E": "Todos los átomos tienen una masa que es un múltiplo entero de la masa de un átomo de carbono-12."
+        "A": "La masa molecular de la glucosa en gramos.",
+        "B": "180 gramos de glucosa.",
+        "C": "12 gramos de carbono-12.",
+        "D": "Un mol de glucosa.",
+        "E": "Una única unidad fórmula de glucosa."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La definición establece una relación fundamental: la cantidad de sustancia (mol) se vincula a una masa macroscópica (12 g) y a un número de partículas microscópicas ($$N_a$$) usando un estándar específico (carbono-12). Por lo tanto, se deduce directamente que un mol de átomos de C-12 tiene una masa de 12 g y, por definición, contiene un número de Avogadro de átomos. Las otras opciones son generalizaciones incorrectas.",
+      "respuesta_correcta": "D",
+      "explicacion": "La pregunta conecta directamente el número de Avogadro con el concepto de mol para una sustancia específica. Por definición, un mol de cualquier sustancia molecular contiene $$6.022 \\times 10^{23}$$ moléculas. Por lo tanto, tener esa cantidad de moléculas de glucosa es, por definición, tener un mol de glucosa.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_207_015",
-      "pregunta": "Utilizando la información de que la masa fórmula del NaCl es 58.5 uma y la masa atómica del Na es 23 uma, ¿qué porcentaje de la masa total del NaCl corresponde al sodio (Na)?",
+      "pregunta": "Al comparar el cálculo de la masa molecular de $C_6H_{12}O_6$ (180 uma) con la masa fórmula de NaCl (58.5 uma), ¿qué principio fundamental se aplica en ambos casos?",
       "dificultad": 3,
       "opciones": {
-        "A": "23.0%",
-        "B": "58.5%",
-        "C": "60.7%",
-        "D": "39.3%",
-        "E": "77.0%"
+        "A": "Ambos compuestos son iónicos.",
+        "B": "Ambos resultados son múltiplos del número de Avogadro.",
+        "C": "Ambos compuestos contienen el mismo número de átomos.",
+        "D": "El procedimiento en ambos es la suma de las masas atómicas de los átomos de la fórmula.",
+        "E": "La masa de un compuesto siempre es un número entero."
       },
       "respuesta_correcta": "D",
-      "explicacion": "El porcentaje en masa de un elemento en un compuesto se calcula dividiendo la masa total de ese elemento en la fórmula entre la masa fórmula total del compuesto, y multiplicando por 100. En este caso, para el sodio en NaCl, el cálculo es: $$\\% \\text{Na} = \\frac{\\text{masa de Na}}{\\text{masa de NaCl}} \\times 100 = \\frac{23 \\text{ uma}}{58.5 \\text{ uma}} \\times 100 \\approx 39.3\\%$$.",
+      "explicacion": "Esta pregunta exige identificar el principio común subyacente a los dos ejemplos proporcionados. A pesar de las diferencias entre la glucosa (molecular) y el NaCl (iónico), el método de cálculo para sus respectivas masas es el mismo: se toma la fórmula química, se identifica el número de átomos de cada elemento y se suman sus masas atómicas correspondientes. El resultado para NaCl (58.5 uma) demuestra que la masa no siempre es un número entero.",
       "imagen": null
     }
   ]

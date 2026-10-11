@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 5,
+  "total_temas": 137,
+  "titulo_tema": "Vectores y Operaciones Vectoriales",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_005_001",
+      "pregunta": "¿Qué característica define a una magnitud física como ESCALAR?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Queda determinada por un módulo, una dirección y un sentido.",
+        "B": "Se representa gráficamente mediante una flecha.",
+        "C": "Queda determinada por un número real que expresa su medida.",
+        "D": "Siempre tiene un valor positivo y una unidad.",
+        "E": "Necesita un punto de aplicación para ser definida."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una magnitud física es escalar cuando queda completamente determinada por un número real y su correspondiente unidad de medida. A diferencia de las magnitudes vectoriales, no requiere de una dirección ni un sentido. Ejemplos de escalares son la masa, el tiempo y la temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_002",
+      "pregunta": "¿Cuáles son los cuatro elementos que determinan un vector?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Módulo, dirección, sentido y origen.",
+        "B": "Coordenada X, coordenada Y, ángulo y longitud.",
+        "C": "Magnitud, unidad, orientación y punto final.",
+        "D": "Fuerza, velocidad, aceleración y desplazamiento.",
+        "E": "Tamaño, plano, orientación y aplicación."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Un vector se define por cuatro elementos clave: el módulo (su tamaño o medida), la dirección (la línea sobre la cual actúa), el sentido (indicado por la punta de la flecha) y el origen (el punto de aplicación).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_003",
+      "pregunta": "¿Cómo se denominan los vectores que se encuentran contenidos en un mismo plano?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vectores colineales",
+        "B": "Vectores paralelos",
+        "C": "Vectores concurrentes",
+        "D": "Vectores coplanares",
+        "E": "Vectores iguales"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los vectores coplanares son aquellos que se encuentran en el mismo plano. Los colineales están en la misma línea, los paralelos tienen líneas de acción paralelas y los concurrentes se cortan en un mismo punto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_004",
+      "pregunta": "¿Cuál es la finalidad principal de un vector unitario?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Calcular el módulo de cualquier vector.",
+        "B": "Señalar una dirección específica en el espacio.",
+        "C": "Representar magnitudes físicas como la fuerza o la velocidad.",
+        "D": "Tener siempre un módulo mayor a la unidad.",
+        "E": "Indicar el origen de un sistema de coordenadas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un vector unitario es un vector de magnitud 1 cuya única finalidad es direccionar, es decir, señalar una dirección y sentido en el espacio. No tiene unidades y sirve como una referencia direccional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_005",
+      "pregunta": "Una magnitud física que para su completa determinación requiere de un módulo, una dirección y un sentido se conoce como...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Magnitud escalar",
+        "B": "Magnitud fundamental",
+        "C": "Magnitud vectorial",
+        "D": "Magnitud dimensional",
+        "E": "Magnitud cartesiana"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por definición, una magnitud vectorial es aquella que necesita, además de su medida (módulo), una dirección y un sentido para quedar completamente descrita. Ejemplos de ello son la fuerza, la velocidad y el desplazamiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_006",
+      "pregunta": "¿Qué dos condiciones deben cumplir dos vectores para ser considerados iguales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tener igual módulo y estar en el mismo plano.",
+        "B": "Tener el mismo origen y la misma dirección.",
+        "C": "Tener igual módulo y dirección.",
+        "D": "Ser paralelos y tener el mismo sentido.",
+        "E": "Ser colineales y tener igual módulo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dos vectores son iguales si y solo si tienen el mismo módulo (tamaño) y la misma dirección (la cual implica también el mismo sentido). Su punto de aplicación u origen no necesita ser el mismo, debido a la propiedad de los vectores libres.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_007",
+      "pregunta": "En el método del polígono para la suma de vectores, ¿qué representa el vector resultante?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El vector que une el origen del primer vector con el extremo del último.",
+        "B": "La suma algebraica de los módulos de todos los vectores.",
+        "C": "El vector de mayor módulo del sistema.",
+        "D": "Un vector nulo si el polígono es abierto.",
+        "E": "La diagonal mayor del polígono formado por los vectores."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El método del polígono consiste en colocar los vectores uno a continuación del otro. El vector resultante (la suma vectorial) es el vector que se traza desde el origen del primer vector hasta el extremo del último vector, cerrando así la figura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_008",
+      "pregunta": "Según el método del paralelogramo, ¿cuál es la fórmula para calcular el módulo del vector resultante $$|\\vec{R}|$$ de dos vectores de módulos $$A$$ y $$B$$ que forman un ángulo $$\theta$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$|\\vec{R}| = \\sqrt{A^2 + B^2 - 2AB\\cos{\\theta}}$$",
+        "B": "$$|\\vec{R}| = \\sqrt{A^2 + B^2 + 2AB\\cos{\\theta}}$$",
+        "C": "$$|\\vec{R}| = A + B + \\cos{\\theta}$$",
+        "D": "$$|\\vec{R}| = \\sqrt{A^2 + B^2}$$",
+        "E": "$$|\\vec{R}| = \\sqrt{A^2 + B^2 + 2AB\\sin{\\theta}}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ley de los cosenos aplicada al paralelogramo formado por los dos vectores da como resultado la fórmula para el módulo del vector resultante: $$|\\vec{R}| = \\sqrt{A^2 + B^2 + 2AB\\cos{\\theta}}$$. La fórmula con el signo negativo corresponde al módulo del vector diferencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_009",
+      "pregunta": "De acuerdo a los casos particulares de suma de vectores, ¿cuál es el módulo de la resultante de dos vectores de módulos iguales a $$A$$ que forman un ángulo de 120° entre sí?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$A\\sqrt{3}$$",
+        "B": "$$2A$$",
+        "C": "$$A\\sqrt{2}$$",
+        "D": "$$A$$",
+        "E": "0"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Es un caso particular notable. Cuando dos vectores de igual módulo ($$A$$) forman un ángulo de 120°, el módulo de su vector resultante es también igual a $$A$$. Esto se puede demostrar usando la fórmula general: $$|\\vec{R}| = \\sqrt{A^2 + A^2 + 2A \\cdot A \\cdot \\cos{120^\\circ}} = \\sqrt{2A^2 + 2A^2(-0.5)} = \\sqrt{2A^2 - A^2} = \\sqrt{A^2} = A$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_010",
+      "pregunta": "¿Qué ocurre con el vector resultante si un conjunto de vectores, al ser graficados uno a continuación del otro, forman un polígono cerrado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El resultante es igual al vector de mayor módulo.",
+        "B": "El resultante tiene un módulo igual a la suma de los módulos.",
+        "C": "El resultante es nulo ($$|\\vec{R}| = 0$$).",
+        "D": "El resultante es el doble del primer vector.",
+        "E": "El resultante tiene una dirección perpendicular al plano."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si los vectores forman un polígono cerrado, el extremo del último vector coincide con el origen del primer vector. Dado que la resultante se traza desde el origen del primero hasta el extremo del último, en este caso el vector resultante es un punto, es decir, un vector nulo con módulo igual a cero ($$|\\vec{R}| = 0$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_011",
+      "pregunta": "Para un vector en el plano cartesiano expresado como un par ordenado $$\\vec{V} = (a, b)$$, ¿cómo se calcula la dirección $$\theta$$ del vector?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\tan{\\theta} = \\frac{a}{b}$$",
+        "B": "$$\\cos{\\theta} = \\frac{b}{a}$$",
+        "C": "$$\\sin{\\theta} = \\frac{b}{a}$$",
+        "D": "$$\\tan{\\theta} = a + b$$",
+        "E": "$$\\tan{\\theta} = \\frac{b}{a}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La dirección de un vector $$\\vec{V} = (a, b)$$ está definida por el ángulo $$\theta$$ que forma con el semieje X positivo. Las componentes $$a$$ y $$b$$ corresponden a los catetos adyacente y opuesto del triángulo rectángulo formado por el vector. Por lo tanto, la relación trigonométrica es $$ \\tan{\\theta} = \\frac{\\text{cateto opuesto}}{\\text{cateto adyacente}} = \\frac{b}{a} $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_012",
+      "pregunta": "¿En qué situación se obtiene la resultante máxima ($$R_{máx}$$) al sumar dos vectores de módulos $$A$$ y $$B$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando los vectores son perpendiculares ($$\\theta = 90^\\circ$$).",
+        "B": "Cuando los vectores son paralelos y tienen sentidos opuestos ($$\\theta = 180^\\circ$$).",
+        "C": "Cuando los vectores son paralelos y tienen el mismo sentido ($$\\theta = 0^\\circ$$).",
+        "D": "Cuando el ángulo entre ellos es de 60° ($$\\theta = 60^\\circ$$).",
+        "E": "Cuando los módulos de los vectores son iguales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resultante de dos vectores es máxima cuando ambos apuntan en la misma dirección y sentido. En este caso, el ángulo entre ellos es $$ \\theta = 0^\\circ $$, y sus módulos se suman aritméticamente, resultando en $$ R_{máx} = A + B $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_013",
+      "pregunta": "Si un vector $$\\vec{V}$$ tiene un módulo $$|\\vec{V}|$$ y forma un ángulo $$\theta$$ con el eje horizontal positivo, ¿cómo se determinan los módulos de sus componentes rectangulares $$|\\vec{V}_x|$$ y $$|\\vec{V}_y|$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$|\\vec{V}_x| = |\\vec{V}| \\tan{\\theta}$$ y $$|\\vec{V}_y| = |\\vec{V}| \\cot{\\theta}$$",
+        "B": "$$|\\vec{V}_x| = |\\vec{V}| \\sin{\\theta}$$ y $$|\\vec{V}_y| = |\\vec{V}| \\cos{\\theta}$$",
+        "C": "$$|\\vec{V}_x| = \\frac{|\\vec{V}|}{\\cos{\\theta}}$$ y $$|\\vec{V}_y| = \\frac{|\\vec{V}|}{\\sin{\\theta}}$$",
+        "D": "$$|\\vec{V}_x| = |\\vec{V}| \\cos{\\theta}$$ y $$|\\vec{V}_y| = |\\vec{V}| \\sin{\\theta}$$",
+        "E": "$$|\\vec{V}_x| = |\\vec{V}_y| \\cos{\\theta}$$ y $$|\\vec{V}_y| = |\\vec{V}_x| \\sin{\\theta}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al descomponer un vector en un plano cartesiano, se forma un triángulo rectángulo donde el vector $$\\vec{V}$$ es la hipotenusa. La componente horizontal $$V_x$$ es el cateto adyacente al ángulo $$\theta$$, por lo que su módulo es $$|\\vec{V}_x| = |\\vec{V}| \\cos{\\theta}$$. La componente vertical $$V_y$$ es el cateto opuesto, por lo que su módulo es $$|\\vec{V}_y| = |\\vec{V}| \\sin{\\theta}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_014",
+      "pregunta": "¿Cuál es la expresión matemática correcta para calcular el vector unitario $$\\vec{\\mu}_A$$ de un vector no nulo $$\\vec{A}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\vec{\\mu}_A = \\frac{|\\vec{A}|}{\\vec{A}}$$",
+        "B": "$$\\vec{\\mu}_A = \\vec{A} \\cdot |\\vec{A}|$$",
+        "C": "$$\\vec{\\mu}_A = \\vec{A} - |\\vec{A}|$$",
+        "D": "$$\\vec{\\mu}_A = \\sqrt{\\frac{\\vec{A}}{|\\vec{A}|}}$$",
+        "E": "$$\\vec{\\mu}_A = \\frac{\\vec{A}}{|\\vec{A}|}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Por definición, un vector unitario tiene la misma dirección y sentido que el vector original, pero con un módulo de 1. Para obtenerlo, se debe dividir el vector original $$\\vec{A}$$ entre su propio módulo $$|\\vec{A}|$$. Esto normaliza la longitud del vector a 1, conservando su dirección. La operación correcta es, por tanto, $$ \\vec{\\mu}_A = \\frac{\\vec{A}}{|\\vec{A}|} $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_005_015",
+      "pregunta": "Considerando las fórmulas para el módulo del vector resultante ($$|\\vec{R}|$$) y el vector diferencia ($$|\\vec{D}|$$) de dos vectores $$\\vec{A}$$ y $$\\vec{B}$$, ¿cuál es la diferencia clave entre ambas expresiones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fórmula de la diferencia utiliza la función seno en lugar de coseno.",
+        "B": "El término $$2AB\\cos{\\theta}$$ es positivo en la suma y negativo en la diferencia.",
+        "C": "No hay término $$2AB\\cos{\\theta}$$ en la fórmula de la diferencia.",
+        "D": "Los términos $$A^2$$ y $$B^2$$ son negativos en la fórmula de la diferencia.",
+        "E": "La fórmula de la resultante está bajo una raíz cuadrada, mientras que la de la diferencia no."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Ambas fórmulas se derivan de la ley de los cosenos. La fórmula para el módulo de la resultante (suma) es $$|\\vec{R}| = \\sqrt{A^2 + B^2 + 2AB\\cos{\\theta}}$$. La fórmula para el módulo de la diferencia es $$|\\vec{D}| = \\sqrt{A^2 + B^2 - 2AB\\cos{\\theta}}$$. La única diferencia algebraica es el signo del término $$2AB\\cos{\\theta}$$, que es positivo para la suma y negativo para la resta.",
+      "imagen": null
+    }
+  ]
+}

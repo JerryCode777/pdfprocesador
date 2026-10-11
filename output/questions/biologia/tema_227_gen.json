@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 227,
+  "total_temas": 320,
+  "titulo_tema": "Gen",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_227_001",
+      "pregunta": "¿Cuál es la rama de la biología que se encarga del estudio de los mecanismos de la herencia, las leyes que la rigen y sus variaciones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Biotecnología",
+        "B": "Genética",
+        "C": "Citología",
+        "D": "Medicina",
+        "E": "Agricultura"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La genética es la rama de la biología que se dedica al estudio de la herencia, incluyendo los mecanismos, leyes y variaciones en la transmisión de caracteres hereditarios. Las otras opciones son campos de aplicación de la genética (Biotecnología, Medicina, Agricultura) o estudian otras áreas de la biología (Citología estudia la célula).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_002",
+      "pregunta": "¿Qué término se utiliza para describir la unidad molecular de la herencia genética que se transfiere de generación en generación?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Locus",
+        "B": "Cromosoma",
+        "C": "Alelo",
+        "D": "Carácter",
+        "E": "Gen"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El gen es definido como la unidad molecular de la herencia genética. Contiene la información que se transfiere a la descendencia y que, al codificarse, da lugar a características específicas. Locus es su posición, carácter es el atributo, y alelo es una variante del carácter.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_003",
+      "pregunta": "¿Cómo se denomina la posición específica que un gen ocupa dentro de un cromosoma?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Alelomorfo",
+        "B": "Carácter",
+        "C": "Loci",
+        "D": "Locus",
+        "E": "Genoma"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El locus es el término preciso para designar la ubicación o 'dirección genética' de un gen en un cromosoma. Loci es el plural de locus, refiriéndose a las posiciones de varios genes. Alelomorfo es sinónimo de alelo, y carácter es el atributo heredable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_004",
+      "pregunta": "¿Qué es un 'carácter' en el contexto de la genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una molécula de proteína codificada por un gen",
+        "B": "La posición exacta de un gen en el ADN",
+        "C": "Un atributo heredable y con función de un organismo",
+        "D": "Una variedad específica de un rasgo, como el color de ojos azul",
+        "E": "El segmento de ADN que contiene información hereditaria"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un carácter es un atributo o rasgo general de un organismo que es heredable y posee una función, como por ejemplo, 'el color de ojos'. Las variedades de este atributo (azul, marrón, verde) son los alelos, y el segmento de ADN que lo determina es el gen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_005",
+      "pregunta": "Si un científico habla de los 'loci' de varios genes relacionados con una enfermedad, ¿a qué se está refiriendo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A las proteínas que causan la enfermedad",
+        "B": "A las diferentes versiones de un solo gen",
+        "C": "A las posiciones específicas de varios genes en uno o más cromosomas",
+        "D": "A un único gen responsable de la enfermedad",
+        "E": "A los caracteres hereditarios afectados"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Loci es el plural de locus. Por lo tanto, al hablar de los loci de varios genes, se hace referencia a las posiciones específicas que esos múltiples genes ocupan en la estructura de los cromosomas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_006",
+      "pregunta": "¿Cuál es la relación secuencial correcta entre un gen, el ADN y una proteína?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una proteína es un segmento de ADN que forma un gen",
+        "B": "Un gen es una proteína que se encuentra en un segmento de ADN",
+        "C": "Un gen es un segmento de ADN que contiene información para formar una proteína",
+        "D": "El ADN se forma a partir de la codificación de una proteína en un gen",
+        "E": "Un gen, el ADN y una proteína son la misma molécula"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación correcta es que un gen es una porción o segmento específico de una molécula de ADN. Este segmento contiene las instrucciones (información) que, al ser leídas y procesadas (codificadas), dirigen la síntesis de una proteína.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_007",
+      "pregunta": "Si el 'color de ojos' es un carácter, ¿qué representan las variedades como 'marrón', 'azul' y 'verde'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Loci",
+        "B": "Genes diferentes",
+        "C": "Proteínas distintas",
+        "D": "Alelos o alelomorfos",
+        "E": "Cromosomas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un carácter es un atributo general (color de ojos). Los alelos o alelomorfos son las diferentes variantes o estados que puede presentar ese carácter (marrón, azul, verde). Cada alelo es determinado por la información contenida en el gen correspondiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_008",
+      "pregunta": "La información contenida en un gen se codifica para formar directamente ¿qué tipo de molécula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un nuevo gen",
+        "B": "Un cromosoma",
+        "C": "Una proteína",
+        "D": "Otro segmento de ADN",
+        "E": "Un alelo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo de información genética establece que un gen, que es un segmento de ADN, contiene las instrucciones para ser codificado en una proteína. Esta proteína es la molécula funcional que luego contribuye a la manifestación de un carácter.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_009",
+      "pregunta": "¿Cuál es la principal diferencia entre un 'gen' y un 'locus'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El gen es la información y el locus es la proteína resultante.",
+        "B": "El gen es la posición y el locus es la unidad de herencia.",
+        "C": "El gen es la unidad de herencia (información) y el locus es su posición en el cromosoma.",
+        "D": "No hay diferencia, son términos intercambiables.",
+        "E": "El gen se hereda, pero el locus no."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia fundamental es que el 'gen' se refiere a la unidad de información hereditaria en sí (el segmento de ADN), mientras que el 'locus' se refiere a su ubicación física o dirección específica en un cromosoma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_010",
+      "pregunta": "¿Cómo contribuye un gen a la manifestación de una característica observable en un organismo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Transformándose directamente en la característica.",
+        "B": "Mediante la codificación de una proteína que da origen a la característica.",
+        "C": "Cambiando de posición en el cromosoma (locus).",
+        "D": "Combinándose con otros alelos para formar un nuevo cromosoma.",
+        "E": "Almacenando la característica físicamente dentro del ADN."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un gen no se convierte en una característica. En su lugar, el gen contiene la información que dirige la producción de una proteína. Es esta proteína, a través de su función, la que finalmente produce o contribuye a la característica observable (el carácter).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_011",
+      "pregunta": "Según la información proporcionada, ¿cuál de los siguientes campos NO es mencionado como un área de aplicación de la genética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Medicina",
+        "B": "Física cuántica",
+        "C": "Agricultura",
+        "D": "Crianza de animales",
+        "E": "Biotecnología"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El texto introductorio menciona explícitamente que la genética tiene aplicaciones en la solución de problemas relacionados con la medicina, agricultura, crianza de animales y biotecnología. La física cuántica no se menciona y es un campo de estudio diferente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_012",
+      "pregunta": "¿Qué es un alelomorfo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El estudio de la forma de los genes",
+        "B": "La posición de un gen en un cromosoma",
+        "C": "Un sinónimo de gen",
+        "D": "Un sinónimo de alelo, refiriéndose a las variedades de un carácter",
+        "E": "La estructura completa de un cromosoma"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El texto indica que las diferentes variedades o estados de un carácter, como los colores de ojos 'marrón', 'azul', 'verde', etc., son llamados alelos o alelomorfos. Por lo tanto, alelomorfo es un término sinónimo de alelo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_013",
+      "pregunta": "Un investigador identifica el segmento de ADN que determina la altura en una planta y lo ubica en el brazo corto del cromosoma 4. En este contexto, 'altura de la planta', 'brazo corto del cromosoma 4' y 'segmento de ADN' corresponden, respectivamente, a:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Carácter, Locus, Gen",
+        "B": "Gen, Locus, Carácter",
+        "C": "Locus, Carácter, Gen",
+        "D": "Carácter, Gen, Locus",
+        "E": "Alelo, Locus, Carácter"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Este es un problema de aplicación de conceptos. La 'altura de la planta' es el atributo heredable, es decir, el carácter. La ubicación 'brazo corto del cromosoma 4' es la posición física, o sea, el locus. El 'segmento de ADN' que contiene la información es la unidad de herencia, el gen. Por tanto, la correspondencia correcta es Carácter, Locus, Gen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_014",
+      "pregunta": "Considerando la jerarquía de la información genética, ¿cuál de las siguientes secuencias describe correctamente el flujo desde la unidad de herencia hasta la manifestación de un rasgo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Alelo -> Carácter -> Gen -> Codificación -> Proteína",
+        "B": "Proteína -> Gen -> Carácter",
+        "C": "Locus -> Cromosoma -> Gen -> Carácter",
+        "D": "Gen (en su locus) -> Codificación a Proteína -> Expresión como Carácter",
+        "E": "Carácter -> Gen -> Proteína"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta pregunta requiere sintetizar el proceso completo. El flujo lógico es: 1) Existe un gen (unidad de información) en una posición específica (su locus). 2) Este gen se codifica para producir una proteína. 3) La acción de esta proteína resulta en la manifestación de un atributo heredable (el carácter). Las otras secuencias alteran este orden fundamental.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_227_015",
+      "pregunta": "En una especie de flor, el 'color del pétalo' puede ser 'rojo' o 'blanco'. ¿Cómo se clasificarían correctamente estos tres conceptos genéticos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Gen: color del pétalo; Alelos: rojo, blanco.",
+        "B": "Carácter: rojo; Alelos: color del pétalo, blanco.",
+        "C": "Carácter: color del pétalo; Alelos: rojo, blanco.",
+        "D": "Locus: color del pétalo; Gen: rojo; Alelo: blanco.",
+        "E": "Carácter: color del pétalo; Gen: rojo; Alelo: blanco."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para clasificar correctamente, debemos identificar cada parte. El atributo general y heredable es el 'color del pétalo', lo cual lo define como el carácter. Las diferentes variedades o versiones de ese atributo, 'rojo' y 'blanco', son los alelos. La opción C es la única que asigna correctamente 'color del pétalo' como el carácter y 'rojo' y 'blanco' como sus alelos.",
+      "imagen": null
+    }
+  ]
+}

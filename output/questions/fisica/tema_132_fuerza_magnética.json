@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 132,
+  "total_temas": 137,
+  "titulo_tema": "Fuerza magnética",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_132_001",
+      "pregunta": "¿Cuál es el nombre de la fuerza electromagnética que se manifiesta sobre una partícula con carga eléctrica en movimiento dentro de un campo magnético externo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerza centrípeta",
+        "B": "Fuerza de Lorentz",
+        "C": "Inducción magnética",
+        "D": "Fuerza fundamental",
+        "E": "Flujo magnético"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza electromagnética que un campo magnético externo ejerce sobre una partícula cargada en movimiento se conoce específicamente como Fuerza de Lorentz. Las otras opciones se refieren a conceptos diferentes: la fuerza centrípeta está relacionada con el movimiento circular, la inducción magnética es otra forma de nombrar al campo magnético, una fuerza fundamental es una categoría general y el flujo magnético es una medida del campo que atraviesa una superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_002",
+      "pregunta": "En la fórmula para calcular la magnitud del campo magnético en un solenoide, $$B = \\frac{\\mu_0 \\cdot I \\cdot N}{L}$$, ¿qué representa el símbolo $$N$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Intensidad de corriente en amperios",
+        "B": "Longitud del solenoide en metros",
+        "C": "Permeabilidad del espacio libre",
+        "D": "Número de espiras",
+        "E": "Magnitud del campo magnético en newtons"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula del campo magnético para un solenoide, $$B = \\frac{\\mu_0 \\cdot I \\cdot N}{L}$$, la variable $$N$$ representa el número total de espiras o vueltas de alambre que componen el solenoide.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_003",
+      "pregunta": "¿Cuál es la unidad de medida para la magnitud de la fuerza magnética ($$F_B$$) en el Sistema Internacional?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tesla (T)",
+        "B": "Amperio (A)",
+        "C": "Coulomb (C)",
+        "D": "Metro por segundo (m/s)",
+        "E": "Newton (N)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Como toda fuerza en el Sistema Internacional de Unidades, la magnitud de la fuerza magnética se mide en newtons (N). El tesla (T) es la unidad del campo magnético, el amperio (A) de la corriente, el coulomb (C) de la carga y el metro por segundo (m/s) de la velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_004",
+      "pregunta": "El fenómeno que consiste en la generación de una corriente eléctrica en un conductor debido a la acción de un campo magnético variable se denomina:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerza de Lorentz",
+        "B": "Flujo magnético",
+        "C": "Inducción electromagnética",
+        "D": "Campo magnético homogéneo",
+        "E": "Permeabilidad del espacio"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inducción electromagnética es el principio fundamental que describe cómo un campo magnético cambiante puede inducir (generar) una corriente eléctrica en un circuito o conductor cercano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_005",
+      "pregunta": "En la expresión para la magnitud de la fuerza magnética sobre una partícula, $$F_B = |q| v B \\sin\\theta$$, ¿qué representa el ángulo $$\\theta$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El ángulo entre la fuerza y la velocidad.",
+        "B": "El ángulo entre el campo magnético y la fuerza.",
+        "C": "El ángulo entre la velocidad y el campo magnético.",
+        "D": "El ángulo de la trayectoria circular.",
+        "E": "El ángulo de la carga eléctrica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la fórmula de la Fuerza de Lorentz, el ángulo $$\\theta$$ es el ángulo que se forma entre el vector de velocidad ($$\\vec{v}$$) de la partícula y el vector del campo magnético ($$\\vec{B}$$). Este ángulo es crucial para determinar la magnitud de la fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_006",
+      "pregunta": "¿Cuál es la causa fundamental de la fuerza magnética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presencia de cargas eléctricas estáticas.",
+        "B": "La interacción entre masas.",
+        "C": "El movimiento de las cargas eléctricas.",
+        "D": "La temperatura de los cuerpos.",
+        "E": "La presencia de un campo eléctrico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza magnética es una consecuencia de la fuerza electromagnética y es causada fundamentalmente por el movimiento de las cargas. Una carga en reposo solo genera un campo eléctrico, pero una carga en movimiento genera tanto un campo eléctrico como un campo magnético, lo que da lugar a la fuerza magnética.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_007",
+      "pregunta": "¿Qué tipo de trayectoria describe una partícula cargada si su velocidad inicial es paralela a las líneas de un campo magnético homogéneo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Circunferencial",
+        "B": "Elíptica",
+        "C": "Parabólica",
+        "D": "Rectilínea",
+        "E": "Helicoidal"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Si la velocidad de la partícula es paralela al campo magnético, el ángulo $$\\theta$$ entre ellos es de 0° o 180°. Dado que $$\\sin(0^\\circ) = 0$$ y $$\\sin(180^\\circ) = 0$$, la fuerza magnética es nula ($$F_B = 0$$). Sin fuerza neta actuando sobre ella (en esa dirección), la partícula continúa su movimiento en una trayectoria rectilínea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_008",
+      "pregunta": "Según la regla de la mano derecha (regla de la palmada) para una carga positiva, si el pulgar representa la velocidad ($$\\vec{v}$$) y los demás dedos el campo magnético ($$\\vec{B}$$), ¿qué representa la dirección en la que sale la fuerza desde la palma?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La dirección de la fuerza magnética ($$\\vec{F}_B$$).",
+        "B": "La dirección de la fuerza para una carga negativa.",
+        "C": "La dirección opuesta al campo magnético.",
+        "D": "La dirección del flujo magnético.",
+        "E": "La dirección de la aceleración centrípeta."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La regla de la mano derecha es una herramienta mnemotécnica para determinar la dirección de la fuerza magnética. Para una carga positiva, el pulgar en la dirección de la velocidad y los dedos en la del campo magnético indican que la fuerza magnética emerge perpendicularmente desde la palma de la mano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_009",
+      "pregunta": "¿Cuándo alcanza su valor máximo la fuerza magnética sobre un conductor recto que transporta corriente dentro de un campo magnético uniforme?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el conductor es paralelo al campo magnético.",
+        "B": "Cuando la corriente eléctrica es cero.",
+        "C": "Cuando el conductor es perpendicular al campo magnético.",
+        "D": "Cuando el conductor forma un ángulo de 45° con el campo.",
+        "E": "Cuando la longitud del conductor es mínima."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La magnitud de la fuerza está dada por $$F_B = I L B \\sin\\theta$$. La función seno alcanza su valor máximo, que es 1, cuando el ángulo $$\\theta$$ es de 90°. Por lo tanto, la fuerza es máxima cuando el conductor es perpendicular a la dirección del campo magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_010",
+      "pregunta": "En el movimiento circunferencial de una partícula cargada en un campo magnético, ¿qué papel desempeña la fuerza magnética ($$F_B$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Actúa como fuerza de rozamiento, frenando la partícula.",
+        "B": "Actúa como fuerza gravitacional, atrayéndola a un centro.",
+        "C": "No desempeña ningún papel, es la velocidad la que causa el círculo.",
+        "D": "Actúa como fuerza tangencial, aumentando la velocidad.",
+        "E": "Actúa como fuerza centrípeta ($$F_C$$), manteniendo la trayectoria circular."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Cuando una partícula cargada se mueve perpendicularmente a un campo magnético, la fuerza magnética es siempre perpendicular a la velocidad. Esta fuerza constante y perpendicular es lo que obliga a la partícula a cambiar de dirección continuamente, actuando como la fuerza centrípeta necesaria para mantener un movimiento circunferencial uniforme.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_011",
+      "pregunta": "Si la dirección de la fuerza magnética sobre un protón (carga positiva) está saliendo de la página, ¿cuál sería la dirección de la fuerza sobre un electrón (carga negativa) que se mueve con la misma velocidad y en el mismo campo magnético?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "También saliendo de la página.",
+        "B": "Hacia la derecha de la página.",
+        "C": "Hacia la izquierda de la página.",
+        "D": "Entrando en la página.",
+        "E": "La fuerza sería cero."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de la mano derecha determina la dirección de la fuerza para una carga positiva. Para una carga negativa, como un electrón, la fuerza magnética actúa en la dirección exactamente opuesta. Por lo tanto, si la fuerza para el protón sale de la página, la fuerza para el electrón entra en la página.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_012",
+      "pregunta": "De acuerdo con la expresión vectorial de la fuerza sobre un conductor, $$ \\vec{F}_B = I (\\vec{L} \\times \\vec{B})$$, ¿cuál es la orientación de la fuerza $$ \\vec{F}_B $$ con respecto al conductor ($$\\vec{L}$$) y al campo magnético ($$\\vec{B}$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralela tanto a $$\\vec{L}$$ como a $$\\vec{B}$$",
+        "B": "Perpendicular a $$\\vec{L}$$ pero paralela a $$\\vec{B}$$",
+        "C": "Paralela a $$\\vec{L}$$ pero perpendicular a $$\\vec{B}$$",
+        "D": "Perpendicular tanto a $$\\vec{L}$$ como a $$\\vec{B}$$",
+        "E": "Forma un ángulo de 45° con ambos vectores"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La expresión $$\\vec{F}_B = I (\\vec{L} \\times \\vec{B})$$ utiliza un producto vectorial. Una propiedad fundamental del producto vectorial es que el vector resultante (en este caso, $$\\vec{F}_B$$) es siempre perpendicular al plano formado por los dos vectores que se multiplican ($$\\vec{L}$$ y $$\\vec{B}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_013",
+      "pregunta": "Una partícula con carga $$q$$ y masa $$m$$ se mueve en una trayectoria circular de radio $$R$$ dentro de un campo magnético $$B$$ a una velocidad $$v$$. Si la magnitud del campo magnético se duplica a $$2B$$, ¿cuál será el nuevo radio $$R'$$ de la trayectoria, asumiendo que la velocidad $$v$$ se mantiene constante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$2R$$",
+        "B": "$$R$$",
+        "C": "$$4R$$",
+        "D": "$$R/4$$",
+        "E": "$$R/2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fuerza magnética proporciona la fuerza centrípeta: $$|q|vB = \\frac{mv^2}{R}$$. Despejando el radio $$R$$, obtenemos $$R = \\frac{mv}{|q|B}$$. Si el campo magnético $$B$$ se duplica a $$2B$$, el nuevo radio $$R'$$ será $$R' = \\frac{mv}{|q|(2B)} = \\frac{1}{2} \\left( \\frac{mv}{|q|B} \\right) = \\frac{R}{2}$$. El radio se reduce a la mitad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_014",
+      "pregunta": "Un conductor recto de longitud $$L$$ que porta una corriente $$I$$ está en un campo magnético uniforme $$B$$. Si la fuerza magnética que experimenta es la mitad de su valor máximo posible, ¿cuál es el ángulo $$\\theta$$ entre el conductor y el campo magnético? ($$\\sin(30^\\circ)=0.5$$, $$\\sin(45^\\circ) \\approx 0.707$$, $$\\sin(60^\\circ) \\approx 0.866$$)",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$0^\\circ$$",
+        "B": "$$90^\\circ$$",
+        "C": "$$60^\\circ$$",
+        "D": "$$30^\\circ$$",
+        "E": "$$45^\\circ$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud de la fuerza magnética es $$F_B = I L B \\sin\\theta$$. La fuerza máxima ($$F_{max}$$) ocurre cuando $$\\theta = 90^\\circ$$, donde $$\\sin(90^\\circ)=1$$, por lo que $$F_{max} = I L B$$. Si la fuerza actual es la mitad de la máxima, entonces $$F_B = 0.5 \\cdot F_{max}$$. Sustituyendo las fórmulas, tenemos $$I L B \\sin\\theta = 0.5 \\cdot (I L B)$$. Simplificando, obtenemos $$\\sin\\theta = 0.5$$. El ángulo cuyo seno es 0.5 es $$30^\\circ$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_132_015",
+      "pregunta": "Si un electrón (carga $$-|q|$$) y un protón (carga $$+|q|$$) entran en la misma región de un campo magnético uniforme con la misma velocidad perpendicular al campo, ¿qué se puede afirmar sobre sus trayectorias?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos describirán círculos en la misma dirección.",
+        "B": "Describirán círculos de radios diferentes y en direcciones opuestas.",
+        "C": "Ambos seguirán una trayectoria rectilínea.",
+        "D": "Ambos describirán círculos en direcciones opuestas.",
+        "E": "El protón describirá un círculo y el electrón una línea recta."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Ambas partículas experimentarán una fuerza magnética que las hará moverse en círculos. Sin embargo, debido a que sus cargas tienen signos opuestos, la regla de la mano derecha indica que las fuerzas magnéticas sobre ellas apuntarán en direcciones opuestas. Esto hará que giren en sentidos contrarios (por ejemplo, uno en sentido horario y el otro en sentido antihorario). Nota: sus radios también serían diferentes debido a su diferente masa, pero la afirmación principal y correcta es que giran en direcciones opuestas.",
+      "imagen": null
+    }
+  ]
+}

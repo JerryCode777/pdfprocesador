@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 47,
+  "total_temas": 137,
+  "titulo_tema": "Presión Manométrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_047_001",
+      "pregunta": "¿Cómo se define la presión absoluta ($P_{abs}$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es la diferencia entre la presión de un sistema y la presión atmosférica.",
+        "B": "Es la presión ejercida únicamente por un líquido en reposo.",
+        "C": "Es la suma de la presión atmosférica ($P_0$) y la presión manométrica ($P_{man}$).",
+        "D": "Es la presión que ejerce una columna de mercurio de 76 cm.",
+        "E": "Es la presión medida con respecto a la presión del aire."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión absoluta, también llamada presión total, se define como la suma de todas las presiones que actúan, tomando como base el cero absoluto (vacío). En la práctica, esto corresponde a la suma de la presión atmosférica ($P_0$) y la presión manométrica ($P_{man}$), expresado en la fórmula $$P_{abs} = P_0 + P_{man}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_002",
+      "pregunta": "¿Qué dispositivo se describe para medir la presión de un gas contenido en un recipiente mediante un tubo en forma de U con un líquido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Barómetro de Torricelli",
+        "B": "Termómetro",
+        "C": "Manómetro de tubo abierto",
+        "D": "Hidrómetro",
+        "E": "Anemómetro"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El manómetro de tubo abierto es el dispositivo diseñado para medir la presión de un gas. Un extremo del tubo en U se conecta al recipiente con el gas de presión desconocida y el otro extremo se deja abierto a la atmósfera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_003",
+      "pregunta": "¿Qué es la presión hidrostática ($P_h$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presión ejercida por el aire sobre los cuerpos.",
+        "B": "La presión ejercida por un líquido estático.",
+        "C": "La diferencia entre la presión absoluta y la atmosférica.",
+        "D": "La presión que se mide en el vacío absoluto.",
+        "E": "La suma de la presión atmosférica y manométrica."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión hidrostática es, por definición, la presión que ejerce un líquido en reposo (estático) en cualquier punto dentro de él y sobre las paredes del recipiente que lo contiene. Aumenta con la profundidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_004",
+      "pregunta": "¿Cuál es la fórmula matemática que define la presión absoluta ($P_{abs}$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$P_{abs} = P_0 - P_{man}$$",
+        "B": "$$P_{abs} = P_0 + P_{man}$$",
+        "C": "$$P_{abs} = \\frac{P_0}{P_{man}}$$",
+        "D": "$$P_{abs} = P_0 \\times P_{man}$$",
+        "E": "$$P_{abs} = P_{man} - P_0$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión absoluta representa la presión total y se calcula sumando la presión atmosférica ($P_0$) a la presión manométrica ($P_{man}$). La fórmula correcta que expresa esta relación es $$P_{abs} = P_0 + P_{man}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_005",
+      "pregunta": "Según la fórmula $$P_{hA} = \\rho_{líq}gh$$, ¿qué variable representa la profundidad a la que se mide la presión hidrostática?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\rho_{líq}$$",
+        "B": "$$g$$",
+        "C": "$$P_{hA}$$",
+        "D": "$$h$$",
+        "E": "$$A$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula de la presión hidrostática $$P_{hA} = \\rho_{líq}gh$$, la variable $h$ representa la altura de la columna de líquido sobre el punto de medición, lo que es equivalente a la profundidad. $\\rho_{líq}$ es la densidad del líquido y $g$ es la aceleración de la gravedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_006",
+      "pregunta": "¿A qué conclusión llegó Evangelista Torricelli con su experimento del tubo de mercurio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la presión aumenta con la temperatura.",
+        "B": "Que la presión atmosférica es despreciable a nivel del mar.",
+        "C": "Que el valor de la presión atmosférica es equivalente a la presión de una columna de mercurio de 76 cm de altura.",
+        "D": "Que la presión en el vacío es superior a la presión atmosférica.",
+        "E": "Que la densidad del mercurio varía con la altitud."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Torricelli observó que la columna de mercurio descendía hasta una altura de 76 cm y se mantenía estable. Concluyó que la presión ejercida por la atmósfera sobre la superficie del mercurio en el recipiente era la que sostenía la columna, por lo que la presión atmosférica era equivalente a la presión hidrostática de esa columna de mercurio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_007",
+      "pregunta": "En un manómetro de tubo abierto, la diferencia de presión $$P – P_0$$ se denomina presión manométrica. ¿A qué expresión es igual esta diferencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P_0$$",
+        "B": "$$\\rho g$$",
+        "C": "$$P_0 + \\rho gh$$",
+        "D": "$$\\rho gh$$",
+        "E": "$$\\frac{\\rho g}{h}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La presión absoluta del gas es $$P = P_0 + \\rho gh$$. La presión manométrica es la diferencia entre la presión absoluta y la atmosférica: $$P_{man} = P - P_0$$. Al sustituir $P$, obtenemos $$P_{man} = (P_0 + \\rho gh) - P_0 = \\rho gh$$. Por lo tanto, la diferencia es igual a la presión hidrostática de la columna de líquido de altura $h$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la presión absoluta y la presión manométrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión absoluta se mide en Pascales y la manométrica en atmósferas.",
+        "B": "La presión absoluta solo se aplica a líquidos y la manométrica a gases.",
+        "C": "No hay diferencia, son términos intercambiables.",
+        "D": "La presión manométrica es siempre mayor que la absoluta.",
+        "E": "La presión absoluta usa el vacío como referencia (cero absoluto), mientras que la manométrica usa la presión atmosférica como referencia."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La distinción clave entre ambas presiones es su punto de referencia o 'cero'. La presión absoluta se mide desde el cero absoluto (vacío perfecto), representando la presión total. En cambio, la presión manométrica mide la presión por encima de la presión atmosférica local, utilizando esta última como su punto de referencia cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_009",
+      "pregunta": "¿Cómo varía la presión hidrostática dentro de un líquido en reposo y por qué?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es constante, porque la densidad del líquido no cambia.",
+        "B": "Disminuye con la profundidad, porque hay menos líquido debajo.",
+        "C": "Aumenta conforme sea mayor la profundidad, debido al peso de la columna de líquido superior.",
+        "D": "Es nula en el fondo, porque toda la presión se ejerce sobre las paredes.",
+        "E": "Depende únicamente de la forma del recipiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión hidrostática en un punto se debe al peso de la columna de fluido que se encuentra por encima de ese punto. Por lo tanto, a mayor profundidad ($h$), mayor es la cantidad de líquido por encima, lo que resulta en un mayor peso y, consecuentemente, una mayor presión. La presión es nula solo en la superficie libre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_010",
+      "pregunta": "En el experimento de Torricelli, ¿qué fuerza es la que equilibra el peso de la columna de mercurio de 76 cm dentro del tubo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión del vacío formado en la parte superior del tubo.",
+        "B": "La fuerza de adhesión del mercurio al vidrio.",
+        "C": "La presión ejercida por el aire (atmosférica) sobre la superficie del mercurio en el recipiente.",
+        "D": "El peso total del recipiente que contiene el mercurio.",
+        "E": "La tensión superficial del mercurio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El equilibrio se alcanza cuando la presión ejercida por la columna de mercurio en su base ($$\\rho_{Hg}gh$$) se iguala a la presión que la atmósfera ejerce sobre la superficie libre del mercurio en la cubeta. Es esta presión atmosférica la que impide que la columna de mercurio descienda por completo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_011",
+      "pregunta": "La presión atmosférica se puede calcular mediante la fórmula $$P_0 = \\rho_{Hg}gh$$. ¿Qué representa el término $$\\rho_{Hg}$$ en esta ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión del mercurio.",
+        "B": "La altura de la columna de mercurio.",
+        "C": "El peso del mercurio.",
+        "D": "La densidad del mercurio.",
+        "E": "La aceleración de la gravedad."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula de la presión hidrostática, $P = \\rho g h$, el símbolo $$\\rho$$ representa la densidad del fluido. En el caso del experimento de Torricelli, $$\\rho_{Hg}$$ es específicamente la densidad del mercurio, que es el líquido utilizado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_012",
+      "pregunta": "¿En qué punto la presión hidrostática de un líquido contenido en un recipiente es nula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En el fondo del recipiente.",
+        "B": "A la mitad de la profundidad.",
+        "C": "En la superficie libre del líquido.",
+        "D": "En cualquier punto en contacto con las paredes.",
+        "E": "Nunca es nula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión hidrostática se calcula como $$P_h = \\rho g h$$, donde $h$ es la profundidad medida desde la superficie libre. En la propia superficie libre, la profundidad $h$ es cero. Por lo tanto, la presión hidrostática en ese punto es $$P_h = \\rho g (0) = 0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_013",
+      "pregunta": "En un manómetro de tubo abierto, si la presión desconocida del gas ($P$) es exactamente igual a la presión atmosférica ($P_0$), ¿cuál sería la diferencia de altura ($h$) del líquido en las dos ramas del tubo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$h$$ sería de 76 cm.",
+        "B": "$$h$$ sería negativa.",
+        "C": "$$h$$ sería infinita.",
+        "D": "$$h = 0$$",
+        "E": "$$h$$ sería de 1 metro."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La presión del gas se relaciona con la atmosférica mediante la ecuación $$P = P_0 + \\rho gh$$. Si $$P = P_0$$, entonces la ecuación se convierte en $$P_0 = P_0 + \\rho gh$$. Al restar $$P_0$$ de ambos lados, obtenemos $$0 = \\rho gh$$. Dado que ni la densidad del líquido ($$\\rho$$) ni la gravedad ($$g$$) son cero, la única posibilidad es que la altura $$h$$ sea cero. Esto significa que los niveles del líquido en ambas ramas son iguales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_014",
+      "pregunta": "En un manómetro de tubo abierto en equilibrio, la presión en el punto A (conectado al gas) es igual a la presión en el punto B (mismo nivel, rama abierta), donde $$P_B = P_0 + \\rho gh$$. ¿Cuál es la expresión para la presión manométrica ($P_{man}$) del gas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$P_0$$",
+        "B": "$$P_0 + \\rho gh$$",
+        "C": "$$\\rho gh$$",
+        "D": "$$P_0 - \\rho gh$$",
+        "E": "$$\\frac{P_0}{\\rho gh}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión absoluta del gas es $P$, que es igual a la presión en el punto A. En equilibrio, $$P_A = P_B$$, por lo que $$P = P_0 + \\rho gh$$. La presión manométrica se define como la diferencia entre la presión absoluta y la atmosférica: $$P_{man} = P - P_0$$. Sustituyendo la expresión de $P$, tenemos $$P_{man} = (P_0 + \\rho gh) - P_0$$. Simplificando, se obtiene que $$P_{man} = \\rho gh$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_047_015",
+      "pregunta": "Si la presión absoluta de un sistema es $$P_{abs}$$ y la presión atmosférica es $$P_0$$, ¿cómo se calcula la presión manométrica $$P_{man}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$P_{man} = P_{abs} + P_0$$",
+        "B": "$$P_{man} = P_{abs} - P_0$$",
+        "C": "$$P_{man} = \\frac{P_{abs}}{P_0}$$",
+        "D": "$$P_{man} = P_0 - P_{abs}$$",
+        "E": "$$P_{man} = P_{abs}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La definición de presión absoluta es $$P_{abs} = P_0 + P_{man}$$. Para encontrar la presión manométrica, debemos despejar $$P_{man}$$ de esta ecuación. Al restar $$P_0$$ de ambos lados de la igualdad, obtenemos la relación correcta: $$P_{man} = P_{abs} - P_0$$. Esto demuestra que la presión manométrica es la diferencia entre la presión absoluta y la presión atmosférica.",
+      "imagen": null
+    }
+  ]
+}

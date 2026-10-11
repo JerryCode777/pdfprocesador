@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 27,
+  "total_temas": 137,
+  "titulo_tema": "Trabajo y Energía",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_027_001",
+      "pregunta": "¿Cuál es la unidad de medida del trabajo en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Metro (m)",
+        "C": "Joule (J)",
+        "D": "Watt (W)",
+        "E": "Pascal (Pa)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad de trabajo en el Sistema Internacional es el Joule (J). Se define como el trabajo realizado por una fuerza de un Newton (N) para desplazar un objeto un metro (m). El Newton es la unidad de fuerza, el metro es la unidad de distancia y el Watt es la unidad de potencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_002",
+      "pregunta": "¿Cómo se define la energía mecánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía asociada exclusivamente al movimiento de un cuerpo.",
+        "B": "La suma de la energía cinética y la energía potencial.",
+        "C": "La energía relacionada únicamente con la posición de un cuerpo.",
+        "D": "El trabajo realizado por la fuerza de rozamiento.",
+        "E": "La capacidad de una fuerza para causar una aceleración."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía mecánica de un sistema es la suma de su energía cinética, que está asociada al movimiento de sus componentes, y su energía potencial, que está asociada a la posición relativa entre ellos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_003",
+      "pregunta": "¿Bajo qué condición una fuerza realiza un trabajo positivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando la fuerza es perpendicular al desplazamiento.",
+        "B": "Cuando la fuerza y el desplazamiento tienen direcciones opuestas.",
+        "C": "Cuando el objeto no se mueve a pesar de la fuerza.",
+        "D": "Cuando la fuerza y el desplazamiento tienen la misma dirección.",
+        "E": "Cuando la fuerza es menor que la fuerza de fricción."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo es positivo cuando la fuerza (o una componente de ella) actúa en la misma dirección que el desplazamiento. Esto corresponde a un ángulo de $$0^{\\circ}$$ entre los vectores de fuerza y desplazamiento, donde $$W = Fd \\cos(0^{\\circ}) = +Fd$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_004",
+      "pregunta": "¿Qué es el trabajo neto o trabajo total sobre un cuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El trabajo realizado únicamente por la fuerza de mayor magnitud.",
+        "B": "El producto de todos los trabajos individuales.",
+        "C": "La suma algebraica de los trabajos efectuados por cada una de las fuerzas que actúan sobre él.",
+        "D": "El trabajo realizado exclusivamente por la fuerza de la gravedad.",
+        "E": "La diferencia entre el trabajo máximo y mínimo posible."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo neto ($$W_{NETO}$$) se define como la suma algebraica de los trabajos individuales realizados por todas las fuerzas que actúan sobre un cuerpo. También es equivalente al trabajo que realizaría la fuerza resultante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_005",
+      "pregunta": "Desde el punto de vista de la física, ¿cuál es la condición indispensable para que una fuerza realice trabajo mecánico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que la fuerza aplicada genere cansancio.",
+        "B": "Que la fuerza sea de origen gravitacional.",
+        "C": "Que la aplicación de la fuerza produzca un desplazamiento.",
+        "D": "Que la fuerza se mantenga constante durante un tiempo.",
+        "E": "Que el cuerpo sobre el que actúa la fuerza tenga una gran masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En física, el concepto de trabajo mecánico requiere que una fuerza aplicada sobre un cuerpo provoque un desplazamiento. Si una fuerza se aplica pero el objeto no se mueve, no se realiza trabajo mecánico, independientemente del esfuerzo fisiológico invertido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_006",
+      "pregunta": "¿Cuál es la relación fundamental entre el trabajo realizado por todas las fuerzas sobre una partícula y su energía cinética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El trabajo es siempre igual a la energía cinética final.",
+        "B": "El trabajo es igual al cambio en la energía cinética de la partícula.",
+        "C": "El trabajo es inversamente proporcional a la energía cinética.",
+        "D": "El trabajo es igual al cuadrado de la energía cinética.",
+        "E": "No existe una relación matemática directa entre ambos conceptos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta relación se conoce como el teorema del trabajo y la energía. Establece que el trabajo neto (o total) realizado sobre una partícula por todas las fuerzas que actúan sobre ella es exactamente igual al cambio en su energía cinética ($$\\Delta E_c$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_007",
+      "pregunta": "Si una fuerza $\\vec{F}$ es perpendicular al desplazamiento $\\vec{d}$ de un objeto, ¿cuál es el trabajo realizado por dicha fuerza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Trabajo positivo",
+        "B": "Trabajo negativo",
+        "C": "Trabajo nulo",
+        "D": "El trabajo es igual a $$Fd$$",
+        "E": "El trabajo depende de la masa del objeto"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo se calcula con la fórmula $$W = Fd \\cos \\theta$$. Si la fuerza y el desplazamiento son perpendiculares, el ángulo $$\\theta$$ entre ellos es de $$90^{\\circ}$$. Como $$\\cos(90^{\\circ}) = 0$$, el trabajo realizado por la fuerza es nulo ($$W = 0$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_008",
+      "pregunta": "¿En cuál de las siguientes situaciones el trabajo realizado por la fuerza de la gravedad ($$W_{Fg}$$) es negativo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando una manzana cae de un árbol.",
+        "B": "Cuando un proyectil alcanza su altura máxima y empieza a descender.",
+        "C": "Cuando un ascensor sube del primer al quinto piso.",
+        "D": "Cuando un objeto se desliza hacia abajo por una rampa.",
+        "E": "Cuando un satélite orbita la Tierra en una trayectoria circular."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo de la fuerza de gravedad es negativo cuando el desplazamiento del cuerpo tiene una componente vertical hacia arriba. La fuerza de gravedad siempre apunta hacia abajo, por lo que si el objeto sube, la fuerza y el desplazamiento son opuestos, resultando en un trabajo negativo ($$\\theta = 180^{\\circ}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_009",
+      "pregunta": "Si una fuerza constante de magnitud $F$ actúa sobre un cuerpo produciendo un desplazamiento de magnitud $d$, y el ángulo entre la fuerza y el desplazamiento es $\\theta$, ¿cuál es la fórmula para calcular el trabajo $W$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W = Fd$$",
+        "B": "$$W = Fd \\sin \\theta$$",
+        "C": "$$W = Fd \\cos \\theta$$",
+        "D": "$$W = \\frac{F}{d} \\cos \\theta$$",
+        "E": "$$W = Fd \\tan \\theta$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de trabajo realizado por una fuerza constante es el producto de la magnitud del desplazamiento por la componente de la fuerza en la dirección del desplazamiento. Esta componente es $$F \\cos \\theta$$, por lo que la fórmula general para el trabajo es $$W = Fd \\cos \\theta$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_010",
+      "pregunta": "Matemáticamente, el trabajo se puede definir como el producto escalar (o producto punto) de dos vectores. ¿Cuáles son estos vectores?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fuerza y tiempo",
+        "B": "Masa y aceleración",
+        "C": "Fuerza y velocidad",
+        "D": "Fuerza y desplazamiento",
+        "E": "Energía y potencia"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo ($$W$$) es una cantidad escalar que resulta del producto punto entre el vector fuerza ($$\\vec{F}$$) y el vector desplazamiento ($$\\vec{d}$$). La expresión matemática es $$W = \\vec{F} \\cdot \\vec{d}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_011",
+      "pregunta": "¿Cuál es la expresión correcta para el trabajo $W$ realizado por una fuerza $\\vec{F} = (F_x; F_y; F_z)$ a lo largo de un desplazamiento $\\vec{d} = (d_x; d_y; d_z)$ en tres dimensiones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W = F_x d_y + F_y d_z + F_z d_x$$",
+        "B": "$$W = \\sqrt{F_x^2 + d_x^2} + \\sqrt{F_y^2 + d_y^2}$$",
+        "C": "$$W = (F_x + F_y + F_z)(d_x + d_y + d_z)$$",
+        "D": "$$W = F_x d_x + F_y d_y + F_z d_z$$",
+        "E": "$$W = F_x F_y F_z + d_x d_y d_z$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo, al ser el producto escalar de los vectores fuerza y desplazamiento ($$W = \\vec{F} \\cdot \\vec{d}$$), se calcula sumando los productos de sus componentes correspondientes. Por lo tanto, la fórmula correcta es $$W = F_x d_x + F_y d_y + F_z d_z$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_012",
+      "pregunta": "El trabajo realizado por una fuerza es negativo cuando...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "la fuerza y el desplazamiento son perpendiculares.",
+        "B": "la fuerza tiene una componente en la dirección opuesta al desplazamiento.",
+        "C": "la fuerza tiene una componente en la misma dirección que el desplazamiento.",
+        "D": "el cuerpo se mueve con velocidad constante.",
+        "E": "no hay fuerza de fricción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo es negativo si el ángulo $$\\theta$$ entre la fuerza y el desplazamiento está entre $$90^{\\circ}$$ y $$180^{\\circ}$$. El caso extremo es cuando son opuestos ($$\\theta = 180^{\\circ}$$), donde la componente de la fuerza en la dirección del desplazamiento es opuesta a este, y el trabajo es $$W = -Fd$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_013",
+      "pregunta": "Un levantador de pesas sostiene una barra de 1500 N sobre su cabeza sin moverse durante 10 segundos. ¿Cuál es el trabajo mecánico realizado por el levantador sobre la barra durante ese tiempo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "15000 J",
+        "B": "150 J",
+        "C": "0 J",
+        "D": "-15000 J",
+        "E": "Positivo, porque se está ejerciendo una fuerza."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que se realice trabajo mecánico, debe haber un desplazamiento en la dirección de la fuerza aplicada. En este caso, aunque el levantador ejerce una fuerza considerable hacia arriba para sostener la barra, el desplazamiento de la barra es cero ($$d=0$$). Por lo tanto, el trabajo mecánico realizado es nulo ($$W = F \\cdot 0 \\cdot \\cos \\theta = 0$$ J), a pesar del gran esfuerzo fisiológico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_014",
+      "pregunta": "Un bloque es arrastrado 5 metros sobre una superficie horizontal por una fuerza de 20 N. Al mismo tiempo, una fuerza de fricción de 4 N se opone al movimiento. La fuerza normal y el peso también actúan sobre el bloque. ¿Cuál es el trabajo neto realizado sobre el bloque?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "100 J",
+        "B": "20 J",
+        "C": "120 J",
+        "D": "80 J",
+        "E": "0 J"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo neto es la suma de los trabajos de todas las fuerzas. \n1. Trabajo de la fuerza de 20 N: $$W_F = 20 \\, \\text{N} \\times 5 \\, \\text{m} = +100 \\, \\text{J}$$ (positivo, misma dirección).\n2. Trabajo de la fricción: $$W_{fr} = 4 \\, \\text{N} \\times 5 \\, \\text{m} \\times \\cos(180^{\\circ}) = -20 \\, \\text{J}$$ (negativo, dirección opuesta).\n3. Trabajo del peso y la normal: $$W_g = 0$$ y $$W_N = 0$$ (perpendiculares al desplazamiento).\nEl trabajo neto es: $$W_{NETO} = 100 \\, \\text{J} - 20 \\, \\text{J} + 0 + 0 = 80 \\, \\text{J}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_027_015",
+      "pregunta": "Se lanza una pelota verticalmente hacia arriba. Durante su ascenso, ¿qué signos tienen el trabajo realizado por la fuerza de gravedad ($$W_{Fg}$$) y el trabajo realizado por la fuerza que la lanzó (una vez que ha dejado la mano)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$W_{Fg}$$ es positivo y el trabajo de la fuerza de lanzamiento es positivo.",
+        "B": "$$W_{Fg}$$ es negativo y la fuerza de lanzamiento no realiza trabajo durante el ascenso.",
+        "C": "$$W_{Fg}$$ es nulo y el trabajo de la fuerza de lanzamiento es negativo.",
+        "D": "$$W_{Fg}$$ es negativo y el trabajo de la fuerza de lanzamiento es positivo.",
+        "E": "$$W_{Fg}$$ es positivo y la fuerza de lanzamiento no realiza trabajo durante el ascenso."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Durante el ascenso, el desplazamiento de la pelota es hacia arriba. La fuerza de gravedad ($$F_g$$) siempre apunta hacia abajo. Como la fuerza y el desplazamiento son opuestos, el trabajo realizado por la gravedad ($$W_{Fg}$$) es negativo. La fuerza de lanzamiento solo actúa mientras la pelota está en contacto con la mano; una vez que la pelota está en el aire, esa fuerza ya no actúa sobre ella, por lo que no realiza trabajo durante el trayecto de ascenso. El movimiento se debe a la inercia inicial.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 76,
+  "total_temas": 137,
+  "titulo_tema": "Dilatación Lineal",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_076_001",
+      "pregunta": "¿Qué es la dilatación térmica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El aumento en las dimensiones de un cuerpo como resultado del aumento de su temperatura.",
+        "B": "La disminución de la masa de un cuerpo al calentarse.",
+        "C": "El cambio de estado de un cuerpo de sólido a líquido.",
+        "D": "El aumento de la presión de un gas al disminuir su volumen.",
+        "E": "La contracción de un cuerpo al aumentar su energía cinética."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La dilatación térmica es el fenómeno físico que consiste en el aumento de las dimensiones de un cuerpo (longitud, área o volumen) cuando su temperatura se incrementa. Las otras opciones describen fenómenos diferentes o incorrectos; por ejemplo, una disminución de temperatura provoca una contracción, no una dilatación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_002",
+      "pregunta": "¿Qué sucede con la energía cinética de las moléculas de un cuerpo cuando este se calienta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Disminuye, provocando que las moléculas se junten.",
+        "B": "Se mantiene constante, pero aumenta la energía potencial.",
+        "C": "Se transforma en masa.",
+        "D": "Aumenta, lo que incrementa su vibración y agitación.",
+        "E": "Se anula por completo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al calentar un cuerpo, se le suministra energía que es absorbida por sus moléculas, aumentando su energía cinética. Este aumento se manifiesta como una mayor vibración y agitación, lo que hace que las moléculas necesiten más espacio y, en consecuencia, el cuerpo se dilate.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_003",
+      "pregunta": "¿Qué es la dilatación lineal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es el aumento simultáneo en largo, ancho y alto de un cuerpo.",
+        "B": "Es la variación en longitud que experimenta un cuerpo por efecto del cambio de temperatura, siendo los cambios en ancho y alto despreciables.",
+        "C": "Es el aumento en el área o superficie de cuerpos como placas o láminas.",
+        "D": "Es la disminución de la longitud de un cuerpo al ser calentado.",
+        "E": "Es el cambio de longitud debido a una fuerza externa aplicada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La dilatación lineal se define específicamente como la variación en una sola dimensión, la longitud, debido a un cambio de temperatura. Ocurre en cuerpos como varillas o alambres, donde la longitud es predominante y los cambios en las otras dos dimensiones (ancho y alto) son insignificantes en comparación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_004",
+      "pregunta": "En el contexto de la dilatación lineal, ¿qué representa el símbolo $L_0$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El incremento de longitud.",
+        "B": "La longitud final.",
+        "C": "El coeficiente de dilatación.",
+        "D": "La longitud inicial.",
+        "E": "La variación de temperatura."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo $L_0$ se utiliza en las fórmulas de dilatación lineal para representar la longitud inicial del cuerpo antes de que ocurra el cambio de temperatura. Es un valor de referencia fundamental para calcular tanto el incremento de longitud como la longitud final.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_005",
+      "pregunta": "¿Qué tipo de cuerpos experimentan principalmente la dilatación lineal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Placas y planchas.",
+        "B": "Líquidos y gases.",
+        "C": "Cubos y esferas.",
+        "D": "Varillas y alambres.",
+        "E": "Cuerpos de forma irregular."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La dilatación lineal es característica de cuerpos en los que una dimensión, la longitud, es mucho mayor que las otras dos. Ejemplos claros de esto son las varillas, los alambres o las vigas. Las placas y planchas experimentan dilatación superficial, mientras que los cubos y esferas experimentan dilatación volumétrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_006",
+      "pregunta": "¿Cuál es la relación entre el incremento de longitud ($\\Delta L$) y el incremento de temperatura ($\\Delta T$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son inversamente proporcionales.",
+        "B": "Son directamente proporcionales.",
+        "C": "El incremento de longitud es proporcional al cuadrado del incremento de temperatura.",
+        "D": "No existe una relación directa entre ellos.",
+        "E": "Son iguales en valor numérico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Experimentalmente se ha demostrado que el incremento de la longitud ($\\Delta L$) de un cuerpo es directamente proporcional al incremento de su temperatura ($\\Delta T$). Esto significa que a mayor cambio de temperatura, mayor será la dilatación lineal, siempre que los otros factores permanezcan constantes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_007",
+      "pregunta": "¿Qué es lo que diferencia fundamentalmente la dilatación superficial de la lineal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La superficial solo ocurre en líquidos y la lineal en sólidos.",
+        "B": "La superficial implica un incremento de área, mientras que la lineal se enfoca en el incremento de longitud.",
+        "C": "La superficial es causada por el frío y la lineal por el calor.",
+        "D": "La lineal depende de la temperatura y la superficial no.",
+        "E": "No hay ninguna diferencia, son términos para el mismo fenómeno."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia clave radica en las dimensiones consideradas. La dilatación lineal se centra en el cambio de una sola dimensión (longitud) en cuerpos como varillas. En cambio, la dilatación superficial describe el cambio en dos dimensiones (largo y ancho), resultando en un incremento del área total, como ocurre en placas o láminas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_008",
+      "pregunta": "¿Cuál de las siguientes fórmulas se utiliza para calcular el incremento de longitud ($\\Delta L$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Delta L = L_f + L_0$$",
+        "B": "$$\\Delta L = L_0(1 + \\alpha \\Delta T)$$",
+        "C": "$$\\Delta L = \\frac{\\alpha \\Delta T}{L_0}$$",
+        "D": "$$\\Delta L = L_0 \\alpha \\Delta T$$",
+        "E": "$$\\Delta L = L_f \\alpha \\Delta T$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula que relaciona el incremento de longitud ($\\Delta L$) con la longitud inicial ($L_0$), el coeficiente de dilatación lineal ($\\alpha$) y la variación de temperatura ($\\Delta T$) es $$\\Delta L = L_0 \\alpha \\Delta T$$. Esta ecuación establece que la dilatación es directamente proporcional tanto a la longitud inicial como al cambio de temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_009",
+      "pregunta": "¿Qué le sucede a un cuerpo si su temperatura disminuye?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Experimenta dilatación lineal.",
+        "B": "Sus moléculas aumentan su energía cinética.",
+        "C": "Tiende a contraerse.",
+        "D": "Su coeficiente de dilatación aumenta.",
+        "E": "Sus dimensiones no se alteran."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El fenómeno de la dilatación térmica es reversible. Si un aumento de temperatura provoca una expansión, una disminución de la temperatura hace que las moléculas reduzcan su energía cinética y vibración, ocupando menos espacio. Como resultado, el cuerpo tiende a contraerse, disminuyendo sus dimensiones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_010",
+      "pregunta": "La fórmula para la longitud final es $$L_f = L_0(1 + \\alpha \\Delta T)$$. ¿Cómo se obtiene esta expresión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Multiplicando la longitud inicial por el coeficiente de dilatación.",
+        "B": "Sumando el incremento de temperatura a la longitud inicial.",
+        "C": "Combinando las relaciones $$\\Delta L = L_f - L_0$$ y $$\\Delta L = L_0 \\alpha \\Delta T$$",
+        "D": "Derivando la fórmula del área con respecto al tiempo.",
+        "E": "Es una ley empírica sin derivación matemática."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta fórmula se deriva de dos definiciones básicas. Sabemos que el incremento de longitud es la diferencia entre la longitud final y la inicial: $$\\Delta L = L_f - L_0$$. También sabemos que $$\\Delta L = L_0 \\alpha \\Delta T$$. Al igualar ambas expresiones para $$\\Delta L$$, obtenemos $$L_f - L_0 = L_0 \\alpha \\Delta T$$. Despejando $L_f$, llegamos a $$L_f = L_0 + L_0 \\alpha \\Delta T$$, que se factoriza como $$L_f = L_0(1 + \\alpha \\Delta T)$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_011",
+      "pregunta": "¿Cómo se define el coeficiente de dilatación lineal ($\\alpha$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como la longitud final que alcanza un cuerpo de 1 metro al calentarse 100°C.",
+        "B": "Como la temperatura necesaria para duplicar la longitud de un material.",
+        "C": "Como el alargamiento de la unidad de longitud por grado de elevación de temperatura.",
+        "D": "Como el producto de la longitud inicial y la variación de temperatura.",
+        "E": "Como la resistencia de un material a la deformación térmica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El coeficiente de dilatación lineal ($\\alpha$) es una propiedad intrínseca de cada material que cuantifica cuánto se alarga. Específicamente, se define como el cambio de longitud que experimenta una unidad de longitud del material por cada grado de cambio en la temperatura. Sus unidades son $°C^{-1}$ o $K^{-1}$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_012",
+      "pregunta": "El incremento de longitud es directamente proporcional a la longitud inicial. ¿Qué implicación práctica tiene esto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un cuerpo corto se dilata más que uno largo.",
+        "B": "Todos los cuerpos se dilatan la misma cantidad, sin importar su longitud.",
+        "C": "A mayor longitud inicial, mayor será el incremento de longitud para un mismo cambio de temperatura.",
+        "D": "La longitud inicial no afecta la dilatación final.",
+        "E": "Solo los cuerpos con una longitud inicial de 1 metro se dilatan."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La proporcionalidad directa significa que si la longitud inicial ($L_0$) es mayor, habrá una mayor cantidad de 'espacios' intermoleculares que se expandirán. Por lo tanto, para un mismo material y un mismo aumento de temperatura, un cuerpo más largo experimentará una dilatación total ($\\Delta L$) mayor que uno más corto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_013",
+      "pregunta": "Dada la fórmula $$L_f = L_0(1 + \\alpha \\Delta T)$$, ¿qué se puede inferir si la variación de temperatura $$\\Delta T$$ es un valor negativo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La longitud final $L_f$ será mayor que la longitud inicial $L_0$.",
+        "B": "La fórmula no es válida para temperaturas negativas.",
+        "C": "La longitud final $L_f$ será igual a la longitud inicial $L_0$.",
+        "D": "El coeficiente $\\alpha$ se vuelve negativo.",
+        "E": "La longitud final $L_f$ será menor que la longitud inicial $L_0$, indicando una contracción."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Una variación de temperatura negativa ($\\Delta T < 0$) significa que el cuerpo se está enfriando. Al sustituir este valor negativo en la fórmula, el término $\\alpha \\Delta T$ se vuelve negativo. Por lo tanto, el factor $(1 + \\alpha \\Delta T)$ será menor que 1. Al multiplicar $L_0$ por un número menor que 1, el resultado $L_f$ será necesariamente menor que $L_0$. Esto describe matemáticamente el fenómeno de la contracción térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_014",
+      "pregunta": "Dos varillas, A y B, son del mismo material (mismo $\\alpha$) y se someten al mismo aumento de temperatura ($\\Delta T$). Si la longitud inicial de la varilla A es el triple de la longitud inicial de la varilla B, ¿cómo se compara el incremento de longitud ($\\Delta L$) de A con el de B?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El incremento de longitud de A será un tercio del de B.",
+        "B": "Ambas varillas tendrán el mismo incremento de longitud.",
+        "C": "El incremento de longitud de A será el triple del de B.",
+        "D": "El incremento de longitud de A será nueve veces el de B.",
+        "E": "No se puede determinar sin conocer los valores exactos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula para el incremento de longitud es $$\\Delta L = L_0 \\alpha \\Delta T$$. Dado que $\\alpha$ y $\\Delta T$ son iguales para ambas varillas, $\\Delta L$ es directamente proporcional a $L_0$. Si la longitud inicial de A ($L_{0A}$) es tres veces la de B ($L_{0B}$), es decir, $$L_{0A} = 3 L_{0B}$$, entonces el incremento de longitud de A será: $$\\Delta L_A = L_{0A} \\alpha \\Delta T = (3 L_{0B}) \\alpha \\Delta T = 3 (L_{0B} \\alpha \\Delta T) = 3 \\Delta L_B$$. Por lo tanto, el incremento de longitud de A es el triple que el de B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_076_015",
+      "pregunta": "En la fórmula de dilatación lineal, $$\\Delta L = L_0 \\alpha \\Delta T$$, ¿qué representa físicamente el producto $$\\alpha \\Delta T$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La longitud final total del cuerpo.",
+        "B": "La temperatura final a la que llega el material.",
+        "C": "Una constante universal para todos los materiales.",
+        "D": "El incremento fraccional de la longitud.",
+        "E": "La energía total absorbida por el cuerpo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Si reorganizamos la fórmula como $$\\frac{\\Delta L}{L_0} = \\alpha \\Delta T$$, podemos ver que el término de la izquierda, $$\\frac{\\Delta L}{L_0}$$, representa el cambio en la longitud como una fracción de la longitud original (es decir, el incremento fraccional). Por lo tanto, el producto $$\\alpha \\Delta T$$ es igual a este incremento fraccional y es una cantidad adimensional que indica qué fracción de su longitud original ha aumentado el cuerpo.",
+      "imagen": null
+    }
+  ]
+}

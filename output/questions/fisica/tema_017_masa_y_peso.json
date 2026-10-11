@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 17,
+  "total_temas": 137,
+  "titulo_tema": "Masa y Peso",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_017_001",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la masa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es una fuerza vectorial que depende de la gravedad.",
+        "B": "Es la cantidad de materia que contiene un cuerpo y una medida de su inercia.",
+        "C": "Se mide en Newtons (N) y varía según la ubicación.",
+        "D": "Es la fuerza de atracción que la Tierra ejerce sobre un objeto.",
+        "E": "Es máxima en los polos y mínima en el Ecuador."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa ($$m$$) se define como la cantidad de materia que contiene un cuerpo y es una medida de su inercia. Es una cantidad escalar, se mide en kilogramos (kg) y es constante independientemente del lugar. Las otras opciones describen las propiedades del peso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_002",
+      "pregunta": "¿Cómo se define el peso ($$F_g$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como la cantidad de materia que posee un cuerpo.",
+        "B": "Como una cantidad escalar independiente del lugar.",
+        "C": "Como la medida de la inercia de un objeto.",
+        "D": "Como la fuerza de atracción terrestre ejercida sobre un cuerpo hacia el centro de la Tierra.",
+        "E": "Como una propiedad que se mide en kilogramos (kg)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El peso ($$F_g$$) se define como la fuerza de atracción que la Tierra ejerce sobre un cuerpo, dirigida hacia su centro. Es una cantidad vectorial, se mide en Newtons (N) y depende de la gravedad local. Las otras opciones describen las propiedades de la masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_003",
+      "pregunta": "¿Qué representa la variable $$m$$ en la fórmula del peso $$F_g = mg$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El módulo del peso",
+        "B": "La masa del cuerpo",
+        "C": "La aceleración de la gravedad",
+        "D": "La fuerza normal",
+        "E": "El momentum"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la ecuación del peso, $$F_g = mg$$, la variable $$m$$ representa la masa del cuerpo, medida en kilogramos (kg). $$F_g$$ es el peso y $$g$$ es la aceleración debida a la gravedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_004",
+      "pregunta": "¿Qué es un sistema de referencia inercial (S.R.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un sistema que siempre está en reposo absoluto.",
+        "B": "Cualquier sistema que acelera de forma constante.",
+        "C": "Un sistema en el que es válida la primera ley de Newton.",
+        "D": "Un sistema que gira sobre su propio eje, como la Tierra.",
+        "E": "Un lugar del espacio donde no existe la gravedad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un sistema de referencia inercial se define como aquel en el que se cumple la primera ley de Newton (ley de la inercia). Un sistema en reposo o que se mueve con velocidad constante respecto a las estrellas distantes es la mejor aproximación a un S.R.I.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_005",
+      "pregunta": "¿Qué propiedad de un cuerpo es independiente del lugar y no varía si se mide en la Tierra o en la Luna?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El peso",
+        "B": "La fuerza gravitacional",
+        "C": "La aceleración",
+        "D": "La masa",
+        "E": "La velocidad de caída"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La masa es una propiedad intrínseca de un cuerpo que representa la cantidad de materia. Es una cantidad constante e independiente del lugar donde se mida. El peso, en cambio, depende de la gravedad local y varía de un lugar a otro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_006",
+      "pregunta": "¿En qué lugar de la Tierra un cuerpo presenta su peso máximo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En el Ecuador",
+        "B": "En los polos",
+        "C": "En el centro de la Tierra",
+        "D": "A una gran altitud sobre la superficie",
+        "E": "El peso es constante en toda la Tierra"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El peso depende de la gravedad local. Un cuerpo presenta su peso máximo en los polos de la Tierra y su peso mínimo en el Ecuador. Esto se debe a variaciones en la aceleración gravitacional en diferentes puntos del planeta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_007",
+      "pregunta": "Si un objeto pesa 600 N en la Tierra, ¿cuál sería su peso aproximado en la Luna?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "600 N",
+        "B": "3600 N",
+        "C": "100 N",
+        "D": "60 N",
+        "E": "0 N"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La gravedad en la Luna es la sexta parte de la gravedad de la Tierra. Por lo tanto, el peso de un cuerpo en la Luna también es la sexta parte de su peso en la Tierra. Calculando: $$ \\text{Peso en la Luna} = \\frac{\\text{Peso en la Tierra}}{6} = \\frac{600 \\text{ N}}{6} = 100 \\text{ N} $$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_008",
+      "pregunta": "¿Por qué la Tierra no es considerada, en estricto rigor, un sistema de referencia inercial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque su masa es demasiado grande.",
+        "B": "Porque carece de atmósfera en el espacio.",
+        "C": "Debido a su movimiento orbital y de rotación.",
+        "D": "Porque su campo magnético varía.",
+        "E": "Porque la primera ley de Newton no se aplica en la Tierra."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un sistema de referencia inercial no debe tener aceleración. La Tierra está constantemente acelerando debido a su movimiento de rotación sobre su propio eje y a su movimiento orbital alrededor del Sol. Por esta razón, no es un marco de referencia inercial perfecto, aunque a menudo se aproxima como tal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_009",
+      "pregunta": "Un astronauta tiene una masa de 70 kg en la Tierra. ¿Cuál será su masa al llegar a la Luna?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "70 kg",
+        "B": "Aproximadamente 11.7 kg",
+        "C": "0 kg",
+        "D": "420 kg",
+        "E": "Depende de la velocidad de la nave"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La masa es una cantidad escalar que mide la cantidad de materia de un cuerpo. Es una propiedad intrínseca y no cambia con la ubicación. Por lo tanto, la masa del astronauta será la misma, 70 kg, tanto en la Tierra como en la Luna. Lo que cambiará es su peso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_010",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la relación entre masa y peso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son sinónimos y se pueden usar indistintamente.",
+        "B": "La masa es una fuerza vectorial y el peso una cantidad escalar.",
+        "C": "El peso es directamente proporcional a la masa, según la ecuación $$F_g = mg$$.",
+        "D": "Un cuerpo sin masa puede tener peso.",
+        "E": "La masa de un cuerpo varía, pero su peso es siempre constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación entre peso ($$F_g$$) y masa ($$m$$) está dada por la fórmula $$F_g = mg$$, donde $$g$$ es la aceleración de la gravedad. Esto demuestra que el peso es directamente proporcional a la masa. Las demás afirmaciones invierten las propiedades de masa y peso o son incorrectas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_011",
+      "pregunta": "¿Cuál es la mejor aproximación a un marco de referencia inercial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un automóvil acelerando en una carretera recta.",
+        "B": "La superficie de la Tierra.",
+        "C": "Un marco que se mueve con velocidad constante respecto a las estrellas distantes.",
+        "D": "Un satélite en órbita circular alrededor de la Tierra.",
+        "E": "Un carrusel en movimiento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un marco de referencia inercial es aquel sin aceleración. La mejor aproximación es un sistema que se mueve con velocidad constante (magnitud y dirección) en relación con las estrellas distantes, que se consideran un fondo fijo. Las otras opciones describen sistemas acelerados (aceleración lineal, centrípeta o ambas).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_012",
+      "pregunta": "Si el peso de un objeto es mínimo en el Ecuador y máximo en los polos, ¿qué se puede inferir sobre la aceleración de la gravedad ($$g$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La gravedad ($$g$$) es mayor en el Ecuador que en los polos.",
+        "B": "La gravedad ($$g$$) es constante en toda la superficie terrestre.",
+        "C": "La gravedad ($$g$$) es menor en el Ecuador que en los polos.",
+        "D": "La gravedad ($$g$$) es cero en el Ecuador.",
+        "E": "La gravedad ($$g$$) no está relacionada con el peso."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que el peso se calcula como $$F_g = mg$$, y la masa ($$m$$) es constante, el peso varía directamente con la aceleración de la gravedad ($$g$$). Si el peso es mínimo en el Ecuador, significa que la gravedad ($$g$$) también es mínima allí. Si el peso es máximo en los polos, la gravedad ($$g$$) debe ser máxima en los polos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_013",
+      "pregunta": "Un objeto tiene una masa $$m$$ y un peso $$F_{g, \\text{Tierra}}$$ en la Tierra. Si se lleva a un planeta X donde la aceleración de la gravedad es el doble que en la Tierra, ¿cuáles serán su nueva masa y su nuevo peso?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Masa $$2m$$, Peso $$2F_{g, \\text{Tierra}}$$",
+        "B": "Masa $$m$$, Peso $$2F_{g, \\text{Tierra}}$$",
+        "C": "Masa $$m$$, Peso $$\\frac{1}{2}F_{g, \\text{Tierra}}$$",
+        "D": "Masa $$\\frac{1}{2}m$$, Peso $$F_{g, \\text{Tierra}}$$",
+        "E": "Masa $$m$$, Peso $$F_{g, \\text{Tierra}}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa ($$m$$) es una propiedad intrínseca de la materia y no cambia con la ubicación. Por lo tanto, la masa del objeto seguirá siendo $$m$$. El peso se calcula como el producto de la masa por la gravedad local ($$F_g = m \\cdot g$$). Si la gravedad en el planeta X ($$g_X$$) es el doble que la de la Tierra ($$g_T$$), es decir, $$g_X = 2g_T$$, entonces el nuevo peso será $$F_{g,X} = m \\cdot g_X = m \\cdot (2g_T) = 2(mg_T) = 2F_{g, \\text{Tierra}}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_014",
+      "pregunta": "A pesar de que la Tierra no es un sistema de referencia inercial (S.R.I.) perfecto, ¿en qué tipo de análisis físico es generalmente aceptable considerarla como tal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "En el análisis de trayectorias de satélites de largo plazo.",
+        "B": "En el estudio de las mareas oceánicas.",
+        "C": "En la mayoría de los experimentos de mecánica de corta duración realizados en su superficie.",
+        "D": "Al calcular la órbita de la Tierra alrededor del Sol.",
+        "E": "Únicamente en experimentos realizados en los polos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La afirmación de que \"estas aceleraciones a menudo se pueden despreciar\" y \"En la mayoría de los casos se supondrá que la Tierra es un marco inercial\" implica que para fenómenos donde los efectos de la rotación y la órbita son insignificantes, la aproximación es válida. Este es el caso de la mayoría de los experimentos de mecánica a pequeña escala y de corta duración. Para fenómenos a gran escala o de larga duración como las trayectorias de satélites o la propia órbita terrestre, las aceleraciones no pueden despreciarse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_017_015",
+      "pregunta": "Dos cuerpos, A y B, tienen masas $$m_A$$ y $$m_B$$ respectivamente, tal que $$m_A = 2m_B$$. Si ambos se encuentran en el mismo lugar de la Tierra, ¿cuál es la relación entre sus pesos, $$F_{gA}$$ y $$F_{gB}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$F_{gA} = F_{gB}$$",
+        "B": "$$F_{gA} = \\frac{1}{2}F_{gB}$$",
+        "C": "$$F_{gA} = 2F_{gB}$$",
+        "D": "$$F_{gA} = 4F_{gB}$$",
+        "E": "La relación depende de su forma."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso se calcula con la fórmula $$F_g = mg$$. Para el cuerpo A, el peso es $$F_{gA} = m_A g$$. Para el cuerpo B, el peso es $$F_{gB} = m_B g$$. Como ambos están en el mismo lugar, la aceleración de la gravedad ($$g$$) es la misma para los dos. Sustituyendo la relación de masas ($$m_A = 2m_B$$) en la ecuación del peso de A, obtenemos: $$F_{gA} = (2m_B)g = 2(m_B g)$$. Dado que $$m_B g = F_{gB}$$, la relación final es $$F_{gA} = 2F_{gB}$$.",
+      "imagen": null
+    }
+  ]
+}

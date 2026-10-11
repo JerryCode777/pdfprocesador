@@ -6,32 +6,32 @@
   "preguntas": [
     {
       "id_temporal": "quimica_053_001",
-      "pregunta": "¿Qué característica fundamental define a los isóbaros?",
+      "pregunta": "¿Qué son los isóbaros?",
       "dificultad": 1,
       "opciones": {
-        "A": "Poseen igual número atómico pero diferente número de masa.",
-        "B": "Poseen igual número de masa pero diferente número atómico.",
-        "C": "Son átomos del mismo elemento con diferente número de neutrones.",
-        "D": "Poseen el mismo número de protones y neutrones.",
-        "E": "Tienen propiedades químicas y físicas idénticas."
+        "A": "Átomos del mismo elemento con diferente número de masa",
+        "B": "Átomos de diferentes elementos con el mismo número atómico",
+        "C": "Átomos con propiedades químicas y físicas idénticas",
+        "D": "Átomos de diferentes elementos que poseen igual número de masa",
+        "E": "Átomos que únicamente se encuentran en el Sol"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los isóbaros son átomos de elementos distintos que comparten el mismo número de masa ($A$), pero tienen un número atómico ($Z$) diferente. Esto significa que la suma de sus protones y neutrones es la misma, pero el número de protones es distinto, lo que los convierte en elementos diferentes.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los isóbaros son átomos que pertenecen a elementos químicos diferentes, lo que significa que tienen un número atómico (número de protones) distinto. Sin embargo, su característica principal es que comparten el mismo número de masa (suma de protones y neutrones). Como resultado, sus propiedades químicas y físicas son diferentes.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_002",
-      "pregunta": "¿Cuál es la definición de fisión nuclear?",
+      "pregunta": "¿Cómo se define la radiactividad natural?",
       "dificultad": 1,
       "opciones": {
-        "A": "La combinación de núcleos pequeños para formar uno más grande.",
-        "B": "La emisión espontánea de partículas desde un núcleo inestable.",
-        "C": "La división de un núcleo pesado para formar núcleos más pequeños y neutrones.",
-        "D": "El bombardeo de un núcleo para cambiar su identidad.",
-        "E": "El proceso por el cual los elementos con $Z > 83$ se forman."
+        "A": "La combinación de núcleos pequeños para formar uno más grande",
+        "B": "Un fenómeno en el que núcleos atómicos inestables emiten partículas o radiación",
+        "C": "El bombardeo de un núcleo con neutrones para dividirlo",
+        "D": "Un proceso que solo ocurre en elementos con número atómico menor a 83",
+        "E": "La propiedad de los isóbaros de tener la misma masa"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La fisión nuclear es específicamente el proceso en el cual un núcleo pesado, con un número de masa ($A$) típicamente mayor a 200 uma, se divide. Esta división produce núcleos más pequeños de masa intermedia, uno o más neutrones y una gran cantidad de energía.",
+      "respuesta_correcta": "B",
+      "explicacion": "La radiactividad natural es un proceso espontáneo por el cual los núcleos atómicos que son inestables se desintegran, emitiendo en el proceso partículas subatómicas o radiación electromagnética para alcanzar un estado más estable. Las otras opciones describen la fusión, la fisión o establecen condiciones incorrectas.",
       "imagen": null
     },
     {
@@ -39,194 +39,194 @@
       "pregunta": "¿En qué consiste el proceso de fusión nuclear?",
       "dificultad": 1,
       "opciones": {
-        "A": "En la división de un núcleo pesado.",
-        "B": "En la combinación de pequeños núcleos para formar otros más grandes.",
-        "C": "En la emisión de radiación electromagnética por un núcleo.",
-        "D": "En la conversión de un protón en un neutrón dentro de un núcleo.",
-        "E": "En el bombardeo de un núcleo con neutrones."
+        "A": "En la división de un núcleo pesado en otros más pequeños",
+        "B": "En la emisión de radiación de elementos con número atómico mayor a 83",
+        "C": "En la combinación de pequeños núcleos para formar otros más grandes",
+        "D": "En bombardear un núcleo con protones para generar radiactividad",
+        "E": "En el balanceo de ecuaciones nucleares con partículas fundamentales"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La fusión nuclear es el proceso opuesto a la fisión. Consiste en la unión o combinación de núcleos atómicos ligeros para formar un núcleo más pesado, liberando enormes cantidades de energía en el proceso, como ocurre en el Sol.",
+      "respuesta_correcta": "C",
+      "explicacion": "La fusión nuclear es el proceso en el cual dos o más núcleos atómicos ligeros se combinan o 'fusionan' para formar un núcleo más pesado. Este proceso es la fuente de energía de estrellas como el Sol. La opción A describe la fisión, mientras que las otras opciones se refieren a otros conceptos de la química nuclear.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_004",
-      "pregunta": "¿Qué es la radiactividad natural?",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la fisión nuclear?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un fenómeno donde los núcleos estables se vuelven inestables.",
-        "B": "Un proceso por el cual núcleos inestables emiten partículas o radiación.",
-        "C": "La creación artificial de elementos radiactivos en un laboratorio.",
-        "D": "La combinación de núcleos de hidrógeno para formar helio.",
-        "E": "La división de un núcleo de uranio mediante el bombardeo con neutrones."
+        "A": "Es la unión de núcleos de hidrógeno y helio en el Sol",
+        "B": "Es un proceso que ocurre en todos los elementos con número atómico menor a 83",
+        "C": "Es la división de un núcleo pesado para formar núcleos más pequeños y neutrones",
+        "D": "Es la formación de átomos con igual número de masa pero diferente número atómico",
+        "E": "Es un fenómeno que no libera energía"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La radiactividad natural es un fenómeno espontáneo en el que los núcleos atómicos inestables se desintegran, emitiendo partículas (como alfa o beta) o radiación electromagnética (rayos gamma) para alcanzar un estado más estable.",
+      "respuesta_correcta": "C",
+      "explicacion": "La fisión nuclear es específicamente la ruptura o división de un núcleo atómico pesado (con número de masa superior a 200 uma) en dos o más núcleos más pequeños y de masa intermedia. Este proceso también libera uno o más neutrones y una gran cantidad de energía.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_005",
-      "pregunta": "¿Cómo se genera la transmutación nuclear?",
+      "pregunta": "¿Qué característica presentan todos los elementos químicos con un número atómico mayor a 83?",
       "dificultad": 1,
       "opciones": {
-        "A": "Cuando dos núcleos ligeros se fusionan de forma natural.",
-        "B": "Cuando un núcleo pesado se divide espontáneamente.",
-        "C": "Cuando un núcleo es bombardeado con partículas como neutrones o protones.",
-        "D": "Cuando un átomo pierde electrones de su capa de valencia.",
-        "E": "Cuando un elemento con $Z < 83$ emite radiación."
+        "A": "Son extremadamente estables",
+        "B": "Se fusionan espontáneamente",
+        "C": "Son radiactivos",
+        "D": "Tienen propiedades químicas idénticas",
+        "E": "No pueden formar isóbaros"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La transmutación nuclear es la conversión de un elemento en otro. Este proceso se induce al bombardear un núcleo atómico con partículas subatómicas (como neutrones, protones) u otros núcleos, lo que altera su número de protones y/o neutrones.",
+      "explicacion": "Los elementos con un número atómico (cantidad de protones en el núcleo) superior a 83 son inherentemente inestables. Esta inestabilidad hace que sus núcleos tiendan a desintegrarse de forma espontánea, es decir, son radiactivos por naturaleza.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_006",
-      "pregunta": "En el contexto de la química nuclear, ¿a partir de qué número atómico ($Z$) se consideran radiactivos todos los elementos?",
+      "pregunta": "¿Cuál es la principal diferencia entre dos isóbaros?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$Z > 200$$",
-        "B": "$$Z > 92$$",
-        "C": "$$Z > 83$$",
-        "D": "$$Z > 50$$",
-        "E": "$$Z > 118$$"
+        "A": "Su número de masa es diferente",
+        "B": "Sus propiedades físicas y químicas son diferentes",
+        "C": "Uno es radiactivo y el otro no",
+        "D": "Pertenecen al mismo elemento químico",
+        "E": "Su número total de nucleones (protones y neutrones) es distinto"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Existe un umbral de estabilidad nuclear relacionado con el tamaño del núcleo. Se establece que todos los elementos con un número atómico ($Z$) superior a 83 (correspondiente al bismuto) tienen núcleos inestables y, por lo tanto, son radiactivos.",
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque los isóbaros tienen el mismo número de masa, son átomos de elementos diferentes, lo que significa que tienen diferente número atómico (diferente número de protones). Esta diferencia en la composición de su núcleo y en su configuración electrónica hace que sus propiedades químicas y físicas sean diferentes.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_007",
-      "pregunta": "¿Cuál es la razón principal por la que la fisión de un núcleo pesado libera una gran cantidad de energía?",
+      "pregunta": "¿Qué proceso nuclear se genera cuando un núcleo es bombardeado con partículas como neutrones o protones?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque el núcleo pesado es menos estable que sus productos.",
-        "B": "Porque los neutrones liberados se convierten en energía pura.",
-        "C": "Porque la energía cinética del neutrón incidente se multiplica.",
-        "D": "Porque los productos de la fisión tienen una masa total mayor.",
-        "E": "Porque se rompen enlaces químicos muy fuertes."
+        "A": "Radiactividad natural",
+        "B": "Fusión nuclear",
+        "C": "Formación de isóbaros",
+        "D": "Fisión espontánea",
+        "E": "Transmutación nuclear"
       },
-      "respuesta_correcta": "A",
-      "explicacion": "La liberación de energía en la fisión nuclear se debe a un principio de estabilidad. Un núcleo muy pesado es inherentemente menos estable (tiene una mayor energía de enlace por nucleón) que los núcleos de tamaño intermedio que se forman tras la división. La diferencia de energía entre el estado inicial (menos estable) y el estado final (más estable) se libera en forma de energía.",
+      "respuesta_correcta": "E",
+      "explicacion": "La transmutación nuclear es el proceso por el cual un elemento químico se convierte en otro. Esto se puede inducir artificialmente bombardeando un núcleo estable con partículas subatómicas (como neutrones o protones), lo que lo transforma en un núcleo diferente y a menudo radiactivo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_008",
-      "pregunta": "¿Qué se puede afirmar acerca de las propiedades físicas y químicas de dos átomos que son isóbaros?",
+      "pregunta": "En el proceso de fisión nuclear, ¿cuál es la condición de masa que generalmente cumple el núcleo que se divide?",
       "dificultad": 2,
       "opciones": {
-        "A": "Sus propiedades químicas son idénticas.",
-        "B": "Sus propiedades físicas son idénticas.",
-        "C": "Sus propiedades químicas y físicas son diferentes.",
-        "D": "Sus propiedades químicas son diferentes, pero las físicas son iguales.",
-        "E": "Sus propiedades son indistinguibles."
+        "A": "Número de masa menor a 200 uma",
+        "B": "Número de masa mayor a 200 uma",
+        "C": "Número de masa exactamente igual a 83 uma",
+        "D": "Número de masa igual al del hidrógeno o helio",
+        "E": "Número de masa idéntico al de sus productos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los isóbaros son átomos de elementos diferentes, lo que significa que tienen diferente número de protones y, por lo tanto, diferente configuración electrónica. Las propiedades químicas dependen de esta configuración, por lo que son distintas. Sus propiedades físicas también son diferentes.",
+      "respuesta_correcta": "B",
+      "explicacion": "La fisión nuclear es característica de los núcleos pesados. Específicamente, el proceso ocurre cuando un núcleo pesado, definido como aquel con un número de masa superior a 200 unidades de masa atómica (uma), se divide en núcleos más pequeños.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_009",
-      "pregunta": "¿Qué ejemplo de un proceso continuo de fusión nuclear se menciona que ocurre en la naturaleza?",
+      "pregunta": "¿Dónde ocurre la fusión nuclear de forma continua como fuente principal de energía?",
       "dificultad": 2,
       "opciones": {
-        "A": "En los reactores de fisión nuclear.",
-        "B": "En el núcleo de la Tierra.",
-        "C": "En el interior de las estrellas como el Sol.",
-        "D": "Durante las tormentas eléctricas.",
-        "E": "En la descomposición de materia orgánica."
+        "A": "En el núcleo de la Tierra",
+        "B": "En los reactores de fisión",
+        "C": "En todos los elementos radiactivos",
+        "D": "En el Sol",
+        "E": "En los procesos de transmutación en laboratorio"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El Sol es el ejemplo clásico de un reactor de fusión natural. En su núcleo, a temperaturas de millones de grados Celsius, los núcleos de hidrógeno se combinan (fusionan) para formar helio, liberando la energía que percibimos como luz y calor.",
+      "respuesta_correcta": "D",
+      "explicacion": "El Sol está compuesto principalmente por hidrógeno y helio. En su núcleo, las temperaturas alcanzan unos 15 millones de grados Celsius, condiciones que permiten que ocurran continuamente reacciones de fusión nuclear, donde los núcleos de hidrógeno se combinan para formar helio, liberando inmensas cantidades de energía.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_010",
-      "pregunta": "Además de núcleos más pequeños, ¿qué otras partículas se liberan en el proceso de fisión de un núcleo pesado?",
+      "pregunta": "Además de la formación de núcleos más pequeños, ¿qué otra emisión es característica del proceso de fisión nuclear?",
       "dificultad": 2,
       "opciones": {
-        "A": "Solamente protones.",
-        "B": "Uno o más neutrones.",
-        "C": "Únicamente electrones.",
-        "D": "Partículas de helio (partículas alfa).",
-        "E": "No se liberan otras partículas."
+        "A": "La liberación de uno o más neutrones",
+        "B": "La absorción de electrones del entorno",
+        "C": "La creación de un núcleo más pesado",
+        "D": "La emisión exclusiva de radiación electromagnética",
+        "E": "La formación de isóbaros estables"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Una característica clave de la fisión nuclear es que, junto con los fragmentos nucleares de masa intermedia, se emiten uno o más neutrones. Estos neutrones pueden, a su vez, inducir la fisión en otros núcleos pesados, dando lugar a una reacción en cadena.",
+      "respuesta_correcta": "A",
+      "explicacion": "Cuando un núcleo pesado se fisiona, no solo se divide en dos o más núcleos de masa intermedia, sino que también libera uno o más neutrones. Estos neutrones pueden, a su vez, inducir la fisión en otros núcleos cercanos, dando lugar a una reacción en cadena.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_011",
-      "pregunta": "¿Cuál es la diferencia fundamental en el tipo de núcleos involucrados en la fusión y la fisión nuclear?",
+      "pregunta": "¿Qué ejemplo específico se utiliza para ilustrar la fisión nuclear inducida?",
       "dificultad": 2,
       "opciones": {
-        "A": "La fusión une núcleos pesados y la fisión divide núcleos ligeros.",
-        "B": "Ambos procesos involucran exclusivamente núcleos de uranio.",
-        "C": "La fusión combina núcleos ligeros y la fisión divide núcleos pesados.",
-        "D": "No hay diferencia en el tipo de núcleo, solo en las condiciones de temperatura.",
-        "E": "La fusión divide núcleos de masa intermedia y la fisión los combina."
+        "A": "La fusión de hidrógeno en el Sol",
+        "B": "La desintegración natural de un elemento con número atómico 92",
+        "C": "La formación de isóbaros a partir de diferentes elementos",
+        "D": "El bombardeo del uranio-235 con un neutrón",
+        "E": "La combinación de dos núcleos ligeros a altas temperaturas"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La principal distinción radica en la masa de los reactivos nucleares. La fusión nuclear toma núcleos muy ligeros (como los isótopos de hidrógeno) y los combina. En contraste, la fisión nuclear toma un núcleo muy pesado (como el uranio-235) y lo divide.",
+      "respuesta_correcta": "D",
+      "explicacion": "Un ejemplo clásico y explícitamente mencionado para la fisión nuclear es el proceso en el que un núcleo de uranio-235 captura un neutrón, volviéndose inestable y dividiéndose en productos más pequeños, neutrones adicionales y una gran cantidad de energía.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_012",
-      "pregunta": "Según el texto, el bombardeo del uranio-235 con una partícula específica es un ejemplo de fisión nuclear. ¿Qué partícula es?",
+      "pregunta": "Para los elementos más ligeros, ¿cómo se relaciona la estabilidad nuclear con el número de masa durante la fusión?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un protón",
-        "B": "Un electrón",
-        "C": "Otro núcleo de uranio",
-        "D": "Un neutrón",
-        "E": "Una partícula alfa"
+        "A": "La estabilidad nuclear disminuye al aumentar el número de masa",
+        "B": "La estabilidad nuclear aumenta con el número de masa",
+        "C": "La estabilidad nuclear es independiente del número de masa",
+        "D": "La estabilidad solo se alcanza si el número de masa es mayor a 200",
+        "E": "La estabilidad aumenta únicamente si se emiten neutrones"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El ejemplo específico proporcionado para la fisión nuclear es el bombardeo del isótopo uranio-235. La captura de un neutrón por parte del núcleo de uranio-235 lo desestabiliza y provoca que se divida en fragmentos más pequeños, liberando energía y más neutrones.",
+      "respuesta_correcta": "B",
+      "explicacion": "En el caso de los elementos más ligeros, cuando sus núcleos se fusionan para formar un núcleo más grande, el producto resultante es más estable que los reactivos. Por lo tanto, para estos elementos, la estabilidad nuclear aumenta a medida que aumenta su número de masa a través de la fusión.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_013",
-      "pregunta": "Para los elementos más ligeros, ¿qué relación existe entre la estabilidad nuclear y el número de masa ($A$) en el contexto de la fusión?",
+      "pregunta": "¿Cuál es la razón fundamental por la que la fisión nuclear libera una gran cantidad de energía?",
       "dificultad": 3,
       "opciones": {
-        "A": "La estabilidad nuclear disminuye conforme aumenta el número de masa.",
-        "B": "La estabilidad nuclear es máxima para el hidrógeno ($A=1$).",
-        "C": "La estabilidad nuclear aumenta con el aumento del número de masa.",
-        "D": "La estabilidad nuclear es independiente del número de masa.",
-        "E": "La estabilidad solo aumenta si el número de protones es par."
+        "A": "La energía cinética del neutrón incidente se multiplica",
+        "B": "Los núcleos producto son más pesados que el núcleo original",
+        "C": "El núcleo pesado original es menos estable que sus productos más ligeros",
+        "D": "Se forman enlaces químicos que liberan energía térmica",
+        "E": "La temperatura del sistema desciende drásticamente, liberando energía"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El texto indica que la fusión nuclear es la combinación de pequeños núcleos para formar otros más grandes y que, para los elementos más ligeros, la estabilidad nuclear aumenta con el número de masa. Esto explica por qué la fusión de núcleos ligeros, como los de hidrógeno para formar helio, libera energía: el producto (helio) es más estable que los reactivos (hidrógeno).",
+      "explicacion": "La liberación de energía en la fisión nuclear se debe a una diferencia de estabilidad. Un núcleo muy pesado es relativamente inestable. Al dividirse en núcleos de masa intermedia, estos productos son más estables. La diferencia de energía entre el estado inicial (menos estable) y el estado final (más estable) se libera en forma de energía.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_014",
-      "pregunta": "Si un núcleo atómico experimenta fisión, ¿qué se puede inferir con mayor probabilidad sobre su número de masa ($A$)?",
+      "pregunta": "Comparando la fisión y la fusión nuclear, ¿cuál es la diferencia clave respecto a los núcleos involucrados?",
       "dificultad": 3,
       "opciones": {
-        "A": "Que su número de masa es menor a 83 uma.",
-        "B": "Que es un núcleo ligero, como el del helio o el litio.",
-        "C": "Que su número de masa es mayor a 200 uma.",
-        "D": "Que tiene un número igual de protones y neutrones.",
-        "E": "Que su número de masa es exactamente 100 uma."
+        "A": "La fisión une núcleos pesados y la fusión divide núcleos ligeros",
+        "B": "La fisión involucra núcleos con número de masa mayor a 200 uma, mientras que la fusión combina núcleos pequeños",
+        "C": "La fisión solo ocurre en el Sol, mientras que la fusión es un proceso terrestre",
+        "D": "La fisión libera neutrones y la fusión libera únicamente energía electromagnética",
+        "E": "Ambos procesos involucran el mismo tipo de núcleos, pero a diferentes temperaturas"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El proceso de fisión nuclear se describe como la división de un núcleo pesado. Específicamente, se menciona que esto ocurre en núcleos con un número de masa ($A$) mayor a 200 uma. Por lo tanto, si un núcleo se fisiona, es muy probable que cumpla con esta condición de ser un núcleo pesado.",
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción fundamental radica en el tipo y el destino de los núcleos. La fisión comienza con un núcleo muy pesado (número de masa > 200 uma) y lo divide. En contraste, la fusión comienza con núcleos muy pequeños y ligeros (como los de hidrógeno) y los combina para formar uno más grande.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_053_015",
-      "pregunta": "Considerando las definiciones de isóbaros y de reacciones nucleares, si dos átomos son isóbaros, ¿qué implicación directa tiene esto en sus propiedades nucleares y químicas?",
+      "pregunta": "Considerando que el Sol se compone principalmente de hidrógeno y helio y opera a temperaturas de millones de grados, ¿qué proceso es la fuente de su energía?",
       "dificultad": 3,
       "opciones": {
-        "A": "Tienen la misma estabilidad nuclear y propiedades químicas idénticas.",
-        "B": "Al ser elementos diferentes, tienen propiedades químicas distintas, aunque su masa sea igual.",
-        "C": "Tienen el mismo comportamiento en reacciones químicas y de fisión.",
-        "D": "Al tener la misma masa, sus propiedades físicas y químicas son casi idénticas.",
-        "E": "Son isótopos del mismo elemento y reaccionan químicamente igual."
+        "A": "La fisión de núcleos pesados de uranio y plutonio",
+        "B": "La transmutación nuclear de helio en isóbaros más pesados",
+        "C": "La radiactividad natural de sus componentes",
+        "D": "Reacciones continuas de fusión nuclear",
+        "E": "El bombardeo constante de neutrones sobre los núcleos de hidrógeno"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La definición de isóbaros establece dos puntos clave: 1) igual número de masa y 2) diferente número atómico. Un número atómico diferente significa que son elementos químicos distintos (por ejemplo, Argón-40 y Calcio-40). Como las propiedades químicas están determinadas por el número de protones (y electrones), estas serán diferentes. Por lo tanto, aunque su masa total sea la misma, sus identidades y comportamientos químicos son distintos.",
+      "respuesta_correcta": "D",
+      "explicacion": "El contexto proporcionado sobre el Sol (composición de elementos ligeros como H y He, y temperaturas extremadamente altas de 15 millones de grados Celsius) describe las condiciones ideales para la fusión nuclear. Este proceso, donde los núcleos ligeros se combinan, es la reacción que alimenta al Sol y otras estrellas.",
       "imagen": null
     }
   ]

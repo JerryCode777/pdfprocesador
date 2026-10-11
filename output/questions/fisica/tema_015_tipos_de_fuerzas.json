@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 15,
+  "total_temas": 137,
+  "titulo_tema": "Tipos de Fuerzas",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_015_001",
+      "pregunta": "¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Kilogramo (kg)",
+        "B": "Metro por segundo al cuadrado ($$m/s^2$$)",
+        "C": "Newton (N)",
+        "D": "Joule (J)",
+        "E": "Pascal (Pa)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad de medida para la fuerza en el Sistema Internacional es el newton, representado por el símbolo N. El kilogramo es la unidad de masa, el metro por segundo al cuadrado es la unidad de aceleración, el joule es la unidad de energía y el pascal es la unidad de presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_002",
+      "pregunta": "Según la Tercera Ley de Newton, si un cuerpo A ejerce una fuerza sobre un cuerpo B (acción), ¿cómo es la fuerza que el cuerpo B ejerce sobre el cuerpo A (reacción)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De igual magnitud y en la misma dirección.",
+        "B": "De mayor magnitud y en dirección contraria.",
+        "C": "De menor magnitud y en la misma dirección.",
+        "D": "De igual magnitud y en dirección contraria.",
+        "E": "De igual magnitud pero perpendicular."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Principio de Acción y Reacción establece que las fuerzas siempre ocurren en pares. La fuerza de reacción es siempre de igual magnitud y de dirección opuesta a la fuerza de acción, lo que se expresa como $$|F_{AB}| = |-F_{BA}|$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_003",
+      "pregunta": "¿Qué tipo de fuerza se genera internamente en una soga o cable cuando se intenta estirarlo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerza de compresión",
+        "B": "Fuerza normal",
+        "C": "Fuerza elástica",
+        "D": "Fuerza de tensión",
+        "E": "Fuerza gravitacional"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza de tensión, también llamada de tracción, es la fuerza interna que surge en cuerpos como cables o sogas cuando son sometidos a un estiramiento. Esta fuerza siempre 'jala' al cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_004",
+      "pregunta": "¿Qué instrumento, basado en la Ley de Hooke, sirve para medir la magnitud de una fuerza?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Balanza",
+        "B": "Barómetro",
+        "C": "Dinamómetro",
+        "D": "Manómetro",
+        "E": "Amperímetro"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El dinamómetro es un instrumento diseñado para medir la magnitud de las fuerzas. Su funcionamiento se basa en la Ley de Hooke, que relaciona la deformación de un resorte con la fuerza aplicada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_005",
+      "pregunta": "¿Hacia dónde se dirige siempre la fuerza gravitacional que actúa sobre un objeto en la Tierra?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hacia el norte geográfico",
+        "B": "Hacia el centro de la Tierra",
+        "C": "En dirección opuesta al movimiento",
+        "D": "Perpendicular a la superficie de contacto",
+        "E": "Paralela a la superficie de la Tierra"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza gravitacional, o peso, es la fuerza de atracción que ejerce la Tierra sobre un objeto. Esta fuerza siempre está dirigida hacia el centro de la Tierra y se grafica a partir del centro de gravedad del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_006",
+      "pregunta": "¿Cuál es la expresión matemática que describe la Ley de Hooke para la fuerza elástica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_e = k/x$$",
+        "B": "$$F_e = kx^2$$",
+        "C": "$$F_e = mg$$",
+        "D": "$$F_e = kx$$",
+        "E": "$$F_e = \\mu_s F_n$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Hooke establece que el módulo de la fuerza elástica ($F_e$) es directamente proporcional a la deformación ($x$). La constante de proporcionalidad es $k$, la constante de elasticidad del resorte. La fórmula es $$F_e = kx$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_007",
+      "pregunta": "¿Cómo se calcula la magnitud de la fuerza gravitacional (peso) de un objeto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_g = m + g$$",
+        "B": "$$F_g = m/g$$",
+        "C": "$$F_g = mg$$",
+        "D": "$$F_g = g/m$$",
+        "E": "$$F_g = mg^2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La magnitud de la fuerza gravitacional, comúnmente llamada peso ($F_g$), se calcula multiplicando la masa ($m$) del objeto por el módulo de la aceleración de la gravedad ($g$). La fórmula es $$F_g = mg$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_008",
+      "pregunta": "¿Qué condición es necesaria para que la fuerza de rozamiento cinético ($f_k$) actúe entre dos superficies?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los cuerpos estén en reposo.",
+        "B": "Que los cuerpos estén a punto de moverse.",
+        "C": "Que exista movimiento relativo entre las superficies.",
+        "D": "Que las superficies sean perfectamente lisas.",
+        "E": "Que la fuerza normal sea cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de rozamiento cinético ($f_k$) aparece específicamente cuando hay un movimiento relativo (deslizamiento) entre dos superficies en contacto. Actúa oponiéndose a este deslizamiento. Si los cuerpos están en reposo, la fuerza de fricción es estática.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_009",
+      "pregunta": "¿Cuál es la relación correcta entre el coeficiente de rozamiento estático ($\\mu_s$) y el coeficiente de rozamiento cinético ($\\mu_k$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\mu_s < \\mu_k$$",
+        "B": "$$\\mu_s = \\mu_k$$",
+        "C": "$$\\mu_s > \\mu_k > 0$$",
+        "D": "$$\\mu_k > \\mu_s = 0$$",
+        "E": "$$\\mu_s + \\mu_k = 1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Se verifica experimentalmente que el coeficiente de rozamiento estático es siempre mayor que el coeficiente de rozamiento cinético para un par de superficies dadas, y ambos son mayores que cero. Esto significa que se necesita más fuerza para iniciar el movimiento que para mantenerlo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_010",
+      "pregunta": "En un Diagrama de Cuerpo Libre, ¿cómo se representa gráficamente la fuerza normal ($F_n$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralela a la superficie de contacto y saliendo del cuerpo.",
+        "B": "Perpendicular a la superficie de contacto y saliendo del cuerpo.",
+        "C": "Perpendicular a la superficie de contacto y entrando al cuerpo.",
+        "D": "Tangente a la superficie y en sentido del movimiento.",
+        "E": "Siempre vertical y hacia abajo, desde el centro de gravedad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza normal ($F_n$) es una fuerza de contacto que representa la reacción de una superficie sobre un cuerpo. Se grafica siempre de forma perpendicular a las superficies en contacto y apuntando hacia el interior del cuerpo que se está analizando.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_011",
+      "pregunta": "¿En qué situación la fuerza de rozamiento estático alcanza su valor máximo ($f_{s(\text{máx})}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el cuerpo está en reposo sin fuerzas externas.",
+        "B": "Cuando el cuerpo se mueve a velocidad constante.",
+        "C": "Cuando el cuerpo está a punto de iniciar el deslizamiento.",
+        "D": "Justo después de que el movimiento ha comenzado.",
+        "E": "Cuando la aceleración es máxima."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de rozamiento estático es variable, ajustándose para oponerse a la fuerza aplicada hasta un límite. Este valor límite, o máximo, se alcanza en el instante preciso en que el cuerpo está a punto de empezar a moverse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_012",
+      "pregunta": "Si una superficie de contacto es perfectamente lisa, ¿cuál es la relación entre la fuerza de reacción total ($R$) y la fuerza normal ($F_n$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$R = F_n + f$$",
+        "B": "$$R = \\sqrt{F_n^2 + f^2}$$",
+        "C": "$$R = 0$$",
+        "D": "$$R > F_n$$",
+        "E": "$$R = F_n$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En una superficie rugosa, la reacción total $R$ es la resultante de la fuerza normal y la fuerza de fricción. Sin embargo, si la superficie es lisa, no hay fuerza de fricción ($f = 0$). Por lo tanto, la única componente de la reacción es la fuerza normal, resultando en $$R = F_n$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_013",
+      "pregunta": "Un libro está en reposo sobre una mesa horizontal. Si se le aplica una pequeña fuerza horizontal que no es suficiente para moverlo, ¿qué se puede afirmar sobre la magnitud de la fuerza de rozamiento estático ($f_s$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es igual a cero.",
+        "B": "Es igual a su valor máximo, $$f_{s(\text{máx})} = \\mu_s F_n$$.",
+        "C": "Es igual en magnitud a la fuerza horizontal aplicada.",
+        "D": "Es mayor que la fuerza horizontal aplicada.",
+        "E": "Es igual a la fuerza de rozamiento cinético."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de rozamiento estático es una fuerza reactiva que se ajusta para oponerse a la tendencia al movimiento. Mientras el objeto permanezca en reposo, la fuerza de rozamiento estático tendrá una magnitud exactamente igual a la componente de la fuerza aplicada que es paralela a la superficie. Solo alcanza su valor máximo ($f_{s(\text{máx})}$) cuando el objeto está a punto de moverse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_014",
+      "pregunta": "¿Por qué razón el peso de un objeto es menor en la cima de una montaña que a nivel del mar?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la masa del objeto disminuye con la altitud.",
+        "B": "Porque la constante de elasticidad $k$ cambia con la altitud.",
+        "C": "Porque la aceleración de la gravedad $g$ disminuye con la altitud.",
+        "D": "Porque el coeficiente de fricción es menor a mayor altitud.",
+        "E": "Porque la fuerza normal es menor en la cima de una montaña."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso de un objeto se calcula con la fórmula $$F_g = mg$$. La masa ($m$) de un objeto es una propiedad intrínseca y constante. Sin embargo, la aceleración de la gravedad ($g$) varía con la ubicación geográfica, disminuyendo a medida que aumenta la distancia desde el centro de la Tierra. Por lo tanto, a mayores altitudes, $g$ es menor, y en consecuencia, el peso del objeto también es menor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_015_015",
+      "pregunta": "De acuerdo con el Principio de Acción y Reacción, si un martillo golpea un clavo con una fuerza de 100 N, ¿cuál es la magnitud y dirección de la fuerza que el clavo ejerce sobre el martillo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "100 N, en la misma dirección que la fuerza del martillo.",
+        "B": "100 N, en dirección opuesta a la fuerza del martillo.",
+        "C": "Menos de 100 N, porque el martillo es más masivo.",
+        "D": "Más de 100 N, para detener el movimiento del martillo.",
+        "E": "Cero, porque el clavo es el objeto que recibe la acción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Tercera Ley de Newton establece que para cada acción hay una reacción de igual magnitud y dirección opuesta. La fuerza que el martillo ejerce sobre el clavo (acción) es de 100 N. Por lo tanto, la fuerza que el clavo ejerce sobre el martillo (reacción) es también de 100 N, pero en la dirección contraria. La diferencia en los efectos (el clavo se mueve, el martillo se desacelera) se debe a las diferentes masas de los objetos ($$F=ma$$), no a una diferencia en las fuerzas de interacción.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 134,
+  "total_temas": 137,
+  "titulo_tema": "Inducción electromagnética",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_134_001",
+      "pregunta": "¿Qué es la inducción electromagnética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La generación de un campo magnético por una corriente eléctrica estática.",
+        "B": "La inducción de corriente eléctrica en un conductor por acción de un campo magnético variable.",
+        "C": "La fuerza de atracción o repulsión entre dos imanes permanentes.",
+        "D": "El flujo constante de electrones a través de un material aislante.",
+        "E": "La resistencia de un material al paso de un campo magnético."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La inducción electromagnética es el fenómeno que consiste en generar o inducir una corriente eléctrica en un conductor cuando este se encuentra bajo la acción de un campo magnético que está cambiando o variando en el tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_002",
+      "pregunta": "¿Qué se entiende por flujo magnético?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fuerza total ejercida por un campo magnético.",
+        "B": "La existencia de líneas de inducción magnética que atraviesan una superficie.",
+        "C": "La intensidad de la corriente eléctrica inducida en un conductor.",
+        "D": "La dirección del campo magnético en un punto del espacio.",
+        "E": "La cantidad de energía almacenada en un campo magnético."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo magnético se define como la medida del número de líneas de inducción magnética que pasan a través de una superficie determinada. Es una forma de cuantificar la 'cantidad' de campo magnético que atraviesa un área.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_003",
+      "pregunta": "¿Qué representa el símbolo $B$ en el contexto de la fuerza magnética sobre un conductor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La magnitud de la fuerza magnética, medida en Newtons (N).",
+        "B": "La intensidad de la corriente, medida en Amperios (A).",
+        "C": "La longitud del conductor, medida en metros (m).",
+        "D": "La magnitud de la inducción magnética, medida en Teslas (T).",
+        "E": "La carga eléctrica, medida en Coulombs (C)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo $B$ representa la magnitud de la inducción magnética, también conocida como densidad de flujo magnético. Su unidad en el Sistema Internacional es el Tesla (T).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_004",
+      "pregunta": "¿En qué unidades se mide la magnitud de la fuerza magnética ($FB$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Teslas (T)",
+        "B": "Amperios (A)",
+        "C": "Metros (m)",
+        "D": "Newtons (N)",
+        "E": "Volts (V)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud de la fuerza magnética, representada por $FB$, es una fuerza y, como tal, se mide en Newtons (N) en el Sistema Internacional de Unidades.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_005",
+      "pregunta": "¿Qué representa el símbolo $I$ y cuál es su unidad de medida?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inducción magnética, en Teslas (T).",
+        "B": "Intensidad de corriente, en Amperios (A).",
+        "C": "Longitud del conductor, en metros (m).",
+        "D": "Fuerza magnética, en Newtons (N).",
+        "E": "Flujo magnético, en Webers (Wb)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El símbolo $I$ se utiliza para representar la intensidad de la corriente eléctrica que fluye a través del conductor. La unidad de medida para la intensidad de corriente en el Sistema Internacional es el Amperio (A).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_006",
+      "pregunta": "¿De qué depende el valor del flujo magnético que atraviesa una superficie?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "De la intensidad de la corriente en el conductor.",
+        "B": "Del material del que está hecha la superficie.",
+        "C": "De la longitud de la superficie.",
+        "D": "Del número de líneas de inducción magnética que atraviesan el área.",
+        "E": "De la temperatura de la superficie."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El flujo magnético es directamente proporcional al número de líneas de inducción magnética que atraviesan una superficie. A mayor cantidad de líneas que la crucen, mayor será el flujo magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_007",
+      "pregunta": "¿Qué herramienta o principio se utiliza para determinar la dirección de la fuerza magnética sobre un conductor con corriente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ley de Ohm.",
+        "B": "La regla de la mano derecha.",
+        "C": "El principio de Pascal.",
+        "D": "La ley de la gravitación universal.",
+        "E": "La regla de la mano izquierda."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La dirección de la fuerza magnética ($FB$) que actúa sobre un conductor con corriente ($I$) inmerso en un campo magnético ($B$) se determina mediante la regla de la mano derecha. Esta regla establece una relación vectorial entre las direcciones de estas tres cantidades.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_008",
+      "pregunta": "¿Cuál es la condición fundamental para que se produzca una inducción de corriente eléctrica en un conductor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presencia de un campo magnético constante.",
+        "B": "La acción de un campo magnético variable.",
+        "C": "Que el conductor sea de un material ferromagnético.",
+        "D": "Que el conductor esté a una temperatura muy alta.",
+        "E": "La ausencia total de un campo magnético."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La inducción electromagnética ocurre específicamente cuando un conductor es sometido a la acción de un campo magnético variable. Un campo magnético constante o estático no inducirá una corriente eléctrica en un conductor estacionario.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_009",
+      "pregunta": "¿Qué relación de orientación existe entre la fuerza magnética ($FB$), el conductor y el campo magnético ($B$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza siempre es paralela al conductor.",
+        "B": "La fuerza siempre es paralela al campo magnético.",
+        "C": "La fuerza siempre es perpendicular tanto al conductor como al campo magnético.",
+        "D": "El conductor siempre es perpendicular al campo magnético.",
+        "E": "La fuerza forma un ángulo de 45° con el conductor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica fundamental de la fuerza magnética es que su dirección es siempre perpendicular al plano formado por el conductor (en la dirección de la corriente) y el campo magnético. Las tres cantidades son mutuamente perpendiculares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_010",
+      "pregunta": "¿En qué condición la fuerza magnética ejercida sobre un alambre conductor de corriente alcanza su valor máximo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el alambre es paralelo a la dirección del campo magnético.",
+        "B": "Cuando el alambre es perpendicular a la dirección del campo magnético.",
+        "C": "Cuando el alambre forma un ángulo de 45° con el campo magnético.",
+        "D": "Cuando la intensidad de la corriente es cero.",
+        "E": "Cuando el campo magnético es nulo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza magnética es máxima cuando el ángulo entre la longitud del conductor (en la dirección de la corriente) y la dirección del campo magnético es de 90 grados, es decir, cuando son perpendiculares entre sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_011",
+      "pregunta": "Al analizar la fuerza magnética sobre un conductor, ¿cómo se define la dirección de la longitud del conductor ($L$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En la misma dirección del campo magnético ($B$).",
+        "B": "En la dirección opuesta a la corriente ($I$).",
+        "C": "En la misma dirección de la corriente ($I$).",
+        "D": "Perpendicular a la dirección de la corriente ($I$).",
+        "E": "En la misma dirección de la fuerza magnética ($FB$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para propósitos de cálculo vectorial y aplicación de la regla de la mano derecha, la longitud del conductor ($L$) se considera un vector cuya dirección es la misma que la dirección en la que fluye la corriente eléctrica ($I$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_012",
+      "pregunta": "Si se incrementa el número de líneas de inducción magnética que atraviesan una superficie fija, ¿qué ocurre con el flujo magnético?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye proporcionalmente.",
+        "B": "Permanece constante.",
+        "C": "Se vuelve cero.",
+        "D": "Aumenta proporcionalmente.",
+        "E": "Cambia de dirección."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El flujo magnético es proporcional al número de líneas de inducción magnética que atraviesan un área. Por lo tanto, si se aumenta el número de líneas que pasan por la superficie, el valor del flujo magnético también aumentará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_013",
+      "pregunta": "Un conductor por el que circula una corriente $I$ está inmerso en un campo magnético $B$ constante y uniforme. Si el conductor se mantiene estático dentro del campo, ¿se inducirá una corriente eléctrica en él?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sí, porque hay un campo magnético presente.",
+        "B": "Sí, porque el conductor transporta una corriente $I$.",
+        "C": "No, porque el campo magnético no es variable.",
+        "D": "Sí, pero solo si el conductor es perpendicular al campo.",
+        "E": "No, porque la fuerza magnética es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de inducción electromagnética establece que se induce una corriente por la acción de un campo magnético *variable*. En este caso, aunque hay un campo magnético y una corriente inicial, el campo es constante y el conductor está estático, por lo que no hay variación del flujo magnético y no se induce una nueva corriente. La corriente $I$ que ya circula experimentará una fuerza, pero no se inducirá una corriente adicional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_014",
+      "pregunta": "Si un alambre conductor de longitud $L$ por el que circula una corriente $I$ se orienta de forma paralela a las líneas de un campo magnético $B$, ¿qué se puede inferir sobre la magnitud de la fuerza magnética ($FB$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fuerza magnética es máxima.",
+        "B": "La fuerza magnética no es máxima.",
+        "C": "La fuerza es igual a la intensidad de la corriente ($I$).",
+        "D": "La fuerza es perpendicular a la corriente pero paralela al campo.",
+        "E": "La fuerza es infinita."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza magnética es máxima cuando el conductor es perpendicular al campo magnético. Si el conductor es paralelo al campo (ángulo de 0° o 180°), la fuerza magnética es mínima (de hecho, es cero). Por lo tanto, se puede inferir con certeza que la fuerza en esta orientación no es máxima.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_134_015",
+      "pregunta": "Considerando que la fuerza magnética ($FB$) es siempre perpendicular tanto al conductor (dirección de $I$) como al campo magnético ($B$), si la corriente fluye horizontalmente hacia la derecha y el campo magnético apunta verticalmente hacia arriba, ¿cuál podría ser la dirección de la fuerza magnética?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Horizontalmente hacia la derecha.",
+        "B": "Verticalmente hacia arriba.",
+        "C": "Horizontalmente hacia la izquierda.",
+        "D": "Saliendo o entrando perpendicularmente al plano de la corriente y el campo.",
+        "E": "En un ángulo de 45° entre la corriente y el campo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de la mano derecha y el principio de perpendicularidad establecen que la dirección de la fuerza $FB$ debe ser ortogonal (perpendicular) al plano que contiene tanto al vector de la corriente $I$ como al vector del campo magnético $B$. Si la corriente y el campo definen un plano (por ejemplo, el plano de una hoja de papel), la fuerza debe apuntar hacia afuera o hacia adentro de ese plano.",
+      "imagen": null
+    }
+  ]
+}

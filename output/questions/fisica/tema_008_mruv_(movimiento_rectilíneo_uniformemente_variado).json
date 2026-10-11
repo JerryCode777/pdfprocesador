@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 8,
+  "total_temas": 137,
+  "titulo_tema": "MRUV (Movimiento Rectilíneo Uniformemente Variado)",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_008_001",
+      "pregunta": "¿Cuál es la característica fundamental de la aceleración en un Movimiento Rectilíneo Uniformemente Variado (MRUV)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es siempre igual a cero",
+        "B": "Varía de forma lineal con el tiempo",
+        "C": "Se mantiene constante",
+        "D": "Es inversamente proporcional a la velocidad",
+        "E": "Aumenta de forma cuadrática"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición del Movimiento Rectilíneo Uniformemente Variado (MRUV) establece que es un movimiento donde la trayectoria es una línea recta y la aceleración se mantiene constante. Esto significa que la velocidad cambia de manera uniforme a lo largo del tiempo, pero la aceleración no cambia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_002",
+      "pregunta": "¿Qué define a un movimiento como desacelerado en el contexto del MRUV?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad del cuerpo aumenta y es constante",
+        "B": "La aceleración tiene la misma dirección que la velocidad",
+        "C": "La velocidad del cuerpo es nula",
+        "D": "La velocidad del cuerpo disminuye",
+        "E": "La trayectoria del cuerpo es curvilínea"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un movimiento es desacelerado cuando un cuerpo, moviéndose en línea recta, experimenta una disminución en su velocidad. En este caso, la aceleración tiene una dirección opuesta a la de la velocidad, lo que provoca que el cuerpo 'frene'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_003",
+      "pregunta": "¿Qué tipo de trayectoria sigue un objeto en MRUV?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Parabólica",
+        "B": "Circular",
+        "C": "Elíptica",
+        "D": "Rectilínea",
+        "E": "Hiperbólica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una de las características principales del Movimiento Rectilíneo Uniformemente Variado es que el movimiento del objeto sigue una trayectoria en línea recta. Las trayectorias parabólicas, circulares o de otro tipo corresponden a otros tipos de movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_004",
+      "pregunta": "¿Cuál de las siguientes ecuaciones escalares del MRUV relaciona la rapidez final ($v_f$), la rapidez inicial ($v_0$), la aceleración ($a$) y el tiempo ($t$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$d = v_0t \\pm \\frac{1}{2}at^2$$",
+        "B": "$$v_f = v_0 \\pm at$$",
+        "C": "$$v_f^2 = v_0^2 \\pm 2ad$$",
+        "D": "$$d = \\left(\\frac{v_0 + v_f}{2}\\right)t$$",
+        "E": "$$d_n = v_0 \\pm \\frac{a}{2}(2n - 1)$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación $$v_f = v_0 \\pm at$$ es la fórmula fundamental que describe cómo la rapidez final ($v_f$) de un objeto en MRUV depende de su rapidez inicial ($v_0$), la aceleración constante ($a$) y el intervalo de tiempo ($t$) transcurrido. Las otras opciones son ecuaciones válidas del MRUV pero relacionan diferentes conjuntos de variables.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_005",
+      "pregunta": "¿Cómo se define la aceleración media ($a_m$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El producto del cambio de velocidad y el tiempo",
+        "B": "El cambio de velocidad dividido por el intervalo de tiempo",
+        "C": "La distancia total dividida por el tiempo total",
+        "D": "El cambio de posición dividido por el cambio de velocidad",
+        "E": "La suma de la velocidad inicial y final"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La aceleración media ($a_m$) se define como la razón del cambio de velocidad ($Δv$) al intervalo de tiempo ($Δt$) en el que ocurre dicho cambio. Su fórmula es $$a_m = \frac{Δv}{Δt}$$. En el MRUV, la aceleración media es igual a la aceleración constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_006",
+      "pregunta": "En una gráfica de velocidad versus tiempo ($v-t$) para un MRUV, ¿qué representa físicamente la pendiente de la recta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La distancia recorrida",
+        "B": "La posición inicial",
+        "C": "La aceleración",
+        "D": "La velocidad instantánea",
+        "E": "El tiempo transcurrido"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una gráfica $v-t$, la pendiente (inclinación) de la línea recta representa la tasa de cambio de la velocidad con respecto al tiempo, lo cual es, por definición, la aceleración. Una pendiente positiva indica aceleración, mientras que una pendiente negativa indica desaceleración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_007",
+      "pregunta": "¿Qué forma geométrica describe la gráfica de posición versus tiempo ($x-t$) en un MRUV?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una línea recta con pendiente positiva",
+        "B": "Una hipérbola",
+        "C": "Una parábola",
+        "D": "Una línea recta horizontal",
+        "E": "Una curva sinusoidal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación entre la posición y el tiempo en el MRUV está descrita por la ecuación $$d = v_0t + \\frac{1}{2}at^2$$, que es una ecuación de segundo grado. Gráficamente, esta relación corresponde a una curva llamada parábola. Si el movimiento es acelerado, la parábola es cóncava hacia arriba; si es desacelerado, es cóncava hacia abajo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_008",
+      "pregunta": "En un MRUV, si los intervalos de tiempo son iguales, ¿cómo son los desplazamientos correspondientes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son siempre iguales",
+        "B": "Son nulos",
+        "C": "Son siempre crecientes y constantes",
+        "D": "Son diferentes",
+        "E": "Son siempre decrecientes"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una característica del MRUV es que, debido a que la velocidad cambia uniformemente, el objeto no recorre la misma distancia en cada intervalo de tiempo igual. Por ejemplo, un auto que acelera recorrerá más distancia en el segundo segundo que en el primero. Por lo tanto, los desplazamientos en intervalos de tiempo iguales son diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_009",
+      "pregunta": "En la gráfica de aceleración versus tiempo ($a-t$) de un MRUV, ¿qué representa el área bajo la recta en un determinado intervalo de tiempo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La distancia recorrida ($d$)",
+        "B": "La velocidad final ($v_f$)",
+        "C": "La variación de la velocidad ($Δv$)",
+        "D": "La posición final ($x_f$)",
+        "E": "La aceleración media ($a_m$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La gráfica $a-t$ en un MRUV es una línea recta horizontal, ya que la aceleración es constante. El área del rectángulo formado bajo esta línea en un intervalo de tiempo ($A = a \\cdot t$) representa físicamente la variación total de la velocidad ($Δv$) que experimenta el móvil en ese tiempo, ya que de la fórmula $a = \frac{Δv}{t}$ se despeja $Δv = a \\cdot t$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_010",
+      "pregunta": "¿Cuál es la relación direccional entre el vector velocidad y el vector aceleración en un movimiento acelerado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tienen direcciones opuestas",
+        "B": "Son perpendiculares entre sí",
+        "C": "No tienen ninguna relación",
+        "D": "El vector aceleración es siempre nulo",
+        "E": "Tienen la misma dirección"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En un movimiento rectilíneo acelerado, la velocidad aumenta. Esto ocurre porque la aceleración actúa 'a favor' de la velocidad. Por lo tanto, los vectores de velocidad y aceleración apuntan en la misma dirección. En contraste, en un movimiento desacelerado, apuntan en direcciones opuestas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_011",
+      "pregunta": "La ecuación para la distancia recorrida en el enésimo segundo es $$d_n = v_0 \\pm \\frac{a}{2}(2n - 1)$$. ¿Qué representa la variable $n$ en esta fórmula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número total de segundos del movimiento",
+        "B": "La distancia final",
+        "C": "El orden del segundo específico que se está analizando",
+        "D": "La velocidad en el segundo $n$",
+        "E": "La aceleración total"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula de la distancia en el enésimo segundo se usa para calcular la distancia recorrida durante un segundo particular (por ejemplo, el primer segundo, el quinto segundo, etc.). La variable $n$ representa el número ordinal de ese segundo específico (n=1 para el primero, n=5 para el quinto), no el tiempo total del recorrido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_012",
+      "pregunta": "Al analizar una gráfica de velocidad versus tiempo ($v-t$) de un movimiento desacelerado, ¿qué característica principal presentará la línea recta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tendrá una pendiente positiva",
+        "B": "Será una línea horizontal sobre el eje del tiempo",
+        "C": "Tendrá una pendiente negativa",
+        "D": "Será una curva parabólica",
+        "E": "Coincidirá con el eje vertical"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un movimiento desacelerado, la velocidad disminuye con el tiempo. En una gráfica $v-t$, esto se traduce en una línea recta cuya inclinación es hacia abajo, es decir, tiene una pendiente negativa. La pendiente representa la aceleración, que en este caso es negativa (o en dirección opuesta a la velocidad).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_013",
+      "pregunta": "En una gráfica de posición versus tiempo ($x-t$) para un MRUV, ¿cómo se determina el módulo de la velocidad instantánea en un punto específico de la curva?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Calculando el área bajo la curva hasta ese punto",
+        "B": "Dividiendo la coordenada de posición por la coordenada de tiempo de ese punto",
+        "C": "Observando el valor de la aceleración en ese instante",
+        "D": "Trazando una recta tangente a la curva en ese punto y calculando su pendiente",
+        "E": "Encontrando el punto más alto de la parábola"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La gráfica $x-t$ es una parábola, y la velocidad instantánea en cualquier punto es la tasa de cambio de la posición en ese instante. Geométricamente, esto se representa por la pendiente de la línea recta que es tangente a la curva en el punto de interés. El cálculo de la pendiente de esta recta tangente proporciona el valor de la velocidad instantánea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_014",
+      "pregunta": "¿Cuál de las siguientes ecuaciones escalares del MRUV permite calcular una magnitud sin utilizar directamente la variable tiempo ($t$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$d = v_0t \\pm \\frac{1}{2}at^2$$",
+        "B": "$$v_f = v_0 \\pm at$$",
+        "C": "$$d = \\left(\\frac{v_0 + v_f}{2}\\right)t$$",
+        "D": "$$v_f^2 = v_0^2 \\pm 2ad$$",
+        "E": "$$a = \\frac{v_f - v_0}{t}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación $$v_f^2 = v_0^2 \\pm 2ad$$ relaciona la rapidez final, la rapidez inicial, la aceleración y la distancia, sin incluir explícitamente la variable tiempo ($t$). Es especialmente útil en problemas donde el tiempo no es un dato conocido ni una incógnita a resolver. Todas las otras opciones incluyen la variable $t$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_008_015",
+      "pregunta": "Si la gráfica de aceleración vs. tiempo ($a-t$) de un móvil es una línea recta horizontal, ¿qué se puede concluir sobre la relación entre su aceleración media ($a_m$) y su aceleración instantánea ($a$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La aceleración media es siempre mayor que la instantánea",
+        "B": "La aceleración media y la instantánea son iguales y constantes",
+        "C": "La aceleración instantánea varía, pero la media es constante",
+        "D": "La aceleración es cero, por lo tanto ambas son nulas",
+        "E": "La aceleración media es la integral de la aceleración instantánea"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una gráfica $a-t$ que es una línea recta horizontal indica que el valor de la aceleración no cambia con el tiempo, es decir, es constante. En esta condición específica, que es la definición del MRUV, la aceleración en cualquier instante ($a$) es la misma. Por lo tanto, la aceleración media ($a_m$) calculada sobre cualquier intervalo de tiempo será igual a ese valor constante. Se cumple que $a_m = a = \\text{constante}$.",
+      "imagen": null
+    }
+  ]
+}

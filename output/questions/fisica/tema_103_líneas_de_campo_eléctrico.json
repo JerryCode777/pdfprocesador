@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 103,
+  "total_temas": 137,
+  "titulo_tema": "Líneas de Campo Eléctrico",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_103_001",
+      "pregunta": "¿Cuál es la función principal de las líneas de campo eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Representar la trayectoria real de una partícula cargada",
+        "B": "Utilizarse para representar visualmente el campo eléctrico en una región del espacio",
+        "C": "Indicar la cantidad de carga eléctrica en un punto",
+        "D": "Mostrar las conexiones físicas entre las cargas",
+        "E": "Medir la energía potencial eléctrica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las líneas de campo eléctrico son una construcción imaginaria y una herramienta visual que ayuda a representar la dirección y la intensidad del campo eléctrico en diferentes puntos de una región del espacio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_002",
+      "pregunta": "¿Cómo se define conceptualmente una carga puntual?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una carga con un valor numérico de 1",
+        "B": "Una carga que no se puede mover",
+        "C": "Una carga cuyas dimensiones espaciales son muy pequeñas en comparación con las distancias relevantes",
+        "D": "Una carga que siempre es positiva",
+        "E": "Una carga que no genera campo eléctrico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una carga puntual es una idealización en la que se considera que toda la carga está concentrada en un único punto del espacio, lo cual es una aproximación válida cuando sus dimensiones son despreciables frente a otras distancias en el problema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_003",
+      "pregunta": "En cualquier punto de una línea de campo eléctrico, ¿qué relación existe entre el vector campo eléctrico ($E$) y la línea misma?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El vector $E$ es perpendicular a la línea",
+        "B": "El vector $E$ apunta hacia la carga fuente",
+        "C": "El vector $E$ es paralelo al eje x",
+        "D": "El vector $E$ es tangente a la línea en ese punto",
+        "E": "El vector $E$ tiene una magnitud constante a lo largo de la línea"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por definición, una de las propiedades fundamentales de las líneas de campo eléctrico es que la dirección del vector campo eléctrico $E$ en un punto cualquiera del espacio es siempre tangente a la línea de campo que pasa por dicho punto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_004",
+      "pregunta": "¿Qué establece el principio de superposición de los campos eléctricos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El campo eléctrico más fuerte anula a los demás",
+        "B": "Los campos eléctricos de varias cargas se suman de forma escalar",
+        "C": "El campo eléctrico total es el promedio de los campos individuales",
+        "D": "El campo eléctrico total en un punto es la suma vectorial de los campos que cada carga produce independientemente",
+        "E": "Los campos eléctricos no pueden coexistir en el mismo punto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El principio de superposición afirma que para encontrar el campo eléctrico neto en un punto debido a un conjunto de cargas, se debe calcular el campo que cada carga produce por separado y luego sumar todos esos campos como vectores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_005",
+      "pregunta": "¿Cuál es la característica esencial que debe cumplir una carga de prueba $q_0$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Debe tener el mismo valor que la carga fuente $Q$",
+        "B": "Debe ser lo suficientemente pequeña como para no perturbar el campo que se mide",
+        "C": "Debe ser siempre una carga negativa",
+        "D": "Debe tener una masa muy grande para permanecer estática",
+        "E": "Debe moverse a una velocidad constante"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La carga de prueba $q_0$ es una carga hipotética utilizada para sondear el campo eléctrico. Debe ser muy pequeña para que su propio campo eléctrico no altere significativamente la distribución de las cargas fuente y, por lo tanto, no modifique el campo que se desea medir.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_006",
+      "pregunta": "¿Cuál es la expresión matemática correcta que describe el principio de superposición para el campo eléctrico total $E_p$ generado por un conjunto de cargas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$E_p = E_1 \\times E_2 \\times E_3 \\times \\dots$$",
+        "B": "$$E_p = |E_1| + |E_2| + |E_3| + \\dots$$",
+        "C": "$$E_p = E_1 + E_2 + E_3 + \\dots$$",
+        "D": "$$E_p = \\frac{E_1 + E_2 + E_3 + \\dots}{n}$$",
+        "E": "$$E_p = E_1 - E_2 - E_3 - \\dots$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La expresión correcta es $$E_p = E_1 + E_2 + E_3 + \\dots$$, donde la suma es una suma vectorial. Esto significa que se deben considerar tanto la magnitud como la dirección de cada campo eléctrico individual ($E_1, E_2$, etc.) para encontrar el campo resultante $E_p$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_007",
+      "pregunta": "La afirmación de que las líneas de campo eléctrico son \"imaginarias\" significa que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No tienen ninguna base en la realidad física",
+        "B": "Solo existen en problemas teóricos y no en la práctica",
+        "C": "Son una herramienta conceptual para visualizar un campo que es real pero invisible",
+        "D": "Su existencia no ha sido comprobada experimentalmente",
+        "E": "Cambian de forma aleatoria y no siguen ningún patrón"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El campo eléctrico es una entidad física real que llena el espacio alrededor de las cargas. Sin embargo, no podemos verlo directamente. Las líneas de campo son una construcción gráfica, un modelo imaginario que nos ayuda a entender y visualizar la estructura y dirección de este campo real e invisible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_008",
+      "pregunta": "¿Qué sucedería si se utilizara una carga de prueba $q_0$ de gran magnitud para medir el campo eléctrico de una carga fuente $Q$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga fuente $Q$ sería destruida",
+        "B": "La medición sería más precisa debido a la mayor fuerza",
+        "C": "El campo eléctrico de $q_0$ podría alterar la distribución de $Q$, afectando el campo que se intenta medir",
+        "D": "No ocurriría nada diferente a usar una carga pequeña",
+        "E": "Las leyes de la electrostática dejarían de ser aplicables"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El propósito de una carga de prueba es medir un campo sin afectarlo. Si $q_0$ es grande, su propio campo eléctrico ejercerá fuerzas significativas sobre la carga fuente $Q$, lo que podría moverla o redistribuirla. El resultado sería la medición de un campo eléctrico diferente al que existía originalmente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_009",
+      "pregunta": "¿Qué rol desempeña la carga $Q$ en la descripción del campo eléctrico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es la carga utilizada para detectar y medir el campo",
+        "B": "Es la carga (o conjunto de cargas) que crea el campo eléctrico en el espacio circundante",
+        "C": "Es una carga hipotética con valor infinitesimal",
+        "D": "Es la carga neta del universo",
+        "E": "Es una carga que no interactúa con el campo eléctrico"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En el contexto de los campos eléctricos, la carga $Q$ se denomina carga fuente. Es la responsable de generar la alteración en el espacio que conocemos como campo eléctrico. La carga de prueba $q_0$ es la que se utiliza posteriormente para detectar la presencia y medir las propiedades de ese campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_010",
+      "pregunta": "En un punto $P$, una carga $Q_1$ crea un campo $E_1$ hacia la derecha y una carga $Q_2$ crea un campo $E_2$ hacia arriba, ambos de igual magnitud. ¿Hacia dónde apuntará el vector campo eléctrico total $E_p$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hacia la derecha",
+        "B": "Hacia arriba",
+        "C": "Hacia abajo y a la izquierda",
+        "D": "Formando un ángulo de 45° hacia arriba y a la derecha",
+        "E": "Será un vector nulo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Según el principio de superposición, el campo total es la suma vectorial de los campos individuales: $$E_p = E_1 + E_2$$. Al sumar un vector horizontal (hacia la derecha) y un vector vertical (hacia arriba) de igual magnitud, el vector resultante apuntará en la dirección diagonal entre ambos, que corresponde a un ángulo de 45°.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_011",
+      "pregunta": "Si las líneas de campo eléctrico en una región son rectas, paralelas y están espaciadas uniformemente, ¿qué se puede concluir sobre el campo eléctrico $E$ en esa región?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El campo eléctrico es cero en esa región",
+        "B": "El campo eléctrico es variable en magnitud y dirección",
+        "C": "El campo eléctrico es uniforme, es decir, constante en magnitud y dirección",
+        "D": "El campo eléctrico aumenta de izquierda a derecha",
+        "E": "Solo hay una carga puntual positiva en esa región"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las líneas de campo representan la dirección (por su tangencia) y la intensidad (por su densidad) del campo. Si las líneas son paralelas, la dirección del campo es la misma en todos los puntos. Si están espaciadas uniformemente, su densidad es constante, lo que indica que la magnitud del campo también es constante. Por lo tanto, el campo es uniforme.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_012",
+      "pregunta": "La idealización de una \"carga puntual\" es más apropiada para describir:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El campo eléctrico dentro de un conductor esférico",
+        "B": "Una molécula de agua",
+        "C": "Una placa metálica cargada de gran tamaño",
+        "D": "Un electrón cuando se estudia su interacción con un protón a una distancia mucho mayor que su tamaño",
+        "E": "El campo eléctrico generado por una línea infinita de carga"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El concepto de carga puntual se aplica cuando las dimensiones del objeto cargado son despreciables en comparación con las distancias involucradas. En la interacción entre un electrón y un protón, sus tamaños son extremadamente pequeños en comparación con la distancia que los separa, por lo que tratarlos como puntos es una excelente aproximación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_013",
+      "pregunta": "Considerando que el campo eléctrico total $E_p$ es una suma vectorial de campos individuales ($$E_p = E_1 + E_2 + \\dots$$), ¿qué pasaría si en un punto dos campos $E_1$ y $E_2$ tienen la misma magnitud pero direcciones exactamente opuestas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El campo total tendría el doble de la magnitud de uno de ellos",
+        "B": "El campo total en ese punto sería cero",
+        "C": "El campo total apuntaría en la dirección de $E_1$",
+        "D": "El campo total apuntaría en una dirección perpendicular a ambos",
+        "E": "El principio de superposición no se puede aplicar en este caso"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La suma vectorial implica considerar tanto la magnitud como la dirección. Si dos vectores tienen la misma magnitud y direcciones opuestas, al sumarlos se cancelan mutuamente. Por lo tanto, si $$E_2 = -E_1$$, la suma vectorial en ese punto específico sería $$E_p = E_1 + (-E_1) = 0$$. El campo eléctrico neto en ese punto es nulo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_014",
+      "pregunta": "Sabiendo que el vector campo eléctrico $E$ es siempre tangente a la línea de campo, ¿por qué dos líneas de campo eléctrico nunca pueden cruzarse?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque las cargas fuente siempre se repelen",
+        "B": "Porque es una regla matemática sin fundamento físico",
+        "C": "Porque si se cruzaran, el campo eléctrico en el punto de cruce tendría dos direcciones distintas simultáneamente, lo cual es físicamente imposible",
+        "D": "Porque las líneas de campo son siempre paralelas entre sí",
+        "E": "Porque se anularían mutuamente en el punto de cruce"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La dirección del vector campo eléctrico en un punto del espacio es única. Si dos líneas de campo se cruzaran, en el punto de intersección habría dos tangentes diferentes, lo que implicaría que el campo eléctrico apunta en dos direcciones a la vez. Esto contradice la naturaleza unívoca del campo eléctrico en cualquier punto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_103_015",
+      "pregunta": "¿Cuál es la distinción fundamental entre el rol de una carga fuente $Q$ y una carga de prueba $q_0$ en el estudio de un campo eléctrico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Q es siempre positiva y $q_0$ es siempre negativa",
+        "B": "Q es estática, mientras que $q_0$ siempre está en movimiento",
+        "C": "Q es la generadora del campo, mientras que $q_0$ es una herramienta conceptual, idealmente sin efecto propio, para medir dicho campo",
+        "D": "Q es una carga real y $q_0$ es una carga imaginaria que no existe",
+        "E": "No hay ninguna distinción; los términos son intercambiables"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La carga fuente $Q$ es el objeto de estudio; es la que crea el campo eléctrico que nos interesa analizar. La carga de prueba $q_0$ no es parte del sistema original, sino una sonda que introducimos para determinar las propiedades (magnitud y dirección) del campo creado por $Q$. Para que la medición sea válida, se asume que $q_0$ es tan pequeña que su propia influencia en el sistema es despreciable.",
+      "imagen": null
+    }
+  ]
+}

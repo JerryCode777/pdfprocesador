@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 45,
+  "total_temas": 137,
+  "titulo_tema": "Presión Atmosférica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_045_001",
+      "pregunta": "¿Cuál es la fórmula que define la presión ($P$) en términos de la magnitud de la fuerza ($F$) y el área ($A$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$P = F \\cdot A$$",
+        "B": "$$P = \\frac{F}{A}$$",
+        "C": "$$P = \\frac{A}{F}$$",
+        "D": "$$P = F - A$$",
+        "E": "$$P = F + A$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión ($P$) se define como la relación de la magnitud de la fuerza ($F$) ejercida perpendicularmente sobre una superficie y el área ($A$) de dicha superficie. Por lo tanto, la fórmula correcta es $$P = \\frac{F}{A}$$. Las otras opciones representan operaciones matemáticas incorrectas para esta definición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_002",
+      "pregunta": "¿Cuál es la causa principal de la presión atmosférica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La rotación de la Tierra",
+        "B": "El calor del Sol",
+        "C": "El peso de la capa de aire que envuelve la Tierra",
+        "D": "El campo magnético terrestre",
+        "E": "La evaporación del agua de los océanos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión atmosférica es el resultado del peso de la vasta capa de aire (la atmósfera) que rodea la Tierra. La fuerza de gravedad atrae esta masa de aire hacia la superficie, y el peso de esa columna de aire sobre un área determinada es lo que genera la presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_003",
+      "pregunta": "La unidad de presión en el Sistema Internacional es el Pascal (Pa). ¿A qué equivale un Pascal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1 \\frac{kg}{m^2}$$",
+        "B": "$$1 N \\cdot m$$",
+        "C": "$$1 \\frac{N}{m}$$",
+        "D": "$$1 \\frac{N}{m^2}$$",
+        "E": "$$1 J \\cdot s$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La presión se define como fuerza por unidad de área, $$P = F/A$$. En el Sistema Internacional, la fuerza se mide en Newtons ($N$) y el área en metros cuadrados ($m^2$). Por lo tanto, la unidad de presión es $$N/m^2$$, que se denomina Pascal (Pa).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_004",
+      "pregunta": "¿Qué científico italiano utilizó un tubo de vidrio y mercurio para realizar un experimento que midió la presión atmosférica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Galileo Galilei",
+        "B": "Evangelista Torricelli",
+        "C": "Isaac Newton",
+        "D": "Blaise Pascal",
+        "E": "Amedeo Avogadro"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Evangelista Torricelli fue el físico que, en el siglo XVII, ideó y realizó el famoso experimento. Llenó un tubo de vidrio con mercurio y lo invirtió sobre un recipiente con el mismo líquido, demostrando que la presión atmosférica podía sostener una columna de 76 cm de mercurio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_005",
+      "pregunta": "El valor medio de la presión atmosférica normal a nivel del mar es de 1 atm. ¿Cuál es su equivalencia en milímetros de mercurio (mm Hg)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$7.6 \\text{ mm Hg}$$",
+        "B": "$$76 \\text{ mm Hg}$$",
+        "C": "$$1013 \\text{ mm Hg}$$",
+        "D": "$$100 \\text{ mm Hg}$$",
+        "E": "$$760 \\text{ mm Hg}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La presión atmosférica estándar a nivel del mar, definida como 1 atmósfera (atm), es equivalente a la presión ejercida por una columna de mercurio de 760 milímetros de altura. Por lo tanto, $$1 \\text{ atm} = 760 \\text{ mm Hg}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_006",
+      "pregunta": "¿Por qué se considera que la presión es una cantidad escalar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque solo se aplica en una dirección vertical.",
+        "B": "Porque es proporcional a la magnitud de la fuerza, no a su dirección vectorial.",
+        "C": "Porque siempre tiene un valor positivo.",
+        "D": "Porque su valor cambia con la temperatura.",
+        "E": "Porque solo los fluidos pueden ejercerla."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión es una cantidad escalar porque se define en función de la magnitud de la fuerza perpendicular a una superficie, sin importar la orientación de esa superficie. La fuerza es un vector, pero la presión es una magnitud que describe cómo se distribuye esa fuerza sobre un área.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_007",
+      "pregunta": "Cuando un objeto está sumergido en un fluido estático, ¿cómo es la dirección de la fuerza que el fluido ejerce sobre las superficies del objeto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre paralela a las superficies.",
+        "B": "Siempre en la dirección de la gravedad.",
+        "C": "Siempre perpendicular a las superficies.",
+        "D": "Formando un ángulo de 45° con las superficies.",
+        "E": "En la dirección del flujo del fluido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un fluido estático no puede soportar esfuerzos cortantes (fuerzas paralelas a la superficie). Por lo tanto, la única fuerza que puede ejercer sobre un objeto sumergido es una de compresión, que actúa siempre de manera perpendicular a cualquier punto de la superficie del objeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_008",
+      "pregunta": "¿Cuál fue la principal conclusión que Evangelista Torricelli extrajo de su experimento con la columna de mercurio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El vacío absoluto es imposible de crear.",
+        "B": "El valor de la presión atmosférica es equivalente a la presión de una columna de mercurio de 76 cm de altura.",
+        "C": "El mercurio es el líquido más denso que existe.",
+        "D": "La presión de un fluido aumenta con la profundidad.",
+        "E": "La presión del aire no varía con la altitud."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Torricelli observó que la columna de mercurio descendía hasta una altura de 76 cm y se detenía. Concluyó que la fuerza que sostenía esta columna era la ejercida por el aire de la atmósfera sobre la superficie del mercurio en el recipiente, estableciendo así una medida para la presión atmosférica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_009",
+      "pregunta": "Sabiendo que la presión atmosférica normal es de 1 atm, ¿cuál es su valor equivalente en pascales (Pa)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1.01325 \\times 10^3 \\text{ Pa}$$",
+        "B": "$$760 \\text{ Pa}$$",
+        "C": "$$1.01325 \\times 10^5 \\text{ Pa}$$",
+        "D": "$$9.8 \\times 10^4 \\text{ Pa}$$",
+        "E": "$$1 \\text{ Pa}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por definición, la presión atmosférica estándar (1 atm) a nivel del mar equivale a $$1.01325 \\times 10^5$$ pascales. Este valor es fundamental para las conversiones de unidades de presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_010",
+      "pregunta": "¿Cuál es la función principal de un manómetro de tubo abierto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Medir la presión atmosférica local.",
+        "B": "Medir la densidad de un líquido desconocido.",
+        "C": "Medir la temperatura de un gas confinado.",
+        "D": "Medir la presión de un gas contenido en un recipiente.",
+        "E": "Medir la velocidad del viento."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un manómetro de tubo abierto es un dispositivo diseñado específicamente para medir la presión de un sistema cerrado, como un gas en un tanque. Lo hace comparando la presión del gas con la presión atmosférica, que actúa sobre el extremo abierto del tubo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_011",
+      "pregunta": "Si se ejerce la misma magnitud de fuerza $F$ sobre dos pistones, uno con un área grande $A_1$ y otro con un área pequeña $A_2$, ¿sobre cuál pistón será mayor la presión ejercida?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión será igual en ambos.",
+        "B": "Sobre el pistón de área grande $A_1$.",
+        "C": "Sobre el pistón de área pequeña $A_2$.",
+        "D": "Dependerá del fluido utilizado.",
+        "E": "No se puede determinar sin conocer el valor de $F$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión se define como $$P = F/A$$. Para una fuerza $F$ constante, la presión $P$ es inversamente proporcional al área $A$. Esto significa que a menor área, mayor será la presión. Por lo tanto, la presión será mayor sobre el pistón de área pequeña $A_2$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_012",
+      "pregunta": "En un manómetro de tubo abierto en equilibrio, las presiones en dos puntos A y B, situados al mismo nivel horizontal dentro del líquido, deben ser iguales. ¿Cuál es el principio físico que justifica esta igualdad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ley de la conservación de la masa.",
+        "B": "Los puntos a la misma altura en un fluido estático continuo soportan la misma presión.",
+        "C": "Principio de Arquímedes.",
+        "D": "La presión atmosférica es uniforme en todo el dispositivo.",
+        "E": "Teorema de Bernoulli."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El funcionamiento del manómetro se basa en un principio fundamental de la estática de fluidos: en un fluido continuo y en reposo, todos los puntos que se encuentran a la misma profundidad o nivel horizontal tienen la misma presión. Por eso, la presión en el punto A (influenciada por el gas) se iguala a la presión en el punto B (influenciada por la atmósfera y la columna de líquido).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_013",
+      "pregunta": "La presión atmosférica se calcula usando la expresión $$P_{atm} = \\rho_{Hg}gh$$. Si el experimento de Torricelli se realizara en un lugar donde la aceleración de la gravedad ($g$) fuera menor que en la Tierra (por ejemplo, en la Luna), ¿qué le sucedería a la altura ($h$) de la columna de mercurio para una presión atmosférica equivalente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La altura $h$ sería menor.",
+        "B": "La altura $h$ sería mayor.",
+        "C": "La altura $h$ no cambiaría.",
+        "D": "La columna de mercurio se desbordaría.",
+        "E": "La columna de mercurio bajaría a cero."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula es $$P_{atm} = \\rho_{Hg}gh$$. Si la presión atmosférica $P_{atm}$ y la densidad del mercurio $\\rho_{Hg}$ se mantienen constantes, para que la igualdad se cumpla, una disminución en el valor de $g$ (gravedad) debe ser compensada por un aumento en el valor de $h$ (altura). Por lo tanto, la columna de mercurio sostenida sería más alta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_014",
+      "pregunta": "En el cálculo de la presión atmosférica a partir del experimento de Torricelli, se usa la expresión $$P_0 = (13.6 \\times 10^3)(9.8)(76 \\times 10^{-2})$$. ¿Qué representa físicamente el término $$(76 \\times 10^{-2})$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La densidad del mercurio en $g/cm^3$.",
+        "B": "La presión en pascales.",
+        "C": "La aceleración de la gravedad $g$.",
+        "D": "La altura de la columna de mercurio $h$ en metros.",
+        "E": "La masa del mercurio en el tubo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula para la presión hidrostática es $$P = \\rho g h$$. Comparando con la expresión numérica, $(13.6 \\times 10^3)$ es la densidad $\\rho$ en $kg/m^3$, $(9.8)$ es la aceleración de la gravedad $g$ en $m/s^2$, y por lo tanto, el término $(76 \\times 10^{-2})$ debe ser la altura $h$ expresada en metros. Los 76 cm observados en el experimento se convierten a metros dividiendo por 100, lo que da $$76 \\times 10^{-2} \\text{ m}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_045_015",
+      "pregunta": "Un fluido ejerce una fuerza de magnitud $$F = 2026.5 \\text{ N}$$ sobre un pistón circular de área $$A = 0.02 \\text{ m}^2$$. Calcule la presión $P$ ejercida sobre el pistón.",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$1013.25 \\text{ Pa}$$",
+        "B": "$$40.53 \\text{ Pa}$$",
+        "C": "$$1.01325 \\times 10^5 \\text{ Pa}$$",
+        "D": "$$2026.5 \\text{ Pa}$$",
+        "E": "$$10132.5 \\text{ Pa}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para calcular la presión, se utiliza la fórmula fundamental $$P = \\frac{F}{A}$$. Sustituyendo los valores dados: $$P = \\frac{2026.5 \\text{ N}}{0.02 \\text{ m}^2} = 101325 \\text{ Pa}$$. Este valor se puede expresar en notación científica como $$1.01325 \\times 10^5 \\text{ Pa}$$, que curiosamente coincide con el valor de la presión atmosférica estándar.",
+      "imagen": null
+    }
+  ]
+}

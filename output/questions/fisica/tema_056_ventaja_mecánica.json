@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 56,
+  "total_temas": 137,
+  "titulo_tema": "Ventaja Mecánica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_056_001",
+      "pregunta": "¿Cuál es el nombre de la fuerza vertical y ascendente que experimenta un cuerpo total o parcialmente sumergido en un líquido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Peso",
+        "B": "Presión",
+        "C": "Empuje",
+        "D": "Ventaja Mecánica",
+        "E": "Tensión superficial"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según el Principio de Arquímedes, todo cuerpo sumergido en un líquido experimenta una fuerza vertical dirigida hacia arriba. A esta fuerza se le denomina empuje. El peso es la fuerza de gravedad, la presión es fuerza por unidad de área y la ventaja mecánica es una relación de fuerzas o áreas en un sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_002",
+      "pregunta": "En un sistema de dos émbolos conectados por un fluido, ¿cuál es la relación matemática fundamental entre las presiones ($$\\Delta P_1$$ y $$\\Delta P_2$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\Delta P_1 > \\Delta P_2$$",
+        "B": "$$\\Delta P_1 < \\Delta P_2$$",
+        "C": "$$\\Delta P_1 = \\Delta P_2$$",
+        "D": "$$\\Delta P_1 = -\\Delta P_2$$",
+        "E": "$$\\Delta P_1 / \\Delta P_2 = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un sistema de vasos comunicantes con un fluido, cualquier cambio de presión en un punto se transmite íntegramente al resto del recipiente. Por lo tanto, el cambio de presión en el émbolo 1 es igual al cambio de presión en el émbolo 2, lo que se expresa como $$\\Delta P_1 = \\Delta P_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_003",
+      "pregunta": "¿Cómo se define la Ventaja Mecánica ($VM$) en función de las áreas de salida ($A_{salida}$) y entrada ($A_{entrada}$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$VM = A_{entrada} / A_{salida}$$",
+        "B": "$$VM = A_{salida} / A_{entrada}$$",
+        "C": "$$VM = A_{entrada} + A_{salida}$$",
+        "D": "$$VM = A_{salida} - A_{entrada}$$",
+        "E": "$$VM = A_{entrada} \\times A_{salida}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ventaja mecánica se define como el factor que multiplica la fuerza de entrada para obtener la fuerza de salida. En términos de áreas, esta relación es el cociente del área de salida entre el área de entrada, expresado por la fórmula $$VM = A_{salida}/A_{entrada}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_004",
+      "pregunta": "Según el Principio de Arquímedes, ¿a qué es igual el valor de la fuerza de empuje?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al peso del cuerpo sumergido.",
+        "B": "A la densidad del líquido.",
+        "C": "Al volumen del líquido desalojado.",
+        "D": "Al peso del líquido desalojado.",
+        "E": "A la masa del cuerpo sumergido."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Principio de Arquímedes establece de forma explícita que el valor de la fuerza de empuje que actúa sobre un cuerpo sumergido es exactamente igual al peso del volumen del líquido que el cuerpo ha desalojado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_005",
+      "pregunta": "¿Cuál es la relación de proporcionalidad entre las fuerzas ($F$) y las áreas ($A$) de los émbolos en una prensa hidráulica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las fuerzas son inversamente proporcionales a sus áreas.",
+        "B": "Las fuerzas son directamente proporcionales a sus áreas.",
+        "C": "Las fuerzas son iguales, sin importar el área.",
+        "D": "No existe relación entre fuerzas y áreas.",
+        "E": "Las fuerzas son proporcionales al cuadrado de sus áreas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación fundamental $$F_1/A_1 = F_2/A_2$$ indica que el cociente entre la fuerza y el área es constante. Esto significa que las fuerzas aplicadas en los émbolos son directamente proporcionales a sus respectivas áreas. A mayor área, mayor fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_006",
+      "pregunta": "En un sistema hidráulico con dos émbolos de áreas $A_1$ y $A_2$, donde $A_2 > A_1$, ¿qué émbolo experimenta la mayor fuerza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El émbolo de menor área, $A_1$.",
+        "B": "El émbolo de mayor área, $A_2$.",
+        "C": "Ambos experimentan la misma fuerza.",
+        "D": "La fuerza es independiente del área de los émbolos.",
+        "E": "El émbolo que se desplaza la menor distancia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Dado que las fuerzas son directamente proporcionales a las áreas ($$F_1/A_1 = F_2/A_2$$), el émbolo con la mayor área ($A_2$) será el que experimente la mayor fuerza ($F_2$). Por eso se afirma que $$F_2 > F_1$$ cuando $$A_2 > A_1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_007",
+      "pregunta": "Si en un dispositivo hidráulico el émbolo de área $A_1$ es más pequeño que el de área $A_2$, ¿cuál de los dos émbolos se desplaza una mayor distancia vertical ($h$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El émbolo mayor, su desplazamiento es $h_2$.",
+        "B": "El émbolo menor, su desplazamiento es $h_1$.",
+        "C": "Ambos se desplazan la misma distancia ($h_1 = h_2$).",
+        "D": "El desplazamiento es inversamente proporcional a la fuerza.",
+        "E": "No es posible determinar la relación de desplazamientos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un sistema hidráulico, el trabajo de entrada es igual al trabajo de salida. Para compensar la menor fuerza aplicada en el émbolo pequeño, este debe recorrer una distancia mayor. Por lo tanto, el émbolo menor ($A_1$) es el que más se desplaza, cumpliéndose que $$h_1 > h_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_008",
+      "pregunta": "La expresión matemática $$VM = F_2/F_1$$ es una forma de calcular la Ventaja Mecánica. ¿Qué representa esta fórmula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La diferencia entre la fuerza de salida y la de entrada.",
+        "B": "El producto de las fuerzas del sistema.",
+        "C": "La relación entre la presión y el área.",
+        "D": "El cociente entre la fuerza de salida y la fuerza de entrada.",
+        "E": "La suma de las fuerzas aplicadas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ventaja Mecánica ($VM$) es una medida de cuánto se amplifica una fuerza. La fórmula $$VM = F_2/F_1$$ representa el cociente (o la razón) entre la fuerza obtenida en la salida ($F_2$) y la fuerza aplicada en la entrada ($F_1$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_009",
+      "pregunta": "¿Bajo qué circunstancia un cuerpo experimenta la fuerza de empuje según el Principio de Arquímedes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente si está completamente sumergido.",
+        "B": "Solamente si está flotando en la superficie.",
+        "C": "Siempre que esté total o parcialmente sumergido en un líquido.",
+        "D": "Solo si el cuerpo es menos denso que el líquido.",
+        "E": "Únicamente si toca el fondo del recipiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio es general y se aplica a cualquier cuerpo que desplace un fluido, sin importar si está sumergido por completo o solo una parte de él. La definición explícitamente indica \"Todo cuerpo total o parcialmente sumergido\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_010",
+      "pregunta": "La ecuación fundamental de una prensa hidráulica es $$F_1/A_1 = F_2/A_2$$. ¿Qué representa físicamente esta igualdad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la fuerza por unidad de área (presión) es la misma en ambos émbolos.",
+        "B": "Que las fuerzas son iguales independientemente del área.",
+        "C": "Que el trabajo realizado en ambos émbolos es diferente.",
+        "D": "Que la velocidad del fluido es constante.",
+        "E": "Que las áreas de los émbolos deben ser idénticas."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La expresión $$F/A$$ corresponde a la definición de presión ($P$). Por lo tanto, la ecuación $$F_1/A_1 = F_2/A_2$$ es una manifestación del Principio de Pascal, que establece que la presión aplicada a un fluido confinado se transmite por igual a todos los puntos del fluido y a las paredes del recipiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_011",
+      "pregunta": "¿Qué condición debe cumplirse entre las áreas $A_1$ y $A_2$ para que la Ventaja Mecánica, definida como $$VM = A_2/A_1$$, sea mayor a 1?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$A_2 < A_1$$",
+        "B": "$$A_2 = A_1$$",
+        "C": "$$A_2 > A_1$$",
+        "D": "$$A_1 = 0$$",
+        "E": "$$A_2 = 1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que un cociente sea mayor que 1, el numerador debe ser mayor que el denominador. En la fórmula $$VM = A_2/A_1$$, para que $$VM > 1$$, es necesario que el área de salida $A_2$ sea mayor que el área de entrada $A_1$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_012",
+      "pregunta": "Si la fuerza de salida $F_2$ es el resultado de la operación $$F_2 = (A_2/A_1)F_1$$, ¿por qué se le llama al factor $$A_2/A_1$$ \"ventaja mecánica\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque siempre reduce la fuerza aplicada.",
+        "B": "Porque representa la ganancia o multiplicación de la fuerza de entrada.",
+        "C": "Porque iguala las fuerzas en ambos émbolos.",
+        "D": "Porque mide el desplazamiento de los émbolos.",
+        "E": "Porque es una constante universal sin unidades."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Se le llama \"ventaja mecánica\" porque este factor determina en qué proporción se amplifica la fuerza inicial. Si $$A_2 > A_1$$, el factor es mayor que 1, lo que resulta en una fuerza de salida $F_2$ mayor que la fuerza de entrada $F_1$, representando una \"ventaja\" en términos de fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_013",
+      "pregunta": "Si se sabe que la Ventaja Mecánica de un sistema es $$VM = 10$$, y que $$VM = F_2/F_1$$, ¿qué se puede inferir sobre las fuerzas del sistema?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fuerza de entrada $F_1$ es 10 veces mayor que la fuerza de salida $F_2$.",
+        "B": "La fuerza de salida $F_2$ es 10 veces mayor que la fuerza de entrada $F_1$.",
+        "C": "Ambas fuerzas son iguales a 10.",
+        "D": "La diferencia entre las fuerzas es 10.",
+        "E": "El área de entrada es 10 veces mayor que el área de salida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si $$VM = 10$$, entonces $$F_2/F_1 = 10$$. Al despejar $F_2$, obtenemos $$F_2 = 10 \\times F_1$$. Esto significa que la fuerza de salida es 10 veces la fuerza que se aplicó en la entrada, lo cual representa una multiplicación significativa de la fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_014",
+      "pregunta": "Considerando las relaciones $$F_2 > F_1$$ y $$h_1 > h_2$$ en una prensa hidráulica, ¿qué principio se conserva a pesar de la multiplicación de la fuerza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía, ya que se compensa una mayor fuerza con un menor desplazamiento.",
+        "B": "La fuerza, ya que la suma de fuerzas es cero.",
+        "C": "El desplazamiento, ya que $$h_1$$ y $$h_2$$ son proporcionales.",
+        "D": "La presión, que disminuye en el émbolo grande.",
+        "E": "El área, que se mantiene constante en todo el sistema."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Aunque no se menciona explícitamente, la física subyacente es la conservación de la energía (o el trabajo). El trabajo de entrada ($$W_1 = F_1 h_1$$) debe ser igual al trabajo de salida ($$W_2 = F_2 h_2$$). Para que esto se cumpla, si la fuerza $F_2$ es mucho mayor que $F_1$, el desplazamiento $h_2$ debe ser correspondientemente menor que $h_1$. Se gana fuerza a expensas de la distancia recorrida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_056_015",
+      "pregunta": "Para diseñar un elevador hidráulico que levante un coche aplicando una fuerza humana pequeña, ¿qué configuración de áreas $A_{entrada}$ y $A_{salida}$ es la más adecuada según el concepto de ventaja mecánica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un área de entrada mucho mayor que el área de salida ($$A_{entrada} >> A_{salida}$$).",
+        "B": "Un área de entrada ligeramente mayor que el área de salida ($$A_{entrada} > A_{salida}$$).",
+        "C": "Áreas de entrada y salida iguales ($$A_{entrada} = A_{salida}$$).",
+        "D": "Un área de salida mucho mayor que el área de entrada ($$A_{salida} >> A_{entrada}$$).",
+        "E": "La relación de áreas no afecta la capacidad de levantamiento."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para obtener una gran fuerza de salida ($F_2$, donde está el coche) a partir de una pequeña fuerza de entrada ($F_1$, la fuerza humana), se necesita una ventaja mecánica ($VM$) muy grande. Dado que $$VM = A_{salida}/A_{entrada}$$, se logra una $VM$ grande haciendo que el área de salida sea mucho mayor que el área de entrada. Esto multiplicará la fuerza de entrada de manera efectiva.",
+      "imagen": null
+    }
+  ]
+}

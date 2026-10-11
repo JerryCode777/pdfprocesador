@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 11,
+  "total_temas": 137,
+  "titulo_tema": "Movimiento de Proyectiles (Parabólico y Semiparabólico)",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_011_001",
+      "pregunta": "¿Qué dos tipos de movimiento se combinan para describir el movimiento de un proyectil en un modelo idealizado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Movimiento rectilíneo uniforme horizontal y movimiento rectilíneo uniforme vertical.",
+        "B": "Movimiento horizontal con velocidad constante y movimiento vertical con aceleración constante.",
+        "C": "Movimiento horizontal con aceleración constante y movimiento vertical con velocidad constante.",
+        "D": "Movimiento circular uniforme y caída libre.",
+        "E": "Movimiento ondulatorio y movimiento rectilíneo acelerado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El movimiento de un proyectil se analiza descomponiéndolo en dos movimientos independientes: un movimiento horizontal con velocidad constante (M.R.U.) y un movimiento vertical con aceleración constante debido a la gravedad (M.V.C.L. o caída libre).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_002",
+      "pregunta": "En un movimiento semiparabólico, ¿cuál es el valor de la componente vertical de la velocidad inicial ($$v_{0y}$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Depende de la velocidad horizontal.",
+        "B": "Es igual a la aceleración de la gravedad.",
+        "C": "Es siempre diferente de cero.",
+        "D": "$$0 \\, m/s$$",
+        "E": "Es un valor negativo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El movimiento semiparabólico se caracteriza por un lanzamiento puramente horizontal. Esto significa que en el instante inicial, el proyectil no tiene velocidad hacia arriba ni hacia abajo, por lo que su componente vertical de la velocidad inicial ($$v_{0y}$$) es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_003",
+      "pregunta": "¿En qué punto de la trayectoria de un movimiento parabólico la componente vertical de la velocidad ($$v_y$$) se vuelve nula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En el punto de lanzamiento.",
+        "B": "En el punto donde alcanza su altura máxima.",
+        "C": "Justo antes de tocar el suelo.",
+        "D": "A la mitad de su alcance horizontal.",
+        "E": "Nunca se vuelve nula."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un proyectil alcanza su altura máxima en el instante en que deja de subir y comienza a bajar. En ese preciso momento de transición, su movimiento vertical se detiene instantáneamente, lo que significa que la componente vertical de la velocidad ($$v_y$$) es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_004",
+      "pregunta": "Según el modelo idealizado, ¿cuál es la única aceleración que actúa sobre un proyectil una vez que ha sido lanzado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una aceleración horizontal constante.",
+        "B": "La aceleración gravitacional, que es exclusivamente vertical.",
+        "C": "Una aceleración que disminuye con la altura.",
+        "D": "La resistencia del aire.",
+        "E": "No hay ninguna aceleración."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En el modelo idealizado del movimiento de proyectiles, se ignoran efectos como la resistencia del aire. Por lo tanto, la única fuerza que actúa sobre el objeto es la gravedad, que produce una aceleración constante y dirigida verticalmente hacia abajo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_005",
+      "pregunta": "¿Bajo qué ángulo de lanzamiento se consigue el alcance horizontal máximo ($$D_{máx}$$) para una rapidez inicial dada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$30°$$",
+        "B": "$$90°$$",
+        "C": "$$60°$$",
+        "D": "$$0°$$",
+        "E": "$$45°$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El alcance horizontal de un proyectil depende del seno del doble del ángulo de lanzamiento ($$\\sin 2\\alpha$$). Esta función alcanza su valor máximo (1) cuando $$2\\alpha = 90°$$, lo que implica que el ángulo de lanzamiento $$\\alpha$$ debe ser de $$45°$$ para obtener el máximo alcance horizontal posible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_006",
+      "pregunta": "¿Cómo se comporta la componente horizontal de la velocidad ($$v_x$$) a lo largo de toda la trayectoria de un proyectil?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta durante la subida y disminuye durante la bajada.",
+        "B": "Es cero en el punto de altura máxima.",
+        "C": "Disminuye constantemente debido a la gravedad.",
+        "D": "Permanece constante durante todo el movimiento.",
+        "E": "Es igual a la componente vertical de la velocidad."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En el modelo idealizado, la gravedad es la única fuerza que actúa y lo hace en la dirección vertical. No hay fuerzas horizontales, por lo tanto, no hay aceleración horizontal. Esto significa que la componente horizontal de la velocidad ($$v_x$$) no cambia y permanece constante a lo largo de toda la trayectoria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_007",
+      "pregunta": "Si un objeto se deja caer verticalmente y otro es lanzado horizontalmente desde la misma altura y al mismo tiempo, ¿cuál de las siguientes afirmaciones sobre su movimiento vertical es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El objeto lanzado horizontalmente tarda más en caer.",
+        "B": "Ambos recorren las mismas distancias verticales en los mismos intervalos de tiempo.",
+        "C": "El objeto que cae verticalmente acelera más rápido.",
+        "D": "La velocidad vertical final del objeto lanzado horizontalmente es cero.",
+        "E": "El objeto que cae verticalmente llega primero al suelo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El movimiento vertical de un proyectil es independiente de su movimiento horizontal. Ambos objetos parten con una velocidad vertical inicial de cero y están sujetos a la misma aceleración gravitacional. Por lo tanto, caerán a la misma velocidad y recorrerán distancias verticales idénticas en los mismos tiempos, llegando al suelo simultáneamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_008",
+      "pregunta": "En un movimiento parabólico que inicia y termina al mismo nivel, ¿qué relación existe entre la rapidez de subida y la rapidez de bajada en puntos a la misma altura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La rapidez de subida es mayor que la de bajada.",
+        "B": "La rapidez de bajada es mayor que la de subida.",
+        "C": "La rapidez de subida es igual a la rapidez de bajada.",
+        "D": "La rapidez de bajada es el doble de la rapidez de subida.",
+        "E": "No existe una relación constante entre ellas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Debido a la simetría de la parábola y la conservación de la energía en el modelo ideal, la rapidez (el módulo de la velocidad) de un proyectil en un punto determinado durante su ascenso es igual a la rapidez en el punto de la misma altura durante su descenso. Las direcciones de las velocidades serán diferentes, pero sus magnitudes (rapidez) serán iguales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_009",
+      "pregunta": "¿Cuál es la fórmula para calcular el módulo de la velocidad total ($$v$$) de un proyectil en cualquier instante, dadas sus componentes horizontal ($$v_x$$) y vertical ($$v_y$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$v = v_x + v_y$$",
+        "B": "$$v = \\frac{v_x + v_y}{2}$$",
+        "C": "$$v = |v_y - v_x|$$",
+        "D": "$$v = \\sqrt{v_x^2 - v_y^2}$$",
+        "E": "$$v = \\sqrt{v_x^2 + v_y^2}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Las componentes de la velocidad, $$v_x$$ y $$v_y$$, son vectores perpendiculares entre sí. La velocidad total ($$v$$) es el vector resultante. Su módulo se calcula aplicando el Teorema de Pitágoras al triángulo rectángulo formado por estas componentes, resultando en $$v = \\sqrt{v_x^2 + v_y^2}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_010",
+      "pregunta": "Si se lanzan dos proyectiles con la misma rapidez inicial, uno con un ángulo de $$30°$$ y otro con un ángulo de $$60°$$, ¿qué se puede afirmar sobre sus alcances horizontales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El de $$60°$$ tendrá un alcance mayor.",
+        "B": "El de $$30°$$ tendrá un alcance mayor.",
+        "C": "Ambos tendrán el mismo alcance horizontal.",
+        "D": "El de $$60°$$ tendrá el doble de alcance.",
+        "E": "No se puede determinar sin conocer la velocidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para una misma rapidez inicial, los ángulos de lanzamiento que son complementarios (suman $$90°$$, como $$30°$$ y $$60°$$) producen el mismo alcance horizontal. Esto se debe a que la fórmula del alcance, $$D = \\frac{v_0^2 \\sin 2\\alpha}{g}$$, da el mismo resultado para ángulos complementarios, ya que $$\\sin(2\\alpha) = \\sin(180° - 2\\alpha)$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_011",
+      "pregunta": "La ecuación para la altura máxima en un movimiento parabólico es $$H_{máx} = \\frac{v_0^2 \\sin^2 \\alpha}{2g}$$. ¿Qué componente de la velocidad inicial determina principalmente esta altura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La componente horizontal de la velocidad inicial, $$v_0 \\cos \\alpha$$.",
+        "B": "La componente vertical de la velocidad inicial, $$v_0 \\sin \\alpha$$.",
+        "C": "La rapidez inicial total, $$v_0$$.",
+        "D": "La aceleración de la gravedad, $$g$$.",
+        "E": "El ángulo de lanzamiento, $$\\alpha$$, únicamente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La altura máxima que alcanza un proyectil depende exclusivamente de su movimiento vertical. La responsable de que el proyectil suba contra la gravedad es la componente vertical de la velocidad inicial, $$v_{0y} = v_0 \\sin \\alpha$$. Cuanto mayor sea esta componente, más alto llegará el proyectil, como se refleja en la fórmula donde este término aparece al cuadrado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_012",
+      "pregunta": "En un movimiento semiparabólico, ¿cuál de las siguientes ecuaciones relaciona correctamente la distancia horizontal recorrida ($$d_x$$) con la velocidad horizontal ($$v_x$$) y el tiempo de vuelo ($$t$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$d_x = v_x t + \\frac{1}{2}gt^2$$",
+        "B": "$$d_x = \\frac{v_x}{t}$$",
+        "C": "$$d_x = v_x t$$",
+        "D": "$$d_x = \\frac{1}{2}v_x t^2$$",
+        "E": "$$d_x = \\sqrt{v_x t}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El movimiento en la dirección horizontal es un Movimiento Rectilíneo Uniforme (M.R.U.), ya que no hay aceleración horizontal. La ecuación fundamental del M.R.U. establece que la distancia es igual a la velocidad por el tiempo. Por lo tanto, la distancia horizontal o alcance ($$d_x$$) es el producto de la velocidad horizontal constante ($$v_x$$) y el tiempo total de vuelo ($$t$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_013",
+      "pregunta": "Un proyectil se lanza horizontalmente desde una altura con rapidez $$v_x$$, logrando un alcance $$d_x$$. Si, desde la misma altura, se lanza otro proyectil con el triple de rapidez horizontal ($$3v_x$$), ¿cuál será su nuevo alcance horizontal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$d_x$$",
+        "B": "$$\\frac{d_x}{3}$$",
+        "C": "$$9d_x$$",
+        "D": "$$3d_x$$",
+        "E": "$$\\sqrt{3}d_x$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El tiempo de caída en un lanzamiento semiparabólico solo depende de la altura de lanzamiento, no de la velocidad horizontal. Como ambos proyectiles se lanzan desde la misma altura, su tiempo de vuelo ($$t$$) será idéntico. El alcance horizontal se calcula como $$d_x = v_x t$$. Si la velocidad horizontal se triplica a $$3v_x$$, el nuevo alcance será $$(3v_x)t = 3(v_x t) = 3d_x$$. El alcance es directamente proporcional a la velocidad de lanzamiento horizontal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_014",
+      "pregunta": "Sabiendo que existe una relación $$ \\tan \\alpha = \\frac{4H_{máx}}{D} $$, si un proyectil se lanza de tal manera que su altura máxima ($$H_{máx}$$) es igual a un cuarto de su alcance horizontal ($$D$$), ¿cuál fue el ángulo de lanzamiento $$\\alpha$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$30°$$",
+        "B": "$$60°$$",
+        "C": "$$45°$$",
+        "D": "$$75°$$",
+        "E": "$$15°$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Se nos da la condición $$H_{máx} = \\frac{D}{4}$$. Sustituyendo esta condición en la relación proporcionada: $$ \\tan \\alpha = \\frac{4(\\frac{D}{4})}{D} $$. Simplificando la expresión, obtenemos $$ \\tan \\alpha = \\frac{D}{D} = 1 $$. El ángulo cuya tangente es 1 es $$45°$$. Por lo tanto, el ángulo de lanzamiento fue de $$45°$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_011_015",
+      "pregunta": "La ecuación para el tiempo de vuelo de un proyectil en movimiento parabólico es $$t_v = \\frac{2v_0 \\sin \\alpha}{g}$$. ¿Qué nos indica esta fórmula sobre la relación entre el tiempo de vuelo y la componente vertical de la velocidad inicial?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El tiempo de vuelo es inversamente proporcional a la componente vertical de la velocidad inicial.",
+        "B": "El tiempo de vuelo es directamente proporcional al cuadrado de la componente vertical de la velocidad inicial.",
+        "C": "El tiempo de vuelo es directamente proporcional a la componente vertical de la velocidad inicial ($$v_{0y}$$).",
+        "D": "El tiempo de vuelo solo depende de la componente horizontal de la velocidad.",
+        "E": "El tiempo de vuelo es independiente de la velocidad inicial."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La componente vertical de la velocidad inicial se define como $$v_{0y} = v_0 \\sin \\alpha$$. Si sustituimos esto en la fórmula del tiempo de vuelo, obtenemos $$t_v = \\frac{2v_{0y}}{g}$$. Esta forma de la ecuación muestra claramente que el tiempo de vuelo ($$t_v$$) es directamente proporcional a la componente vertical de la velocidad inicial ($$v_{0y}$$). A mayor velocidad inicial hacia arriba, más tiempo tardará el proyectil en subir y bajar.",
+      "imagen": null
+    }
+  ]
+}

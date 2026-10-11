@@ -3,5 +3,231 @@
   "numero_tema": 249,
   "total_temas": 322,
   "titulo_tema": "Aromatic Hydrocarbons",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_249_001",
+      "pregunta": "¿En qué dos grandes grupos se clasifican principalmente los hidrocarburos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Saturados e Insaturados",
+        "B": "Alcanos y Alquenos",
+        "C": "Alifáticos y Aromáticos",
+        "D": "Cíclicos y Acíclicos",
+        "E": "Monocíclicos y Policíclicos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La clasificación principal de los hidrocarburos los divide en dos categorías fundamentales: Alifáticos, que incluyen compuestos de cadena abierta (acíclicos) y cerrada (cíclicos) que no cumplen los criterios de aromaticidad, y Aromáticos, que son un grupo especial de compuestos cíclicos con una estabilidad excepcional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_002",
+      "pregunta": "¿Cuál es el significado original de la palabra \"alifático\" en el contexto de la química orgánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De olor agradable",
+        "B": "Como grasa",
+        "C": "Cadena cerrada",
+        "D": "Muy estable",
+        "E": "Insaturado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Originalmente, los compuestos orgánicos se clasificaron según sus propiedades físicas y olores. A los compuestos que no poseían los olores característicos de los compuestos aromáticos se les llamó alifáticos, un término que significa \"como grasa\", debido a su semejanza con las grasas animales y vegetales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_003",
+      "pregunta": "¿Cuál es la fórmula molecular del benceno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$CH$$",
+        "B": "$$C_2H_2$$",
+        "C": "$$C_6H_{12}$$",
+        "D": "$$C_6H_6$$",
+        "E": "$$C_8H_8$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En 1834, Eilhard Mitscherlich determinó la masa molecular del benceno en aproximadamente 78 g/mol, lo que corresponde a una fórmula molecular de $$C_6H_6$$. La fórmula empírica, que es la relación más simple de átomos, es $$CH$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_004",
+      "pregunta": "¿Qué científico aisló por primera vez el benceno en 1825 a partir del gas de alumbrado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Eilhard Mitscherlich",
+        "B": "Friedrich Wöhler",
+        "C": "Michael Faraday",
+        "D": "August Kekulé",
+        "E": "Antoine Lavoisier"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Michael Faraday fue el primero en aislar y describir el benceno en 1825. Obtuvo este compuesto puro, con un punto de ebullición de 80 °C, a partir del residuo aceitoso del gas utilizado para el alumbrado en Londres.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_005",
+      "pregunta": "En la nomenclatura IUPAC de hidrocarburos, ¿qué prefijo indica la presencia de 22 átomos de carbono?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Met-",
+        "B": "Et-",
+        "C": "Henicos-",
+        "D": "Doicos-",
+        "E": "Eicos-"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Según la tabla de prefijos de la nomenclatura IUPAC para hidrocarburos, el prefijo para indicar 22 átomos de carbono es \"Doicos-\" o \"docos-\". \"Henicos-\" corresponde a 21 carbonos, \"Et-\" a 2 y \"Met-\" a 1.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_006",
+      "pregunta": "¿Qué regla establece que el número de electrones pi ($$e^- \\pi$$) de un compuesto aromático debe ser igual a $$4n + 2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Regla de Faraday",
+        "B": "Regla de Mitscherlich",
+        "C": "Regla del Octeto",
+        "D": "Regla de Hückel",
+        "E": "Regla de los Orbitales p"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Regla de Hückel es un criterio fundamental para la aromaticidad. Establece que un compuesto cíclico, plano y con un sistema continuo de orbitales p solo será aromático si posee un número de electrones pi ($$e^- \\pi$$) igual a $$4n + 2$$, donde 'n' es un número entero no negativo (0, 1, 2, ...).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_007",
+      "pregunta": "Actualmente, ¿qué propiedad define principalmente a un compuesto como \"aromático\", más allá de su olor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su origen natural del incienso",
+        "B": "Su estructura exclusivamente monocíclica",
+        "C": "Su excepcional estabilidad química",
+        "D": "Su alta reactividad en reacciones de adición",
+        "E": "Su capacidad para disolver grasas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque el término \"aromático\" se originó por los olores agradables de estos compuestos, su significado en química ha evolucionado. Hoy en día, el término se aplica a compuestos que demuestran una estabilidad termodinámica excepcional debido a la deslocalización de sus electrones pi en un sistema cíclico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_008",
+      "pregunta": "Para que un compuesto sea aromático, ¿qué característica deben tener todos los átomos que forman el anillo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tener hibridación $$sp^3$$",
+        "B": "Estar enlazados a dos átomos de hidrógeno",
+        "C": "Formar únicamente enlaces sencillos",
+        "D": "Tener un orbital p sin hibridar",
+        "E": "Ser eléctricamente neutros"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Uno de los criterios esenciales para la aromaticidad es que cada átomo en el anillo cíclico debe poseer un orbital p sin hibridar. Estos orbitales p deben ser paralelos entre sí para poder traslaparse y formar un sistema continuo de electrones pi deslocalizados por encima y por debajo del plano del anillo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_009",
+      "pregunta": "¿Cuál fue la principal contribución de Eilhard Mitscherlich al conocimiento del benceno en 1834?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Lo aisló por primera vez y lo nombró bencina",
+        "B": "Sintetizó el compuesto y determinó su fórmula molecular $$C_6H_6$$",
+        "C": "Descubrió que era un hidrocarburo alifático",
+        "D": "Propuso la estructura de enlaces pi conjugados",
+        "E": "Demostró que su estructura era de cadena abierta"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Eilhard Mitscherlich logró sintetizar el benceno calentando ácido benzoico. Su contribución clave fue determinar, mediante la densidad de vapor, que su masa molecular era de aproximadamente 78, lo que confirmó que su fórmula molecular era $$C_6H_6$$, y no solo la fórmula empírica $$CH$$ que ya se conocía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_010",
+      "pregunta": "Los cicloalquinos, según la clasificación proporcionada, se consideran parte de los hidrocarburos...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aromáticos",
+        "B": "Alifáticos acíclicos saturados",
+        "C": "Alifáticos acíclicos insaturados",
+        "D": "Alifáticos cíclicos",
+        "E": "Alcanos policíclicos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La clasificación estructural muestra que los hidrocarburos se dividen en Alifáticos y Aromáticos. Dentro de los Alifáticos, existen los acíclicos (cadena abierta) y los cíclicos (cadena cerrada). Los cicloalquinos, al ser de cadena cerrada, pertenecen a la categoría de hidrocarburos alifáticos cíclicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_011",
+      "pregunta": "¿Cuál de las siguientes afirmaciones NO es un criterio para la aromaticidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La estructura debe ser cíclica y contener enlaces pi.",
+        "B": "La deslocalización de electrones pi debe disminuir la energía electrónica.",
+        "C": "La molécula debe tener un número par de átomos de carbono.",
+        "D": "La estructura debe ser plana o casi plana.",
+        "E": "Cada átomo del anillo debe tener un orbital p sin hibridar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los criterios para la aromaticidad son: ser cíclico con enlaces pi conjugados, ser plano, que cada átomo del anillo tenga un orbital p, que la deslocalización disminuya la energía y que cumpla la regla de Hückel. No existe un requisito sobre tener un número par de átomos de carbono; existen iones aromáticos como el catión ciclopropenilo ($$C_3H_3^+$$) que son aromáticos con un número impar de carbonos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_012",
+      "pregunta": "¿De dónde proviene etimológicamente el nombre \"benceno\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Del nombre de su descubridor, Benjamin Faraday.",
+        "B": "De la palabra griega para \"anillo\", \"benk\", y el sufijo \"-eno\".",
+        "C": "De la palabra \"benzoe\", el nombre del incienso de Java, y el sufijo \"-eno\".",
+        "D": "De la combinación de \"bencina\" y \"oxígeno\".",
+        "E": "Del término latino \"benzenum\" que significa estable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término \"benceno\" se deriva de dos partes: \"benzoe\", que era el nombre dado al incienso de Java (del cual se obtenía el ácido benzoico), y el sufijo \"-eno\", que en la nomenclatura química se utiliza para designar a los hidrocarburos insaturados.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_013",
+      "pregunta": "Un compuesto cíclico y plano tiene un sistema conjugado de 6 electrones pi. Según la regla de Hückel, ¿se considera aromático?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "No, porque 6 no es un múltiplo de 4.",
+        "B": "Sí, porque cumple la regla $$4n + 2$$ para $$n = 1$$.",
+        "C": "No, porque solo los compuestos con 2 electrones pi son aromáticos.",
+        "D": "Sí, porque cumple la regla $$4n + 2$$ para $$n = 2$$.",
+        "E": "Imposible de determinar sin conocer la estructura exacta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para determinar si es aromático según la regla de Hückel, igualamos el número de electrones pi a la fórmula $$4n + 2$$. En este caso, $$6 = 4n + 2$$. Al resolver para n, obtenemos $$4 = 4n$$, lo que da $$n = 1$$. Como 'n' es un número entero, el compuesto cumple con la regla de Hückel y, si cumple los demás criterios, es aromático. El benceno es el ejemplo más común de este caso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_014",
+      "pregunta": "¿Por qué es fundamental que una molécula sea plana para ser considerada aromática?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Para que todos los átomos de carbono tengan hibridación $$sp^2$$.",
+        "B": "Para minimizar la repulsión entre los átomos de hidrógeno.",
+        "C": "Para asegurar que el número de electrones pi cumpla la regla de Hückel.",
+        "D": "Para permitir el traslape lateral continuo y efectivo de los orbitales p.",
+        "E": "Porque las moléculas planas son siempre más estables que las no planas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La planaridad es crucial porque asegura que los orbitales p de cada átomo del anillo estén alineados de forma paralela. Esta alineación permite un traslape lateral efectivo y continuo por encima y por debajo del plano del anillo, formando un único orbital molecular cíclico. Este traslape es lo que permite la deslocalización completa de los electrones pi, que es la fuente de la estabilidad aromática.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_249_015",
+      "pregunta": "De acuerdo con la regla de Hückel, ¿cuál de los siguientes números de electrones pi ($$e^- \\pi$$) NO correspondería a un compuesto aromático?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "2",
+        "B": "6",
+        "C": "8",
+        "D": "10",
+        "E": "14"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de Hückel es $$#e^- \\pi = 4n + 2$$, donde n debe ser un entero (0, 1, 2...). Verificamos cada opción: \n- Para 2 electrones: $$2 = 4(0) + 2$$, $$n=0$$. Es aromático. \n- Para 6 electrones: $$6 = 4(1) + 2$$, $$n=1$$. Es aromático. \n- Para 8 electrones: $$8 = 4n + 2 \\rightarrow 6 = 4n \\rightarrow n = 1.5$$. No es un entero. NO es aromático (es anti-aromático). \n- Para 10 electrones: $$10 = 4(2) + 2$$, $$n=2$$. Es aromático. \n- Para 14 electrones: $$14 = 4(3) + 2$$, $$n=3$$. Es aromático. \nPor lo tanto, un sistema con 8 electrones pi no cumple la regla de Hückel.",
+      "imagen": null
+    }
+  ]
 }

@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 303,
+  "total_temas": 320,
+  "titulo_tema": "Terapia Génica",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_303_001",
+      "pregunta": "¿Cuál es la definición de terapia génica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El estudio de la ubicación cromosómica de todos los genes humanos.",
+        "B": "La inserción de genes sanos en las células de un paciente para corregir un defecto génico.",
+        "C": "La eliminación de genes defectuosos de un embrión antes de la implantación.",
+        "D": "El proceso de secuenciación de ADN para identificar enfermedades.",
+        "E": "La creación de proteínas sintéticas para reemplazar las anómalas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La terapia génica se define como la introducción de genes funcionales o \"sanos\" en las células de un individuo con el fin de corregir un defecto genético que es la causa de una enfermedad. Las otras opciones describen otros procedimientos genéticos como el Proyecto del Genoma Humano (A) o son aplicaciones distintas de la biotecnología.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_002",
+      "pregunta": "¿A qué tipo de enfermedades se dirige principalmente la terapia génica en la actualidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Enfermedades causadas por virus y bacterias.",
+        "B": "Enfermedades monogénicas.",
+        "C": "Enfermedades multifactoriales como la diabetes.",
+        "D": "Trastornos causados por el deterioro ambiental.",
+        "E": "Todos los tipos de cáncer sin excepción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Actualmente, la terapia génica se enfoca en las enfermedades monogénicas, que son aquellas causadas por la mutación o defecto en un solo gen. Esto se debe a que el objetivo es intercambiar un único gen defectuoso por uno funcional, lo cual es más abordable que tratar enfermedades complejas que involucran múltiples genes y factores ambientales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_003",
+      "pregunta": "¿Cuál es la función principal del Proyecto del Genoma Humano?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Curar enfermedades genéticas mediante la inserción de genes.",
+        "B": "Identificar la ubicación y el código de cada gen humano en los cromosomas.",
+        "C": "Analizar el impacto del deterioro ambiental en el ADN.",
+        "D": "Crear un catálogo de todas las proteínas humanas.",
+        "E": "Prevenir las mutaciones genéticas en la población."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Proyecto del Genoma Humano fue una iniciativa científica cuyo objetivo fundamental era mapear el genoma humano, es decir, determinar la ubicación cromosómica y la secuencia de nucleótidos de todos los genes humanos. Esta información es crucial para entender tanto los procesos celulares normales como las bases de las enfermedades genéticas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_004",
+      "pregunta": "¿Qué se define como el daño y desequilibrio que los seres humanos provocan en los ecosistemas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cambio climático.",
+        "B": "Desertificación.",
+        "C": "Terapia génica.",
+        "D": "Deterioro ambiental.",
+        "E": "Reducción de la biodiversidad."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El deterioro ambiental es el término general que se utiliza para describir el daño, desequilibrio y mal uso que los seres humanos causan a los ecosistemas, su biodiversidad y los servicios que proveen. El cambio climático, la desertificación y la reducción de la biodiversidad son manifestaciones específicas de este deterioro a escala global.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_005",
+      "pregunta": "Según las causas del cambio climático actual, ¿qué actividad humana contribuye a este fenómeno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La reforestación de zonas áridas.",
+        "B": "El uso de energías limpias como la solar.",
+        "C": "La quema de combustibles fósiles.",
+        "D": "La protección de la capa de ozono.",
+        "E": "La implementación de la terapia génica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cambio climático actual es provocado principalmente por actividades humanas. Entre las causas mencionadas se encuentra la quema de combustibles fósiles (carbón, petróleo y gas), que libera grandes cantidades de gases de efecto invernadero a la atmósfera, aumentando la temperatura global.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_006",
+      "pregunta": "¿Cuál es uno de los principales obstáculos técnicos que enfrenta la terapia génica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La incapacidad para identificar qué genes causan enfermedades.",
+        "B": "La escasez de pacientes dispuestos a participar en ensayos clínicos.",
+        "C": "La dificultad de encontrar una forma efectiva de hacer llegar el gen sano a las células y asegurar su funcionamiento.",
+        "D": "La imposibilidad de sintetizar un gen sano en el laboratorio.",
+        "E": "El desconocimiento total de las funciones de los genes humanos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Uno de los mayores desafíos de la terapia génica es la entrega (delivery) del material genético. Se necesita encontrar la mejor forma de introducir el gen sano en las células correctas, lograr que se integre y se exprese adecuadamente para producir la proteína funcional, y todo ello sin causar efectos adversos. La identificación de genes (A) es una tarea del Proyecto Genoma Humano y ya se conocen muchos, y la síntesis de genes (D) es una técnica establecida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_007",
+      "pregunta": "En un tratamiento de terapia génica donde coexisten el gen sano y el defectuoso, ¿cuál es el resultado esperado del gen sano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que elimine físicamente al gen defectuoso del cromosoma.",
+        "B": "Que repare la mutación en la secuencia del gen original.",
+        "C": "Que sintetice suficiente proteína funcional para suplantar la función de la anómala.",
+        "D": "Que bloquee la replicación de las células que contienen el gen mutado.",
+        "E": "Que altere el color de los ojos o el pelo como efecto secundario."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando el gen sano se introduce pero no reemplaza al gen defectuoso, el objetivo es que el gen nuevo se exprese activamente y produzca una cantidad suficiente de la proteína correcta (funcional). Esta proteína suplirá la función que la proteína anómala (o ausente) no puede realizar, aliviando así los síntomas de la enfermedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_008",
+      "pregunta": "¿Cuál es la principal diferencia entre el cambio climático actual y los ciclos climáticos pasados de la Tierra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El cambio actual es un fenómeno de enfriamiento, a diferencia de los anteriores.",
+        "B": "Los cambios pasados fueron más rápidos y abruptos que el actual.",
+        "C": "El cambio actual es de origen antropogénico, mientras que los pasados eran naturales.",
+        "D": "El cambio actual solo afecta a la atmósfera, no a los océanos.",
+        "E": "Los cambios pasados no involucraron glaciaciones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque la Tierra ha experimentado ciclos naturales de calentamiento y enfriamiento (como las glaciaciones) a lo largo de su historia, el cambio climático actual se distingue porque no es un fenómeno natural. Está provocado por las actividades humanas, como la quema de combustibles fósiles, que han acelerado el aumento de la temperatura global a un ritmo sin precedentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_009",
+      "pregunta": "¿Qué riesgo fundamental se debe evitar al introducir ADN recombinante en un paciente durante una terapia génica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el ADN recombinante sea idéntico al gen original.",
+        "B": "Que el paciente se vuelva dependiente del tratamiento.",
+        "C": "Que la inserción del gen cause nuevos o peores problemas de salud.",
+        "D": "Que el tratamiento sea económicamente muy costoso.",
+        "E": "Que el gen sano no se transmita a la descendencia."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las preocupaciones más críticas en la terapia génica es la seguridad del paciente. La introducción de ADN externo (recombinante) en las células conlleva el riesgo de que la inserción ocurra en un lugar incorrecto del genoma, lo que podría desactivar genes importantes o activar oncogenes, causando nuevos problemas de salud, como el cáncer, que podrían ser peores que la enfermedad original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_010",
+      "pregunta": "¿Cuál de los siguientes es un ejemplo de deterioro ambiental a escala global?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La contaminación acústica en una ciudad.",
+        "B": "El adelgazamiento de la capa de ozono.",
+        "C": "Un vertido de petróleo en una bahía específica.",
+        "D": "La sobrepesca en un lago.",
+        "E": "La acumulación de basura en un vertedero local."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El deterioro ambiental puede manifestarse a distintas escalas. El adelgazamiento de la capa de ozono es un fenómeno que afecta a toda la estratosfera del planeta, por lo que es un problema a escala global. Las otras opciones representan problemas ambientales graves pero de alcance local o regional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_011",
+      "pregunta": "¿Qué relación existe entre el Proyecto del Genoma Humano y el potencial de la terapia génica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Proyecto del Genoma Humano es una forma de terapia génica.",
+        "B": "La terapia génica fue el método utilizado para completar el Proyecto del Genoma Humano.",
+        "C": "El Proyecto del Genoma Humano proporciona el conocimiento fundamental sobre qué genes corregir con la terapia génica.",
+        "D": "Ambos son métodos para estudiar el deterioro ambiental a nivel molecular.",
+        "E": "No existe ninguna relación entre ambos conceptos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Proyecto del Genoma Humano (PGH) es una herramienta de diagnóstico y conocimiento, no un tratamiento. Al identificar la ubicación y función de los genes, el PGH permite a los científicos saber qué gen está causando una enfermedad específica. Este conocimiento es el primer paso indispensable para poder diseñar una terapia génica que intente corregir ese gen defectuoso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_012",
+      "pregunta": "Además de los genes que causan enfermedades, ¿qué otro tipo de características determinan los genes humanos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente la respuesta a los fármacos.",
+        "B": "Solo los procesos de deterioro ambiental.",
+        "C": "La ubicación geográfica de una persona.",
+        "D": "Procesos celulares normales y rasgos como el color de ojos o la altura.",
+        "E": "El nivel de contaminación en los ecosistemas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El genoma humano contiene la información no solo para las enfermedades genéticas, sino también para el funcionamiento normal del organismo. Los genes controlan procesos celulares básicos y determinan una vasta gama de características físicas y fisiológicas, como el color del pelo, el color de los ojos, la altura y el peso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_013",
+      "pregunta": "Considerando el objetivo de la terapia génica de intercambiar un gen mutado por uno funcional, ¿qué escenario representa el desafío más complejo para este enfoque?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una enfermedad donde un solo gen produce una proteína defectuosa.",
+        "B": "Una enfermedad causada por la ausencia de una proteína debido a una mutación en un gen.",
+        "C": "Una enfermedad como el Alzheimer, donde múltiples genes interactúan con factores ambientales complejos.",
+        "D": "Una enfermedad en la que se conoce la ubicación exacta del gen defectuoso.",
+        "E": "Una enfermedad que afecta a un tipo de célula fácilmente accesible, como las de la sangre."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La terapia génica actual se centra en enfermedades monogénicas (causadas por un solo gen). Un escenario como el del Alzheimer, que es multifactorial (involucra varios genes) y poligénico (influenciado por muchos genes y el ambiente), representa un desafío mucho mayor. Intercambiar un solo gen no solucionaría el problema, ya que la enfermedad surge de una compleja red de interacciones genéticas y ambientales que la terapia génica actual no está preparada para abordar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_014",
+      "pregunta": "Si un procedimiento de terapia génica introduce exitosamente un gen en las células diana pero no logra aliviar la enfermedad, ¿cuál podría ser una explicación plausible, basándose en los desafíos mencionados?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El gen introducido es idéntico al gen mutado del paciente.",
+        "B": "La enfermedad del paciente no es de origen genético.",
+        "C": "El gen sano no está produciendo la proteína funcional en cantidad suficiente para compensar el defecto.",
+        "D": "El Proyecto del Genoma Humano se equivocó en la localización del gen.",
+        "E": "El deterioro ambiental ha anulado el efecto del gen sano."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El éxito de la terapia génica no solo depende de la inserción del gen sano, sino también de su correcta expresión. Uno de los obstáculos es que el gen introducido sintetice una cantidad suficiente de proteína funcional para suplantar la función de la proteína anómala o ausente. Si la producción de proteína es insuficiente, aunque el gen esté presente, no habrá mejora clínica porque la deficiencia celular o bioquímica no se corrige adecuadamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_303_015",
+      "pregunta": "Al afirmar que el cambio climático actual es provocado por el ser humano, ¿qué se infiere sobre la posibilidad de revertir o mitigar este proceso?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se infiere que es un proceso completamente natural e incontrolable.",
+        "B": "Se deduce que la solución reside en la manipulación genética de las especies para que se adapten.",
+        "C": "Se concluye que la mitigación del problema depende del cambio en las actividades humanas que lo causan.",
+        "D": "Se asume que el fenómeno es irreversible y que cualquier acción es inútil.",
+        "E": "Se entiende que solo los ciclos de glaciación pueden solucionar el calentamiento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El hecho de que la causa del cambio climático actual sea antropogénica (provocada por el ser humano) implica que la solución también está en manos humanas. Si las actividades como la quema de combustibles fósiles y la deforestación son la causa del problema, la modificación, reducción o eliminación de estas actividades es la estrategia lógica y fundamental para mitigar sus efectos y frenar el calentamiento global. No es un proceso puramente natural fuera de nuestro control.",
+      "imagen": null
+    }
+  ]
+}

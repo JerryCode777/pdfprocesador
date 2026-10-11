@@ -6,17 +6,17 @@
   "preguntas": [
     {
       "id_temporal": "quimica_307_001",
-      "pregunta": "¿Cuál es el grupo funcional que caracteriza a los ácidos carboxílicos?",
+      "pregunta": "¿Cuál es el grupo funcional característico de los ácidos carboxílicos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Grupo hidroxilo ($-OH$)",
-        "B": "Grupo carbonilo ($>C=O$)",
-        "C": "Grupo amino ($-NH_2$)",
-        "D": "Grupo carboxilo ($-COOH$)",
-        "E": "Grupo formilo ($-CHO$)"
+        "A": "$$-OH$$",
+        "B": "$$-CHO$$",
+        "C": "$$-COOH$$",
+        "D": "$$-CO-$$",
+        "E": "$$R-O-R'$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Los ácidos carboxílicos se definen por la presencia del grupo carboxilo, cuya fórmula es $$-COOH$$. Los otros grupos funcionales definen otras familias de compuestos: el grupo hidroxilo a los alcoholes, el grupo carbonilo a cetonas y aldehídos, el grupo amino a las aminas y el grupo formilo a los aldehídos.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los ácidos carboxílicos se definen por la presencia del grupo carboxilo, cuya fórmula es $$-COOH$$. Este grupo funcional les confiere sus propiedades características. Las otras opciones representan otros grupos funcionales: $$-OH$$ (hidroxilo, de alcoholes), $$-CHO$$ (carbonilo, de aldehídos), $$-CO-$$ (carbonilo, de cetonas) y $$R-O-R'$$ (éter).",
       "imagen": null
     },
     {
@@ -26,207 +26,207 @@
       "opciones": {
         "A": "$$R-OH$$",
         "B": "$$R-CHO$$",
-        "C": "$$R-COOH$$",
-        "D": "$$R-O-R'$$",
-        "E": "$$R-CO-R'$$"
+        "C": "$$R-CO-R'$$",
+        "D": "$$R-COOH$$",
+        "E": "$$R-H$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La fórmula general para un ácido carboxílico es $$R-COOH$$, donde $$R$$ representa una cadena de carbono o un átomo de hidrógeno, y $$-COOH$$ es el grupo funcional carboxilo. Las otras fórmulas representan a alcoholes ($$R-OH$$), aldehídos ($$R-CHO$$), éteres ($$R-O-R'$$) y cetonas ($$R-CO-R'$$).",
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula general para un ácido carboxílico es $$R-COOH$$, donde $$R$$ representa una cadena de carbono (grupo alquilo) o un átomo de hidrógeno, y $$-COOH$$ es el grupo funcional carboxilo que define a esta clase de compuestos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_003",
-      "pregunta": "De acuerdo con la nomenclatura IUPAC, ¿qué palabra debe preceder siempre al nombre de un compuesto que contiene un grupo carboxilo?",
+      "pregunta": "Según la nomenclatura IUPAC, ¿qué palabra se debe anteponer siempre al nombrar un ácido carboxílico?",
       "dificultad": 1,
       "opciones": {
-        "A": "Función",
-        "B": "Grupo",
-        "C": "Carboxi",
-        "D": "Compuesto",
-        "E": "Ácido"
+        "A": "Ácido",
+        "B": "Carboxi",
+        "C": "Hidroxi",
+        "D": "Oico",
+        "E": "Alcano"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Las reglas de nomenclatura IUPAC para los ácidos carboxílicos establecen que el nombre del compuesto siempre debe comenzar con la palabra 'Ácido'.",
+      "respuesta_correcta": "A",
+      "explicacion": "Una de las reglas fundamentales de la nomenclatura IUPAC para esta familia de compuestos es que el nombre sistemático siempre debe comenzar con la palabra \"Ácido\", para indicar la naturaleza ácida del compuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_004",
-      "pregunta": "¿Cuál es la terminación que reemplaza a la 'o' final del alcano correspondiente para nombrar un ácido carboxílico según el sistema IUPAC?",
+      "pregunta": "¿Cuál es la terminación que se utiliza en el sistema IUPAC para nombrar a los ácidos carboxílicos?",
       "dificultad": 1,
       "opciones": {
         "A": "-al",
-        "B": "-ona",
-        "C": "-ol",
-        "D": "-oico",
-        "E": "-ano"
+        "B": "-ol",
+        "C": "-ona",
+        "D": "-o",
+        "E": "-oico"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "En la nomenclatura IUPAC, el nombre de un ácido carboxílico se deriva del alcano con el mismo número de carbonos en la cadena principal, cambiando la terminación '-o' del alcano por '-oico'. Por ejemplo, de 'metano' se deriva 'metanoico'.",
+      "respuesta_correcta": "E",
+      "explicacion": "Para nombrar un ácido carboxílico según las reglas IUPAC, la terminación \"-o\" del alcano correspondiente se reemplaza por la terminación \"-oico\". Por ejemplo, un ácido derivado del etano se llamaría etanoico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_005",
-      "pregunta": "El nombre base para un ácido carboxílico en el sistema IUPAC se deriva del nombre de un tipo específico de hidrocarburo. ¿Cuál es?",
+      "pregunta": "En la nomenclatura IUPAC, el nombre de un ácido carboxílico se deriva del nombre de un tipo específico de hidrocarburo. ¿Cuál es?",
       "dificultad": 1,
       "opciones": {
         "A": "Alqueno",
-        "B": "Alcano",
-        "C": "Alquino",
+        "B": "Alquino",
+        "C": "Alcano",
         "D": "Cicloalcano",
         "E": "Aromático"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La nomenclatura sistemática IUPAC utiliza el nombre del alcano correspondiente a la cadena carbonada más larga que contiene al grupo carboxilo como base para formar el nombre del ácido.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las reglas IUPAC establecen que el nombre base para un ácido carboxílico se toma del alcano correspondiente que tiene la misma longitud de cadena de carbono principal, incluyendo el carbono del grupo carboxilo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_006",
-      "pregunta": "Para nombrar un ácido carboxílico por el sistema IUPAC, ¿cómo se debe seleccionar la cadena principal de carbonos?",
+      "pregunta": "Al aplicar las reglas IUPAC, ¿qué modificación se realiza en el nombre del alcano base para nombrar un ácido carboxílico?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se elige la cadena más larga, sin importar si contiene al grupo funcional.",
-        "B": "Se elige la cadena más ramificada.",
-        "C": "Se elige la cadena más larga que incluya al grupo carboxilo ($$-COOH$$).",
-        "D": "Se elige la cadena que forme una estructura cíclica.",
-        "E": "Se elige la cadena con el menor número de carbonos."
+        "A": "Se agrega el prefijo \"carboxi-\" al nombre del alcano.",
+        "B": "Se cambia la terminación \"-o\" por \"-al\" y se antepone la palabra \"ácido\".",
+        "C": "Se cambia la terminación \"-o\" por \"-oico\" y se antepone la palabra \"ácido\".",
+        "D": "Se agrega el sufijo \"-carboxílico\" al nombre del alcano.",
+        "E": "Se mantiene el nombre del alcano y se agrega \"ácido\" al final."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Una regla fundamental en la nomenclatura IUPAC es que la cadena principal debe ser la más larga posible que contenga al grupo funcional principal. En el caso de los ácidos carboxílicos, esta es la cadena más larga que incluye al carbono del grupo $$-COOH$$.",
+      "explicacion": "El procedimiento IUPAC correcto para nombrar un ácido carboxílico implica dos cambios clave sobre el nombre del alcano base: se antepone la palabra \"ácido\" y se reemplaza la terminación \"-o\" del alcano por el sufijo \"-oico\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_007",
-      "pregunta": "¿Cuál es la transformación específica que sufre el nombre de un alcano para formar la raíz del nombre de un ácido carboxílico?",
+      "pregunta": "¿Cuál es el primer paso fundamental para nombrar un ácido carboxílico según el sistema IUPAC?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se elimina la terminación '-ano' y se añade '-oico'.",
-        "B": "Se cambia la letra final 'o' por la terminación '-oico'.",
-        "C": "Se añade el prefijo 'carboxi-' al nombre del alcano.",
-        "D": "Se cambia la letra final 'o' por la terminación '-al'.",
-        "E": "Se mantiene el nombre del alcano y se añade la palabra 'ácido' al final."
+        "A": "Contar el número total de oxígenos.",
+        "B": "Identificar la cadena más larga que incluya al grupo carboxilo.",
+        "C": "Encontrar el grupo alquilo más cercano al grupo funcional.",
+        "D": "Nombrar el alcano base sin modificaciones.",
+        "E": "Anteponer la palabra \"ácido\" al nombre del alcano."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La regla de la IUPAC es muy específica: se toma el nombre del alcano base y se sustituye la letra final 'o' por la terminación '-oico'. Por ejemplo, 'propano' se convierte en 'propanoico'.",
+      "explicacion": "La primera regla de la nomenclatura IUPAC para cualquier compuesto orgánico es determinar la cadena principal. En el caso de los ácidos carboxílicos, esta se define como la cadena de carbono más larga que contiene el grupo funcional carboxilo ($$-COOH$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_008",
-      "pregunta": "En la fórmula general $$R-COOH$$, el grupo $$R$$ representa una parte variable de la molécula. ¿Qué puede ser $$R$$?",
+      "pregunta": "Una molécula con la estructura $$R-COOH$$ pertenece a la clase de compuestos orgánicos conocidos como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Solamente un grupo metilo ($-CH_3$)",
-        "B": "Siempre un anillo aromático",
-        "C": "Un átomo de halógeno",
-        "D": "Una cadena de carbono o un átomo de hidrógeno",
-        "E": "El grupo funcional carboxilo"
+        "A": "Aldehídos",
+        "B": "Cetonas",
+        "C": "Alcoholes",
+        "D": "Ésteres",
+        "E": "Ácidos carboxílicos"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "En la estructura general $$R-COOH$$, $$R$$ es un radical que puede ser desde un simple átomo de hidrógeno (en el ácido metanoico o fórmico) hasta una cadena alquílica, alquenica, alquinica o un grupo arilo (anillo aromático). La opción D es la más general y correcta.",
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula general $$R-COOH$$ es la representación estructural que define a los ácidos carboxílicos. El grupo $$-COOH$$ (carboxilo) es el identificador de esta familia de compuestos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_009",
-      "pregunta": "¿Cuál de las siguientes secuencias de pasos describe correctamente el proceso completo de nomenclatura IUPAC para un ácido carboxílico?",
+      "pregunta": "En la fórmula general $$R-COOH$$, el componente $$-COOH$$ es conocido como:",
       "dificultad": 2,
       "opciones": {
-        "A": "1. Nombrar el alcano. 2. Añadir el prefijo 'ácido'. 3. Cambiar la terminación a '-al'.",
-        "B": "1. Anteponer la palabra 'ácido'. 2. Contar todos los carbonos. 3. Usar el sufijo '-carboxilo'.",
-        "C": "1. Identificar la cadena más larga que contenga el grupo $$-COOH$$. 2. Cambiar la terminación 'o' del alcano base por 'oico'. 3. Anteponer la palabra 'ácido'.",
-        "D": "1. Encontrar la cadena más larga. 2. Anteponer el nombre de la función 'carboxi'. 3. Nombrar el alcano.",
-        "E": "1. Cambiar la terminación a '-oico'. 2. Nombrar la cadena. 3. Añadir la palabra 'ácido' al final."
+        "A": "El grupo alquilo.",
+        "B": "La cadena principal.",
+        "C": "El radical libre.",
+        "D": "El grupo carboxilo.",
+        "E": "El grupo hidroxilo."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La secuencia correcta y completa según las reglas IUPAC es: primero, identificar la cadena principal que incluye al grupo funcional; segundo, nombrar esa cadena cambiando el sufijo del alcano por '-oico'; y tercero, anteponer la palabra 'ácido' a todo el nombre.",
+      "respuesta_correcta": "D",
+      "explicacion": "El grupo $$-COOH$$ es el grupo funcional que caracteriza a los ácidos carboxílicos y se denomina grupo carboxilo. El componente $$R$$ es el que representa al grupo alquilo o cadena de carbono unida a este grupo funcional.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_010",
-      "pregunta": "La presencia del grupo funcional $$-COOH$$ en una molécula orgánica le confiere el carácter de:",
+      "pregunta": "La presencia del grupo funcional $$-COOH$$ en un compuesto orgánico permite clasificarlo como un:",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol",
-        "B": "Éster",
-        "C": "Cetona",
-        "D": "Ácido carboxílico",
-        "E": "Aldehído"
+        "A": "Ácido carboxílico",
+        "B": "Alcohol primario",
+        "C": "Aldehído terminal",
+        "D": "Éter simétrico",
+        "E": "Cetona"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El grupo $$-COOH$$ es conocido como grupo carboxilo. Por definición, cualquier compuesto orgánico que contenga este grupo funcional como su grupo principal pertenece a la familia de los ácidos carboxílicos.",
+      "respuesta_correcta": "A",
+      "explicacion": "El grupo carboxilo, $$-COOH$$, es el identificador único y definitorio de la familia de los ácidos carboxílicos en química orgánica. Ninguna otra familia de compuestos orgánicos posee este grupo funcional específico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_011",
-      "pregunta": "Considerando las reglas IUPAC, ¿cuál es la relación entre el nombre 'butano' y el nombre del ácido carboxílico con una cadena principal de cuatro átomos de carbono?",
+      "pregunta": "Al seleccionar la cadena principal de un ácido carboxílico para su nomenclatura IUPAC, ¿qué elemento estructural debe estar obligatoriamente incluido en ella?",
       "dificultad": 2,
       "opciones": {
-        "A": "No tienen ninguna relación.",
-        "B": "El ácido se llama ácido butano.",
-        "C": "El ácido se deriva del 'butano', cambiando 'o' por 'oico' y anteponiendo 'ácido'.",
-        "D": "El ácido se llama butanal.",
-        "E": "El ácido se llama butanocarboxílico."
+        "A": "El doble enlace más cercano al inicio.",
+        "B": "Todos los átomos de hidrógeno.",
+        "C": "La ramificación más larga.",
+        "D": "El grupo carboxilo $$-COOH$$.",
+        "E": "Cualquier grupo funcional presente."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El sistema IUPAC establece una relación directa. El alcano con cuatro carbonos es el butano. Para nombrar el ácido carboxílico correspondiente, se toma 'butano', se cambia la 'o' final por 'oico' para obtener 'butanoico', y se antepone la palabra 'ácido'. El nombre completo es ácido butanoico.",
+      "respuesta_correcta": "D",
+      "explicacion": "La regla fundamental para la nomenclatura de ácidos carboxílicos es que la cadena principal debe ser la más larga que contenga al grupo funcional característico, es decir, el grupo carboxilo $$-COOH$$. El carbono de este grupo se considera la posición número 1.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_012",
-      "pregunta": "La nomenclatura IUPAC para los ácidos carboxílicos utiliza un prefijo y un sufijo específicos. ¿Cuáles son estos componentes?",
+      "pregunta": "¿Cómo se transforma el nombre de un alcano para formar la parte principal del nombre de un ácido carboxílico con la misma cantidad de carbonos en su cadena principal?",
       "dificultad": 2,
       "opciones": {
-        "A": "Prefijo: Carboxi-, Sufijo: -ano",
-        "B": "Prefijo: Ácido, Sufijo: -oico",
-        "C": "Prefijo: Hidroxi-, Sufijo: -al",
-        "D": "Prefijo: Ácido, Sufijo: -ona",
-        "E": "Prefijo: Oxo-, Sufijo: -oico"
+        "A": "Se le añade el sufijo \"-ácido\".",
+        "B": "Se reemplaza el sufijo \"-o\" por \"-oico\".",
+        "C": "Se le antepone el prefijo \"ácido-\".",
+        "D": "Se mantiene el nombre del alcano sin cambios.",
+        "E": "Se reemplaza el sufijo \"-ano\" por \"-oico\"."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La nomenclatura sistemática para estos compuestos requiere anteponer la palabra 'Ácido' (que actúa como prefijo del nombre completo) y usar la terminación '-oico' (que es el sufijo que indica la función).",
+      "explicacion": "La regla de nomenclatura especifica que el nombre se deriva del alcano correspondiente cambiando la terminación \"-o\" por \"-oico\". Por ejemplo, de \"alcano\" se deriva \"alcanoico\". La opción E es una aproximación, pero la regla precisa indica el cambio de la vocal \"o\" final.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_013",
-      "pregunta": "Aplicando las reglas de nomenclatura IUPAC, si un ácido carboxílico se deriva del alcano 'propano', ¿cuál es el nombre completo y correcto del ácido?",
+      "pregunta": "Si la cadena de carbono más larga de un ácido carboxílico, incluyendo el grupo funcional, corresponde a la del alcano \"butano\", ¿cuál sería el nombre IUPAC correcto para este ácido?",
       "dificultad": 3,
       "opciones": {
-        "A": "Ácido propanal",
-        "B": "Ácido propílico",
-        "C": "Ácido propanona",
-        "D": "Ácido propano",
-        "E": "Ácido propanoico"
+        "A": "Butano ácido",
+        "B": "Ácido butano",
+        "C": "Ácido butanoico",
+        "D": "Butanal",
+        "E": "Ácido carboxibutano"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Para resolver esto, se deben aplicar las reglas IUPAC: 1. El alcano base es 'propano'. 2. Se cambia la terminación 'o' por 'oico', resultando en 'propanoico'. 3. Se antepone la palabra 'ácido'. El nombre final es Ácido propanoico. Las otras opciones corresponden a otros grupos funcionales (aldehído, cetona) o son incorrectas.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para nombrar el ácido, se aplican las reglas IUPAC: 1) Se antepone la palabra \"Ácido\". 2) Se toma el nombre del alcano base (\"butano\") y se cambia la terminación \"-o\" por \"-oico\", resultando en \"butanoico\". La combinación correcta de ambas reglas da como resultado \"Ácido butanoico\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_014",
-      "pregunta": "Un estudiante ha identificado la cadena principal de un ácido carboxílico como 'pentano'. Siguiendo estrictamente el procedimiento IUPAC, ¿cuáles son los dos últimos pasos, en orden, para formular el nombre final?",
+      "pregunta": "¿Cuál de las siguientes secuencias describe correctamente el proceso completo para nombrar un ácido carboxílico según la IUPAC?",
       "dificultad": 3,
       "opciones": {
-        "A": "1. Anteponer 'ácido'. 2. Añadir el sufijo '-carboxilo'.",
-        "B": "1. Cambiar la terminación 'o' de 'pentano' por 'oico'. 2. Anteponer la palabra 'ácido'.",
-        "C": "1. Numerar la cadena. 2. Añadir la palabra 'ácido' al final.",
-        "D": "1. Añadir el prefijo 'carboxi-'. 2. Mantener el nombre 'pentano'.",
-        "E": "1. Anteponer 'ácido'. 2. Cambiar la terminación 'o' de 'pentano' por 'oico'."
+        "A": "Nombrar el alcano, agregar \"ácido\" al final y cambiar terminación a \"-oico\".",
+        "B": "Anteponer \"ácido\", identificar la cadena más larga con el grupo $$-COOH$$, y cambiar la terminación \"-o\" del alcano por \"-oico\".",
+        "C": "Identificar la cadena más larga, nombrarla como alcano y agregar el sufijo \"-carboxílico\".",
+        "D": "Cambiar la terminación del alcano a \"-oico\" y luego contar los carbonos.",
+        "E": "Anteponer \"carboxi-\", nombrar la cadena principal como un alcano y agregar el sufijo \"-o\"."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El proceso de nomenclatura es secuencial. Una vez identificada la cadena 'pentano', el primer paso es modificar su nombre para reflejar el grupo funcional, cambiando 'pentano' a 'pentanoico'. El último paso es clasificar el compuesto como un ácido, anteponiendo la palabra 'ácido'. La opción E invierte este orden lógico.",
+      "explicacion": "El proceso sistemático y ordenado es: primero, identificar la cadena principal que contiene el grupo $$-COOH$$. Segundo, se construye el nombre del compuesto anteponiendo la palabra \"Ácido\" al nombre del alcano correspondiente. Finalmente, a este nombre de alcano se le modifica la terminación \"-o\" por \"-oico\". Esta opción describe la secuencia lógica y completa de las reglas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_307_015",
-      "pregunta": "La regla de derivar el nombre de un ácido carboxílico a partir del alcano correspondiente impone una condición fundamental sobre la cadena de carbonos que se elige. ¿Cuál es esta condición esencial?",
+      "pregunta": "Un compuesto orgánico posee el grupo funcional $$-COOH$$. Su cadena principal, determinada según las reglas IUPAC, es la correspondiente al alcano \"pentano\". ¿Cuál es el nombre sistemático de este compuesto?",
       "dificultad": 3,
       "opciones": {
-        "A": "La cadena debe ser siempre la más corta posible que contenga al grupo funcional.",
-        "B": "La cadena no debe poseer ramificaciones.",
-        "C": "La cadena elegida como principal debe incluir obligatoriamente al átomo de carbono del grupo $$-COOH$$.",
-        "D": "La cadena debe ser siempre una estructura acíclica.",
-        "E": "El carbono del grupo $$-COOH$$ no se cuenta para el nombre del alcano base."
+        "A": "Ácido pentano",
+        "B": "Pentanoico",
+        "C": "Carboxipentano",
+        "D": "Ácido pentanoico",
+        "E": "Ácido pentil"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Esta pregunta analiza la implicación de la regla 'Se identifica la cadena más larga que incluya el grupo carboxilo'. La consecuencia directa y condición indispensable de esta regla es que el carbono del propio grupo carboxilo forma parte de la cadena principal y se cuenta para determinar el nombre del alcano base. Por lo tanto, la cadena debe contener forzosamente este carbono.",
+      "respuesta_correcta": "D",
+      "explicacion": "La presencia del grupo $$-COOH$$ indica que es un ácido carboxílico. La nomenclatura IUPAC requiere el prefijo \"Ácido\". Dado que la cadena principal corresponde al \"pentano\", se cambia la terminación \"-o\" por \"-oico\", resultando en \"pentanoico\". La combinación correcta y completa de ambas reglas da como resultado \"Ácido pentanoico\".",
       "imagen": null
     }
   ]

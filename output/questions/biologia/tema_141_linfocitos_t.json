@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 141,
+  "total_temas": 320,
+  "titulo_tema": "Linfocitos T",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_141_001",
+      "pregunta": "¿En qué órgano se produce la maduración de los linfocitos T, donde aprenden a reconocer antígenos propios de los ajenos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Médula ósea roja",
+        "B": "Bazo",
+        "C": "Ganglios linfáticos",
+        "D": "Timo",
+        "E": "Hígado"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos T se originan en la médula ósea roja, pero su proceso de maduración, conocido como maduración tímica, ocurre en el timo. Es en este órgano donde adquieren la capacidad crucial de diferenciar las células y antígenos propios del cuerpo de aquellos que son extraños o ajenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_002",
+      "pregunta": "¿Cuál es la función principal de los linfocitos B en la respuesta inmune?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Iniciar la apoptosis en células dañadas",
+        "B": "Producir anticuerpos",
+        "C": "Activar macrófagos directamente",
+        "D": "Participar en la inmunidad innata",
+        "E": "Madurar en el timo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los linfocitos B son las células centrales de la inmunidad humoral. Su función clave es reconocer antígenos específicos y, al activarse, diferenciarse en células plasmáticas que fabrican y liberan grandes cantidades de anticuerpos para neutralizar a los patógenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_003",
+      "pregunta": "¿A qué rama del sistema inmune pertenecen los linfocitos Natural Killer (NK)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sistema inmune adaptativo",
+        "B": "Sistema inmune celular específico",
+        "C": "Sistema inmune humoral",
+        "D": "Sistema inmune innato",
+        "E": "Sistema inmune adquirido"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos Natural Killer son componentes del sistema inmune innato. Actúan como una primera línea de defensa, reconociendo y eliminando células estresadas, infectadas o tumorales de manera rápida y sin necesidad de una sensibilización previa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_004",
+      "pregunta": "¿Cuál es el lugar de origen o producción de todos los linfocitos, incluyendo los T y los B?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El timo",
+        "B": "Los ganglios linfáticos",
+        "C": "La médula ósea roja",
+        "D": "El bazo",
+        "E": "La linfa"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto los linfocitos T como los linfocitos B, junto con otras células sanguíneas, se originan en la médula ósea roja a partir de células madre hematopoyéticas. Posteriormente, los linfocitos T migran al timo para madurar, mientras que los B completan su maduración en la propia médula ósea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_005",
+      "pregunta": "¿Qué tipo de inmunidad es considerada la primera línea de defensa, generando una respuesta inmediata pero inespecífica tras una infección?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inmunidad celular",
+        "B": "Inmunidad humoral",
+        "C": "Inmunidad adaptativa",
+        "D": "Inmunidad pasiva",
+        "E": "Inmunidad innata"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La inmunidad innata, también conocida como natural o nativa, constituye la primera barrera defensiva del organismo. Actúa de forma inmediata y generalizada contra cualquier patógeno, utilizando mecanismos como las barreras epiteliales y la inflamación, pero sin generar memoria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_006",
+      "pregunta": "¿Cómo reconocen los linfocitos T auxiliares ($CD4^+$) los fragmentos antigénicos para activarse?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A través de antígenos presentados por proteínas MHC de clase I",
+        "B": "Directamente sobre la superficie de los patógenos libres",
+        "C": "A través de fragmentos presentados por proteínas MHC de clase II en células presentadoras de antígenos",
+        "D": "Mediante la detección de granzimas y perforinas liberadas por otras células",
+        "E": "Reconociendo anticuerpos que ya están unidos a un antígeno"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos T auxiliares ($CD4^+$) se activan cuando su receptor (TCR) se une a un fragmento antigénico que es presentado por una molécula del Complejo Mayor de Histocompatibilidad (MHC) de clase II. Estas moléculas MHC-II se encuentran específicamente en la superficie de las células presentadoras de antígenos (como macrófagos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_007",
+      "pregunta": "¿Cuál es la principal molécula de superficie que utilizan los linfocitos T citotóxicos ($CD8^+$) para identificar células infectadas por virus o células malignas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Proteínas MHC de clase II",
+        "B": "Anticuerpos de superficie",
+        "C": "Receptores de citoquinas",
+        "D": "Proteínas MHC de clase I",
+        "E": "El receptor FAS únicamente"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos T citotóxicos ($CD8^+$) vigilan el cuerpo inspeccionando las proteínas MHC de clase I. Todas las células nucleadas del cuerpo usan estas moléculas para mostrar péptidos de su interior. Si una célula está infectada por un virus o es tumoral, presentará antígenos anómalos en su MHC-I, marcándose como objetivo para ser destruida por el linfocito $CD8^+$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_008",
+      "pregunta": "¿Qué característica fundamental diferencia a la respuesta inmune innata de la adaptativa con respecto a exposiciones repetidas al mismo patógeno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La inmunidad innata es siempre más lenta que la adaptativa",
+        "B": "La inmunidad innata no guarda información del patógeno y responde siempre de la misma forma",
+        "C": "La inmunidad innata utiliza linfocitos T y B, mientras que la adaptativa no",
+        "D": "La inmunidad innata produce anticuerpos específicos para cada infección",
+        "E": "La inmunidad innata es más específica que la adaptativa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La memoria inmunológica es una propiedad exclusiva del sistema inmune adaptativo. El sistema inmune innato, por el contrario, carece de esta capacidad; responde con la misma velocidad e intensidad cada vez que se encuentra con el mismo microorganismo, ya que no genera un 'recuerdo' de la infección previa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_009",
+      "pregunta": "En la respuesta inmunitaria celular, además de los linfocitos T $CD4^+$ y $CD8^+$, ¿qué otras células mencionadas participan activamente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente células plasmáticas productoras de anticuerpos",
+        "B": "Linfocitos B y eritrocitos",
+        "C": "Plaquetas y basófilos",
+        "D": "Linfocitos Natural Killer y macrófagos activados",
+        "E": "Neutrófilos y mastocitos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La inmunidad celular es una respuesta coordinada que no depende solo de los linfocitos T. Involucra la colaboración de otras células efectoras, como los linfocitos Natural Killer (NK) con su actividad citolítica, y los macrófagos, que son activados por las citoquinas de las células T para fagocitar y eliminar patógenos de manera más eficiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_010",
+      "pregunta": "¿Cuál es una consecuencia directa de la interacción exitosa entre un linfocito T auxiliar ($CD4^+$) y una célula presentadora de antígenos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La muerte inmediata de la célula presentadora de antígenos",
+        "B": "La producción de anticuerpos por parte del propio linfocito T",
+        "C": "La liberación de citoquinas que estimulan la proliferación de otros linfocitos",
+        "D": "La conversión del linfocito T en una célula de memoria inactiva",
+        "E": "La fagocitosis del linfocito T por la célula presentadora"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando un linfocito T auxiliar ($CD4^+$) se activa al reconocer su antígeno específico, su función principal es orquestar la respuesta inmune. Lo hace liberando citoquinas, que son moléculas de señalización que actúan como mensajeros, promoviendo la proliferación y activación de otras células inmunitarias, como los linfocitos T citotóxicos y los linfocitos B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_011",
+      "pregunta": "¿Qué dos tipos de enzimas citotóxicas son mencionadas como las armas principales de los linfocitos T citotóxicos ($CD8^+$) para eliminar células diana?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Lisoenzimas y catalasas",
+        "B": "Perforinas y granzimas",
+        "C": "Interleucinas y factores de necrosis tumoral",
+        "D": "Fragmentinas y perforinas",
+        "E": "Proteasas y lipasas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para destruir una célula infectada, el linfocito T citotóxico ($CD8^+$) le inyecta un cóctel letal de enzimas. El contenido menciona específicamente las fragmentinas, que activan la apoptosis (muerte celular programada) en la célula diana, y las perforinas, que forman poros en la membrana celular para facilitar la entrada de las fragmentinas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_012",
+      "pregunta": "La respuesta inmunitaria celular es particularmente crucial para la eliminación de ¿qué tipo de amenazas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Patógenos extracelulares y toxinas en la sangre",
+        "B": "Alérgenos y parásitos grandes",
+        "C": "Microorganismos intracelulares y células transformantes",
+        "D": "Bacterias solubles en el plasma",
+        "E": "Hongos en las barreras epiteliales"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunidad celular es esencial para combatir patógenos que se replican dentro de las células del huésped (como los virus) y para detectar y destruir células propias que se han vuelto cancerosas (transformantes). En estos escenarios, los anticuerpos de la inmunidad humoral no son efectivos, ya que no pueden acceder al interior celular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_013",
+      "pregunta": "Si un virus tiene un mecanismo para impedir que las células que infecta presenten fragmentos antigénicos en sus proteínas MHC de clase I, ¿qué respuesta inmune se vería más directamente perjudicada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La activación de linfocitos B para producir anticuerpos",
+        "B": "La fagocitosis inicial del virus por macrófagos",
+        "C": "El reconocimiento y destrucción por parte de los linfocitos T citotóxicos ($CD8^+$)",
+        "D": "La activación de los linfocitos T auxiliares ($CD4^+$) por células presentadoras",
+        "E": "La respuesta inflamatoria general"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos T citotóxicos ($CD8^+$) dependen por completo del reconocimiento de antígenos virales presentados en las moléculas MHC de clase I de las células infectadas. Si el virus bloquea esta vía de presentación, las células infectadas se vuelven funcionalmente 'invisibles' para los linfocitos $CD8^+$, saboteando el principal mecanismo de la inmunidad celular para eliminar esa infección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_014",
+      "pregunta": "Al comparar la actividad citolítica de los linfocitos Natural Killer (NK) y los linfocitos T citotóxicos ($CD8^+$), ¿cuál es una diferencia fundamental en su modo de reconocimiento de la célula diana?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los NK usan perforinas mientras que los $CD8^+$ solo usan interleucinas",
+        "B": "Los $CD8^+$ reconocen antígenos específicos en MHC-I, mientras que los NK reconocen señales de estrés celular",
+        "C": "Ambos reconocen antígenos presentados por proteínas MHC de clase II",
+        "D": "Los NK pertenecen a la inmunidad adaptativa y los $CD8^+$ a la innata",
+        "E": "Los $CD8^+$ necesitan la ayuda de anticuerpos para activarse, mientras que los NK no"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia clave radica en la especificidad. El linfocito $CD8^+$ es parte de la inmunidad adaptativa y requiere el reconocimiento de un antígeno específico presentado en una molécula MHC-I. En cambio, el linfocito NK, de la inmunidad innata, no es específico de antígeno; reconoce patrones generales en células que indican que algo anda mal, como la ausencia de MHC-I o la presencia de moléculas de estrés, lo que le permite una respuesta más rápida y general.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_141_015",
+      "pregunta": "Un paciente requiere un trasplante de órgano. ¿Qué tipo de respuesta inmunitaria y qué células son las principales responsables del rechazo primario de trasplantes, al reconocer las células del órgano como extrañas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Inmunidad humoral, mediada por anticuerpos de linfocitos B",
+        "B": "Inmunidad innata, mediada por macrófagos y barreras físicas",
+        "C": "Inmunidad celular, mediada principalmente por linfocitos T",
+        "D": "Inmunidad pasiva, mediada por anticuerpos transferidos",
+        "E": "Respuesta inflamatoria inespecífica, mediada por neutrófilos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rechazo primario de trasplantes es un ejemplo clásico de la respuesta inmunitaria celular. Los linfocitos T del receptor, especialmente los T citotóxicos ($CD8^+$), reconocen las moléculas MHC en las células del órgano trasplantado como no propias (ajenas). Este reconocimiento desencadena un ataque citotóxico directo contra las células del injerto, llevando a su destrucción y al rechazo del órgano.",
+      "imagen": null
+    }
+  ]
+}

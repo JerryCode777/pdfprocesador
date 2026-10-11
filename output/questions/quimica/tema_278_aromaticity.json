@@ -3,5 +3,231 @@
   "numero_tema": 278,
   "total_temas": 322,
   "titulo_tema": "Aromaticity",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_278_001",
+      "pregunta": "¿Cuál fue la razón original por la que a un grupo de hidrocarburos se les denominó \"aromáticos\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Por su alta estabilidad química",
+        "B": "Por sus olores agradables",
+        "C": "Por su estructura cíclica",
+        "D": "Por su reactividad similar a los alquenos",
+        "E": "Por ser derivados del benceno"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Inicialmente, el término \"aromático\" se acuñó para describir a este grupo de compuestos debido a que muchos de ellos poseían olores distintivos y agradables. Posteriormente, el significado del término evolucionó para describir su especial estabilidad electrónica, independientemente de su olor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_002",
+      "pregunta": "¿Qué término se utiliza para describir a los compuestos orgánicos que no son aromáticos y cuyo nombre significa \"como grasa\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Alquinos",
+        "B": "Alcanos",
+        "C": "Alifáticos",
+        "D": "Alicíclicos",
+        "E": "Aniónicos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "A los compuestos orgánicos que no poseen las propiedades de los compuestos aromáticos se les llamó alifáticos. Este término proviene del griego y significa \"como grasa\", en contraste con los compuestos aromáticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_003",
+      "pregunta": "¿Qué químico alemán propuso en 1865 una estructura para el benceno que ayudó a explicar sus propiedades?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Friedrich Wöhler",
+        "B": "Justus von Liebig",
+        "C": "Emil Fischer",
+        "D": "Friedrich Kekulé",
+        "E": "Adolf von Baeyer"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Friedrich Kekulé fue el químico que en 1865 sugirió una estructura cíclica con dobles enlaces alternados para el benceno (C₆H₆), un avance fundamental para comprender la química de los compuestos aromáticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_004",
+      "pregunta": "Según los criterios de aromaticidad, ¿qué tipo de hibridación deben tener generalmente los átomos que forman el anillo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$sp^3$$",
+        "B": "$$sp^2$$ o $$sp$$",
+        "C": "$$d^2sp^3$$",
+        "D": "Cualquier hibridación es válida",
+        "E": "$$sp^3d$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que un compuesto sea aromático, cada átomo en el anillo debe tener un orbital $$p$$ sin hibridar. Esto se logra comúnmente con hibridación $$sp^2$$ (como en el benceno) o $$sp$$, ya que estas hibridaciones dejan uno o más orbitales $$p$$ disponibles para formar el sistema $$π$$ deslocalizado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_005",
+      "pregunta": "¿Cuál es la geometría y forma de la molécula de benceno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tetraédrica y tridimensional",
+        "B": "Lineal y plana",
+        "C": "Angular con ángulos de 109.5°",
+        "D": "Plana con forma de hexágono regular",
+        "E": "Cíclica en conformación de silla"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El benceno es una molécula plana que adopta la forma de un hexágono regular. Todos sus ángulos de enlace carbono-carbono-carbono son de 120°, lo cual es característico de una geometría trigonal plana alrededor de cada átomo de carbono con hibridación $$sp^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_006",
+      "pregunta": "¿Cómo se compara la longitud de los enlaces carbono-carbono en el benceno (139 pm) con los enlaces sencillos y dobles típicos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es igual a la de un enlace sencillo (154 pm)",
+        "B": "Es igual a la de un enlace doble (134 pm)",
+        "C": "Es un valor intermedio entre un enlace sencillo y uno doble",
+        "D": "Es más larga que la de un enlace sencillo",
+        "E": "Es más corta que la de un enlace doble"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La longitud de 139 pm de los enlaces C-C en el benceno es un valor intermedio entre la longitud de un enlace sencillo C-C típico (≈154 pm) y un enlace doble C=C típico (≈134 pm). Esto es una evidencia clave de la deslocalización de los electrones $$π$$, que hace que todos los enlaces sean idénticos y posean un carácter de \"enlace y medio\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_007",
+      "pregunta": "El benceno es insaturado, pero es mucho menos reactivo que los alquenos. ¿Qué tipo de reacciones típicas de los alquenos NO experimenta el benceno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Reacciones de sustitución",
+        "B": "Reacciones de combustión",
+        "C": "Reacciones de oxidación",
+        "D": "Reacciones de adición",
+        "E": "Reacciones de neutralización"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "A pesar de tener dobles enlaces en su estructura de Kekulé, el benceno no experimenta las reacciones de adición que son características de los alquenos. Esto se debe a su excepcional estabilidad aromática; una reacción de adición destruiría el sistema $$π$$ deslocalizado y la aromaticidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_008",
+      "pregunta": "¿Por qué el criterio de planicidad es fundamental para la aromaticidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para minimizar la repulsión entre los átomos de hidrógeno.",
+        "B": "Para permitir que la molécula sea soluble en agua.",
+        "C": "Para asegurar un traslape efectivo y continuo de los orbitales p paralelos.",
+        "D": "Para que todos los átomos de carbono tengan hibridación $$sp^3$$.",
+        "E": "Para aumentar la longitud de los enlaces carbono-carbono."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una estructura plana (o casi plana) es crucial para la aromaticidad porque permite que los orbitales $$p$$ sin hibridar de cada átomo del anillo se alineen de forma paralela. Este alineamiento es necesario para un traslape lateral efectivo, formando un anillo continuo de orbitales por encima y por debajo del plano de la molécula, lo que permite la deslocalización de los electrones $$π$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_009",
+      "pregunta": "¿Cuál es la consecuencia directa de que cada átomo en un anillo aromático posea un orbital p sin hibridar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La formación de enlaces sigma muy fuertes.",
+        "B": "La posibilidad de formar un anillo continuo de orbitales paralelos.",
+        "C": "La molécula adopta una estructura tetraédrica.",
+        "D": "Los ángulos de enlace se reducen a 90°.",
+        "E": "La molécula se vuelve altamente reactiva en reacciones de adición."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de un orbital $$p$$ sin hibridar en cada átomo del anillo es un requisito indispensable. Estos orbitales se traslapan lateralmente para formar un sistema $$π$$ conjugado y continuo que se extiende por todo el anillo, lo cual es la base de la deslocalización electrónica y la estabilidad aromática.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_010",
+      "pregunta": "Actualmente, ¿a qué propiedad fundamental se asocia el término \"aromático\" en química, más allá de su olor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A su estado líquido a temperatura ambiente.",
+        "B": "A su origen en fuentes vegetales.",
+        "C": "A su excepcional estabilidad electrónica.",
+        "D": "A la presencia de seis átomos de carbono.",
+        "E": "A su alta solubilidad en disolventes polares."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque el término se originó por el olor, su significado en química ha evolucionado. Hoy en día, \"aromático\" se refiere a la excepcional estabilidad que presentan ciertos compuestos cíclicos, planos y conjugados debido a la deslocalización de sus electrones $$π$$, independientemente de que tengan o no un olor característico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_011",
+      "pregunta": "¿Qué característica del benceno, observable en un mapa de potencial electrostático, confirma que todos sus enlaces carbono-carbono son idénticos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La alta densidad electrónica en los átomos de hidrógeno.",
+        "B": "La distribución idéntica de la densidad electrónica en los seis enlaces C-C.",
+        "C": "La ausencia total de densidad electrónica en el centro del anillo.",
+        "D": "La alternancia de alta y baja densidad electrónica entre los enlaces.",
+        "E": "La concentración de la carga negativa en un solo átomo de carbono."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un mapa de potencial electrostático del benceno muestra que la nube de electrones $$π$$ está distribuida de manera uniforme y simétrica sobre todo el anillo. Esto significa que la densidad electrónica es idéntica en todos los seis enlaces carbono-carbono, lo que demuestra que no hay enlaces dobles y sencillos alternados, sino seis enlaces equivalentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_012",
+      "pregunta": "¿Cuál es la hibridación de los seis átomos de carbono en el benceno y qué ángulo de enlace C-C-C resulta de esta hibridación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hibridación $$sp^3$$, ángulo de 109.5°",
+        "B": "Hibridación $$sp^2$$, ángulo de 120°",
+        "C": "Hibridación $$sp$$, ángulo de 180°",
+        "D": "Hibridación $$sp^2$$, ángulo de 109.5°",
+        "E": "Hibridación $$sp^3$$, ángulo de 120°"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Todos los átomos de carbono en la molécula de benceno tienen hibridación $$sp^2$$. Esta hibridación da lugar a una geometría trigonal plana alrededor de cada carbono, con ángulos de enlace ideales de 120°. La estructura hexagonal regular del benceno cumple perfectamente con esta geometría.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_013",
+      "pregunta": "Según la regla de Hückel, un compuesto puede ser aromático si el número de sus electrones pi ($$#e⁻π$$) sigue la fórmula $$4n + 2$$. ¿Cuál de los siguientes números de electrones pi corresponde a un sistema aromático?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "4 electrones $$π$$",
+        "B": "8 electrones $$π$$",
+        "C": "10 electrones $$π$$",
+        "D": "12 electrones $$π$$",
+        "E": "16 electrones $$π$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de Hückel establece que para que un sistema sea aromático, el número de electrones $$π$$ debe ser igual a $$4n + 2$$, donde $$n$$ es un número entero (0, 1, 2, ...). \n- Si $$n=0$$, $$4(0) + 2 = 2$$. \n- Si $$n=1$$, $$4(1) + 2 = 6$$. \n- Si $$n=2$$, $$4(2) + 2 = 10$$. \nDe las opciones, solo 10 electrones $$π$$ cumple con la regla (para $$n=2$$). Los números 4, 8, 12 y 16 siguen la regla $$4n$$, característica de sistemas antiaromáticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_014",
+      "pregunta": "Imagine una molécula que es cíclica, plana y cada átomo del anillo tiene un orbital p sin hibridar. ¿Qué condición adicional, según los criterios presentados, es indispensable para que sea considerada aromática?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Debe tener exactamente 6 átomos de carbono.",
+        "B": "Debe ser soluble en agua.",
+        "C": "El número de electrones $$π$$ debe obedecer la regla de Hückel ($$4n + 2$$).",
+        "D": "Debe tener al menos un enlace triple en su estructura.",
+        "E": "Debe reaccionar fácilmente en reacciones de adición."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una molécula puede cumplir con ser cíclica, plana y tener un sistema conjugado de orbitales p, pero no ser aromática. La condición final y crucial es la electrónica: el número total de electrones $$π$$ deslocalizados en el anillo debe ajustarse a la regla de Hückel, $$4n + 2$$. Si no cumple esta regla, no tendrá la estabilidad característica de un compuesto aromático.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_278_015",
+      "pregunta": "¿Cuál es la razón fundamental de la \"estabilidad excepcional\" de los compuestos aromáticos como el benceno?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fuerte repulsión entre los electrones de los dobles enlaces.",
+        "B": "La presencia de enlaces carbono-hidrógeno muy resistentes.",
+        "C": "La deslocalización de los electrones $$π$$ sobre todo el anillo, lo que disminuye la energía electrónica total.",
+        "D": "La tensión angular del anillo hexagonal que lo hace menos reactivo.",
+        "E": "El hecho de que todos sus átomos de carbono tengan hibridación $$sp^3$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estabilidad excepcional de los compuestos aromáticos no proviene de enlaces individuales, sino del sistema en su conjunto. La combinación de una estructura cíclica, plana y con un número de Hückel de electrones $$π$$ permite que estos electrones se deslocalicen completamente por encima y por debajo del plano del anillo. Esta deslocalización distribuye la densidad electrónica, reduce la energía total del sistema y confiere a la molécula una gran estabilidad.",
+      "imagen": null
+    }
+  ]
 }

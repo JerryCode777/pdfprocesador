@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 101,
+  "total_temas": 137,
+  "titulo_tema": "Campo Eléctrico",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_101_001",
+      "pregunta": "¿Cuál es la unidad de medida para la cantidad de carga eléctrica en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Metro (m)",
+        "C": "Coulomb (C)",
+        "D": "Newton por Coulomb (N/C)",
+        "E": "Newton metro cuadrado por Coulomb cuadrado (N·m²/C²)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el Sistema Internacional de Unidades (S.I.), la unidad para medir la cantidad de carga eléctrica es el coulomb, representado por el símbolo C. El newton es la unidad de fuerza, el metro es la unidad de distancia, N/C es la unidad de campo eléctrico y N·m²/C² es la unidad de la constante de Coulomb.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_002",
+      "pregunta": "¿Qué científico desarrolló el concepto de campo para describir las fuerzas eléctricas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Isaac Newton",
+        "B": "Charles-Augustin de Coulomb",
+        "C": "Michael Faraday",
+        "D": "Albert Einstein",
+        "E": "James Clerk Maxwell"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El concepto de campo fue introducido y desarrollado por Michael Faraday en el contexto de las fuerzas eléctricas. Este enfoque permite describir cómo una carga fuente modifica el espacio a su alrededor, creando una región de influencia llamada campo eléctrico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_003",
+      "pregunta": "Según la Ley de Coulomb, ¿qué tipo de fuerza se produce entre dos cargas eléctricas que tienen signos opuestos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una fuerza de repulsión",
+        "B": "Una fuerza de atracción",
+        "C": "No se produce ninguna fuerza",
+        "D": "Una fuerza tangencial",
+        "E": "Una fuerza magnética"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ley fundamental de la electrostática establece que las cargas con signos opuestos se atraen. Por lo tanto, entre una carga positiva y una negativa, existirá una fuerza de atracción a lo largo de la línea que las une.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_004",
+      "pregunta": "¿Cuál es la unidad de medida para la magnitud o intensidad del campo eléctrico en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Coulomb (C)",
+        "B": "Newton (N)",
+        "C": "Metro (m)",
+        "D": "Newton por Coulomb (N/C)",
+        "E": "Joule (J)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud del campo eléctrico se define como la fuerza eléctrica por unidad de carga ($$E = F / q_0$$). En el Sistema Internacional, la fuerza se mide en newtons (N) y la carga en coulombs (C), por lo tanto, la unidad del campo eléctrico es newton por coulomb (N/C).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_005",
+      "pregunta": "¿Cuál es el valor numérico de la constante de Coulomb ($k$) en el S.I.?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$9 \times 10^9 N·m²/C²$$",
+        "B": "$$6.67 \times 10^{-11} N·m²/kg²$$",
+        "C": "$$3 \times 10^8 m/s$$",
+        "D": "$$9.8 m/s²$$",
+        "E": "$$1.6 \times 10^{-19} C$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La constante de Coulomb, denotada por $k$, es una constante de proporcionalidad fundamental en electrostática. Su valor en el Sistema Internacional de Unidades es aproximadamente $$9 \times 10^9 N·m²/C²$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_006",
+      "pregunta": "¿Qué fórmula expresa correctamente la definición de la magnitud del campo eléctrico ($E$) en un punto, en función de la fuerza ($F$) que experimenta una carga de prueba ($q_0$) colocada en ese punto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$E = F \\cdot q_0$$",
+        "B": "$$E = \frac{q_0}{F}$$",
+        "C": "$$E = F - q_0$$",
+        "D": "$$E = \frac{F}{q_0}$$",
+        "E": "$$E = k \frac{F}{q_0^2}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud (o intensidad) del campo eléctrico ($E$) en un punto se define como la magnitud de la fuerza eléctrica ($F$) por unidad de carga de prueba ($q_0$) que se colocaría en ese punto. La relación matemática es $$E = \frac{F}{q_0}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_007",
+      "pregunta": "Si la distancia ($d$) entre dos cargas puntuales se duplica, ¿cómo cambia la magnitud de la fuerza eléctrica ($F$) entre ellas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se duplica",
+        "B": "Se reduce a la mitad",
+        "C": "Se cuadruplica",
+        "D": "Se reduce a la cuarta parte",
+        "E": "No cambia"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Coulomb establece que la fuerza es inversamente proporcional al cuadrado de la distancia: $$F = k \frac{|q_1||q_2|}{d^2}$$. Si la distancia $d$ se reemplaza por $2d$, la nueva fuerza $F'$ será $$F' = k \frac{|q_1||q_2|}{(2d)^2} = k \frac{|q_1||q_2|}{4d^2} = \frac{1}{4} F$$. Por lo tanto, la fuerza se reduce a la cuarta parte.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_008",
+      "pregunta": "¿Qué establece el Principio de Superposición para los campos eléctricos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El campo eléctrico total es el producto de los campos individuales.",
+        "B": "El campo eléctrico total es la suma algebraica de las magnitudes de los campos individuales.",
+        "C": "El campo eléctrico total es la suma vectorial de los campos que cada carga produce de forma independiente.",
+        "D": "El campo eléctrico de la carga más grande anula a los demás.",
+        "E": "El campo eléctrico total es el promedio de los campos individuales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Principio de Superposición afirma que el campo eléctrico resultante en un punto, debido a un conjunto de cargas fuente, es la suma vectorial de los campos eléctricos que cada carga crearía individualmente en ese punto. Esto se expresa como $$E_p = E_1 + E_2 + E_3 + \\dots$$, donde cada término es un vector.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_009",
+      "pregunta": "¿Cuál es la relación geométrica entre el vector campo eléctrico ($E$) y las líneas de campo eléctrico en cualquier punto del espacio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El vector $E$ es perpendicular a las líneas de campo.",
+        "B": "El vector $E$ es tangente a las líneas de campo.",
+        "C": "El vector $E$ forma un ángulo de 45° con las líneas de campo.",
+        "D": "El vector $E$ es paralelo pero en sentido opuesto a las líneas de campo.",
+        "E": "El vector $E$ no tiene una relación geométrica fija con las líneas de campo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las líneas de campo eléctrico son una construcción visual para representar un campo. Por definición, en cualquier punto de una línea de campo, la dirección del vector del campo eléctrico ($E$) en ese punto es tangente a la línea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_010",
+      "pregunta": "Considerando una carga fuente puntual $Q$ y un punto en el espacio a una distancia $d$ de ella, ¿qué fórmula se utiliza para calcular la magnitud del campo eléctrico ($E$) en ese punto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$E = k \frac{|Q|}{d}$$",
+        "B": "$$E = k |Q| d^2$$",
+        "C": "$$E = k \frac{|Q|}{d^2}$$",
+        "D": "$$E = \frac{k d^2}{|Q|}$$",
+        "E": "$$E = k |Q|$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La magnitud del campo eléctrico ($E$) creado por una carga fuente puntual ($Q$) se deriva de la combinación de la Ley de Coulomb ($$F = k |Qq_0|/d^2$$) y la definición de campo eléctrico ($$E = F/q_0$$). Al sustituir y simplificar, se obtiene la fórmula $$E = k \frac{|Q|}{d^2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_011",
+      "pregunta": "¿Qué ley fundamental de la física explica por qué la fuerza que una carga $q_1$ ejerce sobre una carga $q_2$ es de igual magnitud y dirección opuesta a la fuerza que $q_2$ ejerce sobre $q_1$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La primera ley de Newton",
+        "B": "La segunda ley de Newton",
+        "C": "La tercera ley de Newton",
+        "D": "La ley de la conservación de la energía",
+        "E": "La ley de Faraday"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La tercera ley de Newton (principio de acción y reacción) establece que a toda acción corresponde una reacción de igual magnitud y en sentido opuesto. En el contexto de las cargas eléctricas, esto significa que la fuerza que $q_1$ ejerce sobre $q_2$ forma un par acción-reacción con la fuerza que $q_2$ ejerce sobre $q_1$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_012",
+      "pregunta": "Al medir un campo eléctrico, ¿por qué es importante que la carga de prueba ($q_0$) utilizada sea lo suficientemente pequeña?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para que la fuerza sea más fácil de medir.",
+        "B": "Porque las cargas grandes son difíciles de producir.",
+        "C": "Para no perturbar la distribución de cargas que crea el campo original.",
+        "D": "Para que la constante de Coulomb ($k$) mantenga su valor.",
+        "E": "Para que la distancia ($d$) permanezca constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El propósito de la carga de prueba es detectar el campo eléctrico existente sin alterarlo. Si la carga de prueba fuera grande, su propio campo eléctrico podría interactuar con las cargas fuente y cambiar su distribución, lo que modificaría el campo que se intenta medir. Por ello, se asume que $q_0$ es lo suficientemente pequeña como para que su efecto sea despreciable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_013",
+      "pregunta": "Se tienen dos cargas puntuales, $q_1$ con una carga de $+2 C$ y $q_2$ con una carga de $+8 C$. ¿Cómo se compara la magnitud de la fuerza que $q_1$ ejerce sobre $q_2$ con la magnitud de la fuerza que $q_2$ ejerce sobre $q_1$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fuerza de $q_1$ sobre $q_2$ es cuatro veces mayor.",
+        "B": "La fuerza de $q_2$ sobre $q_1$ es cuatro veces mayor.",
+        "C": "Las magnitudes de las fuerzas son iguales.",
+        "D": "La fuerza de $q_1$ sobre $q_2$ es dieciséis veces mayor.",
+        "E": "No se puede determinar sin conocer la distancia."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "De acuerdo con la tercera ley de Newton, las fuerzas que dos cuerpos (en este caso, cargas) se ejercen mutuamente son siempre iguales en magnitud y opuestas en dirección. Esto es válido sin importar si las magnitudes de las cargas son diferentes. La fórmula de Coulomb, $$F = k \frac{|q_1||q_2|}{d^2}$$, da la misma magnitud para la fuerza, ya que el producto $|q_1||q_2|$ es conmutativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_014",
+      "pregunta": "Una carga fuente $Q$ genera un campo eléctrico de magnitud $E$ a una distancia $d$. Si la magnitud de la carga fuente se duplica a $2Q$ y la distancia se reduce a la mitad ($d/2$), ¿cuál es la nueva magnitud del campo eléctrico $E'$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$E' = E$$",
+        "B": "$$E' = 2E$$",
+        "C": "$$E' = 4E$$",
+        "D": "$$E' = 8E$$",
+        "E": "$$E' = \frac{1}{2}E$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud del campo eléctrico se calcula con $$E = k \frac{|Q|}{d^2}$$. La nueva magnitud, $E'$, se calculará con los nuevos valores: $$E' = k \frac{|2Q|}{(d/2)^2} = k \frac{2|Q|}{d^2/4} = 8 \\left( k \frac{|Q|}{d^2} \right)$$. Como la expresión entre paréntesis es el campo original $E$, la nueva magnitud es $$E' = 8E$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_101_015",
+      "pregunta": "Una carga de prueba positiva $q_0$ se coloca en un punto donde existe un campo eléctrico $E$. ¿Qué se puede afirmar sobre la dirección de la fuerza eléctrica $F$ que actúa sobre la carga?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La dirección de $F$ es opuesta a la dirección de $E$.",
+        "B": "La dirección de $F$ es la misma que la dirección de $E$.",
+        "C": "La dirección de $F$ es perpendicular a la dirección de $E$.",
+        "D": "La dirección de $F$ es independiente de la dirección de $E$.",
+        "E": "La dirección de $F$ depende de la magnitud de $q_0$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La definición vectorial del campo eléctrico es $$E = \frac{F}{q_0}$$, lo que implica que la fuerza es $$F = q_0 E$$. Dado que la carga de prueba $q_0$ es positiva, la multiplicación por un escalar positivo no cambia la dirección del vector. Por lo tanto, el vector de la fuerza $F$ tendrá la misma dirección que el vector del campo eléctrico $E$.",
+      "imagen": null
+    }
+  ]
+}

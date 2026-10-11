@@ -6,32 +6,32 @@
   "preguntas": [
     {
       "id_temporal": "quimica_296_001",
-      "pregunta": "¿Cuál es el grupo funcional característico que define a un compuesto como un alcohol?",
+      "pregunta": "¿Cuál es el grupo funcional característico que define a los alcoholes?",
       "dificultad": 1,
       "opciones": {
-        "A": "Grupo carboxilo ($$-COOH$$)",
-        "B": "Grupo hidroxilo ($$-OH$$)",
-        "C": "Grupo carbonilo ($$C=O$$)",
-        "D": "Grupo amino ($$-NH_2$$)",
-        "E": "Grupo éter ($$-O-$$)"
+        "A": "Grupo carbonilo ($$-C=O$$)",
+        "B": "Grupo carboxilo ($$-COOH$$)",
+        "C": "Grupo amino ($$-NH_2$$)",
+        "D": "Grupo hidroxilo ($$-OH$$)",
+        "E": "Enlace éter ($$-O-$$)"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los alcoholes se definen químicamente por la presencia de uno o más grupos hidroxilo ($$-OH$$) unidos a un átomo de carbono. Los otros grupos funcionales definen otras familias de compuestos orgánicos: los ácidos carboxílicos ($$-COOH$$), aldehídos y cetonas ($$C=O$$), aminas ($$-NH_2$$) y éteres ($$-O-$$).",
+      "respuesta_correcta": "D",
+      "explicacion": "La característica definitoria de un alcohol es la presencia de uno o más grupos hidroxilo ($$-OH$$) unidos a un átomo de carbono. Los otros grupos funcionales definen otras familias de compuestos orgánicos: carbonilo (aldehídos y cetonas), carboxilo (ácidos carboxílicos), amino (aminas) y éter (éteres).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_002",
-      "pregunta": "¿Cuál es la estructura general que representa a un alcohol?",
+      "pregunta": "¿Qué estructura general representa a un alcohol?",
       "dificultad": 1,
       "opciones": {
         "A": "$$R-CHO$$",
-        "B": "$$R-COOH$$",
-        "C": "$$R-O-R'$$",
-        "D": "$$R-OH$$",
-        "E": "$$R-NH_2$$"
+        "B": "$$R-O-R'$$",
+        "C": "$$R-OH$$",
+        "D": "$$R-COOH$$",
+        "E": "$$R-X$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La estructura general de un alcohol es $$R-OH$$, donde $$R$$ representa una cadena de carbono (grupo alquilo o arilo) y $$-OH$$ es el grupo funcional hidroxilo característico de esta familia de compuestos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura general de un alcohol es $$R-OH$$, donde 'R' representa una cadena de carbono (un grupo alquilo o sustituido) y $$-OH$$ es el grupo funcional hidroxilo. Las otras fórmulas representan aldehídos ($$R-CHO$$), éteres ($$R-O-R'$$), ácidos carboxílicos ($$R-COOH$$) y halogenuros de alquilo ($$R-X$$).",
       "imagen": null
     },
     {
@@ -39,194 +39,194 @@
       "pregunta": "¿Cómo se define un alcohol primario?",
       "dificultad": 1,
       "opciones": {
-        "A": "El grupo $$-OH$$ está unido a un carbono sin otros carbonos.",
-        "B": "El grupo $$-OH$$ está unido a un carbono que se une a otros dos carbonos.",
-        "C": "El grupo $$-OH$$ está unido a un carbono que se une a un solo carbono adicional.",
-        "D": "El grupo $$-OH$$ está unido a un carbono que se une a otros tres carbonos.",
-        "E": "La molécula contiene un solo grupo $$-OH$$."
+        "A": "El grupo $$-OH$$ está unido a un carbono que a su vez está unido a otros dos carbonos.",
+        "B": "El grupo $$-OH$$ está unido a un carbono que a su vez está unido a otros tres carbonos.",
+        "C": "La molécula contiene un solo grupo $$-OH$$.",
+        "D": "El grupo $$-OH$$ está unido a un carbono que a su vez está unido a un solo átomo de carbono.",
+        "E": "El grupo $$-OH$$ está en el primer carbono de la cadena, sin importar su conectividad."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un alcohol se clasifica como primario cuando el grupo hidroxilo ($$-OH$$) está enlazado a un carbono primario. Un carbono primario es, por definición, un átomo de carbono que a su vez está unido a un único átomo de carbono adicional.",
+      "respuesta_correcta": "D",
+      "explicacion": "Un alcohol primario se define por la ubicación del grupo hidroxilo ($$-OH$$). Específicamente, el grupo $$-OH$$ debe estar enlazado a un carbono primario, que es un átomo de carbono unido a un solo átomo de carbono adicional.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_004",
-      "pregunta": "Un alcohol se clasifica como terciario cuando el grupo hidroxilo está unido a un átomo de carbono que está enlazado a:",
+      "pregunta": "Un alcohol se clasifica como secundario cuando el grupo $$-OH$$ está unido a un carbono que está enlazado a...",
       "dificultad": 1,
       "opciones": {
-        "A": "un solo átomo de carbono.",
+        "A": "un solo átomo de carbono adicional.",
         "B": "dos átomos de hidrógeno.",
-        "C": "dos átomos de carbono.",
-        "D": "tres átomos de carbono.",
-        "E": "cuatro átomos de carbono."
+        "C": "dos átomos de carbono adicionales.",
+        "D": "tres átomos de carbono adicionales.",
+        "E": "un doble enlace carbono-carbono."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La definición de un alcohol terciario es que el grupo $$-OH$$ está enlazado a un carbono terciario. Un carbono terciario es aquel que está unido directamente a otros tres átomos de carbono.",
+      "respuesta_correcta": "C",
+      "explicacion": "La clasificación de un alcohol como secundario depende de la conectividad del carbono que soporta el grupo hidroxilo. Este carbono debe ser secundario, lo que significa que está directamente enlazado a otros dos átomos de carbono.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_005",
-      "pregunta": "¿Qué tipo de alcohol se forma cuando el grupo $$-OH$$ se une a un carbono secundario?",
+      "pregunta": "¿Cuál es la característica principal de un alcohol terciario?",
       "dificultad": 1,
       "opciones": {
-        "A": "Alcohol primario",
-        "B": "Alcohol secundario",
-        "C": "Alcohol terciario",
-        "D": "Alcohol cuaternario",
-        "E": "Polialcohol"
+        "A": "Contiene tres grupos hidroxilo en su estructura.",
+        "B": "El grupo $$-OH$$ se encuentra en el tercer carbono de la cadena principal.",
+        "C": "El carbono unido al grupo $$-OH$$ está también unido a otros tres átomos de carbono.",
+        "D": "El carbono unido al grupo $$-OH$$ está también unido a otros dos átomos de carbono.",
+        "E": "El carbono unido al grupo $$-OH$$ no tiene hidrógenos enlazados."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Por definición, un alcohol secundario es aquel en el que el grupo hidroxilo ($$-OH$$) está unido a un carbono secundario. Un carbono secundario es un átomo de carbono que está enlazado a otros dos átomos de carbono.",
+      "respuesta_correcta": "C",
+      "explicacion": "Un alcohol terciario se define porque el grupo funcional hidroxilo ($$-OH$$) está unido a un carbono terciario. Un carbono terciario es aquel que está enlazado directamente a otros tres átomos de carbono.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_006",
-      "pregunta": "¿Cómo se clasifica el compuesto con la estructura $$H₃C–CH₂–CH₂–OH$$?",
+      "pregunta": "La clasificación de un alcohol como primario, secundario o terciario depende fundamentalmente de:",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol terciario",
-        "B": "Alcohol secundario",
-        "C": "Alcohol primario",
-        "D": "Aldehído",
-        "E": "Cetona"
+        "A": "El número total de átomos de carbono en la molécula.",
+        "B": "La longitud de la cadena de carbono principal.",
+        "C": "El número de otros átomos de carbono unidos al carbono que porta el grupo $$-OH$$.",
+        "D": "El número de grupos $$-OH$$ presentes en la molécula.",
+        "E": "La presencia de dobles o triples enlaces en la cadena."
       },
       "respuesta_correcta": "C",
-      "explicacion": "En la molécula $$H₃C–CH₂–CH₂–OH$$ (propan-1-ol), el grupo $$-OH$$ está unido al último carbono de la cadena. Este carbono ($$-CH₂–OH$$) está enlazado a un solo átomo de carbono más (el carbono del medio, $$-CH_2-$$). Por lo tanto, es un carbono primario, y el compuesto es un alcohol primario.",
+      "explicacion": "La clasificación de los alcoholes se basa en el tipo de carbono al que está unido el grupo hidroxilo. Si el carbono está unido a un, dos o tres carbonos más, el alcohol será primario, secundario o terciario, respectivamente. Los otros factores no determinan esta clasificación.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_007",
-      "pregunta": "El alcohol isopropílico, cuya estructura es $$H₃C–CH(OH)–CH₃$$, es un ejemplo de:",
+      "pregunta": "¿A qué clase de alcohol pertenece el compuesto propan-1-ol, con estructura $$H_3C–CH_2–CH_2–OH$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol primario",
-        "B": "Alcohol terciario",
-        "C": "Fenol",
-        "D": "Alcohol secundario",
-        "E": "Éter"
+        "A": "Secundario",
+        "B": "Terciario",
+        "C": "Primario",
+        "D": "Fenol",
+        "E": "Dihidroxílico"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "En la estructura $$H₃C–CH(OH)–CH₃$$ (propan-2-ol), el grupo $$-OH$$ está unido al carbono central. Este carbono está, a su vez, enlazado a otros dos átomos de carbono (los de los grupos metilo en los extremos). Al estar unido a dos carbonos, es un carbono secundario, lo que clasifica al compuesto como un alcohol secundario.",
+      "respuesta_correcta": "C",
+      "explicacion": "En la molécula de propan-1-ol, el grupo hidroxilo ($$-OH$$) está unido al primer carbono de la cadena. Este carbono, a su vez, está unido a un solo átomo de carbono más (el segundo carbono de la cadena). Por lo tanto, es un carbono primario y el alcohol se clasifica como primario.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_008",
-      "pregunta": "¿Cuál es el factor principal que determina la clasificación de un alcohol como primario, secundario o terciario?",
+      "pregunta": "El alcohol isopropílico, también conocido como propan-2-ol, cuya estructura es $$H_3C–CH(OH)–CH_3$$, se clasifica como:",
       "dificultad": 2,
       "opciones": {
-        "A": "El número total de átomos de carbono en la molécula.",
-        "B": "El número de grupos $$-OH$$ presentes.",
-        "C": "La posición del grupo $$-OH$$ en la cadena de carbono.",
-        "D": "La longitud de la cadena de carbono $$R$$.",
-        "E": "La presencia de dobles o triples enlaces."
+        "A": "Alcohol primario",
+        "B": "Alcohol secundario",
+        "C": "Alcohol terciario",
+        "D": "Aldehído",
+        "E": "Éter"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La clasificación de los alcoholes depende directamente de la posición del grupo hidroxilo ($$-OH$$). Específicamente, se basa en el tipo de carbono al que está unido: si es primario (unido a 1 C), secundario (unido a 2 C) o terciario (unido a 3 C).",
+      "respuesta_correcta": "B",
+      "explicacion": "En la estructura del propan-2-ol, el grupo hidroxilo ($$-OH$$) está en el carbono central (el segundo carbono). Este carbono está enlazado directamente a otros dos átomos de carbono (el primer y el tercer carbono de la cadena). Por esta razón, se clasifica como un alcohol secundario.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_009",
-      "pregunta": "¿Cuál de las siguientes estructuras representa un alcohol secundario?",
+      "pregunta": "En un alcohol terciario, ¿cuántos átomos de carbono están directamente enlazados al átomo de carbono que porta el grupo hidroxilo?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$H₃C–CH₂–OH$$",
-        "B": "$$(H₃C)₃C–OH$$",
-        "C": "$$H₃C–CH(OH)–CH₃$$",
-        "D": "$$CH_3OH$$",
-        "E": "$$H₃C–CH₂–CH₂–OH$$"
+        "A": "Cero",
+        "B": "Uno",
+        "C": "Dos",
+        "D": "Tres",
+        "E": "Cuatro"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un alcohol secundario tiene el grupo $$-OH$$ en un carbono unido a otros dos carbonos. En la opción C, $$H₃C–CH(OH)–CH₃$$, el carbono con el $$-OH$$ está unido a dos grupos metilo ($$-CH_3$$), cumpliendo la condición. Las opciones A y E son alcoholes primarios, D (metanol) es un caso especial de alcohol primario, y la opción B es un alcohol terciario.",
+      "respuesta_correcta": "D",
+      "explicacion": "Por definición, un alcohol terciario tiene su grupo $$-OH$$ unido a un carbono terciario. Un carbono terciario es aquel que forma enlaces con otros tres átomos de carbono. Por lo tanto, la respuesta correcta es tres.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_010",
-      "pregunta": "La molécula de 2-metilpropan-2-ol, $$(H₃C)₃C–OH$$, se clasifica como un alcohol terciario porque:",
+      "pregunta": "El compuesto 2-metilpropan-2-ol, cuya estructura es $$(H_3C)_3C–OH$$, es un ejemplo de:",
       "dificultad": 2,
       "opciones": {
-        "A": "Contiene un grupo metilo.",
-        "B": "Su nombre incluye el número \"2\" dos veces.",
-        "C": "El carbono unido al grupo $$-OH$$ está enlazado a otros tres carbonos.",
-        "D": "La molécula tiene un total de tres grupos $$-CH_3$$.",
-        "E": "Es un isómero del butanol."
+        "A": "Un alcohol primario",
+        "B": "Un alcohol secundario",
+        "C": "Un alcohol terciario",
+        "D": "Un éter",
+        "E": "Una cetona"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La clasificación depende del carbono al que se une el grupo $$-OH$$. En la estructura $$(H₃C)₃C–OH$$, el carbono central está unido al grupo $$-OH$$ y, además, a tres grupos metilo ($$-CH_3$$). Al estar enlazado a tres átomos de carbono distintos, es un carbono terciario y, por lo tanto, el compuesto es un alcohol terciario.",
+      "explicacion": "Para clasificar el 2-metilpropan-2-ol, observamos el carbono al que se une el grupo $$-OH$$. En la estructura $$(H_3C)_3C–OH$$, el carbono central está unido al $$-OH$$ y también a tres grupos metilo ($$-CH_3$$), es decir, a tres otros átomos de carbono. Esto lo convierte en un alcohol terciario.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_011",
-      "pregunta": "Un alcohol en el que el grupo hidroxilo se une a un carbono que, a su vez, está unido a un solo átomo de carbono adicional, corresponde a un:",
+      "pregunta": "¿Cuál de los siguientes ejemplos corresponde a un alcohol secundario?",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol metílico",
-        "B": "Alcohol secundario",
-        "C": "Alcohol terciario",
-        "D": "Alcohol primario",
-        "E": "Diol"
+        "A": "2-metilpropan-2-ol",
+        "B": "Propan-1-ol",
+        "C": "Propan-2-ol",
+        "D": "Metanol",
+        "E": "Etanol"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Esta es la definición precisa de un alcohol primario. El carbono que porta el grupo $$-OH$$ es un carbono primario, ya que solo tiene un enlace con otro átomo de carbono. Un ejemplo es el propan-1-ol.",
+      "respuesta_correcta": "C",
+      "explicacion": "Un alcohol secundario tiene el grupo $$-OH$$ en un carbono unido a otros dos carbonos. El propan-2-ol ($$H_3C–CH(OH)–CH_3$$) cumple esta condición. El 2-metilpropan-2-ol es terciario, y el propan-1-ol, metanol y etanol son primarios.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_012",
-      "pregunta": "¿Qué tienen en común las moléculas de propan-1-ol, propan-2-ol y 2-metilpropan-2-ol?",
+      "pregunta": "El compuesto con la fórmula $$H_3C–CH_2–CH_2–OH$$ es un ejemplo específico de ¿qué tipo de alcohol?",
       "dificultad": 2,
       "opciones": {
-        "A": "Son todos alcoholes primarios.",
-        "B": "Tienen la misma fórmula molecular.",
-        "C": "Todos contienen un grupo funcional hidroxilo ($$-OH$$).",
-        "D": "Tienen el mismo punto de ebullición.",
-        "E": "Son todos alcoholes terciarios."
+        "A": "Alcohol primario",
+        "B": "Alcohol secundario",
+        "C": "Alcohol terciario",
+        "D": "No es un alcohol",
+        "E": "Polialcohol"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "A pesar de sus diferentes clasificaciones (primario, secundario y terciario, respectivamente) y diferentes fórmulas moleculares, todas estas moléculas pertenecen a la familia de los alcoholes. La característica definitoria de un alcohol es la presencia de al menos un grupo funcional hidroxilo ($$-OH$$), que todas ellas poseen.",
+      "respuesta_correcta": "A",
+      "explicacion": "La fórmula $$H_3C–CH_2–CH_2–OH$$ corresponde al propan-1-ol. El grupo $$-OH$$ está en un carbono terminal (carbono 1), el cual está unido únicamente a otro carbono (carbono 2). Esta estructura corresponde a la definición de un alcohol primario.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_013",
-      "pregunta": "Analizando la estructura del 2-metilpropan-2-ol, $$(H₃C)₃C–OH$$, ¿cuántos enlaces carbono-carbono directos tiene el átomo de carbono que está unido al grupo $$-OH$$?",
-      "dificultad": 3,
-      "opciones": {
-        "A": "0",
-        "B": "1",
-        "C": "2",
-        "D": "3",
-        "E": "4"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "La estructura $$(H₃C)₃C–OH$$ muestra un carbono central (C) unido al grupo $$-OH$$. Este mismo carbono central está unido a tres grupos metilo ($$-CH_3$$). Cada grupo metilo se une al carbono central mediante un enlace C-C. Por lo tanto, el carbono que sostiene al grupo hidroxilo tiene 3 enlaces directos con otros átomos de carbono, lo que confirma su clasificación como terciario.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_296_014",
-      "pregunta": "Si una molécula con la fórmula general $$R-OH$$ tiene un grupo $$R$$ donde el carbono enlazado al $$-OH$$ está a su vez conectado a dos cadenas de carbono y un átomo de hidrógeno, ¿cómo se clasificaría este alcohol?",
+      "pregunta": "Un alcohol presenta una estructura donde el carbono que sostiene al grupo $$-OH$$ no tiene hidrógenos directamente unidos a él, sino que está enlazado a tres grupos de carbono. ¿Cómo se clasificaría este alcohol?",
       "dificultad": 3,
       "opciones": {
         "A": "Primario",
         "B": "Secundario",
         "C": "Terciario",
         "D": "Cuaternario",
-        "E": "Es imposible de determinar"
+        "E": "No es posible clasificarlo con esa información."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La clasificación depende del número de carbonos unidos al carbono que porta el grupo $$-OH$$. La pregunta describe que este carbono está conectado a \"dos cadenas de carbono\", lo que significa que está enlazado directamente a dos átomos de carbono. Por definición, un carbono unido a otros dos carbonos es un carbono secundario, lo que hace que el alcohol sea secundario.",
+      "respuesta_correcta": "C",
+      "explicacion": "La descripción indica que el carbono unido al $$-OH$$ está enlazado a tres grupos de carbono. Esto cumple exactamente la definición de un carbono terciario. Por lo tanto, el alcohol es terciario. El hecho de que no tenga hidrógenos es una consecuencia directa de tener sus cuatro valencias ocupadas por el grupo $$-OH$$ y los tres grupos de carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_296_014",
+      "pregunta": "Al comparar la estructura del propan-1-ol ($$H_3C–CH_2–CH_2–OH$$) y el propan-2-ol ($$H_3C–CH(OH)–CH_3$$), ¿cuál es la justificación estructural de que el primero sea primario y el segundo sea secundario?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El propan-1-ol tiene una cadena más larga que el propan-2-ol.",
+        "B": "El propan-2-ol tiene un grupo metilo extra.",
+        "C": "En el propan-1-ol, el carbono con $$-OH$$ se une a un carbono; en el propan-2-ol, se une a dos.",
+        "D": "Ambos son alcoholes primarios, pero con diferente numeración.",
+        "E": "El propan-1-ol es lineal y el propan-2-ol es ramificado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia clave reside en la conectividad del carbono que lleva el grupo hidroxilo. En el propan-1-ol, el $$-OH$$ está en un carbono terminal que se une a un solo carbono vecino. En el propan-2-ol, el $$-OH$$ está en el carbono central, que se une a los otros dos carbonos de la cadena. Esta diferencia en la conectividad (uno vs. dos carbonos vecinos) es la razón de su clasificación como primario y secundario, respectivamente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_296_015",
-      "pregunta": "¿Cuál es la diferencia estructural clave que distingue al propan-1-ol ($$H₃C–CH₂–CH₂–OH$$) del propan-2-ol ($$H₃C–CH(OH)–CH₃$$)?",
+      "pregunta": "Considere la molécula de 2-metilpropan-2-ol ($$(H_3C)_3C–OH$$). ¿Por qué se clasifica como un alcohol terciario?",
       "dificultad": 3,
       "opciones": {
-        "A": "El propan-2-ol tiene más átomos de hidrógeno.",
-        "B": "El propan-1-ol es una molécula ramificada y el propan-2-ol es lineal.",
-        "C": "El número de átomos de carbono a los que se une el carbono que porta el grupo $$-OH$$.",
-        "D": "El propan-1-ol es primario y el propan-2-ol es terciario.",
-        "E": "Tienen diferentes grupos funcionales."
+        "A": "Porque el nombre contiene el número '2' dos veces.",
+        "B": "Porque la molécula es simétrica.",
+        "C": "Porque el carbono central, unido al $$-OH$$, está a su vez enlazado a los carbonos de tres grupos metilo.",
+        "D": "Porque contiene un grupo metilo como sustituyente.",
+        "E": "Porque es un isómero del butanol."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Ambos compuestos son isómeros de posición con la misma fórmula molecular ($$C_3H_8O$$) y el mismo grupo funcional ($$-OH$$). La diferencia fundamental radica en la ubicación del grupo $$-OH$$. En el propan-1-ol, el carbono unido al $$-OH$$ está enlazado a un solo carbono (es primario). En el propan-2-ol, el carbono unido al $$-OH$$ está enlazado a dos carbonos (es secundario). Por lo tanto, la diferencia clave es el número de átomos de carbono unidos al carbono que sostiene el grupo hidroxilo, lo que define su clasificación.",
+      "explicacion": "La clasificación se basa estrictamente en la estructura alrededor del grupo funcional. En el 2-metilpropan-2-ol, el átomo de carbono que está directamente unido al grupo hidroxilo ($$-OH$$) también está enlazado directamente a tres átomos de carbono adicionales (los de los tres grupos metilo). Esta configuración de un carbono unido a otros tres define un carbono terciario y, por ende, un alcohol terciario.",
       "imagen": null
     }
   ]

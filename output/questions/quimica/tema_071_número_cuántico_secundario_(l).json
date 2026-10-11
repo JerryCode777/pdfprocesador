@@ -3,5 +3,231 @@
   "numero_tema": 71,
   "total_temas": 322,
   "titulo_tema": "Número Cuántico Secundario (l)",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_071_001",
+      "pregunta": "¿Con qué otro nombre se conoce al número cuántico secundario ($l$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Azimutal",
+        "B": "Magnético",
+        "C": "Principal",
+        "D": "De espín",
+        "E": "Energético"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El número cuántico secundario ($l$) también es conocido como número cuántico azimutal o de momento angular. El número cuántico principal es $n$, el magnético es $m_l$ y el de espín es $m_s$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_002",
+      "pregunta": "¿Qué valor del número cuántico secundario ($l$) corresponde al subnivel 's' (sharp)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$l=1$",
+        "B": "$l=2$",
+        "C": "$l=3$",
+        "D": "$l=0$",
+        "E": "$l=4$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los subniveles de energía se asocian con valores enteros específicos de $l$. El subnivel 's' (sharp) corresponde al valor $l=0$. Los valores $l=1$, $l=2$ y $l=3$ corresponden a los subniveles 'p', 'd' y 'f', respectivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_003",
+      "pregunta": "¿Cuál es la forma característica de un orbital perteneciente al subnivel 'p'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Esférica",
+        "B": "Tetralobular",
+        "C": "Bilobular",
+        "D": "Indeterminada",
+        "E": "Cúbica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cada subnivel tiene una forma orbital asociada. El subnivel 'p' ($l=1$) se caracteriza por tener una forma bilobular. La forma esférica corresponde al subnivel 's' ($l=0$), la tetralobular al 'd' ($l=2$) y la indeterminada se asocia al 'f' ($l=3$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_004",
+      "pregunta": "¿Cuál es la cantidad máxima de electrones que puede albergar un subnivel 'd' (diffuse)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "2 electrones",
+        "B": "6 electrones",
+        "C": "14 electrones",
+        "D": "8 electrones",
+        "E": "10 electrones"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El subnivel 'd' ($l=2$) tiene una capacidad máxima para albergar 10 electrones. Las otras capacidades corresponden a otros subniveles: 's' puede contener hasta 2 electrones, 'p' hasta 6, y 'f' hasta 14 electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_005",
+      "pregunta": "¿Qué información fundamental proporciona el número cuántico secundario ($l$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El nivel principal de energía y el tamaño del orbital",
+        "B": "La orientación del orbital en el espacio",
+        "C": "El giro del electrón sobre su propio eje",
+        "D": "El subnivel de energía y la forma del orbital",
+        "E": "La cantidad total de electrones en un átomo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número cuántico secundario, $l$, especifica dos propiedades clave de un electrón: el subnivel de energía al que pertenece dentro de un nivel principal y la forma geométrica del orbital que ocupa (por ejemplo, esférica, bilobular).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_006",
+      "pregunta": "Si un electrón se encuentra en el nivel de energía principal $n=3$, ¿qué valores puede tomar el número cuántico secundario ($l$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$0, 1, 2, 3$",
+        "B": "$0, 1, 2$",
+        "C": "$1, 2, 3$",
+        "D": "Solo $3$",
+        "E": "$0, 1$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los valores permitidos para el número cuántico secundario ($l$) dependen del número cuántico principal ($n$) y están definidos por la regla que establece que $l$ puede tomar valores enteros desde $0$ hasta $n-1$. Para $n=3$, los valores posibles de $l$ son $0, 1$ y $2$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_007",
+      "pregunta": "Un subnivel se caracteriza por tener una forma tetralobular y una capacidad máxima de 10 electrones. ¿Cuál es el valor de su número cuántico secundario ($l$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$l=0$",
+        "B": "$l=1$",
+        "C": "$l=2$",
+        "D": "$l=3$",
+        "E": "$l=4$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La descripción de una forma tetralobular y una capacidad máxima de 10 electrones corresponde al subnivel 'd' (diffuse). Este subnivel se asocia con el valor del número cuántico secundario $l=2$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_008",
+      "pregunta": "Utilizando la fórmula para la cantidad máxima de electrones en un nivel, ¿cuántos electrones puede contener como máximo el nivel $n=4$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "8",
+        "B": "16",
+        "C": "18",
+        "D": "32",
+        "E": "50"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La cantidad máxima de electrones en un nivel de energía principal ($n$) se calcula con la fórmula $$2n^2$$. Para el nivel $n=4$, el cálculo es $$2(4)^2 = 2(16) = 32$$. Por lo tanto, el nivel 4 puede contener un máximo de 32 electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_009",
+      "pregunta": "¿Qué letra simboliza al subnivel con $l=3$ y cuál es su capacidad máxima de electrones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "p, 6 electrones",
+        "B": "d, 10 electrones",
+        "C": "s, 2 electrones",
+        "D": "f, 14 electrones",
+        "E": "g, 18 electrones"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El valor $l=3$ corresponde al subnivel 'f' (fundamental). Este subnivel se caracteriza por tener una capacidad máxima para albergar 14 electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_010",
+      "pregunta": "¿Cuál es la regla que define los valores permitidos para el número cuántico secundario ($l$) en función del número cuántico principal ($n$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$l$ puede tomar cualquier valor entero positivo",
+        "B": "$l$ toma valores enteros desde $0$ hasta $n$",
+        "C": "$l$ toma valores enteros desde $1$ hasta $n$",
+        "D": "$l$ toma valores enteros desde $0$ hasta $n-1$",
+        "E": "$l$ es siempre igual a $n-1$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La relación fundamental entre el número cuántico principal ($n$) y el secundario ($l$) establece que para un valor dado de $n$, $l$ puede tomar todos los valores enteros comenzando desde $0$ hasta un máximo de $n-1$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_011",
+      "pregunta": "¿Qué fórmula, dependiente del número cuántico secundario ($l$), permite determinar la cantidad de orbitales en un subnivel específico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$n-1$$",
+        "B": "$$2n^2$$",
+        "C": "$$2l+1$$",
+        "D": "$$l+1$$",
+        "E": "$$l^2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cantidad de orbitales dentro de un subnivel de energía está dada por la fórmula $$2l+1$$. Por ejemplo, para un subnivel 'p' donde $l=1$, hay $$2(1)+1 = 3$$ orbitales. La fórmula $$2n^2$$ calcula el número máximo de electrones en un nivel completo, no el número de orbitales en un subnivel.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_012",
+      "pregunta": "Para un electrón ubicado en un subnivel con $l=1$, ¿cuál es el nombre del subnivel y su capacidad máxima de electrones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "s (sharp), 2 electrones",
+        "B": "p (principal), 6 electrones",
+        "C": "d (diffuse), 10 electrones",
+        "D": "f (fundamental), 14 electrones",
+        "E": "p (principal), 8 electrones"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El valor $l=1$ corresponde al subnivel 'p', cuyo nombre completo es 'principal'. Este subnivel está compuesto por 3 orbitales ($2(1)+1=3$), y como cada orbital puede albergar 2 electrones, su capacidad máxima es de 6 electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_013",
+      "pregunta": "Aplicando la fórmula correspondiente, ¿cuántos orbitales existen en un subnivel 'f' (fundamental)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7",
+        "E": "9"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para determinar el número de orbitales en un subnivel, se utiliza la fórmula $$2l+1$$. El subnivel 'f' (fundamental) corresponde al número cuántico secundario $l=3$. Al sustituir este valor en la fórmula, obtenemos $$2(3)+1 = 6+1 = 7$$. Por lo tanto, el subnivel 'f' se compone de 7 orbitales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_014",
+      "pregunta": "Un nivel de energía tiene una capacidad máxima de 18 electrones. ¿Cuál es su número cuántico principal ($n$) y cuáles son los subniveles (definidos por $l$) que contiene?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$n=2$, contiene subniveles con $l=0, 1$",
+        "B": "$n=3$, contiene subniveles con $l=0, 1, 2$",
+        "C": "$n=4$, contiene subniveles con $l=0, 1, 2, 3$",
+        "D": "$n=3$, contiene subniveles con $l=1, 2$",
+        "E": "$n=18$, contiene subniveles con $l=0$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Primero, se determina el valor de $n$ usando la fórmula de capacidad máxima de electrones: $$2n^2 = 18$$. Al resolver para $n$, se divide por 2, obteniendo $$n^2=9$$, lo que implica que $n=3$. Una vez conocido $n$, los valores posibles de $l$ se determinan por la regla de $0$ a $n-1$. Para $n=3$, los valores de $l$ son $0, 1, 2$, que corresponden a los subniveles s, p y d.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_071_015",
+      "pregunta": "Para el nivel de energía principal $n=2$, ¿cuáles son sus subniveles permitidos y cómo se confirma su capacidad total de 8 electrones sumando las capacidades de dichos subniveles?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Subniveles s, p, d; Capacidad: $2+6+10=18$ electrones",
+        "B": "Solo subnivel p; Capacidad: $6$ electrones",
+        "C": "Subniveles s, p; Capacidad: $2+6=8$ electrones",
+        "D": "Solo subnivel s; Capacidad: $2$ electrones",
+        "E": "Subniveles p, d; Capacidad: $6+10=16$ electrones"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para el nivel principal $n=2$, los valores permitidos del número cuántico secundario ($l$) son $0$ y $1$ (desde 0 hasta $n-1=1$). Estos valores corresponden a los subniveles 's' y 'p'. El subnivel 's' ($l=0$) tiene una capacidad máxima de 2 electrones, y el subnivel 'p' ($l=1$) tiene una capacidad máxima de 6 electrones. La suma de las capacidades de estos subniveles es $2 + 6 = 8$ electrones. Este resultado coincide con la capacidad total del nivel calculada con la fórmula $$2n^2$$, que para $n=2$ es $$2(2)^2 = 8$$.",
+      "imagen": null
+    }
+  ]
 }

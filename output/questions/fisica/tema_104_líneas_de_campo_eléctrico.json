@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 104,
+  "total_temas": 137,
+  "titulo_tema": "Líneas de campo eléctrico",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_104_001",
+      "pregunta": "¿Cómo se representan las líneas de campo eléctrico para una carga puntual positiva aislada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Acercándose radialmente a la carga.",
+        "B": "Alejándose radialmente de la carga.",
+        "C": "En círculos concéntricos alrededor de la carga.",
+        "D": "Paralelas entre sí, sin tocar la carga.",
+        "E": "Como una única línea curva que rodea la carga."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para una carga puntual positiva, la convención establece que las líneas de campo eléctrico se dibujan como líneas rectas que se alejan o irradian hacia afuera desde la carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_002",
+      "pregunta": "¿Cuál es la dirección de las líneas de campo eléctrico en la proximidad de una carga puntual negativa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se alejan de la carga.",
+        "B": "Se acercan a la carga.",
+        "C": "Forman bucles cerrados que no tocan la carga.",
+        "D": "Son tangentes a una superficie esférica imaginaria.",
+        "E": "No existen líneas de campo para cargas negativas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "A diferencia de las cargas positivas, para una carga puntual negativa las líneas de campo eléctrico se representan dirigiéndose o acercándose hacia la carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_003",
+      "pregunta": "En un dipolo eléctrico formado por una carga positiva y una negativa de igual magnitud, ¿cuál es la dirección general de las líneas de campo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De la carga negativa hacia la positiva.",
+        "B": "De la carga positiva hacia la negativa.",
+        "C": "Paralelas a la línea que une las cargas.",
+        "D": "Se repelen y se alejan del dipolo.",
+        "E": "Forman círculos cerrados alrededor de cada carga por separado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un dipolo eléctrico, las líneas de campo se originan en la carga positiva y se dirigen hacia la carga negativa, terminando en ella.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_004",
+      "pregunta": "¿Qué característica principal presentan las líneas de fuerza en un campo eléctrico uniforme u homogéneo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son líneas curvas que convergen en un punto.",
+        "B": "Se cruzan entre sí formando una red.",
+        "C": "Son líneas igualmente espaciadas.",
+        "D": "Su densidad disminuye con la distancia.",
+        "E": "Se originan en un solo punto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un campo eléctrico uniforme u homogéneo se representa gráficamente mediante líneas de fuerza que son paralelas y están igualmente espaciadas entre sí, indicando que la magnitud y dirección del campo son constantes en esa región.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_005",
+      "pregunta": "De acuerdo con las reglas fundamentales para dibujar líneas de campo eléctrico, ¿cuál de las siguientes afirmaciones es correcta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las líneas de campo pueden comenzar y terminar en la misma carga.",
+        "B": "Dos líneas de campo pueden cruzarse en puntos de campo nulo.",
+        "C": "El número de líneas es independiente de la magnitud de la carga.",
+        "D": "Dos líneas de campo no se pueden cruzar.",
+        "E": "Las líneas de campo siempre son rectas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una de las reglas esenciales para el dibujo de líneas de campo eléctrico es que dos líneas de campo nunca pueden intersectarse. Si lo hicieran, el campo eléctrico tendría dos direcciones distintas en el mismo punto, lo cual es físicamente imposible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_006",
+      "pregunta": "¿De qué factor depende directamente el número de líneas que se dibujan saliendo de una carga positiva o entrando a una negativa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "De la masa de la partícula.",
+        "B": "De la magnitud de la carga.",
+        "C": "Del signo de la carga únicamente.",
+        "D": "De la temperatura del entorno.",
+        "E": "Del material del que está hecha la carga."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El número de líneas de campo dibujadas es proporcional a la magnitud de la carga. Una carga con mayor magnitud tendrá más líneas asociadas a ella que una carga de menor magnitud, representando así un campo más intenso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_007",
+      "pregunta": "¿Cómo se visualiza la interacción de las líneas de campo eléctrico entre dos cargas positivas de igual magnitud?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las líneas se conectan directamente entre las dos cargas.",
+        "B": "Las líneas se anulan completamente en el espacio entre ellas.",
+        "C": "Las líneas se repelen entre sí, curvándose para alejarse una de la otra.",
+        "D": "Las líneas son paralelas y uniformes entre las cargas.",
+        "E": "Las líneas de una carga son absorbidas por la otra."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando dos cargas positivas de igual magnitud están cerca, sus líneas de campo eléctrico se repelen mutuamente. Esto se observa como una curvatura de las líneas que se alejan de la región intermedia entre las cargas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_008",
+      "pregunta": "En un sistema que contiene un exceso de carga negativa (más carga negativa que positiva), ¿dónde comenzarán algunas de las líneas de campo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En las propias cargas negativas.",
+        "B": "En las cargas positivas existentes.",
+        "C": "En el infinito.",
+        "D": "En puntos neutros del espacio.",
+        "E": "No existirán líneas de campo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las reglas establecen que las líneas de campo terminan en cargas negativas. Si hay un exceso de carga negativa, no hay suficientes cargas positivas para que todas las líneas comiencen en ellas. Por lo tanto, algunas líneas deben comenzar en el infinito para terminar en el exceso de carga negativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_009",
+      "pregunta": "Si en un diagrama se observa que de una carga puntual $A$ salen 8 líneas y a una carga puntual $B$ llegan 16 líneas, ¿qué se puede inferir sobre sus magnitudes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La magnitud de $A$ es el doble que la de $B$.",
+        "B": "La magnitud de $B$ es el doble que la de $A$.",
+        "C": "Ambas cargas tienen la misma magnitud.",
+        "D": "La magnitud de $B$ es la mitad que la de $A$.",
+        "E": "No se puede determinar la relación sin conocer la distancia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El número de líneas de campo es proporcional a la magnitud de la carga. Dado que a la carga $B$ llegan 16 líneas y de la carga $A$ salen 8, la magnitud de la carga $B$ es el doble que la magnitud de la carga $A$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_010",
+      "pregunta": "En un sistema aislado que consiste únicamente en una carga puntual positiva, ¿dónde terminan las líneas de campo que se originan en ella?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En la misma carga.",
+        "B": "En el infinito.",
+        "C": "En un punto arbitrario cercano.",
+        "D": "No tienen fin.",
+        "E": "En una carga negativa imaginaria."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las líneas de campo deben empezar en cargas positivas y terminar en negativas. Si solo existe una carga positiva (un exceso de carga positiva), no hay cargas negativas donde terminar. En este caso, las líneas se extienden desde la carga positiva y terminan en el infinito.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_011",
+      "pregunta": "¿Qué configuración de cargas produciría líneas de campo que se originan en una fuente puntual y terminan en otra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dos cargas positivas.",
+        "B": "Dos cargas negativas.",
+        "C": "Una carga positiva y una carga negativa.",
+        "D": "Una sola carga positiva.",
+        "E": "Un campo eléctrico uniforme."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla fundamental es que las líneas de campo comienzan en cargas positivas y terminan en cargas negativas. La configuración que cumple esta descripción es un sistema con al menos una carga positiva (fuente de origen) y una carga negativa (punto de término), como un dipolo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_012",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor la representación de un campo eléctrico homogéneo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Líneas de fuerza que salen de una carga positiva y se curvan.",
+        "B": "Líneas de fuerza que convergen en una carga negativa.",
+        "C": "Líneas de fuerza paralelas y equidistantes entre sí.",
+        "D": "Líneas de fuerza cuyo espaciado aumenta a medida que se alejan de la fuente.",
+        "E": "Ausencia de líneas de fuerza."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un campo eléctrico homogéneo o uniforme es aquel cuya intensidad y dirección son constantes en toda una región del espacio. Gráficamente, esto se representa mediante líneas de fuerza que son paralelas entre sí y mantienen un espaciado igual (equidistantes).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_013",
+      "pregunta": "Se tienen dos cargas puntuales, una positiva $Q_1$ y una negativa $Q_2$. Si el número de líneas de campo que salen de $Q_1$ es tres veces mayor que el número de líneas que llegan a $Q_2$, ¿cuál es la relación entre las magnitudes de las cargas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$|Q_1| = |Q_2|$$",
+        "B": "$$|Q_2| = 3|Q_1|$$",
+        "C": "$$|Q_1| = \frac{1}{3}|Q_2|$$",
+        "D": "$$|Q_1| = 3|Q_2|$$",
+        "E": "La relación depende de la distancia entre ellas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número de líneas de campo es directamente proporcional a la magnitud de la carga. Si de $Q_1$ salen $N$ líneas y a $Q_2$ llegan $M$ líneas, entonces la relación de sus magnitudes es $|Q_1|/|Q_2| = N/M$. En este caso, $N=3M$, por lo que $|Q_1|/|Q_2| = 3M/M = 3$. Despejando, se obtiene que $$|Q_1| = 3|Q_2|$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_014",
+      "pregunta": "¿Cuál de las siguientes situaciones viola una de las reglas fundamentales para dibujar líneas de campo eléctrico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Líneas de campo que comienzan en una carga positiva y terminan en el infinito.",
+        "B": "Un conjunto de líneas de campo igualmente espaciadas.",
+        "C": "Dos líneas de campo que parten de cargas positivas distintas y se cruzan en un punto.",
+        "D": "Líneas de campo que se repelen entre dos cargas del mismo signo.",
+        "E": "Un mayor número de líneas asociadas a una carga de mayor magnitud."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una regla fundamental establece que las líneas de campo eléctrico nunca pueden cruzarse. Un cruce implicaría que en ese punto el vector de campo eléctrico apunta en dos direcciones a la vez, lo cual es físicamente imposible. Las otras opciones describen escenarios válidos: A) corresponde a un exceso de carga positiva, B) a un campo uniforme, D) a la repulsión entre cargas iguales, y E) a la proporcionalidad entre el número de líneas y la magnitud de la carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_104_015",
+      "pregunta": "Considere un sistema con una carga $+2Q$ y una carga $-Q$. Si se dibujan 10 líneas de campo saliendo de la carga $+2Q$, ¿cuántas líneas terminarán en la carga $-Q$ y cuántas se extenderán hasta el infinito?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "10 líneas terminan en $-Q$, 0 en el infinito.",
+        "B": "5 líneas terminan en $-Q$, 5 en el infinito.",
+        "C": "2 líneas terminan en $-Q$, 8 en el infinito.",
+        "D": "8 líneas terminan en $-Q$, 2 en el infinito.",
+        "E": "Todas las 10 líneas se extienden al infinito."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El número de líneas es proporcional a la magnitud de la carga. Si la carga $+2Q$ está representada por 10 líneas, esto establece una proporción de 5 líneas por cada unidad de magnitud de carga $Q$ (10 líneas / $2Q$). Por lo tanto, la carga $-Q$, que tiene una magnitud de $Q$, deberá tener 5 líneas de campo terminando en ella (5 líneas/$Q \times 1Q$). Como de la carga $+2Q$ salen 10 líneas y solo 5 terminan en la carga $-Q$, las 5 líneas restantes deben terminar en el infinito, lo cual es coherente con que el sistema tiene una carga neta positiva ($+2Q - Q = +Q$).",
+      "imagen": null
+    }
+  ]
+}

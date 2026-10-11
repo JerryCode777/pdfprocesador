@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 111,
+  "total_temas": 137,
+  "titulo_tema": "Relación entre campo eléctrico y potencial",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_111_001",
+      "pregunta": "¿Cuál es la definición de un capacitor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un dispositivo que genera corriente eléctrica de forma continua.",
+        "B": "Un componente que mide la intensidad del campo eléctrico.",
+        "C": "Un dispositivo que almacena energía potencial eléctrica y carga eléctrica.",
+        "D": "Un material que impide completamente el paso de la electricidad.",
+        "E": "Un aparato para convertir energía eléctrica en energía mecánica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un capacitor es, por definición, un dispositivo diseñado específicamente para almacenar energía en forma de energía potencial eléctrica, lo cual se logra acumulando carga eléctrica en sus conductores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_002",
+      "pregunta": "Según la relación entre campo eléctrico y potencial, ¿cuál es la unidad del campo eléctrico ($E$) que se deduce?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Joule ($J$)",
+        "B": "Voltio/metro ($V/m$)",
+        "C": "Newton ($N$)",
+        "D": "Faradio ($F$)",
+        "E": "Amperio ($A$)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación $$V_{AB} = E \\cdot d$$ muestra que el campo eléctrico ($E$) es igual a la diferencia de potencial ($V_{AB}$) dividida por la distancia ($d$). Si el potencial se mide en voltios (V) y la distancia en metros (m), la unidad para el campo eléctrico es voltio por metro ($V/m$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_003",
+      "pregunta": "¿Qué se necesita para construir un capacitor simple?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un único conductor esférico.",
+        "B": "Dos conductores aislados uno del otro.",
+        "C": "Un material semiconductor y una fuente de luz.",
+        "D": "Una bobina de alambre y un imán.",
+        "E": "Dos fuentes de voltaje conectadas en serie."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estructura fundamental de un capacitor consiste en dos conductores que están eléctricamente aislados entre sí. Esta separación es crucial para poder mantener una diferencia de potencial y almacenar carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_004",
+      "pregunta": "¿Qué tipo de energía se almacena en un capacitor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Energía cinética",
+        "B": "Energía magnética",
+        "C": "Energía térmica",
+        "D": "Energía potencial eléctrica",
+        "E": "Energía nuclear"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un capacitor almacena energía realizando trabajo para separar cargas eléctricas. Este trabajo se conserva en el campo eléctrico entre los conductores como energía potencial eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_005",
+      "pregunta": "¿Cuál de los siguientes es un ejemplo de una aplicación para los capacitores?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Calentadores de agua",
+        "B": "Flashes fotográficos",
+        "C": "Motores de combustión",
+        "D": "Paneles solares",
+        "E": "Altavoces dinámicos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los flashes fotográficos utilizan capacitores para almacenar una gran cantidad de carga y luego liberarla rápidamente, produciendo un destello de luz muy intenso y breve. Otras aplicaciones mencionadas son los láseres pulsados, sensores de bolsas de aire y receptores de radio y televisión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_006",
+      "pregunta": "La ecuación $$V_{AB} = E \\cdot d$$ describe la relación entre la diferencia de potencial ($V_{AB}$), la magnitud del campo eléctrico ($E$) y la distancia ($d$) para un campo eléctrico...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Variable",
+        "B": "Circular",
+        "C": "Uniforme",
+        "D": "Generado por una sola carga",
+        "E": "Magnético"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula $$V_{AB} = E \\cdot d$$ es específica para un campo eléctrico uniforme, es decir, un campo que tiene la misma magnitud y dirección en todos los puntos del espacio considerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_007",
+      "pregunta": "¿Cómo se logra el almacenamiento de energía en un capacitor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Al enfriar sus conductores a temperaturas muy bajas.",
+        "B": "Al transferir carga de un conductor a otro.",
+        "C": "Al inducir un campo magnético constante.",
+        "D": "Al hacer girar los conductores a alta velocidad.",
+        "E": "Al exponer el dispositivo a la luz solar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El proceso de almacenamiento de energía en un capacitor implica realizar trabajo para mover carga eléctrica desde un conductor hacia el otro. Esto crea una separación de carga y una diferencia de potencial, y el trabajo realizado se almacena como energía potencial eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_008",
+      "pregunta": "En la relación $$V_{AB} = E \\cdot d$$, ¿qué se establece acerca de los potenciales en los puntos A ($V_A$) y B ($V_B$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_A < V_B$$",
+        "B": "$$V_A = V_B$$",
+        "C": "$$V_A > V_B$$",
+        "D": "$$V_A = -V_B$$",
+        "E": "La relación es indeterminada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula está definida bajo la condición de que el potencial en el punto A es mayor que el potencial en el punto B. El campo eléctrico apunta siempre desde regiones de mayor potencial hacia regiones de menor potencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_009",
+      "pregunta": "Cuando un capacitor almacena energía, ¿cuál es la condición de las cargas en sus dos conductores?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos conductores tienen una carga neta positiva.",
+        "B": "Ambos conductores permanecen eléctricamente neutros.",
+        "C": "Un conductor tiene carga negativa y el otro una cantidad igual de carga positiva.",
+        "D": "Un conductor tiene el doble de carga que el otro.",
+        "E": "Ambos conductores adquieren una carga neta negativa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El proceso de carga de un capacitor consiste en transferir carga de un conductor a otro. Por cada unidad de carga positiva que se acumula en un conductor, una unidad de carga negativa se acumula en el otro, manteniendo la neutralidad eléctrica del dispositivo en su conjunto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_010",
+      "pregunta": "El trabajo efectuado para trasladar las cargas entre los conductores de un capacitor se almacena como...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Luz y sonido.",
+        "B": "Un campo magnético estático.",
+        "C": "Calor disipado en los conductores.",
+        "D": "Energía potencial eléctrica.",
+        "E": "Energía cinética de los electrones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "De acuerdo con el principio de conservación de la energía, el trabajo realizado contra las fuerzas eléctricas para separar las cargas no se pierde, sino que se transforma y almacena en el campo eléctrico entre los conductores como energía potencial eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_011",
+      "pregunta": "En un campo eléctrico uniforme, si la magnitud del campo eléctrico $E$ se mantiene constante, ¿cómo varía la diferencia de potencial $V_{AB}$ al aumentar la distancia $d$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye de forma inversamente proporcional.",
+        "B": "Aumenta de forma directamente proporcional.",
+        "C": "Permanece constante.",
+        "D": "Aumenta con el cuadrado de la distancia.",
+        "E": "Disminuye con el cuadrado de la distancia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación $$V_{AB} = E \\cdot d$$ muestra una relación de proporcionalidad directa entre la diferencia de potencial $V_{AB}$ y la distancia $d$. Si $E$ es constante, al duplicar la distancia, la diferencia de potencial también se duplicará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_012",
+      "pregunta": "¿Cuál es el principio fundamental que explica el almacenamiento de energía en un capacitor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La generación de una corriente eléctrica por inducción magnética.",
+        "B": "La conversión de energía química en energía eléctrica.",
+        "C": "La realización de trabajo para separar cargas de signo opuesto.",
+        "D": "La emisión de fotones por parte de los conductores.",
+        "E": "La resistencia de los conductores al flujo de carga."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El almacenamiento de energía se basa en que se debe realizar un trabajo para mover cargas en contra de la fuerza eléctrica (cargas de un mismo signo se repelen y de signo opuesto se atraen). Este trabajo queda almacenado como energía potencial eléctrica en el sistema de cargas separadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_013",
+      "pregunta": "En un campo eléctrico uniforme $E$, la diferencia de potencial entre dos puntos A y B separados por una distancia $d$ es $V_{AB}$. Si el campo eléctrico se duplica a $2E$ y la distancia se reduce a la mitad $d/2$, ¿cuál es la nueva diferencia de potencial?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$2 \\cdot V_{AB}$$",
+        "B": "$$\\frac{V_{AB}}{2}$$",
+        "C": "$$4 \\cdot V_{AB}$$",
+        "D": "$$V_{AB}$$",
+        "E": "$$\\frac{V_{AB}}{4}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La diferencia de potencial original es $$V_{AB} = E \\cdot d$$. La nueva diferencia de potencial ($V'_{AB}$) se calcula con los nuevos valores: $$V'_{AB} = (2E) \\cdot (\\frac{d}{2})$$. Al simplificar la expresión, obtenemos $$V'_{AB} = E \\cdot d$$, que es igual a la diferencia de potencial original $V_{AB}$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_014",
+      "pregunta": "La fórmula $$V_{AB} = E \\cdot d$$ se puede reordenar como $$E = \\frac{V_{AB}}{d}$$. ¿Qué implicación conceptual tiene esta expresión para el campo eléctrico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El campo eléctrico es la energía total por unidad de distancia.",
+        "B": "El campo eléctrico representa la tasa de cambio del potencial eléctrico con respecto a la distancia.",
+        "C": "El campo eléctrico solo existe si hay una distancia física entre dos puntos.",
+        "D": "El potencial eléctrico es una consecuencia de la existencia del campo.",
+        "E": "El campo eléctrico y el potencial son cantidades independientes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La expresión $$E = \\frac{V_{AB}}{d}$$ indica que la magnitud del campo eléctrico es el cambio en el potencial eléctrico ($V_{AB}$) por unidad de distancia ($d$). Esto se interpreta como el gradiente o la tasa de cambio espacial del potencial. Un cambio de potencial más abrupto en una distancia corta implica un campo eléctrico más intenso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_111_015",
+      "pregunta": "Dado que en la relación $$V_{AB} = E \\cdot d$$ se cumple que $$V_A > V_B$$, ¿qué se puede concluir sobre la dirección del campo eléctrico $E$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Apunta desde B hacia A (de menor a mayor potencial).",
+        "B": "Es perpendicular a la línea que conecta A y B.",
+        "C": "Su dirección es indeterminada sin conocer las cargas.",
+        "D": "Forma un ángulo de 45 grados con la línea que une A y B.",
+        "E": "Apunta desde A hacia B (de mayor a menor potencial)."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Una propiedad fundamental de los campos eléctricos es que sus líneas de campo siempre apuntan en la dirección en que el potencial eléctrico disminuye. Dado que el potencial en A ($V_A$) es mayor que el potencial en B ($V_B$), el campo eléctrico debe apuntar desde el punto A hacia el punto B.",
+      "imagen": null
+    }
+  ]
+}

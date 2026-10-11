@@ -3,5 +3,231 @@
   "numero_tema": 196,
   "total_temas": 322,
   "titulo_tema": "Ecuación Iónica Total",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_196_001",
+      "pregunta": "¿Qué característica principal describe a una ecuación molecular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se disocian todos los iones de las sustancias acuosas.",
+        "B": "Se escriben las fórmulas completas y neutras de todas las sustancias.",
+        "C": "Se omiten los iones que no participan en la reacción.",
+        "D": "Solo se incluyen las sustancias en estado acuoso.",
+        "E": "La carga total de los iones debe conservarse en ambos lados."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación molecular se define por presentar las fórmulas químicas completas y eléctricamente neutras de todos los reactivos y productos, indicando su estado de agregación, como (l), (aq), (s) o (g).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_002",
+      "pregunta": "¿Cómo se denominan los iones que aparecen sin cambios en ambos lados de una ecuación iónica total?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Iones activos",
+        "B": "Iones netos",
+        "C": "Iones espectadores",
+        "D": "Iones disociados",
+        "E": "Iones moleculares"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los iones espectadores son aquellos que están presentes en la disolución pero no participan directamente en la reacción química. Por lo tanto, aparecen de forma idéntica en el lado de los reactivos y en el de los productos de la ecuación iónica total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_003",
+      "pregunta": "¿Qué tipo de ecuación se obtiene al omitir los iones espectadores de una ecuación iónica total?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ecuación molecular",
+        "B": "Ecuación iónica parcial",
+        "C": "Ecuación de disociación",
+        "D": "Ecuación iónica neta",
+        "E": "Ecuación de estado"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación iónica neta se deriva de la ecuación iónica total al cancelar o eliminar los iones espectadores. Su propósito es mostrar únicamente las especies químicas que reaccionan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_004",
+      "pregunta": "¿Cuál es el paso fundamental para escribir una ecuación iónica total a partir de una ecuación molecular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cancelar todos los iones presentes.",
+        "B": "Disociar todos los iones de las sustancias acuosas fuertes.",
+        "C": "Escribir únicamente los sólidos y gases.",
+        "D": "Omitir el estado de agregación de cada sustancia.",
+        "E": "Igualar el número de moléculas en ambos lados."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La transición de una ecuación molecular a una iónica total implica la disociación (separación en iones) de todas las sustancias que son electrolitos fuertes y se encuentran en disolución acuosa, representadas con (aq).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_005",
+      "pregunta": "En una ecuación iónica total, ¿qué tipo de sustancias se escriben sin disociar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Únicamente las sustancias acuosas fuertes.",
+        "B": "Todos los reactivos sin excepción.",
+        "C": "Iones con carga positiva.",
+        "D": "Sólidos (s), líquidos (l), gases (g) y sustancias moleculares débiles.",
+        "E": "Solo los compuestos que contienen metales."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla para formular la ecuación iónica total establece que las sustancias que no se disocian son aquellas que son insolubles (s), líquidas puras (l), gaseosas (g) o electrolitos débiles, ya que existen predominantemente en su forma molecular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_006",
+      "pregunta": "Si una sustancia en una ecuación molecular está marcada con el estado (aq) y es un electrolito fuerte, ¿cómo debe representarse en la ecuación iónica total?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como una fórmula molecular completa con el estado (s).",
+        "B": "Se omite por completo de la ecuación.",
+        "C": "Se representa disociada en sus iones constituyentes.",
+        "D": "Como una fórmula molecular completa con el estado (aq).",
+        "E": "Se representa como un gas con el estado (g)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las sustancias acuosas fuertes se disocian completamente en sus iones en solución. Por lo tanto, en la ecuación iónica total, deben escribirse como iones separados, cada uno con su respectiva carga y el estado (aq).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_007",
+      "pregunta": "¿Cuál de las siguientes representaciones es correcta para un producto insoluble en una ecuación iónica total?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disociado en sus iones con estado (aq).",
+        "B": "Como una fórmula molecular completa con estado (s).",
+        "C": "Omitido, ya que no está en solución.",
+        "D": "Disociado en sus iones con estado (s).",
+        "E": "Como una fórmula molecular completa con estado (aq)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las sustancias insolubles, que se precipitan como sólidos, se indican con (s). Según las reglas, estas no se disocian en la ecuación iónica total y se escriben con su fórmula molecular completa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la ecuación iónica total y la ecuación iónica neta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ecuación total usa estados de agregación y la neta no.",
+        "B": "La ecuación total incluye iones espectadores, mientras que la neta los excluye.",
+        "C": "La ecuación neta disocia los sólidos, pero la total no.",
+        "D": "La ecuación total solo muestra reactivos, y la neta solo productos.",
+        "E": "No existe ninguna diferencia fundamental entre ellas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción clave es la presencia de iones espectadores. La ecuación iónica total los muestra a ambos lados de la reacción, mientras que la ecuación iónica neta se simplifica eliminándolos para centrarse solo en las especies que cambian químicamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_009",
+      "pregunta": "Si el ion $$Na^+(aq)$$ aparece tanto en los reactivos como en los productos de una ecuación iónica total, ¿qué se puede concluir sobre su papel en la reacción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es el principal agente oxidante.",
+        "B": "Es un ion espectador que no participa directamente.",
+        "C": "Se precipita para formar un sólido.",
+        "D": "Es el catalizador de la reacción.",
+        "E": "Se disocia para formar la reacción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un ion que no sufre ningún cambio químico y aparece de forma idéntica en ambos lados de la ecuación es, por definición, un ion espectador. Su presencia es necesaria para mantener la neutralidad eléctrica, pero no participa en la transformación química neta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_010",
+      "pregunta": "¿Qué principio fundamental debe cumplirse en una ecuación iónica neta, además del balance de masa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La suma de los coeficientes estequiométricos debe ser igual.",
+        "B": "Todas las sustancias deben estar en estado acuoso.",
+        "C": "La carga eléctrica total debe conservarse en ambos lados.",
+        "D": "Debe haber al menos un ion espectador presente.",
+        "E": "El número de iones debe ser igual al número de moléculas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una ecuación química correctamente balanceada, incluida la iónica neta, debe cumplir con la ley de conservación de la masa (átomos) y la ley de conservación de la carga (la suma de las cargas de los reactivos debe ser igual a la suma de las cargas de los productos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_011",
+      "pregunta": "¿Qué información de la ecuación molecular es indispensable para poder escribir correctamente la ecuación iónica total?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura y presión de la reacción.",
+        "B": "La velocidad a la que ocurre la reacción.",
+        "C": "El color de los reactivos y productos.",
+        "D": "El estado de agregación (s, l, g, aq) de cada sustancia.",
+        "E": "La entalpía de la reacción."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El estado de agregación es crucial porque determina cómo se tratará cada sustancia. Solo las sustancias acuosas (aq) que son electrolitos fuertes se disocian. Los sólidos (s), líquidos (l) y gases (g) se mantienen en su forma molecular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_012",
+      "pregunta": "¿Cuál es el principal objetivo de formular una ecuación iónica neta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Mostrar todos los iones presentes en la disolución.",
+        "B": "Incluir únicamente los iones y sustancias que intervienen directamente en la reacción.",
+        "C": "Representar la reacción en su forma molecular y neutra.",
+        "D": "Demostrar la solubilidad de todos los compuestos.",
+        "E": "Listar los iones que no participan en la reacción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación iónica neta simplifica la reacción al eliminar los iones espectadores, lo que permite centrarse exclusivamente en las especies químicas que se transforman, es decir, las que participan activamente en la formación de productos como un precipitado, un gas o agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_013",
+      "pregunta": "Dada la siguiente ecuación iónica total: $$2 K^+(aq) + SO_4^{2-}(aq) + Ba^{2+}(aq) + 2 Cl^-(aq) \\rightarrow BaSO_4(s) + 2 K^+(aq) + 2 Cl^-(aq)$$, ¿cuál es la ecuación iónica neta correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$2 K^+(aq) + 2 Cl^-(aq) \\rightarrow 2 KCl(aq)$$",
+        "B": "$$Ba^{2+}(aq) + SO_4^{2-}(aq) \\rightarrow BaSO_4(s)$$",
+        "C": "$$K^+(aq) + Cl^-(aq) \\rightarrow KCl(s)$$",
+        "D": "$$2 K^+(aq) + SO_4^{2-}(aq) \\rightarrow K_2SO_4(s)$$",
+        "E": "La ecuación iónica total es la misma que la neta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para obtener la ecuación iónica neta, se identifican y cancelan los iones espectadores. En este caso, los iones $$K^+(aq)$$ y $$Cl^-(aq)$$ aparecen sin cambios en ambos lados. Al eliminarlos, la ecuación resultante muestra la reacción real: la combinación de los iones bario y sulfato para formar el precipitado sólido de sulfato de bario. La carga total se conserva (lado izquierdo: $$+2 - 2 = 0$$; lado derecho: 0).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_014",
+      "pregunta": "¿Por qué una sustancia con la etiqueta (g) no se disocia al escribir una ecuación iónica total?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque los gases siempre son iones espectadores.",
+        "B": "Porque la regla de disociación se aplica exclusivamente a sustancias acuosas fuertes.",
+        "C": "Porque los gases no pueden ser productos de una reacción.",
+        "D": "Porque todos los gases son eléctricamente neutros y no pueden formar iones.",
+        "E": "Porque los gases se disocian solo en la ecuación iónica neta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las reglas para escribir ecuaciones iónicas establecen que solo los electrolitos fuertes en disolución acuosa (aq) se escriben en su forma disociada. Las sustancias que son gases (g), líquidos puros (l), sólidos (s) o electrolitos débiles se mantienen en su forma molecular, ya que no se disocian significativamente en iones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_196_015",
+      "pregunta": "Para una reacción que forma un precipitado insoluble a partir de dos reactivos acuosos solubles, ¿qué tipo de ecuación representa más claramente la transformación química esencial?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La ecuación molecular, porque muestra los compuestos originales.",
+        "B": "La ecuación iónica total, porque muestra todos los iones en la solución.",
+        "C": "La ecuación iónica neta, porque aísla la formación del sólido a partir de sus iones.",
+        "D": "Tanto la ecuación molecular como la iónica total son igualmente claras.",
+        "E": "Ninguna ecuación puede representar claramente la transformación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una reacción de precipitación, los iones que no forman el sólido son espectadores. La ecuación iónica neta omite estos iones y revela la esencia de la reacción: la combinación de iones específicos para formar un compuesto sólido insoluble. Esto destaca el cambio químico fundamental que ocurre de la manera más concisa.",
+      "imagen": null
+    }
+  ]
 }

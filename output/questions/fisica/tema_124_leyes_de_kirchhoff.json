@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 124,
+  "total_temas": 137,
+  "titulo_tema": "Leyes de Kirchhoff",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_124_001",
+      "pregunta": "¿Cuál es la definición de una \"unión\" o \"nodo\" en un circuito eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cualquier trayectoria cerrada a través de la cual fluye la corriente.",
+        "B": "Un punto en un circuito donde se unen tres o más conductores.",
+        "C": "El componente que proporciona la fuerza electromotriz (f.e.m.).",
+        "D": "Un elemento del circuito que posee resistencia eléctrica.",
+        "E": "La conexión entre dos componentes únicamente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una unión o nodo se define específicamente como un punto en un circuito donde convergen o divergen tres o más conductores. Es un punto de derivación donde la corriente se divide o se combina. La opción A describe una espira o malla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_002",
+      "pregunta": "¿Qué es una \"espira\" o \"malla\" en el contexto de las leyes de Kirchhoff?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un punto donde tres o más cables se conectan.",
+        "B": "Un tramo abierto de un circuito entre dos puntos.",
+        "C": "Cualquier trayectoria cerrada a través de la cual fluye una corriente eléctrica.",
+        "D": "El voltaje total suministrado por la batería.",
+        "E": "Un componente que se opone al paso de la corriente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una espira o malla es, por definición, cualquier camino cerrado en un circuito eléctrico. Al recorrer una espira y volver al punto de partida, se analizan las caídas y subidas de potencial eléctrico. La opción A define un nodo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_003",
+      "pregunta": "Según la primera regla de Kirchhoff, ¿cuál es el valor de la suma algebraica de las corrientes en cualquier unión?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Igual a la resistencia total.",
+        "B": "Igual a uno.",
+        "C": "Dependiente del voltaje.",
+        "D": "Igual a cero.",
+        "E": "Siempre un valor negativo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La primera regla de Kirchhoff, o regla de las uniones, establece que la suma algebraica de todas las corrientes que entran y salen de un nodo es igual a cero. Esto se expresa matemáticamente como $$\\Sigma I = 0$$ y es una consecuencia directa del principio de conservación de la carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_004",
+      "pregunta": "¿Cuál es la principal característica del voltaje en los componentes conectados en paralelo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El voltaje se divide equitativamente entre todos los componentes.",
+        "B": "El voltaje es el mismo para todos los componentes.",
+        "C": "La suma de los voltajes de los componentes es igual al voltaje total.",
+        "D": "El voltaje es inversamente proporcional a la resistencia de cada componente.",
+        "E": "El voltaje es cero en una conexión en paralelo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una conexión en paralelo, todos los componentes están conectados a los mismos dos puntos del circuito. Por lo tanto, la diferencia de potencial (voltaje) a través de cada componente es idéntica y es igual al voltaje total de la fuente. Se representa como $$V = V_1 = V_2 = V_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_005",
+      "pregunta": "¿Cómo se interpreta comúnmente la primera regla de Kirchhoff en términos de corrientes que entran y salen de un nodo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La suma de las corrientes que ingresan es siempre mayor que la suma de las que salen.",
+        "B": "El producto de las corrientes que ingresan es igual al producto de las que salen.",
+        "C": "La suma de las corrientes que ingresan a una unión es igual a la suma de las corrientes que salen de él.",
+        "D": "La suma de las corrientes que salen es siempre el doble de las que ingresan.",
+        "E": "Todas las corrientes en un nodo deben fluir en la misma dirección."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La formulación $$\\Sigma I = 0$$ de la primera regla de Kirchhoff se interpreta de manera práctica como que la cantidad total de corriente que fluye hacia un nodo debe ser igual a la cantidad total de corriente que fluye hacia afuera de ese nodo. Esto se escribe como $$\\Sigma I_{ingresan} = \\Sigma I_{salen}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_006",
+      "pregunta": "¿Qué establece la segunda regla de Kirchhoff, también conocida como la regla de las espiras o mallas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La suma de las corrientes que entran a un nodo es igual a la suma de las que salen.",
+        "B": "El voltaje es el mismo para todos los componentes en una espira.",
+        "C": "La suma algebraica de las diferencias de potencial en cualquier espira es igual a cero.",
+        "D": "La resistencia equivalente es la suma de las resistencias individuales en una malla.",
+        "E": "La corriente es constante en todos los puntos de un circuito complejo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La segunda regla de Kirchhoff es una ley de conservación de la energía. Afirma que si se recorre una trayectoria cerrada (una espira), la suma de todas las fuerzas electromotrices (f.e.m.) y las caídas de potencial en los elementos con resistencia debe ser nula. Se expresa matemáticamente como $$\\Sigma V = 0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_007",
+      "pregunta": "¿Cuál es la fórmula para calcular el inverso de la resistencia equivalente ($$\\frac{1}{R_{eq}}$$) de tres resistencias ($$R_1, R_2, R_3$$) conectadas en paralelo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\frac{1}{R_{eq}} = R_1 + R_2 + R_3$$",
+        "B": "$$\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}$$",
+        "C": "$$R_{eq} = R_1 + R_2 + R_3$$",
+        "D": "$$R_{eq} = \\frac{R_1 + R_2 + R_3}{3}$$",
+        "E": "$$\\frac{1}{R_{eq}} = \\frac{1}{R_1 \\times R_2 \\times R_3}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para resistencias conectadas en paralelo, el inverso de la resistencia equivalente es la suma de los inversos de las resistencias individuales. Esta fórmula muestra cómo al agregar más caminos en paralelo, la resistencia total disminuye.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_008",
+      "pregunta": "¿Qué relación existe entre la resistencia equivalente de un grupo de resistencias en paralelo y el valor de la resistencia más pequeña del grupo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistencia equivalente es siempre mayor que la más pequeña.",
+        "B": "La resistencia equivalente es siempre igual a la más pequeña.",
+        "C": "La resistencia equivalente es la suma de todas las resistencias.",
+        "D": "La resistencia equivalente es siempre menor que la más pequeña.",
+        "E": "La resistencia equivalente es igual al promedio de todas las resistencias."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al conectar resistencias en paralelo, se proporcionan múltiples caminos para que la corriente fluya. Esto reduce la oposición total al flujo de corriente, por lo que la resistencia equivalente del conjunto es siempre inferior al valor de la resistencia individual más pequeña del grupo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_009",
+      "pregunta": "¿Por qué el ejemplo de los faros de un automóvil ilustra una ventaja de la conexión en paralelo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque asegura que la resistencia total del circuito sea muy alta.",
+        "B": "Porque permite que ambos faros reciban la mitad del voltaje de la batería.",
+        "C": "Porque si uno se funde, el otro sigue funcionando al recibir el voltaje total.",
+        "D": "Porque distribuye la corriente de forma desigual para ahorrar energía.",
+        "E": "Porque este tipo de conexión es más simple de cablear en un automóvil."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una conexión en paralelo, cada faro tiene su propia rama conectada a la batería. Si un faro se funde, el circuito de esa rama se abre, pero la otra rama permanece cerrada y completa. Por lo tanto, el segundo faro continúa recibiendo el voltaje completo de la batería y sigue funcionando, lo cual es una característica de seguridad importante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_010",
+      "pregunta": "La segunda regla de Kirchhoff puede interpretarse como \"La suma de los voltajes es igual a la suma de los productos IR\". ¿Cuál de las siguientes ecuaciones representa esta interpretación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Sigma I_{ingresan} = \\Sigma I_{salen}$$",
+        "B": "$$\\Sigma V + \\Sigma IR = 0$$",
+        "C": "$$\\Sigma V = \\Sigma IR$$",
+        "D": "$$V = V_1 = V_2$$",
+        "E": "$$\\Sigma I = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La segunda regla de Kirchhoff, $$\\Sigma V = 0$$, considera todas las diferencias de potencial en una malla. Si se separan las fuentes de voltaje (f.e.m.) de las caídas de voltaje en las resistencias (producto $IR$), la ecuación se puede escribir como $$\\Sigma V = \\Sigma IR$$. Esto significa que la suma de las f.e.m. en una espira es igual a la suma de las caídas de potencial a través de las resistencias en esa misma espira.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_011",
+      "pregunta": "¿Cuál es la principal aplicación del Teorema de la Trayectoria en el análisis de circuitos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Calcular la resistencia equivalente de un circuito en paralelo.",
+        "B": "Hallar el potencial eléctrico en un punto o la diferencia de potencial entre dos puntos distantes.",
+        "C": "Determinar el número total de mallas en un circuito complejo.",
+        "D": "Verificar la ley de Ohm en una sola resistencia.",
+        "E": "Calcular la suma de corrientes que entran y salen de un nodo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Teorema de la Trayectoria se utiliza para analizar un tramo abierto de un circuito (no una espira cerrada). Su propósito es calcular la diferencia de potencial entre dos puntos específicos ($$V_a - V_b$$) siguiendo un camino imaginario y sumando algebraicamente las f.e.m. y las caídas de potencial ($IR$) a lo largo de ese camino.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_012",
+      "pregunta": "¿Qué ecuación representa la segunda regla de Kirchhoff al incluir tanto las f.e.m. ($V$) como los elementos con resistencia ($IR$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Sigma I = 0$$",
+        "B": "$$\\frac{1}{R_{eq}} = \\Sigma \\frac{1}{R_i}$$",
+        "C": "$$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$",
+        "D": "$$\\Sigma V + \\Sigma IR = 0$$",
+        "E": "$$V = IR$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La segunda regla de Kirchhoff establece que la suma algebraica de todas las diferencias de potencial en una espira es cero. Esto incluye tanto las fuentes de potencial (f.e.m.), representadas por $V$ (o $\\epsilon$), como las caídas de potencial a través de las resistencias, representadas por $IR$. Por lo tanto, la forma $$\\Sigma V + \\Sigma IR = 0$$ expresa correctamente esta regla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_013",
+      "pregunta": "Para un caso especial donde \"n\" resistencias idénticas, cada una con un valor de $R$, están conectadas en paralelo, ¿cuál es la fórmula para su resistencia equivalente ($$R_{eq}$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$R_{eq} = nR$$",
+        "B": "$$R_{eq} = R^n$$",
+        "C": "$$R_{eq} = R$$",
+        "D": "$$R_{eq} = \\frac{n}{R}$$",
+        "E": "$$R_{eq} = \\frac{R}{n}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula general para resistencias en paralelo es $$\\frac{1}{R_{eq}} = \\Sigma \\frac{1}{R_i}$$. Si todas las $n$ resistencias son iguales a $R$, la suma se convierte en $$\\frac{1}{R_{eq}} = \\frac{1}{R} + \\frac{1}{R} + ... (n \\text{ veces}) = \\frac{n}{R}$$. Al despejar $$R_{eq}$$, se obtiene la fórmula del caso especial: $$R_{eq} = \\frac{R}{n}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_014",
+      "pregunta": "En un nodo de un circuito, una corriente de $$I_A$$ y una corriente de $$I_B$$ ingresan, mientras que una corriente de $$I_C$$ sale. De acuerdo con la primera regla de Kirchhoff, ¿qué relación deben cumplir estas corrientes?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$I_A + I_B = I_C$$",
+        "B": "$$I_A - I_B = I_C$$",
+        "C": "$$I_A = I_B = I_C$$",
+        "D": "$$I_C = I_A - I_B$$",
+        "E": "$$I_A + I_B + I_C = 0$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La primera regla de Kirchhoff se interpreta como $$\\Sigma I_{ingresan} = \\Sigma I_{salen}$$. En este caso, las corrientes que ingresan son $$I_A$$ e $$I_B$$, y la corriente que sale es $$I_C$$. Por lo tanto, la suma de las corrientes que ingresan ($$I_A + I_B$$) debe ser igual a la suma de las corrientes que salen ($$I_C$$), resultando en la ecuación $$I_A + I_B = I_C$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_124_015",
+      "pregunta": "¿Cuál de las siguientes expresiones matemáticas representa correctamente una de las formulaciones del Teorema de la Trayectoria para el tramo \"a\" - \"b\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$V_a + V_b + \\Sigma \\epsilon = \\Sigma IR$$",
+        "B": "$$V_{ab} = \\Sigma \\epsilon - \\Sigma IR$$",
+        "C": "$$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$",
+        "D": "$$\\Sigma V = V_a - V_b$$",
+        "E": "$$V_a - V_b = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Teorema de la Trayectoria se usa para encontrar la diferencia de potencial en un tramo abierto de un circuito. Una de sus expresiones es $$V_{ab} + \\Sigma \\epsilon + \\Sigma IR = 0$$. Sabiendo que $$V_{ab} = V_a - V_b$$, se puede reescribir y reorganizar como $$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$, que relaciona la diferencia de potencial entre los puntos 'a' y 'b' con las f.e.m. y las caídas de potencial a lo largo de la trayectoria.",
+      "imagen": null
+    }
+  ]
+}

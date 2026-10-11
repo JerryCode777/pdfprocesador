@@ -1,0 +1,233 @@
+{
+  "materia": "lenguaje",
+  "numero_tema": 173,
+  "total_temas": 225,
+  "titulo_tema": "Diferencia entre Cita y Referencia",
+  "preguntas": [
+    {
+      "id_temporal": "lenguaje_173_001",
+      "pregunta": "¿Qué es una cita en el contexto de la escritura académica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La información bibliográfica completa que se coloca al final de un texto.",
+        "B": "Un listado de obras que sirvieron de fundamento, pero no se usaron directamente.",
+        "C": "La indicación de la autoría de ideas o teorías de otros dentro de un texto propio.",
+        "D": "El nombre de la editorial que publicó una obra.",
+        "E": "Un resumen de la fuente original consultada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una cita es la mención que se hace dentro del cuerpo de un texto para atribuir la autoría de una idea, teoría o investigación a su creador original. Se distingue de la referencia, que es la lista completa de datos de la fuente que aparece al final del documento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_002",
+      "pregunta": "¿Qué es una referencia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una mención breve del autor y año dentro de un párrafo.",
+        "B": "La información bibliográfica completa de una fuente que aparece al final del texto.",
+        "C": "Cualquier obra que sirvió de inspiración, aunque no se haya mencionado en el escrito.",
+        "D": "El título de un libro o artículo.",
+        "E": "La indicación de la página de donde se extrajo una idea."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia contiene toda la información bibliográfica necesaria (autor, fecha, título, fuente) para localizar una obra y se presenta en una lista al final del trabajo. A diferencia de la cita, que es una indicación breve dentro del texto, la referencia es la entrada completa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_003",
+      "pregunta": "De los cuatro datos básicos comunes en una referencia, ¿cuál responde a la pregunta \"¿Quién es el responsable de la obra?\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fecha",
+        "B": "Título",
+        "C": "Fuente",
+        "D": "Autor",
+        "E": "Editorial"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El elemento 'Autor' es el que identifica a la persona o entidad responsable de la creación de la obra, respondiendo directamente a la pregunta sobre la autoría.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_004",
+      "pregunta": "¿Qué tipo de obras se incluyen en una lista de referencias?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Solo las fuentes que se utilizaron de forma explícita en el trabajo.",
+        "B": "Todas las obras consultadas, hayan sido citadas o no.",
+        "C": "Únicamente libros y artículos de revista.",
+        "D": "Obras que sirvieron de fundamento general para el tema.",
+        "E": "Una lista de lecturas recomendadas para el lector."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Una lista de referencias es precisa y se limita a incluir únicamente las fuentes que fueron citadas o parafraseadas explícitamente dentro del cuerpo del texto. Si se incluyeran obras no citadas, se trataría de una bibliografía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_005",
+      "pregunta": "Según las convenciones académicas mencionadas, ¿qué sistema de listado de fuentes utiliza el Estilo APA?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El sistema de bibliografía.",
+        "B": "El sistema de anexos.",
+        "C": "El sistema de notas al pie.",
+        "D": "El sistema de referencias.",
+        "E": "El sistema de glosario."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Estilo APA (American Psychological Association) emplea el sistema de referencias, lo que significa que al final del trabajo se debe incluir una lista titulada 'Referencias' que contenga solo las fuentes citadas explícitamente en el texto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_006",
+      "pregunta": "¿Cuál es la diferencia fundamental en cuanto a la ubicación de una cita y una referencia en un documento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas se encuentran al final del documento.",
+        "B": "La cita está al final y la referencia dentro del texto.",
+        "C": "La cita está dentro del texto y la referencia al final.",
+        "D": "La cita se coloca al pie de página y la referencia en un anexo.",
+        "E": "No hay una diferencia de ubicación estandarizada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La principal diferencia de ubicación es que la cita es una indicación breve que se inserta en el interior de los párrafos del texto, justo donde se usa la idea de otro autor. En cambio, la referencia es la descripción completa de esa fuente y se agrupa con las demás en una lista al final de todo el documento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_007",
+      "pregunta": "¿Cuál de las siguientes opciones NO corresponde a uno de los cuatro datos básicos comunes a todas las obras referenciadas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Autor",
+        "B": "Fecha",
+        "C": "Número de página",
+        "D": "Título",
+        "E": "Fuente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cuatro elementos básicos y comunes a todas las referencias son Autor, Fecha, Título y Fuente. Aunque el número de página puede ser parte de una cita específica o de la referencia de un capítulo de libro o artículo, no es considerado uno de los cuatro datos básicos comunes a *todas* las obras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_008",
+      "pregunta": "¿Qué distingue principalmente a una bibliografía de una lista de referencias?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La bibliografía solo incluye libros y la lista de referencias solo artículos.",
+        "B": "La bibliografía puede incluir obras de fundamento no citadas, mientras que la lista de referencias no.",
+        "C": "La lista de referencias se ordena alfabéticamente y la bibliografía por fecha.",
+        "D": "No hay ninguna diferencia, son términos intercambiables.",
+        "E": "La bibliografía usa un formato más corto que la lista de referencias."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción clave es el alcance. Una lista de referencias solo contiene las fuentes que se usaron y citaron explícitamente en el texto. Una bibliografía es más amplia y puede incluir, además de las fuentes citadas, otras obras que sirvieron para la investigación general o que se recomiendan para profundizar, aunque no se hayan mencionado directamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_009",
+      "pregunta": "En el ejemplo de referencia: Flick, U. (2015). *El Diseño de Investigación Cualitativa*. Ediciones Morata S. L., ¿qué elemento representa \"Ediciones Morata S. L.\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Autor",
+        "B": "La Fecha",
+        "C": "El Título",
+        "D": "La Fuente",
+        "E": "El lugar de publicación"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El elemento 'Fuente' responde a la pregunta '¿Dónde se puede localizar la obra?'. En el caso de un libro, la editorial (en este ejemplo, Ediciones Morata S. L.) es la fuente que permite su localización.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_010",
+      "pregunta": "¿Cuál de los cuatro elementos básicos de una referencia se utiliza para responder a la pregunta \"¿Cómo se llama la obra?\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Autor",
+        "B": "Fuente",
+        "C": "Fecha",
+        "D": "Título",
+        "E": "Editorial"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El 'Título' es el nombre con el que se identifica y conoce una obra. Por lo tanto, es el elemento de la referencia que responde directamente a la pregunta sobre cómo se llama dicha obra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_011",
+      "pregunta": "Si un escritor lee un libro que le ayuda a entender un tema, pero no menciona ninguna idea específica de ese libro en su ensayo, ¿dónde debería listar esa fuente si quisiera incluirla?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En la lista de referencias.",
+        "B": "En una bibliografía.",
+        "C": "Como una cita dentro del texto.",
+        "D": "En las notas al pie de página.",
+        "E": "No debería listarla en ninguna parte."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Dado que la obra sirvió de fundamento pero no fue utilizada de forma explícita, no corresponde a la lista de referencias. El lugar adecuado para incluir este tipo de fuentes consultadas es una bibliografía, que es más abarcadora.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_012",
+      "pregunta": "¿Qué pregunta clave responde el elemento \"Fuente\" dentro de una referencia bibliográfica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "¿Quién es el responsable de la obra?",
+        "B": "¿Cuándo se publicó la obra?",
+        "C": "¿Cómo se llama la obra?",
+        "D": "¿Dónde se puede localizar la obra?",
+        "E": "¿Cuál es la idea principal de la obra?"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El propósito del elemento 'Fuente' es proporcionar la información necesaria para que el lector pueda encontrar y consultar la obra original. Esto puede ser la editorial de un libro, el nombre de una revista, una URL, etc., respondiendo así a '¿dónde se puede localizar?'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_013",
+      "pregunta": "Un estudiante crea una lista final para su tesis que incluye todas las fuentes que citó directamente y, además, otros tres libros que leyó para inspirarse pero que no mencionó en el texto. ¿Qué ha elaborado el estudiante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una lista de referencias, según la definición estricta.",
+        "B": "Una bibliografía.",
+        "C": "Una lista de citas.",
+        "D": "Un índice de autores.",
+        "E": "Un apéndice de fuentes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al incluir no solo las fuentes citadas explícitamente, sino también aquellas que sirvieron de fundamento o inspiración, el estudiante ha creado una bibliografía. Una lista de referencias se limitaría estrictamente a las obras mencionadas en el cuerpo del trabajo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_014",
+      "pregunta": "En un ensayo académico, se lee la siguiente frase: \"La investigación cualitativa permite una comprensión profunda de los fenómenos sociales\". Inmediatamente después, el autor añade (Flick, 2015). ¿A qué corresponde el elemento (Flick, 2015)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "A una referencia completa.",
+        "B": "A un error de formato.",
+        "C": "A una cita.",
+        "D": "Al título de la obra.",
+        "E": "A una bibliografía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El elemento (Flick, 2015) es una indicación de autoría (Flick) y fecha (2015) insertada dentro del texto propio. Esta es la definición y aplicación práctica de una cita, que atribuye la idea anterior a su autor original y remite al lector a la referencia completa al final del documento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_173_015",
+      "pregunta": "Analizando la estructura \"Autor - Fecha - Título - Fuente\", ¿qué componente de la referencia \"Flick, U. (2015). *El Diseño de Investigación Cualitativa*. Ediciones Morata S. L.\" responde a la pregunta \"¿Cuándo se publicó?\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Flick, U.",
+        "B": "(2015)",
+        "C": "*El Diseño de Investigación Cualitativa*",
+        "D": "Ediciones Morata S. L.",
+        "E": "S. L."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El elemento 'Fecha' responde a la pregunta sobre cuándo se publicó la obra. En el ejemplo proporcionado, el año (2015) cumple esta función, indicando el momento de publicación del libro de Uwe Flick.",
+      "imagen": null
+    }
+  ]
+}

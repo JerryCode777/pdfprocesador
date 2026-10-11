@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 7,
+  "total_temas": 137,
+  "titulo_tema": "MRU (Movimiento Rectilíneo Uniforme)",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_007_001",
+      "pregunta": "¿Cuál es la característica fundamental que define un Movimiento Rectilíneo Uniforme (MRU)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La aceleración es constante y distinta de cero.",
+        "B": "La trayectoria del móvil es una curva.",
+        "C": "La velocidad del móvil es constante en el tiempo.",
+        "D": "El desplazamiento siempre es igual a cero.",
+        "E": "La rapidez aumenta de forma proporcional al tiempo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición principal del Movimiento Rectilíneo Uniforme (MRU) es que la velocidad se mantiene constante a lo largo de todo el movimiento. Esto implica que no hay aceleración y que el móvil recorre distancias iguales en tiempos iguales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_002",
+      "pregunta": "¿Cómo se define la \"rapidez\" en el contexto del movimiento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El desplazamiento dividido por el tiempo.",
+        "B": "El módulo de la velocidad o velocidad instantánea.",
+        "C": "El cambio de velocidad en un intervalo de tiempo.",
+        "D": "La distancia recorrida únicamente en la primera mitad del trayecto.",
+        "E": "La misma cantidad que la velocidad media."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La rapidez es una cantidad escalar que se define como la magnitud o el módulo de la velocidad instantánea. Mientras que la velocidad indica dirección y sentido, la rapidez solo indica cuán rápido se mueve un objeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_003",
+      "pregunta": "Según la fórmula $$v_m = \frac{\\Delta x}{\\Delta t}$$, ¿qué representa la velocidad media ($$v_m$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La longitud del camino recorrido por unidad de tiempo.",
+        "B": "La velocidad en un instante específico.",
+        "C": "La razón del desplazamiento por unidad de tiempo en un intervalo.",
+        "D": "El producto de la distancia y el tiempo.",
+        "E": "El límite del desplazamiento cuando el tiempo tiende a cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La velocidad media ($$v_m$$) se calcula como el cociente entre el desplazamiento total ($$\\Delta x$$) y el intervalo de tiempo total ($$\\Delta t$$) en el que ocurrió dicho desplazamiento. Representa la velocidad promedio durante ese intervalo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_004",
+      "pregunta": "En un MRU, ¿qué forma tiene la gráfica de rapidez versus tiempo ($$v-t$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una línea recta con pendiente positiva.",
+        "B": "Una parábola cóncava hacia arriba.",
+        "C": "Una línea recta horizontal.",
+        "D": "Una línea recta con pendiente negativa.",
+        "E": "Una curva sinusoidal."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que en el MRU la velocidad (y por tanto su módulo, la rapidez) es constante, su valor no cambia con el paso del tiempo. Al graficar la rapidez en el eje vertical y el tiempo en el eje horizontal, el resultado es una línea recta horizontal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_005",
+      "pregunta": "¿Qué magnitud física coincide con la inclinación de la pendiente en una gráfica de posición versus tiempo ($$x-t$$) para un MRU?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La aceleración.",
+        "B": "La posición inicial.",
+        "C": "El tiempo total.",
+        "D": "El desplazamiento.",
+        "E": "La velocidad del móvil."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En una gráfica de posición vs. tiempo ($$x-t$$), la pendiente ($$m$$) se calcula como el cambio en la posición dividido por el cambio en el tiempo ($$m = \frac{\\Delta x}{\\Delta t}$$). Esta razón es, por definición, la velocidad. En un MRU, esta pendiente es constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_006",
+      "pregunta": "¿Cuál es la relación entre la velocidad media y la velocidad instantánea en un Movimiento Rectilíneo Uniforme?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad media es siempre el doble de la instantánea.",
+        "B": "La velocidad instantánea es siempre cero.",
+        "C": "No tienen ninguna relación.",
+        "D": "Necesariamente coinciden y son iguales.",
+        "E": "La velocidad media es la integral de la velocidad instantánea."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una consecuencia directa de que la velocidad sea constante en el MRU es que la velocidad en cualquier instante (instantánea) es idéntica a la velocidad promedio calculada sobre cualquier intervalo de tiempo (media). Por lo tanto, ambas velocidades coinciden.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_007",
+      "pregunta": "En una gráfica de rapidez versus tiempo ($$v-t$$) de un MRU, ¿qué representa el área bajo la recta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La aceleración del móvil.",
+        "B": "La velocidad inicial.",
+        "C": "El cambio de posición ($$\\Delta x$$).",
+        "D": "El tiempo final del recorrido.",
+        "E": "La pendiente de la gráfica posición-tiempo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El área bajo la gráfica $$v-t$$ corresponde a un rectángulo cuya base es el tiempo ($$t$$) y cuya altura es la velocidad constante ($$v$$). El área, que es $$v \\cdot t$$, coincide escalarmente con el cambio de posición o el módulo del desplazamiento ($$\\Delta x$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre velocidad media ($$v_m$$) y rapidez media ($$r_m$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son sinónimos y se calculan de la misma manera.",
+        "B": "La velocidad media es un escalar y la rapidez media es un vector.",
+        "C": "$$v_m$$ usa el desplazamiento ($$\\Delta x$$) y $$r_m$$ usa la longitud del camino recorrido ($$e$$).",
+        "D": "La rapidez media siempre es cero en un MRU.",
+        "E": "$$v_m$$ se mide en m/s y $$r_m$$ se mide en km/h."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La velocidad media es una cantidad vectorial que depende del desplazamiento ($$\\Delta x$$), que es el vector que une la posición inicial y final. En cambio, la rapidez media es una cantidad escalar que depende de la longitud total del camino recorrido ($$e$$). En un movimiento que no es rectilíneo o que tiene idas y vueltas, estas dos cantidades pueden ser diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_009",
+      "pregunta": "La ecuación general del MRU es $$x = x_0 + vt$$. ¿Qué representa físicamente cada término?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$x$$ es la velocidad, $$x_0$$ es la aceleración, $$v$$ es la posición inicial.",
+        "B": "$$x$$ es la posición final, $$x_0$$ es la posición inicial, $$v$$ es la velocidad constante.",
+        "C": "$$x$$ es el desplazamiento, $$x_0$$ es la velocidad media, $$v$$ es la posición final.",
+        "D": "$$x$$ es la posición inicial, $$x_0$$ es la posición final, $$v$$ es el tiempo.",
+        "E": "$$x$$ es la aceleración, $$x_0$$ es la velocidad, $$v$$ es la distancia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta ecuación describe la posición ($$x$$) de un móvil en cualquier instante de tiempo ($$t$$). El término $$x_0$$ representa la posición en el instante inicial ($$t=0$$), y $$v$$ representa la velocidad constante del móvil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_010",
+      "pregunta": "¿Para qué situación específica se aplica la fórmula de tiempo de encuentro $$t_e = \frac{d}{v_1 + v_2}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dos móviles que parten del mismo punto en la misma dirección.",
+        "B": "Un móvil que persigue a otro en la misma dirección.",
+        "C": "Dos móviles separados una distancia $$d$$ que se mueven en direcciones opuestas, uno hacia el otro.",
+        "D": "Un móvil que cruza un túnel de longitud $$d$$.",
+        "E": "Dos móviles que se mueven en trayectorias perpendiculares."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula de tiempo de encuentro se utiliza para calcular el tiempo que tardan dos móviles en encontrarse cuando están inicialmente separados por una distancia $$d$$ y se mueven en la misma línea pero en direcciones opuestas (uno hacia el otro). La suma de las velocidades ($$v_1 + v_2$$) representa la velocidad relativa de acercamiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_011",
+      "pregunta": "Para que un móvil con velocidad $$v_2$$ pueda alcanzar a otro con velocidad $$v_1$$ que se mueve en la misma dirección, ¿qué condición indispensable deben cumplir sus velocidades?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las velocidades deben ser iguales, $$v_2 = v_1$$.",
+        "B": "La velocidad del móvil perseguidor debe ser mayor, $$v_2 > v_1$$.",
+        "C": "La velocidad del móvil perseguidor debe ser menor, $$v_2 < v_1$$.",
+        "D": "La suma de sus velocidades debe ser cero, $$v_1 + v_2 = 0$$.",
+        "E": "Las velocidades deben ser perpendiculares."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que se produzca un alcance, el móvil que está detrás (el perseguidor, con velocidad $$v_2$$) debe ser más rápido que el móvil que está adelante (el perseguido, con velocidad $$v_1$$). De lo contrario, la distancia entre ellos se mantendría constante o aumentaría.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_012",
+      "pregunta": "En la fórmula del tiempo de cruce, $$t_c = \frac{(L_1 + L_2)}{v}$$, ¿qué distancia total debe recorrer el móvil de longitud $$L_1$$ para cruzar completamente la estructura de longitud $$L_2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La longitud del móvil, $$L_1$$.",
+        "B": "La longitud de la estructura, $$L_2$$.",
+        "C": "La diferencia de longitudes, $$|L_1 - L_2|$$.",
+        "D": "La suma de las longitudes, $$L_1 + L_2$$.",
+        "E": "El promedio de las longitudes, $$(L_1 + L_2) / 2$$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El cruce se considera completo desde que la parte delantera del móvil (ej. un tren) entra a la estructura (ej. un puente) hasta que su parte trasera sale de ella. Por tanto, el móvil debe recorrer una distancia igual a la longitud de la estructura más su propia longitud. Esa distancia total es $$L_1 + L_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_013",
+      "pregunta": "¿Por qué es necesario definir la velocidad instantánea como $$v = \\lim_{\\Delta t \to 0} (\frac{\\Delta x}{\\Delta t})$$ en lugar de usar siempre la velocidad media?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la velocidad media solo se aplica a movimientos circulares.",
+        "B": "Porque esta fórmula simplifica los cálculos con números decimales.",
+        "C": "Porque la velocidad media describe un promedio en un intervalo, mientras que la velocidad instantánea describe el movimiento en un punto exacto del tiempo.",
+        "D": "Porque el desplazamiento $$\\Delta x$$ no se puede medir en intervalos grandes.",
+        "E": "Para que la velocidad sea siempre una cantidad positiva."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La velocidad media no proporciona información sobre cómo varía la velocidad dentro de un intervalo de tiempo. Al tomar el límite cuando el intervalo de tiempo ($$\\Delta t$$) se aproxima a cero, se obtiene la velocidad en un instante preciso, lo cual es crucial para describir movimientos que no son necesariamente uniformes y entender el comportamiento del móvil en cada punto de su trayectoria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_014",
+      "pregunta": "En la fórmula de tiempo de alcance, $$t_a = \frac{d}{v_2 - v_1}$$, ¿cuál es la interpretación física si $$v_2 = v_1$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El alcance ocurre instantáneamente ($$t_a = 0$$).",
+        "B": "El móvil perseguidor nunca alcanzará al otro.",
+        "C": "El tiempo de alcance es igual a la distancia $$d$$.",
+        "D": "Los móviles chocarán de frente.",
+        "E": "Se debe usar la fórmula de tiempo de encuentro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si $$v_2 = v_1$$, el denominador de la fracción se vuelve cero ($$v_2 - v_1 = 0$$). Matemáticamente, la división por cero está indefinida. Físicamente, esto significa que la velocidad relativa entre los dos móviles es nula; se mueven a la misma velocidad y, por lo tanto, la distancia $$d$$ que los separa permanecerá constante. El alcance nunca ocurrirá.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_007_015",
+      "pregunta": "Un móvil describe un MRU según la ecuación de posición $$x = -20 + 4t$$, con unidades del Sistema Internacional. ¿Qué se puede inferir correctamente de esta ecuación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El móvil parte de la posición $$4 \text{ m}$$ y tiene una velocidad de $$-20 \text{ m/s}$$.",
+        "B": "El móvil tiene una aceleración de $$4 \text{ m/s}^2$$.",
+        "C": "El móvil parte de la posición $$-20 \text{ m}$$ y se mueve con una velocidad constante de $$4 \text{ m/s}$$.",
+        "D": "El móvil está en reposo en la posición $$x = -20 \text{ m}$$.",
+        "E": "El móvil se mueve hacia el origen y tarda $$4 \text{ s}$$ en llegar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al comparar la ecuación dada, $$x = -20 + 4t$$, con la ecuación general del MRU, $$x = x_0 + vt$$, podemos identificar los términos por correspondencia. La posición inicial $$x_0$$ es $$-20 \text{ m}$$, y la velocidad constante $$v$$ es $$4 \text{ m/s}$$. El signo positivo de la velocidad indica que se mueve en la dirección positiva del eje de coordenadas.",
+      "imagen": null
+    }
+  ]
+}

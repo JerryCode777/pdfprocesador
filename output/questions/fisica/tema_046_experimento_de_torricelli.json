@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 46,
+  "total_temas": 137,
+  "titulo_tema": "Experimento de Torricelli",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_046_001",
+      "pregunta": "¿Qué físico italiano realizó el experimento que demostró el valor de la presión atmosférica utilizando un tubo de mercurio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Galileo Galilei",
+        "B": "Isaac Newton",
+        "C": "Evangelista Torricelli",
+        "D": "Blaise Pascal",
+        "E": "Arquímedes"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Evangelista Torricelli fue el físico italiano que, utilizando un tubo de vidrio y mercurio, diseñó y ejecutó el experimento para determinar la presión ejercida por la atmósfera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_002",
+      "pregunta": "¿Qué sustancia líquida utilizó Torricelli para llenar el tubo de vidrio en su experimento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Agua",
+        "B": "Alcohol",
+        "C": "Aceite",
+        "D": "Mercurio",
+        "E": "Glicerina"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El experimento se realizó utilizando mercurio, un metal líquido muy denso que permitió que la columna necesaria para equilibrar la presión atmosférica tuviera una altura manejable (76 cm).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_003",
+      "pregunta": "En el experimento de Torricelli realizado a nivel del mar, ¿cuál fue la altura final de la columna de mercurio dentro del tubo de vidrio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "100 cm",
+        "B": "98 cm",
+        "C": "76 cm",
+        "D": "50 cm",
+        "E": "1 m"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Torricelli observó que, a nivel del mar, la columna de mercurio descendía hasta estabilizarse en una altura de 76 cm, independientemente de la longitud total del tubo (siempre que fuera mayor a 76 cm).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_004",
+      "pregunta": "¿Cuál es el valor aproximado de la presión atmosférica ($$P_0$$) en kilopascales ($$kPa$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1000 \\, kPa$$",
+        "B": "$$76 \\, kPa$$",
+        "C": "$$1013 \\, kPa$$",
+        "D": "$$98 \\, kPa$$",
+        "E": "$$100 \\, kPa$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El valor calculado de la presión atmosférica es $$1,013 \\times 10^5 \\, Pa$$. Sabiendo que $$1 \\, kPa = 1000 \\, Pa$$, este valor es aproximadamente $$101,3 \\, kPa$$, que se redondea comúnmente a $$100 \\, kPa$$ para simplificar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_005",
+      "pregunta": "Un manómetro de tubo abierto, con un líquido en su interior y forma de U, es un dispositivo diseñado para medir:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La temperatura de un gas",
+        "B": "La presión de un gas contenido en un recipiente",
+        "C": "La densidad del aire",
+        "D": "La velocidad del viento",
+        "E": "La humedad atmosférica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El manómetro de tubo abierto es un instrumento que mide la presión de un gas en un sistema cerrado al comparar dicha presión con la presión atmosférica, basándose en la diferencia de altura del líquido en el tubo en U.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_006",
+      "pregunta": "¿Qué conclusión principal obtuvo Torricelli de su experimento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El mercurio es el líquido más denso.",
+        "B": "El vacío no puede existir en la naturaleza.",
+        "C": "La presión atmosférica es equivalente a la presión de una columna de mercurio de 76 cm.",
+        "D": "La gravedad de la Tierra es de $$9,8 \\, m/s^2$$.",
+        "E": "La presión de un líquido depende de la forma del recipiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La gran revelación del experimento de Torricelli fue que la columna de aire sobre nosotros ejerce una presión, y que esta presión atmosférica es capaz de sostener una columna de mercurio de 76 cm de altura a nivel del mar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_007",
+      "pregunta": "En el experimento de Torricelli, la columna de mercurio deja de descender cuando la presión que ejerce se equilibra con:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión del vacío creado en la parte superior del tubo.",
+        "B": "La tensión superficial del mercurio.",
+        "C": "La temperatura ambiente.",
+        "D": "La presión atmosférica que actúa sobre la superficie libre del mercurio en el recipiente.",
+        "E": "El peso total del tubo de vidrio."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El equilibrio se alcanza cuando dos fuerzas se igualan. La fuerza hacia abajo ejercida por el peso de la columna de mercurio (presión hidrostática) se equilibra con la fuerza hacia arriba ejercida por la presión atmosférica sobre la superficie del mercurio en el recipiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_008",
+      "pregunta": "En la fórmula de la presión hidrostática $$P = \\rho g h$$, aplicada al experimento de Torricelli, ¿qué representa el término $$g$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La densidad del gas sobre el líquido.",
+        "B": "La altura de la columna de mercurio.",
+        "C": "La aceleración del campo gravitatorio.",
+        "D": "Una constante de presión universal.",
+        "E": "El grosor del tubo de vidrio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término $$g$$ en la fórmula de la presión hidrostática ($$P = \\rho g h$$) representa la aceleración debida a la gravedad, cuyo valor estándar en la superficie de la Tierra es aproximadamente $$9,8 \\, m/s^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_009",
+      "pregunta": "¿Cuál es el principio físico fundamental que explica el funcionamiento de un manómetro de tubo abierto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión de un gas es proporcional a su temperatura.",
+        "B": "La presión atmosférica es constante en todo lugar.",
+        "C": "Las presiones en puntos que están al mismo nivel horizontal dentro de un fluido en equilibrio son iguales.",
+        "D": "Los líquidos siempre buscan su nivel más bajo.",
+        "E": "La densidad de un líquido es inversamente proporcional a su altura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El manómetro funciona gracias al principio fundamental de la hidrostática que establece que para un fluido en reposo, todos los puntos situados a la misma profundidad o nivel horizontal tienen la misma presión. Esto permite comparar la presión del gas con la presión atmosférica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_010",
+      "pregunta": "¿Por qué es crucial tapar el extremo abierto del tubo e invertirlo antes de sumergirlo en el recipiente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para evitar que el mercurio se derrame.",
+        "B": "Para calentar el mercurio a la temperatura adecuada.",
+        "C": "Para evitar la entrada de aire en el tubo, lo que alteraría el resultado.",
+        "D": "Para medir la longitud exacta del tubo.",
+        "E": "Para pulir el borde del vidrio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El objetivo es crear un vacío en el espacio por encima de la columna de mercurio cuando esta descienda. Si entrara aire, la presión de este aire atrapado se sumaría a la presión del mercurio, impidiendo una medición correcta de la presión atmosférica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_011",
+      "pregunta": "La expresión matemática que Torricelli concluyó para la presión atmosférica es $$P_{atm} = \\rho_{Hg} g h$$. ¿Qué representa el producto de estos tres términos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El peso total del mercurio en el tubo.",
+        "B": "La presión hidrostática ejercida por la columna de mercurio.",
+        "C": "La energía potencial del mercurio.",
+        "D": "La densidad del aire.",
+        "E": "El volumen desplazado de mercurio."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula $$P = \\rho g h$$ es la definición de la presión hidrostática, que es la presión ejercida por una columna de fluido de densidad $$\\rho$$ y altura $$h$$ debido a la gravedad $$g$$. Torricelli demostró que la presión atmosférica es igual a esta presión para una columna de mercurio de 76 cm.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_012",
+      "pregunta": "Considerando que el tubo inicial de Torricelli medía casi 1 metro (100 cm), ¿qué se formó en el espacio de aproximadamente 24 cm por encima de la columna de mercurio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aire a presión atmosférica normal.",
+        "B": "Una columna de agua.",
+        "C": "Un vacío casi perfecto (conocido como vacío de Torricelli).",
+        "D": "Aire a una presión muy alta.",
+        "E": "Vapor de agua condensado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que el tubo se llenó completamente de mercurio y luego se invirtió, al descender la columna a 76 cm, el espacio superior queda vacío de aire. Este espacio contiene solo una cantidad insignificante de vapor de mercurio, por lo que se considera un vacío.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_013",
+      "pregunta": "En el cálculo de la presión atmosférica, $$P_0 = (13,6 \\times 10^3) (9,8) (76 \\times 10^{-2} m)$$, ¿qué representa el término $$76 \\times 10^{-2} m$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La densidad del mercurio en el Sistema Internacional ($$kg/m^3$$).",
+        "B": "La presión en pascales ($$Pa$$).",
+        "C": "El valor de la aceleración gravitacional ($$g$$).",
+        "D": "El valor de la altura ($$h$$) de la columna de mercurio en metros.",
+        "E": "La masa del mercurio en kilogramos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El cálculo utiliza la fórmula $$P_0 = \\rho_{Hg} g h$$. El valor de la altura observada fue de 76 cm. Para que las unidades sean consistentes en el Sistema Internacional, esta altura debe convertirse a metros, lo que resulta en $$76 \\, cm = 0,76 \\, m = 76 \\times 10^{-2} \\, m$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_014",
+      "pregunta": "Analizando la expresión de cálculo $$P_0 = (13,6 \\times 10^3) (9,8) (76 \\times 10^{-2} m)$$, se puede deducir que las unidades de la densidad del mercurio ($$\\rho_{Hg}$$) y la aceleración de la gravedad ($$g$$) utilizadas son:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$g/cm^3$$ y $$m/s^2$$",
+        "B": "$$kg/m^3$$ y $$cm/s^2$$",
+        "C": "$$g/cm^3$$ y $$cm/s^2$$",
+        "D": "$$kg/m^3$$ y $$m/s^2$$",
+        "E": "$$kg/L$$ y $$km/h^2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que el resultado de la presión esté en Pascales ($$Pa = N/m^2 = kg/(m \\cdot s^2)$$), todas las unidades deben pertenecer al Sistema Internacional. Por lo tanto, la densidad ($$\\rho_{Hg}$$) debe estar en $$kg/m^3$$ ($$13,6 \\times 10^3$$), la aceleración de la gravedad ($$g$$) en $$m/s^2$$ (9,8), y la altura ($$h$$) en metros ($$m$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_046_015",
+      "pregunta": "Si un manómetro de tubo abierto conectado a un recipiente con gas muestra que el nivel del líquido en el brazo abierto a la atmósfera está más alto que en el brazo conectado al gas, ¿qué se puede concluir sobre la presión del gas $$P$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La presión del gas $$P$$ es igual a la presión atmosférica $$P_{atm}$$.",
+        "B": "La presión del gas $$P$$ es mayor que la presión atmosférica $$P_{atm}$$.",
+        "C": "La presión del gas $$P$$ es menor que la presión atmosférica $$P_{atm}$$.",
+        "D": "No se puede determinar la relación sin conocer el líquido.",
+        "E": "La presión del gas $$P$$ es cero."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de equilibrio en puntos al mismo nivel (A y B) es clave. Si el líquido es empujado hacia arriba en el lado atmosférico, significa que la presión del gas está ejerciendo una fuerza mayor que la presión atmosférica. Por lo tanto, la presión del gas ($$P$$) es igual a la presión atmosférica ($$P_{atm}$$) más la presión ejercida por la diferencia de altura de la columna de líquido.",
+      "imagen": null
+    }
+  ]
+}

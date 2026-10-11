@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 34,
+  "total_temas": 137,
+  "titulo_tema": "Energía Potencial Gravitatoria",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_034_001",
+      "pregunta": "¿Cuál es la fórmula para calcular la Energía Potencial Gravitatoria?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E_{PG} = \\frac{1}{2}mv^2$$",
+        "B": "$$E_{PG} = mgh$$",
+        "C": "$$E_{PG} = \\frac{1}{2}kx^2$$",
+        "D": "$$E_{PG} = mg$$",
+        "E": "$$E_{PG} = \\frac{mg}{h}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Energía Potencial Gravitatoria ($E_{PG}$) es una medida escalar asociada a la posición de un cuerpo y se calcula como el producto de su masa ($m$), la aceleración de la gravedad ($g$) y la altura ($h$) respecto a un nivel de referencia. La fórmula correcta es $$E_{PG} = mgh$$. La opción A corresponde a la energía cinética y la opción C a la energía potencial elástica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_002",
+      "pregunta": "¿Qué representa la variable $h$ en la fórmula de la energía potencial gravitatoria, $$E_{PG} = mgh$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La entalpía del sistema",
+        "B": "La constante de Planck",
+        "C": "La altura del cuerpo respecto a un nivel de referencia",
+        "D": "La hipotenusa de un triángulo",
+        "E": "La densidad del cuerpo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la ecuación $$E_{PG} = mgh$$, la variable $h$ representa la altura o posición vertical del cuerpo medida desde un nivel de referencia establecido. El valor de la energía potencial gravitatoria depende directamente de esta altura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_003",
+      "pregunta": "En el Sistema Internacional de Unidades (S.I.), ¿cuál es la unidad de medida para la energía potencial gravitatoria?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Kilogramo (kg)",
+        "C": "Metro por segundo (m/s)",
+        "D": "Joule (J)",
+        "E": "Watt (W)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Tanto la energía potencial gravitatoria como la energía cinética y la elástica, al ser formas de energía, se miden en Joules (J) en el Sistema Internacional de Unidades.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_004",
+      "pregunta": "¿Cómo se define de forma general la energía potencial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es la energía asociada al movimiento de un sistema.",
+        "B": "Es la energía asociada con la posición de un sistema.",
+        "C": "Es la energía que se transfiere en forma de calor.",
+        "D": "Es la energía que un cuerpo posee debido a su temperatura.",
+        "E": "Es la energía liberada únicamente en campos gravitatorios."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial es fundamentalmente la energía que un sistema posee debido a su configuración o posición, no a su movimiento. Ejemplos de esto son la energía almacenada en un objeto elevado (potencial gravitatoria) o en un resorte comprimido (potencial elástica).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_005",
+      "pregunta": "¿Cuál es la fórmula matemática que representa la energía potencial elástica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E_{PE} = \\frac{1}{2}mv^2$$",
+        "B": "$$E_{PE} = mgh$$",
+        "C": "$$E_{PE} = \\frac{1}{2}kx^2$$",
+        "D": "$$E_{PE} = kx$$",
+        "E": "$$E_{PE} = \\frac{k}{x^2}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial elástica ($E_{PE}$) que acumula un cuerpo elástico al ser deformado (estirado o comprimido) se calcula con la fórmula $$E_{PE} = \\frac{1}{2}kx^2$$, donde $k$ es la constante elástica del cuerpo y $x$ es la magnitud de la deformación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_006",
+      "pregunta": "¿Bajo qué circunstancia la energía potencial gravitatoria de un objeto se considera negativa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el objeto se mueve hacia abajo.",
+        "B": "Cuando el objeto está por encima del nivel de referencia.",
+        "C": "Cuando el objeto está por debajo del nivel de referencia.",
+        "D": "Cuando la masa del objeto es muy pequeña.",
+        "E": "La energía potencial gravitatoria nunca puede ser negativa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El signo de la energía potencial gravitatoria depende de la elección del nivel de referencia (donde $h=0$). Si el cuerpo se encuentra en una posición por debajo de este nivel, su altura $h$ se considera negativa, lo que resulta en una energía potencial gravitatoria negativa ($E_{PG} = mgh$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_007",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la energía cinética y la energía potencial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía cinética se mide en Joules y la potencial en otra unidad.",
+        "B": "La energía cinética depende de la masa y la potencial no.",
+        "C": "La energía cinética está asociada al movimiento y la potencial a la posición.",
+        "D": "La energía cinética siempre es positiva, mientras que la potencial siempre es negativa.",
+        "E": "No existe una diferencia fundamental; son dos nombres para el mismo tipo de energía."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción clave es que la energía cinética ($E_k = \\frac{1}{2}mv^2$) es la energía del movimiento, dependiente de la velocidad. En cambio, la energía potencial ($E_{PG}$ o $E_{PE}$) es energía almacenada, asociada a la posición o configuración de un sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_008",
+      "pregunta": "¿En qué situación la energía potencial elástica de un resorte es nula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando está completamente comprimido.",
+        "B": "Cuando está completamente estirado.",
+        "C": "Cuando se mueve a velocidad constante.",
+        "D": "Cuando no está deformado (ni estirado ni comprimido).",
+        "E": "La energía potencial elástica nunca es nula si el resorte existe."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía potencial elástica se almacena en un cuerpo elástico solo cuando este está deformado. Si el cuerpo se encuentra en su longitud natural, sin estiramiento ni compresión, su deformación $x$ es cero, y por lo tanto, su energía potencial elástica ($E_{PE} = \\frac{1}{2}kx^2$) es nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_009",
+      "pregunta": "Si la masa ($m$) de un objeto se duplica, pero su altura ($h$) y la aceleración gravitatoria ($g$) se mantienen constantes, ¿cómo cambia su energía potencial gravitatoria ($E_{PG}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad.",
+        "B": "Se cuadruplica.",
+        "C": "No cambia.",
+        "D": "Se duplica.",
+        "E": "Se reduce a un cuarto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía potencial gravitatoria se calcula con la fórmula $$E_{PG} = mgh$$. Dado que $E_{PG}$ es directamente proporcional a la masa $m$, si la masa se duplica mientras $g$ y $h$ permanecen constantes, la energía potencial gravitatoria también se duplicará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_010",
+      "pregunta": "¿Qué afirmación describe correctamente los posibles valores de la energía potencial gravitatoria ($E_{PG}$) en comparación con la energía potencial elástica ($E_{PE}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas pueden ser positivas, negativas o nulas.",
+        "B": "La $E_{PG}$ puede ser positiva, negativa o nula, mientras que la $E_{PE}$ siempre es positiva o nula.",
+        "C": "Ambas son siempre positivas.",
+        "D": "La $E_{PG}$ siempre es positiva o nula, mientras que la $E_{PE}$ puede ser positiva, negativa o nula.",
+        "E": "Ambas son siempre nulas o negativas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial gravitatoria ($E_{PG}$) depende del nivel de referencia y puede ser positiva (por encima), negativa (por debajo) o nula (en el nivel). En cambio, la energía potencial elástica ($E_{PE} = \\frac{1}{2}kx^2$) depende del cuadrado de la deformación ($x^2$), por lo que siempre será un valor positivo si el cuerpo está deformado ($x \\neq 0$) o nulo si no lo está ($x=0$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_011",
+      "pregunta": "Un libro descansa sobre una mesa. Si se establece el suelo como el nivel de referencia ($h=0$), ¿qué se puede afirmar sobre la energía potencial gravitatoria del libro?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es nula porque el libro está en reposo.",
+        "B": "Es negativa porque la mesa está sobre el suelo.",
+        "C": "Es positiva porque el libro está por encima del nivel de referencia.",
+        "D": "Depende de la energía cinética del libro.",
+        "E": "Es igual a la energía potencial elástica de la mesa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial gravitatoria se define por la posición relativa a un nivel de referencia. Como el libro está sobre la mesa, se encuentra a una cierta altura por encima del suelo. Al ser el suelo el nivel de referencia ($h=0$), la altura $h$ del libro es positiva, y por lo tanto, su energía potencial gravitatoria es positiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_012",
+      "pregunta": "En la fórmula de la energía potencial elástica, $$E_{PE} = \\frac{1}{2}kx^2$$, ¿cuáles son las unidades en el S.I. correspondientes a la variable $k$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Joules por metro (J/m)",
+        "B": "Kilogramos (kg)",
+        "C": "Newtons por metro (N/m)",
+        "D": "Metros por segundo al cuadrado (m/s²)",
+        "E": "Joules (J)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La variable $k$ es la constante elástica del cuerpo. Sus unidades en el Sistema Internacional son Newtons por metro (N/m), que representa la cantidad de fuerza necesaria para deformar el cuerpo una unidad de longitud.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_013",
+      "pregunta": "Un ascensor viaja desde el quinto piso de un edificio hasta el sótano. Si se establece el nivel de la calle (planta baja) como el nivel de referencia ($h=0$), ¿cómo es la energía potencial gravitatoria del ascensor al inicio y al final de su recorrido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Positiva al inicio y positiva al final.",
+        "B": "Nula al inicio y negativa al final.",
+        "C": "Positiva al inicio y negativa al final.",
+        "D": "Negativa al inicio y positiva al final.",
+        "E": "Nula al inicio y nula al final."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Con el nivel de referencia en la planta baja ($h=0$), el quinto piso está por encima de este nivel, por lo que su altura $h$ es positiva, resultando en una energía potencial gravitatoria inicial positiva. El sótano está por debajo del nivel de la calle, por lo que su altura $h$ es negativa, resultando en una energía potencial gravitatoria final negativa. Por lo tanto, la energía cambia de positiva a negativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_014",
+      "pregunta": "¿Es posible que un objeto tenga energía potencial gravitatoria nula y energía cinética no nula al mismo tiempo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "No, si una es nula, la otra también debe serlo.",
+        "B": "Sí, si el objeto está en reposo en el nivel de referencia.",
+        "C": "No, porque la energía total debe ser siempre cero.",
+        "D": "Sí, si el objeto está en movimiento pasando por el nivel de referencia.",
+        "E": "Sí, pero solo si no hay gravedad."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Sí, es posible. La energía potencial gravitatoria es nula cuando el objeto se encuentra exactamente en el nivel de referencia ($h=0$). La energía cinética es no nula siempre que el objeto esté en movimiento ($v \\neq 0$). Por lo tanto, un objeto que está pasando en movimiento a través del nivel de referencia (por ejemplo, una pelota lanzada hacia arriba que pasa por su punto de partida) cumple ambas condiciones simultáneamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_034_015",
+      "pregunta": "Se tienen dos cuerpos, A y B. El cuerpo A tiene una masa $m$ y está a una altura $2h$. El cuerpo B tiene una masa $2m$ y está a una altura $h$. ¿Cómo se compara la energía potencial gravitatoria del cuerpo A ($E_{PG,A}$) con la del cuerpo B ($E_{PG,B}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$E_{PG,A}$ es el doble que $E_{PG,B}$.",
+        "B": "$E_{PG,A}$ es la mitad que $E_{PG,B}$.",
+        "C": "$E_{PG,A}$ es igual a $E_{PG,B}$.",
+        "D": "$E_{PG,A}$ es cuatro veces $E_{PG,B}$.",
+        "E": "No se pueden comparar sin el valor de $g$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para comparar las energías, usamos la fórmula $$E_{PG} = mgh$$. Para el cuerpo A: $$E_{PG,A} = (m)(g)(2h) = 2mgh$$. Para el cuerpo B: $$E_{PG,B} = (2m)(g)(h) = 2mgh$$. Al comparar ambas expresiones, vemos que $E_{PG,A} = E_{PG,B}$. Las energías potenciales gravitatorias de ambos cuerpos son iguales.",
+      "imagen": null
+    }
+  ]
+}

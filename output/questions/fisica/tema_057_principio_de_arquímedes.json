@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 57,
+  "total_temas": 137,
+  "titulo_tema": "Principio de Arquímedes",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_057_001",
+      "pregunta": "¿Qué establece fundamentalmente el Principio de Arquímedes?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las fuerzas de los émbolos son directamente proporcionales a sus áreas.",
+        "B": "Todo cuerpo total o parcialmente sumergido en un líquido experimenta un empuje vertical hacia arriba igual al peso del líquido desalojado.",
+        "C": "Un fluido ideal tiene un flujo constante, irrotacional, no viscoso e incompresible.",
+        "D": "La presión aplicada a un fluido se transmite con igual intensidad en todas las direcciones.",
+        "E": "La fuerza de empuje es siempre mayor que el peso del cuerpo sumergido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Principio de Arquímedes define la fuerza de empuje. Establece que esta fuerza, que actúa verticalmente hacia arriba sobre cualquier cuerpo sumergido en un líquido, tiene una magnitud exactamente igual al peso del volumen de líquido que el cuerpo desplaza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_002",
+      "pregunta": "Según la información proporcionada, ¿cuál es la expresión matemática para calcular la fuerza de empuje ($E$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E = \\rho_{\\text{cuerpo}} g V_s$$",
+        "B": "$$E = \\rho_{\\text{líq}} g V_{\\text{total}}$$",
+        "C": "$$E = \\rho_{\\text{líq}} g V_s$$",
+        "D": "$$E = P \\cdot g$$",
+        "E": "$$E = F_2 / A_2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula para el empuje ($E$) es el producto de la densidad del líquido ($\\rho_{\\text{líq}}$), la aceleración de la gravedad ($g$), y el volumen del cuerpo que está sumergido ($\\V_s$$). Las otras opciones utilizan incorrectamente la densidad del cuerpo o el volumen total en lugar del volumen sumergido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_003",
+      "pregunta": "¿Qué condición se cumple cuando un cuerpo sumergido en un líquido desciende hasta el fondo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El empuje es mayor que el peso ($E > P$).",
+        "B": "El peso es mayor que el empuje ($P > E$).",
+        "C": "El empuje es igual al peso ($E = P$).",
+        "D": "La densidad del cuerpo es menor que la del líquido ($\\rho_{\\text{cuerpo}} < \\rho_{\\text{agua}}$).",
+        "E": "La fuerza de empuje es nula ($E=0$)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un cuerpo desciende en un fluido cuando la fuerza de su peso ($P$), que tira de él hacia abajo, es mayor que la fuerza de empuje ($E$), que lo impulsa hacia arriba. Esto ocurre cuando la densidad del cuerpo es mayor que la del líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_004",
+      "pregunta": "¿Cuál de las siguientes es una característica de un fluido ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es viscoso y compresible.",
+        "B": "Tiene un flujo turbulento.",
+        "C": "Tiene un flujo constante e incompresible.",
+        "D": "Su densidad varía con la presión.",
+        "E": "Solo puede estar en estado de reposo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un fluido ideal es un modelo teórico que simplifica el análisis de la dinámica de fluidos. Se define por cuatro características clave: flujo constante (laminar), irrotacional, no viscoso e incompresible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_005",
+      "pregunta": "En un sistema de émbolos conectados por un fluido, ¿cómo se relacionan las fuerzas ($F$) y las áreas ($A$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son inversamente proporcionales ($$F \\propto 1/A$$).",
+        "B": "Son independientes entre sí.",
+        "C": "La suma de las fuerzas es igual a la suma de las áreas.",
+        "D": "Son directamente proporcionales ($$F \\propto A$$).",
+        "E": "El producto de la fuerza y el área es constante ($$F \\cdot A = \\text{constante}$$)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La relación $$F_1/A_1 = F_2/A_2$$ indica que la razón entre la fuerza y el área es constante en todo el fluido. Esto implica que la fuerza ejercida en un émbolo es directamente proporcional a su área. A mayor área, mayor fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_006",
+      "pregunta": "Si un cuerpo sumergido se encuentra en equilibrio dentro de un líquido, ¿qué relación existe entre las densidades del cuerpo ($\\rho_{\\text{cuerpo}}$) y del líquido ($\\rho_{\\text{agua}}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\rho_{\\text{cuerpo}} > \\rho_{\\text{agua}}$$",
+        "B": "$$\\rho_{\\text{cuerpo}} < \\rho_{\\text{agua}}$$",
+        "C": "$$\\rho_{\\text{cuerpo}} = 2 \\cdot \\rho_{\\text{agua}}$$",
+        "D": "$$\\rho_{\\text{cuerpo}} = \\rho_{\\text{agua}}$$",
+        "E": "La densidad del cuerpo debe ser cero."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que un cuerpo se mantenga en equilibrio (ni suba ni baje) totalmente sumergido, la fuerza de su peso debe ser exactamente igual a la fuerza de empuje ($$P = E$$). Esto solo ocurre cuando la densidad del cuerpo es idéntica a la densidad del líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_007",
+      "pregunta": "¿Qué es la ventaja mecánica (VM) en un sistema de émbolos y cómo se calcula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es la diferencia entre las áreas, $$VM = A_2 - A_1$$",
+        "B": "Es la relación entre la fuerza de entrada y la de salida, $$VM = F_1/F_2$$",
+        "C": "Es la relación entre el área de salida y el área de entrada, $$VM = A_2/A_1$$",
+        "D": "Es el producto de las fuerzas, $$VM = F_1 \\cdot F_2$$",
+        "E": "Es la relación entre los desplazamientos, $$VM = h_2/h_1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ventaja mecánica es un factor que indica cuánto se amplifica la fuerza en un sistema como una prensa hidráulica. Se calcula como el cociente entre el área del émbolo de salida ($A_2$) y el área del émbolo de entrada ($A_1$). También es igual al cociente de las fuerzas, $$VM = F_2/F_1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_008",
+      "pregunta": "En un sistema de dos émbolos de áreas $A_1$ y $A_2$ con $A_2 > A_1$, ¿cuál es la relación entre sus desplazamientos verticales $h_1$ y $h_2$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$h_1 = h_2$$",
+        "B": "$$h_1 < h_2$$",
+        "C": "$$h_1 > h_2$$",
+        "D": "$$h_1 = 1/h_2$$",
+        "E": "No hay relación entre los desplazamientos y las áreas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una prensa hidráulica, el volumen de líquido desplazado es el mismo en ambos lados. Dado que el volumen es área por altura ($$V = A \\cdot h$$), se cumple que $$A_1 h_1 = A_2 h_2$$. Como el área $A_1$ es menor, su desplazamiento $h_1$ debe ser mayor para conservar el volumen. Por lo tanto, el émbolo menor es el que más se desplaza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_009",
+      "pregunta": "Cuando se dice que un fluido ideal tiene un \"flujo constante\", ¿a qué se refiere?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A que la velocidad del fluido es cero en todos los puntos.",
+        "B": "A que todas las partículas del fluido tienen la misma velocidad al pasar por un punto determinado.",
+        "C": "A que la velocidad de todas las partículas es la misma en todo el fluido y en todo momento.",
+        "D": "A que el flujo no puede cambiar de dirección.",
+        "E": "A que la densidad del fluido es constante."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un flujo constante, también llamado laminar o suave, implica que si observamos un punto fijo en el espacio por donde pasa el fluido, todas las partículas que pasen por ese punto lo harán con la misma velocidad. Esto no significa que la velocidad sea la misma en puntos diferentes, sino que es constante en el tiempo para cada punto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_010",
+      "pregunta": "¿Qué condición de fuerzas y densidades se cumple para que un cuerpo flote en la superficie de un líquido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$E > P$$ y $$\\rho_{\\text{agua}} < \\rho_{\\text{cuerpo}}$$",
+        "B": "$$E = P$$ y $$\\rho_{\\text{agua}} = \\rho_{\\text{cuerpo}}$$",
+        "C": "$$P > E$$ y $$\\rho_{\\text{agua}} > \\rho_{\\text{cuerpo}}$$",
+        "D": "$$E = P$$ y $$\\rho_{\\text{agua}} > \\rho_{\\text{cuerpo}}$$",
+        "E": "$$E < P$$ y $$\\rho_{\\text{agua}} < \\rho_{\\text{cuerpo}}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que un objeto flote, debe estar en equilibrio, lo que significa que la fuerza de empuje que lo sostiene debe ser igual a su peso ($$E = P$$). Esto ocurre cuando la densidad del objeto es menor que la del líquido ($$\\rho_{\\text{cuerpo}} < \\rho_{\\text{agua}}$$), lo que permite que el objeto desaloje un volumen de líquido con un peso igual al suyo sin necesidad de sumergirse por completo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_011",
+      "pregunta": "Si un cuerpo sumergido asciende hacia la superficie, ¿qué relación se establece inicialmente entre su peso ($P$) y el empuje ($E$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = E$$",
+        "B": "$$P > E$$",
+        "C": "$$P < E$$",
+        "D": "$$P = 2E$$",
+        "E": "El peso es irrelevante, solo importa el empuje."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un cuerpo asciende cuando la fuerza neta sobre él es hacia arriba. Esto sucede si la fuerza de empuje ($E$), que es vertical y hacia arriba, es mayor que la fuerza del peso ($P$), que es vertical y hacia abajo. Esta condición se da cuando la densidad del cuerpo es menor que la del líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_012",
+      "pregunta": "¿Cuál es la interpretación física de la igualdad $$E = W_{\\text{Líquido desalojado}}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El empuje es igual al peso del cuerpo sumergido.",
+        "B": "La fuerza de empuje tiene el mismo valor que el peso del volumen de líquido desplazado por el objeto.",
+        "C": "El empuje y el peso del líquido desalojado son dos fuerzas que actúan sobre el líquido.",
+        "D": "El líquido desalojado ejerce una fuerza igual a su propio peso sobre el fondo del recipiente.",
+        "E": "El peso del cuerpo es igual al peso del líquido que podría ocupar su mismo volumen."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta ecuación es la definición conceptual del Principio de Arquímedes. Significa que la magnitud de la fuerza de flotación (empuje, $E$) que experimenta un objeto es numéricamente idéntica al peso del fluido ($W_{\\text{Líquido desalojado}}$) que ha sido apartado o movido para hacer espacio al objeto sumergido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_013",
+      "pregunta": "En la relación $$F_2 = (A_2/A_1)F_1$$, si $$A_2$$ es 10 veces mayor que $$A_1$$, ¿qué efecto tiene el factor $$A_2/A_1$$ sobre la fuerza de entrada $$F_1$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Reduce la fuerza de salida a una décima parte de $$F_1$$.",
+        "B": "No tiene ningún efecto sobre la fuerza, solo sobre la presión.",
+        "C": "Suma un valor de 10 a la fuerza de entrada.",
+        "D": "Amplifica la fuerza de entrada por un factor de 10 para obtener la fuerza de salida $$F_2$$.",
+        "E": "Indica que el desplazamiento en el émbolo 2 será 10 veces mayor que en el 1."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El factor $$A_2/A_1$$ se conoce como ventaja mecánica. Si esta relación es 10, significa que la fuerza de salida $$F_2$$ será 10 veces mayor que la fuerza de entrada $$F_1$$. Este principio permite multiplicar la fuerza aplicada, siendo la base de sistemas como las prensas hidráulicas y los frenos de los coches.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_014",
+      "pregunta": "Un objeto flota con la mitad de su volumen sumergido. ¿Qué se puede concluir sobre la relación entre su peso $P$ y el empuje $E$, y la relación entre su densidad $\\rho_{\\text{cuerpo}}$ y la del líquido $\\rho_{\\text{líq}}$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$E > P$$ y $$\\rho_{\\text{cuerpo}} = 0.5 \\cdot \\rho_{\\text{líq}}$$",
+        "B": "$$E = P$$ y $$\\rho_{\\text{cuerpo}} = 2 \\cdot \\rho_{\\text{líq}}$$",
+        "C": "$$E = P$$ y $$\\rho_{\\text{cuerpo}} = 0.5 \\cdot \\rho_{\\text{líq}}$$",
+        "D": "$$P > E$$ y $$\\rho_{\\text{cuerpo}} = \\rho_{\\text{líq}}$$",
+        "E": "$$E = P$$ y $$\\rho_{\\text{cuerpo}} = \\rho_{\\text{líq}}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si un objeto flota, está en equilibrio, por lo que su peso debe ser igual al empuje: $$P = E$$. Sabemos que $$P = \\rho_{\\text{cuerpo}} g V_{\\text{total}}$$ y $$E = \\rho_{\\text{líq}} g V_s$$. Como $$V_s = 0.5 \\cdot V_{\\text{total}}$$, al igualar las ecuaciones y cancelar $g$ y $V_{\\text{total}}$, obtenemos: $$\\rho_{\\text{cuerpo}} g V_{\\text{total}} = \\rho_{\\text{líq}} g (0.5 V_{\\text{total}})$$, lo que simplifica a $$\\rho_{\\text{cuerpo}} = 0.5 \\cdot \\rho_{\\text{líq}}$$. La densidad del cuerpo es la mitad que la del líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_057_015",
+      "pregunta": "¿Por qué la afirmación de que el empuje es igual al peso del líquido desalojado ($$E = W_{\\text{Líquido desalojado}}$$) conduce a la fórmula $$E = \\rho_{\\text{líq}} g V_s$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el peso del líquido desalojado depende de la densidad del cuerpo sumergido.",
+        "B": "Porque la definición de peso ($W$) es masa ($m$) por gravedad ($g$), y la masa de un fluido se define como su densidad ($\\rho$) por su volumen ($V$).",
+        "C": "Porque la ventaja mecánica ($A_2/A_1$) es igual a la relación de densidades.",
+        "D": "Porque el flujo de un fluido ideal es constante e incompresible.",
+        "E": "Porque la presión ($F/A$) es constante en todo el fluido, lo que define el empuje."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La transición de la definición conceptual a la fórmula matemática se realiza a través de las definiciones de peso y densidad. El peso del líquido desalojado ($W_{\\text{Líquido desalojado}}$) es igual a la masa de ese líquido ($m_{\\text{líq}}$) por la gravedad ($g$). A su vez, la masa de ese líquido es su densidad ($\\rho_{\\text{líq}}$) multiplicada por su volumen, que es precisamente el volumen sumergido del cuerpo ($V_s$). Sustituyendo, se obtiene: $$E = W_{\\text{Líquido desalojado}} = m_{\\text{líq}} \\cdot g = (\\rho_{\\text{líq}} V_s) g$$",
+      "imagen": null
+    }
+  ]
+}

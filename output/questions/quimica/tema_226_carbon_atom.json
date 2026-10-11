@@ -6,17 +6,17 @@
   "preguntas": [
     {
       "id_temporal": "quimica_226_001",
-      "pregunta": "¿Cuál es el número atómico ($Z$) del carbono?",
+      "pregunta": "¿Cuál es el número atómico ($Z$) del átomo de carbono?",
       "dificultad": 1,
       "opciones": {
-        "A": "4",
-        "B": "6",
-        "C": "8",
-        "D": "12",
-        "E": "1"
+        "A": "$$Z = 4$$",
+        "B": "$$Z = 12$$",
+        "C": "$$Z = 8$$",
+        "D": "$$Z = 6$$",
+        "E": "$$Z = 14$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El número atómico ($Z$) indica el número de protones en el núcleo de un átomo. Para el carbono, este número es 6, lo que lo posiciona como el sexto elemento en la tabla periódica.",
+      "respuesta_correcta": "D",
+      "explicacion": "El número atómico ($Z$) representa el número de protones en el núcleo de un átomo y define al elemento. Para el carbono, este número es 6, lo que lo posiciona como el sexto elemento en la tabla periódica.",
       "imagen": null
     },
     {
@@ -25,208 +25,208 @@
       "dificultad": 1,
       "opciones": {
         "A": "$$1s^2 2s^2 2p^6$$",
-        "B": "$$1s^2 2s^1 2p^3$$",
-        "C": "$$1s^2 2s^2 2p^4$$",
-        "D": "$$1s^2 2s^2 2p^2$$",
-        "E": "$$1s^2 2s^2$$"
+        "B": "$$1s^2 2s^2 2p^2$$",
+        "C": "$$1s^2 2s^2$$",
+        "D": "$$1s^2 2s^1 2p^3$$",
+        "E": "$$1s^2 2s^2 2p^4$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El átomo de carbono tiene 6 electrones. En su estado de menor energía (basal), estos electrones se distribuyen en los orbitales de la siguiente manera: 2 en el orbital $1s$, 2 en el orbital $2s$ y los 2 restantes en el subnivel $2p$, resultando en la configuración $$1s^2 2s^2 2p^2$$.",
+      "respuesta_correcta": "B",
+      "explicacion": "El átomo de carbono tiene un número atómico $Z=6$, lo que significa que posee 6 electrones. En su estado de menor energía (basal), estos electrones se distribuyen en los orbitales de la siguiente manera: 2 en el orbital $1s$, 2 en el orbital $2s$ y los 2 restantes en el orbital $2p$, dando la configuración $$1s^2 2s^2 2p^2$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_003",
-      "pregunta": "¿Cómo se denomina la capacidad del carbono para formar cuatro enlaces químicos?",
+      "pregunta": "La capacidad del carbono para formar hasta cuatro enlaces químicos se conoce como:",
       "dificultad": 1,
       "opciones": {
         "A": "Autosaturación",
         "B": "Catenación",
         "C": "Tetravalencia",
-        "D": "Configuración basal",
+        "D": "Configuración electrónica",
         "E": "Isomería"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La tetravalencia es la propiedad química que describe la capacidad del átomo de carbono para formar un total de cuatro enlaces covalentes. El prefijo 'tetra-' significa cuatro, y '-valencia' se refiere a la capacidad de combinación.",
+      "explicacion": "La tetravalencia es la propiedad química fundamental del carbono que describe su capacidad para formar cuatro enlaces covalentes con otros átomos. El prefijo 'tetra-' significa cuatro, y '-valencia' se refiere a la capacidad de combinación de un átomo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_004",
-      "pregunta": "La capacidad del carbono para unirse con otros átomos de carbono, formando cadenas largas, se conoce como:",
+      "pregunta": "¿Qué es la autosaturación del carbono?",
       "dificultad": 1,
       "opciones": {
-        "A": "Tetravalencia",
-        "B": "Electronegatividad",
-        "C": "Carbovalencia",
-        "D": "Formación cíclica",
-        "E": "Autosaturación"
+        "A": "La capacidad de formar cuatro enlaces.",
+        "B": "La capacidad de combinarse con otros átomos de carbono para formar cadenas.",
+        "C": "La capacidad de formar únicamente enlaces simples.",
+        "D": "La propiedad de tener 6 protones en su núcleo.",
+        "E": "La distribución de electrones en sus orbitales."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "La autosaturación es la propiedad única del carbono que le permite enlazarse consigo mismo para formar cadenas carbonadas de diversas longitudes y estructuras, ya sean lineales, ramificadas o cíclicas. Esta propiedad es la base de la química orgánica.",
+      "respuesta_correcta": "B",
+      "explicacion": "La autosaturación es la propiedad única del carbono que le permite enlazarse con otros átomos de carbono, dando lugar a la formación de cadenas largas y estables, tanto lineales (acíclicas) como en anillos (cíclicas). Esta propiedad es la base de la enorme diversidad de compuestos orgánicos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_005",
-      "pregunta": "En la configuración electrónica del carbono en estado fundamental, ¿cuántos electrones se encuentran en el orbital $2p_z$?",
+      "pregunta": "¿Cuál de las siguientes representaciones corresponde a un enlace triple entre átomos de carbono?",
       "dificultad": 1,
       "opciones": {
-        "A": "0",
-        "B": "1",
-        "C": "2",
-        "D": "3",
-        "E": "4"
+        "A": "-C-C-",
+        "B": "C=C",
+        "C": "-C≡C-",
+        "D": "H₂C-CH₂",
+        "E": "-C-O-"
       },
-      "respuesta_correcta": "A",
-      "explicacion": "La configuración es $$1s^2 2s^2 2p^2$$. Los dos electrones en el subnivel $2p$ se distribuyen, según la regla de Hund, ocupando orbitales diferentes para maximizar el espín. Por lo tanto, un electrón ocupa el orbital $2p_x$ y el otro el $2p_y$, dejando el orbital $2p_z$ vacío.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los enlaces entre átomos de carbono pueden ser de tres tipos: un enlace simple (-C-C-), un enlace doble (C=C), y un enlace triple (-C≡C-). La representación con tres líneas paralelas simboliza el enlace triple.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_006",
-      "pregunta": "¿Qué propiedad química del carbono es la principal responsable de la enorme diversidad y cantidad de compuestos orgánicos existentes?",
+      "pregunta": "En el estado basal del carbono ($$1s^2 2s^2 2p^2$$), ¿cómo se distribuyen los electrones en los orbitales $2p$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Su número atómico $Z=6$",
-        "B": "La tetravalencia",
-        "C": "La autosaturación",
-        "D": "Su configuración de estado basal",
-        "E": "Su capacidad para formar enlaces simples"
+        "A": "Dos electrones en $2p_x$ y los demás vacíos.",
+        "B": "Un electrón en $2p_x$ y un electrón en $2p_y$.",
+        "C": "Un electrón en cada uno de los orbitales $2p_x$, $2p_y$ y $2p_z$.",
+        "D": "Dos electrones apareados en el orbital $2s$.",
+        "E": "Un electrón en $2p_x$ y los demás vacíos."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La autosaturación, que es la capacidad del carbono de enlazarse consigo mismo, permite la formación de una infinita variedad de cadenas (acíclicas y cíclicas, saturadas y no saturadas). Esta característica es la razón fundamental de la existencia de un número tan elevado de compuestos orgánicos.",
+      "respuesta_correcta": "B",
+      "explicacion": "De acuerdo con la Regla de Hund, los electrones que entran en orbitales de igual energía (como $2p_x$, $2p_y$ y $2p_z$) tienden a ocupar orbitales diferentes y con espines paralelos. Por lo tanto, para los dos electrones en el subnivel $2p$ del carbono, uno ocupará el orbital $2p_x$ y el otro el $2p_y$, dejando el $2p_z$ vacío.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_007",
-      "pregunta": "Basándose únicamente en la distribución de electrones desapareados en la configuración basal del carbono ($$1s^2 2s^2 2p_x^1 2p_y^1 2p_z^0$$), ¿cuántos enlaces se esperaría que formara?",
+      "pregunta": "Considerando únicamente los electrones desapareados en la configuración basal del carbono ($$1s^2 2s^2 2p^2$$), ¿cuántos enlaces se esperaría teóricamente que formara?",
       "dificultad": 2,
       "opciones": {
         "A": "Uno",
         "B": "Dos",
         "C": "Tres",
         "D": "Cuatro",
-        "E": "Cero"
+        "E": "Seis"
       },
       "respuesta_correcta": "B",
-      "explicacion": "La formación de enlaces covalentes implica compartir electrones desapareados. En su estado basal, el carbono tiene solo dos electrones desapareados, uno en el orbital $2p_x$ y otro en el $2p_y$. Por lo tanto, cabría esperar que formara únicamente dos enlaces, a pesar de que experimentalmente se observa que forma cuatro.",
+      "explicacion": "La teoría del enlace de valencia postula que el número de enlaces que un átomo puede formar es igual al número de electrones desapareados. En la configuración basal del carbono ($$2p_x^1 2p_y^1$$), hay dos electrones desapareados. Por lo tanto, cabría esperar que formara dos enlaces, aunque experimentalmente se observa que forma cuatro (tetravalencia).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_008",
-      "pregunta": "¿Cuál de las siguientes representaciones corresponde a una cadena carbonada acíclica?",
+      "pregunta": "¿Qué característica del carbono es la principal responsable de la existencia de una inmensa cantidad de compuestos orgánicos?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$H_2C-CH_2-CH_2$$ unido en sus extremos",
-        "B": "$$-C-C-C-C-$$",
-        "C": "Un hexágono de átomos de carbono",
-        "D": "$$-C≡C-$$",
-        "E": "Un pentágono de átomos de carbono"
+        "A": "Su número atómico $Z=6$.",
+        "B": "La tetravalencia.",
+        "C": "La autosaturación.",
+        "D": "Su capacidad para formar enlaces dobles.",
+        "E": "La presencia de electrones en el nivel $n=2$."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Una cadena acíclica es una cadena abierta, que no forma un anillo. La opción B representa una secuencia lineal de átomos de carbono. Las opciones A, C y E describen explícitamente estructuras cíclicas (anillos). La opción D representa un tipo de enlace, no una estructura de cadena completa.",
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque la tetravalencia es fundamental para la estabilidad, la autosaturación es la propiedad que explica directamente la gran diversidad y número de compuestos orgánicos. Esta capacidad de unirse a sí mismo permite la formación de cadenas y anillos de longitudes y complejidades virtualmente ilimitadas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_009",
-      "pregunta": "La tetravalencia del carbono le permite formar diferentes tipos de enlaces. ¿Cuál de las siguientes afirmaciones describe mejor esta capacidad?",
+      "pregunta": "Una cadena carbonada del tipo -C-C-C-C- es un ejemplo de una estructura:",
       "dificultad": 2,
       "opciones": {
-        "A": "Únicamente puede formar cuatro enlaces simples del tipo $$-C-C-$$.",
-        "B": "Siempre forma dos enlaces dobles como en el $$O=C=O$$.",
-        "C": "Puede formar enlaces simples, dobles o triples para completar sus cuatro valencias.",
-        "D": "Solo puede formar un enlace triple y un enlace doble a la vez.",
-        "E": "La tetravalencia se refiere a la formación de cuatro orbitales $p$."
+        "A": "Cíclica y saturada.",
+        "B": "Acíclica y no saturada.",
+        "C": "Cíclica y no saturada.",
+        "D": "Acíclica y saturada.",
+        "E": "Aromática."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La tetravalencia significa que el carbono forma un total de cuatro enlaces. Esta valencia puede satisfacerse de varias maneras: con cuatro enlaces simples, con dos enlaces dobles, con un enlace doble y dos simples, o con un enlace triple y uno simple. La opción C resume correctamente todas estas posibilidades.",
+      "respuesta_correcta": "D",
+      "explicacion": "Una cadena acíclica es una cadena abierta o lineal, como la mostrada. Se considera saturada porque todos los enlaces entre los átomos de carbono son simples. Las cadenas no saturadas contienen al menos un enlace doble o triple, y las cíclicas forman un anillo cerrado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_010",
-      "pregunta": "Considerando la propiedad de autosaturación, ¿qué característica distingue a una cadena no saturada de una saturada?",
+      "pregunta": "La propiedad de tetravalencia del carbono permite la formación de:",
       "dificultad": 2,
       "opciones": {
-        "A": "Las cadenas no saturadas son siempre cíclicas.",
-        "B": "Las cadenas saturadas tienen más átomos de carbono.",
-        "C": "Las cadenas no saturadas contienen al menos un enlace doble ($C=C$) o triple ($-C≡C-$).",
-        "D": "Las cadenas saturadas no pueden ser acíclicas.",
-        "E": "Las cadenas no saturadas tienen menos de cuatro enlaces por átomo de carbono."
+        "A": "Únicamente enlaces simples.",
+        "B": "Únicamente cadenas cíclicas.",
+        "C": "Enlaces simples, dobles y triples.",
+        "D": "Únicamente cadenas muy largas.",
+        "E": "Solo enlaces con otros átomos de carbono."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Una cadena carbonada se considera 'saturada' cuando todos los enlaces entre átomos de carbono son simples ($$-C-C-$$). Se denomina 'no saturada' o 'insaturada' si contiene uno o más enlaces múltiples, es decir, enlaces dobles ($C=C$) o triples ($-C≡C-$).",
+      "explicacion": "La tetravalencia es la capacidad de formar un total de cuatro enlaces. Estos cuatro enlaces pueden distribuirse de varias maneras: como cuatro enlaces simples, dos enlaces dobles, un enlace doble y dos simples, o un enlace triple y uno simple. Por tanto, permite la formación de enlaces simples, dobles y triples.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_011",
-      "pregunta": "En el estado fundamental del átomo de carbono, cuya configuración es $$1s^2 2s^2 2p^2$$, ¿cuántos orbitales atómicos están completamente llenos?",
+      "pregunta": "¿Qué distingue fundamentalmente a una cadena carbonada cíclica de una acíclica?",
       "dificultad": 2,
       "opciones": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4",
-        "E": "6"
+        "A": "Las cadenas cíclicas solo tienen enlaces simples.",
+        "B": "Las cadenas acíclicas son más largas.",
+        "C": "Las cadenas cíclicas forman un anillo cerrado, mientras que las acíclicas son abiertas.",
+        "D": "Las cadenas acíclicas solo contienen carbono, mientras que las cíclicas contienen hidrógeno.",
+        "E": "Las cadenas cíclicas no pueden tener enlaces dobles."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Un orbital atómico puede contener un máximo de dos electrones. En la configuración $$1s^2 2s^2 2p^2$$, el orbital $1s$ está lleno con 2 electrones y el orbital $2s$ también está lleno con 2 electrones. El subnivel $2p$ contiene 2 electrones repartidos en 3 orbitales, por lo que ninguno de sus orbitales está lleno. Por lo tanto, hay un total de 2 orbitales completamente llenos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia geométrica fundamental es que las cadenas acíclicas tienen dos extremos definidos (son lineales o ramificadas), mientras que las cadenas cíclicas consisten en átomos de carbono unidos de tal manera que forman un bucle o anillo cerrado, sin extremos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_012",
-      "pregunta": "La propiedad de autosaturación permite al carbono formar diferentes tipos de cadenas. ¿Qué tipo de estructura resulta cuando los átomos de carbono de una cadena se unen formando un anillo cerrado?",
+      "pregunta": "Según la configuración electrónica basal del carbono ($$1s^2 2s^2 2p^2$$), ¿qué orbital del segundo nivel de energía se encuentra vacío?",
       "dificultad": 2,
       "opciones": {
-        "A": "Una cadena acíclica.",
-        "B": "Una cadena saturada.",
-        "C": "Una cadena cíclica.",
-        "D": "Una cadena no saturada.",
-        "E": "Un enlace triple."
+        "A": "El orbital $2s$.",
+        "B": "El orbital $2p_x$.",
+        "C": "El orbital $2p_y$.",
+        "D": "El orbital $2p_z$.",
+        "E": "Ninguno, todos están al menos semillenos."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Por definición, una cadena cíclica es aquella en la que los átomos de carbono se unen formando un anillo o ciclo. Las cadenas acíclicas son cadenas abiertas. Tanto las cadenas cíclicas como las acíclicas pueden ser saturadas o no saturadas.",
+      "respuesta_correcta": "D",
+      "explicacion": "En el estado basal, los 6 electrones del carbono llenan los orbitales de menor energía primero. El orbital $1s$ se llena con 2 electrones, el $2s$ con 2 electrones. Los 2 electrones restantes van al subnivel $2p$. Según la regla de Hund, ocupan orbitales separados: uno en $2p_x$ y otro en $2p_y$. Esto deja al orbital $2p_z$ completamente vacío.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_013",
-      "pregunta": "Existe una discrepancia entre la configuración electrónica basal del carbono ($$1s^2 2s^2 2p^2$$) y su tetravalencia observada. ¿Cuál es el núcleo de este conflicto teórico-experimental?",
+      "pregunta": "¿Cuál es la principal contradicción que se presenta al comparar la configuración electrónica basal del carbono con su comportamiento químico observado experimentalmente?",
       "dificultad": 3,
       "opciones": {
-        "A": "La configuración basal es inestable y no existe en la naturaleza.",
-        "B": "La configuración basal predice una capacidad de dos enlaces, mientras que en la práctica forma cuatro.",
-        "C": "Los resultados experimentales que muestran tetravalencia son incorrectos.",
-        "D": "Los electrones del orbital $1s$ son los que forman los enlaces adicionales.",
-        "E": "La tetravalencia solo ocurre cuando el carbono se une al oxígeno, no a sí mismo."
+        "A": "Que siendo un no metal, forma enlaces covalentes.",
+        "B": "Que su configuración sugiere una capacidad para formar dos enlaces, pero en realidad forma cuatro.",
+        "C": "Que puede formar cadenas largas, a pesar de tener solo 6 electrones.",
+        "D": "Que sus electrones $2s$ no participan en los enlaces.",
+        "E": "Que puede formar tanto enlaces dobles como triples, pero no cuádruples."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El punto central de la discrepancia es que la configuración electrónica en estado fundamental solo muestra dos electrones desapareados, lo que teóricamente permitiría formar solo dos enlaces. Sin embargo, los datos experimentales demuestran de forma concluyente que el carbono forma cuatro enlaces. Esta aparente contradicción se resuelve con el concepto de hibridación de orbitales, que explica cómo el carbono puede formar cuatro enlaces equivalentes.",
+      "explicacion": "La configuración basal ($$1s^2 2s^2 2p_x^1 2p_y^1$$) muestra solo dos electrones desapareados, lo que teóricamente predeciría una valencia de 2. Sin embargo, los resultados experimentales demuestran inequívocamente que el carbono es tetravalente, es decir, forma cuatro enlaces. Esta aparente contradicción se resuelve con el concepto de hibridación de orbitales (aunque no se detalle aquí, es la base del problema).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_014",
-      "pregunta": "¿Qué dos propiedades químicas del carbono, al actuar de forma combinada, son fundamentales para la formación de las complejas y variadas estructuras de los compuestos orgánicos?",
+      "pregunta": "La existencia de moléculas como el ciclobutano ($H_2C-CH_2$ unido a $H_2C-CH_2$ en un ciclo) es una manifestación directa de la propiedad de:",
       "dificultad": 3,
       "opciones": {
-        "A": "Su número atómico y la presencia de orbitales $p$.",
-        "B": "La formación de cadenas cíclicas y no saturadas.",
-        "C": "La tetravalencia y la autosaturación.",
-        "D": "Su estado basal y su capacidad para formar enlaces dobles.",
-        "E": "La formación de enlaces simples y su ubicación en la tabla periódica."
+        "A": "La tetravalencia exclusivamente.",
+        "B": "La configuración electrónica basal.",
+        "C": "La autosaturación.",
+        "D": "La capacidad para formar enlaces triples.",
+        "E": "Su bajo número atómico."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La combinación de la tetravalencia (capacidad de formar cuatro enlaces) y la autosaturación (capacidad de unirse a otros carbonos) es lo que otorga al carbono su capacidad única para construir 'esqueletos' moleculares de enorme complejidad. La tetravalencia permite ramificaciones en cuatro direcciones, y la autosaturación permite que estas uniones se extiendan en largas cadenas y anillos, creando la base estructural para la química de la vida.",
+      "explicacion": "El ciclobutano es una cadena cíclica, lo que significa que átomos de carbono se han enlazado entre sí para formar un anillo. Esta capacidad de los átomos de carbono para unirse y formar estructuras cíclicas es un ejemplo claro de la propiedad de autosaturación. La tetravalencia permite que cada carbono en el anillo se una a otros dos carbonos y a dos hidrógenos (no mostrados), pero la formación del anillo en sí es autosaturación.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_226_015",
-      "pregunta": "Si un átomo de carbono forma un enlace triple con otro átomo de carbono, como en la estructura $$-C≡C-$$, ¿cuántos enlaces adicionales puede formar cada uno de esos átomos de carbono, respetando el principio de tetravalencia?",
+      "pregunta": "Para que un átomo de carbono forme parte de una cadena larga y estable, como en los polímeros orgánicos, ¿qué dos propiedades químicas fundamentales debe poseer?",
       "dificultad": 3,
       "opciones": {
-        "A": "Cero",
-        "B": "Uno",
-        "C": "Dos",
-        "D": "Tres",
-        "E": "Cuatro"
+        "A": "Tener 6 protones y formar enlaces dobles.",
+        "B": "Tener orbitales $p$ vacíos y ser el sexto elemento.",
+        "C": "Tetravalencia y autosaturación.",
+        "D": "Formar cadenas acíclicas y tener configuración $$1s^2 2s^2 2p^2$$.",
+        "E": "Ser un átomo pequeño y tener electrones en el segundo nivel."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El principio de tetravalencia dicta que un átomo de carbono debe formar un total de cuatro enlaces. Un enlace triple ($-C≡C-$) ya utiliza tres de las cuatro valencias disponibles de cada átomo de carbono. Por lo tanto, a cada carbono involucrado en el enlace triple le queda una valencia libre para formar un enlace simple adicional con otro átomo.",
+      "respuesta_correcta": "C",
+      "explicacion": "La formación de una cadena larga requiere de dos condiciones esenciales: primero, la capacidad de unirse a otros átomos de su mismo tipo (autosaturación) para construir el esqueleto de la cadena. Segundo, la capacidad de formar un número suficiente de enlaces (tetravalencia) para unirse a los átomos vecinos de la cadena y a otros átomos (como hidrógeno), garantizando la estabilidad de la estructura molecular completa.",
       "imagen": null
     }
   ]

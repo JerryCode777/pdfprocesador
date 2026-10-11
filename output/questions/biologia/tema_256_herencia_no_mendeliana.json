@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 256,
+  "total_temas": 320,
+  "titulo_tema": "Herencia no Mendeliana",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_256_001",
+      "pregunta": "¿Qué ocurre en un patrón de herencia por codominancia cuando un individuo es heterocigoto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un alelo enmascara completamente la expresión del otro.",
+        "B": "Los fenotipos de ambos alelos se mezclan para crear uno intermedio.",
+        "C": "Solo se expresa el alelo recesivo.",
+        "D": "Los fenotipos de ambos alelos se expresan simultáneamente y sin mezclarse.",
+        "E": "No se expresa ninguno de los dos alelos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La codominancia es un tipo de herencia no mendeliana en la que ambos alelos de un gen se expresan por completo en el fenotipo de un individuo heterocigoto. Esto significa que ambas características son visibles al mismo tiempo, sin que una domine a la otra ni se mezclen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_002",
+      "pregunta": "¿Qué se entiende por alelos múltiples en genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando un solo gen afecta múltiples características fenotípicas.",
+        "B": "Cuando existen tres o más alelos diferentes para un único gen en una población.",
+        "C": "Cuando dos alelos se expresan al mismo tiempo en un individuo.",
+        "D": "Cuando múltiples genes controlan una sola característica.",
+        "E": "Cuando un alelo es letal en su forma homocigota."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El concepto de alelos múltiples se refiere a la situación en la que un gen particular tiene más de dos formas o alelos posibles para controlar un carácter determinado dentro de una población. Un ejemplo clásico es el sistema de grupos sanguíneos ABO, que está controlado por tres alelos: $$I^A$$, $$I^B$$ e $$i^o$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_003",
+      "pregunta": "Según la notación genética para la codominancia, ¿cómo se representaría el genotipo de un bovino homocigoto para el color de pelaje negro?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$C^B C^N$$",
+        "B": "$$C^N C^N$$",
+        "C": "$$C^b C^n$$",
+        "D": "$$N N$$",
+        "E": "$$C^B C^B$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la herencia codominante, se utilizan letras mayúsculas iguales con superíndices para distinguir los alelos. Para el ganado vacuno, el alelo para el color negro se representa como $$C^N$$. Por lo tanto, un individuo homocigoto para este carácter tendría el genotipo $$C^N C^N$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_004",
+      "pregunta": "En el sistema sanguíneo ABO, el alelo $$i^o$$ es recesivo respecto a los alelos:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Únicamente $$I^A$$",
+        "B": "Únicamente $$I^B$$",
+        "C": "Tanto $$I^A$$ como $$I^B$$",
+        "D": "Ninguno, es dominante",
+        "E": "Ninguno, es codominante"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la jerarquía de dominancia del sistema ABO, los alelos $$I^A$$ y $$I^B$$ son ambos dominantes sobre el alelo $$i^o$$. Esto significa que para que una persona tenga el grupo sanguíneo O (fenotipo recesivo), debe tener el genotipo homocigoto $$i^o i^o$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_005",
+      "pregunta": "¿Qué característica principal tienen en común la dominancia intermedia y la codominancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En ambas se expresa solo el alelo dominante.",
+        "B": "Ambas siguen estrictamente las leyes de Mendel.",
+        "C": "En ambas se obtiene un tercer fenotipo en el heterocigoto.",
+        "D": "Ambas solo ocurren en plantas.",
+        "E": "En ambas los alelos se mezclan para formar uno nuevo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto en la codominancia como en la dominancia intermedia (o incompleta), el fenotipo del individuo heterocigoto es diferente de los fenotipos de los dos homocigotos parentales. Esto resulta en la aparición de un tercer fenotipo, aunque la forma en que se manifiesta es distinta en cada caso (expresión simultánea en codominancia, mezcla en dominancia intermedia).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_006",
+      "pregunta": "¿Cuál es la diferencia fundamental en el fenotipo heterocigoto del ganado con pelaje codominante ($$C^B C^N$$) comparado con lo que sería si fuera dominancia incompleta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En codominancia sería negro, en dominancia incompleta sería blanco.",
+        "B": "Sería idéntico en ambos casos, con manchas blancas y negras.",
+        "C": "En codominancia tiene manchas blancas y negras, en dominancia incompleta sería de color gris.",
+        "D": "En codominancia sería gris, en dominancia incompleta tendría manchas.",
+        "E": "No habría ninguna diferencia observable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia clave radica en la expresión de los alelos. En la codominancia, ambos alelos ($$C^B$$ y $$C^N$$) se expresan plenamente, resultando en un animal con manchas blancas y negras. Si fuera dominancia incompleta, los fenotipos se mezclarían, produciendo un color intermedio, que en este caso sería el gris.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_007",
+      "pregunta": "El sistema de grupos sanguíneos ABO es un ejemplo de herencia no Mendeliana porque combina dos patrones. ¿Cuáles son?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dominancia incompleta y herencia ligada al sexo",
+        "B": "Alelos múltiples y codominancia",
+        "C": "Epistasis y pleiotropía",
+        "D": "Dominancia completa y herencia poligénica",
+        "E": "Codominancia y herencia mitocondrial"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El sistema ABO ilustra dos conceptos de herencia no mendeliana: 1) Alelos múltiples, porque hay tres alelos ($$I^A$$, $$I^B$$, $$i^o$$) que controlan el carácter. 2) Codominancia, porque los alelos $$I^A$$ y $$I^B$$ se expresan simultáneamente en individuos con genotipo $$I^A I^B$$, dando lugar al grupo sanguíneo AB.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_008",
+      "pregunta": "¿Qué determina fenotípicamente el grupo sanguíneo de una persona en el sistema ABO?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El tipo de anticuerpos presentes en la superficie de los glóbulos rojos.",
+        "B": "La combinación de antígenos (aglutinógenos) presentes en la superficie de los eritrocitos.",
+        "C": "La cantidad total de glóbulos rojos en la sangre.",
+        "D": "La forma de los eritrocitos determinada por el gen del cromosoma 9.",
+        "E": "La presencia de anticuerpos (aglutininas) en el núcleo de las células sanguíneas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El fenotipo del grupo sanguíneo (A, B, AB, O) está determinado por la presencia o ausencia de antígenos específicos, llamados aglutinógenos, en la membrana de los glóbulos rojos. El alelo $$I^A$$ produce el antígeno A, el alelo $$I^B$$ produce el antígeno B, el genotipo $$I^A I^B$$ produce ambos, y el genotipo $$i^o i^o$$ no produce ninguno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_009",
+      "pregunta": "¿Qué relación de dominancia existe específicamente entre los alelos $$I^A$$ y $$I^B$$ del sistema sanguíneo humano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son codominantes entre sí.",
+        "B": "$$I^A$$ es dominante sobre $$I^B$$.",
+        "C": "$$I^B$$ es dominante sobre $$I^A$$.",
+        "D": "Ambos son recesivos frente a $$i^o$$.",
+        "E": "Presentan dominancia incompleta."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Los alelos $$I^A$$ y $$I^B$$ son codominantes. Esto significa que cuando un individuo hereda ambos alelos (genotipo $$I^A I^B$$), ambos se expresan por completo, resultando en la producción de antígenos A y B en la superficie de sus glóbulos rojos, lo que corresponde al grupo sanguíneo AB.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_010",
+      "pregunta": "Si un bovino tiene un fenotipo con pelaje de color blanco y negro a la vez, ¿cuál es su genotipo más probable?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C^B C^B$$",
+        "B": "$$C^N C^N$$",
+        "C": "$$c^b c^n$$",
+        "D": "$$C^B C^N$$",
+        "E": "$$C^G C^G$$ (Gris)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El fenotipo que muestra ambas características (blanco y negro) sin mezclarse es el resultado de la codominancia. Esto ocurre en el individuo heterocigoto, que posee un alelo para el color blanco ($$C^B$$) y un alelo para el color negro ($$C^N$$). Por lo tanto, su genotipo es $$C^B C^N$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_011",
+      "pregunta": "¿En qué cromosoma humano se encuentra el gen que controla el sistema de grupos sanguíneos ABO?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cromosoma X",
+        "B": "Cromosoma Y",
+        "C": "Cromosoma 21",
+        "D": "Cromosoma 9",
+        "E": "Cromosoma 1"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El control genético del sistema sanguíneo ABO se encuentra en un gen ubicado en el cromosoma 9. Este gen tiene tres alelos principales ($$I^A, I^B, i^o$$) que determinan el tipo de antígeno en los glóbulos rojos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_012",
+      "pregunta": "Además de los grupos sanguíneos, ¿cuál de las siguientes opciones es un ejemplo de una característica determinada por alelos múltiples?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El color del pelaje del ganado vacuno (blanco y negro).",
+        "B": "El color de ojos de la mosca de la fruta.",
+        "C": "La textura de las semillas de guisantes de Mendel.",
+        "D": "El albinismo.",
+        "E": "La hemofilia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El color de ojos de la mosca de la fruta (Drosophila melanogaster) es un ejemplo clásico de alelos múltiples, al igual que los grupos sanguíneos, el color de la piel, la talla y las huellas dactilares. En contraste, el color del pelaje del ganado mencionado es un ejemplo de codominancia con dos alelos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_013",
+      "pregunta": "Una persona tiene el grupo sanguíneo AB. ¿Cuál es su genotipo y qué implica en términos de codominancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Genotipo $$I^A i^o$$; implica dominancia de A.",
+        "B": "Genotipo $$I^B i^o$$; implica dominancia de B.",
+        "C": "Genotipo $$i^o i^o$$; implica recesividad.",
+        "D": "Genotipo $$I^A I^B$$; implica que ambos alelos se expresan simultáneamente.",
+        "E": "Genotipo $$I^A I^A$$; implica homocigosis dominante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El fenotipo del grupo sanguíneo AB solo puede ser producido por el genotipo $$I^A I^B$$. Esto es un ejemplo perfecto de codominancia, ya que ni el alelo $$I^A$$ ni el $$I^B$$ dominan sobre el otro. En cambio, ambos se expresan por completo, lo que resulta en la presencia de antígenos A y B en los glóbulos rojos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_014",
+      "pregunta": "Si se cruza un bovino homocigoto negro ($$C^N C^N$$) con uno homocigoto blanco ($$C^B C^B$$), ¿qué fenotipo se esperaría en toda la descendencia de la primera generación filial ($$F_1$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Todos tendrían pelaje completamente negro.",
+        "B": "Todos tendrían pelaje completamente blanco.",
+        "C": "Todos tendrían pelaje con manchas blancas y negras.",
+        "D": "El 50% sería negro y el 50% blanco.",
+        "E": "Todos tendrían pelaje de color gris."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al cruzar un homocigoto negro ($$C^N C^N$$) con un homocigoto blanco ($$C^B C^B$$), toda la descendencia será heterocigota ($$C^B C^N$$). Dado que estos alelos son codominantes, ambos se expresarán en el fenotipo. El resultado será un pelaje con manchas blancas y negras, conocido a veces como ruano, donde ambos colores son visibles simultáneamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_256_015",
+      "pregunta": "Analizando el sistema ABO, ¿por qué es un ejemplo combinado de alelos múltiples y codominancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque hay múltiples genes involucrados y todos son codominantes.",
+        "B": "Porque involucra más de dos alelos ($$I^A, I^B, i^o$$) y dos de ellos ($$I^A, I^B$$) se expresan conjuntamente en el heterocigoto.",
+        "C": "Porque los tres alelos son codominantes entre sí, generando múltiples combinaciones.",
+        "D": "Porque el alelo $$i^o$$ es dominante y los otros dos son recesivos.",
+        "E": "Porque es un rasgo poligénico que también muestra dominancia incompleta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El sistema ABO es un ejemplo de alelos múltiples porque el gen que lo determina existe en tres formas diferentes en la población: $$I^A$$, $$I^B$$, e $$i^o$$. A su vez, es un ejemplo de codominancia porque cuando un individuo hereda los alelos $$I^A$$ y $$I^B$$, ambos se expresan por igual, produciendo el fenotipo AB. Adicionalmente, presenta dominancia completa de $$I^A$$ y $$I^B$$ sobre $$i^o$$. Esta combinación de patrones lo convierte en un caso clásico de herencia no Mendeliana.",
+      "imagen": null
+    }
+  ]
+}

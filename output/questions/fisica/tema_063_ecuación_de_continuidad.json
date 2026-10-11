@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 63,
+  "total_temas": 137,
+  "titulo_tema": "Ecuación de Continuidad",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_063_001",
+      "pregunta": "¿Qué característica principal define al flujo turbulento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un flujo constante y uniforme en todo el conducto.",
+        "B": "La formación de torbellinos pequeños y erráticos llamados remolinos.",
+        "C": "Una rapidez de flujo que siempre es inferior a un valor crítico.",
+        "D": "La ausencia total de fricción con las paredes del tubo.",
+        "E": "Un movimiento de fluido perfectamente laminar y predecible."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo turbulento se distingue por un movimiento caótico y desordenado del fluido. Esta condición, que ocurre a partir de cierta rapidez, se caracteriza por la aparición de pequeños torbellinos erráticos conocidos como remolinos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_002",
+      "pregunta": "¿Cómo se define el caudal o gasto ($Q$) de un fluido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa de fluido que atraviesa una sección por unidad de rapidez.",
+        "B": "La rapidez con la que se mueve el fluido en una tubería.",
+        "C": "El volumen de fluido que pasa a través de una sección transversal en una unidad de tiempo.",
+        "D": "La presión ejercida por el fluido en las paredes del conducto.",
+        "E": "La distancia total que recorre el fluido en un tiempo determinado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El caudal, también conocido como gasto o flujo volumétrico, se define como el volumen de un fluido que fluye a través de una sección transversal de un conducto por cada unidad de tiempo. Es una medida de la cantidad de fluido que se mueve.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_003",
+      "pregunta": "¿Cuál es la fórmula para calcular el caudal ($Q$) en función del área de la sección transversal ($A$) y la rapidez media del fluido ($v$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$Q = A/v$$",
+        "B": "$$Q = v/A$$",
+        "C": "$$Q = Avt$$",
+        "D": "$$Q = Av$$",
+        "E": "$$Q = V/A$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El caudal ($Q$) se calcula como el producto del área de la sección transversal ($A$) por la que fluye el fluido y la rapidez media ($v$) del fluido. La fórmula es $$Q = Av$$. Esta relación surge de que el volumen que pasa en un tiempo $t$ es $$V = Avt$$, y el caudal es $$Q = V/t$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_004",
+      "pregunta": "¿Cuáles son las unidades del caudal o gasto en el Sistema Internacional (SI)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$m/s$$",
+        "B": "$$m²$$",
+        "C": "$$m/s²$$",
+        "D": "$$kg/s$$",
+        "E": "$$m³/s$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Dado que el caudal se define como volumen por unidad de tiempo, sus unidades en el Sistema Internacional son metros cúbicos ($$m³$$) para el volumen y segundos ($s$) para el tiempo. Por lo tanto, la unidad del caudal es metros cúbicos por segundo ($$m³/s$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_005",
+      "pregunta": "¿Qué establece fundamentalmente la ecuación de continuidad $$v₁A₁ = v₂A₂$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presión del fluido es constante en toda la tubería.",
+        "B": "La temperatura del fluido no cambia con la rapidez.",
+        "C": "El producto del área y la rapidez del fluido es constante en todos los puntos a lo largo de la tubería.",
+        "D": "La densidad del fluido varía con el área de la tubería.",
+        "E": "La energía cinética del fluido se conserva."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación de continuidad, $$v₁A₁ = v₂A₂$$, es una expresión matemática que establece que para un fluido incompresible, el caudal ($Q = Av$) es constante en cualquier punto de una tubería. Esto significa que el producto del área de la sección transversal y la rapidez del fluido permanece igual a lo largo del flujo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_006",
+      "pregunta": "¿En qué principio físico se fundamenta la ecuación de continuidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Conservación de la energía",
+        "B": "Conservación de la masa",
+        "C": "Conservación del momento lineal",
+        "D": "Segunda ley de Newton",
+        "E": "Ley de la gravitación universal"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación de continuidad es una consecuencia directa del principio de conservación de la masa. Este principio establece que, si no hay fuentes ni sumideros, la masa de fluido que entra en una sección de una tubería en un intervalo de tiempo debe ser igual a la masa que sale en el mismo intervalo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_007",
+      "pregunta": "Si un fluido incompresible fluye a través de una tubería que se estrecha, ¿cómo cambia su rapidez?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La rapidez disminuye.",
+        "B": "La rapidez aumenta.",
+        "C": "La rapidez permanece constante.",
+        "D": "La rapidez se vuelve cero.",
+        "E": "El cambio de rapidez depende de la presión."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Según la ecuación de continuidad, $$v₁A₁ = v₂A₂$$. Para que el producto $Av$ se mantenga constante, si el área $A$ disminuye (la tubería se estrecha), la rapidez $v$ debe aumentar proporcionalmente. Por lo tanto, el fluido se acelera al pasar por una sección más estrecha.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_008",
+      "pregunta": "En la derivación del caudal, el volumen $V$ que fluye a través de una sección $A$ en un tiempo $t$ se expresa como $$V = Avt$$. ¿Qué representa físicamente el producto $vt$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El caudal del fluido.",
+        "B": "El área de la sección transversal.",
+        "C": "La aceleración del fluido.",
+        "D": "La distancia que recorre una partícula de fluido en el tiempo $t$.",
+        "E": "El volumen de la tubería."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula de la cinemática, la distancia es igual a la rapidez por el tiempo ($d = vt$). En este contexto, $vt$ representa la longitud de la columna de fluido que pasa a través de la sección transversal en un tiempo $t$. Al multiplicar esta longitud por el área $A$, se obtiene el volumen total $V$ de esa columna de fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_009",
+      "pregunta": "¿Qué suposición clave se hace sobre el fluido para que la ecuación de continuidad se exprese como $$v₁A₁ = v₂A₂$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El fluido debe ser turbulento.",
+        "B": "El fluido debe tener alta viscosidad.",
+        "C": "El fluido debe ser compresible.",
+        "D": "El fluido debe ser incompresible.",
+        "E": "El fluido debe estar a alta temperatura."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación de continuidad en su forma $$v₁A₁ = v₂A₂$$ asume que el fluido es incompresible, lo que significa que su densidad no cambia. Si el fluido fuera compresible, la densidad ($\rho$) tendría que ser incluida en la ecuación ($$\rho_1 A_1 v_1 = \rho_2 A_2 v_2$$), ya que la conservación es de la masa, no necesariamente del volumen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_010",
+      "pregunta": "El término \"flujo volumétrico\" es otro nombre para el caudal. ¿Cómo se calcula directamente a partir del volumen $V$ y el tiempo $t$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Q = V \\cdot t$$",
+        "B": "$$Q = V/t$$",
+        "C": "$$Q = t/V$$",
+        "D": "$$Q = V^2/t$$",
+        "E": "$$Q = \\sqrt{V/t}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La definición fundamental de caudal o flujo volumétrico es la cantidad de volumen de fluido que pasa por un punto por unidad de tiempo. Por lo tanto, se calcula dividiendo el volumen total ($V$) que ha fluido entre el intervalo de tiempo ($t$) en el que se midió, resultando en la ecuación $$Q = V/t$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_011",
+      "pregunta": "Si se afirma que el gasto $Q$ permanece constante en un tubo uniforme sin pérdidas, ¿qué implica esto sobre la masa de fluido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la masa del fluido se convierte en energía.",
+        "B": "Que la masa de fluido que entra en un tiempo dado es igual a la que sale en el mismo tiempo.",
+        "C": "Que la masa del fluido disminuye debido a la fricción.",
+        "D": "Que la masa del fluido aumenta a medida que aumenta la rapidez.",
+        "E": "Que la masa no tiene relación con el gasto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La constancia del gasto es una manifestación de la conservación de la masa. Si no hay pérdidas (fugas), toda la masa de fluido que ingresa a una sección del tubo en un determinado período de tiempo debe, necesariamente, salir por otra sección en el mismo período. Esto asegura un flujo continuo y estable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_012",
+      "pregunta": "La derivación del caudal parte de $$Q = V/t$$ y $$V=Avt$$. ¿Qué representa la simplificación $$Q = Avt/t = Av$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una aproximación válida solo para tiempos muy largos.",
+        "B": "La cancelación matemática del tiempo para expresar el caudal en términos de propiedades instantáneas del flujo (área y rapidez).",
+        "C": "Una igualdad que solo se cumple si la rapidez es constante en el tiempo.",
+        "D": "Una suposición de que el tiempo es igual a 1 segundo.",
+        "E": "Un error en la derivación, ya que el tiempo no puede eliminarse."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al sustituir la expresión del volumen ($$V=Avt$$) en la definición de caudal ($$Q=V/t$$), se obtiene $$Q=Avt/t$$. La variable de tiempo $t$ se cancela matemáticamente. Esto es significativo porque muestra que el caudal ($Q$) puede describirse en función de las características del flujo en un instante dado —el área $A$ de la sección y la rapidez $v$ del fluido en ese punto— sin necesidad de medir un volumen durante un intervalo de tiempo específico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_013",
+      "pregunta": "Un río se ensancha al llegar a un lago. Asumiendo un flujo incompresible, ¿cómo es la rapidez del agua en la parte ancha ($v_2$) comparada con la parte estrecha ($v_1$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La rapidez es mayor en la parte ancha ($$v_2 > v_1$$).",
+        "B": "La rapidez es menor en la parte ancha ($$v_2 < v_1$$).",
+        "C": "La rapidez es la misma en ambas partes ($$v_2 = v_1$$).",
+        "D": "La rapidez se vuelve cero en la parte ancha.",
+        "E": "No hay relación entre las rapideces sin conocer la profundidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación de continuidad ($$v_1 A_1 = v_2 A_2$$) dicta una relación inversa entre el área de la sección transversal y la rapidez del fluido. Si el río se ensancha, el área $A_2$ es mayor que $A_1$. Para que el producto se mantenga constante, la rapidez $v_2$ en la parte ancha debe ser menor que la rapidez $v_1$ en la parte estrecha. Por eso el agua de los ríos fluye más lentamente en las zonas anchas y profundas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_014",
+      "pregunta": "Considerando la ecuación de continuidad $$v₁A₁ = v₂A₂$$, ¿qué se puede afirmar sobre el caudal $Q_1$ en la sección 1 y el caudal $Q_2$ en la sección 2?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$Q_1 > Q_2$$ si $$A_1 > A_2$$",
+        "B": "$$Q_1 < Q_2$$ si $$A_1 > A_2$$",
+        "C": "$$Q_1 = Q_2$$ independientemente de las áreas.",
+        "D": "La relación entre $Q_1$ y $Q_2$ es indeterminada.",
+        "E": "$$Q_1 + Q_2$$ es constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de caudal es $$Q = Av$$. La ecuación de continuidad $$v₁A₁ = v₂A₂$$ establece precisamente que este producto es constante. Por lo tanto, el caudal en la sección 1, que es $$Q_1 = v_1 A_1$$, debe ser igual al caudal en la sección 2, que es $$Q_2 = v_2 A_2$$. Esto significa que para un fluido incompresible en un tubo sin fugas, el caudal es el mismo en todos los puntos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_063_015",
+      "pregunta": "Si un fluido pasa de una sección con área $A$ a otra con área $A/2$, ¿cómo debe cambiar su rapidez $v$ para que se cumpla la ecuación de continuidad?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La nueva rapidez será $v/2$.",
+        "B": "La nueva rapidez será $v/4$.",
+        "C": "La nueva rapidez será $v$.",
+        "D": "La nueva rapidez será $2v$.",
+        "E": "La nueva rapidez será $4v$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación de continuidad establece que el producto $Av$ debe ser constante. Sea $A_1 = A$ y $v_1 = v$. La nueva área es $A_2 = A/2$. Para mantener la igualdad $$A_1 v_1 = A_2 v_2$$, debemos tener $$A \\cdot v = (A/2) \\cdot v_2$$. Para resolver para $v_2$, dividimos ambos lados por $A/2$: $$v_2 = \frac{A \\cdot v}{A/2} = 2v$$. Por lo tanto, la rapidez debe duplicarse cuando el área se reduce a la mitad.",
+      "imagen": null
+    }
+  ]
+}

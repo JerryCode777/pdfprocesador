@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 135,
+  "total_temas": 137,
+  "titulo_tema": "Flujo magnético",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_135_001",
+      "pregunta": "¿Cuál es la unidad del Sistema Internacional (SI) para el flujo magnético?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tesla (T)",
+        "B": "Weber (Wb)",
+        "C": "Amperio (A)",
+        "D": "Newton (N)",
+        "E": "Voltio (V)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La unidad del SI para el flujo magnético es el weber, cuyo símbolo es Wb. El tesla (T) es la unidad de inducción magnética, el amperio (A) es de intensidad de corriente, el newton (N) es de fuerza y el voltio (V) es de potencial eléctrico o fuerza electromotriz.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_002",
+      "pregunta": "¿Qué fenómeno se define como la inducción de corriente eléctrica en un conductor por la acción de un campo magnético variable?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerza magnética",
+        "B": "Flujo magnético",
+        "C": "Inducción magnética",
+        "D": "Inducción electromagnética",
+        "E": "Resistencia eléctrica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La inducción electromagnética es el proceso por el cual un campo magnético que cambia en el tiempo genera una corriente eléctrica en un conductor. El flujo magnético es una medida del campo que atraviesa un área, y la fuerza magnética es la fuerza ejercida sobre una carga en movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_003",
+      "pregunta": "En la fórmula del flujo magnético, $$\\Phi_B = B A \\cos\\theta$$, ¿qué representa la variable $A$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La intensidad de corriente en amperios",
+        "B": "La longitud del conductor en metros",
+        "C": "El área de la superficie en metros cuadrados",
+        "D": "La magnitud de la inducción magnética en teslas",
+        "E": "El ángulo entre el campo y la superficie"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la ecuación del flujo magnético $$\\Phi_B = B A \\cos\\theta$$, la variable $A$ representa el área de la superficie a través de la cual pasan las líneas de campo magnético, y se mide en metros cuadrados ($m^2$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_004",
+      "pregunta": "¿Cuál es el valor del flujo magnético neto a través de cualquier superficie cerrada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Depende de la forma de la superficie",
+        "B": "Igual al flujo entrante",
+        "C": "Cero",
+        "D": "Infinito",
+        "E": "Igual al flujo saliente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo magnético total o neto a través de una superficie cerrada es siempre igual a cero. Esto se debe a que la misma cantidad de líneas de campo magnético que entran a la superficie también deben salir de ella. El flujo entrante se considera negativo y el saliente positivo, por lo que se anulan mutuamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_005",
+      "pregunta": "¿Qué expresión matemática define correctamente la relación entre el weber (Wb), el tesla (T) y el metro cuadrado ($m^2$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1 \\text{ Wb} = 1 \\text{ T} / \\text{m}^2$$",
+        "B": "$$1 \\text{ T} = 1 \\text{ Wb} \\cdot \\text{m}^2$$",
+        "C": "$$1 \\text{ Wb} = 1 \\text{ T} \\cdot \\text{m}$$",
+        "D": "$$1 \\text{ Wb} = 1 \\text{ T} \\cdot \\text{m}^2$$",
+        "E": "$$1 \\text{ m}^2 = 1 \\text{ T} / \\text{Wb}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad de flujo magnético, el weber (Wb), se define en términos de la unidad de inducción magnética, el tesla (T), y el área en metros cuadrados ($m^2$). La relación correcta es que un weber es igual a un tesla por metro cuadrado: $$1 \\text{ Wb} = 1 \\text{ T} \\cdot \\text{m}^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_006",
+      "pregunta": "¿Bajo qué condición el flujo magnético a través de una espira plana es máximo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el campo magnético es paralelo al plano de la espira",
+        "B": "Cuando el campo magnético es perpendicular al plano de la espira",
+        "C": "Cuando el ángulo entre el campo y la normal es de $$45^\\circ$$",
+        "D": "Cuando el campo magnético es nulo",
+        "E": "Cuando el área de la espira tiende a cero"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo magnético se calcula con $$\\Phi_B = B A \\cos\\theta$$, donde $$\\theta$$ es el ángulo entre el campo magnético $B$ y la normal a la superficie. El flujo es máximo cuando $$\\cos\\theta$$ es máximo, lo que ocurre cuando $$\\theta = 0^\\circ$$. Un ángulo de $0^\\circ$ significa que el campo magnético es paralelo a la normal, y por lo tanto, perpendicular al plano de la espira.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_007",
+      "pregunta": "¿En qué situación el flujo magnético que atraviesa una superficie plana es igual a cero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el campo magnético es perpendicular a la superficie",
+        "B": "Cuando el campo magnético es paralelo a la superficie",
+        "C": "Cuando el campo magnético es muy intenso",
+        "D": "Cuando el área de la superficie es muy grande",
+        "E": "Cuando el ángulo entre la normal y el campo es de $$0^\\circ$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo magnético es nulo cuando las líneas de campo no atraviesan la superficie. Esto ocurre cuando el campo magnético es paralelo al plano de la superficie. En esta situación, el ángulo $$\\theta$$ entre el campo magnético y la línea normal a la superficie es de $$90^\\circ$$. Dado que $$\\cos(90^\\circ) = 0$$, el flujo magnético $$\\Phi_B = B A \\cos(90^\\circ)$$ es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_008",
+      "pregunta": "Según la Ley de Faraday, ¿qué condición fundamental es necesaria para inducir una fuerza electromotriz (FEM) en un circuito?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presencia de un campo magnético estático muy fuerte",
+        "B": "Que el circuito esté hecho de un material superconductor",
+        "C": "Una variación en el flujo de inducción magnética a través del circuito",
+        "D": "Que el circuito esté abierto",
+        "E": "La presencia constante de una corriente eléctrica inicial"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley de Faraday establece que una fuerza electromotriz (FEM) se induce en un circuito (como una espira o bobina) solamente cuando el flujo magnético que lo atraviesa está cambiando o variando con el tiempo. Un campo magnético constante, por muy fuerte que sea, no induce una FEM.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_009",
+      "pregunta": "Al mover un imán con respecto a una bobina, ¿cómo afecta la velocidad del movimiento a la magnitud de la fuerza electromotriz (fem) inducida?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad no tiene ningún efecto en la fem inducida",
+        "B": "A menor velocidad, mayor es la magnitud de la fem inducida",
+        "C": "La fem se induce solo cuando el imán está en reposo",
+        "D": "A mayor velocidad, mayor es la magnitud de la fem inducida",
+        "E": "La fem inducida solo depende de la polaridad del imán"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud de la fuerza electromotriz (fem) inducida es directamente proporcional a la rapidez con que cambia el flujo magnético. Por lo tanto, cuanto mayor sea la velocidad relativa entre el imán y la bobina, más rápido cambiará el flujo y mayor será la magnitud de la fem inducida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_010",
+      "pregunta": "Considerando el flujo magnético a través de una superficie cerrada, ¿cuál es la relación entre el flujo entrante y el flujo saliente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El flujo entrante es siempre mayor que el saliente",
+        "B": "Son iguales en magnitud pero de signo opuesto",
+        "C": "Son iguales en magnitud y tienen el mismo signo",
+        "D": "El flujo saliente es siempre mayor que el entrante",
+        "E": "No guardan ninguna relación entre sí"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para cualquier superficie cerrada, el número de líneas de campo magnético que entran es igual al número de líneas que salen. Por convención, el flujo entrante ($$\\Phi_{\\text{entrante}}$$) se considera negativo y el saliente ($$\\Phi_{\\text{saliente}}$$) positivo. Como son iguales en cantidad, sus magnitudes son iguales y sus signos opuestos, de modo que $$\\Phi_{\\text{entrante}} = -\\Phi_{\\text{saliente}}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_011",
+      "pregunta": "¿Cuál es la dirección de la fuerza magnética ($F_B$) ejercida sobre un conductor rectilíneo con corriente ($I$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralela al conductor y en la dirección de la corriente",
+        "B": "Paralela a la dirección del campo magnético ($B$)",
+        "C": "En la dirección opuesta a la corriente",
+        "D": "Perpendicular tanto al conductor como al campo magnético",
+        "E": "Paralela al conductor pero en dirección opuesta a la corriente"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza magnética que actúa sobre un conductor con corriente siempre es perpendicular tanto a la dirección de la corriente (que define la dirección del conductor $L$) como a la dirección del campo magnético ($B$). Su dirección específica se determina mediante la regla de la mano derecha.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_012",
+      "pregunta": "¿Por qué el flujo magnético neto a través de una superficie cerrada es siempre cero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el campo magnético dentro de una superficie cerrada es nulo",
+        "B": "Porque el área proyectada de una superficie cerrada es siempre cero",
+        "C": "Porque el flujo entrante y el saliente se cancelan al ser iguales en magnitud y de signo opuesto",
+        "D": "Porque las líneas de campo magnético nunca pueden entrar a una superficie cerrada",
+        "E": "Porque $$\\cos\\theta$$ es siempre cero para una superficie cerrada"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo magnético neto es la suma del flujo que entra y el que sale de una superficie cerrada. Dado que las líneas de campo magnético son bucles cerrados (no tienen principio ni fin), toda línea que entra en una superficie cerrada debe también salir. Esto hace que el flujo entrante (negativo) y el saliente (positivo) sean iguales en magnitud, por lo que su suma es siempre cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_013",
+      "pregunta": "Si una espira conductora plana se orienta de tal manera que su plano es exactamente paralelo a las líneas de un campo magnético uniforme, ¿cuál es el valor del flujo magnético a través de ella?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Máximo y positivo",
+        "B": "Máximo y negativo",
+        "C": "Cero",
+        "D": "Depende de la resistencia de la espira",
+        "E": "La mitad del valor máximo posible"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula del flujo es $$\\Phi_B = B A \\cos\\theta$$, donde $$\\theta$$ es el ángulo entre el campo magnético y la normal (una línea perpendicular) a la superficie. Si el plano de la espira es paralelo al campo, entonces la normal a la espira es perpendicular al campo. Por lo tanto, $$\\theta = 90^\\circ$$. Como $$\\cos(90^\\circ) = 0$$, el flujo magnético a través de la espira es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_014",
+      "pregunta": "¿En qué situación la fuerza magnética sobre un alambre conductor que transporta una corriente $I$ es máxima?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Cuando el alambre es paralelo a la dirección del campo magnético",
+        "B": "Cuando el alambre es perpendicular a la dirección del campo magnético",
+        "C": "Cuando el alambre forma un ángulo de $$45^\\circ$$ con el campo magnético",
+        "D": "Cuando la corriente $I$ es cero",
+        "E": "Cuando el campo magnético $B$ es cero"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza magnética sobre un conductor con corriente es máxima cuando el conductor (y por tanto la corriente) es perpendicular a las líneas del campo magnético. En esta orientación, la interacción entre la corriente y el campo es más efectiva para producir una fuerza. Si el alambre fuera paralelo, la fuerza sería nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_135_015",
+      "pregunta": "Un imán se mantiene completamente inmóvil cerca de una bobina conductora estacionaria. ¿Qué se puede afirmar sobre la fuerza electromotriz (fem) inducida en la bobina?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se induce una fem máxima y constante",
+        "B": "Se induce una fem que disminuye con el tiempo",
+        "C": "No se induce ninguna fem",
+        "D": "Se induce una fem que aumenta con el tiempo",
+        "E": "La fem inducida depende únicamente de la intensidad del imán"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la ley de Faraday, una fuerza electromotriz (fem) se induce solamente cuando hay una *variación* del flujo magnético a través de la bobina. Si tanto el imán como la bobina están inmóviles, el flujo magnético que atraviesa la bobina es constante (no cambia con el tiempo). Por lo tanto, no hay variación de flujo y no se induce ninguna fem.",
+      "imagen": null
+    }
+  ]
+}

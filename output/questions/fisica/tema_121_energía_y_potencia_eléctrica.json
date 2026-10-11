@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 121,
+  "total_temas": 137,
+  "titulo_tema": "Energía y Potencia eléctrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_121_001",
+      "pregunta": "¿Cómo se define la potencia eléctrica ($P$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad total de energía almacenada en un circuito.",
+        "B": "La rapidez con la cual la energía se transfiere o transforma.",
+        "C": "La resistencia que opone un material al paso de la corriente.",
+        "D": "La diferencia de potencial que un generador puede suministrar.",
+        "E": "La energía total consumida por un aparato en toda su vida útil."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La potencia eléctrica se define como la rapidez con la que la energía se transfiere o transforma en un sistema. Matemáticamente, se expresa como la energía ($E$) dividida por el tiempo ($t$), es decir, $$P = \\frac{E}{t}$$. Las otras opciones describen conceptos diferentes como energía total, resistencia o diferencia de potencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_002",
+      "pregunta": "¿Cuál es la unidad de medida de la potencia eléctrica en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Voltio (V)",
+        "B": "Amperio (A)",
+        "C": "Ohmio (Ω)",
+        "D": "Watt (W)",
+        "E": "Kilowatt-hora (kWh)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad de la potencia eléctrica en el Sistema Internacional es el watt o vatio, representado por la letra $W$. El voltio ($V$) es la unidad de voltaje, el amperio ($A$) es la de corriente, el ohmio ($Ω$) es la de resistencia y el kilowatt-hora ($kWh$) es una unidad de energía, no de potencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_003",
+      "pregunta": "¿Qué relación matemática describe la energía eléctrica ($E$) en función de la potencia ($P$) y el tiempo ($t$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E = \\frac{P}{t}$$",
+        "B": "$$E = P \\cdot t$$",
+        "C": "$$E = P^2 \\cdot t$$",
+        "D": "$$E = P + t$$",
+        "E": "$$E = \\frac{t}{P}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía eléctrica ($E$) es el producto de la potencia ($P$) consumida o entregada y el tiempo ($t$) durante el cual actúa. La fórmula correcta es $$E = P \\cdot t$$. La opción A describe la potencia, no la energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_004",
+      "pregunta": "¿Qué representa la unidad de consumo domiciliario kilowatt-hora ($kWh$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El consumo de un watt durante mil horas.",
+        "B": "La potencia equivalente a mil watts.",
+        "C": "La corriente de mil amperios fluyendo durante una hora.",
+        "D": "El consumo de energía equivalente a mil watts durante una hora.",
+        "E": "La resistencia de un circuito que consume mil watts."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El kilowatt-hora ($kWh$) es una unidad de energía, comúnmente utilizada para medir el consumo eléctrico en los hogares. Equivale a la energía consumida por un aparato de mil watts ($1 kW$) de potencia funcionando de manera ininterrumpida durante una hora.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_005",
+      "pregunta": "En la expresión fundamental de la potencia eléctrica $$P = IV$$, ¿qué representan las variables $I$ y $V$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$I$ es la resistencia y $V$ es la energía.",
+        "B": "$I$ es la intensidad de corriente y $V$ es el voltaje.",
+        "C": "$I$ es la inductancia y $V$ es el volumen.",
+        "D": "$I$ es la intensidad de corriente y $V$ es la velocidad.",
+        "E": "$I$ es la energía y $V$ es el voltaje."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la fórmula de la potencia eléctrica $$P = IV$$, la variable $I$ representa la intensidad de la corriente eléctrica, medida en amperios ($A$), y la variable $V$ representa la diferencia de potencial o voltaje, medida en voltios ($V$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_006",
+      "pregunta": "¿Cuál es la característica principal que distingue a un material no óhmico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su resistencia eléctrica ($R$) es siempre cero.",
+        "B": "No permite el paso de la corriente eléctrica.",
+        "C": "Su gráfica de voltaje versus corriente ($V-I$) es siempre una línea recta.",
+        "D": "Su resistencia eléctrica ($R$) no es una constante.",
+        "E": "Solo funciona con corriente alterna."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un material no óhmico es aquel que no obedece la ley de Ohm. Su principal característica es que su resistencia eléctrica ($R$) no es constante, sino que varía con la diferencia de potencial ($ΔV$) aplicada. Como consecuencia, su gráfica ($V-I$) no es una línea recta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_007",
+      "pregunta": "¿Qué tipo de transformación de energía ocurre principalmente en un receptor como un motor eléctrico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Energía química se transforma en energía eléctrica.",
+        "B": "Energía eléctrica se transforma en energía mecánica.",
+        "C": "Energía lumínica se transforma en energía eléctrica.",
+        "D": "Energía eléctrica se transforma en energía química.",
+        "E": "Energía sonora se transforma en energía eléctrica."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los receptores en un circuito transforman la energía eléctrica en otras formas de energía. Un motor eléctrico es un receptor diseñado específicamente para transformar la energía eléctrica que recibe en energía mecánica (movimiento).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_008",
+      "pregunta": "¿Bajo qué condición fundamental es aplicable la ley de Ohm a un material?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando la corriente ($I$) es extremadamente baja.",
+        "B": "Únicamente cuando el voltaje ($ΔV$) es constante.",
+        "C": "Cuando la resistencia ($R$) del material es una constante independiente del voltaje ($ΔV$).",
+        "D": "Solo en circuitos que utilizan generadores químicos.",
+        "E": "Cuando la temperatura del material se mantiene en cero absoluto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ley de Ohm establece una relación lineal entre voltaje y corriente, pero solo es válida para materiales y aparatos cuya resistencia eléctrica ($R$) es una constante que no depende de la diferencia de potencial ($ΔV$) aplicada. A estos se les llama materiales óhmicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_009",
+      "pregunta": "¿Cuál de las siguientes expresiones representa la potencia consumida por una resistencia ($R$) a través de la cual circula una corriente ($I$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = IR$$",
+        "B": "$$P = \\frac{I}{R}$$",
+        "C": "$$P = I^2R$$",
+        "D": "$$P = \\frac{R}{I}$$",
+        "E": "$$P = IR^2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La potencia consumida por un dispositivo se puede expresar de varias maneras. La fórmula que relaciona directamente la potencia ($P$) con la intensidad de la corriente ($I$) y la resistencia ($R$) es $$P = I^2R$$. Esta expresión es particularmente útil cuando se conoce la corriente que atraviesa una resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_010",
+      "pregunta": "¿Qué significa físicamente que un dispositivo eléctrico tenga una potencia de un watt ($1 W$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que consume un joule de energía por cada segundo.",
+        "B": "Que su resistencia es de un ohmio ($1 Ω$).",
+        "C": "Que opera con una diferencia de potencial de un voltio ($1 V$).",
+        "D": "Que permite el paso de una corriente de un amperio ($1 A$).",
+        "E": "Que consume un kilowatt-hora ($1 kWh$) de energía."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El watt ($W$) es la unidad de potencia en el S.I. y se define como la transferencia o consumo de un joule ($J$) de energía por cada segundo ($s$). Por lo tanto, un dispositivo de $1 W$ de potencia consume energía a una tasa de $1 J/s$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_011",
+      "pregunta": "¿Qué fórmula permite calcular la potencia consumida ($P$) en un dispositivo si se conocen su resistencia ($R$) y la diferencia de potencial ($V$) aplicada a él?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = VR$$",
+        "B": "$$P = V^2R$$",
+        "C": "$$P = \\frac{V}{R}$$",
+        "D": "$$P = \\frac{V^2}{R}$$",
+        "E": "$$P = \\frac{R}{V}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para calcular la potencia consumida conociendo el voltaje ($V$) y la resistencia ($R$), se utiliza la expresión $$P = \\frac{V^2}{R}$$. Esta fórmula se deriva de combinar $$P=IV$$ con la ley de Ohm ($$I = \\frac{V}{R}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_012",
+      "pregunta": "Un generador es un componente de un circuito que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "consume energía eléctrica para transformarla en luz.",
+        "B": "cede su energía (por ejemplo, química) para transformarla en eléctrica.",
+        "C": "aumenta la resistencia total del circuito.",
+        "D": "obedece siempre la ley de los materiales no óhmicos.",
+        "E": "almacena energía eléctrica sin transformarla."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La función de un generador en un circuito es suministrar la energía necesaria para su funcionamiento. Lo hace transformando una forma de energía (como la química en una pila, o la mecánica en un dínamo) en energía eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_013",
+      "pregunta": "Si la gráfica de la diferencia de potencial ($ΔV$) en función de la intensidad de corriente ($I$) para un componente eléctrico no es una línea recta, ¿qué se puede inferir con certeza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El componente no consume potencia eléctrica.",
+        "B": "El componente obedece la ley de Ohm perfectamente.",
+        "C": "La potencia consumida por el componente es constante.",
+        "D": "El componente está fabricado con un material no óhmico.",
+        "E": "El circuito en el que se encuentra está abierto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ley de Ohm implica una relación lineal entre voltaje y corriente ($ΔV = IR$), lo que se traduce en una gráfica ($V-I$) que es una línea recta cuya pendiente es la resistencia $R$. Si la gráfica no es una línea recta, significa que la resistencia $R$ no es constante, lo cual es la definición de un material no óhmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_014",
+      "pregunta": "Considerando la expresión de potencia $$P=IV$$ y la ley de Ohm ($$V=IR$$ para materiales óhmicos), ¿cómo se obtiene la fórmula de potencia $$P = I^2R$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sustituyendo $I$ por $\\frac{R}{V}$ en la fórmula de potencia.",
+        "B": "Dividiendo la potencia $P$ por la corriente $I$.",
+        "C": "Sustituyendo $V$ por su equivalente $IR$ en la fórmula de potencia.",
+        "D": "Multiplicando la energía $E$ por el tiempo $t$.",
+        "E": "Elevando al cuadrado la ley de Ohm completa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para derivar la fórmula $$P = I^2R$$, se parte de la definición básica de potencia $$P=IV$$. Luego, se utiliza la ley de Ohm, que para materiales óhmicos establece que $$V=IR$$. Al sustituir la $V$ en la fórmula de la potencia por su equivalente ($IR$), se obtiene: $$P = I(IR)$$, lo que simplifica a $$P = I^2R$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_121_015",
+      "pregunta": "En un sistema donde un generador alimenta a una lámpara, ¿cuál es la secuencia correcta de transformación de energía desde el origen hasta el uso final?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Energía eléctrica → Energía química → Energía lumínica.",
+        "B": "Energía química → Energía eléctrica → Energía lumínica/calórica.",
+        "C": "Energía mecánica → Energía sonora → Energía eléctrica.",
+        "D": "Energía lumínica → Energía eléctrica → Energía química.",
+        "E": "Energía eléctrica → Energía mecánica → Energía sonora."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El proceso comienza en el generador, que transforma una forma de energía no eléctrica (como la química de una pila) en energía eléctrica. Esta energía eléctrica viaja por el circuito hasta el receptor, que en este caso es una lámpara. La lámpara, a su vez, transforma la energía eléctrica que recibe en energía lumínica (luz) y energía calórica (calor).",
+      "imagen": null
+    }
+  ]
+}

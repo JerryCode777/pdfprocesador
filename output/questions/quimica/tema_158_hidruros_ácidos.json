@@ -3,5 +3,231 @@
   "numero_tema": 158,
   "total_temas": 322,
   "titulo_tema": "Hidruros Ácidos",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_158_001",
+      "pregunta": "¿Cuál es la fórmula química del compuesto conocido como Silano?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$SiH_3$$",
+        "B": "$$BH_3$$",
+        "C": "$$SiH_4$$",
+        "D": "$$CH_4$$",
+        "E": "$$H_2S$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula química que corresponde al Silano es $$SiH_4$$. El compuesto $$BH_3$$ es Borano, mientras que las otras fórmulas corresponden a otros compuestos no mencionados en la lista de ejemplos de hidruros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_002",
+      "pregunta": "¿Qué grupo funcional caracteriza a los hidróxidos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El grupo peróxido $$(O_2)^{2-}$$",
+        "B": "El ion hidronio $$(H_3O)^+$$",
+        "C": "El grupo hidruro $$H^-$$",
+        "D": "El grupo oxidrilo o hidroxilo $$(OH)^{1-}$$",
+        "E": "El ion amonio $$(NH_4)^+$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los hidróxidos son sustancias ternarias que se definen por la presencia del grupo funcional oxidrilo o hidroxilo, cuya fórmula es $$(OH)^{1-}$$. Este grupo es el que confiere las propiedades básicas a estos compuestos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_003",
+      "pregunta": "¿Cuál es el sabor característico de los hidróxidos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ácido o agrio",
+        "B": "Dulce",
+        "C": "Salado",
+        "D": "Metálico",
+        "E": "Amargo (sabor a lejía)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Una de las propiedades organolépticas de los hidróxidos es su sabor amargo, a menudo descrito como sabor a lejía. El sabor ácido es característico de los ácidos, no de las bases o hidróxidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_004",
+      "pregunta": "El compuesto con la fórmula química $$BH_3$$ recibe el nombre de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hidruro de boro",
+        "B": "Borano",
+        "C": "Ácido bórico",
+        "D": "Silano",
+        "E": "Amoníaco"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El nombre del compuesto cuya fórmula es $$BH_3$$ es Borano. El Silano tiene la fórmula $$SiH_4$$. Las otras opciones son nombres de compuestos diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_005",
+      "pregunta": "¿Qué sensación producen los hidróxidos al tacto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Áspera y seca",
+        "B": "Pegajosa",
+        "C": "Resbaladiza",
+        "D": "Caliente",
+        "E": "Fría y granulada"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los hidróxidos se caracterizan por ser resbaladizos al tacto, una propiedad que está relacionada con su naturaleza jabonosa y su capacidad para reaccionar con las grasas de la piel.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_006",
+      "pregunta": "¿Cuál de las siguientes ecuaciones generales describe correctamente la formación de un hidróxido a partir de un óxido básico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$ÓXIDO ÁCIDO + AGUA \\rightarrow HIDRÓXIDO$$",
+        "B": "$$ÓXIDO BÁSICO + AGUA \\rightarrow HIDRÓXIDO$$",
+        "C": "$$METAL + ÁCIDO \\rightarrow SAL + HIDRÓXIDO$$",
+        "D": "$$ÓXIDO BÁSICO + HIDRÓGENO \\rightarrow HIDRÓXIDO$$",
+        "E": "$$NO METAL + AGUA \\rightarrow HIDRÓXIDO$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una de las formas generales de obtener un hidróxido es mediante la combinación de un óxido metálico (también llamado óxido básico) con agua. La reacción general es: $$ÓXIDO BÁSICO + AGUA \\rightarrow HIDRÓXIDO$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_007",
+      "pregunta": "Cuando un metal activo reacciona con agua, ¿qué productos se forman?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un óxido y agua",
+        "B": "Una sal e hidrógeno",
+        "C": "Un hidróxido e hidrógeno",
+        "D": "Solo un hidróxido",
+        "E": "Un ácido y un óxido"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La reacción de un metal activo con agua produce un hidróxido y desprende hidrógeno gaseoso. La ecuación general para esta reacción es: $$METAL + AGUA \\rightarrow HIDRÓXIDO + HIDRÓGENO$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_008",
+      "pregunta": "¿Qué cambio de color se produce en el papel tornasol rojo al entrar en contacto con una disolución de un hidróxido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se vuelve incoloro",
+        "B": "Permanece de color rojo",
+        "C": "Se vuelve amarillo",
+        "D": "Se vuelve azul",
+        "E": "Se vuelve verde"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los hidróxidos, al ser bases, cambian el color de los indicadores ácido-base. Específicamente, hacen que el papel tornasol rojo se vuelva azul, lo que indica la presencia de un medio básico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_009",
+      "pregunta": "Según sus propiedades químicas, ¿qué se produce cuando un hidróxido reacciona con un ácido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un óxido",
+        "B": "Otro hidróxido más fuerte",
+        "C": "Un peróxido",
+        "D": "Una sal",
+        "E": "Un hidruro"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una propiedad fundamental de los hidróxidos (bases) es su capacidad para reaccionar con los ácidos en un proceso llamado neutralización. El producto principal de esta reacción es una sal (y generalmente agua).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_010",
+      "pregunta": "La propiedad de los hidróxidos de disolver aceites y azufre está directamente relacionada con su uso como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fertilizantes",
+        "B": "Combustibles",
+        "C": "Agentes detergentes y jabonosos",
+        "D": "Conservantes de alimentos",
+        "E": "Catalizadores industriales"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacidad de los hidróxidos para disolver sustancias como aceites y grasas es la base de sus propiedades detergentes y jabonosas. Esta es la razón por la que muchos productos de limpieza contienen bases fuertes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_011",
+      "pregunta": "¿Qué coloración adquiere el indicador anaranjado de metilo en presencia de una solución de hidróxido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Roja",
+        "B": "Azul",
+        "C": "Incolora",
+        "D": "Violeta",
+        "E": "Amarilla"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Los hidróxidos, por su carácter básico, producen cambios de color específicos en los indicadores. En el caso del anaranjado de metilo, la solución adquiere una coloración amarilla en un medio básico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_012",
+      "pregunta": "Considerando las reglas de solubilidad mencionadas, ¿cuál de los siguientes compuestos es un ejemplo de hidróxido soluble en agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hidróxido de cobre (II)",
+        "B": "Hidróxido de hierro (III)",
+        "C": "Hidróxido de bario ($$Ba(OH)_2$$)",
+        "D": "Hidróxido de aluminio",
+        "E": "Hidróxido de magnesio"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Se indica que los hidróxidos de los metales del grupo IA y el hidróxido de bario ($$Ba(OH)_2$$) son solubles, mientras que la mayoría de los demás hidróxidos son insolubles. Por lo tanto, el $$Ba(OH)_2$$ es el ejemplo de hidróxido soluble de la lista.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_013",
+      "pregunta": "Un químico analiza una solución desconocida y observa que enrojece la fenolftaleína, se siente resbaladiza y tiene la capacidad de disolver azufre. ¿Qué tipo de sustancia es más probable que sea?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un ácido",
+        "B": "Una sal neutra",
+        "C": "Un hidróxido",
+        "D": "Un óxido ácido",
+        "E": "Un hidruro metálico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La combinación de estas tres propiedades es característica de un hidróxido. Enrojecer la fenolftaleína indica un pH básico, la sensación resbaladiza es una propiedad táctil de las bases, y la capacidad de disolver azufre es una propiedad química mencionada para los hidróxidos. Ninguna de las otras opciones comparte este conjunto de características.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_014",
+      "pregunta": "Basándose en la información sobre la solubilidad de los hidróxidos, ¿cuál de las siguientes afirmaciones es la más precisa?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Todos los hidróxidos son altamente solubles en agua.",
+        "B": "Ningún hidróxido es soluble en agua.",
+        "C": "La solubilidad es variable, siendo los del Grupo IA y el $$Ba(OH)_2$$ ejemplos de solubles, mientras que la mayoría son insolubles.",
+        "D": "Solo los hidróxidos de metales de transición son solubles.",
+        "E": "La solubilidad de los hidróxidos depende únicamente de la temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta afirmación resume correctamente la información proporcionada. La solubilidad no es uniforme para todos los hidróxidos; se destaca que los del Grupo IA y el hidróxido de bario son solubles, contrastando con la insolubilidad de la mayoría de los demás. Las otras opciones son generalizaciones incorrectas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_158_015",
+      "pregunta": "Si un metal activo del Grupo IA, como el sodio ($$Na$$), reacciona con agua, ¿cuál sería la ecuación química balanceada que mejor representa la reacción, de acuerdo con el patrón general establecido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$2Na + 2H_2O \\rightarrow 2NaOH + H_2$$",
+        "B": "$$Na + H_2O \\rightarrow Na_2O + H_2$$",
+        "C": "$$Na + 2H_2O \\rightarrow Na(OH)_2 + H_2$$",
+        "D": "$$2Na + H_2O \\rightarrow Na_2O + 2H$$",
+        "E": "$$Na + H_2O \\rightarrow NaH + O_2$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El patrón general es $$METAL + AGUA \\rightarrow HIDRÓXIDO + HIDRÓGENO$$. Para el sodio ($$Na$$), que tiene un estado de oxidación +1, el hidróxido formado es $$NaOH$$. La reacción debe producir hidrógeno gaseoso ($$H_2$$). La ecuación $$2Na + 2H_2O \\rightarrow 2NaOH + H_2$$ sigue este patrón y está correctamente balanceada, representando la formación del hidróxido (NaOH) y la liberación de hidrógeno ($$H_2$$). Las demás opciones muestran productos incorrectos o fórmulas mal construidas.",
+      "imagen": null
+    }
+  ]
 }

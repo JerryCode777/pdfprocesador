@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 6,
+  "total_temas": 137,
+  "titulo_tema": "Cinemática: Movimiento en una Dimensión",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_006_001",
+      "pregunta": "¿Qué rama de la física se ocupa de describir el movimiento de los objetos sin considerar las fuerzas que lo causan?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Dinámica",
+        "B": "Estática",
+        "C": "Cinemática",
+        "D": "Termodinámica",
+        "E": "Óptica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cinemática es la parte de la física que estudia y describe el movimiento de los cuerpos (su trayectoria, velocidad, etc.) sin analizar las causas que lo producen, como las fuerzas. La dinámica, por otro lado, sí estudia la relación entre las fuerzas y el movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_002",
+      "pregunta": "¿Cómo se denomina la curva que describe un cuerpo en movimiento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Desplazamiento",
+        "B": "Trayectoria",
+        "C": "Vector posición",
+        "D": "Marco de referencia",
+        "E": "Velocidad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La trayectoria se define como el conjunto de puntos o la curva que un móvil recorre durante su movimiento. El desplazamiento, en cambio, es el vector que une la posición inicial con la final.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_003",
+      "pregunta": "Un movimiento se clasifica como rectilíneo cuando su trayectoria es...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "una curva.",
+        "B": "una parábola.",
+        "C": "un círculo.",
+        "D": "una línea recta.",
+        "E": "un elipse."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por definición, un movimiento se denomina rectilíneo si la trayectoria que sigue el móvil es una línea recta. Los demás tipos de trayectoria (curva, parábola, círculo) corresponden a movimientos no rectilíneos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_004",
+      "pregunta": "¿Qué es el movimiento rectilíneo uniforme (M.R.U.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un movimiento donde la aceleración es constante.",
+        "B": "Un movimiento donde la posición es constante.",
+        "C": "Un movimiento rectilíneo donde la velocidad es constante.",
+        "D": "Un movimiento donde la trayectoria cambia constantemente.",
+        "E": "Un movimiento donde la rapidez aumenta uniformemente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Movimiento Rectilíneo Uniforme (M.R.U.) se caracteriza por dos condiciones: su trayectoria es una línea recta y su velocidad se mantiene constante a lo largo del tiempo. Esto implica que no hay aceleración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_005",
+      "pregunta": "¿Qué es el vector posición?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El cambio de lugar que experimenta un cuerpo.",
+        "B": "El camino recorrido por un móvil.",
+        "C": "El vector que une el origen de coordenadas con la ubicación del cuerpo.",
+        "D": "La velocidad del cuerpo en un instante.",
+        "E": "La diferencia entre la posición final y la inicial."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El vector posición es una herramienta matemática que se utiliza para especificar la ubicación de un cuerpo en un sistema de coordenadas. Se representa como un vector que va desde el origen del sistema hasta el punto donde se encuentra el cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_006",
+      "pregunta": "El desplazamiento ($$\\Delta x$$) se define matemáticamente como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Delta x = x_0 - x$$",
+        "B": "$$\\Delta x = v \\cdot t$$",
+        "C": "$$\\Delta x = x - x_0$$",
+        "D": "$$\\Delta x = \\frac{e}{\\Delta t}$$",
+        "E": "$$\\Delta x = x + x_0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El desplazamiento se define como el cambio de posición de un móvil. Matemáticamente, se calcula como la diferencia entre la posición final ($x$) y la posición inicial ($x_0$). La fórmula correcta es $$\\Delta x = x - x_0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_007",
+      "pregunta": "¿Cuál es la principal diferencia entre rapidez y velocidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La rapidez es una cantidad vectorial y la velocidad es escalar.",
+        "B": "La rapidez es el módulo de la velocidad, siendo la velocidad una cantidad vectorial.",
+        "C": "No hay ninguna diferencia, son sinónimos.",
+        "D": "La rapidez mide el desplazamiento y la velocidad mide el recorrido.",
+        "E": "La rapidez siempre es cero en un M.R.U."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La velocidad es una cantidad vectorial, lo que significa que tiene magnitud, dirección y sentido. La rapidez, en cambio, es una cantidad escalar y se define como el módulo (o magnitud) del vector velocidad. Por lo tanto, la rapidez solo indica cuán rápido se mueve un objeto, sin especificar la dirección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_008",
+      "pregunta": "En un Movimiento Rectilíneo Uniforme (M.R.U.), ¿qué representa el área bajo la recta en una gráfica de rapidez versus tiempo ($v-t$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad instantánea.",
+        "B": "La aceleración.",
+        "C": "La posición inicial.",
+        "D": "El cambio de posición o desplazamiento.",
+        "E": "El tiempo total del movimiento."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En una gráfica de rapidez versus tiempo ($v-t$), el área bajo la curva (que en el M.R.U. es una recta horizontal) representa el desplazamiento. Dado que el área de un rectángulo es base por altura, en este caso es tiempo por velocidad ($$t \\cdot v$$), lo que coincide con la fórmula del desplazamiento $$\\Delta x = v \\cdot t$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_009",
+      "pregunta": "¿Por qué se afirma que el movimiento es relativo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque solo se puede medir con instrumentos relativos.",
+        "B": "Porque depende de la masa del objeto en movimiento.",
+        "C": "Porque la descripción del movimiento (posición, velocidad) depende del marco de referencia del observador.",
+        "D": "Porque todos los objetos se mueven a la misma velocidad.",
+        "E": "Porque el tiempo transcurre de forma diferente para cada observador."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El movimiento es relativo porque para describirlo (medir su posición, velocidad, etc.) se necesita un marco de referencia. Diferentes observadores en marcos de referencia distintos pueden medir valores diferentes para estas cantidades, aunque estén observando el mismo fenómeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_010",
+      "pregunta": "La velocidad media ($$v_m$$) se define como el cociente entre:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El recorrido y el intervalo de tiempo.",
+        "B": "La posición final y la posición inicial.",
+        "C": "La velocidad instantánea y el tiempo.",
+        "D": "El desplazamiento y el intervalo de tiempo.",
+        "E": "La distancia total y la velocidad final."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La velocidad media es una cantidad vectorial que se define como el desplazamiento total ($$\\Delta x$$) dividido por el intervalo de tiempo ($$\\Delta t$$) en el que ocurrió dicho desplazamiento. Su fórmula es $$v_m = \\frac{\\Delta x}{\\Delta t}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_011",
+      "pregunta": "¿Qué característica distingue a la rapidez media ($$r_m$$) de la velocidad media ($$v_m$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La rapidez media siempre es negativa.",
+        "B": "La rapidez media utiliza la longitud del camino recorrido en su cálculo, mientras que la velocidad media utiliza el desplazamiento.",
+        "C": "La velocidad media es un escalar y la rapidez media es un vector.",
+        "D": "Son exactamente lo mismo en cualquier tipo de movimiento.",
+        "E": "La rapidez media solo se define para el M.R.U."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental es que la velocidad media ($$v_m = \\frac{\\Delta x}{\\Delta t}$$) es un vector que depende del desplazamiento (cambio neto de posición), mientras que la rapidez media ($$r_m = \\frac{e}{\\Delta t}$$) es un escalar que depende de la longitud total del camino recorrido ('e').",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_012",
+      "pregunta": "En un Movimiento Rectilíneo Uniforme (M.R.U.), ¿cuál es la relación entre la velocidad media y la velocidad instantánea?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad media siempre es mayor.",
+        "B": "La velocidad instantánea es siempre el doble de la media.",
+        "C": "No tienen ninguna relación.",
+        "D": "Coinciden, son iguales en todo momento.",
+        "E": "La velocidad instantánea es cero y la media es constante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una característica clave del M.R.U. es que la velocidad es constante. Esto significa que la velocidad en cualquier instante (velocidad instantánea) es la misma que la velocidad promedio calculada sobre cualquier intervalo de tiempo (velocidad media). Por lo tanto, ambas velocidades coinciden.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_013",
+      "pregunta": "La ecuación general del M.R.U. es $$x = x_0 + vt$$. En una gráfica de posición versus tiempo ($x-t$), ¿qué representa el término $v$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El punto de corte con el eje vertical (ordenada en el origen).",
+        "B": "El área bajo la curva.",
+        "C": "La pendiente de la recta.",
+        "D": "El punto de corte con el eje horizontal (abscisa en el origen).",
+        "E": "La curvatura de la gráfica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación $$x = x_0 + vt$$ tiene la forma de una ecuación lineal $$y = b + mx$$, donde $y$ corresponde a la posición $x$, $b$ a la posición inicial $x_0$, $m$ a la pendiente y $x$ al tiempo $t$. Por lo tanto, el coeficiente que multiplica al tiempo ($t$), que es la velocidad $v$, representa la pendiente ('m') de la recta en la gráfica de posición versus tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_014",
+      "pregunta": "Si la gráfica de rapidez versus tiempo ($v-t$) de un móvil es una línea recta horizontal que no está sobre el eje del tiempo, ¿qué se puede concluir sobre su movimiento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El móvil está en reposo.",
+        "B": "El móvil tiene aceleración constante y positiva.",
+        "C": "El móvil se mueve con velocidad constante, describiendo un M.R.U.",
+        "D": "El móvil está frenando.",
+        "E": "El móvil se mueve con velocidad variable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una línea recta horizontal en una gráfica $v-t$ indica que el valor de la velocidad ($v$) no cambia con el tiempo ($t$), es decir, la velocidad es constante. Si la línea no está sobre el eje del tiempo ($v=0$), significa que la velocidad constante es distinta de cero. Un movimiento con velocidad constante es, por definición, un Movimiento Rectilíneo Uniforme (M.R.U.).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_006_015",
+      "pregunta": "La velocidad instantánea se define como el límite de la velocidad media cuando el intervalo de tiempo tiende a cero. ¿Qué expresión matemática representa esta definición?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$v = \\frac{x - x_0}{t - t_0}$$",
+        "B": "$$v = \\lim_{\\Delta x \\to 0} (\\frac{\\Delta x}{\\Delta t})$$",
+        "C": "$$v = \\frac{e}{\\Delta t}$$",
+        "D": "$$v = \\lim_{\\Delta t \\to 0} (\\frac{\\Delta x}{\\Delta t})$$",
+        "E": "$$v = v_0 + at$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La velocidad instantánea busca describir la velocidad en un punto exacto en el tiempo, no en un intervalo. Para lograr esto, se toma la definición de velocidad media ($$\\frac{\\Delta x}{\\Delta t}$$) y se hace el intervalo de tiempo ($$\\Delta t$$) infinitesimalmente pequeño, es decir, se calcula el límite cuando $$\\Delta t$$ tiende a cero. La expresión matemática correcta para esta definición es $$v = \\lim_{\\Delta t \\to 0} (\\frac{\\Delta x}{\\Delta t})$$.",
+      "imagen": null
+    }
+  ]
+}

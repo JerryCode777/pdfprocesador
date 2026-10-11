@@ -3,5 +3,231 @@
   "numero_tema": 30,
   "total_temas": 322,
   "titulo_tema": "Cambios de Estado",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_030_001",
+      "pregunta": "¿Qué nombre recibe el cambio de estado de líquido a sólido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fusión",
+        "B": "Vaporización",
+        "C": "Solidificación",
+        "D": "Condensación",
+        "E": "Sublimación"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La solidificación es el proceso físico en el que un líquido se convierte en sólido, lo cual ocurre por una disminución de calor. La fusión es el proceso opuesto (sólido a líquido). La vaporización es de líquido a gas, la condensación de gas a líquido y la sublimación es el cambio entre sólido y gas sin pasar por el estado líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_002",
+      "pregunta": "¿Cuál es la característica fundamental de un cambio químico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La sustancia cambia de forma o volumen.",
+        "B": "Se forman nuevas sustancias con diferente composición.",
+        "C": "La sustancia se disuelve en un líquido.",
+        "D": "El cambio es fácilmente reversible.",
+        "E": "No se afecta la composición de la materia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un cambio químico se define por la transformación de la composición de la materia, lo que resulta en la formación de una o más sustancias nuevas con propiedades diferentes a las originales. Las otras opciones, como cambiar de forma o disolverse, son características de los cambios físicos, en los que la identidad de la sustancia no cambia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_003",
+      "pregunta": "¿Bajo qué condición de temperatura se forma un Condensado Bose-Einstein?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A temperaturas superiores a la ebullición del agua.",
+        "B": "A la temperatura ambiente.",
+        "C": "A la temperatura de congelación del agua.",
+        "D": "A temperaturas muy altas, como las de una estrella.",
+        "E": "A temperaturas muy bajas, cercanas al cero absoluto."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El Condensado Bose-Einstein es un estado de la materia que solo se logra cuando los átomos se enfrían a temperaturas extremadamente bajas, muy próximas al cero absoluto ($$0 \\, \\text{K}$$ o $$−273,15 \\, ^\\circ\\text{C}$$). En estas condiciones, los efectos cuánticos se vuelven dominantes a escala macroscópica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_004",
+      "pregunta": "¿Cómo se denomina el cambio de estado directo de sólido a gaseoso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fusión",
+        "B": "Vaporización",
+        "C": "Sublimación inversa",
+        "D": "Condensación",
+        "E": "Sublimación directa"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La sublimación directa es el proceso en el cual una sustancia pasa del estado sólido al estado gaseoso sin transitar por el estado líquido. La sublimación inversa es el proceso opuesto (gas a sólido). Fusión, vaporización y condensación son otros cambios de estado que involucran la fase líquida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_005",
+      "pregunta": "Disolver azúcar en agua o el esparcimiento del aroma de un perfume son ejemplos de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cambios químicos",
+        "B": "Reacciones de combustión",
+        "C": "Cambios físicos",
+        "D": "Reacciones de corrosión",
+        "E": "Sublimación"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ambos son ejemplos de cambios físicos porque la composición química de las sustancias involucradas no se altera. Al disolver azúcar, esta sigue siendo azúcar, solo que en una mezcla. El aroma del perfume se esparce, pero las moléculas del perfume no cambian su identidad. Los cambios químicos, en cambio, forman nuevas sustancias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_006",
+      "pregunta": "¿Cuál de los siguientes procesos es un cambio de estado regresivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fusión",
+        "B": "Condensación",
+        "C": "Vaporización",
+        "D": "Sublimación directa",
+        "E": "Fusión y vaporización"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los cambios de estado regresivos son aquellos que ocurren por una disminución de calor o energía. La condensación es el paso de gaseoso a líquido, lo que implica una pérdida de energía. La fusión, la vaporización y la sublimación directa son cambios progresivos, ya que requieren un aumento de calor para ocurrir.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_007",
+      "pregunta": "¿Qué comportamiento particular presentan los átomos en el estado de Condensado Bose-Einstein?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se repelen fuertemente entre sí.",
+        "B": "Se mueven a velocidades muy altas.",
+        "C": "Se comportan más como ondas que como partículas.",
+        "D": "Forman una estructura cristalina perfecta.",
+        "E": "Se descomponen en partículas subatómicas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las características fundamentales del Condensado Bose-Einstein es que, a temperaturas cercanas al cero absoluto, los átomos pierden su comportamiento individual como partículas y se fusionan en una única onda de materia. En este estado, sus propiedades ondulatorias a nivel cuántico se manifiestan a una escala macroscópica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre un cambio físico y un cambio químico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los cambios físicos son siempre reversibles y los químicos no.",
+        "B": "Los cambios químicos liberan energía y los físicos la absorben.",
+        "C": "Los cambios físicos solo alteran la forma, mientras que los químicos alteran el color.",
+        "D": "Los cambios químicos afectan la composición de la materia, mientras que los físicos no.",
+        "E": "Los cambios químicos ocurren rápidamente y los físicos lentamente."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La distinción clave reside en la composición de la materia. En un cambio físico, la identidad de la sustancia no cambia (ej. agua líquida a hielo), solo cambian sus propiedades físicas. En un cambio químico, la sustancia original se transforma en una o más sustancias nuevas con una composición y propiedades diferentes (ej. papel quemándose para formar ceniza y gases).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_009",
+      "pregunta": "El proceso mediante el cual un gas se transforma directamente en un sólido se conoce como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Solidificación",
+        "B": "Condensación",
+        "C": "Sublimación directa",
+        "D": "Sublimación inversa",
+        "E": "Fusión"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La sublimación inversa, también conocida como deposición, es el cambio de estado directamente de la fase gaseosa a la fase sólida, sin pasar por la fase líquida. Es el proceso opuesto a la sublimación directa. La solidificación es de líquido a sólido y la condensación es de gas a líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_010",
+      "pregunta": "¿Qué par de cambios de estado son procesos opuestos entre sí?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fusión y Vaporización",
+        "B": "Solidificación y Condensación",
+        "C": "Fusión y Solidificación",
+        "D": "Sublimación directa y Vaporización",
+        "E": "Condensación y Sublimación inversa"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fusión es el paso de sólido a líquido, y la solidificación es el paso de líquido a sólido. Por lo tanto, son procesos directamente opuestos. Los otros pares no representan procesos inversos: Fusión (sólido a líquido) y Vaporización (líquido a gas) son ambos progresivos; Solidificación (líquido a sólido) y Condensación (gas a líquido) son ambos regresivos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_011",
+      "pregunta": "¿Por qué al Condensado Bose-Einstein se le conoce como 'hielo cuántico'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque su temperatura es la misma que la del hielo de agua.",
+        "B": "Porque es un gas que, a escala atómica, se comporta como un sólido al caer.",
+        "C": "Porque su estructura molecular es idéntica a la de un cristal de hielo.",
+        "D": "Porque es transparente y frío al tacto.",
+        "E": "Porque se forma a partir de la solidificación de un gas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque es un estado gaseoso, el Condensado Bose-Einstein recibe el apodo de 'hielo cuántico' debido a una de sus propiedades paradójicas: la onda de materia gigante que lo compone cae como una sola entidad, similar a una roca o un trozo de sólido, en lugar de dispersarse como un gas normal. Este comportamiento se debe a los efectos cuánticos dominantes en ese estado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_012",
+      "pregunta": "¿Cuál de las siguientes opciones describe correctamente un cambio de estado progresivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La transformación de gas a líquido.",
+        "B": "La transformación de líquido a sólido.",
+        "C": "Un proceso que ocurre por disminución de calor.",
+        "D": "La transformación de sólido a líquido.",
+        "E": "La sublimación inversa."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los cambios de estado progresivos son aquellos que requieren un aumento de calor (energía) para ocurrir. La fusión, que es la transformación de un sólido a un líquido, es un claro ejemplo de un cambio progresivo. Los cambios de gas a líquido (condensación), de líquido a sólido (solidificación) y la sublimación inversa son regresivos porque implican una pérdida de calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_013",
+      "pregunta": "La corrosión de un clavo de hierro expuesto a la humedad es un ejemplo de cambio químico. ¿Cuál es la justificación principal para esta clasificación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El clavo cambia su color y textura superficial.",
+        "B": "El proceso es irreversible y no se puede volver al clavo original.",
+        "C": "Se forma una nueva sustancia (óxido de hierro) con una composición química diferente a la del hierro.",
+        "D": "El clavo se vuelve más frágil, lo que indica un cambio en sus propiedades físicas.",
+        "E": "El cambio ocurre lentamente en presencia de agua."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La razón fundamental por la que la corrosión es un cambio químico es que la composición de la materia se altera. El hierro (Fe) reacciona con el oxígeno ($$\\text{O}_2$$) para formar óxido de hierro, una sustancia completamente nueva con propiedades distintas. Aunque los cambios de color, textura y fragilidad son evidencias del cambio, la causa subyacente y definitoria es la formación de una nueva sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_014",
+      "pregunta": "Una sustancia experimenta una transición desde un estado donde sus partículas vibran en posiciones fijas a uno donde pueden moverse y deslizarse unas sobre otras. Posteriormente, pasa a un estado donde sus partículas se mueven libremente y a gran velocidad. ¿Cómo se denominan estos dos cambios de estado consecutivos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Solidificación y Condensación",
+        "B": "Sublimación directa y Condensación",
+        "C": "Fusión y Vaporización",
+        "D": "Fusión y Sublimación inversa",
+        "E": "Vaporización y Solidificación"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El primer estado descrito corresponde a un sólido (partículas en posiciones fijas). El segundo estado corresponde a un líquido (partículas que se deslizan). El tercer estado corresponde a un gas (partículas libres y en movimiento rápido). Por lo tanto, la primera transición (sólido a líquido) es la fusión, y la segunda transición (líquido a gas) es la vaporización. Ambos son cambios progresivos que requieren un aumento de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_030_015",
+      "pregunta": "Basado en sus características únicas, ¿cuál de las siguientes afirmaciones describe con mayor precisión al Condensado Bose-Einstein?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es un gas denso donde los átomos chocan constantemente a altas velocidades.",
+        "B": "Es un estado donde millones de átomos se unen para formar un superátomo que se comporta como una única onda de materia.",
+        "C": "Es un sólido perfectamente cristalino formado al enfriar un gas a temperaturas bajo cero.",
+        "D": "Es un estado intermedio entre líquido y gas con propiedades de ambos.",
+        "E": "Es un estado en el que la materia se convierte en energía pura cerca del cero absoluto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La descripción más precisa del Condensado Bose-Einstein es la de un estado cuántico macroscópico. A temperaturas extremadamente bajas, millones de átomos individuales dejan de comportarse como partículas separadas y colapsan en el mismo estado cuántico, formando una única onda de materia o \"superátomo\". Las otras opciones son incorrectas: los átomos en este estado tienen muy poca energía (no altas velocidades), no es una estructura cristalina como un sólido típico, y no es un estado intermedio, sino un quinto estado de la materia.",
+      "imagen": null
+    }
+  ]
 }

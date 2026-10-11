@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 273,
+  "total_temas": 320,
+  "titulo_tema": "Síndromes por Aneuploidías Somáticas",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_273_001",
+      "pregunta": "¿Qué fórmula cromosómica define una trisomía, resultando en un total de 47 cromosomas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$2N - 2 = 44$$",
+        "B": "$$2N + 2 = 48$$",
+        "C": "$$2N + 1 = 47$$",
+        "D": "$$2N - 1 = 45$$",
+        "E": "$$N + 1 = 24$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una trisomía es una aneuploidía en la que un individuo presenta un cromosoma extra en uno de los pares cromosómicos. La fórmula general para una trisomía es $$2N + 1$$, lo que para los humanos resulta en un total de 47 cromosomas ($$2 \times 23 + 1 = 47$$). Las otras opciones representan una nulosomía ($$2N - 2$$), una tetrasomía ($$2N + 2$$) y una monosomía ($$2N - 1$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_002",
+      "pregunta": "Una condición en la que falta un par cromosómico completo, representada por la fórmula $$2N – 2 = 44$$, se denomina:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Trisomía",
+        "B": "Tetrasomía",
+        "C": "Monosomía",
+        "D": "Nulosomía",
+        "E": "Poliploidía"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La nulosomía es la aneuploidía caracterizada por la ausencia de un par completo de cromosomas homólogos. Su fórmula es $$2N - 2$$, lo que en humanos da un total de 44 cromosomas. La trisomía es $$2N + 1$$, la tetrasomía es $$2N + 2$$ y la monosomía es $$2N - 1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_003",
+      "pregunta": "El Síndrome de Down es causado por una aneuploidía específica. ¿Cuál es esta alteración cromosómica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Trisomía del par 18",
+        "B": "Monosomía parcial del par 5",
+        "C": "Trisomía del par 13",
+        "D": "Trisomía del par 21",
+        "E": "Nulosomía del par 21"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Síndrome de Down es una de las aneuploidías más conocidas y se debe a la presencia de un cromosoma extra en el par 21, lo que se denomina trisomía 21. La trisomía 18 causa el Síndrome de Edwards, la trisomía 13 causa el Síndrome de Patau y la monosomía parcial del par 5 causa el Síndrome de Lejeune.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_004",
+      "pregunta": "¿Cuál es la causa genética del síndrome conocido como \"Maullido del gato\" o Síndrome de Lejeune?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una trisomía del cromosoma 5",
+        "B": "Una deleción del brazo corto del par 5",
+        "C": "Una nulosomía del par 5",
+        "D": "Una trisomía del cromosoma 13",
+        "E": "La presencia de dos cromosomas extra en el par 5"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Síndrome de Lejeune, también conocido como \"Maullido del gato\", no es una aneuploidía de cromosoma completo, sino una alteración estructural. Se origina por una deleción, es decir, la pérdida de un fragmento del brazo corto del cromosoma 5.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_005",
+      "pregunta": "Una aneuploidía definida por la fórmula $$2N + 2 = 48$$, que implica la presencia de dos cromosomas extra en un par, se conoce como:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Trisomía",
+        "B": "Nulosomía",
+        "C": "Monosomía",
+        "D": "Tetrasomía",
+        "E": "Disomía"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La tetrasomía es la condición en la que existen dos cromosomas adicionales para un par cromosómico, resultando en cuatro copias en lugar de las dos habituales. Su fórmula es $$2N + 2 = 48$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_006",
+      "pregunta": "¿Qué característica fenotípica es distintiva del Síndrome de Edwards (trisomía 18), además del occipucio prominente y las orejas de implantación baja?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Pliegue simiesco en la palma de la mano",
+        "B": "Llanto agudo similar al maullido de un gato",
+        "C": "Superposición de los dedos de las manos",
+        "D": "Surco entre el dedo gordo y el segundo dedo del pie",
+        "E": "Polidactilia y labio leporino"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las características más notables y específicas del fenotipo del Síndrome de Edwards (trisomía 18) es la superposición de los dedos de las manos. El pliegue simiesco y el surco en el pie son típicos del Síndrome de Down, el llanto agudo del Síndrome de Lejeune, y la polidactilia y labio leporino son característicos del Síndrome de Patau.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_007",
+      "pregunta": "¿Cuál de los siguientes cariotipos corresponde a un varón con Síndrome de Down?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$47, XX, +21$$",
+        "B": "$$47, XY, +18$$",
+        "C": "$$46, XY, 5p-$$",
+        "D": "$$47, XY, +13$$",
+        "E": "$$47, XY, +21$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El cariotipo se describe como: número total de cromosomas, cromosomas sexuales, y la alteración. Para un varón (XY) con Síndrome de Down (trisomía 21), el cariotipo correcto es $$47, XY, +21$$. La opción A es una mujer con Down, la B es un varón con Edwards y la D es un varón con Patau.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_008",
+      "pregunta": "Una malformación grave que se menciona como una característica común en los síndromes de Down, Edwards y Patau es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La micrognatia",
+        "B": "La cardiopatía congénita",
+        "C": "El pliegue simiesco",
+        "D": "El llanto agudo",
+        "E": "La polidactilia"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La cardiopatía congénita (malformación del corazón presente al nacer) es una complicación médica grave que se reporta como una característica presente en los tres síndromes de trisomía somática descritos: Síndrome de Down (trisomía 21), Síndrome de Edwards (trisomía 18) y Síndrome de Patau (trisomía 13).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_009",
+      "pregunta": "A diferencia de las trisomías 13 y 18 que suelen tener una esperanza de vida muy corta, ¿qué se menciona sobre la letalidad del Síndrome de Lejeune?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es extremadamente alta, con fallecimiento en la primera infancia.",
+        "B": "Es moderada, con una esperanza de vida hasta la adolescencia.",
+        "C": "La letalidad es baja, permitiendo que muchos enfermos lleguen a la edad adulta.",
+        "D": "Es idéntica a la del Síndrome de Patau.",
+        "E": "Presenta una letalidad del 100% antes del primer año."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El contenido especifica que para el Síndrome de Lejeune (\"Maullido del gato\"), la letalidad es baja y que muchos de los individuos afectados llegan a la edad adulta. Esto contrasta con la alta mortalidad en los primeros meses o años de vida asociada a las trisomías 13 (Patau) y 18 (Edwards).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_010",
+      "pregunta": "La marcada hipotonía muscular, la cara redonda y aplanada, y el pliegue simiesco en la palma de la mano son rasgos característicos de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Trisomía 13",
+        "B": "Trisomía 18",
+        "C": "Monosomía parcial del par 5",
+        "D": "Trisomía 21",
+        "E": "Nulosomía 21"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este conjunto de características fenotípicas, incluyendo la hipotonía muscular (bajo tono muscular), la cara con rasgos específicos y el pliegue palmar único (simiesco), son distintivos del Síndrome de Down, que es causado por la trisomía 21.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_011",
+      "pregunta": "El cariotipo $$47, XX, +18$$ describe la condición genética de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una mujer con Síndrome de Patau",
+        "B": "Un varón con Síndrome de Down",
+        "C": "Una mujer con Síndrome de Edwards",
+        "D": "Un varón con Síndrome de Lejeune",
+        "E": "Una mujer con Síndrome de Down"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Analizando el cariotipo: $$47$$ indica un cromosoma extra; $$XX$$ indica sexo femenino; y $$+18$$ especifica que el cromosoma adicional está en el par 18. Esta combinación corresponde al Síndrome de Edwards en una mujer.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_012",
+      "pregunta": "El signo más significativo que da nombre al Síndrome de Lejeune (\"Maullido del gato\") es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un marcado hipertelorismo",
+        "B": "Un retraso mental profundo",
+        "C": "Una microcefalia severa",
+        "D": "El carácter agudo del grito del niño",
+        "E": "La presencia de micrognatia"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Aunque el hipertelorismo, el retraso mental y la microcefalia son características del Síndrome de Lejeune, el rasgo más distintivo y que le da su nombre coloquial es el llanto o grito agudo del niño, que se asemeja al maullido de un gato.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_013",
+      "pregunta": "Al comparar el Síndrome de Edwards y el Síndrome de Patau, una característica como los \"pies en mecedora\" se menciona en ambos. Sin embargo, ¿qué rasgo es específico del Síndrome de Patau y no del de Edwards según la descripción dada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Occipucio prominente",
+        "B": "Superposición de dedos",
+        "C": "Labio leporino y paladar hendido",
+        "D": "Orejas de implantación baja",
+        "E": "Cardiopatía congénita"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto el Síndrome de Edwards (trisomía 18) como el de Patau (trisomía 13) comparten algunas características como los pies en mecedora y la cardiopatía congénita. Sin embargo, la presencia de labio leporino y paladar hendido, junto con la microftalmia y la polidactilia, son rasgos distintivos mencionados específicamente para el Síndrome de Patau. El occipucio prominente y la superposición de dedos son característicos de Edwards.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_014",
+      "pregunta": "Un neonato presenta las siguientes características: occipucio prominente, micrognatia, superposición de los dedos y pies en mecedora (calcáneo desarrollado). ¿Cuál es el diagnóstico genético más probable y su fórmula cromosómica correspondiente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Síndrome de Down, $$47, XY, +21$$",
+        "B": "Síndrome de Patau, $$47, XX, +13$$",
+        "C": "Síndrome de Lejeune, $$46, XX, 5p-$$",
+        "D": "Síndrome de Edwards, $$47, XX, +18$$",
+        "E": "Trisomía 21, $$47, XX, +21$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El conjunto de síntomas descrito (occipucio prominente, micrognatia, superposición de dedos, pies en mecedora) se alinea directamente con el fenotipo característico del Síndrome de Edwards. Este síndrome es causado por una trisomía en el par 18, cuyo cariotipo se representa como $$47, XX, +18$$ para una mujer o $$47, XY, +18$$ para un varón. La opción D presenta el síndrome y un cariotipo correcto para el mismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_273_015",
+      "pregunta": "¿Cuál es la diferencia fundamental en el tipo de alteración cromosómica entre el Síndrome de Down y el Síndrome de Lejeune descritos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Down es una alteración numérica (aneuploidía), mientras que Lejeune es una alteración estructural (deleción).",
+        "B": "Down es causado por un cromosoma extra, mientras que Lejeune es causado por la falta de un par cromosómico completo (nulosomía).",
+        "C": "Ambos son trisomías, pero afectan a diferentes cromosomas (21 y 5).",
+        "D": "Down es una monosomía y Lejeune es una trisomía.",
+        "E": "Down afecta a un cromosoma somático, mientras que Lejeune afecta a un cromosoma sexual."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La diferencia clave radica en la naturaleza de la mutación cromosómica. El Síndrome de Down es una alteración numérica, específicamente una aneuploidía de tipo trisomía ($$2N+1$$), donde hay un cromosoma 21 completo de más. En cambio, el Síndrome de Lejeune es una alteración estructural, una deleción, que implica la pérdida de un segmento (el brazo corto) del cromosoma 5, pero el número total de cromosomas se mantiene en 46.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 2,
+  "total_temas": 137,
+  "titulo_tema": "Sistemas de Medida y Unidades",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_002_001",
+      "pregunta": "¿Qué nombre recibe un grupo de unidades estándar y sus combinaciones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Colección de medidas",
+        "B": "Sistema de unidades",
+        "C": "Conjunto fundamental",
+        "D": "Estándar de magnitudes",
+        "E": "Protocolo de medición"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un sistema de unidades es un conjunto coherente y organizado de unidades de medida estándar junto con las reglas que relacionan sus combinaciones. Ejemplos de estos son el sistema métrico y el sistema inglés.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_002",
+      "pregunta": "¿Cuál de las siguientes es una magnitud física fundamental?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Velocidad",
+        "B": "Fuerza",
+        "C": "Superficie",
+        "D": "Masa",
+        "E": "Presión"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las magnitudes fundamentales son aquellas que son independientes de otras y no precisan de otras para ser cuantificadas. La masa (cuya unidad es el kilogramo) es una de las siete magnitudes fundamentales. La velocidad, la fuerza, la superficie y la presión son magnitudes derivadas porque se definen a partir de las fundamentales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_003",
+      "pregunta": "¿Cuál es la unidad estándar para la magnitud fundamental de Tiempo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Minuto (min)",
+        "B": "Hora (h)",
+        "C": "Segundo (s)",
+        "D": "Metro (m)",
+        "E": "Newton (N)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad estándar para la magnitud fundamental de tiempo en el Sistema Internacional de Unidades es el segundo ($$s$$). El minuto y la hora son unidades de tiempo pero no la unidad fundamental. El metro es la unidad de longitud y el newton es la unidad de fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_004",
+      "pregunta": "¿Qué prefijo del sistema de múltiplos y submúltiplos representa el factor $$10^3$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "deca (da)",
+        "B": "hecto (h)",
+        "C": "mega (M)",
+        "D": "mili (m)",
+        "E": "kilo (k)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El prefijo 'kilo' ($$k$$) se utiliza para denotar un múltiplo de mil, que es equivalente al factor $$10^3$$. Por ejemplo, 1 kilómetro ($$1 \\text{ km}$$) es igual a $$1000$$ metros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_005",
+      "pregunta": "Según las convenciones de escritura para las unidades, ¿cuál de las siguientes afirmaciones es correcta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Todos los símbolos de unidades se escriben con mayúscula.",
+        "B": "El símbolo de una unidad siempre debe llevar un punto al final.",
+        "C": "El símbolo de una unidad no admite punto al final.",
+        "D": "Los nombres de todas las unidades se escriben con mayúscula inicial.",
+        "E": "Es obligatorio usar plural para los símbolos (ej. 'kgs')."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una regla fundamental en la escritura de unidades es que su símbolo nunca lleva un punto al final, a menos que se encuentre al final de una oración. Además, los símbolos no admiten plural y solo se escriben con mayúscula si provienen de un nombre propio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_006",
+      "pregunta": "¿Por qué la 'Fuerza' se considera una magnitud derivada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque es una magnitud suplementaria como el radián.",
+        "B": "Porque no se puede medir directamente con un instrumento.",
+        "C": "Porque parte de dos o más magnitudes fundamentales para ser cuantificada.",
+        "D": "Porque su unidad, el Newton, proviene del nombre de una persona.",
+        "E": "Porque es independiente de cualquier otra magnitud."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las magnitudes derivadas, como la fuerza, se definen a partir de la combinación de magnitudes fundamentales. Específicamente, la fuerza (newton) se deriva de la masa, la longitud y el tiempo, lo que la distingue de las magnitudes fundamentales que son independientes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_007",
+      "pregunta": "¿Cuál de los siguientes pares representa correctamente una magnitud derivada y su unidad correspondiente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Longitud: metro cuadrado ($$m^2$$)",
+        "B": "Intensidad Luminosa: joule ($$J$$)",
+        "C": "Velocidad: metro por segundo ($$m/s$$)",
+        "D": "Tiempo: hertz ($$Hz$$)",
+        "E": "Masa: pascal ($$Pa$$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La velocidad es una magnitud derivada que se define como el cambio de longitud por unidad de tiempo, por lo tanto, su unidad es el metro por segundo ($$m/s$$). Las otras opciones son incorrectas: la unidad de longitud es el metro ($$m$$), no el metro cuadrado (que es de superficie); la unidad de intensidad luminosa es la candela ($$cd$$); la unidad de tiempo es el segundo ($$s$$); y la unidad de masa es el kilogramo ($$kg$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_008",
+      "pregunta": "El principio de consistencia dimensional establece que en una ecuación física válida...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "todas las variables deben convertirse al sistema inglés.",
+        "B": "solo se pueden multiplicar o dividir términos con las mismas unidades.",
+        "C": "no se pueden usar números muy grandes o muy pequeños.",
+        "D": "solo se pueden sumar o igualar términos si tienen las mismas unidades.",
+        "E": "las unidades fundamentales no pueden aparecer en el denominador."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La consistencia dimensional es un principio fundamental que exige que cualquier ecuación que describa un fenómeno físico debe tener las mismas unidades en ambos lados del signo de igualdad. Esto implica que solo se pueden sumar, restar o igualar cantidades que representen la misma magnitud física (es decir, que tengan las mismas unidades).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_009",
+      "pregunta": "¿Cuál es la principal razón para utilizar la notación exponencial, con múltiplos y submúltiplos, en física?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para hacer que las ecuaciones parezcan más complejas.",
+        "B": "Para eliminar la necesidad de realizar conversiones de unidades.",
+        "C": "Para simplificar la escritura y el manejo de números muy grandes o muy pequeños.",
+        "D": "Para definir nuevas magnitudes fundamentales.",
+        "E": "Para cumplir con una normativa internacional sin propósito práctico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación exponencial, a través de prefijos como 'kilo' ($$10^3$$) o 'nano' ($$10^{-9}$$), es una herramienta para expresar de manera compacta y manejable números que son extremadamente grandes (como distancias astronómicas) o extremadamente pequeños (como el tamaño de un átomo), facilitando así los cálculos y la comunicación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_010",
+      "pregunta": "El prefijo 'micro' ($$\\mu$$) es un submúltiplo que corresponde a un factor de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$10^{-3}$$",
+        "B": "$$10^6$$",
+        "C": "$$10^{-9}$$",
+        "D": "$$10^3$$",
+        "E": "$$10^{-6}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El prefijo 'micro', representado por la letra griega mu ($$\\mu$$), indica una millonésima parte de una unidad. Este factor es equivalente a $$10^{-6}$$. Por ejemplo, un micrómetro es $$10^{-6}$$ metros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_011",
+      "pregunta": "De acuerdo con las reglas de escritura de símbolos, ¿cuál de las siguientes unidades debe escribirse con una letra inicial mayúscula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "metro (m)",
+        "B": "segundo (s)",
+        "C": "kilogramo (kg)",
+        "D": "watt (W)",
+        "E": "mol (mol)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La convención establece que los símbolos de las unidades se escriben con letra mayúscula inicial solo si provienen del nombre propio de una persona. El 'watt' (W) es en honor a James Watt. Metro (m), segundo (s), kilogramo (kg) y mol (mol) no derivan de nombres propios, por lo que sus símbolos se escriben con minúscula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_012",
+      "pregunta": "¿Qué distingue a las magnitudes suplementarias, como el radián, de las magnitudes fundamentales y derivadas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son las únicas que se pueden expresar en el sistema inglés.",
+        "B": "No tienen unidades asociadas.",
+        "C": "Son una clase especial que no se considera ni fundamental ni derivada.",
+        "D": "Se derivan de la temperatura y la cantidad de sustancia.",
+        "E": "Son las más importantes en todos los cálculos físicos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las magnitudes suplementarias, como el ángulo plano (radián) y el ángulo sólido (estereorradián), ocupan una categoría especial. No son fundamentales porque se pueden definir geométricamente a partir de la longitud (un cociente de longitudes), pero se tratan de manera distinta a las derivadas por su naturaleza geométrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_013",
+      "pregunta": "Considerando que la dimensión de Longitud es $$L$$, la de Masa es $$M$$ y la de Tiempo es $$T$$, ¿cuál es la ecuación dimensional de la Densidad ($$\\rho$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$ML^3$$",
+        "B": "$$M L^{-1}$$",
+        "C": "$$LT^{-1}$$",
+        "D": "$$ML^{-3}$$",
+        "E": "$$M^{-1}L^3$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación dimensional representa una magnitud derivada en función de las fundamentales. La densidad ($$\\rho$$) se define como masa por unidad de volumen. La dimensión de la masa es $$M$$. El volumen es longitud al cubo, por lo que su dimensión es $$L^3$$. Por lo tanto, la ecuación dimensional de la densidad es el cociente de ambas: $$[\\rho] = \\frac{M}{L^3} = ML^{-3}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_014",
+      "pregunta": "Considere la siguiente expresión: $$Distancia = Velocidad + Tiempo$$. ¿Por qué esta expresión es dimensionalmente inconsistente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la distancia no puede ser igual a la velocidad.",
+        "B": "Porque no se pueden sumar términos con diferentes dimensiones ($$LT^{-1}$$ y $$T$$).",
+        "C": "Porque la velocidad siempre debe multiplicarse por el tiempo.",
+        "D": "Porque la distancia es una magnitud fundamental y la velocidad es una derivada.",
+        "E": "Porque falta una constante de proporcionalidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de consistencia dimensional prohíbe la suma o resta de magnitudes con diferentes dimensiones. La dimensión de 'Distancia' es Longitud ($$L$$). La dimensión de 'Velocidad' es Longitud sobre Tiempo ($$LT^{-1}$$) y la de 'Tiempo' es $$T$$. No se puede sumar una velocidad ($$LT^{-1}$$) a un tiempo ($$T$$), ya que son magnitudes físicas distintas. Sería como sumar metros por segundo y segundos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_002_015",
+      "pregunta": "Un tera-metro ($$Tm$$) es una unidad de longitud. Utilizando la tabla de prefijos, ¿cuántos nano-metros ($$nm$$) equivalen a un tera-metro?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$10^3$$",
+        "B": "$$10^9$$",
+        "C": "$$10^{12}$$",
+        "D": "$$10^{21}$$",
+        "E": "$$10^{-21}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta pregunta requiere convertir de un múltiplo (tera) a un submúltiplo (nano). El prefijo Tera ($$T$$) representa un factor de $$10^{12}$$. El prefijo nano ($$n$$) representa un factor de $$10^{-9}$$. Para encontrar cuántos nanómetros hay en un terámetro, se divide el factor mayor entre el factor menor: $$\\frac{10^{12}}{10^{-9}} = 10^{12 - (-9)} = 10^{12+9} = 10^{21}$$. Por lo tanto, $$1 \\text{ Tm} = 10^{21} \\text{ nm}$$",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 110,
+  "total_temas": 137,
+  "titulo_tema": "Superficies equipotenciales",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_110_001",
+      "pregunta": "¿Cuál es la definición de una superficie equipotencial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una superficie donde el campo eléctrico es constante.",
+        "B": "Una superficie tridimensional sobre la que el potencial eléctrico (V) es el mismo en todos los puntos.",
+        "C": "Una superficie plana donde las cargas eléctricas no pueden moverse.",
+        "D": "Una superficie donde la energía potencial eléctrica es siempre cero.",
+        "E": "Una superficie que es siempre paralela a las líneas de campo eléctrico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una superficie equipotencial se define como una región del espacio, específicamente una superficie tridimensional, en la cual cada punto tiene exactamente el mismo valor de potencial eléctrico, $V$. Las otras opciones son incorrectas: el campo eléctrico puede variar en magnitud a lo largo de la superficie, la energía potencial no es necesariamente cero (solo constante), y son perpendiculares, no paralelas, a las líneas de campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_002",
+      "pregunta": "¿Cómo se calcula el potencial eléctrico total, $V_A$, en un punto 'A' debido a un sistema de varias cargas puntuales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Mediante la suma vectorial de los potenciales individuales.",
+        "B": "Tomando el promedio de los potenciales de cada carga.",
+        "C": "Considerando únicamente el potencial de la carga más cercana.",
+        "D": "Mediante la suma algebraica de los potenciales eléctricos de cada una de las cargas.",
+        "E": "Multiplicando los potenciales individuales de cada carga."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El potencial eléctrico es una magnitud escalar, no vectorial. Por lo tanto, el potencial total en un punto es el resultado de la suma algebraica (una suma ordinaria que considera los signos positivo o negativo) de los potenciales creados por cada carga individual en ese punto, como lo expresa la fórmula $$V_A = V_1 + V_2 + V_3 + ... + V_n$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_003",
+      "pregunta": "¿Qué ocurre con la energía potencial eléctrica, $U$, de una carga de prueba, $q_0$, cuando se desplaza a lo largo de una superficie equipotencial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aumenta proporcionalmente a la distancia recorrida.",
+        "B": "Disminuye hasta llegar a cero.",
+        "C": "Permanece constante.",
+        "D": "Se invierte su signo.",
+        "E": "Oscila entre un valor máximo y mínimo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial eléctrica $U$ de una carga de prueba $q_0$ en un punto con potencial $V$ es $$U = q_0V$$. Dado que en una superficie equipotencial el potencial $V$ es constante en todos sus puntos, el producto $q_0V$ también será constante. Por lo tanto, la energía potencial eléctrica de la carga de prueba no cambia mientras se mueva sobre dicha superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_004",
+      "pregunta": "¿Cuál es la relación geométrica entre las líneas de campo eléctrico y las superficies equipotenciales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son siempre paralelas entre sí.",
+        "B": "Forman un ángulo de 45 grados.",
+        "C": "Son siempre perpendiculares entre sí.",
+        "D": "No guardan ninguna relación específica.",
+        "E": "Son la misma cosa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una propiedad fundamental de las superficies equipotenciales es que siempre son perpendiculares a las líneas de campo eléctrico en el punto de intersección. Esto se debe a que el campo eléctrico apunta en la dirección de máximo cambio de potencial, y a lo largo de una superficie equipotencial, el potencial no cambia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_005",
+      "pregunta": "Si tres puntos A, B y C pertenecen a la misma superficie equipotencial, ¿cuál de las siguientes relaciones entre sus potenciales ($V_A$, $V_B$, $V_C$) es correcta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$V_A > V_B > V_C$$",
+        "B": "$$V_A < V_B < V_C$$",
+        "C": "$$V_A + V_B + V_C = 0$$",
+        "D": "$$V_A = V_B = V_C$$",
+        "E": "$$V_A \\cdot V_B \\cdot V_C = 1$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por definición, una superficie equipotencial es aquella en la que todos sus puntos tienen el mismo valor de potencial eléctrico. Por lo tanto, si los puntos A, B y C están en la misma superficie equipotencial, sus potenciales deben ser idénticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_006",
+      "pregunta": "En una región del espacio donde existe un campo eléctrico uniforme, ¿qué forma adoptan las superficies equipotenciales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Esferas concéntricas.",
+        "B": "Cilindros coaxiales.",
+        "C": "Planos paralelos entre sí.",
+        "D": "Líneas de campo eléctrico.",
+        "E": "Puntos discretos en el espacio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un campo eléctrico uniforme, las líneas de campo son rectas paralelas y equidistantes. Dado que las superficies equipotenciales deben ser siempre perpendiculares a las líneas de campo, la única forma geométrica que cumple esta condición son planos paralelos entre sí y perpendiculares a dichas líneas de campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_007",
+      "pregunta": "La fórmula para el potencial total en un punto 'A', $$V_A = V_1 + V_2 + V_3$$, implica que el potencial eléctrico es una cantidad:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Vectorial, porque depende de la dirección.",
+        "B": "Escalar, porque se suma algebraicamente.",
+        "C": "Adimensional, porque no tiene unidades.",
+        "D": "Compleja, porque tiene parte real e imaginaria.",
+        "E": "Tensorial, de orden superior."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El hecho de que el potencial total sea la suma algebraica (ordinaria) de los potenciales individuales demuestra que es una cantidad escalar. A diferencia de la fuerza o el campo eléctrico, el potencial no tiene dirección ni sentido, solo magnitud y signo, por lo que se suman como números ordinarios.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_008",
+      "pregunta": "Si un campo eléctrico uniforme tiene líneas de campo que son horizontales, ¿cómo estarán orientadas sus superficies equipotenciales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Serán planos horizontales.",
+        "B": "Serán planos verticales.",
+        "C": "Serán esferas concéntricas.",
+        "D": "Serán cilindros horizontales.",
+        "E": "También serán líneas horizontales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las superficies equipotenciales son siempre perpendiculares a las líneas de campo eléctrico. Si las líneas de campo son horizontales, las superficies que son perpendiculares a ellas deben ser planos verticales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_009",
+      "pregunta": "El hecho de que la energía potencial eléctrica $U$ de una carga de prueba $q_0$ no cambie al moverse sobre una superficie equipotencial es una consecuencia directa de que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El campo eléctrico es cero sobre la superficie.",
+        "B": "La carga de prueba $q_0$ es neutra.",
+        "C": "El potencial eléctrico $V$ es constante sobre la superficie.",
+        "D": "La trayectoria seguida es siempre una línea recta.",
+        "E": "La fuerza eléctrica es siempre nula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial eléctrica se relaciona con el potencial mediante la ecuación $$U = q_0V$$. Si una carga $q_0$ se mueve sobre una superficie donde el potencial $V$ tiene el mismo valor en todos los puntos (es decir, es constante), entonces el producto $q_0V$ también será constante, lo que significa que la energía potencial $U$ no cambia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_010",
+      "pregunta": "Al calcular el potencial total en un punto mediante $$V_A = \\sum V_i$$, se realiza una suma escalar. ¿Qué distingue a este método del cálculo del campo eléctrico total, $\\vec{E}_{total}$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El campo eléctrico no se puede sumar.",
+        "B": "El campo eléctrico se calcula con una resta en lugar de una suma.",
+        "C": "El potencial es una magnitud vectorial y el campo una escalar.",
+        "D": "El campo eléctrico es un vector y requiere una suma vectorial, considerando direcciones.",
+        "E": "El cálculo del potencial no considera la distancia a las cargas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La diferencia fundamental radica en la naturaleza de las magnitudes. El potencial eléctrico es un escalar, por lo que su valor total se obtiene con una simple suma algebraica. En cambio, el campo eléctrico es un vector, que posee magnitud y dirección. Para encontrar el campo eléctrico total, se debe realizar una suma vectorial, que es más compleja porque involucra la descomposición y suma de componentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_011",
+      "pregunta": "La expresión \"suma algebraica\" para calcular el potencial total, $$V_A = V_1 + V_2 + V_3 + ...$$, enfatiza la importancia de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Utilizar únicamente los valores absolutos de los potenciales.",
+        "B": "Sumar los potenciales como si fueran vectores en el plano cartesiano.",
+        "C": "Considerar el signo (positivo o negativo) de cada potencial individual.",
+        "D": "Ordenar los potenciales de mayor a menor antes de sumarlos.",
+        "E": "Elevar al cuadrado cada potencial antes de la suma."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término \"suma algebraica\" se refiere a una suma que respeta los signos de los números. En el contexto del potencial eléctrico, las cargas positivas crean potenciales positivos, y las cargas negativas crean potenciales negativos. Por lo tanto, al sumar los potenciales, es crucial incluir sus respectivos signos para obtener el resultado correcto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_012",
+      "pregunta": "Si sabemos que el potencial eléctrico en el punto A, $V_A$, es igual al potencial en el punto B, $V_B$, ¿qué podemos asegurar acerca del desplazamiento de una carga entre A y B?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga seguirá una trayectoria recta de A a B.",
+        "B": "El campo eléctrico es nulo entre A y B.",
+        "C": "Los puntos A y B pertenecen a la misma superficie equipotencial.",
+        "D": "Los puntos A y B están a la misma distancia de todas las cargas fuente.",
+        "E": "No se puede mover una carga entre A y B."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si dos puntos distintos, A y B, tienen el mismo potencial eléctrico ($$V_A = V_B$$), por definición ambos forman parte de la misma superficie equipotencial. Esto no implica que el campo sea nulo ni que la distancia a las cargas fuente sea la misma (a menos que haya una sola carga fuente).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_013",
+      "pregunta": "Considerando que la energía potencial $U$ de una carga $q_0$ es constante sobre una superficie equipotencial, ¿qué se puede deducir sobre el trabajo $W$ realizado por el campo eléctrico al mover la carga $q_0$ entre dos puntos cualesquiera de dicha superficie?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El trabajo es siempre positivo.",
+        "B": "El trabajo es siempre negativo.",
+        "C": "El trabajo es nulo.",
+        "D": "El trabajo depende de la magnitud de la carga $q_0$.",
+        "E": "El trabajo depende de la distancia recorrida."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo realizado por el campo eléctrico ($W_{campo}$) es igual al negativo del cambio en la energía potencial eléctrica ($$-\\Delta U$$). Al moverse sobre una superficie equipotencial, la energía potencial $U$ es constante, por lo que el cambio en la energía potencial, $$\\Delta U = U_{final} - U_{inicial}$$, es cero. En consecuencia, el trabajo realizado por el campo eléctrico también es cero ($$W_{campo} = -0 = 0$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_014",
+      "pregunta": "Un campo eléctrico uniforme se dirige a lo largo del eje $x$ positivo. ¿Cuál de los siguientes pares de puntos se encuentran en la misma superficie equipotencial?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un punto en (0, 0) y un punto en (5, 0).",
+        "B": "Un punto en (2, 1) y un punto en (2, 4).",
+        "C": "Un punto en (1, 3) y un punto en (4, 3).",
+        "D": "Un punto en (0, 0) y un punto en (3, 3).",
+        "E": "Un punto en (1, 2) y un punto en (3, 4)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un campo eléctrico uniforme, las superficies equipotenciales son planos perpendiculares a las líneas de campo. Si el campo se dirige a lo largo del eje $x$, las líneas de campo son horizontales. Los planos perpendiculares a estas líneas son planos verticales, definidos por un valor constante de $x$. El par de puntos en (2, 1) y (2, 4) comparten la misma coordenada $x=2$, por lo que ambos se encuentran en el mismo plano vertical y, por lo tanto, en la misma superficie equipotencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_110_015",
+      "pregunta": "En un punto P del espacio, el potencial eléctrico total debido a una carga positiva $Q_1$ y una carga negativa $Q_2$ se calcula como $$V_P = V_1 + V_2$$. Si el resultado es $$V_P = 0$$, ¿cuál es la interpretación correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El campo eléctrico en el punto P debe ser cero.",
+        "B": "Las magnitudes de las cargas, $|Q_1|$ y $|Q_2|$, deben ser iguales.",
+        "C": "El punto P debe estar infinitamente lejos de ambas cargas.",
+        "D": "El punto P se encuentra sobre una superficie equipotencial cuyo valor es 0 Volts.",
+        "E": "Las cargas $Q_1$ y $Q_2$ se han anulado entre sí."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Que el potencial en un punto sea cero significa que la suma algebraica de los potenciales positivos y negativos en ese punto se anula. Este punto, junto con todos los demás puntos donde el potencial también es cero, forma una superficie equipotencial de valor $V=0$. Esto no implica que el campo eléctrico sea cero en ese punto; de hecho, generalmente no lo es. Tampoco requiere que las cargas sean iguales, solo que la combinación de sus magnitudes y distancias al punto P resulte en potenciales de igual magnitud y signo opuesto.",
+      "imagen": null
+    }
+  ]
+}

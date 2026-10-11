@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_044_001",
-      "pregunta": "¿Qué representa fundamentalmente el número atómico, simbolizado como $Z$?",
+      "pregunta": "¿Qué partícula subatómica define la identidad química de un átomo?",
       "dificultad": 1,
       "opciones": {
-        "A": "El número total de neutrones y protones en el núcleo.",
-        "B": "El número de protones en el núcleo de un átomo.",
-        "C": "El número de neutrones en el núcleo de un átomo.",
-        "D": "La masa total del átomo expresada en unidades de masa atómica.",
-        "E": "El número de electrones en cualquier ion de un elemento."
+        "A": "El neutrón",
+        "B": "El electrón",
+        "C": "El protón",
+        "D": "El núclido",
+        "E": "La partícula alfa"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El número atómico ($Z$) se define como el número de protones que se encuentran en el núcleo de un átomo. Este valor es único para cada elemento químico y determina su identidad. La opción A corresponde al número de masa ($A$), la C al número de neutrones ($n^\\circ$), y la E es incorrecta porque el número de electrones puede variar en los iones.",
+      "respuesta_correcta": "C",
+      "explicacion": "La identidad química de un átomo está determinada exclusivamente por el número de protones en su núcleo. Este número es conocido como el número atómico ($Z$). Cambiar el número de protones cambia el elemento.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_002",
-      "pregunta": "¿Qué partícula subatómica, descubierta por James Chadwick, es eléctricamente neutra?",
+      "pregunta": "¿Cuál es la definición del número de masa, representado por el símbolo $A$?",
       "dificultad": 1,
       "opciones": {
-        "A": "Protón",
-        "B": "Electrón",
-        "C": "Núclido",
-        "D": "Partícula alfa",
-        "E": "Neutrón"
+        "A": "El número total de electrones y protones en un átomo.",
+        "B": "El número total de neutrones y protones en el núcleo.",
+        "C": "El número total de partículas subatómicas en un átomo.",
+        "D": "Únicamente el número de protones en el núcleo.",
+        "E": "La masa del átomo expresada en gramos."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "James Chadwick descubrió en 1932 una partícula subatómica que no poseía carga eléctrica, por lo que la llamó neutrón. Los protones tienen carga positiva y los electrones tienen carga negativa. Un núclido es un núcleo completo, no una partícula individual, y las partículas alfa son núcleos de helio con carga positiva.",
+      "respuesta_correcta": "B",
+      "explicacion": "El número de masa ($A$) representa el recuento total de partículas en el núcleo de un átomo, es decir, la suma del número de protones ($Z$) y el número de neutrones ($n°$). No incluye a los electrones, que se encuentran fuera del núcleo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_003",
-      "pregunta": "¿Cómo se define el número de masa, representado por el símbolo $A$?",
+      "pregunta": "En el símbolo de un núclido, ${^A_Z E}$, ¿qué representa el subíndice a la izquierda ($Z$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "El número total de protones en el núcleo.",
-        "B": "El número total de electrones en un átomo neutro.",
-        "C": "El número total de neutrones en el núcleo.",
-        "D": "El número total de protones y neutrones presentes en el núcleo.",
-        "E": "La diferencia entre el número de protones y neutrones."
+        "A": "El número de masa",
+        "B": "El número de neutrones",
+        "C": "La carga del ión",
+        "D": "El número atómico",
+        "E": "El símbolo del elemento"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El número de masa ($A$) representa el recuento total de las partículas pesadas (protones y neutrones) que se encuentran en el núcleo de un átomo. Se calcula mediante la fórmula $$A = Z + n^\\circ$$, donde $Z$ es el número de protones y $n^\\circ$ el de neutrones.",
+      "explicacion": "En la notación estándar para un núclido ${^A_Z E}$, el subíndice $Z$ representa el número atómico (número de protones), el superíndice $A$ representa el número de masa (protones + neutrones), y $E$ es el símbolo del elemento químico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_004",
-      "pregunta": "¿Cuál es la característica principal que define a los isótopos?",
+      "pregunta": "¿Qué científico descubrió el neutrón en 1932 al bombardear berilio con partículas alfa?",
       "dificultad": 1,
       "opciones": {
-        "A": "Son átomos con el mismo número de masa pero diferente número atómico.",
-        "B": "Son átomos con el mismo número de neutrones pero diferente número de protones.",
-        "C": "Son átomos con números atómicos idénticos pero números de masa diferentes.",
-        "D": "Son átomos de diferentes elementos con idénticas propiedades físicas.",
-        "E": "Son átomos que siempre tienen el mismo número de protones y neutrones."
+        "A": "Ernest Rutherford",
+        "B": "Niels Bohr",
+        "C": "John Dalton",
+        "D": "J.J. Thomson",
+        "E": "James Chadwick"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los isótopos son, por definición, átomos del mismo elemento, lo que significa que tienen el mismo número de protones (número atómico $Z$ idéntico). Sin embargo, difieren en el número de neutrones, lo que resulta en un número de masa ($A$) diferente. La opción B describe a los isótonos.",
+      "respuesta_correcta": "E",
+      "explicacion": "James Chadwick realizó un experimento en 1932 en el que bombardeó una lámina de berilio con partículas alfa. Esto produjo una radiación de alta energía compuesta por partículas eléctricamente neutras, a las que llamó neutrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_005",
-      "pregunta": "¿Cómo se define un núclido?",
+      "pregunta": "¿Qué característica principal tienen los isótopos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un átomo con un número específico de electrones.",
-        "B": "La suma total de protones y electrones en un átomo.",
-        "C": "Un núcleo con un número específico de protones y neutrones.",
-        "D": "Cualquier partícula subatómica que se encuentra en el núcleo.",
-        "E": "Un sinónimo para referirse a cualquier átomo de un elemento."
+        "A": "Tienen el mismo número de masa pero diferente número atómico.",
+        "B": "Tienen el mismo número atómico pero diferente número de masa.",
+        "C": "Tienen el mismo número de neutrones.",
+        "D": "Son átomos de elementos diferentes.",
+        "E": "Tienen propiedades químicas muy diferentes."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un núclido es un término específico que se utiliza para describir un núcleo atómico caracterizado por un número definido de protones ($Z$) y neutrones ($n^\\circ$). No se refiere a los electrones ni a partículas individuales, sino a la composición completa del núcleo.",
+      "respuesta_correcta": "B",
+      "explicacion": "Los isótopos son átomos del mismo elemento, lo que significa que tienen el mismo número atómico (igual número de protones), pero difieren en su número de masa debido a que tienen un número diferente de neutrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_006",
-      "pregunta": "Además de indicar el número de protones, ¿qué información fundamental determina la identidad química de un átomo?",
+      "pregunta": "En un átomo eléctricamente neutro, el número atómico ($Z$) no solo indica el número de protones, sino también el número de:",
       "dificultad": 2,
       "opciones": {
-        "A": "El número de masa ($A$).",
-        "B": "El número de neutrones ($n^\\circ$).",
-        "C": "El número atómico ($Z$).",
-        "D": "La suma de electrones y neutrones.",
-        "E": "La estabilidad de su núcleo."
+        "A": "Neutrones",
+        "B": "Núclidos",
+        "C": "Electrones",
+        "D": "Isótopos",
+        "E": "Partículas alfa"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El número atómico ($Z$), que es el número de protones, es la característica que define a un elemento químico. Todos los átomos con el mismo $Z$ pertenecen al mismo elemento y, por lo tanto, comparten la misma identidad y propiedades químicas. El número de masa o de neutrones puede variar (isótopos) sin cambiar la identidad química.",
+      "explicacion": "Para que un átomo sea eléctricamente neutro, la carga positiva total del núcleo (dada por los protones) debe ser equilibrada por una carga negativa igual. Como cada protón tiene una carga de +1 y cada electrón tiene una carga de -1, el número de electrones debe ser igual al número de protones ($Z$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_007",
-      "pregunta": "En un átomo que es eléctricamente neutro, el número atómico ($Z$) es igual al número de protones y también es igual al número de:",
+      "pregunta": "¿Cuál de las siguientes fórmulas matemáticas relaciona correctamente el número de masa ($A$), el número atómico ($Z$) y el número de neutrones ($n°$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "neutrones.",
-        "B": "núclidos.",
-        "C": "electrones.",
-        "D": "isótopos.",
-        "E": "partículas en el núcleo."
+        "A": "$$A = Z - n°$$",
+        "B": "$$Z = A + n°$$",
+        "C": "$$n° = A + Z$$",
+        "D": "$$A = Z + n°$$",
+        "E": "$$Z = n° - A$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Para que un átomo sea eléctricamente neutro, la carga positiva total del núcleo (dada por los protones) debe ser cancelada por una carga negativa igual. Como los electrones tienen carga negativa, su número debe ser igual al número de protones ($Z$) para alcanzar la neutralidad eléctrica.",
+      "respuesta_correcta": "D",
+      "explicacion": "El número de masa ($A$) se define como el número total de protones ($Z$) y neutrones ($n°$) en el núcleo de un átomo. Por lo tanto, la fórmula correcta que expresa esta relación es $A = Z + n°$. Las otras opciones representan relaciones incorrectas entre estas tres cantidades.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_008",
-      "pregunta": "¿Cuál de las siguientes expresiones matemáticas representa correctamente la relación entre el número de masa ($A$), el número atómico ($Z$) y el número de neutrones ($n^\\circ$)?",
+      "pregunta": "¿Qué característica define a los núclidos que son isótonos?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$A = Z - n^\\circ$$",
-        "B": "$$n^\\circ = A + Z$$",
-        "C": "$$Z = A + n^\\circ$$",
-        "D": "$$A = Z + n^\\circ$$",
-        "E": "$$A = n^\\circ - Z$$"
+        "A": "Son átomos del mismo elemento con diferente masa.",
+        "B": "Tienen el mismo número de protones y neutrones.",
+        "C": "Tienen propiedades químicas similares.",
+        "D": "Son átomos de elementos diferentes con el mismo número de neutrones.",
+        "E": "Tienen el mismo número de masa pero diferente número de protones."
       },
       "respuesta_correcta": "D",
-      "explicacion": "El número de masa ($A$) es el número total de partículas en el núcleo. Se define como la suma del número de protones ($Z$) y el número de neutrones ($n^\\circ$). Por lo tanto, la fórmula correcta es $$A = Z + n^\\circ$$. Las otras opciones representan relaciones algebraicas incorrectas entre estas cantidades.",
+      "explicacion": "Los isótonos son átomos de elementos químicos diferentes (diferente $Z$) y con diferente número de masa ($A$), pero que comparten la característica de tener el mismo número de neutrones en sus núcleos. Debido a que son elementos diferentes, sus propiedades químicas y físicas difieren.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_009",
-      "pregunta": "¿Qué tienen en común dos núclidos que son isótonos?",
+      "pregunta": "¿Qué discrepancia experimental llevó a la propuesta de la existencia de una tercera partícula subatómica neutra en el núcleo?",
       "dificultad": 2,
       "opciones": {
-        "A": "El mismo número de protones.",
-        "B": "El mismo número de masa.",
-        "C": "Pertenecen al mismo elemento químico.",
-        "D": "El mismo número de neutrones.",
-        "E": "Las mismas propiedades químicas."
+        "A": "La desviación de las partículas alfa en la lámina de oro.",
+        "B": "La relación de masa entre helio e hidrógeno era de 4 a 1 en lugar de 2 a 1.",
+        "C": "La emisión de electrones desde un cátodo en un tubo de vacío.",
+        "D": "La similitud en las propiedades químicas de los isótopos.",
+        "E": "El descubrimiento de la radiactividad por Becquerel."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Los isótonos son átomos de elementos diferentes (diferente $Z$) que también tienen un número de masa ($A$) diferente. La única característica que comparten es tener el mismo número de neutrones en sus núcleos. Debido a su diferente número de protones, sus propiedades químicas y físicas difieren.",
+      "respuesta_correcta": "B",
+      "explicacion": "El hidrógeno tiene 1 protón y el helio tiene 2 protones. Se esperaba que la relación de sus masas atómicas fuera de 2 a 1. Sin embargo, experimentalmente se observó que la relación era de 4 a 1. Esta diferencia de masa no se podía explicar solo con protones y electrones, lo que llevó a postular la existencia de una partícula neutra (el neutrón) que aportara masa sin añadir carga.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_010",
-      "pregunta": "En la notación estándar de un núclido, $$_Z^A E$$, ¿qué representan los símbolos $A$ y $Z$?",
+      "pregunta": "De acuerdo con sus definiciones, ¿qué se puede afirmar sobre las propiedades de los isótopos e isótonos?",
       "dificultad": 2,
       "opciones": {
-        "A": "$A$ es el número de neutrones y $Z$ es el número de protones.",
-        "B": "$A$ es el número de masa y $Z$ es el número atómico.",
-        "C": "$A$ es el número atómico y $Z$ es el número de masa.",
-        "D": "$A$ es la carga del ion y $Z$ es el número de neutrones.",
-        "E": "$A$ es el número de protones y $Z$ es el número de neutrones."
+        "A": "Ambos tienen propiedades químicas similares.",
+        "B": "Los isótopos tienen propiedades químicas similares, mientras que los isótonos las tienen diferentes.",
+        "C": "Ambos tienen propiedades físicas idénticas.",
+        "D": "Los isótonos tienen propiedades químicas similares, mientras que los isótopos las tienen diferentes.",
+        "E": "Ambos tienen propiedades químicas y físicas diferentes."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Por convención en la notación de núclidos, el símbolo $E$ representa al elemento. El superíndice a la izquierda ($A$) es el número de masa (total de protones y neutrones), y el subíndice a la izquierda ($Z$) es el número atómico (número de protones).",
+      "explicacion": "Los isótopos son átomos del mismo elemento (mismo $Z$), por lo que comparten una configuración electrónica similar y, en consecuencia, propiedades químicas muy parecidas, aunque sus propiedades físicas (como la densidad o la masa) difieren. Los isótonos son átomos de elementos diferentes (distinto $Z$), lo que implica que tienen propiedades químicas y físicas distintas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_011",
-      "pregunta": "Los isótopos de un elemento, como el uranio-235 y el uranio-238, presentan propiedades químicas similares pero propiedades físicas diferentes. ¿A qué se debe la diferencia en sus propiedades físicas?",
+      "pregunta": "Un isótopo se nombra con el nombre del elemento seguido de su número de masa, como en \"uranio-235\". ¿Qué información específica proporciona el número 235?",
       "dificultad": 2,
       "opciones": {
-        "A": "A que tienen un número diferente de protones.",
-        "B": "A que tienen un número diferente de electrones.",
-        "C": "A que tienen un número diferente de neutrones y, por tanto, diferente masa.",
-        "D": "A que ocupan diferentes posiciones en la tabla periódica.",
-        "E": "A que reaccionan con diferentes compuestos químicos."
+        "A": "El número atómico ($Z$).",
+        "B": "El número de neutrones ($n°$).",
+        "C": "El número de electrones.",
+        "D": "El número de masa ($A$).",
+        "E": "La carga del átomo."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los isótopos tienen el mismo número de protones, lo que les confiere propiedades químicas similares. Sin embargo, difieren en el número de neutrones, lo que afecta directamente a su número de masa ($A$). Esta diferencia de masa es una propiedad física que influye en otras, como la densidad o la velocidad de difusión.",
+      "respuesta_correcta": "D",
+      "explicacion": "La convención para nombrar isótopos consiste en usar el nombre del elemento seguido por un guion y su número de masa ($A$). Por lo tanto, en \"uranio-235\", el número 235 corresponde al número de masa, que es la suma de protones y neutrones en el núcleo de ese isótopo específico de uranio.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_012",
-      "pregunta": "¿Cuál fue la discrepancia observada entre el helio y el hidrógeno que llevó a proponer la existencia de una partícula neutra en el núcleo?",
+      "pregunta": "La partícula del neutrón se caracteriza por tener:",
       "dificultad": 2,
       "opciones": {
-        "A": "La relación de su carga eléctrica era de 4 a 1.",
-        "B": "La relación de su masa atómica era de 4 a 1 en lugar de la esperada 2 a 1.",
-        "C": "El helio era cuatro veces más reactivo que el hidrógeno.",
-        "D": "El núcleo del helio era estable mientras que el del hidrógeno no.",
-        "E": "La relación de su radio atómico era de 2 a 1."
+        "A": "Carga positiva y una masa similar a la del electrón.",
+        "B": "Carga negativa y una masa mayor que la del protón.",
+        "C": "Carga neutra y una masa ligeramente mayor que la del protón.",
+        "D": "Carga positiva y una masa idéntica a la del protón.",
+        "E": "Carga neutra y una masa mucho menor que la del protón."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Si los núcleos solo contuvieran protones, el helio (2 protones) debería tener el doble de masa que el hidrógeno (1 protón). Sin embargo, se observó que la masa del helio era aproximadamente cuatro veces la del hidrógeno. Esta diferencia de masa solo pudo explicarse postulando la existencia de partículas neutras (neutrones) que aportaban masa sin alterar la carga.",
+      "respuesta_correcta": "C",
+      "explicacion": "El neutrón, como su nombre lo indica, es una partícula subatómica eléctricamente neutra. Su masa es muy similar a la del protón, pero ligeramente superior. Estas características son fundamentales para su función en el núcleo atómico, aportando masa sin alterar la carga eléctrica.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_013",
-      "pregunta": "Un átomo de un elemento tiene un número atómico ($Z$) de 26 y un número de masa ($A$) de 56. ¿Cuántos neutrones contiene su núcleo?",
+      "pregunta": "Un átomo de cloro tiene un número de masa $A=35$ y un número atómico $Z=17$. ¿Cuántos neutrones contiene su núcleo?",
       "dificultad": 3,
       "opciones": {
-        "A": "26",
-        "B": "56",
-        "C": "82",
-        "D": "30",
-        "E": "No se puede determinar sin más datos."
+        "A": "17",
+        "B": "18",
+        "C": "35",
+        "D": "52",
+        "E": "34"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La relación entre número de masa ($A$), número atómico ($Z$) y número de neutrones ($n^\\circ$) es $$A = Z + n^\\circ$$. Para hallar el número de neutrones, despejamos la fórmula: $$n^\\circ = A - Z$$. Sustituyendo los valores dados, obtenemos: $$n^\\circ = 56 - 26 = 30$$. Por lo tanto, el núcleo de este átomo contiene 30 neutrones.",
+      "respuesta_correcta": "B",
+      "explicacion": "El número de neutrones ($n°$) se puede calcular utilizando la fórmula $A = Z + n°$. Despejando para $n°$, obtenemos $n° = A - Z$. Sustituyendo los valores dados: $n° = 35 - 17 = 18$. Por lo tanto, el núcleo de este átomo de cloro contiene 18 neutrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_014",
-      "pregunta": "El núclido A tiene 15 protones y 16 neutrones. El núclido B tiene 16 protones y pertenece a un elemento diferente. Si los núclidos A y B son isótonos, ¿cuál es el número de masa del núclido B?",
+      "pregunta": "¿Cuál de los siguientes pares de núclidos representa un par de isótopos?",
       "dificultad": 3,
       "opciones": {
-        "A": "15",
-        "B": "16",
-        "C": "31",
-        "D": "30",
-        "E": "32"
+        "A": "$${^{14}_{6}C}$$ y $${^{14}_{7}N}$$",
+        "B": "$${^{39}_{19}K}$$ y $${^{40}_{20}Ca}$$",
+        "C": "$${^{16}_{8}O}$$ y $${^{32}_{16}S}$$",
+        "D": "$${^{235}_{92}U}$$ y $${^{238}_{92}U}$$",
+        "E": "$${^{1}_{1}H}$$ y $${^{4}_{2}He}$$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Primero, se identifica el número de neutrones del núclido A, que es 16. Los isótonos son núclidos con el mismo número de neutrones. Por lo tanto, el núclido B también debe tener 16 neutrones. El número de masa ($A$) se calcula como la suma de protones y neutrones. Para el núclido B, que tiene 16 protones, el cálculo es: $$A_B = Z_B + n^\\circ_B = 16 + 16 = 32$$. El número de masa del núclido B es 32.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los isótopos son átomos del mismo elemento, lo que significa que deben tener el mismo número atómico ($Z$, el subíndice) pero diferente número de masa ($A$, el superíndice). El par $${^{235}_{92}U}$$ y $${^{238}_{92}U}$$ cumple esta condición: ambos tienen $Z=92$ (son uranio), pero tienen diferentes números de masa (235 y 238), lo que indica un número diferente de neutrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_044_015",
-      "pregunta": "Un isótopo de un elemento se representa como uranio-235. ¿Qué significa el número 235 en esta nomenclatura?",
+      "pregunta": "Considere los núclidos $${^{13}_{6}C}$$ y $${^{14}_{7}N}$$. ¿Qué relación existe entre ellos?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es el número atómico ($Z$) del uranio.",
-        "B": "Es el número de neutrones ($n^\\circ$) en este isótopo específico.",
-        "C": "Es el número de electrones en el átomo neutro.",
-        "D": "Es el número de masa ($A$) de este isótopo específico.",
-        "E": "Es el número de protones más el número de electrones."
+        "A": "Son isótopos",
+        "B": "Son isóbaros (mismo número de masa)",
+        "C": "Son isótonos",
+        "D": "Son el mismo elemento",
+        "E": "Son isoelectrónicos (mismo número de electrones)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "En la nomenclatura de isótopos que utiliza el nombre del elemento seguido de un número (ej. uranio-235, carbono-14), el número siempre representa el número de masa ($A$) de ese isótopo en particular. El número atómico ($Z$) del uranio es siempre 92, por lo que este isótopo tiene $$235 - 92 = 143$$ neutrones, pero el 235 se refiere directamente a la suma de protones y neutrones.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para determinar la relación, debemos calcular el número de neutrones ($n°$) para cada núclido usando la fórmula $n° = A - Z$. Para $${^{13}_{6}C}$$: $n° = 13 - 6 = 7$. Para $${^{14}_{7}N}$$: $n° = 14 - 7 = 7$. Como ambos núclidos tienen el mismo número de neutrones (7) pero diferente número atómico ($Z=6$ y $Z=7$), son isótonos.",
       "imagen": null
     }
   ]

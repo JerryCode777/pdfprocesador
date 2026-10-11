@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 114,
+  "total_temas": 137,
+  "titulo_tema": "Energía almacenada en un capacitor",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_114_001",
+      "pregunta": "¿Cómo se relaciona el voltaje a través de varios capacitores conectados en paralelo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El voltaje total es la suma de los voltajes individuales",
+        "B": "El voltaje es el mismo en todos los capacitores",
+        "C": "El voltaje es inversamente proporcional a la capacitancia de cada uno",
+        "D": "El voltaje total es el promedio de los voltajes individuales",
+        "E": "El voltaje se divide equitativamente entre los capacitores"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una configuración en paralelo, todos los componentes están conectados a los mismos dos puntos del circuito. Por lo tanto, la diferencia de potencial o voltaje es idéntica para cada capacitor en la combinación. La relación se expresa como $$V = V_1 = V_2 = V_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_002",
+      "pregunta": "¿Cuál es la fórmula para calcular la capacitancia equivalente ($$C$$) de tres capacitores ($$C_1, C_2, C_3$$) conectados en paralelo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$C = \\frac{1}{C_1} + \\frac{1}{C_2} + \\frac{1}{C_3}$$",
+        "B": "$$C = C_1 + C_2 + C_3$$",
+        "C": "$$C = (C_1 \\cdot C_2 \\cdot C_3)^{\\frac{1}{3}}$$",
+        "D": "$$C = \\frac{C_1 + C_2 + C_3}{3}$$",
+        "E": "$$\\frac{1}{C} = C_1 + C_2 + C_3$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para capacitores en paralelo, la capacitancia equivalente es la suma directa de las capacitancias individuales. Esto se debe a que conectar capacitores en paralelo es análogo a aumentar el área de las placas, lo que incrementa la capacidad total de almacenamiento de carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_003",
+      "pregunta": "La energía potencial eléctrica almacenada en un capacitor cargado es exactamente igual a:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La capacitancia total del circuito",
+        "B": "El campo eléctrico generado entre sus placas",
+        "C": "La cantidad de trabajo requerido para cargarlo",
+        "D": "La carga total dividida por el voltaje",
+        "E": "La resistencia del material dieléctrico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición fundamental de la energía almacenada en un capacitor es que corresponde al trabajo realizado para mover las cargas desde una placa a la otra en contra del campo eléctrico que se va creando. Este trabajo se acumula como energía potencial eléctrica en el capacitor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_004",
+      "pregunta": "¿Cuál de las siguientes expresiones representa la energía potencial ($$U$$) almacenada en un capacitor en función de su carga ($$Q$$) y voltaje ($$V$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$U = Q \\cdot V$$",
+        "B": "$$U = \\frac{Q^2}{2C}$$",
+        "C": "$$U = \\frac{C \\cdot V^2}{2}$$",
+        "D": "$$U = \\frac{Q \\cdot V}{2}$$",
+        "E": "$$U = 2 \\cdot Q \\cdot V$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una de las tres fórmulas fundamentales para la energía potencial eléctrica almacenada en un capacitor relaciona directamente la carga ($$Q$$) y el voltaje ($$V$$). La fórmula correcta es $$U = \\frac{Q \\cdot V}{2}$$. Las opciones B y C son también fórmulas correctas para la energía, pero en términos de otras variables (carga y capacitancia, y capacitancia y voltaje, respectivamente).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_005",
+      "pregunta": "¿Cómo se determina la carga total ($$q$$) en un arreglo de tres capacitores en paralelo con cargas individuales $$q_1, q_2, q_3$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$q = q_1 = q_2 = q_3$$",
+        "B": "$$q = q_1 + q_2 + q_3$$",
+        "C": "$$q = \\frac{q_1 + q_2 + q_3}{3}$$",
+        "D": "$$\\frac{1}{q} = \\frac{1}{q_1} + \\frac{1}{q_2} + \\frac{1}{q_3}$$",
+        "E": "$$q = (q_1 \\cdot q_2 \\cdot q_3)^{\\frac{1}{3}}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una conexión en paralelo, la carga total suministrada por la fuente se distribuye entre los diferentes capacitores. Por lo tanto, la carga total del sistema es la suma de las cargas almacenadas en cada capacitor individual: $$q = q_1 + q_2 + q_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_006",
+      "pregunta": "En una configuración de capacitores de diferentes capacitancias conectados en paralelo, ¿qué afirmación es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El voltaje es diferente en cada capacitor, pero la carga es la misma.",
+        "B": "Tanto el voltaje como la carga son iguales en todos los capacitores.",
+        "C": "El voltaje es el mismo en cada capacitor, pero las cargas individuales no son iguales.",
+        "D": "La suma de los voltajes es igual al voltaje total y la carga es la misma en todos.",
+        "E": "Tanto el voltaje como la carga son diferentes en cada capacitor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La característica principal de una conexión en paralelo es que el voltaje ($$V$$) es constante en todos los componentes. Sin embargo, dado que la carga ($$q$$) en un capacitor depende de su capacitancia ($$C$$) a través de la relación $$q=CV$$, si las capacitancias son diferentes, las cargas almacenadas en cada uno también serán diferentes. La carga total es la suma de las cargas individuales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_007",
+      "pregunta": "La energía almacenada en un capacitor guarda relación con un fenómeno físico específico que ocurre entre sus placas. ¿Cuál es este fenómeno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La corriente eléctrica que fluye a través del dieléctrico",
+        "B": "El campo magnético generado por las cargas",
+        "C": "La resistencia interna del material de las placas",
+        "D": "El campo eléctrico que se genera entre sus placas",
+        "E": "La temperatura de las placas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo realizado para cargar un capacitor consiste en separar cargas positivas y negativas, creando una diferencia de potencial y, consecuentemente, un campo eléctrico en el espacio entre las placas. La energía no se almacena en las placas mismas, sino en este campo eléctrico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_008",
+      "pregunta": "Si solo se conocen la capacitancia ($$C$$) y el voltaje ($$V$$) de un capacitor, ¿cuál es la fórmula más directa para calcular la energía almacenada ($$U$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$U = \\frac{Q \\cdot V}{2}$$",
+        "B": "$$U = \\frac{Q^2}{2C}$$",
+        "C": "$$U = \\frac{C \\cdot V^2}{2}$$",
+        "D": "$$U = C \\cdot V$$",
+        "E": "$$U = \\frac{V^2}{2C}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Existen tres fórmulas equivalentes para la energía almacenada. La expresión $$U = \\frac{C \\cdot V^2}{2}$$ es la más adecuada cuando los datos conocidos son la capacitancia ($$C$$) y el voltaje ($$V$$), ya que permite el cálculo directo sin necesidad de encontrar primero la carga ($$Q$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_009",
+      "pregunta": "¿Cuál de las siguientes ecuaciones NO es una expresión válida para la energía potencial eléctrica ($$U$$) almacenada en un capacitor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$U = \\frac{Q^2}{2C}$$",
+        "B": "$$U = \\frac{C \\cdot V}{2}$$",
+        "C": "$$U = \\frac{C \\cdot V^2}{2}$$",
+        "D": "$$U = \\frac{Q \\cdot V}{2}$$",
+        "E": "Todas las opciones A, C y D son expresiones válidas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las tres expresiones correctas y equivalentes para la energía almacenada en un capacitor son: $$U = \\frac{Q^2}{2C}$$, $$U = \\frac{C \\cdot V^2}{2}$$ y $$U = \\frac{Q \\cdot V}{2}$$. La opción $$U = \\frac{C \\cdot V}{2}$$ es incorrecta, ya que le falta el cuadrado en el voltaje para ser dimensionalmente consistente con la energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_010",
+      "pregunta": "Si se añade un capacitor adicional en paralelo a un circuito que ya contiene otros capacitores en paralelo, ¿qué le sucede a la capacitancia equivalente total?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye",
+        "B": "Aumenta",
+        "C": "Permanece igual",
+        "D": "Se vuelve cero",
+        "E": "Depende del voltaje aplicado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula para la capacitancia equivalente en paralelo es $$C = C_1 + C_2 + C_3 + \\dots$$. Al añadir un nuevo capacitor, simplemente se suma su capacitancia a la suma existente. Como la capacitancia es siempre un valor positivo, la suma total siempre aumentará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_011",
+      "pregunta": "Tres capacitores con capacitancias $$C_1 > C_2 > C_3$$ se conectan en paralelo a una fuente de voltaje $$V$$. ¿Cuál es la relación entre las cargas $$q_1, q_2, q_3$$ almacenadas en cada uno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$q_1 = q_2 = q_3$$",
+        "B": "$$q_1 < q_2 < q_3$$",
+        "C": "$$q_1 > q_2 > q_3$$",
+        "D": "La relación es indeterminada sin conocer $$V$$",
+        "E": "$$q_1 + q_2 + q_3 = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una conexión en paralelo, el voltaje $$V$$ es el mismo para todos los capacitores. La carga en cada capacitor se calcula con $$q = CV$$. Como $$V$$ es constante, la carga $$q$$ es directamente proporcional a la capacitancia $$C$$. Por lo tanto, el capacitor con mayor capacitancia ($$C_1$$) almacenará la mayor carga ($$q_1$$), y así sucesivamente. Esto resulta en la relación $$q_1 > q_2 > q_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_012",
+      "pregunta": "Si un capacitor almacena una energía $$U$$ cuando tiene una carga $$Q$$ y una capacitancia $$C$$, ¿qué fórmula describe esta relación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$U = \\frac{Q}{2C}$$",
+        "B": "$$U = \\frac{Q^2}{2C}$$",
+        "C": "$$U = \\frac{2C}{Q^2}$$",
+        "D": "$$U = \\frac{C^2}{2Q}$$",
+        "E": "$$U = Q \\cdot C$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial eléctrica ($$U$$) almacenada en un capacitor se puede expresar en términos de su carga ($$Q$$) y capacitancia ($$C$$). La fórmula correcta que relaciona estas tres cantidades es $$U = \\frac{Q^2}{2C}$$. Esta ecuación muestra que la energía es proporcional al cuadrado de la carga e inversamente proporcional a la capacitancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_013",
+      "pregunta": "Si el voltaje a través de un capacitor se duplica, manteniendo su capacitancia constante, ¿cómo cambia la energía almacenada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se reduce a la mitad",
+        "B": "Permanece igual",
+        "C": "Se duplica",
+        "D": "Se cuadruplica",
+        "E": "Se reduce a un cuarto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía almacenada se puede calcular con la fórmula $$U = \\frac{C \\cdot V^2}{2}$$. Si el voltaje $$V$$ se reemplaza por $$2V$$, la nueva energía $$U'$$ será $$U' = \\frac{C \\cdot (2V)^2}{2} = \\frac{C \\cdot 4V^2}{2} = 4 \\left( \\frac{C \\cdot V^2}{2} \\right) = 4U$$. Por lo tanto, la energía almacenada se cuadruplica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_014",
+      "pregunta": "Manteniendo la capacitancia ($$C$$) constante, si la carga ($$Q$$) almacenada en un capacitor se duplica, ¿qué le sucede a la energía almacenada ($$U$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se reduce a la mitad",
+        "B": "Se duplica",
+        "C": "Permanece constante",
+        "D": "Se cuadruplica",
+        "E": "Se reduce a un cuarto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La relación entre energía ($$U$$), carga ($$Q$$) y capacitancia ($$C$$) está dada por $$U = \\frac{Q^2}{2C}$$. Si la carga $$Q$$ se duplica a $$2Q$$, la nueva energía $$U'$$ será $$U' = \\frac{(2Q)^2}{2C} = \\frac{4Q^2}{2C} = 4 \\left( \\frac{Q^2}{2C} \\right) = 4U$$. La energía almacenada se cuadruplica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_114_015",
+      "pregunta": "Dos capacitores, $$C_1$$ y $$C_2$$, se conectan en paralelo a una fuente de voltaje $$V$$. ¿Cuál es la expresión para la energía total ($$U_{total}$$) almacenada por el sistema?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$U_{total} = \\frac{(C_1 + C_2)V^2}{2}$$",
+        "B": "$$U_{total} = \\frac{C_1 V^2}{2} + \\frac{C_2 V^2}{4}$$",
+        "C": "$$U_{total} = \\frac{(C_1 C_2)V^2}{2(C_1+C_2)}$$",
+        "D": "$$U_{total} = (C_1 + C_2)V$$",
+        "E": "$$U_{total} = \\frac{V^2}{2(C_1+C_2)}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Para calcular la energía total del sistema, primero se debe encontrar la capacitancia equivalente ($$C_{eq}$$) del arreglo. Para capacitores en paralelo, $$C_{eq} = C_1 + C_2$$. Luego, se utiliza la fórmula de la energía $$U = \\frac{C \\cdot V^2}{2}$$ con la capacitancia equivalente. Sustituyendo $$C_{eq}$$, obtenemos $$U_{total} = \\frac{C_{eq} \\cdot V^2}{2} = \\frac{(C_1 + C_2)V^2}{2}$$.",
+      "imagen": null
+    }
+  ]
+}

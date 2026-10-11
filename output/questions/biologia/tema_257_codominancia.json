@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 257,
+  "total_temas": 320,
+  "titulo_tema": "Codominancia",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_257_001",
+      "pregunta": "¿Qué define la codominancia como un patrón de herencia genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un alelo enmascara completamente la expresión del otro.",
+        "B": "Ambos alelos se fusionan para crear un fenotipo intermedio y mezclado.",
+        "C": "Solo se expresan los alelos recesivos en el individuo heterocigoto.",
+        "D": "Ambos alelos son responsables de productos funcionales y se expresan plenamente en el fenotipo.",
+        "E": "La característica es determinada por la influencia de múltiples genes."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La codominancia se caracteriza porque ambos alelos en un individuo heterocigoto son funcionalmente activos y se expresan de manera simultánea y completa, sin mezclarse. Esto significa que el fenotipo del heterocigoto muestra las características de ambos alelos por separado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_002",
+      "pregunta": "En un caso de herencia codominante, ¿cómo se manifiesta el fenotipo de un individuo heterocigoto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Muestra únicamente el fenotipo del alelo dominante.",
+        "B": "Presenta un fenotipo intermedio, resultado de la mezcla de ambos alelos.",
+        "C": "Expresa ambas características de los alelos al mismo tiempo y sin mezclarse.",
+        "D": "No expresa ninguna de las dos características parentales.",
+        "E": "Muestra únicamente el fenotipo del alelo recesivo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La característica distintiva de la codominancia es que en el heterocigoto se observan ambos fenotipos parentales de forma simultánea. Por ejemplo, en el ganado, un individuo con alelos para pelo blanco y pelo negro tendrá manchas de ambos colores, no un color gris mezclado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_003",
+      "pregunta": "¿Cuál es la convención de notación utilizada para representar los alelos en la herencia codominante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una letra mayúscula para el dominante y una minúscula para el recesivo.",
+        "B": "Dos letras minúsculas diferentes.",
+        "C": "Dos letras mayúsculas iguales con una letra mayúscula como superíndice.",
+        "D": "Símbolos numéricos ($$1$$, $$2$$) para cada alelo.",
+        "E": "Una única letra minúscula para ambos alelos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para la herencia codominante, se emplea una notación específica para indicar que ambos alelos son dominantes. Se utiliza una letra base mayúscula para el gen y un superíndice, también en mayúscula, para diferenciar cada alelo. Por ejemplo, $$C^B$$ para el alelo blanco y $$C^N$$ para el alelo negro en el ganado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_004",
+      "pregunta": "¿Qué resultado fenotípico importante tienen en común la codominancia y la dominancia intermedia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La supresión completa de la expresión de un alelo.",
+        "B": "La aparición de únicamente dos fenotipos en la descendencia.",
+        "C": "La obtención de un tercer fenotipo diferente al de los parentales homocigotos.",
+        "D": "El fenotipo del heterocigoto es idéntico a uno de los parentales.",
+        "E": "La herencia sigue las proporciones mendelianas clásicas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto en la codominancia como en la dominancia intermedia, el individuo heterocigoto presenta un fenotipo que es diferente al de los dos parentales homocigotos. Esto resulta en la existencia de tres fenotipos posibles para el rasgo, a diferencia de la dominancia completa donde solo hay dos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_005",
+      "pregunta": "Además del color del pelaje en el ganado, ¿qué otro sistema biológico se menciona como ejemplo de codominancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El color de ojos en humanos.",
+        "B": "La altura de las plantas de guisantes.",
+        "C": "El sistema sanguíneo ABO.",
+        "D": "La forma de las alas en las moscas de la fruta.",
+        "E": "El albinismo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema sanguíneo ABO en humanos es un ejemplo clásico de codominancia (y también de alelos múltiples). Los alelos A y B son codominantes entre sí, lo que significa que una persona con el genotipo AB expresará ambos antígenos, resultando en el tipo de sangre AB.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_006",
+      "pregunta": "En el ejemplo del ganado vacuno, ¿qué genotipo corresponde a un individuo de pelaje completamente negro?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C^B C^B$$",
+        "B": "$$C^B C^N$$",
+        "C": "$$C^N C^N$$",
+        "D": "$$c^n c^n$$",
+        "E": "$$N N$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El genotipo para un individuo homocigoto de color negro se representa como $$C^N C^N$$. El genotipo $$C^B C^B$$ corresponde al color blanco y el heterocigoto $$C^B C^N$$ corresponde al fenotipo con manchas blancas y negras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_007",
+      "pregunta": "¿Cuál es la diferencia clave entre el fenotipo de un heterocigoto en codominancia y uno en dominancia incompleta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En codominancia, el fenotipo es idéntico al parental dominante; en dominancia incompleta, es intermedio.",
+        "B": "En codominancia se expresan ambos rasgos sin mezclarse; en dominancia incompleta, se observa un fenotipo intermedio mezclado.",
+        "C": "No existe diferencia; ambos términos describen el mismo fenómeno genético.",
+        "D": "En codominancia, un alelo es letal; en dominancia incompleta, ambos son viables.",
+        "E": "La codominancia solo ocurre en animales, mientras que la dominancia incompleta solo ocurre en plantas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción fundamental radica en cómo se expresan los alelos. En la codominancia, ambos fenotipos se manifiestan por separado (p. ej., manchas blancas y negras). En la dominancia incompleta, los fenotipos se mezclan para crear uno intermedio (p. ej., una flor roja y una blanca producen una flor rosa).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_008",
+      "pregunta": "Si la herencia del color de pelaje en el ganado siguiera la ley de la dominancia de Mendel, ¿qué fenotipo se esperaría en un heterocigoto $$C^B C^N$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Pelaje gris.",
+        "B": "Pelaje con manchas blancas y negras.",
+        "C": "Un color completamente diferente, como marrón.",
+        "D": "Completamente negro o completamente blanco, dependiendo de cuál fuera dominante.",
+        "E": "No tendría pelo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Según la ley de la dominancia de Mendel, en un heterocigoto solo se expresa el fenotipo del alelo dominante. Por lo tanto, si uno de los alelos (blanco o negro) fuera dominante sobre el otro, el individuo $$C^B C^N$$ sería fenotípicamente indistinguible de uno de los parentales homocigotos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_009",
+      "pregunta": "El hecho de que en la codominancia ambos alelos sinteticen un \"producto funcional diferente\" implica que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Uno de los alelos es defectuoso y no produce ninguna proteína.",
+        "B": "Los productos de los alelos se anulan mutuamente, resultando en la ausencia de la característica.",
+        "C": "Ambos alelos son genéticamente activos y contribuyen de forma observable al fenotipo.",
+        "D": "El producto de un alelo depende de la presencia del otro para ser funcional.",
+        "E": "Solamente uno de los productos es visible en el fenotipo final."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La frase \"producto funcional diferente\" significa que cada alelo dirige la síntesis de una molécula (como una proteína o un pigmento) que funciona y tiene un efecto visible. En el heterocigoto, al estar presentes ambos alelos, ambos productos se generan y contribuyen al fenotipo final.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_010",
+      "pregunta": "¿Qué genotipo tendría un individuo de ganado vacuno que exhibe un pelaje con manchas blancas y negras?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C^B C^B$$",
+        "B": "$$C^N C^N$$",
+        "C": "$$C^B C^N$$",
+        "D": "$$c^b c^n$$",
+        "E": "No se puede determinar solo por el fenotipo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El fenotipo que muestra ambas características (blanco y negro) sin mezclarse es el sello distintivo del heterocigoto en la codominancia. Por lo tanto, su genotipo debe ser $$C^B C^N$$, habiendo heredado un alelo para el color blanco y otro para el color negro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_011",
+      "pregunta": "¿Por qué un individuo de ganado heterocigoto ($$C^B C^N$$) no presenta un color de pelaje gris?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el alelo negro es completamente dominante.",
+        "B": "Porque el alelo blanco es recesivo y no se expresa.",
+        "C": "Porque el color gris sería característico de la dominancia incompleta, no de la codominancia.",
+        "D": "Porque los pigmentos blanco y negro son químicamente incompatibles.",
+        "E": "Porque es un rasgo ligado al sexo y el gris solo aparece en un género."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un pelaje de color gris resultaría de la mezcla de los pigmentos blanco y negro, lo cual es característico de la dominancia incompleta. En la codominancia, los productos de ambos alelos se expresan de forma independiente, resultando en áreas de color blanco y áreas de color negro, pero no en una mezcla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_012",
+      "pregunta": "La aparición de un tercer fenotipo en la descendencia de dos parentales homocigotos de fenotipo distinto sugiere que el patrón de herencia:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sigue obligatoriamente las leyes de dominancia de Mendel.",
+        "B": "Es un caso de herencia poligénica.",
+        "C": "No es de dominancia completa, pudiendo ser codominancia o dominancia intermedia.",
+        "D": "Se debe a una nueva mutación en la descendencia.",
+        "E": "Indica que ambos padres eran heterocigotos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando dos parentales homocigotos (ej. AA y aa) se cruzan bajo dominancia completa, toda la descendencia (Aa) tiene el mismo fenotipo que el parental dominante. La aparición de un tercer fenotipo en el heterocigoto es la característica que define patrones no mendelianos como la codominancia y la dominancia intermedia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_013",
+      "pregunta": "Si se cruza un toro homocigoto negro ($$C^N C^N$$) con una vaca homocigota blanca ($$C^B C^B$$), ¿cuál será el genotipo de toda su descendencia en la primera generación (F1)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "100% $$C^N C^N$$",
+        "B": "100% $$C^B C^B$$",
+        "C": "50% $$C^N C^N$$ y 50% $$C^B C^B$$",
+        "D": "100% $$C^B C^N$$",
+        "E": "25% $$C^B C^B$$, 50% $$C^B C^N$$, 25% $$C^N C^N$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este es un cruce monohíbrido entre dos individuos homocigotos. El toro solo puede producir gametos con el alelo $$C^N$$, y la vaca solo puede producir gametos con el alelo $$C^B$$. Por lo tanto, toda la descendencia resultante de la fecundación tendrá obligatoriamente el genotipo heterocigoto $$C^B C^N$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_014",
+      "pregunta": "Un ganadero observa un ternero con pelaje de manchas blancas y negras. ¿Qué se puede inferir con total certeza sobre sus progenitores?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos padres eran heterocigotos ($$C^B C^N$$).",
+        "B": "Un padre era homocigoto blanco ($$C^B C^B$$) y el otro era homocigoto negro ($$C^N C^N$$).",
+        "C": "Al menos uno de los padres aportó el alelo $$C^B$$ y el otro aportó el alelo $$C^N$$.",
+        "D": "Ambos padres tenían el mismo fenotipo de manchas.",
+        "E": "Es imposible determinar algo sobre los padres."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ternero tiene el genotipo $$C^B C^N$$. Para tener este genotipo, debe haber recibido un alelo $$C^B$$ de un progenitor y un alelo $$C^N$$ del otro. Esto es lo único que se puede afirmar con certeza. Las otras opciones son posibilidades, pero no certezas. Por ejemplo, un cruce entre un heterocigoto ($$C^B C^N$$) y un homocigoto blanco ($$C^B C^B$$) también puede producir descendencia $$C^B C^N$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_257_015",
+      "pregunta": "Si en una especie, un alelo codifica para una proteína que produce pigmento rojo y otro alelo para una proteína que produce pigmento amarillo, y los heterocigotos tienen pétalos con sectores rojos y sectores amarillos, ¿qué patrón de herencia se está manifestando?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Dominancia incompleta",
+        "B": "Dominancia completa",
+        "C": "Codominancia",
+        "D": "Epistasis",
+        "E": "Herencia ligada al sexo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este escenario es análogo al del ganado. El hecho de que ambos colores (rojo y amarillo) se expresen plenamente y en sectores separados en el heterocigoto, en lugar de mezclarse para formar un color intermedio como el naranja (que sería dominancia incompleta), es la definición precisa de la codominancia. Ambos alelos están produciendo su producto funcional de forma simultánea.",
+      "imagen": null
+    }
+  ]
+}

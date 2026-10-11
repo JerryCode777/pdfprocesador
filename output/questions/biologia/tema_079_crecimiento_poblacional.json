@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 79,
+  "total_temas": 320,
+  "titulo_tema": "Crecimiento poblacional",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_079_001",
+      "pregunta": "¿Qué tipo de crecimiento poblacional se caracteriza por una aceleración constante en la tasa de crecimiento debido a recursos ilimitados?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Crecimiento logarítmico",
+        "B": "Crecimiento exponencial",
+        "C": "Crecimiento comunitario",
+        "D": "Crecimiento de capacidad de carga",
+        "E": "Crecimiento estabilizado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El crecimiento exponencial se define por una tasa de crecimiento que se acelera, lo que significa que la población aumenta a un ritmo cada vez mayor. Esto ocurre en condiciones ideales donde los recursos son ilimitados. El crecimiento logarítmico, por otro lado, se ralentiza a medida que los recursos se vuelven escasos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_002",
+      "pregunta": "¿Cómo se define una comunidad en un contexto ecológico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un grupo de organismos de la misma especie que viven en un área determinada.",
+        "B": "El entorno físico y abiótico de un ecosistema.",
+        "C": "Un conjunto de organismos de diferentes especies que interactúan en el mismo lugar.",
+        "D": "La máxima población que un entorno puede soportar.",
+        "E": "Todos los seres vivos del planeta Tierra."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una comunidad biológica es un conjunto de poblaciones de diferentes especies que coexisten e interactúan en un área geográfica específica. Las otras opciones definen conceptos diferentes: A describe una población, B un biotopo, y D la capacidad de carga.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_003",
+      "pregunta": "¿Qué término se utiliza para describir el tamaño máximo de población que un entorno particular puede sostener de manera indefinida?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Crecimiento exponencial",
+        "B": "Población inicial",
+        "C": "Tasa de crecimiento",
+        "D": "Comunidad biótica",
+        "E": "Capacidad de carga ($K$)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La capacidad de carga, representada por la variable $K$, es el número máximo de individuos de una especie que los recursos de un ecosistema pueden mantener. Cuando una población alcanza su capacidad de carga, su tasa de crecimiento tiende a estabilizarse o llegar a cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_004",
+      "pregunta": "¿Qué tipo de crecimiento poblacional presentan los organismos más grandes como ballenas y osos, que viven en entornos con recursos limitados?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Logarítmico",
+        "B": "Exponencial",
+        "C": "Acelerado",
+        "D": "Ilimitado",
+        "E": "Bacteriano"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El crecimiento logarítmico es característico de las poblaciones que enfrentan limitaciones en sus recursos. Este modelo muestra un crecimiento inicial rápido que luego se desacelera hasta estabilizarse cerca de la capacidad de carga del entorno. Es típico de organismos grandes con ciclos de vida más largos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_005",
+      "pregunta": "¿Cuál es el mejor ejemplo de un organismo que exhibe crecimiento exponencial bajo condiciones ideales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ballenas",
+        "B": "Seres humanos",
+        "C": "Osos",
+        "D": "Bacterias",
+        "E": "Árboles"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las bacterias son el ejemplo clásico de crecimiento exponencial. Con recursos abundantes (como en un medio de cultivo), su población puede duplicarse a intervalos regulares, llevando a un aumento extremadamente rápido y acelerado en el número de individuos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_006",
+      "pregunta": "¿Cuál es el factor principal que diferencia el crecimiento exponencial del crecimiento logarítmico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El tipo de especie (animal o vegetal)",
+        "B": "La presencia de depredadores",
+        "C": "La limitación de los recursos naturales",
+        "D": "La tasa de natalidad de la población",
+        "E": "La interacción entre diferentes comunidades"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción fundamental entre los dos modelos de crecimiento es la disponibilidad de recursos. El crecimiento exponencial asume recursos ilimitados, lo que permite una tasa de crecimiento acelerada. El crecimiento logarítmico, más realista, incorpora la limitación de recursos, lo que hace que la tasa de crecimiento disminuya y se estabilice.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_007",
+      "pregunta": "¿Por qué el crecimiento exponencial no puede continuar indefinidamente en el mundo real?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque las especies se adaptan y cambian su tipo de crecimiento.",
+        "B": "Porque los recursos se agotan a medida que la población aumenta.",
+        "C": "Porque la tasa de reproducción siempre disminuye naturalmente.",
+        "D": "Porque los organismos de diferentes especies dejan de interactuar.",
+        "E": "Porque todas las poblaciones eventualmente migran a otros entornos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En cualquier ecosistema real, los recursos como el alimento, el agua y el espacio son finitos. A medida que una población en crecimiento exponencial consume estos recursos, su disponibilidad disminuye. Esta escasez de recursos provoca una desaceleración de la tasa de crecimiento, impidiendo que el patrón exponencial se mantenga indefinidamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_008",
+      "pregunta": "¿Qué sucede con la tasa de crecimiento de una población cuando su tamaño se acerca a la capacidad de carga ($K$) del entorno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se acelera de forma exponencial.",
+        "B": "Se vuelve negativa, y la población decrece.",
+        "C": "Se ralentiza y eventualmente se estabiliza.",
+        "D": "Se mantiene constante y alta.",
+        "E": " fluctúa de manera impredecible."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El modelo de crecimiento logístico describe cómo, a medida que el número de individuos se aproxima a la capacidad de carga ($K$), la competencia por los recursos limitados se intensifica. Esto causa que la tasa de crecimiento de la población disminuya progresivamente hasta que se estabiliza, idealmente en un punto donde los nacimientos igualan a las muertes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_009",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la tasa de crecimiento en el modelo exponencial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La tasa de crecimiento es constante.",
+        "B": "La tasa de crecimiento disminuye con el tiempo.",
+        "C": "El número de organismos añadidos por generación es cada vez mayor.",
+        "D": "La tasa de crecimiento es directamente proporcional a los recursos disponibles.",
+        "E": "La tasa de crecimiento se detiene al alcanzar la capacidad de carga."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un concepto clave del crecimiento exponencial es que la tasa de crecimiento de la población se está acelerando. Esto significa que el número de nuevos individuos que se agregan en cada generación reproductiva aumenta a un ritmo cada vez mayor, resultando en una curva de crecimiento en forma de 'J'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_010",
+      "pregunta": "¿En qué situación es más probable que ocurra un crecimiento exponencial, aunque sea de forma temporal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En un bosque maduro con una alta densidad de depredadores.",
+        "B": "En una población de osos polares con fuentes de alimento en declive.",
+        "C": "En un arrecife de coral con una competencia intensa por el espacio.",
+        "D": "En un entorno con pocos individuos y abundantes recursos.",
+        "E": "En una población que ha excedido su capacidad de carga ($K$)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El crecimiento exponencial puede ocurrir en entornos donde la competencia es baja y los recursos son abundantes. Estas condiciones se dan típicamente cuando una población es pequeña o está colonizando un nuevo hábitat, permitiendo que la tasa de crecimiento se acelere sin las limitaciones inmediatas que impone la escasez de recursos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_011",
+      "pregunta": "La interacción entre un conjunto de organismos de diferentes especies en un mismo lugar forma una:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Población",
+        "B": "Capacidad de carga",
+        "C": "Comunidad",
+        "D": "Nicho ecológico",
+        "E": "Especie"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una comunidad biológica se define precisamente como el conjunto de todas las poblaciones de diferentes especies que viven e interactúan en una misma área. Una población, en cambio, se refiere a organismos de una sola especie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_012",
+      "pregunta": "El concepto de capacidad de carga, o $K$, está intrínsecamente ligado al modelo de crecimiento:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Exponencial",
+        "B": "Logístico",
+        "C": "Bacteriano",
+        "D": "Acelerado",
+        "E": "Ilimitado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La capacidad de carga ($K$) es un componente central del modelo de crecimiento logístico (o logarítmico). Este modelo describe cómo el crecimiento de una población se ve limitado por los recursos del entorno, estabilizándose alrededor de este valor máximo sostenible, $K$. El modelo exponencial no considera esta limitación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_013",
+      "pregunta": "Si una población de algas en un estanque comienza a crecer muy rápidamente después de un aporte masivo de nutrientes, pero luego su crecimiento se detiene y la población se estabiliza, ¿qué describe mejor esta secuencia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un crecimiento logarítmico desde el inicio.",
+        "B": "Una fase de crecimiento exponencial seguida de la estabilización cerca de la capacidad de carga ($K$).",
+        "C": "Únicamente crecimiento exponencial que se detuvo por causas desconocidas.",
+        "D": "La formación de una nueva comunidad sin un patrón de crecimiento definido.",
+        "E": "Una disminución de la capacidad de carga del estanque."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este escenario es un ejemplo clásico del modelo logístico en la práctica. La abundancia inicial de nutrientes (recursos) permite una fase de crecimiento exponencial. Sin embargo, a medida que la población de algas crece, los nutrientes se consumen y el espacio se vuelve limitado, lo que lleva a la población a alcanzar la capacidad de carga ($K$) del estanque y estabilizar su crecimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_014",
+      "pregunta": "Una población de ballenas en una región del océano muestra un crecimiento lento que finalmente se detiene, a pesar de no tener depredadores significativos. ¿Cuál es la explicación más probable de esta estabilización, basada en los modelos de crecimiento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La población está exhibiendo un crecimiento exponencial tardío.",
+        "B": "La población ha alcanzado la capacidad de carga ($K$) determinada por la disponibilidad de alimento.",
+        "C": "Las ballenas han formado una nueva comunidad con otras especies.",
+        "D": "El crecimiento se detuvo aleatoriamente sin relación con los recursos.",
+        "E": "La tasa de natalidad aumentó de forma exponencial."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las ballenas son organismos grandes que siguen un modelo de crecimiento logístico. La estabilización de su población indica que los recursos, como el alimento (krill, peces), se han vuelto limitantes. La población ha alcanzado el tamaño máximo que su entorno puede sostener, es decir, su capacidad de carga ($K$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_079_015",
+      "pregunta": "Si la variable $K$ representa la capacidad de carga, ¿qué implica para una población que su tamaño supere significativamente el valor de $K$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El entorno se adaptará para soportar a la población más grande.",
+        "B": "La población comenzará una nueva fase de crecimiento exponencial.",
+        "C": "Es probable que la población experimente una disminución drástica debido al agotamiento de recursos.",
+        "D": "La tasa de crecimiento se volverá positiva y acelerada.",
+        "E": "La comunidad de la que forma parte se volverá más estable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacidad de carga ($K$) representa el máximo sostenible. Si una población supera este límite, significa que está consumiendo recursos más rápido de lo que el ecosistema puede reponer. Esta sobreexplotación conduce inevitablemente a una escasez severa, lo que provocará un aumento en la tasa de mortalidad y una caída brusca de la población, a menudo por debajo del nivel de $K$.",
+      "imagen": null
+    }
+  ]
+}

@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_298_001",
+      "pregunta": "¿Qué grupo funcional es característico de un alcohol?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un grupo carbonilo ($$=C=O$$)",
+        "B": "Un grupo carboxilo ($$-COOH$$)",
+        "C": "Un grupo amino ($$-NH_2$$)",
+        "D": "Un grupo hidroxilo ($$-OH$$)",
+        "E": "Un enlace éter ($$-O-$$)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La definición de un alcohol es un compuesto químico que contiene uno o más grupos hidroxilo ($-OH$) unidos a un átomo de carbono. Este grupo funcional es el que le confiere sus propiedades características.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_298_002",
       "pregunta": "¿Cuál es la estructura general que representa a un alcohol?",
       "dificultad": 1,
       "opciones": {
         "A": "$$R-CHO$$",
         "B": "$$R-COOH$$",
-        "C": "$$R-O-R'$$",
-        "D": "$$R-OH$$",
+        "C": "$$R-OH$$",
+        "D": "$$R-O-R'$$",
         "E": "$$R-CO-R'$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La estructura general de un alcohol es $$R-OH$$, donde $$R$$ representa una cadena de carbono y $$-OH$$ es el grupo funcional hidroxilo, característico de todos los alcoholes.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_298_002",
-      "pregunta": "¿Cómo se define un alcohol primario?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "El grupo $$-OH$$ está unido a un carbono que se enlaza a otros dos átomos de carbono.",
-        "B": "El compuesto contiene al menos un grupo $$-OH$$.",
-        "C": "El grupo $$-OH$$ está unido a un carbono que se enlaza a un solo átomo de carbono adicional.",
-        "D": "El grupo $$-OH$$ está unido a un carbono que se enlaza a otros tres átomos de carbono.",
-        "E": "El compuesto contiene exactamente dos grupos $$-OH$$."
-      },
       "respuesta_correcta": "C",
-      "explicacion": "Un alcohol primario es aquel en el que el grupo hidroxilo ($$-OH$$) está enlazado a un carbono primario. Un carbono primario es un átomo de carbono que está unido a un solo átomo de carbono más.",
+      "explicacion": "La estructura general de un alcohol se representa como $$R-OH$$, donde 'R' es un grupo alquilo o arilo (una cadena de carbono e hidrógeno) y '$-OH$' es el grupo funcional hidroxilo, que define a la familia de los alcoholes.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_003",
-      "pregunta": "Un alcohol que contiene un solo grupo hidroxilo ($$-OH$$) en su estructura se clasifica como:",
+      "pregunta": "¿Cómo se clasifica un alcohol que contiene un solo grupo hidroxilo en su molécula?",
       "dificultad": 1,
       "opciones": {
         "A": "Poliol",
         "B": "Diol",
-        "C": "Monol",
-        "D": "Triol",
-        "E": "Alcohol terciario"
+        "C": "Triol",
+        "D": "Alcohol secundario",
+        "E": "Monol"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Según la cantidad de grupos hidroxilo, los alcoholes se clasifican en monoles si tienen un solo grupo $$-OH$$, y polioles si tienen más de uno. Dioles y trioles son tipos específicos de polioles.",
+      "respuesta_correcta": "E",
+      "explicacion": "Los alcoholes se clasifican según la cantidad de grupos hidroxilo ($-OH$). Un alcohol que posee un solo grupo $-OH$ se denomina monol. Los polioles, dioles y trioles tienen más de un grupo $-OH$. 'Alcohol secundario' se refiere a la posición del grupo $-OH$, no a su cantidad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_004",
-      "pregunta": "¿Qué sufijo se utiliza en la nomenclatura IUPAC para nombrar a los alcoholes?",
+      "pregunta": "Según la nomenclatura IUPAC, ¿qué sufijo se utiliza para nombrar un alcohol?",
       "dificultad": 1,
       "opciones": {
-        "A": "$-ano$",
-        "B": "$-ol$",
-        "C": "$-ona$",
-        "D": "$-al$",
-        "E": "$-oico$"
+        "A": "-ano",
+        "B": "-ol",
+        "C": "-al",
+        "D": "-ona",
+        "E": "-oico"
       },
       "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura IUPAC, el nombre de un alcohol se forma cambiando la terminación $-o$ del alcano correspondiente por el sufijo $-ol$. Por ejemplo, el etano se convierte en etanol.",
+      "explicacion": "En la nomenclatura IUPAC, el nombre de un alcohol se forma cambiando la terminación '-o' del alcano correspondiente por el sufijo '-ol'. Por ejemplo, el etano ($$CH_3–CH_3$$) se convierte en etanol ($$CH_3–CH_2OH$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_005",
-      "pregunta": "¿Qué es un poliol?",
+      "pregunta": "¿Qué término se utiliza para describir un alcohol que contiene más de un grupo hidroxilo ($$-OH$$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un alcohol con una cadena de carbono muy larga.",
-        "B": "Un alcohol que solo tiene un grupo $$-OH$$.",
-        "C": "Un alcohol en el que el $$-OH$$ está en un carbono secundario.",
-        "D": "Un alcohol que contiene más de un grupo hidroxilo ($$-OH$$).",
-        "E": "Un alcohol derivado del polietileno."
+        "A": "Monol",
+        "B": "Poliol",
+        "C": "Alcohol primario",
+        "D": "Alcohol terciario",
+        "E": "Éter"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Un poliol es un alcohol que posee más de un grupo hidroxilo ($$-OH$$) en su molécula. Ejemplos de polioles incluyen los dioles (dos grupos $$-OH$$) y los trioles (tres grupos $$-OH$$).",
+      "respuesta_correcta": "B",
+      "explicacion": "Un poliol es un alcohol que contiene múltiples grupos hidroxilo. Si tiene dos, se llama diol; si tiene tres, triol, y así sucesivamente. Monol se refiere a un solo grupo $-OH$, mientras que primario y terciario describen la posición del grupo, no la cantidad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_006",
-      "pregunta": "¿Cómo se clasifica el alcohol con la estructura $$H_{3}C-CH(OH)-CH_{3}$$ (propan-2-ol) según la posición del grupo hidroxilo?",
+      "pregunta": "¿Qué caracteriza a un alcohol primario?",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol primario",
-        "B": "Alcohol secundario",
-        "C": "Alcohol terciario",
-        "D": "Monol",
-        "E": "Diol"
+        "A": "El grupo $-OH$ está unido a un carbono que se enlaza a otros dos carbonos.",
+        "B": "El grupo $-OH$ está unido a un carbono que se enlaza a otros tres carbonos.",
+        "C": "El grupo $-OH$ está unido a un carbono que se enlaza a un solo carbono más.",
+        "D": "La molécula contiene un solo grupo $-OH$.",
+        "E": "La molécula tiene una cadena de un solo carbono."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El grupo hidroxilo ($$-OH$$) en el propan-2-ol está unido a un carbono que, a su vez, está enlazado a otros dos átomos de carbono. Por definición, este es un alcohol secundario. Las opciones D y E se refieren a la cantidad de grupos $$-OH$$, no a su posición.",
+      "respuesta_correcta": "C",
+      "explicacion": "Un alcohol se clasifica como primario si el grupo hidroxilo ($-OH$) está unido a un carbono primario. Un carbono primario es aquel que está directamente enlazado a un único átomo de carbono adicional. Un ejemplo es el propan-1-ol ($$H_3C–CH_2–CH_2–OH$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_007",
-      "pregunta": "¿Cuál es el primer paso y el más importante al nombrar un alcohol usando la nomenclatura IUPAC?",
+      "pregunta": "Un alcohol secundario es aquel en el cual el grupo hidroxilo ($$-OH$$) está unido a un átomo de carbono que, a su vez, está enlazado a:",
       "dificultad": 2,
       "opciones": {
-        "A": "Nombrar todos los sustituyentes en orden alfabético.",
-        "B": "Contar el número total de átomos de carbono en la molécula.",
-        "C": "Seleccionar la cadena continua más larga de carbonos que contenga el grupo $$-OH$$.",
-        "D": "Cambiar la terminación del alcano a $-ol$.",
-        "E": "Numerar la cadena para dar al sustituyente más cercano el número más bajo."
+        "A": "Ningún otro átomo de carbono.",
+        "B": "Un único átomo de carbono.",
+        "C": "Otros dos átomos de carbono.",
+        "D": "Otros tres átomos de carbono.",
+        "E": "Otros cuatro átomos de carbono."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La primera regla de la nomenclatura IUPAC para alcoholes es identificar la cadena principal. Esta debe ser la cadena de carbonos continua más larga que incluya el átomo de carbono unido al grupo hidroxilo ($$-OH$$). Los otros pasos, como la numeración y el nombramiento de sustituyentes, se realizan después de este paso fundamental.",
+      "explicacion": "La definición de un alcohol secundario se basa en la conectividad del carbono que soporta el grupo hidroxilo. Este carbono debe estar unido directamente a otros dos átomos de carbono. El alcohol isopropílico ($$H_3C–CH(OH)–CH_3$$) es un ejemplo clásico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_008",
-      "pregunta": "El compuesto $$(H_{3}C)_{3}C-OH$$ (2-metilpropan-2-ol) es un ejemplo de:",
+      "pregunta": "¿Cómo se define un alcohol terciario?",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol primario",
-        "B": "Alcohol secundario",
-        "C": "Alcohol terciario",
-        "D": "Diol",
-        "E": "Poliol"
+        "A": "Un alcohol con tres grupos hidroxilo.",
+        "B": "Un alcohol con una cadena de tres carbonos.",
+        "C": "Un alcohol donde el $-OH$ está en un carbono unido a otros dos carbonos.",
+        "D": "Un alcohol donde el $-OH$ está en un carbono unido a otros tres carbonos.",
+        "E": "Un alcohol donde el $-OH$ está en un carbono unido a un solo carbono."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "En la molécula de 2-metilpropan-2-ol, el grupo hidroxilo ($$-OH$$) está unido a un átomo de carbono central que, a su vez, está enlazado directamente a otros tres átomos de carbono (los tres grupos metilo, $$-CH_3$$). Esto lo clasifica como un alcohol terciario.",
+      "respuesta_correcta": "D",
+      "explicacion": "Un alcohol terciario se caracteriza porque el grupo funcional hidroxilo ($-OH$) está enlazado a un carbono terciario. Un carbono terciario es aquel que está unido a otros tres átomos de carbono. Esta alta sustitución influye en su reactividad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_009",
-      "pregunta": "Según la nomenclatura IUPAC, ¿cuál es la regla para numerar la cadena de carbono principal en un alcohol?",
+      "pregunta": "Basado en la posición de su grupo hidroxilo, el alcohol propan-1-ol, $$H_3C–CH_2–CH_2–OH$$, se clasifica como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Se numera desde el extremo más cercano al sustituyente de mayor tamaño.",
-        "B": "Se numera para que el grupo $$-OH$$ tenga el localizador más pequeño posible.",
-        "C": "Se numera para dar al primer sustituyente el número más bajo, sin importar el $$-OH$$.",
-        "D": "Se numera siempre de izquierda a derecha.",
-        "E": "Se numera para que la suma de los localizadores de los sustituyentes sea la mínima."
+        "A": "Alcohol terciario",
+        "B": "Alcohol secundario",
+        "C": "Alcohol primario",
+        "D": "Diol",
+        "E": "Triol"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura de alcoholes, el grupo funcional hidroxilo ($$-OH$$) tiene la máxima prioridad. Por lo tanto, la cadena principal se numera de tal forma que el carbono unido al grupo $$-OH$$ reciba el número más bajo posible, incluso si esto significa que los otros sustituyentes tengan números más altos.",
+      "respuesta_correcta": "C",
+      "explicacion": "En la molécula de propan-1-ol ($$H_3C–CH_2–CH_2–OH$$), el grupo $-OH$ está unido al primer carbono de la cadena. Este carbono, a su vez, solo está enlazado al segundo carbono. Al estar unido a un solo carbono más, se trata de un carbono primario, y por lo tanto, el compuesto es un alcohol primario.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_010",
-      "pregunta": "¿Cómo se clasifica el etanol ($$CH_{3}-CH_{2}OH$$) según el número de grupos hidroxilo?",
+      "pregunta": "¿A qué tipo de alcohol corresponde el alcohol isopropílico ($$H_3C–CH(OH)–CH_3$$), según la posición del grupo hidroxilo?",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol primario",
-        "B": "Alcohol secundario",
-        "C": "Diol",
+        "A": "Primario",
+        "B": "Secundario",
+        "C": "Terciario",
         "D": "Poliol",
         "E": "Monol"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El etanol tiene un solo grupo hidroxilo ($$-OH$$) en su estructura. Los alcoholes con un único grupo $$-OH$$ se clasifican como monoles. La opción A, 'Alcohol primario', describe la posición del $$-OH$$, no su cantidad.",
+      "respuesta_correcta": "B",
+      "explicacion": "En el alcohol isopropílico (o propan-2-ol), el grupo $-OH$ está unido al carbono central de la cadena de tres carbonos. Este carbono central está enlazado a los otros dos carbonos de la molécula. Al estar unido a dos carbonos, es un carbono secundario, lo que clasifica al compuesto como un alcohol secundario.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_011",
-      "pregunta": "¿Cuál es la clasificación del compuesto $$CH_{3}-CHOH-CHOH-CH_{3}$$ (butano-2,3-diol) según la cantidad de grupos $$-OH$$?",
+      "pregunta": "¿Cuál es el primer paso fundamental en la nomenclatura IUPAC para nombrar un alcohol?",
       "dificultad": 2,
       "opciones": {
-        "A": "Alcohol secundario",
-        "B": "Monol",
-        "C": "Alcohol terciario",
-        "D": "Poliol",
-        "E": "Alcohol primario"
+        "A": "Nombrar los sustituyentes en orden alfabético.",
+        "B": "Seleccionar la cadena de carbono continua más larga que contenga el grupo hidroxilo.",
+        "C": "Cambiar la terminación del alcano a '-ol'.",
+        "D": "Numerar la cadena para dar el localizador más bajo a los sustituyentes.",
+        "E": "Identificar si es un monol o un poliol."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El butano-2,3-diol contiene dos grupos hidroxilo ($$-OH$$). Cualquier alcohol con más de un grupo $$-OH$$ se clasifica como un poliol. Específicamente, al tener dos grupos, es un diol, que es un tipo de poliol.",
+      "respuesta_correcta": "B",
+      "explicacion": "La primera regla de la nomenclatura IUPAC para alcoholes es identificar la cadena principal. Esta debe ser la cadena continua más larga de átomos de carbono que incluya el carbono unido al grupo hidroxilo ($-OH$). Este paso es crucial para determinar el nombre base del compuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_012",
-      "pregunta": "¿Cuál de las siguientes estructuras corresponde a un alcohol primario?",
+      "pregunta": "Al numerar la cadena principal de un alcohol según las reglas de la IUPAC, ¿qué prioridad se debe seguir?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$H_{3}C-CH(OH)-CH_{3}$$",
-        "B": "$$H_{3}C-CH_{2}-CH_{2}-OH$$",
-        "C": "$$(H_{3}C)_{3}C-OH$$",
-        "D": "$$CH_{3}-CHOH-CHOH-CH_{3}$$",
-        "E": "$$CH_{3}-CH_{2}-O-CH_{3}$$"
+        "A": "Empezar por el extremo más cercano a un doble enlace.",
+        "B": "Dar al primer sustituyente el número más bajo posible.",
+        "C": "Dar al grupo hidroxilo ($-OH$) el localizador más pequeño posible.",
+        "D": "Numerar de izquierda a derecha siempre que sea posible.",
+        "E": "Asignar el número 1 al carbono más sustituido."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Un alcohol primario tiene el grupo $$-OH$$ en un carbono unido a un solo carbono adicional. En la estructura $$H_{3}C-CH_{2}-CH_{2}-OH$$ (propan-1-ol), el carbono que porta el $$-OH$$ está unido solo a otro carbono, cumpliendo la definición. La opción A es un alcohol secundario, la C es terciario, la D es un diol y la E es un éter, no un alcohol.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de numeración para alcoholes dicta que la cadena principal debe numerarse de tal manera que el átomo de carbono unido al grupo hidroxilo ($-OH$) reciba el número o localizador más bajo posible. Este grupo funcional tiene prioridad sobre los sustituyentes alquilo y halógenos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_013",
-      "pregunta": "Aplicando las reglas de nomenclatura IUPAC, ¿cuál es el nombre correcto para el compuesto $$CH_{3}-CH_{2}-CH(CH_{3})-CH_{2}-CH(OH)-CH_{3}$$?",
+      "pregunta": "Analice la estructura del 2-metilpropan-2-ol, $$(H_3C)_3C–OH$$. ¿Cómo se clasifica este alcohol según la posición del grupo hidroxilo?",
       "dificultad": 3,
       "opciones": {
-        "A": "3-metilhexan-5-ol",
-        "B": "4-metilhexan-2-ol",
-        "C": "2-hidroxi-4-metilhexano",
-        "D": "4-metil-2-hexanol",
-        "E": "3-metil-5-hexanol"
+        "A": "Primario",
+        "B": "Secundario",
+        "C": "Terciario",
+        "D": "Diol",
+        "E": "Poliol"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Primero, se identifica la cadena más larga que contiene el grupo $$-OH$$, que es de 6 carbonos (hexano). Segundo, se numera la cadena para dar al $$-OH$$ el localizador más bajo, lo que significa empezar por la derecha. Así, el $$-OH$$ está en el carbono 2 y el grupo metilo ($$-CH_3$$) en el carbono 4. Finalmente, se nombran los sustituyentes en orden alfabético (en este caso solo hay metil) y se nombra la cadena principal con el sufijo $-ol$. El nombre correcto es 4-metilhexan-2-ol.",
+      "respuesta_correcta": "C",
+      "explicacion": "En la molécula de 2-metilpropan-2-ol, el grupo hidroxilo ($-OH$) está unido al carbono número 2. Este carbono central está, a su vez, enlazado directamente a otros tres átomos de carbono (el carbono del metilo y los carbonos 1 y 3 de la cadena propano implícita). Al estar unido a tres carbonos, es un carbono terciario, y por lo tanto, el compuesto es un alcohol terciario.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_014",
-      "pregunta": "¿Cómo se clasificaría el propan-1-ol ($$H_{3}C-CH_{2}-CH_{2}-OH$$) si se consideran tanto la posición como la cantidad de sus grupos hidroxilo?",
+      "pregunta": "El compuesto butano-2,3-diol, con la estructura $$CH_3–CHOH–CHOH–CH_3$$, se clasifica como:",
       "dificultad": 3,
       "opciones": {
-        "A": "Poliol primario",
-        "B": "Monol secundario",
-        "C": "Monol primario",
-        "D": "Diol primario",
-        "E": "Poliol terciario"
+        "A": "Un monol primario",
+        "B": "Un monol secundario",
+        "C": "Un poliol",
+        "D": "Un monol terciario",
+        "E": "Un triol"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Esta pregunta requiere usar ambos sistemas de clasificación. Primero, por la cantidad de grupos $$-OH$$: como solo hay uno, es un monol. Segundo, por la posición del $$-OH$$: está en un carbono terminal que está unido a un solo carbono más, por lo que es un alcohol primario. Combinando ambas clasificaciones, el propan-1-ol es un monol primario.",
+      "explicacion": "La clasificación como monol o poliol depende de la cantidad de grupos hidroxilo. La molécula de butano-2,3-diol tiene dos grupos $-OH$, uno en el carbono 2 y otro en el carbono 3. Al tener más de un grupo hidroxilo, se clasifica como un poliol (específicamente, un diol). Las opciones de monol son incorrectas porque hay más de un $-OH$, y triol es incorrecto porque solo hay dos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_298_015",
-      "pregunta": "Un alcohol desconocido tiene una estructura donde el carbono que soporta el grupo $$-OH$$ está unido a dos grupos metilo ($$-CH_3$$) y a un grupo etilo ($$-C_{2}H_5$$). ¿Cómo se clasifica este alcohol?",
+      "pregunta": "Aplicando las reglas de nomenclatura IUPAC, ¿cuál es el nombre correcto para el compuesto $$CH_3–CH_2–CH(CH_3)–CH_2–CH(OH)–CH_3$$?",
       "dificultad": 3,
       "opciones": {
-        "A": "Alcohol primario",
-        "B": "Alcohol secundario",
-        "C": "Alcohol terciario",
-        "D": "Diol",
-        "E": "No es posible clasificarlo con la información dada"
+        "A": "3-metilhexan-5-ol",
+        "B": "4-metilhexan-2-ol",
+        "C": "3-metil-5-hexanol",
+        "D": "4-metil-2-hidroxihexano",
+        "E": "1,3,4-trimetilpentan-1-ol"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La descripción indica que el carbono que lleva el grupo $$-OH$$ está enlazado a tres grupos alquilo: dos metilos y un etilo. Como este carbono está unido a un total de tres átomos de carbono adicionales (uno de cada metilo y uno del etilo), cumple con la definición de un carbono terciario. Por lo tanto, el alcohol es un alcohol terciario.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para nombrar el compuesto: 1. Se selecciona la cadena más larga con el grupo $-OH$, que es de 6 carbonos (hexano). 2. Se numera desde el extremo derecho para dar al $-OH$ el localizador más bajo (posición 2). Si se numerara desde la izquierda, el $-OH$ estaría en la posición 5. 3. Se identifica el sustituyente, un grupo metilo ($-CH_3$) en la posición 4. 4. Se nombran los sustituyentes (4-metil), luego la cadena principal con la posición del alcohol (hexan-2-ol). El nombre completo es 4-metilhexan-2-ol.",
       "imagen": null
     }
   ]

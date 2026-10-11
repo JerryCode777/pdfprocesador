@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 60,
+  "total_temas": 137,
+  "titulo_tema": "Fluido Ideal",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_060_001",
+      "pregunta": "¿Qué característica define a un flujo como incompresible?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad del fluido es constante en todo punto.",
+        "B": "La densidad del fluido es constante.",
+        "C": "No existe fricción interna en el fluido.",
+        "D": "El fluido no presenta remolinos.",
+        "E": "La temperatura del fluido no cambia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un flujo incompresible es aquel en el que la densidad del fluido se mantiene constante. Los líquidos suelen considerarse incompresibles. Las otras opciones describen otras características de los fluidos: A se refiere a flujo constante (en un punto dado), C a un fluido no viscoso y D a un flujo irrotacional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_002",
+      "pregunta": "¿Cuál es la ecuación que representa la fuerza de empuje ($E$) sobre un cuerpo sumergido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E = \\rho_{cuerpo} g V_s$$",
+        "B": "$$E = \\rho_{líq} g V_{total}$$",
+        "C": "$$E = \\rho_{líq} g V_s$$",
+        "D": "$$E = m_{líq} / V_s$$",
+        "E": "$$E = P \\cdot A$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de empuje ($E$) se calcula multiplicando la densidad del líquido ($\\rho_{líq}$), la aceleración de la gravedad ($g$) y el volumen del cuerpo que está sumergido ($V_s$). La ecuación correcta es $$E = \\rho_{líq} g V_s$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_003",
+      "pregunta": "¿Qué condición debe cumplirse para que un cuerpo descienda (se hunda) en un líquido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$P < E$$",
+        "B": "$$P = E$$",
+        "C": "$$\\rho_{cuerpo} < \\rho_{agua}$$",
+        "D": "$$E > P$$",
+        "E": "$$P > E$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un cuerpo se hunde o desciende en un líquido cuando su peso ($P$) es mayor que la fuerza de empuje ($E$) que el líquido ejerce sobre él. Esta condición también implica que la densidad del cuerpo es mayor que la densidad del líquido ($$\\rho_{cuerpo} > \\rho_{líq}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_004",
+      "pregunta": "Según la descripción de un fluido ideal, ¿qué significa que un flujo sea no viscoso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El fluido no puede ser comprimido.",
+        "B": "Las partículas del fluido no giran.",
+        "C": "La fricción interna o resistencia al flujo es insignificante.",
+        "D": "La velocidad del fluido es muy alta.",
+        "E": "Las partículas siguen trayectorias idénticas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un flujo no viscoso implica que la viscosidad del fluido, que es su fricción interna o resistencia a fluir, es tan pequeña que puede considerarse despreciable. Esto significa que no hay pérdida de energía por fricción interna ni entre el fluido y las paredes que lo contienen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_005",
+      "pregunta": "¿Cómo se denomina el movimiento de un fluido en el cual cada partícula sigue la misma trayectoria que la partícula anterior?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Flujo turbulento",
+        "B": "Flujo irrotacional",
+        "C": "Flujo incompresible",
+        "D": "Flujo aerodinámico o laminar",
+        "E": "Flujo viscoso"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El flujo aerodinámico, también conocido como laminar, se caracteriza porque las partículas del fluido se mueven en trayectorias suaves y ordenadas, donde cada partícula sigue el mismo camino que la que la precedió al pasar por un punto determinado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_006",
+      "pregunta": "En la representación del flujo de un fluido mediante líneas de corriente, ¿qué indica una mayor concentración de estas líneas en una región específica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una menor velocidad del fluido.",
+        "B": "Una mayor densidad del fluido.",
+        "C": "Una mayor velocidad del fluido.",
+        "D": "La presencia de flujo turbulento.",
+        "E": "Una mayor viscosidad del fluido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las líneas de corriente indican la trayectoria de las partículas en un flujo constante. La separación entre ellas da una idea de la magnitud de la velocidad: donde las líneas están más juntas, la velocidad del fluido es mayor; donde están más separadas, la velocidad es menor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_007",
+      "pregunta": "¿Cuál es la relación entre el peso ($P$) de un cuerpo y el empuje ($E$) que recibe cuando está en flotación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P > E$$",
+        "B": "$$E = 0$$",
+        "C": "$$P < E$$",
+        "D": "$$E = P$$",
+        "E": "$$P = 2E$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un cuerpo está en flotación cuando se encuentra en equilibrio en la superficie de un líquido. En esta situación, el peso del cuerpo ($P$) es igual a la fuerza de empuje ($E$) que recibe del líquido. Esto ocurre cuando la densidad del cuerpo es menor que la del líquido, permitiéndole flotar parcialmente sumergido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_008",
+      "pregunta": "¿Qué propiedad de un fluido ideal asegura que no se formen remolinos o vórtices en su movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ser incompresible",
+        "B": "Ser no viscoso",
+        "C": "Tener flujo constante",
+        "D": "Ser irrotacional",
+        "E": "Tener baja densidad"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La característica de un flujo irrotacional es que un pequeño elemento de volumen del fluido no posee una velocidad angular neta. Esto elimina la posibilidad de que se formen remolinos o que el flujo sea turbulento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_009",
+      "pregunta": "¿Qué sucede con el movimiento de un fluido si su velocidad de flujo es alta, especialmente cerca de las fronteras?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El flujo se vuelve perfectamente laminar.",
+        "B": "La densidad del fluido aumenta.",
+        "C": "La viscosidad desaparece.",
+        "D": "El flujo tiende a volverse turbulento.",
+        "E": "El fluido se vuelve incompresible."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un flujo constante o laminar ocurre generalmente a bajas velocidades. Si la velocidad del flujo aumenta considerablemente, tienden a formarse remolinos y el flujo se desorganiza, pasando de un estado laminar a uno turbulento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_010",
+      "pregunta": "Un objeto se sumerge en agua y queda en equilibrio a media profundidad, sin subir ni bajar. ¿Cuál es la relación correcta entre la densidad del cuerpo ($\\rho_{cuerpo}$) y la del agua ($\\rho_{agua}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\rho_{cuerpo} > \\rho_{agua}$$",
+        "B": "$$\\rho_{cuerpo} = \\rho_{agua}$$",
+        "C": "$$\\rho_{cuerpo} < \\rho_{agua}$$",
+        "D": "$$\\rho_{cuerpo} = 0$$",
+        "E": "$$\\rho_{cuerpo} = 2 \\cdot \\rho_{agua}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El caso de equilibrio describe una situación en la que el cuerpo, una vez sumergido, no asciende ni desciende. Esto ocurre cuando su peso es exactamente igual al empuje ($P = E$). Para que esto suceda con el cuerpo totalmente sumergido, la densidad del cuerpo debe ser igual a la densidad del líquido, en este caso, el agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_011",
+      "pregunta": "Si un cuerpo asciende al ser sumergido en un líquido, ¿qué podemos concluir sobre las fuerzas que actúan sobre él y las densidades involucradas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El empuje es igual al peso ($E = P$) y las densidades son iguales.",
+        "B": "El peso es mayor que el empuje ($P > E$) y la densidad del cuerpo es mayor.",
+        "C": "El empuje es mayor que el peso ($E > P$) y la densidad del líquido es mayor.",
+        "D": "El empuje es menor que el peso ($E < P$) y la densidad del líquido es menor.",
+        "E": "No hay empuje y la densidad del cuerpo es menor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que un cuerpo ascienda, la fuerza neta sobre él debe ser hacia arriba. Esto significa que la fuerza de empuje ($E$) que ejerce el líquido debe ser mayor que el peso ($P$) del cuerpo. Esta condición se cumple cuando la densidad del líquido es mayor que la densidad del cuerpo ($\\rho_{líq} > \\rho_{cuerpo}$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_012",
+      "pregunta": "¿Cuál de las siguientes afirmaciones combina correctamente las características de un fluido ideal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un flujo constante puede ser turbulento y viscoso.",
+        "B": "Un flujo incompresible debe tener remolinos.",
+        "C": "Un flujo irrotacional y no viscoso no presenta turbulencia ni fricción interna.",
+        "D": "Un fluido viscoso es siempre incompresible y laminar.",
+        "E": "Un fluido ideal es compresible, rotacional y viscoso."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un fluido ideal se define por cuatro características: flujo constante, irrotacional, no viscoso e incompresible. La afirmación C describe correctamente dos de estas propiedades: un flujo irrotacional carece de remolinos (turbulencia), y un flujo no viscoso carece de fricción interna. Las otras opciones presentan combinaciones incorrectas de estas propiedades.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_013",
+      "pregunta": "Un submarino se mantiene en equilibrio completamente sumergido en el océano. Si luego libera lastre (reduce su peso $P$) sin cambiar su volumen, ¿qué movimiento inicial experimentará y por qué?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Descenderá, porque al liberar lastre el empuje $E$ disminuye.",
+        "B": "Ascenderá, porque su peso $P$ se vuelve menor que el empuje $E$.",
+        "C": "Permanecerá en equilibrio, porque el empuje $E$ y el peso $P$ disminuyen en la misma proporción.",
+        "D": "Ascenderá, porque la densidad del agua de mar ($\\rho_{agua}$) aumenta.",
+        "E": "Descenderá, porque su densidad promedio ($\\rho_{cuerpo}$) aumenta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Inicialmente, el submarino está en equilibrio, lo que significa que su peso es igual al empuje: $P = E$. El empuje ($E = \\rho_{líq} g V_s$) depende de la densidad del agua y del volumen sumergido, los cuales no cambian. Al liberar lastre, su peso $P$ disminuye. La nueva condición es $P < E$, lo que resulta en una fuerza neta hacia arriba, provocando que el submarino ascienda.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_014",
+      "pregunta": "Considera un flujo de agua a través de una tubería que se estrecha. Asumiendo que el agua se comporta como un fluido ideal, ¿qué sucede con la separación de las líneas de corriente y la velocidad del agua al pasar de la sección ancha a la estrecha?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las líneas de corriente se juntan y la velocidad disminuye.",
+        "B": "Las líneas de corriente se separan y la velocidad aumenta.",
+        "C": "Las líneas de corriente se juntan y la velocidad aumenta.",
+        "D": "Las líneas de corriente y la velocidad no cambian.",
+        "E": "Las líneas de corriente se separan y la velocidad disminuye."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para un fluido ideal, el flujo es constante. En una tubería que se estrecha, el mismo volumen de fluido debe pasar por una sección transversal más pequeña en el mismo tiempo. Para que esto ocurra, la velocidad del fluido debe aumentar en la sección estrecha. Gráficamente, esto se representa con las líneas de corriente juntándose, ya que una mayor densidad de líneas de corriente indica una mayor velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_060_015",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la condición de 'equilibrio' y la de 'flotación' para un cuerpo en un líquido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "En equilibrio $P > E$, mientras que en flotación $E > P$.",
+        "B": "En equilibrio el cuerpo está totalmente sumergido con $\\rho_{cuerpo} = \\rho_{líq}$, mientras que en flotación está parcialmente sumergido con $\\rho_{cuerpo} < \\rho_{líq}$.",
+        "C": "No hay diferencia, ambos términos describen la misma situación física.",
+        "D": "En equilibrio el cuerpo asciende, mientras que en flotación desciende.",
+        "E": "En equilibrio $\\rho_{cuerpo} > \\rho_{líq}$, mientras que en flotación $\\rho_{cuerpo} = \\rho_{líq}$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque en ambas situaciones la fuerza neta es cero ($E = P$), existe una diferencia clave. El 'equilibrio' (neutro) ocurre cuando un cuerpo está completamente sumergido y permanece en esa posición; esto sucede si su densidad es igual a la del líquido ($\\rho_{cuerpo} = \\rho_{líq}$). La 'flotación' ocurre cuando un cuerpo está parcialmente sumergido en la superficie; esto sucede si su densidad es menor que la del líquido ($\\rho_{cuerpo} < \\rho_{líq}$), lo que le permite encontrar un punto de equilibrio donde el peso del fluido desalojado iguala su propio peso.",
+      "imagen": null
+    }
+  ]
+}

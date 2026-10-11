@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 37,
+  "total_temas": 137,
+  "titulo_tema": "Fuerzas Conservativas",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_037_001",
+      "pregunta": "¿Qué tipo de fuerzas se caracterizan por conservar la energía mecánica de un sistema?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerzas de rozamiento",
+        "B": "Fuerzas no conservativas",
+        "C": "Fuerzas disipativas",
+        "D": "Fuerzas conservativas",
+        "E": "Fuerzas netas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las fuerzas conservativas, como la gravitatoria y la elástica, se denominan así precisamente porque conservan la energía mecánica total del sistema. Las fuerzas no conservativas o disipativas, como el rozamiento, provocan un cambio (generalmente una disminución) en la energía mecánica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_002",
+      "pregunta": "¿Cuál de las siguientes expresiones representa correctamente la energía mecánica ($E_M$) de un sistema?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E_M = E_k - E_p$$",
+        "B": "$$E_M = E_k + E_p$$",
+        "C": "$$E_M = W_{NETO}$$",
+        "D": "$$E_M = \frac{1}{2}mv^2 - mgh$$",
+        "E": "$$E_M = \\Delta E_k$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía mecánica ($E_M$) se define como la suma de la energía cinética ($E_k$) y la energía potencial ($E_p$) del sistema. La energía potencial puede incluir componentes como la gravitatoria ($E_{PG}$) y la elástica ($E_{PE}$), por lo que la expresión general es $$E_M = E_k + E_p$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_003",
+      "pregunta": "Según el Teorema del Trabajo Neto y la Energía Cinética, el trabajo neto ($W_{NETO}$) realizado sobre un cuerpo es igual a:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía cinética final.",
+        "B": "La suma de la energía cinética y potencial.",
+        "C": "La variación de la energía cinética, $$\\Delta E_k$$.",
+        "D": "La variación de la energía potencial, $$\\Delta E_p$$.",
+        "E": "La energía mecánica total."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Teorema del Trabajo Neto y la Energía Cinética establece que el trabajo total o neto realizado sobre un objeto es igual al cambio o variación en su energía cinética. Esto se expresa matemáticamente como $$W_{NETO} = \\Delta E_k = E_{kf} - E_{ko}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_004",
+      "pregunta": "¿Qué característica principal define a una fuerza no conservativa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El trabajo realizado es cero en una trayectoria cerrada.",
+        "B": "Depende únicamente de la posición inicial y final.",
+        "C": "Conserva la energía mecánica del cuerpo.",
+        "D": "El trabajo que desarrolla depende de la trayectoria seguida.",
+        "E": "Da lugar a la energía potencial."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una característica fundamental de las fuerzas no conservativas, como la fricción, es que el trabajo que realizan depende del camino o trayectoria que sigue el objeto. A diferencia de las fuerzas conservativas, cuyo trabajo solo depende de los puntos inicial y final.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_005",
+      "pregunta": "¿Cuál de las siguientes opciones es un ejemplo de fuerza conservativa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fuerza de rozamiento",
+        "B": "La resistencia del aire",
+        "C": "La fuerza de gravedad (peso)",
+        "D": "La fuerza normal",
+        "E": "La tensión de una cuerda"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las fuerzas gravitatorias, elásticas y eléctricas son ejemplos de fuerzas conservativas. La fuerza de gravedad (peso) es conservativa porque el trabajo que realiza solo depende del cambio de altura (posición vertical), no del camino recorrido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_006",
+      "pregunta": "Si el trabajo neto realizado sobre un cuerpo es negativo ($$W_{NETO} < 0$$), ¿qué se puede afirmar sobre el movimiento del cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tiene movimiento acelerado.",
+        "B": "Tiene movimiento a velocidad constante.",
+        "C": "Tiene movimiento desacelerado.",
+        "D": "Su energía potencial aumenta.",
+        "E": "La energía mecánica se conserva."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según el Teorema del Trabajo y la Energía Cinética, $$W_{NETO} = \\Delta E_k = E_{kf} - E_{ko}$$. Si el trabajo neto es negativo, la energía cinética final es menor que la inicial, lo que implica que la velocidad del cuerpo disminuye. Por lo tanto, el cuerpo experimenta un movimiento desacelerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_007",
+      "pregunta": "¿Cómo se relaciona el trabajo realizado por la fuerza elástica ($W_{fuerza\\ elástica}$) con la variación de la energía potencial elástica ($\\Delta E_{PE}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{fuerza\\ elástica} = \\Delta E_{PE}$$",
+        "B": "$$W_{fuerza\\ elástica} = -\\Delta E_{PE}$$",
+        "C": "$$W_{fuerza\\ elástica} = 0$$",
+        "D": "$$W_{fuerza\\ elástica} = \\Delta E_k$$",
+        "E": "$$W_{fuerza\\ elástica} = E_{PE}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para las fuerzas conservativas, como la fuerza elástica, el trabajo que realizan se puede expresar como el negativo de la variación de la energía potencial asociada. Por lo tanto, la relación correcta es $$W_{fuerza\\ elástica} = -\\Delta E_{PE}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_008",
+      "pregunta": "¿Cuál es el valor del trabajo realizado por una fuerza conservativa a lo largo de una trayectoria cerrada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo",
+        "B": "Negativo",
+        "C": "Depende de la trayectoria",
+        "D": "Cero",
+        "E": "Infinito"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una propiedad fundamental de las fuerzas conservativas es que el trabajo que realizan en una trayectoria cerrada (donde el punto inicial y final son el mismo) es siempre nulo. Esto se debe a que su trabajo solo depende de la posición inicial y final, y en este caso, no hay cambio neto de posición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_009",
+      "pregunta": "Las fuerzas no conservativas se consideran disipativas porque:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumentan la energía cinética del sistema.",
+        "B": "Crean energía potencial.",
+        "C": "Transforman la energía mecánica en otras formas, como calor.",
+        "D": "El trabajo que realizan siempre es cero.",
+        "E": "Mantienen constante la energía mecánica total."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Se llaman disipativas porque \"disipan\" o reducen la energía mecánica del sistema, transformándola generalmente en energía calorífica debido al rozamiento. Esta energía no se destruye, pero deja de ser energía mecánica útil para el movimiento macroscópico del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_010",
+      "pregunta": "¿Bajo qué condición fundamental se cumple el Principio de la Conservación de la Energía Mecánica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el trabajo neto es cero.",
+        "B": "Cuando solo actúan fuerzas conservativas.",
+        "C": "Cuando el trabajo realizado por las fuerzas no conservativas es cero.",
+        "D": "Cuando la energía cinética es constante.",
+        "E": "Cuando el cuerpo se mueve a velocidad constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de conservación de la energía mecánica se deriva de la ecuación $$W_{FC} + W_{FNC} = \\Delta E_k$$. Para que la energía mecánica se conserve, el término que la modifica, es decir, el trabajo de las fuerzas no conservativas ($W_{FNC}$), debe ser nulo. Esto ocurre si no hay fuerzas no conservativas o si su trabajo neto es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_011",
+      "pregunta": "En la ecuación $$E_M = \frac{1}{2}mv^2 + mgh + \frac{1}{2}kx^2$$, ¿qué representa físicamente el término $$\frac{1}{2}kx^2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía cinética rotacional.",
+        "B": "La energía potencial gravitatoria.",
+        "C": "El trabajo realizado por el peso.",
+        "D": "La energía potencial elástica.",
+        "E": "La energía cinética traslacional."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La expresión completa de la energía mecánica incluye la energía cinética ($$\frac{1}{2}mv^2$$), la energía potencial gravitatoria ($$mgh$$) y la energía potencial elástica ($$\frac{1}{2}kx^2$$). Este último término representa la energía almacenada en un objeto elástico (como un resorte) cuando se deforma una distancia $x$ desde su posición de equilibrio, donde $k$ es la constante elástica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_012",
+      "pregunta": "Si un objeto se mueve en un circuito cerrado y regresa a su punto de partida, y se sabe que la fuerza de rozamiento actuó sobre él, ¿cómo es el trabajo total realizado por esta fuerza de rozamiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cero, porque volvió al punto de partida.",
+        "B": "Positivo, porque se realizó un movimiento.",
+        "C": "Diferente de cero y generalmente negativo.",
+        "D": "Igual al cambio en la energía potencial.",
+        "E": "Igual a la energía cinética final."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de rozamiento es una fuerza no conservativa. Una de sus características es que el trabajo realizado en una trayectoria cerrada es diferente de cero. Como la fuerza de rozamiento siempre se opone al movimiento, el trabajo que realiza es negativo, lo que resulta en una disipación de la energía mecánica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_013",
+      "pregunta": "Considere la ecuación $$W_{FC} + W_{FNC} = E_{kf} - E_{ko}$$. Si en un sistema se anula el trabajo de las fuerzas no conservativas ($$W_{FNC} = 0$$), ¿qué principio físico se obtiene?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La segunda ley de Newton.",
+        "B": "El principio de conservación de la energía mecánica.",
+        "C": "El teorema del impulso y la cantidad de movimiento.",
+        "D": "La ley de la gravitación universal.",
+        "E": "La ley de Hooke."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al establecer $$W_{FNC} = 0$$, la ecuación se simplifica a $$W_{FC} = E_{kf} - E_{ko}$$. Dado que el trabajo de las fuerzas conservativas es igual al negativo del cambio en la energía potencial ($$W_{FC} = -\\Delta E_p = -(E_{pf} - E_{po})$$), podemos reescribir la ecuación como $$-(E_{pf} - E_{po}) = E_{kf} - E_{ko}$$, que se reordena a $$E_{ko} + E_{po} = E_{kf} + E_{pf}$$. Esto demuestra que la energía mecánica inicial es igual a la final, lo cual es la definición del principio de conservación de la energía mecánica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_014",
+      "pregunta": "Un esquiador desciende por dos pistas diferentes, A y B, para llegar desde un punto inicial a un punto final que se encuentra a la misma altura en ambas pistas. La pista B es más larga que la A. Si ignoramos el rozamiento, ¿cómo es el trabajo ($$W_{peso}$$) realizado por la fuerza de gravedad en ambos casos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Mayor en la pista B porque es más larga.",
+        "B": "Mayor en la pista A porque es más corta.",
+        "C": "El mismo en ambas pistas.",
+        "D": "Cero en ambas pistas.",
+        "E": "Negativo en la pista A y positivo en la B."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de gravedad (peso) es una fuerza conservativa. Esto significa que el trabajo que realiza es independiente de la trayectoria y solo depende de la posición inicial y final (específicamente, del cambio de altura). Como el esquiador parte del mismo punto inicial y llega al mismo punto final en ambas pistas, el cambio de altura es idéntico, y por lo tanto, el trabajo realizado por la gravedad es el mismo en ambas trayectorias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_037_015",
+      "pregunta": "El Teorema del Trabajo Neto se deriva de la segunda ley de Newton ($$F_R=ma$$) y de una ecuación del M.R.U.V. ¿Qué ecuación se utiliza para llegar a la expresión $$W_{NETO} = \\Delta E_k$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$d = v_0 t + \frac{1}{2}at^2$$",
+        "B": "$$v_f = v_0 + at$$",
+        "C": "$$v_f^2 = v_0^2 + 2ad$$",
+        "D": "$$d = (\frac{v_f + v_0}{2})t$$",
+        "E": "$$F_R = m \frac{\\Delta v}{\\Delta t}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La derivación parte de $$W_{NETO} = F_R d$$. Usando la segunda ley de Newton, se sustituye $$F_R$$ por $$ma$$, obteniendo $$W_{NETO} = mad$$. Luego, se utiliza la ecuación cinemática $$v_f^2 = v_0^2 + 2ad$$, que no depende del tiempo, para despejar el término $$ad$$. Al despejar, se obtiene $$ad = \frac{v_f^2 - v_0^2}{2}$$. Sustituyendo esto en la ecuación del trabajo, resulta $$W_{NETO} = m(\frac{v_f^2 - v_0^2}{2}) = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_0^2 = \\Delta E_k$$.",
+      "imagen": null
+    }
+  ]
+}

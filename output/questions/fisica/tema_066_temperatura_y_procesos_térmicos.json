@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 66,
+  "total_temas": 137,
+  "titulo_tema": "Temperatura y Procesos Térmicos",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_066_001",
+      "pregunta": "¿Qué magnitud física indica qué tan caliente o frío está un objeto con respecto a una referencia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Energía interna",
+        "B": "Calor",
+        "C": "Equilibrio térmico",
+        "D": "Temperatura",
+        "E": "Energía cinética total"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La temperatura es la magnitud física que se utiliza para cuantificar el grado de calor o frío de un cuerpo. Las otras opciones son conceptos relacionados pero distintos: la energía interna es la energía total de las partículas, el calor es la energía transferida, y el equilibrio térmico es un estado, no una magnitud.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_002",
+      "pregunta": "A nivel microscópico, la temperatura es una medida de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número total de partículas en un objeto.",
+        "B": "La energía potencial promedio de las partículas.",
+        "C": "La energía cinética promedio de las partículas.",
+        "D": "El tamaño de las partículas.",
+        "E": "La fuerza de cohesión entre las partículas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura de un objeto está directamente relacionada con la energía cinética promedio de sus partículas constituyentes (átomos o moléculas). A mayor temperatura, mayor es la agitación y, por tanto, mayor la energía cinética promedio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_003",
+      "pregunta": "¿Qué es el equilibrio térmico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El estado en que un cuerpo alcanza su máxima temperatura posible.",
+        "B": "La transferencia de frío de un cuerpo a otro.",
+        "C": "La condición en que dos cuerpos en contacto alcanzan la misma temperatura.",
+        "D": "El punto en que las partículas de un cuerpo dejan de moverse.",
+        "E": "La energía total contenida dentro de un sistema cerrado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El equilibrio térmico es, por definición, la condición que se alcanza cuando dos o más cuerpos en contacto térmico igualan sus temperaturas. En este punto, el flujo neto de energía (calor) entre ellos se detiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_004",
+      "pregunta": "Según la descripción del movimiento de partículas, un objeto está caliente cuando sus partículas...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se mueven lentamente.",
+        "B": "Se mueven rápidamente.",
+        "C": "Dejan de moverse.",
+        "D": "Disminuyen su tamaño.",
+        "E": "Se agrupan en el centro del objeto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura es un reflejo de la agitación de las partículas de un cuerpo. Un objeto se considera caliente cuando sus partículas tienen una alta energía cinética promedio, lo que se traduce en un movimiento rápido y constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_005",
+      "pregunta": "¿Qué instrumento se utiliza para medir la temperatura?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Barómetro",
+        "B": "Calorímetro",
+        "C": "Termómetro",
+        "D": "Manómetro",
+        "E": "Amperímetro"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El texto menciona que la temperatura es algo que sentimos y medimos con termómetros. Un termómetro es el dispositivo diseñado específicamente para medir esta magnitud física.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_006",
+      "pregunta": "Cuando dos cuerpos a diferentes temperaturas se ponen en contacto, ¿en qué dirección ocurre la transferencia de energía interna?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Del cuerpo más pequeño al más grande.",
+        "B": "Del cuerpo con menor temperatura al de mayor temperatura.",
+        "C": "Del cuerpo con mayor temperatura al de menor temperatura.",
+        "D": "En ambas direcciones con la misma intensidad.",
+        "E": "No hay transferencia de energía, solo de temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La transferencia de energía interna (calor) ocurre de manera espontánea desde el cuerpo que se encuentra a una temperatura más alta hacia el cuerpo que se encuentra a una temperatura más baja. Este proceso continúa hasta que se alcanza el equilibrio térmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_007",
+      "pregunta": "¿Cuál es la consecuencia directa de que dos cuerpos en contacto alcancen el equilibrio térmico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos cuerpos se enfrían hasta el cero absoluto.",
+        "B": "La transferencia de energía entre ellos se detiene.",
+        "C": "El cuerpo originalmente más frío transfiere energía al más caliente.",
+        "D": "Ambos cuerpos aumentan su energía interna total.",
+        "E": "Las partículas en ambos cuerpos dejan de vibrar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El equilibrio térmico se caracteriza porque las temperaturas de los cuerpos en contacto se igualan. Una vez que esto sucede, ya no hay una diferencia de temperatura que impulse el flujo de energía, por lo que la transferencia neta de energía entre ellos cesa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_008",
+      "pregunta": "Si un objeto A está a 80°C y un objeto B está a 20°C y se ponen en contacto, ¿qué le sucederá a sus temperaturas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura de A aumentará y la de B disminuirá.",
+        "B": "Ambas temperaturas se mantendrán constantes.",
+        "C": "Ambas temperaturas aumentarán.",
+        "D": "La temperatura de A disminuirá y la de B aumentará.",
+        "E": "Ambas temperaturas disminuirán."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Debido a la transferencia de energía del cuerpo más caliente (A) al más frío (B), la energía interna de A disminuye, causando que su temperatura baje. Al mismo tiempo, la energía interna de B aumenta, provocando que su temperatura suba, hasta que ambos alcanzan una temperatura de equilibrio intermedia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_009",
+      "pregunta": "¿Cuándo culmina el proceso de transferencia de energía interna entre dos cuerpos en contacto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el cuerpo más caliente se enfría por completo.",
+        "B": "Inmediatamente después de que entran en contacto.",
+        "C": "Cuando se alcanza la temperatura de equilibrio.",
+        "D": "Cuando el cuerpo más frío transfiere todo su frío.",
+        "E": "Cuando ambos cuerpos tienen la misma cantidad de energía interna."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo de energía interna desde un cuerpo caliente a uno frío no es infinito. Este proceso se detiene o culmina precisamente cuando ambos cuerpos alcanzan la misma temperatura, conocida como la temperatura de equilibrio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_010",
+      "pregunta": "Si un objeto se siente frío al tacto, ¿qué se puede inferir sobre el movimiento de sus partículas en comparación con las de la mano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sus partículas se mueven más rápido en promedio.",
+        "B": "Sus partículas se mueven más lento en promedio.",
+        "C": "Sus partículas no se mueven.",
+        "D": "Tiene un menor número de partículas.",
+        "E": "El movimiento de sus partículas es idéntico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un objeto frío tiene una temperatura más baja, lo que significa que la energía cinética promedio de sus partículas es menor. Por lo tanto, sus partículas se mueven más lentamente en comparación con las de un objeto más caliente, como la mano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_011",
+      "pregunta": "¿Cuál es la relación fundamental entre la temperatura y la energía cinética de las partículas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura mide la energía cinética de una sola partícula.",
+        "B": "La temperatura es inversamente proporcional a la energía cinética promedio.",
+        "C": "La temperatura es una medida del promedio de la energía cinética de las partículas.",
+        "D": "La temperatura y la energía cinética son conceptos independientes.",
+        "E": "La temperatura mide la energía cinética total de todas las partículas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura no mide la energía de una partícula individual ni la suma total, sino el promedio de la energía cinética de todas las partículas que componen el objeto. Esta es la conexión directa entre la propiedad macroscópica (temperatura) y el comportamiento microscópico (movimiento de partículas).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_012",
+      "pregunta": "El hecho de que la energía interna se transfiera espontáneamente del cuerpo de mayor al de menor temperatura es una manifestación de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El principio de equilibrio térmico.",
+        "B": "La definición de energía cinética.",
+        "C": "Un proceso natural que busca un estado de balance.",
+        "D": "La medición con un termómetro.",
+        "E": "La inexistencia del frío como entidad física."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El proceso descrito es precisamente el mecanismo por el cual los sistemas tienden al equilibrio térmico. La transferencia de energía del cuerpo caliente al frío es el camino natural para que ambos alcancen una temperatura común y estable.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_013",
+      "pregunta": "Dos objetos, A y B, están en contacto. Si la temperatura de A está disminuyendo mientras que la de B aumenta, ¿qué se puede concluir con certeza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El objeto A es más pequeño que el objeto B.",
+        "B": "Inicialmente, la temperatura de A era mayor que la de B.",
+        "C": "Se alcanzará el equilibrio cuando A esté más frío que B.",
+        "D": "El objeto B está transfiriendo frío al objeto A.",
+        "E": "Ambos objetos alcanzarán una temperatura final de 0°C."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La disminución de la temperatura de A indica que está perdiendo energía interna, mientras que el aumento de la temperatura de B indica que la está ganando. Dado que la energía fluye del cuerpo más caliente al más frío, se puede concluir que, al inicio del proceso, el objeto A tenía una temperatura superior a la del objeto B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_014",
+      "pregunta": "Si no hay transferencia neta de energía interna entre dos cuerpos en contacto, significa que:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos cuerpos están a la temperatura más baja posible.",
+        "B": "Uno de los cuerpos tiene una energía interna igual a cero.",
+        "C": "Ambos cuerpos tienen la misma temperatura.",
+        "D": "La transferencia de energía ocurre, pero en dirección del cuerpo frío al caliente.",
+        "E": "Los cuerpos no están realmente en contacto físico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ausencia de una transferencia neta de energía es la definición operativa del equilibrio térmico. Si no hay flujo de energía, es porque no existe una diferencia de temperatura que lo impulse, lo que implica que ambos cuerpos deben estar a la misma temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_066_015",
+      "pregunta": "¿Por qué el concepto de 'temperatura' es fundamental para entender el 'equilibrio térmico'?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el equilibrio térmico es simplemente otro nombre para la temperatura.",
+        "B": "Porque el equilibrio térmico se define como el estado en el que las temperaturas de dos cuerpos se igualan.",
+        "C": "Porque la temperatura es la energía que se transfiere durante el equilibrio térmico.",
+        "D": "Porque solo los objetos sin temperatura pueden alcanzar el equilibrio térmico.",
+        "E": "Porque la temperatura mide la velocidad con la que se alcanza el equilibrio térmico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La conexión es definitoria: el equilibrio térmico es el estado final al que tiende un sistema de cuerpos en contacto, y este estado se define precisamente por la igualdad de sus temperaturas. La temperatura es la magnitud clave que nos permite saber si un sistema ha alcanzado o no el equilibrio térmico.",
+      "imagen": null
+    }
+  ]
+}

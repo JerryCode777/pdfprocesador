@@ -3,5 +3,231 @@
   "numero_tema": 210,
   "total_temas": 322,
   "titulo_tema": "Masa Molar",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_210_001",
+      "pregunta": "¿Qué es la masa molar de una sustancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa, en gramos, de un mol de sustancia.",
+        "B": "El volumen que ocupa una sustancia en condiciones normales.",
+        "C": "El número de moléculas en un gramo de sustancia.",
+        "D": "La masa de un solo átomo de un elemento.",
+        "E": "El porcentaje en masa de cada elemento en un compuesto."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La masa molar, representada como $M$, se define como la masa en gramos de un mol completo de una sustancia. Es una propiedad fundamental que relaciona la masa de una sustancia con la cantidad de materia (moles). Las otras opciones describen el volumen molar, una relación inversa al mol, la masa atómica y la composición porcentual, respectivamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_002",
+      "pregunta": "¿Cuál es el valor del número de Avogadro, que representa la cantidad de entidades en un mol?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$6.022 \times 10^{-23}$$",
+        "B": "$$22.4 \times 10^{23}$$",
+        "C": "$$6.022 \times 10^{23}$$",
+        "D": "$$1.602 \times 10^{-19}$$",
+        "E": "$$22.4$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número de Avogadro es una constante fundamental que define la cantidad de entidades (como átomos o moléculas) en un mol de una sustancia. Su valor aceptado es $$6.022 \times 10^{23}$$. La opción A tiene el exponente incorrecto. La opción E corresponde al valor del volumen molar de un gas en C.N., y las otras opciones son valores numéricos incorrectos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_003",
+      "pregunta": "¿En qué unidades se expresa comúnmente la masa molar ($M$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$L/mol$$",
+        "B": "$$g/mol$$",
+        "C": "$$mol/L$$",
+        "D": "$$g$$",
+        "E": "$$mol$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa molar se define como la masa (en gramos) por cada mol de sustancia, por lo que sus unidades son gramos por mol, expresado como $$g/mol$$. Las unidades $$L/mol$$ corresponden al volumen molar, $$mol/L$$ a la molaridad, $$g$$ a la masa y $$mol$$ a la cantidad de sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_004",
+      "pregunta": "¿Qué es la composición porcentual de un compuesto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de moles de cada elemento en un compuesto.",
+        "B": "El volumen de cada elemento en un mol del compuesto.",
+        "C": "El porcentaje en masa de cada elemento presente en un compuesto.",
+        "D": "La masa molar total del compuesto dividida por 100.",
+        "E": "La cantidad de moléculas en 100 gramos del compuesto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La composición porcentual describe la contribución en masa de cada elemento a la masa total del compuesto, expresada como un porcentaje. Se calcula para cada elemento dividiendo su masa en un mol del compuesto entre la masa molar total del compuesto y multiplicando por 100%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_005",
+      "pregunta": "¿A qué se refiere el término 'condiciones normales' (C.N.) cuando se habla del volumen molar de un gas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "1 atmósfera de presión y 0°C de temperatura.",
+        "B": "0 atmósferas de presión y 100°C de temperatura.",
+        "C": "1 atmósfera de presión y 25°C de temperatura.",
+        "D": "2 atmósferas de presión y 0°C de temperatura.",
+        "E": "Cualquier condición en la que el gas se comporte idealmente."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las condiciones normales (C.N.) de temperatura y presión son un estándar de referencia para los gases. Se definen como una presión de 1 atmósfera y una temperatura de 0°C (equivalente a 273.15 K). Bajo estas condiciones específicas, un mol de cualquier gas ideal ocupa aproximadamente 22.4 litros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_006",
+      "pregunta": "¿Cuál es la relación entre la masa molar de un compuesto y su masa fórmula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa molar es siempre el doble de la masa fórmula.",
+        "B": "La masa molar es numéricamente igual a la masa fórmula.",
+        "C": "No existe una relación directa entre ambas.",
+        "D": "La masa molar es la masa fórmula dividida por el número de Avogadro.",
+        "E": "La masa fórmula es el logaritmo de la masa molar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa fórmula (o masa molecular) se calcula sumando las masas atómicas de los átomos en una fórmula química y se expresa en unidades de masa atómica (uma). La masa molar es la masa de un mol de esa sustancia y, aunque conceptualmente distinta, es numéricamente igual a la masa fórmula, pero se expresa en gramos por mol ($g/mol$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_007",
+      "pregunta": "En un mol de agua ($$H_2O$$), ¿cuántos átomos de hidrógeno están presentes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$6.022 \times 10^{23}$$",
+        "B": "$$3.011 \times 10^{23}$$",
+        "C": "$$12.044 \times 10^{23}$$",
+        "D": "$$1.000 \times 10^{23}$$",
+        "E": "$$22.4 \times 10^{23}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un mol de agua ($$H_2O$$) contiene $$6.022 \times 10^{23}$$ moléculas de agua. Dado que cada molécula de agua tiene 2 átomos de hidrógeno, el número total de átomos de hidrógeno es el doble del número de Avogadro: $$2 \times (6.022 \times 10^{23}) = 12.044 \times 10^{23}$$ átomos de hidrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_008",
+      "pregunta": "El valor del volumen molar, $$V_o \\approx 22.4 \text{ L/mol}$$, es una propiedad que se aplica específicamente a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sustancias en estado sólido a cualquier temperatura.",
+        "B": "Sustancias en estado líquido en condiciones normales.",
+        "C": "Sustancias en estado gaseoso en condiciones normales.",
+        "D": "Cualquier sustancia a 0°C.",
+        "E": "Elementos puros en estado metálico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El volumen molar de $$22.4 \text{ L/mol}$$ es el volumen que ocupa un mol de una sustancia en estado gaseoso bajo condiciones normales (C.N.) de temperatura ($$0^\\circ C$$) y presión (1 atm). No se aplica a líquidos o sólidos, ya que sus volúmenes molares son mucho menores y no siguen esta regla general.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_009",
+      "pregunta": "De acuerdo con su etimología, la palabra 'molécula' es un diminutivo del latín 'moles'. ¿Qué significa 'moles'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una partícula diminuta",
+        "B": "Una cantidad contable",
+        "C": "Una unidad de medida",
+        "D": "Una masa",
+        "E": "Un átomo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término 'mol' proviene de la palabra latina 'moles', que significa 'una masa'. Por lo tanto, 'molécula' se puede interpretar como 'una masa pequeña', reflejando la idea de una pequeña porción de una sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_010",
+      "pregunta": "¿Qué representa la expresión matemática para calcular la composición porcentual de un elemento en un compuesto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La relación entre la masa molar del compuesto y la masa de un mol del elemento.",
+        "B": "El producto de la masa del elemento por la masa molar del compuesto, multiplicado por 100%.",
+        "C": "La división de la masa de un elemento en un mol del compuesto entre la masa molar del compuesto, multiplicado por 100%.",
+        "D": "La división del número de Avogadro entre la masa molar del compuesto.",
+        "E": "La masa del elemento dividida por el volumen molar del compuesto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para encontrar el porcentaje en masa de un elemento, se debe calcular qué fracción de la masa total del compuesto corresponde a ese elemento. Esto se logra dividiendo la masa total de ese elemento contenida en un mol del compuesto por la masa molar total del compuesto, y luego se convierte a porcentaje multiplicando por 100%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_011",
+      "pregunta": "En 1 mol de agua ($$H_2O$$), ¿cuántas entidades de cada tipo hay?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$6.022 \times 10^{23}$$ moléculas de agua, $$6.022 \times 10^{23}$$ átomos de oxígeno y $$6.022 \times 10^{23}$$ átomos de hidrógeno.",
+        "B": "$$1$$ molécula de agua, $$1$$ átomo de oxígeno y $$2$$ átomos de hidrógeno.",
+        "C": "$$6.022 \times 10^{23}$$ moléculas de agua, $$6.022 \times 10^{23}$$ átomos de oxígeno y $$12.044 \times 10^{23}$$ átomos de hidrógeno.",
+        "D": "$$6.022 \times 10^{23}$$ átomos totales.",
+        "E": "$$12.044 \times 10^{23}$$ moléculas de agua, $$6.022 \times 10^{23}$$ átomos de oxígeno y $$12.044 \times 10^{23}$$ átomos de hidrógeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un mol de cualquier sustancia molecular contiene $$6.022 \times 10^{23}$$ moléculas. Como la fórmula del agua es $$H_2O$$, cada molécula contiene 1 átomo de oxígeno y 2 átomos de hidrógeno. Por lo tanto, en 1 mol de agua hay: $$1 \times (6.022 \times 10^{23})$$ átomos de oxígeno y $$2 \times (6.022 \times 10^{23})$$ átomos de hidrógeno, lo cual es $$12.044 \times 10^{23}$$ átomos de hidrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_012",
+      "pregunta": "¿Qué información es necesaria para calcular la composición porcentual de un elemento en un compuesto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa del elemento en un mol del compuesto y la masa molar del compuesto.",
+        "B": "El número de Avogadro y el volumen molar del compuesto.",
+        "C": "La densidad y el punto de ebullición del compuesto.",
+        "D": "Únicamente el número de moles del compuesto.",
+        "E": "La presión y temperatura a la que se encuentra el compuesto."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El cálculo de la composición porcentual se basa en la proporción de masas. Específicamente, se requiere conocer la masa total aportada por un elemento dentro de un mol del compuesto (que se obtiene de su masa atómica y la fórmula química) y la masa molar total del compuesto. Las otras opciones no son directamente relevantes para este cálculo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_013",
+      "pregunta": "Si un compuesto tiene una masa molar $M$ y contiene un elemento con una masa total $m_{elemento}$ por mol del compuesto, ¿qué fórmula representa correctamente su composición porcentual ($%$) ?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\% = \\frac{M}{m_{elemento}} \\times 100\\%$$",
+        "B": "$$\\% = \\frac{m_{elemento}}{M} \\times 100\\%$$",
+        "C": "$$\\% = \\frac{m_{elemento}}{N_A} \\times 100\\%$$",
+        "D": "$$\\% = m_{elemento} \\times M \\times 100\\%$$",
+        "E": "$$\\% = \\frac{m_{elemento}}{V_o} \\times 100\\%$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La composición porcentual representa la fracción de la masa total que aporta un elemento. La fórmula correcta es la masa de la parte (masa del elemento por mol, $m_{elemento}$) dividida por la masa del todo (masa molar del compuesto, $M$), y el resultado multiplicado por 100 para expresarlo como porcentaje. Las otras fórmulas utilizan las variables de forma incorrecta o introducen constantes irrelevantes como el número de Avogadro ($N_A$) o el volumen molar ($V_o$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_014",
+      "pregunta": "¿Cuál de las siguientes propiedades molares es una constante para una sustancia dada, independientemente de las condiciones de presión y temperatura?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El volumen molar de un gas.",
+        "B": "La presión molar.",
+        "C": "La temperatura molar.",
+        "D": "La masa molar.",
+        "E": "La energía cinética molar de un gas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La masa molar es una propiedad intrínseca de una sustancia, determinada por la masa atómica de los elementos que la componen. No cambia con la presión o la temperatura. En cambio, el volumen molar de un gas depende explícitamente de la presión y la temperatura (por eso se define un valor específico para C.N.). Los otros términos no son conceptos estándar o también dependen de las condiciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_210_015",
+      "pregunta": "Si se tiene un mol de una sustancia elemental y un mol de un compuesto, ¿qué se puede afirmar con certeza sobre ambos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos tienen la misma masa molar.",
+        "B": "Ambos ocupan un volumen de 22.4 L.",
+        "C": "Ambos contienen $$6.022 \\times 10^{23}$$ entidades fundamentales (átomos para el elemento, moléculas para el compuesto).",
+        "D": "Ambos tienen la misma composición porcentual.",
+        "E": "Ambos contienen el mismo número total de átomos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de mol es universal: un mol de cualquier sustancia contiene $$6.022 \\times 10^{23}$$ entidades de esa sustancia. Para un elemento, estas entidades son átomos; para un compuesto molecular, son moléculas. A) Las masas molares serán diferentes. B) Solo ocuparán 22.4 L si son gases en C.N. D) La composición porcentual solo aplica a compuestos. E) Un mol de un compuesto contiene más átomos totales que un mol de un elemento monoatómico, ya que cada molécula está formada por varios átomos.",
+      "imagen": null
+    }
+  ]
 }

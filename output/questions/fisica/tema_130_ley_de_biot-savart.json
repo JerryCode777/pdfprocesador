@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 130,
+  "total_temas": 137,
+  "titulo_tema": "Ley de Biot-Savart",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_130_001",
+      "pregunta": "¿Qué forma tienen las líneas del campo magnético alrededor de un hilo conductor rectilíneo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Líneas rectas paralelas al conductor",
+        "B": "Circunferencias concéntricas al conductor",
+        "C": "Espirales que se alejan del conductor",
+        "D": "Líneas rectas radiales saliendo del conductor",
+        "E": "Elipses con el conductor en uno de sus focos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las líneas de campo magnético generadas por una corriente en un conductor rectilíneo son circunferencias concéntricas. El conductor se encuentra en el centro de estas circunferencias y estas se sitúan en un plano perpendicular al flujo de la corriente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_002",
+      "pregunta": "En la representación de campos magnéticos, ¿qué indica el símbolo ⊙?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una corriente entrante al plano del papel",
+        "B": "Un punto sin campo magnético",
+        "C": "El centro de una espira",
+        "D": "Una corriente saliente al plano del papel",
+        "E": "Una corriente paralela al plano del papel"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo ⊙ se utiliza como una convención para representar una corriente eléctrica que fluye hacia afuera del plano del papel, como si se viera la punta de una flecha que se acerca al observador.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_003",
+      "pregunta": "¿Qué indica el símbolo ⊗ en la representación de una corriente eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Corriente en dirección norte-sur",
+        "B": "Corriente nula o inexistente",
+        "C": "Corriente entrante al plano del papel",
+        "D": "Corriente saliente al plano del papel",
+        "E": "Corriente alterna"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El símbolo ⊗ se utiliza para representar una corriente eléctrica que fluye hacia adentro del plano del papel. La convención visual es la de observar la cola de una flecha que se aleja del observador.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_004",
+      "pregunta": "¿Qué científicos investigaron la intensidad de los campos magnéticos creados por corrientes, dando nombre a una ley fundamental?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Isaac Newton y Robert Hooke",
+        "B": "Michael Faraday y James Clerk Maxwell",
+        "C": "André-Marie Ampère y Hans Christian Ørsted",
+        "D": "Alessandro Volta y Luigi Galvani",
+        "E": "Jean Baptiste Biot y Félix Savart"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Jean Baptiste Biot y Félix Savart fueron los físicos que realizaron experimentos para determinar cómo la intensidad de una corriente eléctrica genera un campo magnético a su alrededor, lo que llevó a la formulación de la ley que lleva sus nombres.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_005",
+      "pregunta": "En la fórmula del campo magnético para un conductor rectilíneo, ¿qué representa el símbolo $μ₀$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La permitividad eléctrica del vacío",
+        "B": "La constante de gravitación universal",
+        "C": "La permeabilidad del espacio libre",
+        "D": "La densidad de la corriente",
+        "E": "La resistividad del material"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El símbolo $μ₀$ representa la permeabilidad del espacio libre (o del vacío), una constante fundamental en electromagnetismo que cuantifica la capacidad de un medio para permitir la formación de líneas de campo magnético. Su valor es $$4\\pi \\times 10^{-7} \\frac{T \\cdot m}{A}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_006",
+      "pregunta": "Según las conclusiones de Biot y Savart, ¿cuál es la relación general entre la intensidad del campo magnético ($B$), la intensidad de la corriente ($I$) y la distancia ($d$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$B$ es inversamente proporcional a $I$ y directamente proporcional a $d$",
+        "B": "$B$ es directamente proporcional a $I$ y directamente proporcional a $d$",
+        "C": "$B$ es directamente proporcional a $I$ e inversamente proporcional a $d$",
+        "D": "$B$ es inversamente proporcional a $I$ e inversamente proporcional a $d$",
+        "E": "$B$ es directamente proporcional a $I$ y al cuadrado de $d$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los experimentos de Biot y Savart demostraron que la intensidad del campo magnético ($B$) en un punto es directamente proporcional a la intensidad de la corriente ($I$) que lo genera (a más corriente, más campo) e inversamente proporcional a la distancia ($d$) desde el conductor hasta el punto (a más distancia, menos campo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_007",
+      "pregunta": "Para un conductor rectilíneo muy largo, si la intensidad de la corriente eléctrica ($I$) se duplica, ¿cómo cambia la magnitud del campo magnético ($B$) a una distancia fija?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad",
+        "B": "Se cuadruplica",
+        "C": "Permanece igual",
+        "D": "Se duplica",
+        "E": "Se reduce a la cuarta parte"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud del campo magnético ($B$) es directamente proporcional a la intensidad de la corriente ($I$). Esto significa que si $I$ se duplica, $B$ también se duplicará, siempre que la distancia ($d$) y los demás factores permanezcan constantes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_008",
+      "pregunta": "En el caso de una espira circular, ¿qué relación existe entre la magnitud del campo magnético ($B$) en su centro y su radio ($R$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es directamente proporcional a $R$",
+        "B": "Es inversamente proporcional a $R$",
+        "C": "Es directamente proporcional a $R^2$",
+        "D": "Es inversamente proporcional a $R^2$",
+        "E": "No depende de $R$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para una espira circular, la magnitud del campo magnético en su centro es inversamente proporcional a su radio ($R$). Esto implica que a medida que el radio de la espira aumenta, la intensidad del campo magnético en el centro disminuye.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_009",
+      "pregunta": "¿En qué unidades se miden la magnitud del campo magnético ($B$) y la intensidad de la corriente ($I$) en el Sistema Internacional?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$B$ en Gauss (G) e $I$ en voltios (V)",
+        "B": "$B$ en teslas (T) e $I$ en amperios (A)",
+        "C": "$B$ en webers (Wb) e $I$ en ohmios (Ω)",
+        "D": "$B$ en henrios (H) e $I$ en culombios (C)",
+        "E": "$B$ en faradios (F) e $I$ en vatios (W)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En el Sistema Internacional de Unidades (SI), la magnitud del campo magnético ($B$) se mide en teslas (T) y la intensidad de la corriente eléctrica ($I$) se mide en amperios (A).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_010",
+      "pregunta": "Si para un conductor rectilíneo la distancia ($d$) desde el alambre hasta el punto de medición se reduce a la mitad, ¿qué le sucede a la magnitud del campo magnético ($B$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad",
+        "B": "Se duplica",
+        "C": "Se cuadruplica",
+        "D": "No cambia",
+        "E": "Se reduce a la cuarta parte"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La magnitud del campo magnético ($B$) es inversamente proporcional a la distancia ($d$). Si la distancia se reduce a la mitad ($d/2$), el campo magnético se duplicará, ya que $B$ es proporcional a $1/d$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_011",
+      "pregunta": "¿Cuál es la relación entre la magnitud del campo magnético ($B$) en el centro de una espira y la intensidad de la corriente ($I$) que circula por ella?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es inversamente proporcional a $I$",
+        "B": "No depende de $I$",
+        "C": "Es directamente proporcional al cuadrado de $I$",
+        "D": "Es directamente proporcional a $I$",
+        "E": "Es inversamente proporcional al cuadrado de $I$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al igual que en un conductor rectilíneo, la magnitud del campo magnético ($B$) en el centro de una espira es directamente proporcional a la intensidad de la corriente ($I$). Si la corriente aumenta, el campo magnético en el centro también aumenta en la misma proporción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_012",
+      "pregunta": "¿Qué fórmula expresa correctamente la magnitud del campo magnético ($B$) producido por una corriente rectilínea muy larga?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$B = \\frac{\\mu_0 \\cdot I}{2\\pi d^2}$$",
+        "B": "$$B = \\frac{\\mu_0 \\cdot I}{2d}$$",
+        "C": "$$B = \\frac{\\mu_0 \\cdot I}{2\\pi d}$$",
+        "D": "$$B = \\frac{\\mu_0 \\cdot I^2}{2\\pi d}$$",
+        "E": "$$B = \\frac{2\\pi d}{\\mu_0 \\cdot I}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula correcta es $$B = \\frac{\\mu_0 \\cdot I}{2\\pi d}$$. Esta ecuación muestra que el campo $B$ es directamente proporcional a la corriente $I$ y a la permeabilidad $μ₀$, e inversamente proporcional a la distancia $d$ y al factor $2\\pi$, que surge de la geometría circular de las líneas de campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_013",
+      "pregunta": "Un conductor rectilíneo transporta una corriente $I$ y genera un campo magnético de magnitud $B$ a una distancia $d$. Si la corriente se triplica ($3I$) y la distancia se duplica ($2d$), ¿cuál será la nueva magnitud del campo magnético?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\frac{3}{2} B$$",
+        "B": "$$6 B$$",
+        "C": "$$\\frac{2}{3} B$$",
+        "D": "$$B$$",
+        "E": "$$\\frac{9}{4} B$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La fórmula del campo es $$B = \\frac{\\mu_0 I}{2\\pi d}$$. El nuevo campo $B'$ será $$B' = \\frac{\\mu_0 (3I)}{2\\pi (2d)} = \\frac{3}{2} \\left( \\frac{\\mu_0 I}{2\\pi d} \\right) = \\frac{3}{2} B$$. La magnitud del campo magnético será 1.5 veces la original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_014",
+      "pregunta": "Se mide el campo magnético de un conductor rectilíneo en un punto P a una distancia $d$, obteniendo una magnitud $B_P$. ¿Cuál será la magnitud del campo en un punto Q, situado a una distancia $3d$ del mismo conductor?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$3 B_P$$",
+        "B": "$$9 B_P$$",
+        "C": "$$B_P / 9$$",
+        "D": "$$B_P$$",
+        "E": "$$B_P / 3$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El campo magnético es inversamente proporcional a la distancia ($B \\propto 1/d$). Si la distancia se triplica (de $d$ a $3d$), la magnitud del campo magnético se reducirá a un tercio de su valor original. Por lo tanto, el campo en el punto Q será $$B_Q = B_P / 3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_130_015",
+      "pregunta": "¿Cuál es el valor numérico y las unidades de la constante de permeabilidad del espacio libre, $μ₀$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$4\\pi \\times 10^{7} \\frac{T \\cdot m}{A}$$",
+        "B": "$$4\\pi \\times 10^{-7} \\frac{T \\cdot m}{A}$$",
+        "C": "$$8.85 \\times 10^{-12} \\frac{C^2}{N \\cdot m^2}$$",
+        "D": "$$2\\pi \\times 10^{-7} \\frac{T \\cdot A}{m}$$",
+        "E": "$$6.67 \\times 10^{-11} \\frac{N \\cdot m^2}{kg^2}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La constante de permeabilidad del espacio libre, denotada por $μ₀$, tiene un valor definido exactamente como $$4\\pi \\times 10^{-7}$$ en unidades de teslas por metro sobre amperio ($$\\frac{T \\cdot m}{A}$$). Las otras opciones corresponden a valores incorrectos, unidades incorrectas o a otras constantes físicas como la permitividad del vacío o la constante de gravitación universal.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 10,
+  "total_temas": 137,
+  "titulo_tema": "Cinemática: Movimiento en un Plano",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_010_001",
+      "pregunta": "¿Qué es un proyectil, según el modelo idealizado utilizado en cinemática?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un cuerpo que se mueve exclusivamente en dirección vertical.",
+        "B": "Un cuerpo que recibe una velocidad inicial y cuya trayectoria es determinada solo por la gravedad.",
+        "C": "Cualquier objeto que se mueve a velocidad constante.",
+        "D": "Un cuerpo cuya trayectoria es afectada principalmente por la resistencia del aire.",
+        "E": "Un objeto que permanece en reposo en un campo gravitacional."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un proyectil se define como un cuerpo al que se le imparte una velocidad inicial y, a partir de ese momento, sigue una trayectoria que está completamente determinada por la aceleración de la gravedad, despreciando otros factores como la resistencia del aire.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_002",
+      "pregunta": "En ausencia de resistencia del aire, ¿qué forma geométrica describe la trayectoria de un proyectil?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Rectilínea",
+        "B": "Circular",
+        "C": "Parabólica",
+        "D": "Elíptica",
+        "E": "Hiperbólica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La combinación de un movimiento horizontal a velocidad constante y un movimiento vertical con aceleración constante (debido a la gravedad) da como resultado una trayectoria con forma de parábola.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_003",
+      "pregunta": "En el caso específico del movimiento semiparabólico, ¿cuál es el valor de la componente vertical inicial de la velocidad ($$v_{0y}$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Depende de la masa del proyectil.",
+        "B": "$$0 \\text{ m/s}$$",
+        "C": "Es igual a la componente horizontal de la velocidad.",
+        "D": "Es igual al valor de la aceleración de la gravedad.",
+        "E": "Es un valor negativo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El movimiento semiparabólico se inicia cuando un objeto es lanzado de forma puramente horizontal. Por lo tanto, en el instante inicial, no tiene componente de velocidad en la dirección vertical, es decir, su movimiento vertical parte del reposo ($$v_{0y} = 0 \\text{ m/s}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_004",
+      "pregunta": "¿Qué tipo de movimiento describe la componente horizontal de un proyectil en el modelo idealizado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Movimiento Rectilíneo Uniformemente Acelerado (M.R.U.A.)",
+        "B": "Movimiento Vertical de Caída Libre (M.V.C.L.)",
+        "C": "Movimiento Rectilíneo Uniforme (M.R.U.)",
+        "D": "Movimiento Circular Uniforme (M.C.U.)",
+        "E": "Movimiento Armónico Simple (M.A.S.)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el modelo idealizado, se desprecia la resistencia del aire. Al no haber fuerzas horizontales actuando sobre el proyectil, su aceleración horizontal es cero. Esto significa que su velocidad horizontal permanece constante, lo que corresponde a un Movimiento Rectilíneo Uniforme (M.R.U.).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_005",
+      "pregunta": "Para analizar el movimiento de un proyectil, se utiliza un modelo idealizado que desprecia, entre otros, un factor importante. ¿Cuál es?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad inicial del proyectil.",
+        "B": "La aceleración debida a la gravedad.",
+        "C": "La masa del proyectil.",
+        "D": "La resistencia del aire.",
+        "E": "La forma de la trayectoria."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El modelo idealizado simplifica el análisis del movimiento de un proyectil al ignorar los efectos de la resistencia del aire, así como la curvatura y rotación de la Tierra, para centrarse únicamente en la influencia de una aceleración gravitacional constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_006",
+      "pregunta": "¿Cómo se describe el movimiento total de un proyectil en un plano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como un único movimiento con aceleración y velocidad constantes.",
+        "B": "Como una combinación de movimiento horizontal acelerado y movimiento vertical a velocidad constante.",
+        "C": "Como una combinación de movimiento horizontal con velocidad constante y movimiento vertical con aceleración constante.",
+        "D": "Como un movimiento puramente acelerado en la dirección de la velocidad inicial.",
+        "E": "Como dos movimientos independientes que no ocurren en el mismo intervalo de tiempo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio clave para analizar el movimiento de proyectiles es descomponerlo en dos movimientos independientes y simultáneos: un movimiento horizontal con velocidad constante (M.R.U.) y un movimiento vertical con aceleración constante (M.V.C.L.) debido a la gravedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_007",
+      "pregunta": "¿Cuál es la función exclusiva de la aceleración de la gravedad en el movimiento de un proyectil?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuir la velocidad horizontal del proyectil.",
+        "B": "Cambiar la dirección del movimiento horizontal.",
+        "C": "Mantener constante la velocidad total del proyectil.",
+        "D": "Acelerar el proyectil únicamente en la dirección vertical.",
+        "E": "Anular la velocidad del proyectil en el punto más alto de su trayectoria."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza de la gravedad actúa verticalmente hacia abajo. Por lo tanto, la aceleración que produce (aceleración de la gravedad) solo afecta a la componente vertical de la velocidad. No tiene efecto sobre la componente horizontal, que permanece constante (en el modelo idealizado).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_008",
+      "pregunta": "En un lanzamiento semiparabólico, ¿cómo se comporta la rapidez vertical del proyectil a medida que transcurre el tiempo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Permanece constante e igual a cero.",
+        "B": "Disminuye de forma constante.",
+        "C": "Aumenta de forma constante.",
+        "D": "Permanece constante pero diferente de cero.",
+        "E": "Aumenta y luego disminuye."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El proyectil parte con una velocidad vertical de cero ($$v_{0y}=0$$). Por la acción de la aceleración constante de la gravedad, su rapidez en la dirección vertical se va incrementando de manera uniforme en cada segundo que pasa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_009",
+      "pregunta": "¿Cuál es la orientación del vector velocidad de un proyectil en cualquier instante de su trayectoria?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es siempre vertical, apuntando hacia abajo.",
+        "B": "Es siempre horizontal, en la dirección del lanzamiento.",
+        "C": "Es perpendicular a la trayectoria.",
+        "D": "Es tangente a la trayectoria.",
+        "E": "Es paralelo al vector aceleración."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El vector de velocidad instantánea siempre indica la dirección del movimiento en un punto específico. Por definición, esta dirección es siempre tangente a la curva que describe la trayectoria del objeto en ese punto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_010",
+      "pregunta": "¿Qué fórmula se utiliza para calcular el módulo de la velocidad real ($$v$$) de un proyectil, conociendo sus componentes horizontal ($$v_x$$) y vertical ($$v_y$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$v = v_x + v_y$$",
+        "B": "$$v = \\sqrt{v_x^2 + v_y^2}$$",
+        "C": "$$v = \\frac{v_x + v_y}{2}$$",
+        "D": "$$v = v_x^2 + v_y^2$$",
+        "E": "$$v = |v_y - v_x|$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las componentes de la velocidad, $$v_x$$ y $$v_y$$, son vectores perpendiculares entre sí. La velocidad real, $$v$$, es el vector resultante. Su módulo (o magnitud) se calcula aplicando el Teorema de Pitágoras al triángulo rectángulo formado por los vectores componentes: $$v = \\sqrt{v_x^2 + v_y^2}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_011",
+      "pregunta": "Además de la forma de la trayectoria, ¿qué característica fundamental define al movimiento semiparabólico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad inicial del proyectil es cero.",
+        "B": "La aceleración de la gravedad es variable.",
+        "C": "El lanzamiento se realiza con una velocidad inicial puramente horizontal.",
+        "D": "La componente horizontal de la velocidad es cero.",
+        "E": "El lanzamiento se realiza exclusivamente en dirección vertical."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El movimiento semiparabólico es un caso particular del movimiento de proyectiles que ocurre cuando el cuerpo es lanzado desde una cierta altura con una velocidad inicial que es completamente horizontal. Esto implica que la componente inicial de la velocidad vertical es nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_012",
+      "pregunta": "¿Cuál es la relación entre el tiempo que tarda el proyectil en recorrer su distancia horizontal y el tiempo que tarda en realizar su movimiento vertical?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El tiempo del recorrido horizontal es la mitad del tiempo del movimiento vertical.",
+        "B": "Son dos tiempos independientes y sin relación.",
+        "C": "Los intervalos de tiempo son iguales para ambos movimientos.",
+        "D": "El tiempo del movimiento vertical siempre es mayor.",
+        "E": "La relación depende de la velocidad inicial."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las bases del análisis del movimiento de proyectiles es que los movimientos horizontal y vertical, aunque son de distinta naturaleza (uno es M.R.U. y el otro M.V.C.L.), ocurren de forma simultánea. Por lo tanto, las distancias recorridas en ambos ejes se efectúan en los mismos intervalos de tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_013",
+      "pregunta": "Considerando que el movimiento horizontal de un proyectil es un M.R.U. (velocidad constante), ¿qué se puede concluir sobre la fuerza neta que actúa en la dirección horizontal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es una fuerza constante que impulsa al proyectil.",
+        "B": "Es una fuerza que aumenta con el tiempo.",
+        "C": "La fuerza neta horizontal es cero.",
+        "D": "Es igual en magnitud a la fuerza de gravedad.",
+        "E": "Es una fuerza de fricción variable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la Segunda Ley de Newton ($$F=ma$$), si la velocidad es constante, la aceleración es cero. Por lo tanto, si la componente horizontal de la velocidad ($$v_x$$) es constante, la aceleración horizontal es nula, lo que implica que la fuerza neta en la dirección horizontal también debe ser cero. Este es el supuesto fundamental del modelo idealizado que ignora la resistencia del aire.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_014",
+      "pregunta": "Si la gravedad no puede acelerar un proyectil de forma lateral, ¿qué le ocurre a la componente horizontal de su velocidad ($$v_x$$) durante todo el vuelo en el modelo idealizado?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Aumenta uniformemente.",
+        "B": "Disminuye hasta cero y luego se invierte.",
+        "C": "Permanece constante e igual a su valor inicial.",
+        "D": "Se anula en el punto más alto de la trayectoria.",
+        "E": "Varía dependiendo de la componente vertical de la velocidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración gravitacional es un vector puramente vertical. Dado que no tiene componente en la dirección horizontal, no puede alterar la velocidad en esa dirección. En consecuencia, la componente horizontal de la velocidad ($$v_x$$) se mantiene constante a lo largo de toda la trayectoria del proyectil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_010_015",
+      "pregunta": "En el modelo de proyectil como una partícula con aceleración constante, ¿cuáles son las características del vector aceleración a lo largo de toda la trayectoria?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su dirección es siempre tangente a la trayectoria.",
+        "B": "Su magnitud es constante, pero su dirección cambia.",
+        "C": "Es cero en el punto más alto del vuelo.",
+        "D": "Su magnitud y dirección son constantes.",
+        "E": "Su dirección es opuesta al vector velocidad."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El modelo se basa en la suposición de que la única aceleración que actúa sobre el proyectil es la de la gravedad. Esta aceleración es constante en magnitud (aproximadamente $$9.8 \\text{ m/s}^2$$ cerca de la superficie terrestre) y en dirección (siempre apunta verticalmente hacia abajo). Por lo tanto, el vector aceleración no cambia en ningún punto de la trayectoria.",
+      "imagen": null
+    }
+  ]
+}

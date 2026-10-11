@@ -11,12 +11,12 @@
       "opciones": {
         "A": "Átomos del mismo elemento con diferente número de masa",
         "B": "Átomos de diferentes elementos con igual número de masa pero diferente número atómico",
-        "C": "Átomos de diferentes elementos con igual número atómico pero diferente número de masa",
-        "D": "Átomos con la misma cantidad de neutrones pero diferente número atómico",
-        "E": "Átomos que poseen propiedades químicas y físicas idénticas"
+        "C": "Átomos con igual número de protones y neutrones",
+        "D": "Átomos de diferentes elementos con igual número atómico pero diferente número de masa",
+        "E": "Átomos que han perdido o ganado electrones"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Los isóbaros son, por definición, átomos que pertenecen a elementos químicos distintos (lo que implica un número atómico, $Z$, diferente), pero que comparten el mismo número de masa ($A$). Como consecuencia de tener diferente número atómico, sus propiedades químicas y físicas son diferentes.",
+      "explicacion": "Los isóbaros son átomos que pertenecen a elementos químicos distintos, lo que significa que tienen un número atómico ($Z$) diferente. Sin embargo, comparten el mismo número de masa ($A$). Sus propiedades físicas y químicas son diferentes debido a que son elementos distintos.",
       "imagen": null
     },
     {
@@ -24,59 +24,59 @@
       "pregunta": "¿Qué es la radiactividad natural?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un proceso en el que los núcleos estables se combinan para formar otros más grandes",
-        "B": "La división de un núcleo pesado en núcleos más pequeños inducida por un neutrón",
-        "C": "Un fenómeno donde núcleos atómicos inestables emiten partículas o radiación electromagnética de forma espontánea",
-        "D": "La creación artificial de nuevos elementos en un laboratorio mediante bombardeo nuclear",
-        "E": "La absorción de energía por parte de los núcleos atómicos para volverse más estables"
+        "A": "La combinación de núcleos pequeños para formar núcleos más grandes",
+        "B": "Un fenómeno donde núcleos atómicos inestables emiten partículas o radiación",
+        "C": "El bombardeo de un núcleo con neutrones para generar energía",
+        "D": "La propiedad de todos los elementos con número atómico menor a 83",
+        "E": "Un proceso que ocurre exclusivamente en el Sol a altas temperaturas"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La radiactividad natural es el proceso espontáneo por el cual los núcleos atómicos inestables se desintegran, emitiendo partículas subatómicas o radiación electromagnética para alcanzar un estado de mayor estabilidad. No es un proceso inducido ni se limita a la combinación de núcleos.",
+      "respuesta_correcta": "B",
+      "explicacion": "La radiactividad natural es un proceso espontáneo en el que los núcleos atómicos inestables se desintegran, emitiendo partículas (como alfa o beta) o radiación electromagnética (como los rayos gamma) para alcanzar un estado más estable. Este fenómeno es característico de ciertos isótopos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_003",
-      "pregunta": "¿Qué proceso nuclear se define como la combinación de pequeños núcleos para formar otros más grandes?",
+      "pregunta": "¿En qué consiste la fusión nuclear?",
       "dificultad": 1,
       "opciones": {
-        "A": "Fisión nuclear",
-        "B": "Transmutación nuclear",
-        "C": "Radiactividad natural",
-        "D": "Fusión nuclear",
-        "E": "Decaimiento gamma"
+        "A": "En la división de un núcleo pesado en núcleos más pequeños",
+        "B": "En la emisión de partículas desde un núcleo inestable",
+        "C": "En el bombardeo de un núcleo con protones",
+        "D": "En la combinación de núcleos pequeños para formar otros más grandes",
+        "E": "En la estabilización de elementos con número atómico mayor a 83"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La fusión nuclear es el proceso en el cual dos o más núcleos atómicos ligeros se unen para formar un núcleo más pesado. Este proceso libera enormes cantidades de energía y es característico de las estrellas, como el Sol.",
+      "explicacion": "La fusión nuclear es un proceso en el que dos o más núcleos atómicos ligeros se unen para formar un núcleo más pesado. Este proceso libera enormes cantidades de energía y es la fuente de energía de las estrellas, como el Sol.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_004",
-      "pregunta": "¿En qué consiste la transmutación nuclear?",
+      "pregunta": "¿Cómo se genera la transmutación nuclear?",
       "dificultad": 1,
       "opciones": {
-        "A": "En la emisión espontánea de radiación desde un núcleo inestable",
-        "B": "En la combinación de núcleos ligeros para formar uno más pesado",
-        "C": "En la división espontánea de un núcleo pesado en varios más ligeros",
-        "D": "En la radiactividad generada al bombardear un núcleo con partículas como neutrones o protones",
-        "E": "En el aumento de la estabilidad nuclear sin cambiar la composición del núcleo"
+        "A": "Por la emisión espontánea de radiación de un núcleo inestable",
+        "B": "Por la combinación de núcleos de hidrógeno para formar helio",
+        "C": "Cuando un núcleo es bombardeado con neutrones, protones u otros núcleos",
+        "D": "Únicamente en elementos con número atómico mayor a 83",
+        "E": "A temperaturas extremadamente bajas para conservar la estabilidad nuclear"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La transmutación nuclear es un tipo de radiactividad que se induce o genera. Ocurre cuando un núcleo atómico es bombardeado por partículas externas (neutrones, protones, etc.), lo que provoca un cambio en su estructura y lo convierte en el núcleo de un elemento diferente.",
+      "respuesta_correcta": "C",
+      "explicacion": "La transmutación nuclear es la conversión de un elemento químico o un isótopo en otro. Este tipo de radiactividad es inducida, es decir, se provoca artificialmente al bombardear un núcleo objetivo con partículas como neutrones, protones u otros núcleos, alterando su composición.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_005",
-      "pregunta": "¿Qué característica común presentan todos los elementos con un número atómico ($Z$) mayor a 83?",
+      "pregunta": "¿A partir de qué número atómico ($Z$) se considera que todos los elementos son radiactivos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Son metales alcalinos",
-        "B": "Son extremadamente estables",
-        "C": "Son radiactivos",
-        "D": "Tienen propiedades químicas idénticas",
-        "E": "Participan únicamente en reacciones de fusión"
+        "A": "$$Z > 92$$",
+        "B": "$$Z < 83$$",
+        "C": "$$Z = 83$$",
+        "D": "$$Z > 83$$",
+        "E": "$$Z = 92$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Una propiedad fundamental de los elementos pesados es que todos aquellos con un número atómico ($Z$) superior a 83 (es decir, los elementos que están después del bismuto en la tabla periódica) poseen núcleos inestables. Esta inestabilidad los hace radiactivos por naturaleza.",
+      "respuesta_correcta": "D",
+      "explicacion": "Existe una regla general en química nuclear que establece que todos los isótopos de los elementos con un número atómico ($Z$) superior a 83 son inherentemente inestables y, por lo tanto, radiactivos. El bismuto ($Z=83$) es el último elemento con un isótopo estable.",
       "imagen": null
     },
     {
@@ -85,148 +85,148 @@
       "dificultad": 2,
       "opciones": {
         "A": "Sus propiedades químicas son idénticas, pero las físicas son diferentes",
-        "B": "Sus propiedades físicas son idénticas, pero las químicas son diferentes",
-        "C": "Tanto sus propiedades químicas como físicas son diferentes",
-        "D": "Tanto sus propiedades químicas como físicas son idénticas",
-        "E": "Sus propiedades químicas son similares, pero no idénticas"
+        "B": "Sus propiedades físicas y químicas son diferentes",
+        "C": "Sus propiedades físicas son idénticas, pero las químicas son diferentes",
+        "D": "Tanto sus propiedades físicas como químicas son idénticas",
+        "E": "Sus propiedades son similares solo si pertenecen al mismo período de la tabla periódica"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los isóbaros son átomos de elementos diferentes, lo que significa que tienen un número atómico ($Z$) distinto. El número atómico determina la configuración electrónica y, por ende, las propiedades químicas. Al ser elementos diferentes, sus propiedades químicas y físicas son distintas.",
+      "respuesta_correcta": "B",
+      "explicacion": "Los isóbaros son átomos de elementos diferentes, lo que significa que tienen un número atómico ($Z$) distinto. El número atómico determina la configuración electrónica y, por ende, las propiedades químicas. Al ser elementos diferentes, sus propiedades tanto químicas como físicas son distintas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_007",
-      "pregunta": "¿Cuál es la principal diferencia entre la radiactividad natural y la transmutación nuclear?",
+      "pregunta": "¿Qué proceso nuclear es fundamental para la producción de energía en el Sol?",
       "dificultad": 2,
       "opciones": {
-        "A": "La radiactividad natural solo emite radiación, mientras que la transmutación solo emite partículas",
-        "B": "La radiactividad natural es un proceso espontáneo, mientras que la transmutación es inducida por bombardeo de partículas",
-        "C": "La transmutación ocurre solo en elementos con $Z > 83$, y la radiactividad natural en elementos ligeros",
-        "D": "La transmutación siempre produce núcleos más pesados, y la radiactividad natural siempre produce núcleos más ligeros",
-        "E": "No hay ninguna diferencia fundamental, son términos sinónimos"
+        "A": "Fisión nuclear de uranio",
+        "B": "Radiactividad natural de elementos pesados",
+        "C": "Transmutación inducida por bombardeo de neutrones",
+        "D": "Fusión nuclear de hidrógeno y helio",
+        "E": "Desintegración beta de isótopos de carbono"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La diferencia clave radica en el origen del proceso. La radiactividad natural es un decaimiento espontáneo que ocurre sin intervención externa en núcleos inestables. En cambio, la transmutación nuclear es un proceso provocado o inducido, que se inicia al bombardear un núcleo con partículas externas para forzar su transformación.",
+      "respuesta_correcta": "D",
+      "explicacion": "El Sol está compuesto principalmente por hidrógeno y helio. En su núcleo, a temperaturas de millones de grados Celsius, ocurren reacciones de fusión nuclear donde los núcleos de hidrógeno se combinan para formar núcleos de helio, liberando la energía que percibimos como luz y calor.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_008",
-      "pregunta": "¿Cómo se relaciona la estabilidad nuclear con el número de masa ($A$) durante la fusión de elementos ligeros?",
+      "pregunta": "¿Qué distingue a la transmutación nuclear de la radiactividad natural?",
       "dificultad": 2,
       "opciones": {
-        "A": "La estabilidad nuclear disminuye a medida que aumenta el número de masa",
-        "B": "La estabilidad nuclear aumenta con el número de masa",
-        "C": "La estabilidad nuclear no tiene relación con el número de masa",
-        "D": "La estabilidad nuclear solo aumenta si los núcleos que se fusionan son idénticos",
-        "E": "La estabilidad nuclear es máxima para los elementos más ligeros antes de la fusión"
+        "A": "La transmutación solo ocurre en elementos ligeros",
+        "B": "La radiactividad natural es un proceso inducido, mientras que la transmutación es espontánea",
+        "C": "La transmutación se genera por bombardeo de partículas, mientras que la radiactividad natural es espontánea",
+        "D": "La transmutación no libera energía, a diferencia de la radiactividad natural",
+        "E": "La radiactividad natural solo emite radiación electromagnética"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para los elementos más ligeros de la tabla periódica, la fusión nuclear es un proceso que conduce a una mayor estabilidad. Al combinar núcleos pequeños para formar uno más grande y más pesado, el núcleo resultante es más estable que los núcleos iniciales. Por lo tanto, la estabilidad nuclear aumenta con el incremento del número de masa en este rango de elementos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia clave radica en su origen. La radiactividad natural es un decaimiento espontáneo de un núcleo inestable sin intervención externa. En cambio, la transmutación nuclear es un proceso provocado o inducido, que ocurre cuando un núcleo estable es bombardeado por partículas externas, forzándolo a transformarse en otro núcleo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_009",
-      "pregunta": "¿Qué condiciones se mencionan como cruciales para que ocurran las reacciones de fusión en el Sol?",
+      "pregunta": "Según el principio de la fusión nuclear, ¿cómo se relaciona la estabilidad nuclear con el número de masa para los elementos más ligeros?",
       "dificultad": 2,
       "opciones": {
-        "A": "Presiones extremadamente bajas y temperaturas cercanas al cero absoluto",
-        "B": "La presencia de elementos con número atómico superior a 83",
-        "C": "Temperaturas de aproximadamente 15 millones de grados Celsius",
-        "D": "Un bombardeo constante de neutrones desde el exterior",
-        "E": "La ausencia total de helio en su composición"
+        "A": "La estabilidad disminuye a medida que aumenta el número de masa",
+        "B": "La estabilidad no tiene relación con el número de masa",
+        "C": "La estabilidad aumenta con el número de masa",
+        "D": "La estabilidad es máxima para el hidrógeno y disminuye a partir de ahí",
+        "E": "La estabilidad solo aumenta si el número de neutrones es par"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La fusión nuclear requiere condiciones extremas para superar la repulsión electrostática entre los núcleos atómicos. En el interior del Sol, las temperaturas alcanzan unos 15 millones de grados Celsius, proporcionando la energía cinética necesaria para que los núcleos ligeros, como los de hidrógeno y helio, puedan vencer esa repulsión y fusionarse.",
+      "explicacion": "En el contexto de la fusión, para los elementos más ligeros (como el hidrógeno y el helio), la fusión de núcleos para formar núcleos más grandes y con mayor número de masa conduce a un estado de mayor estabilidad nuclear. Este aumento de estabilidad es lo que impulsa la liberación de energía en el proceso.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_010",
-      "pregunta": "Un átomo de Argón-40 ($Z=18$, $A=40$) y un átomo de Calcio-40 ($Z=20$, $A=40$) son un ejemplo de:",
+      "pregunta": "¿Qué tipo de emisiones son características del fenómeno de la radiactividad natural?",
       "dificultad": 2,
       "opciones": {
-        "A": "Isótopos, porque tienen el mismo número de masa",
-        "B": "Isóbaros, porque tienen el mismo número de masa pero diferente número atómico",
-        "C": "Átomos del mismo elemento químico",
-        "D": "Átomos con el mismo número de protones",
-        "E": "Iones con diferente carga eléctrica"
+        "A": "Únicamente emisión de neutrones",
+        "B": "Emisión de partículas o radiación electromagnética",
+        "C": "Únicamente emisión de protones",
+        "D": "Absorción de núcleos ligeros",
+        "E": "Solamente ondas de radio de baja frecuencia"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Estos dos átomos pertenecen a elementos diferentes (Argón con $Z=18$ y Calcio con $Z=20$), por lo que tienen diferente número atómico. Sin embargo, ambos comparten el mismo número de masa ($A=40$). La definición de átomos de diferentes elementos con igual número de masa y diferente número atómico corresponde exactamente a la de los isóbaros.",
+      "explicacion": "La radiactividad natural es el proceso por el cual núcleos inestables buscan estabilidad. Para lograrlo, emiten energía y materia en forma de partículas (como las partículas alfa, que son núcleos de helio, o las partículas beta, que son electrones o positrones) o en forma de radiación electromagnética de alta energía (rayos gamma).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_011",
-      "pregunta": "¿Cuál de los siguientes procesos describe un evento que ocurre continuamente en el Sol, según su composición principal?",
+      "pregunta": "¿Cuál es la condición ambiental mencionada como necesaria para que ocurran las reacciones de fusión en el interior del Sol?",
       "dificultad": 2,
       "opciones": {
-        "A": "La transmutación de elementos pesados como el uranio",
-        "B": "La fisión de núcleos de helio para formar hidrógeno",
-        "C": "La fusión nuclear de elementos ligeros como hidrógeno y helio",
-        "D": "El decaimiento radiactivo natural de todos sus componentes",
-        "E": "La formación espontánea de isóbaros estables"
+        "A": "Presencia de un campo magnético intenso",
+        "B": "Temperaturas extremadamente bajas, cercanas al cero absoluto",
+        "C": "Ausencia total de helio",
+        "D": "Una presión atmosférica muy baja",
+        "E": "Temperaturas de alrededor de 15 millones de grados Celsius"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El Sol está compuesto principalmente por hidrógeno y helio. En su núcleo, las condiciones de altísima temperatura y presión permiten que ocurran reacciones de fusión nuclear de forma continua, donde los núcleos de elementos ligeros se combinan para formar otros más pesados, liberando la energía que lo hace brillar.",
+      "respuesta_correcta": "E",
+      "explicacion": "Para superar la repulsión electrostática entre los núcleos de hidrógeno (que tienen carga positiva), se requieren condiciones extremas de temperatura y presión. En el núcleo del Sol, la temperatura alcanza unos 15 millones de grados Celsius, proporcionando la energía cinética necesaria para que los núcleos se acerquen lo suficiente y se fusionen.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_012",
-      "pregunta": "¿Qué tipo de proyectiles pueden iniciar una transmutación nuclear al ser bombardeados contra un núcleo?",
+      "pregunta": "Dado que los isóbaros son átomos de elementos diferentes, ¿qué característica fundamental los distingue a nivel subatómico?",
       "dificultad": 2,
       "opciones": {
-        "A": "Únicamente fotones de alta energía (rayos gamma)",
-        "B": "Solamente otros núcleos atómicos idénticos al blanco",
-        "C": "Neutrones, protones y otros núcleos",
-        "D": "Electrones y positrones a baja velocidad",
-        "E": "Radiación electromagnética de baja frecuencia"
+        "A": "Diferente número de masa ($A$)",
+        "B": "Diferente número total de protones y neutrones",
+        "C": "Diferente número atómico ($Z$)",
+        "D": "Diferente carga eléctrica neta",
+        "E": "Igual número de neutrones"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La transmutación nuclear es un proceso inducido que se logra al hacer colisionar un núcleo objetivo con partículas energéticas. Estas partículas pueden ser nucleones (como neutrones y protones) u otros núcleos atómicos, los cuales tienen la capacidad de alterar la composición del núcleo bombardeado y transformarlo.",
+      "explicacion": "La identidad de un elemento químico está definida por su número atómico ($Z$), que es el número de protones en el núcleo. Como los isóbaros son átomos de elementos diferentes, necesariamente deben tener un número diferente de protones, es decir, un número atómico ($Z$) diferente. Su número de masa ($A$), que es la suma de protones y neutrones, es igual.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_013",
-      "pregunta": "Considerando la definición de isóbaros, si el Átomo X tiene un número atómico $Z_X$ y un número de masa $A_X$, y el Átomo Y es un isóbaro de X, ¿qué relación matemática debe cumplirse siempre?",
+      "pregunta": "El Potasio-40 tiene un número atómico $Z=19$ y un número de masa $A=40$. El Calcio-40 tiene un número atómico $Z=20$ y un número de masa $A=40$. ¿Qué relación existe entre estos dos átomos?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$Z_X = Z_Y$$ y $$A_X \\neq A_Y$$",
-        "B": "$$Z_X \\neq Z_Y$$ y $$A_X = A_Y$$",
-        "C": "$$Z_X = Z_Y$$ y $$A_X = A_Y$$",
-        "D": "$$Z_X > Z_Y$$ y $$A_X < A_Y$$",
-        "E": "$$(A_X - Z_X) = (A_Y - Z_Y)$$"
+        "A": "Son isótopos",
+        "B": "Son el mismo elemento en diferentes estados de excitación",
+        "C": "Son isóbaros",
+        "D": "Son iones del mismo elemento",
+        "E": "Son isótonos"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La definición de isóbaros establece dos condiciones fundamentales: 1) son átomos de elementos diferentes, lo que implica que su número atómico debe ser distinto ($$Z_X \\neq Z_Y$$), y 2) poseen el mismo número de masa ($$A_X = A_Y$$). La opción B es la única que representa matemáticamente ambas condiciones. La opción E, donde $$(A - Z)$$ representa el número de neutrones, definiría a los isótonos, no a los isóbaros.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para determinar la relación, analizamos sus números atómicos ($Z$) y de masa ($A$). El Potasio-40 tiene $Z=19$ y $A=40$. El Calcio-40 tiene $Z=20$ y $A=40$. Como tienen diferente número atómico ($19 \neq 20$) pero igual número de masa ($40 = 40$), cumplen con la definición de isóbaros.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_014",
-      "pregunta": "A partir de la información sobre radiactividad natural y transmutación nuclear, ¿cuál de las siguientes afirmaciones es una inferencia lógica correcta?",
+      "pregunta": "Un núcleo de Polonio ($Z=84$) emite espontáneamente una partícula alfa. Otro núcleo de Nitrógeno ($Z=7$) es bombardeado con un neutrón y se convierte en Carbono ($Z=6$). ¿Cómo se clasifican estos dos procesos?",
       "dificultad": 3,
       "opciones": {
-        "A": "Todo proceso radiactivo es inducido artificialmente mediante bombardeo",
-        "B": "La radiactividad puede ser tanto un fenómeno espontáneo como un proceso inducido",
-        "C": "La fusión nuclear es un tipo de radiactividad natural que ocurre en la Tierra",
-        "D": "Solamente los elementos con $Z > 83$ pueden experimentar transmutación nuclear",
-        "E": "La transmutación nuclear siempre resulta en un núcleo más estable que el original"
+        "A": "Ambos son ejemplos de fusión nuclear",
+        "B": "El primero es transmutación nuclear y el segundo es radiactividad natural",
+        "C": "Ambos son ejemplos de radiactividad natural",
+        "D": "El primero es radiactividad natural y el segundo es transmutación nuclear",
+        "E": "Ambos son ejemplos de fisión nuclear"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El contenido describe dos tipos de fenómenos. La \"radiactividad natural\" es un proceso espontáneo de núcleos inestables. La \"transmutación nuclear\" es una radiactividad \"que se genera cuando un núcleo es bombardeado\", es decir, es inducida. Por lo tanto, se puede inferir lógicamente que la radiactividad abarca tanto procesos espontáneos (naturales) como inducidos (transmutación).",
+      "respuesta_correcta": "D",
+      "explicacion": "El primer proceso, la emisión espontánea de una partícula desde un núcleo inestable (Polonio, $Z > 83$), es un ejemplo de radiactividad natural. El segundo proceso, donde un núcleo es bombardeado por una partícula (un neutrón) para transformarse en otro, es la definición de transmutación nuclear inducida.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_051_015",
-      "pregunta": "¿Por qué la fusión nuclear, como la que ocurre en el Sol, no sucede de forma natural y continua en condiciones terrestres estándar?",
+      "pregunta": "Sabiendo que los isóbaros son átomos de elementos diferentes con el mismo número de masa, ¿qué se puede inferir sobre su composición de protones y neutrones?",
       "dificultad": 3,
       "opciones": {
-        "A": "Porque en la Tierra no existen elementos ligeros como el hidrógeno y el helio",
-        "B": "Porque la gravedad terrestre es demasiado fuerte y previene la unión de los núcleos",
-        "C": "Porque los elementos en la Tierra son inherentemente estables y no pueden fusionarse",
-        "D": "Porque se requieren temperaturas y presiones extremadamente altas para superar la repulsión entre los núcleos",
-        "E": "Porque la fisión nuclear es el proceso dominante en la Tierra y cancela cualquier intento de fusión"
+        "A": "Tienen el mismo número de protones pero diferente número de neutrones",
+        "B": "Tienen diferente número de protones y diferente número de neutrones",
+        "C": "Tienen el mismo número de protones y el mismo número de neutrones",
+        "D": "Tienen diferente número de protones pero el mismo número de neutrones",
+        "E": "Tienen diferente número de protones y un número de neutrones que compensa la diferencia para mantener el mismo número de masa"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El texto especifica que la fusión en el Sol ocurre a \"temperaturas de unos 15 millones de grados Celsius\". Esta condición extrema es necesaria para que los núcleos atómicos, que tienen carga positiva y se repelen fuertemente, adquieran suficiente energía para vencer esa repulsión y unirse. Las condiciones de temperatura y presión en la superficie de la Tierra son insuficientes para que este proceso ocurra de manera espontánea y sostenida.",
+      "respuesta_correcta": "E",
+      "explicacion": "La definición indica que los isóbaros tienen diferente número atómico ($Z$), lo que significa un número de protones diferente. También tienen el mismo número de masa ($A$), donde $$A = \text{protones} + \text{neutrones}$$. Para que $A$ sea constante mientras el número de protones cambia, el número de neutrones debe cambiar en la dirección opuesta para compensar. Por lo tanto, tienen diferente número de protones y un número de neutrones que se ajusta para que la suma total sea la misma.",
       "imagen": null
     }
   ]

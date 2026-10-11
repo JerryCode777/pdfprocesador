@@ -3,5 +3,231 @@
   "numero_tema": 310,
   "total_temas": 322,
   "titulo_tema": "Acyloxy Group",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_310_001",
+      "pregunta": "¿Cuál es el grupo funcional característico de los esteres?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Grupo hidroxilo ($-OH$)",
+        "B": "Grupo carboxilo ($-COOH$)",
+        "C": "Grupo aciloxi ($-COO-$)",
+        "D": "Grupo carbonilo ($>C=O$)",
+        "E": "Grupo amino ($-NH_{2}$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El grupo funcional que define a los esteres es el grupo aciloxi, representado como $-COO-$. Este grupo consiste en un grupo carbonilo unido a un átomo de oxígeno, que a su vez está unido a otro grupo alquilo o arilo. El grupo carboxilo es de los ácidos carboxílicos y el hidroxilo de los alcoholes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_002",
+      "pregunta": "¿Cuál es la fórmula general que representa la estructura de un ester?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$R-COOH$$",
+        "B": "$$R-O-R'$$",
+        "C": "$$R-CHO$$",
+        "D": "$$R-COO-R'$$",
+        "E": "$$R-CO-R'$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula general de un ester es $$R-COO-R'$$. En esta estructura, $R$ representa la cadena de carbono proveniente del ácido carboxílico y $R'$ representa la cadena de carbono proveniente del alcohol. Las otras fórmulas corresponden a ácidos carboxílicos ($$R-COOH$$), éteres ($$R-O-R'$$), aldehídos ($$R-CHO$$) y cetonas ($$R-CO-R'$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_003",
+      "pregunta": "¿De dónde proviene el nombre común del ácido butírico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Del latín *malus*, que significa manzana",
+        "B": "De la planta Valeriana",
+        "C": "Del griego *boúturos*, que significa mantequilla",
+        "D": "Del latín *succinum*, que significa ámbar",
+        "E": "De grasas de origen animal y vegetal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre del ácido butírico deriva del término griego *boúturos*, que se traduce como \"mantequilla\". Esto se debe a que este ácido es responsable del olor característico de la mantequilla rancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_004",
+      "pregunta": "¿Cuál es la fórmula química del ácido palmítico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$COOH(CH_{2})_{10}CH_{3}$$",
+        "B": "$$CH_{3}(CH_{2})_{3}COOH$$",
+        "C": "$$COOH-COOH$$",
+        "D": "$$C_{6}H_{5}COOH$$",
+        "E": "$$COOH(CH_{2})_{14}CH_{3}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula del ácido palmítico es $$COOH(CH_{2})_{14}CH_{3}$$. Es un ácido graso saturado con una cadena de 16 átomos de carbono en total. La opción A corresponde al ácido láurico, la B al ácido valérico, la C al ácido oxálico y la D al ácido benzoico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_005",
+      "pregunta": "¿Qué ácido carboxílico se utiliza como materia prima para la aspirina?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ácido benzoico",
+        "B": "Ácido salicílico",
+        "C": "Ácido láurico",
+        "D": "Ácido oxálico",
+        "E": "Ácido butírico"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El ácido salicílico, cuya fórmula es $$o-HOC_{6}H_{4}COOH$$, es el precursor químico utilizado en la síntesis del ácido acetilsalicílico, comúnmente conocido como aspirina. El ácido benzoico es un conservante, y los otros ácidos tienen diferentes orígenes y aplicaciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_006",
+      "pregunta": "¿Cuál de los siguientes ácidos es un dicarboxílico, es decir, posee dos grupos carboxilo ($$-COOH$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ácido láurico",
+        "B": "Ácido valérico",
+        "C": "Ácido succínico",
+        "D": "Ácido benzoico",
+        "E": "Ácido mirístico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ácido succínico tiene la fórmula $$COOH(CH_{2})_{2}COOH$$, que muestra claramente la presencia de dos grupos carboxilo en los extremos de la molécula. Los ácidos láurico, valérico y mirístico son monocarboxílicos (tienen un solo grupo $$-COOH$$). El ácido benzoico también es monocarboxílico, con su grupo $$-COOH$$ unido a un anillo de benceno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_007",
+      "pregunta": "El nombre del ácido valérico se deriva de la planta Valeriana, mientras que el nombre del ácido mirístico proviene del género *Myristica*. ¿Qué tienen en común estos dos ácidos según su origen?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos provienen de minerales",
+        "B": "Ambos provienen de fuentes vegetales",
+        "C": "Ambos son conservantes de alimentos",
+        "D": "Ambos tienen su origen en la mantequilla",
+        "E": "Ambos son dicarboxílicos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Tanto la planta Valeriana como el género *Myristica* (nuez moscada) son fuentes vegetales. Por lo tanto, el origen de los nombres de ambos ácidos (valérico y mirístico) está relacionado con el reino vegetal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_008",
+      "pregunta": "¿Cuántos grupos metileno ($$-CH_{2}-$$) separan los dos grupos carboxilo en la molécula de ácido glutárico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Uno",
+        "B": "Dos",
+        "C": "Tres",
+        "D": "Cuatro",
+        "E": "Cero"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula del ácido glutárico es $$COOH(CH_{2})_{3}COOH$$. El subíndice 3 en $$(CH_{2})_{3}$$ indica que hay tres grupos metileno ($$-CH_{2}-$$) en cadena entre los dos grupos carboxilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_009",
+      "pregunta": "El ácido benzoico, con fórmula $$C_{6}H_{5}COOH$$, se menciona como un conservante de alimentos. ¿Qué característica estructural lo diferencia de ácidos como el butírico o el láurico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Contiene un grupo aciloxi",
+        "B": "Es un ácido dicarboxílico",
+        "C": "Posee un anillo aromático en su estructura",
+        "D": "Tiene una cadena de más de 10 carbonos",
+        "E": "Su origen es la mantequilla"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula $$C_{6}H_{5}COOH$$ indica que el grupo carboxilo ($-COOH$) está unido a un grupo fenilo ($$-C_{6}H_{5}$$), que es un anillo aromático (anillo de benceno). Ácidos como el butírico o el láurico son alifáticos, es decir, tienen cadenas de carbono lineales, no anillos aromáticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_010",
+      "pregunta": "¿Qué ácido tiene un nombre derivado del latín *laurus* (\"laurel\") y contiene 12 átomos de carbono en total?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ácido mirístico",
+        "B": "Ácido palmítico",
+        "C": "Ácido láurico",
+        "D": "Ácido margárico",
+        "E": "Ácido valérico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ácido láurico deriva su nombre del latín *laurus* (laurel). Su fórmula es $$COOH(CH_{2})_{10}CH_{3}$$. Al contar los átomos de carbono, tenemos 1 en el grupo $$-COOH$$, 10 en los grupos $$-CH_{2}-$$ y 1 en el grupo $$-CH_{3}$$ final, sumando un total de 12 átomos de carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_011",
+      "pregunta": "Comparando el ácido succínico ($$COOH(CH_{2})_{2}COOH$$) y el ácido malónico ($$COOH-CH_{2}-COOH$$), ¿cuál es la principal diferencia estructural entre ellos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El ácido malónico es aromático y el succínico no.",
+        "B": "El ácido succínico tiene dos grupos metileno entre los carboxilos, mientras que el malónico tiene solo uno.",
+        "C": "El ácido malónico tiene un grupo carboxilo y el succínico tiene dos.",
+        "D": "El ácido succínico deriva del ámbar y el malónico de la mantequilla.",
+        "E": "No hay diferencia estructural, son isómeros."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos son ácidos dicarboxílicos. La diferencia radica en la longitud de la cadena de carbono que separa los dos grupos $$-COOH$$. La fórmula del ácido succínico, $$COOH(CH_{2})_{2}COOH$$, muestra dos grupos metileno, mientras que la del ácido malónico, $$COOH-CH_{2}-COOH$$, muestra solo un grupo metileno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_012",
+      "pregunta": "¿Cuál de las siguientes fórmulas corresponde al ácido cuyo nombre proviene del género *Oxalis*, conocido por su sabor agrio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$COOH-CH_{2}-COOH$$",
+        "B": "$$CH_{3}(CH_{2})_{2}COOH$$",
+        "C": "$$COOH(CH_{2})_{2}COOH$$",
+        "D": "$$COOH-COOH$$",
+        "E": "$$COOH(CH_{2})_{3}COOH$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El ácido cuyo nombre deriva del género *Oxalis* es el ácido oxálico. Su fórmula es $$COOH-COOH$$, que corresponde a la estructura más simple de un ácido dicarboxílico, con los dos grupos carboxilo unidos directamente. La opción A es ácido malónico, B es ácido butírico, C es ácido succínico y E es ácido glutárico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_013",
+      "pregunta": "Ordena los siguientes ácidos dicarboxílicos de menor a mayor número de átomos de carbono en su cadena principal: succínico, oxálico, glutárico y malónico.",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Oxálico, malónico, succínico, glutárico",
+        "B": "Glutárico, succínico, malónico, oxálico",
+        "C": "Malónico, oxálico, glutárico, succínico",
+        "D": "Oxálico, succínico, malónico, glutárico",
+        "E": "Succínico, glutárico, oxálico, malónico"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Para ordenar los ácidos, debemos analizar sus fórmulas y contar los carbonos totales:\n- Ácido oxálico ($$COOH-COOH$$): 2 carbonos.\n- Ácido malónico ($$COOH-CH_{2}-COOH$$): 3 carbonos.\n- Ácido succínico ($$COOH(CH_{2})_{2}COOH$$): 4 carbonos.\n- Ácido glutárico ($$COOH(CH_{2})_{3}COOH$$): 5 carbonos.\nEl orden correcto de menor a mayor número de átomos de carbono es: Oxálico, malónico, succínico, glutárico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_014",
+      "pregunta": "Si un ester se forma a partir del ácido margárico, ¿cuál sería la estructura de su porción acilo, correspondiente a la parte $$R-CO-$$ de la molécula?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$CH_{3}(CH_{2})_{15}CO-$$",
+        "B": "$$CH_{3}(CH_{2})_{14}CO-$$",
+        "C": "$$CH_{3}(CH_{2})_{12}CO-$$",
+        "D": "$$CH_{3}(CH_{2})_{10}CO-$$",
+        "E": "$$C_{6}H_{5}CO-$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El ácido margárico tiene la fórmula $$COOH(CH_{2})_{15}CH_{3}$$. Un grupo acilo se forma al eliminar el grupo hidroxilo ($-OH$) del grupo carboxilo ($-COOH$) del ácido. Por lo tanto, la estructura $$COOH(CH_{2})_{15}CH_{3}$$ se convierte en el grupo acilo $$CH_{3}(CH_{2})_{15}CO-$$. Es importante notar que la fórmula se puede escribir en ambas direcciones, pero la estructura del radical es la misma. Las otras opciones corresponden a los grupos acilo de los ácidos palmítico (B), mirístico (C), láurico (D) y benzoico (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_310_015",
+      "pregunta": "Analizando la serie de ácidos grasos saturados (láurico, mirístico, palmítico), ¿qué patrón estructural se observa al aumentar la longitud de la cadena?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se añade un grupo carboxilo ($$-COOH$$) por cada dos carbonos.",
+        "B": "Se añade un grupo metilo ($$-CH_{3}$$) al centro de la cadena.",
+        "C": "Se añaden dos grupos metileno ($$-CH_{2}-$$) sucesivamente.",
+        "D": "La estructura se vuelve aromática.",
+        "E": "Disminuye el número de átomos de hidrógeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al examinar las fórmulas, se observa un patrón claro:\n- Ác. láurico: $$COOH(CH_{2})_{10}CH_{3}$$ (Total 12 C)\n- Ác. mirístico: $$COOH(CH_{2})_{12}CH_{3}$$ (Total 14 C)\n- Ác. palmítico: $$COOH(CH_{2})_{14}CH_{3}$$ (Total 16 C)\nLa diferencia entre cada ácido consecutivo en esta serie es la adición de dos unidades de $$-CH_{2}-$$ (un grupo etileno). Por lo tanto, el patrón es un incremento sucesivo de dos grupos metileno.",
+      "imagen": null
+    }
+  ]
 }

@@ -3,5 +3,231 @@
   "numero_tema": 279,
   "total_temas": 322,
   "titulo_tema": "Hückel's Rule",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_279_001",
+      "pregunta": "¿Cuál es la fórmula matemática que establece la Regla de Hückel para el número de electrones pi ($#e⁻π$) en un compuesto aromático?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$#e⁻π = 4n$$",
+        "B": "$$#e⁻π = 2n + 2$$",
+        "C": "$$#e⁻π = 4n - 2$$",
+        "D": "$$#e⁻π = 4n + 2$$",
+        "E": "$$#e⁻π = 2n + 4$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Regla de Hückel es un criterio fundamental para determinar la aromaticidad y establece que un compuesto cíclico, plano y con un sistema continuo de orbitales p es aromático si su número de electrones pi ($#e⁻π$) es igual a $$4n + 2$$, donde $n$ es un número entero no negativo (0, 1, 2, etc.).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_002",
+      "pregunta": "¿Qué término se utiliza para describir a los compuestos orgánicos que no poseen las propiedades de estabilidad de los compuestos aromáticos y cuyo nombre significa \"como grasa\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Alquinos",
+        "B": "Cíclicos",
+        "C": "Alifáticos",
+        "D": "Conjugados",
+        "E": "Isoméricos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "A los compuestos orgánicos que no tienen las propiedades de estabilidad excepcional de los aromáticos se les denominó alifáticos. Este término, que significa \"como grasa\", se usó para distinguirlos del grupo original de compuestos aromáticos, nombrados así por sus olores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_003",
+      "pregunta": "En la fórmula de la Regla de Hückel, $$#e⁻π = 4n + 2$$, ¿qué tipo de valores puede tomar la variable $n$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cualquier número real positivo",
+        "B": "Un número entero (0, 1, 2, ...)",
+        "C": "Únicamente números impares (1, 3, 5, ...)",
+        "D": "Un número fraccionario",
+        "E": "Cualquier número natural mayor que cero"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la expresión matemática de la Regla de Hückel, la variable $n$ debe ser un número entero no negativo, es decir, puede tomar valores como 0, 1, 2, 3, y así sucesivamente. Esto genera la serie de \"números mágicos\" de electrones pi (2, 6, 10, 14, ...) para la aromaticidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_004",
+      "pregunta": "Según los criterios de aromaticidad, ¿qué tipo de hibridación deben tener usualmente los átomos del anillo para poseer un orbital $p$ sin hibridar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$sp^3$",
+        "B": "$sp^3d$",
+        "C": "$d^2sp^3$",
+        "D": "$sp^2$ o $sp^3$",
+        "E": "$sp^2$ o $sp$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para que un sistema sea aromático, cada átomo en el anillo debe tener un orbital $p$ sin hibridar que pueda participar en la deslocalización de electrones pi. Esto se logra comúnmente cuando los átomos tienen hibridación $sp^2$ (como en el benceno) o $sp$, ya que en ambos casos queda al menos un orbital $p$ puro disponible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_005",
+      "pregunta": "Originalmente, ¿qué característica de un grupo de compuestos llevó a que se les denominara \"aromáticos\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Su excepcional estabilidad química",
+        "B": "Sus olores agradables",
+        "C": "Su estructura cíclica y plana",
+        "D": "Su alta reactividad",
+        "E": "Su coloración intensa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término \"aromático\" se originó históricamente debido a que los primeros compuestos de esta clase que se descubrieron, como el benceno y sus derivados, se caracterizaban por tener olores fuertes y, a menudo, agradables. Posteriormente, el término evolucionó para describir su particular estabilidad electrónica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_006",
+      "pregunta": "¿Por qué es esencial que una molécula sea plana (o casi plana) para ser considerada aromática?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para reducir la tensión angular del ciclo.",
+        "B": "Para permitir que los orbitales $p$ atómicos se traslapen de forma continua y efectiva.",
+        "C": "Para asegurar que el número de electrones pi sea par.",
+        "D": "Para facilitar su disolución en disolventes no polares.",
+        "E": "Porque las estructuras no planas son inherentemente inestables."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La planaridad es un requisito geométrico crucial para la aromaticidad. Una estructura plana permite que los orbitales $p$ sin hibridar de cada átomo del anillo se alineen de forma paralela entre sí, lo que posibilita un traslape lateral efectivo y continuo. Este traslape es lo que da lugar al anillo de electrones pi deslocalizados, responsable de la estabilidad aromática.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_007",
+      "pregunta": "¿Cuál es el principal efecto energético de la deslocalización de los electrones pi en un compuesto aromático?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un aumento significativo de la energía electrónica.",
+        "B": "Una disminución de la energía electrónica.",
+        "C": "La energía se concentra en los enlaces sigma.",
+        "D": "No produce ningún cambio en la energía del sistema.",
+        "E": "La energía fluctúa constantemente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una de las características definitorias de la aromaticidad es la estabilidad excepcional. Esta estabilidad proviene directamente de la deslocalización de los electrones pi a lo largo de todo el anillo. Al poder moverse libremente en un sistema de orbitales moleculares de menor energía, los electrones pi disminuyen la energía electrónica total del compuesto en comparación con una estructura localizada hipotética.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_008",
+      "pregunta": "Además de ser cíclica y plana, ¿qué requisito relacionado con los orbitales debe cumplir cada átomo del anillo para la aromaticidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tener un orbital $s$ completamente lleno.",
+        "B": "Poseer un orbital $p$ sin hibridar.",
+        "C": "Estar unido a un átomo de hidrógeno.",
+        "D": "Tener una hibridación $sp^3$.",
+        "E": "Formar únicamente enlaces dobles."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que exista un sistema continuo de electrones pi deslocalizados, cada uno de los átomos que forman el anillo debe contribuir con un orbital $p$ sin hibridar. Estos orbitales $p$ deben ser paralelos entre sí para poder traslaparse lateralmente y formar los orbitales moleculares pi que abarcan todo el ciclo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_009",
+      "pregunta": "Si un compuesto cumple con ser cíclico, plano y tener un sistema continuo de orbitales $p$, ¿qué criterio final, basado en el número de electrones, determinará si es aromático?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Debe tener un número par de átomos de carbono.",
+        "B": "La suma de sus masas atómicas debe ser un número primo.",
+        "C": "El número de electrones pi debe obedecer la regla de Hückel.",
+        "D": "Debe ser eléctricamente neutro.",
+        "E": "Debe tener más enlaces dobles que simples."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque una molécula cumpla los criterios estructurales (cíclica, plana, conjugada), el criterio definitivo para la aromaticidad es electrónico. El número total de electrones pi en el sistema debe ajustarse a la regla de Hückel ($$4n + 2$$), donde $n$ es un entero. Si no cumple esta regla electrónica, no será aromático.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_010",
+      "pregunta": "La evolución del término \"aromático\" en química pasó de describir una propiedad física a una propiedad de estabilidad. ¿Qué implica esta estabilidad excepcional?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el compuesto es muy difícil de sintetizar.",
+        "B": "Que el compuesto tiene una energía menor y es menos reactivo de lo esperado.",
+        "C": "Que el compuesto es resistente a la disolución.",
+        "D": "Que sus enlaces son extremadamente largos y débiles.",
+        "E": "Que solo reacciona a temperaturas muy altas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La \"estabilidad excepcional\" de los compuestos aromáticos significa que tienen una energía interna significativamente menor que la que se esperaría para una estructura similar con dobles enlaces localizados. Esta baja energía los hace menos reactivos, por ejemplo, tienden a sufrir reacciones de sustitución en lugar de adición, preservando el sistema pi deslocalizado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_011",
+      "pregunta": "¿Qué dos condiciones son indispensables para que se forme un anillo continuo de orbitales paralelos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ser un compuesto iónico y tener muchos átomos.",
+        "B": "Tener un número par de electrones y ser soluble en agua.",
+        "C": "Que la estructura sea plana y que cada átomo del anillo tenga un orbital $p$ sin hibridar.",
+        "D": "Ser un hidrocarburo y tener un olor agradable.",
+        "E": "Contener solo enlaces simples y dobles alternados."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La formación de un sistema pi cíclico y deslocalizado requiere la combinación de dos factores geométricos y electrónicos. Primero, cada átomo del anillo debe disponer de un orbital $p$ para aportar al sistema. Segundo, la molécula debe ser plana para que estos orbitales $p$ se orienten de forma paralela, permitiendo un traslape continuo y efectivo por encima y por debajo del plano del anillo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_012",
+      "pregunta": "Una estructura debe ser cíclica y contener una cierta cantidad de enlaces pi conjugados para ser candidata a la aromaticidad. ¿Qué significa que los enlaces pi estén \"conjugados\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que todos los enlaces dobles están aislados entre sí por dos o más enlaces simples.",
+        "B": "Que existe una alternancia de enlaces simples y múltiples (dobles o triples) que permite la deslocalización de electrones.",
+        "C": "Que la molécula contiene únicamente enlaces dobles.",
+        "D": "Que los enlaces pi están fijos entre dos átomos específicos.",
+        "E": "Que el compuesto presenta resonancia únicamente entre dos estructuras."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La conjugación se refiere a un sistema de orbitales $p$ conectados que permite la deslocalización de electrones pi. Estructuralmente, esto se observa a menudo como una alternancia de enlaces simples y múltiples (como simple-doble-simple-doble). Esta disposición permite que los electrones pi no estén confinados a un solo enlace, sino que se distribuyan a lo largo de varios átomos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_013",
+      "pregunta": "De acuerdo con la regla de Hückel, ¿cuál de los siguientes números de electrones pi ($#e⁻π$) corresponde a un sistema aromático?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "4",
+        "B": "8",
+        "C": "12",
+        "D": "14",
+        "E": "16"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para determinar si un número de electrones pi cumple la regla de Hückel, se debe verificar si la ecuación $$4n + 2 = #e⁻π$$ tiene una solución entera para $n≥0$. \nPara 14 electrones: $$4n + 2 = 14 \\implies 4n = 12 \\implies n = 3$$. Como $n=3$ es un número entero, 14 electrones pi corresponden a un sistema aromático. Las otras opciones no dan un valor entero para $n$ (ej. para 8, $$4n=6 \\implies n=1.5$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_014",
+      "pregunta": "Un compuesto hipotético es cíclico, plano y cada átomo de su anillo posee un orbital $p$ sin hibridar. Si el compuesto tiene un total de 8 electrones pi, ¿por qué NO se considera aromático?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque un sistema con 8 electrones no puede ser plano.",
+        "B": "Porque el número de electrones es par.",
+        "C": "Porque la deslocalización de 8 electrones siempre aumenta la energía.",
+        "D": "Porque no cumple la regla de Hückel, ya que $$4n + 2 = 8$$ no tiene una solución entera para $n$.",
+        "E": "Porque los compuestos aromáticos no pueden tener más de 6 electrones pi."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "A pesar de cumplir todos los criterios estructurales (cíclico, plano, conjugado), un compuesto debe satisfacer el criterio electrónico de la regla de Hückel. Para 8 electrones pi, intentamos resolver $$4n + 2 = 8$$. Esto nos da $$4n = 6$$, lo que resulta en $$n = 1.5$$. Dado que $n$ no es un número entero, el compuesto no cumple la regla de Hückel y, por lo tanto, no es aromático.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_279_015",
+      "pregunta": "¿Qué número de electrones pi se predice como aromático según la regla de Hückel para el caso en que $n=0$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "0",
+        "B": "4",
+        "C": "2",
+        "D": "6",
+        "E": "1"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de Hückel se expresa como $$#e⁻π = 4n + 2$$, donde $n$ es un número entero que puede ser 0, 1, 2, etc. Para el primer caso posible, cuando $n=0$, la fórmula se resuelve de la siguiente manera: $$#e⁻π = 4(0) + 2 = 0 + 2 = 2$$. Por lo tanto, un sistema cíclico, plano y conjugado con 2 electrones pi es aromático.",
+      "imagen": null
+    }
+  ]
 }

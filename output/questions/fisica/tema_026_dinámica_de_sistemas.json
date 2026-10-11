@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 26,
+  "total_temas": 137,
+  "titulo_tema": "Dinámica de Sistemas",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_026_001",
+      "pregunta": "¿Cuál es el valor de la fuerza normal ($$F_N$$) que actúa sobre un cuerpo dentro de un ascensor que se encuentra en caída libre?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$F_N = mg$$",
+        "B": "$$F_N = m(g+a)$$",
+        "C": "$$F_N = 0$$",
+        "D": "$$F_N = ma$$",
+        "E": "$$F_N = 2mg$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En caída libre, la aceleración del ascensor es igual a la aceleración de la gravedad ($$a=g$$). La fuerza resultante sobre el cuerpo es $$F_g - F_N = ma$$. Sustituyendo $$a$$ por $$g$$, tenemos $$mg - F_N = mg$$. Al despejar $$F_N$$, obtenemos $$F_N = mg - mg = 0$$. Esto significa que la superficie del ascensor no ejerce ninguna fuerza de soporte sobre el cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_002",
+      "pregunta": "Al analizar un sistema compuesto por dos bloques en contacto directo sobre una superficie, ¿cómo se calcula la masa total del sistema ($$m_{sistema}$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$m_{sistema} = m_1 - m_2$$",
+        "B": "$$m_{sistema} = \frac{m_1 + m_2}{2}$$",
+        "C": "$$m_{sistema} = m_1 + m_2$$",
+        "D": "$$m_{sistema} = \\sqrt{m_1^2 + m_2^2}$$",
+        "E": "$$m_{sistema} = \frac{m_1 m_2}{m_1 + m_2}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa de un sistema de cuerpos es una propiedad escalar y aditiva. Para encontrar la masa total del sistema, simplemente se suman las masas individuales de los cuerpos que lo componen. En este caso, para dos bloques, la masa total es la suma $$m_1 + m_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_003",
+      "pregunta": "Según los principios de la dinámica de sistemas, ¿qué tipo de fuerzas no se consideran al escribir la ecuación de la fuerza resultante para el sistema completo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las fuerzas externas, como la gravedad y la fricción.",
+        "B": "Las tensiones en las cuerdas y las fuerzas de contacto entre los cuerpos del sistema.",
+        "C": "Únicamente el peso de los objetos.",
+        "D": "Todas las fuerzas que actúan en la dirección vertical.",
+        "E": "La fuerza neta que provoca la aceleración."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al analizar un sistema como un todo, solo se consideran las fuerzas externas. Las fuerzas internas, como las tensiones en las cuerdas que unen los cuerpos o las fuerzas de contacto entre ellos, se presentan en pares de acción y reacción que se cancelan mutuamente, por lo que no contribuyen a la aceleración neta del sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_004",
+      "pregunta": "¿Cuál es la expresión matemática que define el peso aparente de un objeto de masa $$m$$ en un ascensor que desciende con una aceleración $$a$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$m(g+a)$$",
+        "B": "$$mg$$",
+        "C": "$$m(g-a)$$",
+        "D": "$$ma$$",
+        "E": "$$m(a-g)$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso aparente es la fuerza normal ($$F_N$$) que ejerce la superficie sobre el objeto. Para un ascensor que acelera hacia abajo, la segunda ley de Newton es $$F_g - F_N = ma$$. Despejando la fuerza normal, obtenemos $$F_N = F_g - ma = mg - ma = m(g-a)$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_005",
+      "pregunta": "En un sistema de tres masas ($$m_1, m_2, m_3$$) conectadas por poleas tipo Atwood, ¿cuál es la fórmula correcta para la aceleración ($$a$$) del sistema?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$a = \frac{(m_3 - m_1)g}{m_1 + m_2 + m_3}$$",
+        "B": "$$a = \frac{(m_1 + m_3)g}{m_1 + m_2 + m_3}$$",
+        "C": "$$a = \frac{(m_1 + m_2 + m_3)g}{m_3 - m_1}$$",
+        "D": "$$a = (m_3 - m_1)g$$",
+        "E": "$$a = \frac{m_2 g}{m_1 + m_3}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La aceleración de un sistema Atwood de tres masas se determina por la fuerza neta externa dividida por la masa total del sistema. La fuerza neta es la diferencia entre los pesos de las masas que cuelgan en los extremos ($$(m_3 - m_1)g$$), y la masa total es la suma de las tres masas ($$m_1 + m_2 + m_3$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_006",
+      "pregunta": "¿Cuál es la ecuación de la fuerza resultante ($$F_R$$) correcta para un cuerpo de masa $$m$$ en un ascensor que acelera hacia abajo, siendo $$F_g$$ el peso y $$F_N$$ la fuerza normal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_N - F_g = ma$$",
+        "B": "$$F_g - F_N = ma$$",
+        "C": "$$F_N + F_g = ma$$",
+        "D": "$$F_g = F_N$$",
+        "E": "$$ma = 0$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza resultante es igual a la masa por la aceleración ($$F_R = ma$$). Como la aceleración es hacia abajo, la fuerza en esa dirección ($$F_g$$) debe ser mayor que la fuerza en la dirección opuesta ($$F_N$$). Por lo tanto, la fuerza resultante es la diferencia $$F_g - F_N$$. Igualando ambas expresiones, obtenemos $$F_g - F_N = ma$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_007",
+      "pregunta": "En la fórmula de aceleración para un sistema de polea y plano inclinado, $$a = \frac{(m_2 - m_1\\sin\theta)g}{m_1 + m_2}$$, ¿qué representa físicamente el término $$m_1\\sin\theta$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa efectiva del bloque 1 que se opone al movimiento de $$m_2$$.",
+        "B": "La fuerza de fricción que actúa sobre el bloque 1.",
+        "C": "La fuerza normal que el plano ejerce sobre el bloque 1.",
+        "D": "La masa total del sistema en el plano inclinado.",
+        "E": "Un coeficiente de ajuste angular sin significado físico directo."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El término $$m_1g\\sin\theta$$ representa la componente del peso del bloque 1 que es paralela al plano inclinado. En la fórmula de la aceleración, el término $$m_1\\sin\theta$$ en el numerador (que se multiplica por g) representa la porción de la masa $$m_1$$ cuyo peso se opone al movimiento impulsado por la masa colgante $$m_2$$. Por lo tanto, actúa como una 'masa efectiva' que contrarresta a $$m_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_008",
+      "pregunta": "Para un sistema Atwood de tres masas ($$m_1, m_2, m_3$$) cuya aceleración es $$a = \frac{(m_3 - m_1)g}{m_1 + m_2 + m_3}$$, ¿bajo qué condición el sistema permanecerá en equilibrio o se moverá con velocidad constante ($$a=0$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$m_1 + m_3 = m_2$$",
+        "B": "$$m_2 = 0$$",
+        "C": "$$m_1 = m_3$$",
+        "D": "$$m_1 = m_2 = m_3$$",
+        "E": "$$m_1 = 0$$ y $$m_3 = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que la aceleración ($$a$$) sea cero, el numerador de la fracción debe ser cero, ya que el denominador (la suma de las masas) es siempre positivo. Esto ocurre cuando $$m_3 - m_1 = 0$$, lo que implica que $$m_1 = m_3$$. Físicamente, esto significa que los pesos en ambos extremos de la polea se equilibran, resultando en una fuerza neta de cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_009",
+      "pregunta": "Si el peso aparente de una persona en un ascensor es $$m(g-a)$$, ¿cómo es este valor en comparación con su peso real ($$mg$$) cuando el ascensor acelera hacia abajo ($$a>0$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es mayor que el peso real.",
+        "B": "Es igual al peso real.",
+        "C": "Es menor que el peso real.",
+        "D": "Es siempre cero.",
+        "E": "Es negativo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso real es $$mg$$. El peso aparente es $$m(g-a)$$. Dado que el ascensor acelera hacia abajo, $$a$$ es un valor positivo (y menor que $$g$$ en condiciones normales). Por lo tanto, el factor $$(g-a)$$ es menor que $$g$$. Como resultado, el peso aparente $$m(g-a)$$ será menor que el peso real $$mg$$. La persona se siente más 'ligera'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_010",
+      "pregunta": "¿Qué implicación física tiene el hecho de que la fuerza normal ($$F_N$$) sobre un objeto sea cero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El objeto ha perdido toda su masa.",
+        "B": "La fuerza de gravedad que actúa sobre el objeto es nula.",
+        "C": "El objeto está acelerando hacia arriba.",
+        "D": "El objeto y la superficie que lo soporta ya no están en contacto o no se presionan entre sí.",
+        "E": "La fricción entre el objeto y la superficie es máxima."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza normal es una fuerza de contacto que una superficie ejerce para soportar un objeto. Si $$F_N = 0$$, significa que esta fuerza de soporte ha desaparecido. Esto puede ocurrir porque el objeto ha perdido el contacto con la superficie o porque ambos (objeto y superficie) están acelerando juntos de tal manera que no hay compresión entre ellos, como en el caso de la caída libre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_011",
+      "pregunta": "En un sistema con un bloque en un plano inclinado ($$m_1$$) y otro colgando ($$m_2$$), ¿qué condición debe cumplirse para que el sistema esté en equilibrio ($$a=0$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$m_1 = m_2$$",
+        "B": "$$m_1 = m_2\\sin\theta$$",
+        "C": "$$m_2 = m_1\\sin\theta$$",
+        "D": "$$\theta = 90^\\circ$$",
+        "E": "$$m_2 = m_1\\cos\theta$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración del sistema es $$a = \frac{(m_2 - m_1\\sin\theta)g}{m_1 + m_2}$$. Para que el sistema esté en equilibrio, la aceleración debe ser cero. Esto sucede cuando el numerador es cero: $$m_2 - m_1\\sin\theta = 0$$. Despejando $$m_2$$, obtenemos $$m_2 = m_1\\sin\theta$$. Esto significa que la fuerza del peso del bloque colgante ($$m_2g$$) se equilibra exactamente con la componente paralela del peso del bloque en el plano ($$m_1g\\sin\theta$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_012",
+      "pregunta": "Cuando un ascensor se suelta en caída libre, se dice que una persona en su interior experimenta 'ingravidez'. ¿Cuál es la razón física de esta sensación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa de la persona se reduce a cero durante la caída.",
+        "B": "La fuerza de gravedad de la Tierra deja de actuar sobre la persona.",
+        "C": "La fuerza normal que el piso del ascensor ejerce sobre la persona se vuelve cero.",
+        "D": "El ascensor se mueve tan rápido que la gravedad no puede afectarlo.",
+        "E": "La fuerza neta sobre la persona es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La sensación de peso está asociada con la fuerza normal, es decir, la fuerza que una superficie ejerce sobre nosotros. En caída libre ($$a=g$$), tanto la persona como el ascensor aceleran hacia abajo al mismo ritmo. El piso del ascensor 'cae' junto con la persona, por lo que no hay una fuerza de contacto o soporte. La fuerza normal ($$F_N$$) se vuelve cero, y esta ausencia de fuerza de soporte es lo que interpretamos como ingravidez.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_013",
+      "pregunta": "En un sistema de polea y plano inclinado con aceleración $$a = \frac{(m_2 - m_1\\sin\theta)g}{m_1 + m_2}$$, ¿qué ocurre con la magnitud de la aceleración si el ángulo $$ \theta $$ se incrementa de $$30^\\circ$$ a $$60^\\circ$$, asumiendo que $$m_2$$ es suficientemente grande para que el sistema acelere en su dirección?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La aceleración disminuye.",
+        "B": "La aceleración aumenta.",
+        "C": "La aceleración no cambia.",
+        "D": "La aceleración se vuelve negativa.",
+        "E": "La aceleración se duplica exactamente."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La función seno es creciente para ángulos entre $$0^\\circ$$ y $$90^\\circ$$. Al aumentar $$\theta$$ de $$30^\\circ$$ a $$60^\\circ$$, el valor de $$\\sin\theta$$ aumenta. Esto hace que el término $$m_1\\sin\theta$$, que se resta de $$m_2$$, sea más grande. Como resultado, el numerador $$(m_2 - m_1\\sin\theta)$$ se hace más pequeño, lo que lleva a una disminución en la magnitud de la aceleración $$a$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_014",
+      "pregunta": "Considere la fórmula de aceleración para una máquina de Atwood de tres masas: $$a = \frac{(m_3 - m_1)g}{m_1 + m_2 + m_3}$$. Si la masa $$m_1$$ es significativamente mayor que la masa $$m_3$$, ¿qué describe mejor el resultado?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La aceleración será un valor positivo grande, cercano a $$g$$.",
+        "B": "El sistema no se moverá ($$a=0$$).",
+        "C": "La aceleración será negativa, indicando que el movimiento es en la dirección de $$m_1$$.",
+        "D": "La aceleración dependerá principalmente de la masa $$m_2$$.",
+        "E": "La aceleración será positiva pero muy pequeña."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por convención, una aceleración positiva en esta fórmula indica que el sistema se mueve en la dirección del peso de $$m_3$$. Si $$m_1$$ es mucho mayor que $$m_3$$, la diferencia $$m_3 - m_1$$ será un número negativo. Dado que los demás términos ($$g$$ y la suma de las masas) son positivos, el valor resultante para $$a$$ será negativo. Un signo negativo en la aceleración indica que el movimiento ocurre en la dirección opuesta a la definida como positiva, es decir, en la dirección del peso de $$m_1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_026_015",
+      "pregunta": "Si en un ascensor que desciende con aceleración $$a$$, el peso aparente de una persona es exactamente la mitad de su peso real, ¿cuál es la relación entre la aceleración $$a$$ y la aceleración de la gravedad $$g$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$a = g$$",
+        "B": "$$a = 2g$$",
+        "C": "$$a = \frac{g}{4}$$",
+        "D": "$$a = \frac{g}{2}$$",
+        "E": "$$a = 0$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El peso aparente es $$m(g-a)$$ y el peso real es $$mg$$. La condición del problema es que el peso aparente sea la mitad del peso real: $$m(g-a) = \frac{1}{2}mg$$. Podemos cancelar la masa $$m$$ de ambos lados, lo que nos deja con $$g-a = \frac{g}{2}$$. Para despejar $$a$$, restamos $$g$$ de ambos lados: $$-a = \frac{g}{2} - g$$, lo que simplifica a $$-a = -\frac{g}{2}$$. Por lo tanto, $$a = \frac{g}{2}$$. La aceleración del ascensor es la mitad de la aceleración de la gravedad.",
+      "imagen": null
+    }
+  ]
+}

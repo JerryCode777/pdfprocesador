@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 117,
+  "total_temas": 137,
+  "titulo_tema": "Resistencia eléctrica y Ley de Pouillet",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_117_001",
+      "pregunta": "¿Cuál es la definición de resistencia eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fuerza con la que se mueven las cargas eléctricas en un conductor.",
+        "B": "La cantidad de cargas eléctricas que pasan por un punto en un segundo.",
+        "C": "La dificultad que ofrece un cuerpo conductor al desplazamiento de las cargas eléctricas.",
+        "D": "La energía potencial por unidad de carga en un campo eléctrico.",
+        "E": "La propiedad de un material para almacenar carga eléctrica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia eléctrica se define como la oposición o dificultad que presenta un material conductor al paso de las cargas eléctricas (corriente) a través de su masa. Las otras opciones definen otros conceptos como la corriente eléctrica o el potencial eléctrico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_002",
+      "pregunta": "¿Cuál es la unidad de medida de la resistencia eléctrica en el Sistema Internacional?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Voltio (V)",
+        "B": "Amperio (A)",
+        "C": "Metro (m)",
+        "D": "Ohmio (Ω)",
+        "E": "Ohmio-metro (Ωm)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad de medida para la resistencia eléctrica es el ohmio, cuyo símbolo es la letra griega omega mayúscula (Ω). El ohmio-metro es la unidad de resistividad, no de resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_003",
+      "pregunta": "Según la convención para un conductor metálico, ¿en qué dirección se mueven las cargas positivas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De una región de menor potencial a una de mayor potencial.",
+        "B": "De una región de mayor potencial a una de menor potencial.",
+        "C": "En una dirección aleatoria sin preferencia.",
+        "D": "Del polo negativo al polo negativo.",
+        "E": "Paralelamente al área de la sección transversal."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por convención, se establece que el flujo de corriente (cargas positivas) en un conductor metálico va desde una zona de mayor potencial eléctrico (polo positivo +) hacia una zona de menor potencial eléctrico (polo negativo -).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_004",
+      "pregunta": "En la fórmula de la Ley de Pouillet, $$R = \rho \frac{L}{A}$$, ¿qué representa la variable $L$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La resistividad del material.",
+        "B": "La latitud del conductor.",
+        "C": "El área de la sección transversal.",
+        "D": "La resistencia eléctrica.",
+        "E": "La longitud del conductor."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En la ecuación de la Ley de Pouillet, la variable $L$ representa la longitud del conductor, la cual se mide en metros (m). Las otras variables son $R$ (resistencia), $\\rho$ (resistividad) y $A$ (área).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_005",
+      "pregunta": "En la Ley de Pouillet, ¿qué representa el símbolo griego $\\rho$ (rho)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Resistencia Eléctrica",
+        "B": "Resistividad eléctrica",
+        "C": "Densidad del conductor",
+        "D": "Longitud del conductor",
+        "E": "Área de la sección transversal"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El símbolo $\\rho$ representa la resistividad eléctrica del material del conductor. Es una propiedad intrínseca de cada material que indica su capacidad para oponerse al flujo de corriente, medida en ohmio-metro (Ωm).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_006",
+      "pregunta": "¿Cuál de las siguientes ecuaciones representa correctamente la Ley de Pouillet?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$R = \\rho L A$$",
+        "B": "$$R = \\rho \\frac{A}{L}$$",
+        "C": "$$R = \\rho \\frac{L}{A}$$",
+        "D": "$$A = \\rho \\frac{R}{L}$$",
+        "E": "$$R = \\frac{L A}{\\rho}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley de Pouillet establece que la resistencia ($R$) es directamente proporcional a la longitud ($L$) e inversamente proporcional al área ($A$), con la resistividad ($\rho$) como constante de proporcionalidad. La fórmula correcta es $$R = \\rho \\frac{L}{A}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_007",
+      "pregunta": "Según la Ley de Pouillet, ¿cómo es la relación entre la resistencia eléctrica ($R$) y la longitud ($L$) de un conductor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Inversamente proporcional",
+        "B": "Directamente proporcional",
+        "C": "Cuadrática inversa",
+        "D": "No existe relación entre ellas",
+        "E": "Exponencial"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La resistencia es directamente proporcional a la longitud del conductor. Esto significa que si la longitud aumenta, la resistencia también aumenta, y si la longitud disminuye, la resistencia disminuye, siempre que los demás factores ($\rho$ y $A$) permanezcan constantes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_008",
+      "pregunta": "De acuerdo con la Ley de Pouillet, ¿qué relación existe entre la resistencia eléctrica ($R$) y el área de la sección transversal ($A$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Directamente proporcional",
+        "B": "Inversamente proporcional",
+        "C": "Lineal sin proporcionalidad",
+        "D": "Cuadrática directa",
+        "E": "Independiente"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La resistencia es inversamente proporcional al área de la sección transversal. Esto implica que a medida que el área del conductor aumenta (se hace más grueso), su resistencia disminuye. Por el contrario, un conductor más delgado (menor área) ofrecerá una mayor resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_009",
+      "pregunta": "Si la longitud de un conductor se duplica, manteniendo constantes su material y área, ¿qué le sucede a su resistencia eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad",
+        "B": "No cambia",
+        "C": "Se cuadruplica",
+        "D": "Se duplica",
+        "E": "Se reduce a un cuarto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Dado que la resistencia ($R$) es directamente proporcional a la longitud ($L$) según la fórmula $$R = \\rho \\frac{L}{A}$$, si la longitud se duplica ($2L$), la resistencia también se duplicará, convirtiéndose en $2R$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_010",
+      "pregunta": "Si el área de la sección transversal de un conductor aumenta al doble, sin alterar su longitud ni material, ¿cómo se modifica su resistencia eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se duplica",
+        "B": "Se reduce a la mitad",
+        "C": "No sufre alteración",
+        "D": "Se cuadruplica",
+        "E": "Depende de la resistividad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La resistencia ($R$) es inversamente proporcional al área ($A$) de la sección transversal. Por lo tanto, si el área se duplica ($2A$), la resistencia se reducirá a la mitad ($R/2$), ya que las cargas eléctricas tienen más espacio para moverse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_011",
+      "pregunta": "¿Para qué tipo de conductores es válida la ecuación de la Ley de Pouillet?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente para conductores líquidos",
+        "B": "Para cualquier conductor sin importar su forma",
+        "C": "Para conductores rectilíneos y homogéneos",
+        "D": "Solo para conductores curvos",
+        "E": "Para materiales no homogéneos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula de la Ley de Pouillet, $$R = \\rho \\frac{L}{A}$$, se aplica específicamente a conductores que son rectilíneos (rectos) y homogéneos (con composición y propiedades uniformes en toda su masa).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_012",
+      "pregunta": "¿Qué variable en la Ley de Pouillet es una propiedad intrínseca del material y no depende de la forma o tamaño del conductor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistencia ($R$)",
+        "B": "La longitud ($L$)",
+        "C": "El área ($A$)",
+        "D": "La resistividad ($\rho$)",
+        "E": "El potencial eléctrico"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La resistividad ($\rho$) es una característica propia de cada material (cobre, plata, aluminio, etc.) que cuantifica su oposición al flujo de corriente. A diferencia de la resistencia ($R$), la resistividad no cambia con las dimensiones (longitud o área) del conductor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_013",
+      "pregunta": "Un conductor tiene una resistencia inicial $R$. Si su longitud se triplica y, simultáneamente, su área de sección transversal se duplica, ¿cuál será su nueva resistencia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$6R$$",
+        "B": "$$\\frac{2}{3}R$$",
+        "C": "$$\\frac{3}{2}R$$",
+        "D": "$$R$$",
+        "E": "$$\\frac{1}{6}R$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia original es $$R = \\rho \\frac{L}{A}$$. La nueva longitud es $L' = 3L$ y la nueva área es $A' = 2A$. La nueva resistencia $R'$ será: $$R' = \\rho \\frac{L'}{A'} = \\rho \\frac{3L}{2A} = \\frac{3}{2} \\left( \\rho \\frac{L}{A} \\right) = \\frac{3}{2}R$$. La nueva resistencia es 1.5 veces la original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_014",
+      "pregunta": "Se tienen dos alambres, A y B, del mismo material ($\rho$) y misma longitud ($L$). El alambre A tiene un área de sección transversal $A_A$, y el alambre B tiene un área que es cuatro veces mayor ($A_B = 4A_A$). ¿Cuál es la relación entre sus resistencias $R_A$ y $R_B$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$R_A = 4R_B$$",
+        "B": "$$R_B = 4R_A$$",
+        "C": "$$R_A = R_B$$",
+        "D": "$$R_A = 2R_B$$",
+        "E": "$$R_B = 16R_A$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La resistencia es inversamente proporcional al área. La resistencia del alambre A es $$R_A = \\rho \\frac{L}{A_A}$$. La resistencia del alambre B es $$R_B = \\rho \\frac{L}{A_B} = \\rho \\frac{L}{4A_A} = \\frac{1}{4} \\left( \\rho \\frac{L}{A_A} \\right) = \\frac{1}{4}R_A$$. Por lo tanto, si despejamos $R_A$, obtenemos que $$R_A = 4R_B$$. El alambre más delgado (A) tiene cuatro veces más resistencia que el alambre más grueso (B).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_117_015",
+      "pregunta": "Para fabricar un conductor con la menor resistencia posible, usando un material con resistividad $\\rho$ fija, ¿qué características geométricas debería tener el conductor?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Longitud larga y área de sección transversal pequeña.",
+        "B": "Longitud corta y área de sección transversal grande.",
+        "C": "Longitud corta y área de sección transversal pequeña.",
+        "D": "Longitud larga y área de sección transversal grande.",
+        "E": "La geometría no afecta la resistencia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula de la resistencia es $$R = \\rho \\frac{L}{A}$$. Para minimizar el valor de $R$, se debe minimizar el numerador ($L$) y maximizar el denominador ($A$). Por lo tanto, el conductor ideal para una baja resistencia debe ser lo más corto posible y tener un área de sección transversal lo más grande posible (ser grueso).",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "materia": "comprension_lectoraII",
+  "numero_tema": 3,
+  "total_temas": 20,
+  "titulo_tema": "Texto 3",
+  "texto": "La concepción del infinito ha sido uno de los campos de batalla más fascinantes del pensamiento humano. Durante milenios, predominó la visión aristotélica del “infinito potencial”, una cantidad que siempre puede ser mayor, pero que nunca existe como una totalidad completa y acabada. Esta idea, cómoda y segura, evitaba las paradojas lógicas que un “infinito actual” parecía generar. Sin embargo, a finales del siglo XIX, el matemático Georg Cantor desató una revolución al tratar el infinito no como un proceso sin fin, sino como un objeto matemático concreto y manejable. Cantor demostró algo que desafiaba la intuición: que existen distintos tamaños de infinito. Postuló que el conjunto de los números naturales (1, 2, 3, …), aunque infinito, es de un tamaño “menor” que el infinito del conjunto de los números reales (que incluye decimales e irracionales). Para probarlo, utilizó su ingenioso argumento de la diagonalización, demostrando que no se puede establecer una correspondencia uno a uno entre ambos conjuntos. Esta jerarquía de infinitos, o números transfinitos, no solo resolvió problemas teóricos, sino que transformó la matemática, abriendo las puertas a la teoría de conjuntos y redefiniendo las fronteras de lo que se podía pensar y formalizar. La audacia de Cantor convirtió una abstracción filosófica en un campo de estudio riguroso, aunque generó una intensa controversia que marcó profundamente su vida.",
+  "preguntas": [
+    {
+      "id_temporal": "comp_ii_003_001",
+      "pregunta": "¿Cuál es la idea principal del texto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El infinito es un concepto que ha generado únicamente paradojas lógicas.",
+        "B": "La visión aristotélica del infinito potencial sigue siendo la más aceptada en la matemática moderna.",
+        "C": "El argumento de la diagonalización es la única contribución relevante de Georg Cantor.",
+        "D": "Georg Cantor revolucionó la matemática al formalizar el infinito como un objeto de estudio con diferentes tamaños.",
+        "E": "La controversia sobre el infinito se limitó exclusivamente al campo de la filosofía griega."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La respuesta correcta es D. El texto se centra en cómo Georg Cantor transformó la comprensión del infinito. Pasa de describir la visión tradicional (infinito potencial) a explicar la “revolución” de Cantor, que consistió en tratar el infinito como un “objeto matemático concreto” y demostrar que existen “distintos tamaños de infinito”. Las otras opciones son incorrectas: A es falso, ya que Cantor resolvió problemas; B es lo contrario a lo que se afirma; C es una reducción, pues su contribución fue más amplia; y E es incorrecto, pues la controversia se reavivó en el siglo XIX.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "comp_ii_003_002",
+      "pregunta": "Del texto se infiere que, antes de Cantor, la comunidad matemática y filosófica mayoritariamente:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ignoraba por completo la existencia del concepto de infinito.",
+        "B": "Utilizaba el infinito actual para resolver problemas complejos.",
+        "C": "Mostraba una actitud cautelosa y evitaba tratar el infinito como una entidad completa.",
+        "D": "Había aceptado la existencia de múltiples tamaños de infinito sin poder demostrarlo.",
+        "E": "Consideraba el infinito un campo de estudio accesible y sin controversias."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inferencia correcta es C. El texto afirma que predominaba la visión aristotélica del “infinito potencial” y que esta idea, “cómoda y segura, evitaba las paradojas lógicas que un ‘infinito actual’ parecía generar”. Esto sugiere una actitud de cautela y una preferencia por no abordar el infinito como una totalidad acabada o “actual”, que es lo que Cantor desafió. A es incorrecta, pues el concepto existía. B es lo contrario a lo expuesto. D es falso, ya que la idea de diferentes tamaños fue la innovación de Cantor. E es incorrecto, pues el texto sugiere que el tema era problemático.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "comp_ii_003_003",
+      "pregunta": "Si se negara la eficacia del argumento de la diagonalización de Cantor, ¿cuál sería la consecuencia lógica expuesta en el texto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La matemática moderna habría colapsado por completo.",
+        "B": "La distinción entre el tamaño del infinito de los números naturales y los reales carecería de fundamento.",
+        "C": "El concepto de infinito potencial de Aristóteles sería invalidado definitivamente.",
+        "D": "Los números transfinitos seguirían existiendo, pero sin una jerarquía clara.",
+        "E": "La teoría de conjuntos nunca habría sido propuesta por ningún otro matemático."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta es una pregunta de extrapolación por negación. El texto especifica que Cantor usó el argumento de la diagonalización “para probar” que el infinito de los números naturales es menor que el de los reales. Por lo tanto, si este argumento no fuera eficaz, la principal conclusión que se deriva de él, es decir, la diferencia jerárquica entre estos dos infinitos, perdería su sustento formal. La opción B captura esta consecuencia directa. A es una exageración. C es incorrecto; al contrario, la visión de Aristóteles se vería reforzada. D es contradictorio, pues los números transfinitos son precisamente esa jerarquía. E es una especulación que va más allá de lo que el texto permite suponer.",
+      "imagen": null
+    }
+  ]
+}

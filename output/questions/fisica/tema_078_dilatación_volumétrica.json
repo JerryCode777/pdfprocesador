@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 78,
+  "total_temas": 137,
+  "titulo_tema": "Dilatación Volumétrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_078_001",
+      "pregunta": "¿Qué es la dilatación volumétrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La disminución de la masa de un cuerpo al calentarse.",
+        "B": "El cambio de estado de un material debido a la temperatura.",
+        "C": "El incremento en el volumen de un material cuando se aumenta su temperatura.",
+        "D": "La deformación de un cuerpo en una sola dimensión.",
+        "E": "El aumento de la densidad de un material con el calor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La dilatación volumétrica se define como el aumento o incremento en el volumen que experimenta un cuerpo como resultado de un aumento en su temperatura. Las otras opciones describen fenómenos físicos diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_002",
+      "pregunta": "En el contexto de la dilatación volumétrica, ¿qué representa el símbolo $\\gamma$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La variación de volumen ($$\\Delta V$$).",
+        "B": "El volumen final ($$V_f$$).",
+        "C": "La variación de temperatura ($$\\Delta T$$).",
+        "D": "El coeficiente de dilatación superficial ($$\\beta$$).",
+        "E": "El coeficiente de dilatación volumétrica."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El símbolo $\\gamma$ (gamma) se utiliza para representar el coeficiente de dilatación volumétrica, que es una propiedad específica de cada material que indica cuánto se expande en volumen por cada grado de aumento en la temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_003",
+      "pregunta": "¿Cuál es la causa a nivel molecular de que los materiales se expandan al aumentar su temperatura?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un aumento en la masa de las moléculas.",
+        "B": "Una disminución en la distancia entre las moléculas.",
+        "C": "Un aumento en la energía cinética de las moléculas.",
+        "D": "Una reacción química entre las moléculas.",
+        "E": "Una pérdida de electrones en los átomos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El fenómeno de la dilatación se debe al aumento en la energía cinética de las moléculas del material. Al aumentar la temperatura, las moléculas vibran más intensamente y se mueven más, lo que provoca que se alejen unas de otras y ocupen un mayor espacio o volumen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_004",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa correctamente la variación de volumen ($$\\Delta V$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\Delta V = V_0\\gamma\\Delta T$$",
+        "B": "$$\\Delta V = V_f\\gamma\\Delta T$$",
+        "C": "$$\\Delta V = \\frac{V_0\\gamma}{\\Delta T}$$",
+        "D": "$$\\Delta V = V_0 + \\gamma\\Delta T$$",
+        "E": "$$\\Delta V = V_0(1 + \\gamma\\Delta T)$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La fórmula para la variación de volumen ($$\\Delta V$$) establece que es directamente proporcional al volumen inicial ($$V_0$$), al coeficiente de dilatación volumétrica ($$\\gamma$$) y a la variación de temperatura ($$\\Delta T$$). La expresión matemática correcta es $$\\Delta V = V_0\\gamma\\Delta T$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_005",
+      "pregunta": "¿Qué relación existe entre el coeficiente de dilatación volumétrica ($$\\gamma$$) y el coeficiente de dilatación lineal ($$\\alpha$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\gamma = 2\\alpha$$",
+        "B": "$$\\gamma = 3\\alpha$$",
+        "C": "$$\\gamma = \\alpha^3$$",
+        "D": "$$\\alpha = 3\\gamma$$",
+        "E": "$$\\gamma = \\frac{\\alpha}{3}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para materiales isótropos (que se dilatan de igual manera en todas las direcciones), el coeficiente de dilatación volumétrica ($$\\gamma$$) es aproximadamente tres veces el coeficiente de dilatación lineal ($$\\alpha$$), lo que se expresa como $$\\gamma = 3\\alpha$$. Esto se debe a que la dilatación ocurre en las tres dimensiones espaciales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_006",
+      "pregunta": "La afirmación de que el incremento en el volumen de un cuerpo es directamente proporcional a su volumen inicial y al incremento de la temperatura, se describe matemáticamente mediante la fórmula:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_f = V_0 - \\Delta V$$",
+        "B": "$$\\Delta V = \\frac{\\gamma V_0}{\\Delta T}$$",
+        "C": "$$V_f = \\gamma \\Delta T$$",
+        "D": "$$\\Delta V = V_0\\gamma\\Delta T$$",
+        "E": "$$\\gamma = \\frac{\\Delta V}{\\Delta T}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La proporcionalidad directa entre la variación de volumen ($$\\Delta V$$) y el volumen inicial ($$V_0$$) y la variación de temperatura ($$\\Delta T$$) se expresa con la fórmula $$\\Delta V = V_0\\gamma\\Delta T$$, donde $$\\gamma$$ es la constante de proporcionalidad (el coeficiente de dilatación volumétrica).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_007",
+      "pregunta": "¿Qué representa la expresión $$\\Delta V = V_f - V_0$$ en el estudio de la dilatación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El volumen promedio del cuerpo.",
+        "B": "La relación entre el volumen final y el inicial.",
+        "C": "La variación de volumen que experimenta el cuerpo.",
+        "D": "El coeficiente de dilatación.",
+        "E": "La condición para que no haya dilatación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La letra griega delta ($$\\Delta$$) se usa en física para denotar una variación o cambio en una cantidad. Por lo tanto, $$\\Delta V$$ representa la variación de volumen, que se calcula como la diferencia entre el volumen final ($$V_f$$) y el volumen inicial ($$V_0$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_008",
+      "pregunta": "En la fórmula de dilatación superficial $$\\Delta S = S_0\\beta\\Delta T$$, ¿qué significa el coeficiente $$\\beta$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El aumento que experimenta la unidad de área al aumentar la temperatura un grado.",
+        "B": "La superficie final del objeto.",
+        "C": "La relación entre la superficie inicial y la final.",
+        "D": "El triple del coeficiente de dilatación lineal.",
+        "E": "La temperatura a la cual la superficie se duplica."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El coeficiente de dilatación superficial, representado por $$\\beta$$, se define como el aumento fraccional de área por unidad de cambio de temperatura. Específicamente, es el aumento que experimenta la unidad de área de un material cuando su temperatura se incrementa en un grado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_009",
+      "pregunta": "Si un cuerpo se enfría en lugar de calentarse, de modo que $$\\Delta T$$ es negativo, ¿qué se puede prever sobre su volumen final $V_f$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_f$$ será mayor que $$V_0$$.",
+        "B": "$$V_f$$ será igual a $$V_0$$.",
+        "C": "$$V_f$$ será menor que $$V_0$$.",
+        "D": "$$V_f$$ se volverá cero.",
+        "E": "El fenómeno no se puede predecir con estas fórmulas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula del volumen final es $$V_f = V_0(1 + \\gamma\\Delta T)$$. Si $$\\Delta T$$ es negativo (enfriamiento), el término $$\\gamma\\Delta T$$ será negativo. Por lo tanto, el factor $$(1 + \\gamma\\Delta T)$$ será menor que 1, lo que resultará en un volumen final $$V_f$$ menor que el volumen inicial $$V_0$$. Este fenómeno se conoce como contracción térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_010",
+      "pregunta": "¿Qué fórmula se utiliza para calcular directamente el volumen final ($$V_f$$) de un objeto que ha experimentado dilatación volumétrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_f = V_0\\gamma\\Delta T$$",
+        "B": "$$V_f = \\Delta V - V_0$$",
+        "C": "$$V_f = V_0(1 + \\gamma\\Delta T)$$.",
+        "D": "$$V_f = V_0 / (1 + \\gamma\\Delta T)$$.",
+        "E": "$$V_f = V_0 + \\gamma$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Partiendo de que la variación de volumen es $$\\Delta V = V_f - V_0$$ y también $$\\Delta V = V_0\\gamma\\Delta T$$, podemos igualar y despejar $$V_f$$. Esto nos da $$V_f - V_0 = V_0\\gamma\\Delta T$$, y al despejar $$V_f$$ obtenemos $$V_f = V_0 + V_0\\gamma\\Delta T$$, que se factoriza como $$V_f = V_0(1 + \\gamma\\Delta T)$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_011",
+      "pregunta": "Considerando que la dilatación volumétrica afecta a las tres dimensiones de un cuerpo, ¿cuál de las siguientes afirmaciones es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Solo los objetos esféricos experimentan dilatación volumétrica.",
+        "B": "La dilatación solo ocurre en la longitud y el ancho, no en la altura.",
+        "C": "Se consideran las tres dimensiones como principales en este tipo de dilatación.",
+        "D": "La forma del objeto cambia, pero su volumen permanece constante.",
+        "E": "La dilatación volumétrica es independiente de la temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La dilatación volumétrica, por su naturaleza, implica la expansión de un cuerpo en todo su volumen, lo que significa que sus tres dimensiones (largo, ancho y alto) se ven afectadas y se consideran principales para describir el fenómeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_012",
+      "pregunta": "¿Cuál es la relación matemática entre el coeficiente de dilatación superficial ($$\\beta$$) y el coeficiente de dilatación lineal ($$\\alpha$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\beta = 3\\alpha$$",
+        "B": "$$\\beta = \\alpha / 2$$",
+        "C": "$$\\beta = \\alpha^2$$",
+        "D": "$$\\beta = 2\\alpha$$",
+        "E": "$$\\alpha = 2\\beta$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El coeficiente de dilatación superficial ($$\\beta$$) está relacionado con la expansión en dos dimensiones (un área). Para materiales isótropos, este coeficiente es aproximadamente el doble del coeficiente de dilatación lineal ($$\\alpha$$), expresado como $$\\beta = 2\\alpha$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_013",
+      "pregunta": "Utilizando las relaciones $$\\gamma = 3\\alpha$$ y $$\\beta = 2\\alpha$$, ¿cuál es la relación directa entre el coeficiente de dilatación volumétrica ($$\\gamma$$) y el superficial ($$\\beta$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\gamma = \\frac{2}{3}\\beta$$",
+        "B": "$$\\gamma = \\frac{3}{2}\\beta$$",
+        "C": "$$\\gamma = 6\\beta$$",
+        "D": "$$\\gamma = \\beta^{3/2}$$",
+        "E": "$$\\beta = 3\\gamma$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Podemos encontrar la relación entre $$\\gamma$$ y $$\\beta$$ a través de $$\\alpha$$. De la segunda ecuación, despejamos $$\\alpha$$: $$\\alpha = \\frac{\\beta}{2}$$. Luego, sustituimos esta expresión en la primera ecuación: $$\\gamma = 3\\alpha = 3\\left(\\frac{\\beta}{2}\\right)$$. Por lo tanto, la relación correcta es $$\\gamma = \\frac{3}{2}\\beta$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_014",
+      "pregunta": "Dos esferas A y B están hechas del mismo material (mismo $$\\gamma$$). La esfera A tiene un volumen inicial $$V_0$$ y la esfera B tiene un volumen inicial $$2V_0$$. Si ambas se someten al mismo aumento de temperatura $$\\Delta T$$, ¿cómo se compara la variación de volumen de B ($$\\Delta V_B$$) con la de A ($$\\Delta V_A$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\Delta V_B = \\frac{1}{2} \\Delta V_A$$",
+        "B": "$$\\Delta V_B = \\Delta V_A$$",
+        "C": "$$\\Delta V_B = 4 \\Delta V_A$$",
+        "D": "$$\\Delta V_B = 2 \\Delta V_A$$",
+        "E": "La relación depende de la temperatura inicial."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La variación de volumen se calcula con $$\\Delta V = V_0\\gamma\\Delta T$$. Para la esfera A, $$\\Delta V_A = V_0\\gamma\\Delta T$$. Para la esfera B, el volumen inicial es $$2V_0$$, por lo que $$\\Delta V_B = (2V_0)\\gamma\\Delta T = 2(V_0\\gamma\\Delta T)$$. Al comparar ambas expresiones, vemos que $$\\Delta V_B = 2 \\Delta V_A$$, ya que la variación de volumen es directamente proporcional al volumen inicial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_078_015",
+      "pregunta": "Analizando la fórmula $V_f = V_0(1 + \\gamma\\Delta T)$, ¿qué sucedería con el volumen final ($$V_f$$) si no hay cambio en la temperatura ($$\\Delta T = 0$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El volumen final sería cero.",
+        "B": "El volumen final sería igual al volumen inicial ($$V_f = V_0$$).",
+        "C": "El volumen final sería el doble del inicial.",
+        "D": "El resultado sería indeterminado.",
+        "E": "El volumen final sería igual a $$\\gamma V_0$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si la variación de temperatura es cero ($$\\Delta T = 0$$), el término $$\\gamma\\Delta T$$ en la ecuación se anula. La fórmula se simplifica a $$V_f = V_0(1 + 0)$$, lo que da como resultado $$V_f = V_0(1) = V_0$$. Esto significa que si no hay cambio de temperatura, no hay dilatación y el volumen del objeto permanece constante.",
+      "imagen": null
+    }
+  ]
+}

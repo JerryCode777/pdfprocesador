@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_206_001",
-      "pregunta": "¿Cómo se define la masa molecular de una sustancia?",
+      "pregunta": "¿Qué representa la masa molecular de una sustancia?",
       "dificultad": 1,
       "opciones": {
-        "A": "El número de átomos en 12 gramos de carbono-12",
-        "B": "La suma de las masas atómicas promedio de todos los átomos de cada elemento en una molécula",
-        "C": "La masa de un solo isótopo de un elemento",
-        "D": "El número de entidades elementales en una unidad fórmula",
-        "E": "La masa de un mol de moléculas dividida por el número de Avogadro"
+        "A": "La suma de las masas atómicas promedio de todos los átomos en una molécula.",
+        "B": "La masa de un solo átomo del elemento más pesado en la molécula.",
+        "C": "El número total de átomos presentes en una molécula.",
+        "D": "La masa de un mol de la sustancia expresada en gramos.",
+        "E": "El promedio de las masas atómicas de los elementos en una molécula."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La masa molecular es la suma total de las masas atómicas promedio de todos los átomos que componen una molécula. Se calcula sumando la masa atómica de cada átomo presente en la fórmula molecular.",
+      "respuesta_correcta": "A",
+      "explicacion": "La masa molecular se define como la suma total de las masas atómicas promedio de cada uno de los átomos que componen una molécula. Se calcula considerando la cantidad de cada tipo de átomo y su masa atómica correspondiente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_002",
-      "pregunta": "¿Para qué tipo de sustancias se utiliza preferentemente el término 'masa fórmula' en lugar de 'masa molecular'?",
+      "pregunta": "¿Para qué tipo de compuestos se utiliza el término \"masa fórmula\" en lugar de \"masa molecular\"?",
       "dificultad": 1,
       "opciones": {
-        "A": "Sustancias gaseosas",
-        "B": "Compuestos orgánicos",
-        "C": "Sustancias iónicas",
+        "A": "Compuestos orgánicos",
+        "B": "Sustancias gaseosas",
+        "C": "Compuestos iónicos",
         "D": "Moléculas diatómicas",
-        "E": "Isótopos radiactivos"
+        "E": "Elementos metálicos puros"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El término 'masa fórmula' se utiliza para sustancias iónicas, ya que estas no forman moléculas discretas, sino redes cristalinas representadas por una 'unidad fórmula' (como el NaCl). El cálculo es idéntico al de la masa molecular, pero el concepto se aplica a una estructura diferente.",
+      "explicacion": "Los compuestos iónicos, como el $NaCl$, no existen como moléculas discretas, sino como redes cristalinas formadas por iones. Por esta razón, se habla de una \"unidad fórmula\" y su masa correspondiente se denomina \"masa fórmula\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_003",
-      "pregunta": "¿Cuál es la definición de un mol según el Sistema Internacional de Unidades?",
+      "pregunta": "¿Cuál es la definición de un mol en el Sistema Internacional de Unidades?",
       "dificultad": 1,
       "opciones": {
-        "A": "La masa exacta de 12 gramos de cualquier sustancia",
-        "B": "Una cantidad de sustancia que contiene exactamente $$6.022 \\times 10^{23}$$ protones",
-        "C": "La cantidad de una sustancia que contiene tantas entidades elementales como átomos hay en 12 g de carbono-12",
-        "D": "El volumen que ocupa un gas en condiciones estándar de temperatura y presión",
-        "E": "La suma de las masas atómicas de una molécula en gramos"
+        "A": "La masa exacta de 12 gramos de cualquier elemento químico.",
+        "B": "La cantidad de sustancia que contiene $6.022 \\times 10^{23}$ gramos.",
+        "C": "El volumen que ocupa un gas en condiciones estándar.",
+        "D": "La cantidad de sustancia que contiene tantas entidades elementales como átomos hay en 12 g de carbono-12.",
+        "E": "La masa de una molécula individual medida en unidades de masa atómica (uma)."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El mol es una unidad fundamental del Sistema Internacional que mide la cantidad de sustancia. Se define con base en un estándar: el número de átomos de carbono presentes en exactamente 12 gramos del isótopo carbono-12.",
+      "respuesta_correcta": "D",
+      "explicacion": "El mol es una unidad de cantidad de sustancia. Su definición formal se basa en un estándar: el número de átomos presentes en exactamente 12 gramos del isótopo carbono-12. Este número es conocido como número de Avogadro.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_004",
-      "pregunta": "¿Qué nombre recibe el número que representa la cantidad de entidades elementales en un mol, aproximadamente $$6.022 \\times 10^{23}$$?",
+      "pregunta": "¿Qué valor numérico representa aproximadamente el número de Avogadro ($N_A$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "Constante de Planck",
-        "B": "Número de Avogadro",
-        "C": "Constante de los gases ideales",
-        "D": "Número atómico",
-        "E": "Número másico"
+        "A": "$$6.022 \\times 10^{-23}$$",
+        "B": "$$12.01$$",
+        "C": "$$6.022 \\times 10^{23}$$",
+        "D": "$$1.66 \\times 10^{-24}$$",
+        "E": "$$100.0$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El número de entidades elementales (átomos, moléculas, iones, etc.) contenidas en un mol de una sustancia se conoce como el número de Avogadro ($$N_A$$), y su valor aproximado es $$6.022 \\times 10^{23}$$ entidades/mol.",
+      "respuesta_correcta": "C",
+      "explicacion": "El número de Avogadro ($N_A$) es la constante que representa el número de entidades elementales (átomos, moléculas, iones, etc.) en un mol de una sustancia. Su valor aceptado es aproximadamente $6.022 \\times 10^{23}$ entidades por mol.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_005",
-      "pregunta": "¿Cuál es el primer paso para calcular la masa molecular de un compuesto como la glucosa ($$C_6H_{12}O_6$$)?",
+      "pregunta": "El procedimiento para calcular la masa fórmula de un compuesto iónico es esencialmente el mismo que para calcular la:",
       "dificultad": 1,
       "opciones": {
-        "A": "Dividir la masa total por el número de Avogadro",
-        "B": "Sumar los números atómicos de cada elemento",
-        "C": "Multiplicar la masa atómica de cada elemento por el número de átomos de ese elemento en la molécula",
-        "D": "Calcular la abundancia isotópica de cada elemento",
-        "E": "Medir 12 gramos del compuesto"
+        "A": "Masa atómica promedio",
+        "B": "Masa molecular",
+        "C": "Abundancia isotópica",
+        "D": "Masa de un mol",
+        "E": "Densidad de la sustancia"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El cálculo de la masa molecular comienza identificando los elementos y el número de átomos de cada uno en la fórmula. Luego, se multiplica la masa atómica de cada elemento por su respectivo número de átomos. Finalmente, se suman estos resultados.",
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque los términos son diferentes debido a la naturaleza de los compuestos (moleculares vs. iónicos), el método de cálculo es idéntico: se suman las masas atómicas de todos los átomos presentes en la fórmula química de la sustancia.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_006",
-      "pregunta": "¿Qué explica que la masa atómica del carbono sea de 12.01 uma y no exactamente 12 uma?",
+      "pregunta": "¿Qué factores son necesarios para calcular la masa atómica relativa o promedio de un elemento?",
       "dificultad": 2,
       "opciones": {
-        "A": "Es la masa del isótopo más pesado del carbono",
-        "B": "Es un promedio ponderado de las masas de sus isótopos naturales, C-12 y C-13",
-        "C": "Es la masa de un átomo de carbono más la masa de un electrón",
-        "D": "Corresponde al número de protones y neutrones del isótopo más abundante",
-        "E": "Es el resultado de redondear la masa del isótopo C-12"
+        "A": "El número atómico y el número de Avogadro.",
+        "B": "La masa de cada isótopo y su abundancia porcentual.",
+        "C": "La masa molecular y la fórmula química del compuesto.",
+        "D": "El número de protones y electrones del elemento.",
+        "E": "El punto de fusión y ebullición del elemento."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La masa atómica que aparece en la tabla periódica es una masa atómica promedio o relativa. Se calcula como un promedio ponderado de las masas de todos los isótopos de un elemento, tomando en cuenta su abundancia porcentual en la naturaleza. Para el carbono, la presencia del isótopo C-13 (aunque minoritaria) hace que el promedio sea ligeramente superior a 12.",
+      "explicacion": "La masa atómica promedio de un elemento es un promedio ponderado que considera las masas de sus diferentes isótopos estables y la frecuencia (abundancia) con la que cada uno aparece en la naturaleza.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_007",
-      "pregunta": "¿Cuál es la expresión matemática correcta para calcular la masa atómica relativa de un elemento con varios isótopos?",
+      "pregunta": "La masa atómica del carbono que aparece en la tabla periódica es de 12.01 uma, y no exactamente 12. ¿Cuál es la razón principal de esto?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$m.A. \\text{relativa} = \\Sigma (m.A. \\text{isótopo}) \\times 100\\%$$",
-        "B": "$$m.A. \\text{relativa} = \\frac{\\Sigma (\\% \\text{Abundancia})}{100\\%}$$",
-        "C": "$$m.A. \\text{relativa} = \\frac{\\Sigma (m.A. \\text{isótopo} \\times \\% \\text{Abundancia})}{100\\%}$$",
-        "D": "$$m.A. \\text{relativa} = m.A. \\text{isótopo más abundante}$$",
-        "E": "$$m.A. \\text{relativa} = \\frac{\\Sigma (m.A. \\text{isótopo})}{N_{\\text{isótopos}}}$$"
+        "A": "El isótopo C-12 es inestable y pierde masa.",
+        "B": "Es un promedio que incluye la masa del isótopo C-13, que es más pesado.",
+        "C": "La definición de uma se basa en el C-13 y no en el C-12.",
+        "D": "Se debe a la masa de los electrones que no se considera en el C-12.",
+        "E": "Es un redondeo de la masa del isótopo más abundante."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La masa atómica relativa se calcula sumando los productos de la masa de cada isótopo por su porcentaje de abundancia, y luego dividiendo esta suma total entre 100%. Esto asegura que los isótopos más abundantes contribuyan más al promedio final.",
+      "respuesta_correcta": "B",
+      "explicacion": "La masa atómica promedio se calcula considerando todos los isótopos naturales. Aunque el C-12 es el más abundante (98.90%), la existencia del isótopo C-13 (con una masa de 13.00335 uma) hace que el promedio ponderado sea ligeramente superior a 12, resultando en 12.01 uma.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_008",
-      "pregunta": "Si la masa molecular de la glucosa ($$C_6H_{12}O_6$$) es de 180 uma y la masa fórmula del cloruro de sodio (NaCl) es de 58.5 uma, ¿qué se puede afirmar sobre el método de cálculo para ambos valores?",
+      "pregunta": "¿Cuál es la fórmula matemática para calcular la masa atómica relativa ($m.A._{relativa}$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "El método es diferente porque uno es molecular y el otro iónico",
-        "B": "El método es idéntico: sumar las masas atómicas de los átomos en la fórmula",
-        "C": "Para la glucosa se usa el número de Avogadro y para el NaCl no",
-        "D": "Para el NaCl se consideran las cargas iónicas, y para la glucosa no",
-        "E": "El cálculo de la glucosa requiere abundancia isotópica y el del NaCl no"
+        "A": "$$m.A._{relativa} = \\sum (m.A._{isótopo} \\times \\% Abundancia)$$",
+        "B": "$$m.A._{relativa} = \\frac{\\sum (m.A._{isótopo})}{N_{isótopos}}$$",
+        "C": "$$m.A._{relativa} = \\frac{\\sum (m.A._{isótopo} \\times \\% Abundancia)}{100\\%}$$",
+        "D": "$$m.A._{relativa} = \\frac{100\\%}{\\sum (m.A._{isótopo} \\times \\% Abundancia)}$$",
+        "E": "$$m.A._{relativa} = m.A._{isótopo\\ más\\ abundante}$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Aunque los términos 'masa molecular' y 'masa fórmula' se aplican a diferentes tipos de compuestos (covalentes e iónicos, respectivamente), el procedimiento matemático para calcular el valor es exactamente el mismo: se suman las masas atómicas de todos los átomos indicados en la fórmula química.",
+      "respuesta_correcta": "C",
+      "explicacion": "La masa atómica relativa es un promedio ponderado. Se calcula sumando los productos de la masa de cada isótopo por su porcentaje de abundancia, y luego dividiendo el resultado total entre 100% para normalizar el promedio.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_009",
-      "pregunta": "Usando las masas atómicas H = 1 uma, C = 12 uma y O = 16 uma, ¿cuál es el cálculo correcto para la masa molecular del metanol ($$CH_3OH$$)?",
+      "pregunta": "Usando las masas atómicas $H = 1$ uma y $O = 16$ uma, ¿cuál es la masa molecular del agua ($H_2O$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$(12 + 1 + 16 + 1) \\text{ uma}$$",
-        "B": "$$1(12 \\text{ uma}) + 4(1 \\text{ uma}) + 1(16 \\text{ uma})$$",
-        "C": "$$1(12 \\text{ uma}) + 3(1 \\text{ uma}) \\times 1(16 \\text{ uma}) + 1(1 \\text{ uma})$$",
-        "D": "$$\\frac{12 + 1 + 16}{3} \\text{ uma}$$",
-        "E": "$$12 \\text{ uma} + 16 \\text{ uma}$$"
+        "A": "17 uma",
+        "B": "34 uma",
+        "C": "2 uma",
+        "D": "16 uma",
+        "E": "18 uma"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La fórmula del metanol es $$CH_4O$$ (combinando los hidrógenos). Para calcular su masa molecular, se multiplica la masa atómica de cada elemento por el número de veces que aparece y se suman los resultados: 1 átomo de Carbono ($$1 \\times 12$$), 4 átomos de Hidrógeno ($$4 \\times 1$$), y 1 átomo de Oxígeno ($$1 \\times 16$$). La suma es $$12 + 4 + 16 = 32$$ uma.",
+      "respuesta_correcta": "E",
+      "explicacion": "La masa molecular se calcula sumando las masas atómicas de todos los átomos en la molécula. Para el $H_2O$, hay 2 átomos de hidrógeno y 1 de oxígeno. El cálculo es: $$Masa\\ Molecular = (2 \\times m.A._H) + (1 \\times m.A._O) = (2 \\times 1\\ uma) + (1 \\times 16\\ uma) = 2 + 16 = 18\\ uma$$",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_010",
-      "pregunta": "El concepto del mol está intrínsecamente ligado al isótopo carbono-12. ¿De qué manera específica?",
+      "pregunta": "El número de Avogadro ($N_A$) establece una conexión fundamental entre el mundo microscópico (átomos) y el macroscópico (gramos). ¿Cuál es esa conexión?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un mol es la masa de $$6.022 \\times 10^{23}$$ átomos de carbono-12",
-        "B": "Un mol es el número de átomos de carbono-12 en 12 kilogramos de carbono puro",
-        "C": "Un mol es la cantidad de sustancia que contiene el mismo número de partículas que átomos hay en 12 gramos de carbono-12",
-        "D": "Un mol es la masa atómica del carbono-12 expresada en gramos",
-        "E": "Un mol es la abundancia natural del carbono-12"
+        "A": "Es el número de gramos que pesa un átomo.",
+        "B": "Relaciona el número de entidades en un mol con la masa de ese mol en gramos (masa molar).",
+        "C": "Convierte directamente unidades de masa atómica (uma) a kilogramos.",
+        "D": "Define el volumen de un mol de cualquier sustancia.",
+        "E": "Indica la cantidad de isótopos en 12 gramos de carbono."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La definición del mol utiliza al isótopo carbono-12 como el estándar de referencia. Un mol de cualquier sustancia contiene el mismo número de entidades elementales que el número de átomos que se encuentran en exactamente 12 gramos de carbono-12. Este número es el número de Avogadro.",
+      "respuesta_correcta": "B",
+      "explicacion": "El número de Avogadro es la cantidad de partículas (átomos, moléculas) que hay en un mol. La masa de un mol de una sustancia, expresada en gramos (masa molar), es numéricamente igual a su masa molecular o atómica en uma. $N_A$ es el puente entre estas dos escalas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_011",
-      "pregunta": "Si un mol de átomos de carbono-12 tiene una masa de exactamente 12 g, ¿qué representa la masa molecular de 180 uma para la glucosa ($$C_6H_{12}O_6$$)?",
+      "pregunta": "Si calculas la masa de la unidad fórmula del cloruro de sodio ($NaCl$) obtienes 58.5 uma. ¿Qué representa este valor?",
       "dificultad": 2,
       "opciones": {
-        "A": "La masa de una molécula de glucosa en gramos",
-        "B": "La masa de un mol de glucosa en gramos",
-        "C": "La masa de una sola molécula de glucosa relativa a la masa del carbono-12",
-        "D": "El número de moléculas de glucosa en un gramo",
-        "E": "La masa total de los protones en una molécula de glucosa"
+        "A": "La masa de una molécula de $NaCl$.",
+        "B": "La masa de un átomo de $Na$ más la masa de un átomo de $Cl$.",
+        "C": "La masa de un mol de $NaCl$ en gramos.",
+        "D": "El promedio de las masas de $Na$ y $Cl$.",
+        "E": "El número de Avogadro para el $NaCl$."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La unidad de masa atómica (uma) es una unidad relativa. La masa molecular en uma indica cuántas veces es más masiva una molécula en comparación con 1/12 de la masa de un átomo de carbono-12. Por lo tanto, 180 uma es la masa de una molécula de glucosa en esta escala relativa. Numéricamente, este valor corresponde a la masa de un mol en gramos (masa molar), pero el significado de la 'masa molecular' en 'uma' es relativo.",
+      "respuesta_correcta": "B",
+      "explicacion": "La masa fórmula de 58.5 uma se obtiene al sumar la masa atómica del sodio (23 uma) y la del cloro (35.5 uma). Representa la masa combinada de un ion de sodio y un ion de cloro en la red iónica, que es la unidad mínima que mantiene la proporción de la fórmula química.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_012",
-      "pregunta": "¿Cuál de las siguientes afirmaciones es una consecuencia directa de la definición del mol y el número de Avogadro?",
+      "pregunta": "¿Qué expresión representa correctamente el cálculo de la masa molecular de la glucosa ($C_6H_{12}O_6$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un mol de NaCl pesa lo mismo que un mol de $$C_6H_{12}O_6$$",
-        "B": "Un mol de NaCl y un mol de $$C_6H_{12}O_6$$ contienen el mismo número de entidades",
-        "C": "Todos los átomos tienen una masa de 12 uma",
-        "D": "El número de Avogadro cambia dependiendo del elemento",
-        "E": "Un mol siempre ocupa un volumen de 22.4 litros"
+        "A": "$$6 \\times (m.A._C + m.A._H + m.A._O)$$",
+        "B": "$$(m.A._C) + (m.A._H) + (m.A._O)$$",
+        "C": "$$12 \\times (6 \\times m.A._C + m.A._H + 6 \\times m.A._O)$$",
+        "D": "$$(6 \\times m.A._C) + (12 \\times m.A._H) + (6 \\times m.A._O)$$",
+        "E": "$$\\frac{(m.A._C + m.A._H + m.A._O)}{24}$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Por definición, un mol de cualquier sustancia contiene el mismo número de entidades elementales: $$6.022 \\times 10^{23}$$. Por lo tanto, un mol de unidades fórmula de NaCl y un mol de moléculas de glucosa contienen el mismo número de sus respectivas entidades, aunque sus masas (masa molar) sean muy diferentes.",
+      "respuesta_correcta": "D",
+      "explicacion": "Para calcular la masa molecular total, se debe multiplicar la masa atómica de cada elemento por el número de veces que ese átomo aparece en la fórmula (su subíndice) y luego sumar todos los resultados. Para $C_6H_{12}O_6$, esto es 6 veces la masa del C, más 12 veces la masa del H, más 6 veces la masa del O.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_013",
-      "pregunta": "Un elemento hipotético, 'X', tiene dos isótopos: X-10 (masa 10.0 uma, abundancia 20%) y X-11 (masa 11.0 uma, abundancia 80%). ¿Cuál es la masa atómica relativa de 'X'?",
+      "pregunta": "Un elemento hipotético, Z, tiene dos isótopos: Z-30 con 60% de abundancia y Z-32 con 40% de abundancia. ¿Cuál es la masa atómica promedio de Z?",
       "dificultad": 3,
       "opciones": {
-        "A": "10.0 uma",
-        "B": "10.5 uma",
-        "C": "10.8 uma",
-        "D": "11.0 uma",
-        "E": "21.0 uma"
+        "A": "31.0 uma",
+        "B": "30.8 uma",
+        "C": "31.2 uma",
+        "D": "30.0 uma",
+        "E": "32.0 uma"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La masa atómica relativa se calcula usando la fórmula del promedio ponderado: $$m.A. \\text{relativa} = \\frac{\\Sigma (m.A. \\text{isótopo} \\times \\% \\text{Abundancia})}{100\\%}$$. Aplicando los datos: $$m.A. = \\frac{(10.0 \\text{ uma} \\times 20\\%) + (11.0 \\text{ uma} \\times 80\\%)}{100\\%} = \\frac{200 + 880}{100} = \\frac{1080}{100} = 10.8 \\text{ uma}$$. El resultado está más cerca del isótopo más abundante (X-11).",
+      "respuesta_correcta": "B",
+      "explicacion": "La masa atómica promedio se calcula con la fórmula: $$m.A._{promedio} = \\frac{\\sum (m.A._{isótopo} \\times \\% Abundancia)}{100\\%}$$ Aplicando los datos: $$m.A._{promedio} = \\frac{(30 \\times 60) + (32 \\times 40)}{100} = \\frac{1800 + 1280}{100} = \\frac{3080}{100} = 30.8\\ uma$$",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_014",
-      "pregunta": "Considerando las masas atómicas C=12 uma, H=1 uma y O=16 uma, calcule la masa molecular del ácido acético ($$C_2H_4O_2$$).",
+      "pregunta": "Utilizando las masas atómicas $C = 12$ uma, $H = 1$ uma, y $O = 16$ uma, ¿cuál es la masa molecular calculada para la glucosa ($C_6H_{12}O_6$)?",
       "dificultad": 3,
       "opciones": {
         "A": "29 uma",
-        "B": "44 uma",
-        "C": "56 uma",
-        "D": "60 uma",
-        "E": "180 uma"
+        "B": "156 uma",
+        "C": "180 uma",
+        "D": "90 uma",
+        "E": "174 uma"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para calcular la masa molecular del ácido acético ($$C_2H_4O_2$$), se suman las masas de todos sus átomos. Hay 2 átomos de Carbono, 4 de Hidrógeno y 2 de Oxígeno. El cálculo es: $$Masa = (2 \\times m.A._{C}) + (4 \\times m.A._{H}) + (2 \\times m.A._{O}) = (2 \\times 12 \\text{ uma}) + (4 \\times 1 \\text{ uma}) + (2 \\times 16 \\text{ uma}) = 24 + 4 + 32 = 60 \\text{ uma}$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "El cálculo de la masa molecular de la glucosa ($C_6H_{12}O_6$) implica sumar las masas de todos sus átomos: \\begin{itemize} \\item Carbono: $6 \\times 12$ uma = 72 uma \\item Hidrógeno: $12 \\times 1$ uma = 12 uma \\item Oxígeno: $6 \\times 16$ uma = 96 uma \\end{itemize} La suma total es: $$72 + 12 + 96 = 180\\ uma$$",
       "imagen": null
     },
     {
       "id_temporal": "quimica_206_015",
-      "pregunta": "Si un científico determina que una muestra de agua contiene $$6.022 \\times 10^{23}$$ moléculas de $$H_2O$$, ¿qué conclusión fundamental se puede extraer sobre la cantidad de la muestra?",
+      "pregunta": "La masa atómica del carbono es 12.01 uma. Si se sabe que el isótopo C-12 tiene una abundancia del 98.90% y el isótopo C-13 tiene una masa de 13.00335 uma y una abundancia del 1.10%, ¿qué conclusión es la más acertada?",
       "dificultad": 3,
       "opciones": {
-        "A": "La muestra tiene una masa de 12 gramos",
-        "B": "La muestra contiene exactamente 1 mol de agua",
-        "C": "La muestra es isotópicamente pura",
-        "D": "La muestra tiene una masa molecular de 18 gramos",
-        "E": "La muestra contiene exactamente 12.01 gramos de agua"
+        "A": "El promedio se acerca a 12 porque la masa del C-13 es insignificante.",
+        "B": "El cálculo de la masa promedio es incorrecto, debería dar 12.5.",
+        "C": "La alta abundancia del C-12 hace que la masa promedio esté muy cerca de 12.",
+        "D": "El C-13 es el isótopo que define la unidad de masa atómica.",
+        "E": "La abundancia del C-12 y C-13 debería ser la misma para un promedio correcto."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La pregunta relaciona directamente el número de partículas con el concepto de mol. El número de Avogadro ($$N_A \\approx 6.022 \\times 10^{23}$$) es la cantidad de entidades elementales (en este caso, moléculas) que hay en un mol de una sustancia. Por lo tanto, si la muestra contiene ese número de moléculas, por definición, contiene exactamente 1 mol de agua.",
+      "respuesta_correcta": "C",
+      "explicacion": "El resultado de un promedio ponderado siempre se inclina hacia el valor con mayor peso o abundancia. Dado que el isótopo C-12 constituye el 98.90% de todo el carbono natural, su masa (12 uma) tiene una influencia mucho mayor en el promedio final que la del C-13, que solo representa el 1.10%. Por eso, el resultado (12.01 uma) está extremadamente cerca de 12.",
       "imagen": null
     }
   ]

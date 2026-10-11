@@ -1,0 +1,54 @@
+{
+  "materia": "comprension_lectoraII",
+  "numero_tema": 18,
+  "total_temas": 20,
+  "titulo_tema": "Texto 18",
+  "texto": "La visión tradicional del progreso científico lo concibe como un proceso acumulativo y lineal, donde cada nuevo descubrimiento se suma al conocimiento previo, como si se colocara un ladrillo más en un edificio en constante construcción. Sin embargo, el filósofo de la ciencia Thomas Kuhn propuso una perspectiva radicalmente distinta. Para Kuhn, la ciencia avanza a través de revoluciones, denominadas “cambios de paradigma”. Un paradigma no es simplemente una teoría, sino un marco conceptual completo que incluye supuestos, leyes, técnicas y ejemplos aceptados por una comunidad científica en un momento dado. \n\nDentro de un paradigma establecido, los científicos practican lo que Kuhn llama “ciencia normal”, una actividad de resolución de problemas que no busca refutar el marco, sino articularlo y expandirlo. No obstante, con el tiempo, surgen “anomalías”, resultados experimentales o teóricos que no encajan con el paradigma dominante. Cuando estas anomalías se acumulan y resisten los intentos de solución, se desencadena una “crisis” de confianza en el paradigma. Esta crisis solo se resuelve mediante una revolución científica: la adopción de un nuevo paradigma que reinterpreta el mundo, redefine los problemas legítimos y establece nuevos estándares de evidencia. Este cambio es tan profundo que Kuhn lo compara con una conversión religiosa; los partidarios de paradigmas rivales ven el mundo de maneras inconmensurables, dificultando el diálogo puramente lógico entre ellos.",
+  "preguntas": [
+    {
+      "id_temporal": "comp_ii_018_001",
+      "pregunta": "¿Cuál es la idea principal del texto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La ciencia normal es la etapa más importante del desarrollo científico, pues permite articular y expandir el conocimiento.",
+        "B": "Las anomalías son fallos experimentales que eventualmente son corregidos por la comunidad científica sin alterar sus bases.",
+        "C": "El progreso científico, según Kuhn, no es un proceso lineal y acumulativo, sino que ocurre a través de revoluciones y cambios de paradigma.",
+        "D": "Un paradigma es una teoría científica que es reemplazada por otra mejor a través de un diálogo puramente lógico y racional.",
+        "E": "La visión tradicional de la ciencia es más precisa que la de Kuhn, ya que el conocimiento siempre se construye sobre bases anteriores."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La respuesta C resume de manera más completa y precisa el argumento central del texto. El autor presenta la visión de Thomas Kuhn en contraposición a la idea tradicional, destacando que el avance científico se da por \"revoluciones\" o \"cambios de paradigma\", un proceso no lineal. La opción A se centra solo en una parte (la ciencia normal). La B contradice la idea de que las anomalías pueden provocar una crisis. La D es incorrecta porque Kuhn afirma que el diálogo entre paradigmas no es puramente lógico. La E contradice directamente la tesis principal expuesta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "comp_ii_018_002",
+      "pregunta": "Del texto se infiere que, durante el periodo de “ciencia normal”, la actitud de los científicos tiende a ser:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Revolucionaria, buscando activamente nuevas teorías que reemplacen las existentes.",
+        "B": "Conservadora, operando dentro de las reglas del paradigma aceptado sin cuestionarlo fundamentalmente.",
+        "C": "Escéptica, dudando constantemente de los supuestos básicos de su campo de estudio.",
+        "D": "Filosófica, debatiendo principalmente sobre la naturaleza inconmensurable de los paradigmas.",
+        "E": "Indiferente, mostrando poco interés en la resolución de problemas específicos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El texto afirma que la “ciencia normal” es una \"actividad de resolución de problemas que no busca refutar el marco, sino articularlo y expandirlo\". De esto se deduce que los científicos en esta fase aceptan el paradigma dominante y trabajan dentro de sus límites. Por lo tanto, su actitud es conservadora en el sentido de que conservan y refuerzan el marco conceptual existente. Las otras opciones son incorrectas: A es lo opuesto a la ciencia normal; C describe la actitud durante una crisis, no en la normalidad; D es una discusión sobre el cambio de paradigma, no la práctica normal; y E es incorrecto, ya que la ciencia normal se define precisamente por la resolución de problemas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "comp_ii_018_003",
+      "pregunta": "Si, hipotéticamente, las anomalías que surgen dentro de un paradigma pudieran ser siempre resueltas con las herramientas del mismo, ¿qué sucedería según la lógica de Kuhn?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El progreso científico se detendría por completo al no haber nuevos descubrimientos.",
+        "B": "La fase de “ciencia normal” se perpetuaría, impidiendo la llegada de una crisis y una revolución científica.",
+        "C": "Los científicos abandonarían el paradigma actual en busca de uno que explique mejor los fenómenos.",
+        "D": "Se producirían revoluciones científicas de manera más frecuente para optimizar el paradigma.",
+        "E": "La comunicación entre científicos de diferentes áreas se volvería imposible."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta es una pregunta de extrapolación por negación. El texto establece una secuencia causal: acumulación de anomalías → crisis → revolución científica. Si se elimina la causa principal de la crisis (la acumulación de anomalías irresolubles), entonces la crisis nunca se desencadenaría. En consecuencia, la revolución científica no tendría lugar y la etapa de “ciencia normal” continuaría indefinidamente, pues el paradigma seguiría siendo exitoso en explicar los fenómenos. La opción A es incorrecta, pues la ciencia normal implica progreso. C y D son lo contrario de lo que sucedería. E no tiene relación directa con la premisa hipotética.",
+      "imagen": null
+    }
+  ]
+}

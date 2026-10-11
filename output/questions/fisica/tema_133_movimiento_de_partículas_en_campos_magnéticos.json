@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 133,
+  "total_temas": 137,
+  "titulo_tema": "Movimiento de partículas en campos magnéticos",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_133_001",
+      "pregunta": "¿Qué tipo de trayectoria describe una partícula cargada si su velocidad es paralela a las líneas de un campo magnético homogéneo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Circunferencial",
+        "B": "Rectilínea",
+        "C": "Elíptica",
+        "D": "Parabólica",
+        "E": "Helicoidal"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando la velocidad de la partícula es paralela al campo magnético, el ángulo entre el vector velocidad y el vector de campo magnético es de 0°. La fuerza magnética, que depende de $$ \\sin \theta $$, es nula ($$ \\sin 0^\\circ = 0 $$). Al no haber fuerza magnética actuando sobre ella, la partícula continúa su movimiento sin cambiar de dirección, describiendo una trayectoria rectilínea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_002",
+      "pregunta": "En el movimiento circunferencial de una partícula en un campo magnético, la fuerza magnética actúa como...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "fuerza de rozamiento.",
+        "B": "fuerza gravitacional.",
+        "C": "fuerza centrípeta.",
+        "D": "fuerza tangencial.",
+        "E": "fuerza normal."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que una partícula describa un movimiento circular uniforme, necesita una fuerza que apunte constantemente hacia el centro de la circunferencia. En este caso, la fuerza magnética es siempre perpendicular a la velocidad de la partícula, cumpliendo exactamente esta función. Por lo tanto, la fuerza magnética provee la fuerza centrípeta necesaria para la trayectoria circular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_003",
+      "pregunta": "¿Cuál es la expresión para la magnitud de la fuerza magnética ($$F_B$$) sobre un conductor recto de longitud $$L$$ que porta una corriente $$I$$ en un campo magnético uniforme $$B$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$F_B = I L B \\cos\theta$$",
+        "B": "$$F_B = I L B$$",
+        "C": "$$F_B = \frac{I B}{L} \\sin\theta$$",
+        "D": "$$F_B = I L B \\sin\theta$$",
+        "E": "$$F_B = I L^2 B$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La magnitud de la fuerza magnética sobre un conductor rectilíneo se calcula con la fórmula $$F_B = I L B \\sin\theta$$, donde $$I$$ es la corriente, $$L$$ es la longitud del conductor, $$B$$ es la magnitud del campo magnético, y $$\theta$$ es el ángulo entre la dirección de la corriente y la dirección del campo magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_004",
+      "pregunta": "En la ecuación de la fuerza magnética sobre un conductor, $$ \\vec{F}_B = I (\\vec{L} \times \\vec{B})$$, ¿qué representa $$\\vec{L}$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La longitud del campo magnético.",
+        "B": "Un vector cuya magnitud es la longitud del conductor y su dirección es la de la corriente.",
+        "C": "La inductancia del circuito.",
+        "D": "La densidad de carga lineal.",
+        "E": "Un vector perpendicular a la corriente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la expresión vectorial de la fuerza magnética sobre un conductor, $$\\vec{L}$$ es un vector que representa al conductor. Su magnitud es la longitud $$L$$ del segmento del conductor que se encuentra dentro del campo, y su dirección es la misma que la de la corriente eléctrica $$I$$ que fluye a través de él.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_005",
+      "pregunta": "¿Por qué un conductor que transporta una corriente eléctrica puede experimentar una fuerza en presencia de un campo magnético?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Porque el conductor se magnetiza permanentemente.",
+        "B": "Porque la resistencia eléctrica del conductor cambia.",
+        "C": "Porque el campo magnético induce una corriente opuesta.",
+        "D": "Porque una corriente eléctrica se compone de cargas en movimiento.",
+        "E": "Porque el conductor genera su propio campo gravitacional."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El principio fundamental es que los campos magnéticos ejercen fuerzas sobre las cargas eléctricas en movimiento. Una corriente eléctrica es, por definición, un flujo de cargas eléctricas. Por lo tanto, el campo magnético ejerce una fuerza sobre cada una de estas cargas móviles, y la suma de todas estas fuerzas individuales se manifiesta como una fuerza neta sobre el conductor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_006",
+      "pregunta": "¿Bajo qué condición específica una partícula cargada describe una trayectoria circunferencial al entrar en un campo magnético homogéneo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el ángulo entre su velocidad y el campo es $$0^\\circ$$.",
+        "B": "Cuando su velocidad es perpendicular al campo magnético.",
+        "C": "Cuando la partícula no tiene masa.",
+        "D": "Cuando el campo magnético es paralelo a la velocidad.",
+        "E": "Cuando la partícula se mueve muy lentamente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una trayectoria circunferencial uniforme ocurre cuando la fuerza magnética es constante en magnitud y siempre perpendicular a la velocidad. Esto se logra cuando la partícula ingresa con su vector velocidad exactamente perpendicular a las líneas del campo magnético, es decir, con un ángulo $$\theta = 90^\\circ$$. Si el ángulo fuera $$0^\\circ$$ o $$180^\\circ$$, la fuerza sería nula y la trayectoria, rectilínea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_007",
+      "pregunta": "¿Cuál de las siguientes ecuaciones iguala correctamente la magnitud de la fuerza magnética con la magnitud de la fuerza centrípeta para una partícula en movimiento circular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$|q|vB = m \frac{R}{v^2}$$",
+        "B": "$$|q|B = m \frac{v}{R}$$",
+        "C": "$$|q|vB = m \frac{v^2}{R}$$",
+        "D": "$$vB = m \frac{|q|}{R^2}$$",
+        "E": "$$|q|v^2B = m \frac{v}{R}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La magnitud de la fuerza magnética sobre una partícula que se mueve perpendicular a un campo $$B$$ es $$F_B = |q|vB$$. La magnitud de la fuerza centrípeta necesaria para un movimiento circular de radio $$R$$ a una velocidad $$v$$ es $$F_C = \frac{mv^2}{R}$$. Al igualar ambas fuerzas, ya que la magnética actúa como centrípeta, obtenemos la relación correcta: $$|q|vB = m \frac{v^2}{R}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_008",
+      "pregunta": "La fuerza magnética sobre un conductor con corriente es máxima cuando el ángulo $$\theta$$ entre la corriente y el campo magnético es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$0^\\circ$$",
+        "B": "$$45^\\circ$$",
+        "C": "$$90^\\circ$$",
+        "D": "$$180^\\circ$$",
+        "E": "$$360^\\circ$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La magnitud de la fuerza está dada por $$F_B = I L B \\sin\theta$$. La función seno alcanza su valor máximo, que es 1, cuando el ángulo $$\theta$$ es $$90^\\circ$$. Por lo tanto, la fuerza es máxima cuando el conductor está orientado perpendicularmente a las líneas del campo magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_009",
+      "pregunta": "La expresión vectorial $$ \\vec{F}_B = I (\\vec{L} \times \\vec{B})$$ indica que la dirección de la fuerza magnética es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralela a la dirección de la corriente ($$\\vec{L}$$).",
+        "B": "Paralela a la dirección del campo magnético ($$\\vec{B}$$).",
+        "C": "En la misma dirección que la suma vectorial de $$\\vec{L}$$ y $$\\vec{B}$$.",
+        "D": "Perpendicular al plano formado por $$\\vec{L}$$ y $$\\vec{B}$$.",
+        "E": "Opuesta a la dirección de la corriente ($$\\vec{L}$$)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La operación '$$ \times $$' representa el producto cruz o producto vectorial. Una propiedad fundamental del producto cruz de dos vectores ($$\\vec{L}$$ y $$\\vec{B}$$) es que el vector resultante ($$\\vec{F}_B$$) es siempre perpendicular al plano que contiene a los dos vectores originales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_010",
+      "pregunta": "Una partícula con carga $$|q|$$ y velocidad $$v$$ se mueve en un campo magnético $$B$$. ¿En qué caso la fuerza magnética sobre la partícula es nula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando la velocidad es perpendicular al campo.",
+        "B": "Cuando la carga $$|q|$$ es positiva.",
+        "C": "Cuando la velocidad es paralela al campo.",
+        "D": "Cuando la partícula tiene una masa muy grande.",
+        "E": "Cuando el movimiento es circunferencial."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La magnitud de la fuerza magnética sobre una partícula cargada es $$F_B = |q|vB\\sin\theta$$. La fuerza será nula si alguno de los factores es cero. Si la velocidad es paralela al campo, el ángulo $$\theta$$ es $$0^\\circ$$ o $$180^\\circ$$. En ambos casos, $$\\sin\theta = 0$$, lo que hace que la fuerza magnética sea cero, resultando en una trayectoria rectilínea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_011",
+      "pregunta": "¿Qué representa la variable $$\\omega$$ en la expresión de la fuerza centrípeta $$F_C = m\\omega^2 R$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad tangencial.",
+        "B": "La aceleración angular.",
+        "C": "El peso de la partícula.",
+        "D": "La rapidez angular.",
+        "E": "La frecuencia del movimiento."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En el contexto del movimiento circular uniforme, la letra griega omega ($$\\omega$$) representa la rapidez angular. Mide la tasa de cambio del ángulo de la partícula, expresada comúnmente en radianes por segundo ($$rad/s$$). Está relacionada con la velocidad tangencial $$v$$ mediante la fórmula $$v = \\omega R$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_012",
+      "pregunta": "Si un conductor con corriente está orientado de tal manera que forma un ángulo $$\theta = 180^\\circ$$ con un campo magnético, la fuerza magnética sobre él es...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Máxima y en la dirección del campo.",
+        "B": "Nula.",
+        "C": "Máxima y en dirección opuesta al campo.",
+        "D": "La mitad de la fuerza máxima.",
+        "E": "Igual a la fuerza para un ángulo de $$90^\\circ$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La magnitud de la fuerza se calcula como $$F_B = I L B \\sin\theta$$. Cuando el ángulo $$\theta$$ es $$180^\\circ$$, el conductor es antiparalelo al campo magnético. El valor de $$\\sin(180^\\circ)$$ es 0, por lo que la fuerza magnética resultante sobre el conductor es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_013",
+      "pregunta": "A partir de la igualdad entre la fuerza magnética y la fuerza centrípeta, $$|q|vB = \frac{mv^2}{R}$$, ¿cuál es la expresión correcta para el radio $$R$$ de la trayectoria?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$R = \frac{|q|B}{mv}$$",
+        "B": "$$R = \frac{mv}{|q|B}$$",
+        "C": "$$R = \frac{m}{|q|vB}$$",
+        "D": "$$R = \frac{mv^2B}{|q|}$$",
+        "E": "$$R = |q|vBm$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para despejar el radio $$R$$ de la ecuación $$|q|vB = \frac{mv^2}{R}$$, seguimos estos pasos: 1. Multiplicamos ambos lados por $$R$$ para obtener $$|q|vBR = mv^2$$. 2. Dividimos ambos lados por $$|q|vB$$ para aislar $$R$$: $$R = \frac{mv^2}{|q|vB}$$. 3. Simplificamos la expresión cancelando un factor $$v$$ del numerador y el denominador, lo que resulta en $$R = \frac{mv}{|q|B}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_014",
+      "pregunta": "Una partícula con carga $$|q|$$ y masa $$m$$ entra a un campo $$B$$ con velocidad $$v$$, describiendo un círculo de radio $$R$$. Si otra partícula con la misma carga $$|q|$$ y velocidad $$v$$, pero con el doble de masa ($$2m$$), entra al mismo campo, ¿cuál será su radio de giro $$R'$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$R' = R$$",
+        "B": "$$R' = R/2$$",
+        "C": "$$R' = 4R$$",
+        "D": "$$R' = R/4$$",
+        "E": "$$R' = 2R$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El radio de la trayectoria está dado por la fórmula $$R = \frac{mv}{|q|B}$$. Observamos que el radio $$R$$ es directamente proporcional a la masa $$m$$. Si la masa se duplica ($$m \rightarrow 2m$$) mientras las otras variables ($$v, |q|, B$$) permanecen constantes, el nuevo radio $$R'$$ será $$R' = \frac{(2m)v}{|q|B} = 2 \\left( \frac{mv}{|q|B} \right) = 2R$$. Por lo tanto, el radio de giro se duplicará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_133_015",
+      "pregunta": "Se tienen dos conductores rectos, 1 y 2, en el mismo campo magnético $$B$$. El conductor 1 tiene longitud $$L$$ y corriente $$I$$, y está perpendicular al campo. El conductor 2 tiene longitud $$2L$$ y corriente $$I/2$$, y también es perpendicular al campo. ¿Cuál es la relación entre la magnitud de la fuerza $$F_1$$ sobre el conductor 1 y la fuerza $$F_2$$ sobre el conductor 2?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$F_1 = 2F_2$$",
+        "B": "$$F_2 = 2F_1$$",
+        "C": "$$F_1 = F_2$$",
+        "D": "$$F_1 = 4F_2$$",
+        "E": "$$F_2 = 4F_1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La magnitud de la fuerza se calcula como $$F = I L B \\sin\theta$$. Como ambos conductores son perpendiculares al campo, $$\\sin\theta = \\sin(90^\\circ) = 1$$ para ambos. Para el conductor 1: $$F_1 = I L B$$. Para el conductor 2: $$F_2 = (I/2)(2L)B = I L B$$. Al comparar las dos expresiones, vemos que $$F_1 = F_2$$. A pesar de tener diferentes longitudes y corrientes, el producto $$I \times L$$ es el mismo para ambos, resultando en fuerzas de igual magnitud.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 61,
+  "total_temas": 137,
+  "titulo_tema": "Flujo Laminar",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_061_001",
+      "pregunta": "¿Qué define un flujo aerodinámico o laminar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es un movimiento en el que el fluido presenta remolinos y alta velocidad.",
+        "B": "Es un flujo donde la densidad del fluido se mantiene constante en todo momento.",
+        "C": "Es el movimiento en el cual cada partícula del fluido sigue la misma trayectoria que la partícula anterior.",
+        "D": "Es un tipo de flujo donde la viscosidad del fluido es la propiedad más importante.",
+        "E": "Es un movimiento caracterizado por la ausencia total de fricción con las paredes del contenedor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un flujo aerodinámico o laminar se define por la predictibilidad y el orden en el movimiento de las partículas. Específicamente, cada partícula que pasa por un punto determinado sigue la misma trayectoria que la partícula que la precedió. Las otras opciones describen otras características del flujo de fluidos: la opción A describe el flujo turbulento, la B describe un flujo incompresible y las D y E se relacionan con la viscosidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_002",
+      "pregunta": "¿Cuál es la característica principal de un flujo incompresible?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad del fluido es siempre cero.",
+        "B": "La densidad del fluido es constante.",
+        "C": "No hay fricción interna en el fluido.",
+        "D": "Las partículas del fluido no tienen velocidad angular neta.",
+        "E": "El flujo siempre ocurre a baja velocidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un flujo incompresible se caracteriza porque la densidad del fluido no cambia, es decir, permanece constante a lo largo del flujo. Los líquidos son un buen ejemplo de fluidos que generalmente se consideran incompresibles. Las otras opciones se refieren a conceptos diferentes: la fricción interna se relaciona con la viscosidad (C), la ausencia de velocidad angular neta con el flujo irrotacional (D), y la baja velocidad es una condición para el flujo constante (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_003",
+      "pregunta": "¿Qué significa que un flujo sea no viscoso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que la densidad del fluido es muy alta.",
+        "B": "Que el fluido se mueve a una velocidad muy elevada.",
+        "C": "Que la fricción interna o resistencia al flujo es insignificante.",
+        "D": "Que el flujo es necesariamente turbulento.",
+        "E": "Que las partículas del fluido siguen trayectorias idénticas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un flujo no viscoso implica que la viscosidad del fluido, que es su fricción interna o resistencia a fluir, es tan pequeña que puede considerarse insignificante. En un fluido ideal no viscoso, no habría pérdida de energía interna ni fricción con las paredes que lo contienen. La alta densidad (A), alta velocidad (B), turbulencia (D) y trayectorias idénticas (E) son conceptos distintos de la viscosidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_004",
+      "pregunta": "Para que un flujo de fluido se mantenga constante y no se vuelva turbulento, ¿qué condición de velocidad se debe cumplir generalmente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad debe ser extremadamente alta.",
+        "B": "La velocidad debe ser baja.",
+        "C": "La velocidad debe variar constantemente.",
+        "D": "La velocidad debe ser igual a la velocidad del sonido.",
+        "E": "La velocidad no tiene influencia en el tipo de flujo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para mantener un flujo constante y evitar la aparición de remolinos y turbulencia, la velocidad del fluido debe ser baja. Las velocidades altas tienden a desestabilizar el flujo, especialmente cerca de las fronteras, provocando un régimen turbulento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_005",
+      "pregunta": "¿Cuál es la principal característica de un flujo irrotacional?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El fluido tiene una viscosidad muy alta, como la miel.",
+        "B": "La densidad del fluido es variable.",
+        "C": "Un pequeño volumen del fluido no posee una velocidad angular neta.",
+        "D": "Las líneas de corriente siempre están muy juntas.",
+        "E": "El flujo ocurre únicamente en gases."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un flujo irrotacional se define por la ausencia de rotación neta en los elementos del fluido. Esto significa que si se aísla un pequeño volumen del fluido, este no girará sobre su propio eje a medida que se desplaza. Esta característica elimina la posibilidad de remolinos y es incompatible con la turbulencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_006",
+      "pregunta": "En una representación de flujo mediante líneas de corriente, ¿qué indica una zona donde estas líneas están más juntas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una menor velocidad del fluido.",
+        "B": "Una mayor densidad del fluido.",
+        "C": "Una mayor viscosidad del fluido.",
+        "D": "Una mayor magnitud de la velocidad del fluido.",
+        "E": "El inicio de un flujo irrotacional."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las líneas de corriente no solo muestran la trayectoria del flujo, sino que también proporcionan información sobre la magnitud de la velocidad. Donde las líneas de corriente están más próximas entre sí, la velocidad del fluido es mayor. Por el contrario, donde están más separadas, la velocidad es menor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_007",
+      "pregunta": "¿Qué fenómeno tiende a aparecer en un fluido cuando su velocidad de flujo es alta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El flujo se vuelve perfectamente laminar.",
+        "B": "La viscosidad del fluido desaparece.",
+        "C": "El fluido se vuelve incompresible.",
+        "D": "Aparecen remolinos y el flujo se vuelve turbulento.",
+        "E": "La densidad del fluido aumenta significativamente."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Existe una relación directa entre la velocidad del flujo y su estabilidad. A velocidades bajas, el flujo tiende a ser constante y laminar. Sin embargo, a medida que la velocidad aumenta, se alcanza un punto en el que el flujo se vuelve inestable, dando lugar a la formación de remolinos y a un estado caótico conocido como flujo turbulento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_008",
+      "pregunta": "¿Qué se puede afirmar sobre la relación entre un flujo irrotacional y la turbulencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un flujo irrotacional es una forma de flujo turbulento.",
+        "B": "La turbulencia es una condición necesaria para que un flujo sea irrotacional.",
+        "C": "Un flujo irrotacional, al no tener remolinos, no es turbulento.",
+        "D": "Todos los flujos no turbulentos son necesariamente irrotacionales.",
+        "E": "La irrotacionalidad y la turbulencia son conceptos independientes sin relación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de flujo irrotacional es que los elementos del fluido no tienen velocidad angular neta, lo que elimina la posibilidad de remolinos. Dado que la turbulencia se caracteriza precisamente por la presencia de remolinos y un movimiento caótico, un flujo irrotacional no puede ser turbulento. Son condiciones mutuamente excluyentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_009",
+      "pregunta": "Tomando como ejemplo la miel y el agua, ¿cómo se aplica el concepto de viscosidad para compararlos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El agua tiene una fricción interna mayor que la miel.",
+        "B": "La miel es mucho más viscosa que el agua.",
+        "C": "Ambos fluidos son considerados no viscosos.",
+        "D": "La viscosidad de ambos es idéntica, pero su densidad es diferente.",
+        "E": "La miel fluye más fácilmente que el agua, por lo tanto es menos viscosa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La viscosidad es la medida de la resistencia de un fluido a fluir. La miel fluye con mucha más dificultad que el agua, lo que indica que tiene una fricción interna mucho mayor. Por lo tanto, la miel es un fluido mucho más viscoso que el agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_010",
+      "pregunta": "¿Qué tipo de sustancia es generalmente tratada como incompresible en el estudio del flujo de fluidos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los gases, ya que sus moléculas están muy separadas.",
+        "B": "Los líquidos, ya que su densidad tiende a ser constante.",
+        "C": "Los fluidos no viscosos únicamente.",
+        "D": "Los fluidos en estado turbulento.",
+        "E": "Cualquier fluido a alta velocidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la dinámica de fluidos, los líquidos se consideran generalmente incompresibles porque su volumen y, por lo tanto, su densidad, cambian muy poco incluso bajo grandes presiones. En contraste, los gases son muy compresibles, aunque en ciertas condiciones de flujo pueden ser tratados como si fueran incompresibles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_011",
+      "pregunta": "¿Cuáles serían las consecuencias energéticas y de fricción si un fluido fuera verdaderamente no viscoso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El fluido perdería toda su energía en forma de calor.",
+        "B": "Habría una máxima resistencia por fricción con las paredes que lo contienen.",
+        "C": "El fluido fluiría libremente sin pérdida de energía en su interior y sin fricción con las paredes.",
+        "D": "La energía se transformaría en remolinos, aumentando la turbulencia.",
+        "E": "La velocidad del fluido se reduciría a cero instantáneamente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La viscosidad es la causa de la pérdida de energía por fricción interna y de la resistencia contra las paredes del contenedor. Un fluido verdaderamente no viscoso sería un fluido ideal que fluiría sin disipación de energía interna y no experimentaría ninguna fuerza de fricción contra las superficies con las que está en contacto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_012",
+      "pregunta": "Según la definición de flujo laminar, si una partícula de tinta se inyecta en un punto de una tubería con este tipo de flujo, ¿qué trayectoria seguiría?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una trayectoria aleatoria y caótica.",
+        "B": "La misma trayectoria que siguieron las partículas de fluido que pasaron antes por ese punto.",
+        "C": "Una trayectoria en espiral formando un remolino.",
+        "D": "Una trayectoria perpendicular a la dirección del flujo principal.",
+        "E": "Se quedaría estática en el punto de inyección."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La característica que define el flujo laminar es que cada partícula sigue la misma trayectoria que la partícula anterior que pasó por el mismo punto. Por lo tanto, la tinta formaría una línea de corriente visible y estable, siguiendo el camino predecible de las partículas de fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_013",
+      "pregunta": "Si un flujo de agua en un río pasa de una sección ancha y profunda a una sección estrecha y poco profunda, las líneas de corriente se juntan. ¿Qué implicación directa tiene esto sobre la velocidad del agua?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La velocidad del agua disminuye en la sección estrecha.",
+        "B": "La velocidad del agua aumenta en la sección estrecha.",
+        "C": "La velocidad del agua se mantiene constante en todo el río.",
+        "D": "El agua se detiene en la sección estrecha.",
+        "E": "El flujo se vuelve necesariamente irrotacional."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las líneas de corriente son una herramienta visual para entender la velocidad del fluido. El principio establece que donde las líneas de corriente están más juntas, la velocidad del fluido es mayor. Por lo tanto, al pasar a una sección más estrecha, las líneas se juntan, indicando un aumento en la velocidad del agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_014",
+      "pregunta": "Al observar un fluido en movimiento, se detecta que pequeños elementos de fluido están girando sobre sí mismos, lo que indica la presencia de una velocidad angular neta. ¿Qué tipo de flujo se puede descartar inmediatamente basándose en esta observación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Flujo viscoso",
+        "B": "Flujo incompresible",
+        "C": "Flujo turbulento",
+        "D": "Flujo irrotacional",
+        "E": "Flujo laminar"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La definición de flujo irrotacional es que un elemento de fluido no posee una velocidad angular neta. La observación de que los elementos de fluido están girando contradice directamente esta definición. Por lo tanto, se puede afirmar con certeza que el flujo no es irrotacional, es decir, es un flujo rotacional. Las otras características (viscoso, incompresible, turbulento, laminar) no se descartan solo con esta observación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_061_015",
+      "pregunta": "Un fluido idealizado se mueve a través de una tubería sin experimentar ninguna fuerza de fricción contra las paredes de la misma, ni disipación de energía por fricción entre sus propias capas. ¿Qué propiedad del flujo describe mejor esta situación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Incompresibilidad",
+        "B": "Flujo no viscoso",
+        "C": "Flujo laminar",
+        "D": "Irrotacionalidad",
+        "E": "Alta densidad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La viscosidad es la propiedad responsable de la fricción interna de un fluido y de la fricción entre el fluido y las paredes que lo contienen, lo que causa pérdida de energía. Un escenario donde no hay tales pérdidas energéticas por fricción describe perfectamente un flujo no viscoso. Aunque el flujo también podría ser incompresible, laminar o irrotacional, la propiedad que se relaciona directamente con la ausencia de fricción y pérdida de energía es la no viscosidad.",
+      "imagen": null
+    }
+  ]
+}

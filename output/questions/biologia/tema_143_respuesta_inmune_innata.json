@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 143,
+  "total_temas": 320,
+  "titulo_tema": "Respuesta Inmune Innata",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_143_001",
+      "pregunta": "¿Cuál es la principal característica de la respuesta inmune innata?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Genera memoria para responder más eficazmente a futuras infecciones.",
+        "B": "Es la segunda línea de defensa y se activa lentamente.",
+        "C": "No guarda información del organismo invasor y responde siempre de la misma manera.",
+        "D": "Está mediada principalmente por linfocitos B y T.",
+        "E": "Produce anticuerpos específicos para cada tipo de antígeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La respuesta inmune innata es la primera línea de defensa y se caracteriza por ser inespecífica y no generar memoria inmunológica. Esto significa que responde de la misma forma cada vez que se encuentra con el mismo patógeno, ya que no guarda información sobre exposiciones previas. La generación de memoria y la producción de anticuerpos específicos son características de la inmunidad adaptativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_002",
+      "pregunta": "¿Qué tipo de linfocito es un componente clave del sistema inmune innato con actividad citolítica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Linfocito B",
+        "B": "Linfocito T",
+        "C": "Célula plasmática",
+        "D": "Linfocito Natural Killer (NK)",
+        "E": "Macrófago"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los Linfocitos Natural Killer (NK) son parte del sistema inmune innato. Su función principal es reconocer y destruir células estresadas, infectadas por virus o tumorales mediante citotoxicidad, liberando gránulos con perforinas y granzimas. Los linfocitos B y T pertenecen al sistema inmune adaptativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_003",
+      "pregunta": "¿Cuál de las siguientes opciones es un ejemplo de una barrera química de la inmunidad innata?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La epidermis de la piel.",
+        "B": "Las mucosas que tapizan el tubo digestivo.",
+        "C": "La microbiota intestinal.",
+        "D": "La lisozima presente en las lágrimas y la saliva.",
+        "E": "El moco que inmoviliza microorganismos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las barreras químicas son secreciones que destruyen o impiden el desarrollo de microorganismos. La lisozima, una enzima con propiedades bactericidas encontrada en lágrimas y saliva, es un claro ejemplo. La piel y las mucosas son barreras físicas, mientras que la microbiota intestinal es una barrera biológica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_004",
+      "pregunta": "¿Qué es la inflamación en el contexto de la inmunidad innata?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La producción de anticuerpos por las células plasmáticas.",
+        "B": "La maduración de los linfocitos T en el timo.",
+        "C": "La acumulación y activación de leucocitos y proteínas en sitios de infección o lesión.",
+        "D": "La creación de memoria inmunológica contra un patógeno específico.",
+        "E": "La lisis celular mediada por el Complejo de Ataque a la Membrana."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inflamación es una de las reacciones clave de la inmunidad innata. Consiste en el reclutamiento de células inmunitarias (leucocitos) y proteínas plasmáticas al lugar de una infección o daño tisular, con el objetivo de eliminar el agente agresor y reparar el tejido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_005",
+      "pregunta": "El sistema del complemento está constituido principalmente por un conjunto de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Linfocitos y macrófagos.",
+        "B": "Anticuerpos y antígenos.",
+        "C": "Proteínas, de las cuales la mayoría son enzimas.",
+        "D": "Barreras físicas como la piel.",
+        "E": "Bacterias simbióticas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema del complemento es un conjunto de aproximadamente 30 proteínas plasmáticas, muchas de las cuales son enzimas (serin-proteasas) que se activan en cascada para promover la inflamación, la fagocitosis y la lisis de patógenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_006",
+      "pregunta": "¿Cómo contribuye la microbiota intestinal a la defensa del organismo según la inmunidad innata?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Secretando ácido láctico para eliminar patógenos.",
+        "B": "Produciendo perforinas y granzimas para inducir apoptosis.",
+        "C": "Impidiendo el desarrollo de hongos o bacterias ajenas al competir por espacio y nutrientes.",
+        "D": "Activando la vía clásica del sistema del complemento.",
+        "E": "Actuando como una barrera física impenetrable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La microbiota intestinal forma una barrera biológica. Este conjunto de bacterias simbióticas impide la colonización y el desarrollo de microorganismos patógenos (hongos o bacterias ajenas) al competir con ellos por recursos y espacio, manteniendo un ambiente saludable en el intestino.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_007",
+      "pregunta": "¿Qué evento desencadena la activación de la vía Clásica del sistema del complemento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La unión de lectinas a manosas en la superficie de una bacteria.",
+        "B": "La presencia de moléculas en paredes bacterianas que activan el Factor D.",
+        "C": "La formación de un complejo entre un antígeno y su correspondiente anticuerpo.",
+        "D": "El reconocimiento de una célula tumoral por una célula NK.",
+        "E": "La fragmentación espontánea de la proteína C3 en C3a y C3b."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La vía Clásica del complemento se inicia cuando la proteína C1 se une a un complejo formado por un antígeno y un anticuerpo. Esta es una forma en que la inmunidad adaptativa (a través de los anticuerpos) puede activar mecanismos efectores de la inmunidad innata (el complemento).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_008",
+      "pregunta": "En la cascada del complemento, ¿cuál es la función de la proteína C3b, uno de los fragmentos de C3?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es una anafilotoxina que activa mastocitos para liberar mediadores inflamatorios.",
+        "B": "Se une a C6, C7, C8 y C9 para formar el complejo de ataque a la membrana.",
+        "C": "Actúa como opsonina, marcando patógenos para la fagocitosis.",
+        "D": "Inicia la vía de la lectina uniéndose a carbohidratos.",
+        "E": "Perfora directamente la membrana del patógeno sin ayuda de otras proteínas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando la proteína C3 se fragmenta, produce C3a y C3b. La C3b actúa como una opsonina, lo que significa que se une a la superficie de los microorganismos y los marca para que sean reconocidos y eliminados más fácilmente por células fagocíticas. La C3a es la anafilotoxina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_009",
+      "pregunta": "¿Cuál es el punto de convergencia de las tres vías de activación del complemento (Clásica, Alternativa y de la Lectina)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La activación de la proteína C1.",
+        "B": "La formación del Complejo de Ataque a la Membrana.",
+        "C": "La activación de la convertasa C3.",
+        "D": "La unión de anticuerpos a los antígenos.",
+        "E": "La activación de los mastocitos por anafilotoxinas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque cada una de las tres vías se inicia por un estímulo diferente (complejo antígeno-anticuerpo, superficies microbianas, o lectinas unidas a manosa), todas ellas conducen a la formación y activación de una enzima clave: la convertasa C3. A partir de este punto, la cascada sigue un camino común.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_010",
+      "pregunta": "El mecanismo de Citotoxicidad Dependiente de Anticuerpos (ADCC) de las células NK se basa en:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El reconocimiento directo de células estresadas sin la necesidad de otras moléculas.",
+        "B": "La unión de sus receptores CD16 a anticuerpos que ya están unidos a una célula diana.",
+        "C": "La producción de sus propios anticuerpos para marcar células infectadas.",
+        "D": "La activación del sistema del complemento para lisar la célula diana.",
+        "E": "La fagocitosis de la célula infectada por la célula NK."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En el mecanismo de ADCC, las células NK utilizan sus receptores CD16 para detectar y unirse a la porción Fc de los anticuerpos que han recubierto una célula infectada o tumoral. Esta unión activa a la célula NK para que libere sus gránulos citotóxicos y destruya la célula diana.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_011",
+      "pregunta": "¿Cuál es la diferencia en el sitio de maduración entre los linfocitos B y los linfocitos T?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los linfocitos B maduran en el timo y los T en la médula ósea roja.",
+        "B": "Ambos se producen en la médula ósea, pero los linfocitos T migran al timo para madurar.",
+        "C": "Los linfocitos T maduran en los ganglios linfáticos y los B en el bazo.",
+        "D": "Ambos se producen y maduran completamente en la médula ósea roja.",
+        "E": "Los linfocitos B se originan en el timo y los T en el bazo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos tipos de linfocitos se originan en la médula ósea roja. Sin embargo, mientras que los linfocitos B completan su maduración allí, los linfocitos T viajan al timo, un órgano linfoide primario, para completar su proceso de maduración, donde aprenden a distinguir lo propio de lo ajeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_012",
+      "pregunta": "La función citotóxica de las células Natural Killer se basa en la liberación de gránulos que contienen perforinas y granzimas. ¿Cuál es el rol de estas moléculas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Marcan la célula diana para que el complemento la destruya.",
+        "B": "Perforan la membrana de la célula diana e inician su apoptosis.",
+        "C": "Se unen a los anticuerpos para activar el mecanismo de ADCC.",
+        "D": "Actúan como opsoninas para facilitar la fagocitosis.",
+        "E": "Atraen a más leucocitos al sitio de la infección."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las perforinas crean poros o canales en la membrana plasmática de la célula diana. A través de estos poros, las granzimas (proteasas) ingresan al citoplasma de la célula y activan una cascada de eventos que conducen a la muerte celular programada, conocida como apoptosis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_013",
+      "pregunta": "Una persona tiene una deficiencia genética que impide la formación del Complejo de Ataque a la Membrana (formado por C5b, C6, C7, C8 y C9). ¿Qué función del sistema del complemento se vería más directamente afectada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La opsonización de bacterias.",
+        "B": "La activación de mastocitos y la respuesta inflamatoria.",
+        "C": "La lisis directa de las células patógenas.",
+        "D": "La activación de la vía Clásica.",
+        "E": "La fragmentación de la proteína C3."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Complejo de Ataque a la Membrana (MAC) es el efector final de la cascada del complemento cuya función es formar un poro en la membrana de un patógeno, provocando su lisis (destrucción). Sin los componentes C5b-C9, esta función de lisis celular no podría llevarse a cabo, aunque las funciones previas como la opsonización (mediada por C3b) y la inflamación (mediada por C3a y C5a) podrían seguir ocurriendo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_014",
+      "pregunta": "¿Qué vía de activación del complemento establece un vínculo directo entre la inmunidad innata y la inmunidad adaptativa, al requerir un producto de esta última para su inicio?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La vía Alternativa.",
+        "B": "La vía de la Lectina.",
+        "C": "La vía Clásica.",
+        "D": "Las vías Alternativa y de la Lectina por igual.",
+        "E": "Ninguna, ya que el complemento es exclusivamente innato."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La vía Clásica se activa por la unión de la proteína C1 a un complejo antígeno-anticuerpo. La producción de anticuerpos es una función característica de la inmunidad adaptativa (realizada por los linfocitos B/células plasmáticas). Por lo tanto, la activación de esta vía depende de una respuesta adaptativa previa, sirviendo de puente entre ambos sistemas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_143_015",
+      "pregunta": "Un virus infecta una célula huésped. Posteriormente, anticuerpos específicos se unen a las proteínas virales expresadas en la superficie de esta célula. ¿Qué componente de la inmunidad innata sería particularmente eficaz para destruir esta célula mediante el mecanismo ADCC?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El sistema del complemento a través de la vía de la lectina.",
+        "B": "Los linfocitos B, que producirían más anticuerpos.",
+        "C": "Las barreras químicas como la lisozima.",
+        "D": "Los linfocitos Natural Killer (NK).",
+        "E": "La microbiota normal de la piel."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La situación describe una célula diana (infectada por virus) recubierta de anticuerpos. Este es el escenario preciso para la activación de la Citotoxicidad Celular Dependiente de Anticuerpos (ADCC). Los linfocitos Natural Killer (NK) reconocen estos anticuerpos a través de sus receptores CD16, se activan y destruyen la célula infectada. Este es un ejemplo de cooperación entre la inmunidad adaptativa (anticuerpos) y la innata (células NK).",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 40,
+  "total_temas": 137,
+  "titulo_tema": "Potencia y Eficiencia",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_040_001",
+      "pregunta": "¿Cómo se define la potencia en física?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad total de energía en un sistema.",
+        "B": "La fuerza aplicada sobre un objeto para moverlo.",
+        "C": "La rapidez con que se efectúa trabajo.",
+        "D": "La capacidad de un cuerpo para realizar movimiento.",
+        "E": "La variación de la energía mecánica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La potencia es una cantidad escalar que mide la rapidez con la cual se realiza un trabajo. No se refiere a la cantidad total de energía, sino a cuán rápido se transfiere o se utiliza esa energía para efectuar un trabajo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_002",
+      "pregunta": "En el Sistema Internacional de Unidades (S.I.), ¿cuál es la unidad de potencia y a qué equivale?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Joule (J)",
+        "B": "Newton (N)",
+        "C": "Kilowatt-hora (kWh)",
+        "D": "Watt (W), que equivale a Joule por segundo (J/s).",
+        "E": "Horse Power (HP), que equivale a 746 J."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad de potencia en el S.I. es el watt (W). Un watt se define como la potencia que genera un trabajo de un joule en un segundo, por lo que su equivalencia es $$1 \text{ W} = 1 \text{ J/s}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_003",
+      "pregunta": "¿Qué representa la eficiencia mecánica ($$\\eta$$) de una máquina?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La potencia total que consume la máquina.",
+        "B": "El trabajo total realizado por la máquina.",
+        "C": "El factor porcentual que expresa el grado de utilidad de la máquina.",
+        "D": "La cantidad de energía perdida en forma de calor.",
+        "E": "La rapidez con la que la máquina opera."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La eficiencia mecánica, denotada por $$\\eta$$, es un índice o factor porcentual que indica qué tan bien una máquina convierte la potencia de entrada en potencia útil. Es una medida de su grado de perfección o utilidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_004",
+      "pregunta": "¿Cuál es la fórmula para calcular la potencia media ($$P$$) si se conoce el trabajo ($$W$$) realizado y el tiempo ($$t$$) transcurrido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$P = W \\cdot t$$",
+        "B": "$$P = \\frac{W}{t}$$",
+        "C": "$$P = \\frac{t}{W}$$",
+        "D": "$$P = W + t$$",
+        "E": "$$P = W^t$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La potencia media se define como el trabajo total realizado dividido por el intervalo de tiempo en el que se realizó dicho trabajo. La fórmula correcta es $$P = \\frac{W}{t}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_005",
+      "pregunta": "¿A cuántos watts (W) equivale una unidad de Horse Power (HP)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "1000 W",
+        "B": "746 W",
+        "C": "3.6 W",
+        "D": "1 W",
+        "E": "100 W"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Horse Power (HP) o caballo de fuerza es una unidad de potencia fuera del Sistema Internacional. Su equivalencia aceptada es que 1 HP es igual a 746 watts (W).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_006",
+      "pregunta": "¿Por qué la eficiencia mecánica ($$\\eta$$) de una máquina real es siempre menor al 100%?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la potencia de entrada siempre es menor que la potencia útil.",
+        "B": "Porque la potencia útil siempre es menor que la potencia de entrada debido a pérdidas.",
+        "C": "Porque las máquinas no pueden realizar trabajo.",
+        "D": "Porque parte de la potencia se transforma en masa.",
+        "E": "Porque la potencia de entrada es igual a la potencia útil."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En cualquier máquina real, existen pérdidas de energía debido a factores como la fricción y el enfriamiento. Esto causa que la potencia útil ($$P_U$$) que entrega la máquina sea siempre menor que la potencia de entrada ($$P_E$$) que se le suministra. Como la eficiencia se calcula con $$\\eta = (P_U / P_E) \\cdot 100\\%$$, y $$P_U < P_E$$, el resultado siempre será menor al 100%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_007",
+      "pregunta": "La fórmula de la potencia instantánea es $$P = Fv \\cos \\theta$$. ¿Qué representa el término $$\\theta$$ en esta ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El ángulo de inclinación de la superficie.",
+        "B": "El ángulo formado entre la fuerza $$F$$ y la rapidez $$v$$.",
+        "C": "El ángulo de la eficiencia de la máquina.",
+        "D": "El ángulo de rotación del cuerpo.",
+        "E": "El ángulo de la aceleración con la horizontal."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la expresión para la potencia instantánea, $$P = Fv \\cos \\theta$$, el ángulo $$\\theta$$ representa el ángulo entre el vector de la fuerza aplicada ($$F$$) y el vector de la velocidad (cuya magnitud es la rapidez $$v$$) del cuerpo. Este factor considera solo la componente de la fuerza que actúa en la dirección del movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_008",
+      "pregunta": "¿Cuál es la relación matemática correcta entre la potencia de entrada ($$P_E$$), la potencia útil ($$P_U$$) y la potencia perdida ($$P_P$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P_U = P_E + P_P$$",
+        "B": "$$P_P = P_E + P_U$$",
+        "C": "$$P_E = P_U - P_P$$",
+        "D": "$$P_E = P_U + P_P$$",
+        "E": "$$P_E = P_P - P_U$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La potencia de entrada ($$P_E$$) es la potencia total que se suministra a una máquina. Esta potencia se divide en dos partes: la potencia útil ($$P_U$$), que es el trabajo efectivo que realiza la máquina, y la potencia perdida ($$P_P$$), que se disipa (generalmente como calor) debido a la fricción y otras ineficiencias. Por lo tanto, la potencia de entrada es la suma de la potencia útil y la potencia perdida: $$P_E = P_U + P_P$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_009",
+      "pregunta": "El Kilowatt-hora (kWh) es una unidad de medida. ¿A qué cantidad física corresponde y cuál es su valor en el S.I.?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Potencia, y equivale a 1000 W.",
+        "B": "Energía, y equivale a $$3.6 \\times 10^6$$ J.",
+        "C": "Fuerza, y equivale a 3600 N.",
+        "D": "Potencia, y equivale a $$3.6 \\times 10^6$$ W.",
+        "E": "Energía, y equivale a 746 J."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque contiene la palabra \"watt\", el kilowatt-hora (kWh) no es una unidad de potencia, sino de energía o trabajo. Representa la energía consumida por un dispositivo de 1 kilowatt de potencia funcionando durante una hora. Su equivalencia en Joules, la unidad de energía del S.I., es $$1 \\text{ kWh} = 3.6 \\times 10^6 \\text{ J}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_010",
+      "pregunta": "Si una fuerza $$F$$ actúa sobre un cuerpo de manera perpendicular a su velocidad $$v$$, ¿cuál es el valor de la potencia instantánea desarrollada por dicha fuerza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = Fv$$",
+        "B": "$$P = -Fv$$",
+        "C": "La potencia es máxima.",
+        "D": "La potencia es nula (cero).",
+        "E": "La potencia es igual a la fuerza."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La potencia instantánea se calcula como $$P = Fv \\cos \\theta$$. Si la fuerza es perpendicular a la velocidad, el ángulo $$\\theta$$ entre ellas es de 90°. El coseno de 90° es 0 ($$\\cos 90^\\circ = 0$$). Por lo tanto, la potencia instantánea será $$P = Fv \\cdot 0 = 0$$. Esto significa que una fuerza perpendicular al movimiento no realiza trabajo y no desarrolla potencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_011",
+      "pregunta": "La potencia se define como la rapidez con que se efectúa trabajo. ¿Qué tipo de cantidad física es la potencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Vectorial, porque depende de la fuerza.",
+        "B": "Escalar, aunque se relaciona con el trabajo y el tiempo.",
+        "C": "Vectorial, porque depende de la velocidad.",
+        "D": "Adimensional, porque es una razón.",
+        "E": "Fundamental, como la masa o el tiempo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "A pesar de que la potencia puede calcularse a partir de cantidades vectoriales como la fuerza y la velocidad, la potencia en sí misma es una cantidad escalar. Esto significa que se describe completamente con una magnitud y una unidad, sin necesidad de una dirección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_012",
+      "pregunta": "¿Qué ocurre con la energía mecánica de un sistema cuando sobre él actúan fuerzas no conservativas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía mecánica se mantiene constante.",
+        "B": "La energía mecánica aumenta indefinidamente.",
+        "C": "La energía mecánica no se conserva, es decir, varía.",
+        "D": "La energía mecánica se convierte completamente en potencia.",
+        "E": "La energía mecánica se anula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de conservación de la energía mecánica solo se aplica en ausencia de fuerzas no conservativas (como la fricción). Cuando estas fuerzas están presentes y realizan trabajo, la energía mecánica total del sistema no se conserva, lo que implica que su valor cambia con el tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_013",
+      "pregunta": "Considerando la fórmula de la potencia instantánea $$P = Fv \\cos \\theta$$, ¿bajo qué condición una fuerza constante $$F$$ aplicada a un cuerpo con rapidez $$v$$ desarrolla la máxima potencia posible?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Cuando la fuerza es perpendicular a la velocidad ($$\\theta = 90^\\circ$$).",
+        "B": "Cuando la fuerza se opone a la velocidad ($$\\theta = 180^\\circ$$).",
+        "C": "Cuando la fuerza es aplicada en la misma dirección y sentido que la velocidad ($$\\theta = 0^\\circ$$).",
+        "D": "Cuando el ángulo es de 45° ($$\\theta = 45^\\circ$$).",
+        "E": "La potencia es siempre constante e independiente del ángulo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La función coseno tiene un valor máximo de 1, que se alcanza cuando el ángulo es 0°. En la fórmula $$P = Fv \\cos \\theta$$, la potencia será máxima cuando $$\\cos \\theta = 1$$, lo que ocurre si $$\\theta = 0^\\circ$$. Físicamente, esto significa que la fuerza se aplica exactamente en la misma dirección y sentido que el movimiento del cuerpo, aprovechando toda la magnitud de la fuerza para generar potencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_014",
+      "pregunta": "Sabiendo que la eficiencia $$\\eta = \\frac{P_U}{P_E} \\times 100\\%$$ y que $$P_E = P_U + P_P$$, ¿cuál de las siguientes expresiones también es correcta para la eficiencia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\eta = \\left( \\frac{P_E}{P_U} \\right) \\times 100\\%$$",
+        "B": "$$\\eta = \\left( 1 + \\frac{P_P}{P_E} \\right) \\times 100\\%$$",
+        "C": "$$\\eta = \\left( \\frac{P_P}{P_E} \\right) \\times 100\\%$$",
+        "D": "$$\\eta = \\left( 1 - \\frac{P_P}{P_E} \\right) \\times 100\\%$$",
+        "E": "$$\\eta = \\left( \\frac{P_U}{P_P} \\right) \\times 100\\%$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Partimos de la relación $$P_E = P_U + P_P$$. Si despejamos la potencia útil ($$P_U$$), obtenemos $$P_U = P_E - P_P$$. Ahora, sustituimos esta expresión en la fórmula de la eficiencia: $$\\eta = \\frac{P_E - P_P}{P_E} \\times 100\\%$$. Al separar la fracción, obtenemos $$\\eta = \\left( \\frac{P_E}{P_E} - \\frac{P_P}{P_E} \\right) \\times 100\\%$$, que se simplifica a $$\\eta = \\left( 1 - \\frac{P_P}{P_E} \\right) \\times 100\\%$$. Esta fórmula expresa la eficiencia en términos de la potencia de entrada y la potencia perdida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_040_015",
+      "pregunta": "Si una máquina tiene una eficiencia del 80% y se le suministra una potencia de entrada de 500 W, ¿cuál es la potencia perdida por la máquina?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "500 W",
+        "B": "400 W",
+        "C": "100 W",
+        "D": "80 W",
+        "E": "625 W"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una eficiencia del 80% ($$\\eta=0.8$$) significa que el 80% de la potencia de entrada se convierte en potencia útil. La potencia útil es $$P_U = \\eta \\cdot P_E = 0.8 \\cdot 500 \\text{ W} = 400 \\text{ W}$$. El resto de la potencia de entrada se pierde. Usando la relación $$P_E = P_U + P_P$$, podemos calcular la potencia perdida ($$P_P$$) como $$P_P = P_E - P_U$$. Sustituyendo los valores, $$P_P = 500 \\text{ W} - 400 \\text{ W} = 100 \\text{ W}$$.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 41,
+  "total_temas": 137,
+  "titulo_tema": "Eficiencia Mecánica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_041_001",
+      "pregunta": "¿Qué expresa fundamentalmente la eficiencia mecánica, representada por el símbolo $$\\eta$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad máxima que puede alcanzar una máquina.",
+        "B": "La cantidad total de energía consumida por una máquina.",
+        "C": "El grado de utilidad o el índice de perfección de una máquina.",
+        "D": "La fuerza que una máquina es capaz de generar.",
+        "E": "El tiempo que una máquina puede operar continuamente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La eficiencia mecánica, $$\\eta$$, se define como el factor porcentual que indica el grado de utilidad o perfección de una máquina, es decir, qué tan bien aprovecha la potencia que se le suministra para realizar un trabajo útil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_002",
+      "pregunta": "¿Cuál es la fórmula correcta para calcular la eficiencia mecánica ($$\\eta$$) a partir de la potencia útil ($$P_U$$) y la potencia de entrada ($$P_E$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\eta = (P_E - P_U) \\times 100\\%$$",
+        "B": "$$\\eta = \\frac{P_E}{P_U} \\times 100\\%$$",
+        "C": "$$\\eta = (P_E + P_U) \\times 100\\%$$",
+        "D": "$$\\eta = \\frac{P_U}{P_E} \\times 100\\%$$",
+        "E": "$$\\eta = P_U \\times P_E \\times 100\\%%$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La eficiencia mecánica se define como la razón entre la potencia útil ($$P_U$$) que una máquina entrega y la potencia de entrada ($$P_E$$) que se le suministra, expresada como un porcentaje. La fórmula correcta es $$\\eta = \\frac{P_U}{P_E} \\times 100\\%%$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_003",
+      "pregunta": "¿Qué factores son responsables de que la potencia útil entregada por una máquina sea siempre menor que la potencia que se le suministra?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El voltaje de la fuente de energía.",
+        "B": "La masa y el volumen de la máquina.",
+        "C": "La aceleración y la velocidad angular.",
+        "D": "La fricción y el enfriamiento.",
+        "E": "El color y el material de la carcasa."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En cualquier máquina real, parte de la energía o potencia de entrada no se convierte en trabajo útil, sino que se disipa en otras formas. Las principales causas de esta pérdida son la fricción entre las piezas móviles y la disipación de calor (enfriamiento).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_004",
+      "pregunta": "La ecuación $$P_E = P_U + P_P$$ describe la conservación de la potencia en una máquina. ¿Qué representa cada término?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$P_E$$: Potencia perdida, $$P_U$$: Potencia útil, $$P_P$$: Potencia de entrada.",
+        "B": "$$P_E$$: Potencia de entrada, $$P_U$$: Potencia útil, $$P_P$$: Potencia perdida.",
+        "C": "$$P_E$$: Potencia útil, $$P_U$$: Potencia de entrada, $$P_P$$: Potencia perdida.",
+        "D": "$$P_E$$: Potencia de entrada, $$P_U$$: Potencia perdida, $$P_P$$: Potencia útil.",
+        "E": "$$P_E$$: Potencia promedio, $$P_U$$: Potencia útil, $$P_P$$: Potencia pico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación establece que la Potencia de Entrada ($$P_E$$) que se le suministra a una máquina se distribuye en dos partes: la Potencia Útil ($$P_U$$), que es el trabajo efectivo realizado, y la Potencia Perdida ($$P_P$$), que se disipa principalmente como calor debido a la fricción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_005",
+      "pregunta": "En el contexto de la potencia, la fórmula $$P = Fv \\cos \\theta$$ relaciona la potencia ($$P$$) con la fuerza ($$F$$) y otro factor. ¿Qué representa la variable $$v$$ en esta ecuación?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Volumen",
+        "B": "Viscosidad",
+        "C": "Voltaje",
+        "D": "Vector",
+        "E": "Rapidez"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En la fórmula de potencia mecánica $$P = Fv \\cos \\theta$$, la variable $$P$$ es la potencia, $$F$$ es la magnitud de la fuerza aplicada, y $$v$$ representa la magnitud de la velocidad, es decir, la rapidez del objeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_006",
+      "pregunta": "¿Por qué la eficiencia mecánica ($$\\eta$$) de cualquier máquina real es siempre menor al 100%?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la potencia de entrada es siempre menor que la potencia útil.",
+        "B": "Porque es imposible medir la potencia con total exactitud.",
+        "C": "Porque la potencia útil es siempre menor que la potencia de entrada debido a pérdidas.",
+        "D": "Porque las máquinas se desgastan con el tiempo y pierden potencia.",
+        "E": "Porque la potencia perdida es siempre cero en la práctica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La eficiencia es la razón $$\\eta = (P_U / P_E) \\times 100\\%%$$. En una máquina real, siempre existen pérdidas de energía por fricción, calor, etc., lo que significa que la potencia útil ($$P_U$$) es inevitablemente menor que la potencia de entrada ($$P_E$$). Como el numerador es menor que el denominador, el cociente siempre será menor que 1, y por lo tanto, la eficiencia será menor al 100%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_007",
+      "pregunta": "Si una máquina tuviera una eficiencia hipotética del 100%, ¿cuál sería la relación entre la potencia útil ($$P_U$$) y la potencia de entrada ($$P_E$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P_U < P_E$$",
+        "B": "$$P_U > P_E$$",
+        "C": "$$P_U = P_E$$",
+        "D": "$$P_U = 0$$",
+        "E": "$$P_E = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una eficiencia del 100% (o $$\\eta = 1$$) implicaría una máquina ideal sin pérdidas de energía. En este caso, toda la potencia de entrada se convertiría en potencia útil, resultando en la igualdad $$P_U = P_E$$. Esto se deduce de la fórmula $$\\eta = P_U / P_E$$, donde si $$\\eta = 1$$, entonces $$P_U = P_E$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_008",
+      "pregunta": "A partir de la relación $$P_E = P_U + P_P$$, ¿cómo se puede expresar correctamente la potencia perdida ($$P_P$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P_P = P_E + P_U$$",
+        "B": "$$P_P = P_U - P_E$$",
+        "C": "$$P_P = P_E \\times P_U$$",
+        "D": "$$P_P = \\frac{P_E}{P_U}$$",
+        "E": "$$P_P = P_E - P_U$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La potencia perdida es la diferencia entre la potencia total que se suministra a la máquina y la potencia que esta logra convertir en trabajo útil. Reorganizando algebraicamente la ecuación $$P_E = P_U + P_P$$ para despejar $$P_P$$, se resta $$P_U$$ de ambos lados, obteniendo $$P_P = P_E - P_U$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_009",
+      "pregunta": "¿Qué indica un valor de eficiencia mecánica ($$\\eta$$) más alto en una máquina en comparación con otra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la máquina es físicamente más grande.",
+        "B": "Que la máquina genera más calor por fricción.",
+        "C": "Que la máquina convierte una mayor proporción de la potencia de entrada en potencia útil.",
+        "D": "Que la máquina opera a una mayor velocidad.",
+        "E": "Que la máquina requiere más potencia de entrada para funcionar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La eficiencia es el \"índice o grado de perfección\". Un valor más alto de $$\\eta$$ significa que la fracción $$P_U/P_E$$ es mayor, lo que indica que se desperdicia menos potencia y una mayor parte de la potencia de entrada se aprovecha para realizar trabajo útil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_010",
+      "pregunta": "La expresión $$P_U < P_E$$ es una consecuencia directa de la existencia de fenómenos como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ley de la gravitación universal.",
+        "B": "La fricción y otras formas de disipación de energía.",
+        "C": "La conservación del momento lineal.",
+        "D": "La inercia de los componentes de la máquina.",
+        "E": "La conversión de masa en energía."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La desigualdad $$P_U < P_E$$ significa que no toda la potencia suministrada se convierte en trabajo útil. Esta diferencia se debe a que una parte de la potencia se pierde, principalmente por la fricción entre las partes móviles y la disipación de calor al ambiente, que son fenómenos de disipación de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_011",
+      "pregunta": "Si la potencia perdida ($$P_P$$) en una máquina aumenta mientras la potencia de entrada ($$P_E$$) se mantiene constante, ¿qué le sucede a la eficiencia ($$\\eta$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta proporcionalmente.",
+        "B": "Se mantiene constante.",
+        "C": "Disminuye.",
+        "D": "Se vuelve mayor que 100%.",
+        "E": "Se vuelve indeterminada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Sabemos que $$P_U = P_E - P_P$$. Si $$P_E$$ es constante y $$P_P$$ aumenta, entonces la potencia útil ($$P_U$$) debe disminuir. Como la eficiencia es $$\\eta = (P_U / P_E) \\times 100\\%%$$, al disminuir el numerador ($$P_U$$) y mantener el denominador ($$P_E$$) constante, el valor de la eficiencia $$\\eta$$ necesariamente disminuye.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_012",
+      "pregunta": "¿Cuál es la relación conceptual correcta entre la \"potencia de entrada\" y la \"potencia que entrega una máquina\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La potencia de entrada es el resultado de la potencia entregada menos las pérdidas.",
+        "B": "Son dos términos para el mismo concepto en máquinas ideales.",
+        "C": "La potencia que entrega una máquina es la potencia útil, y siempre es menor que la de entrada.",
+        "D": "La potencia de entrada es igual a la potencia perdida.",
+        "E": "La potencia que entrega una máquina es la suma de la entrada y las pérdidas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La \"potencia que entrega una máquina\" corresponde a la potencia útil ($$P_U$$). Debido a las pérdidas inevitables por fricción y calor, esta potencia útil siempre es una fracción de la potencia total que se suministra a la máquina, es decir, la potencia de entrada ($$P_E$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_013",
+      "pregunta": "Dada la eficiencia de una máquina ($$\\eta$$) y la potencia de entrada ($$P_E$$), ¿cuál es la expresión matemática correcta para calcular la potencia útil ($$P_U$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$P_U = \\frac{P_E}{\\eta}$$",
+        "B": "$$P_U = P_E - \\eta$$",
+        "C": "$$P_U = \\eta \\cdot P_E$$",
+        "D": "$$P_U = P_E + \\eta$$",
+        "E": "$$P_U = \\frac{\\eta}{P_E}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula de la eficiencia es $$\\eta = \\frac{P_U}{P_E}$$. Para despejar la potencia útil ($$P_U$$), se multiplica ambos lados de la ecuación por $$P_E$$. Esto da como resultado $$P_U = \\eta \\cdot P_E$$. Es importante recordar que para esta operación, el valor de $$\\eta$$ debe usarse en su forma decimal (por ejemplo, 85% se usa como 0.85).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_014",
+      "pregunta": "Se comparan dos máquinas, A y B. La máquina A tiene una eficiencia $$\\eta_A$$ y la máquina B tiene una eficiencia $$\\eta_B$$, donde $$\\eta_A > \\eta_B$$. Si ambas máquinas reciben la misma potencia de entrada ($$P_E$$), ¿qué conclusión es correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La máquina B pierde menos potencia que la máquina A.",
+        "B": "La máquina A entrega más potencia útil que la máquina B.",
+        "C": "Ambas máquinas entregan la misma potencia útil.",
+        "D": "La máquina B es más perfecta que la máquina A.",
+        "E": "La máquina A necesita más potencia de entrada para realizar el mismo trabajo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La potencia útil se calcula como $$P_U = \\eta \\cdot P_E$$. Dado que la potencia de entrada ($$P_E$$) es la misma para ambas máquinas, y la eficiencia de A ($$\\eta_A$$) es mayor que la de B ($$\\eta_B$$), el producto $$\\eta_A \\cdot P_E$$ será mayor que $$\\eta_B \\cdot P_E$$. Por lo tanto, la máquina A, al ser más eficiente, convertirá una mayor parte de la potencia de entrada en potencia útil.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_041_015",
+      "pregunta": "¿Cómo se puede expresar la eficiencia ($$\\eta$$) en términos de la potencia de entrada ($$P_E$$) y la potencia perdida ($$P_P$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\eta = \\frac{P_P}{P_E}$$",
+        "B": "$$\\eta = 1 - \\frac{P_P}{P_E}$$",
+        "C": "$$\\eta = 1 + \\frac{P_P}{P_E}$$",
+        "D": "$$\\eta = \\frac{P_E}{P_P}$$",
+        "E": "$$\\eta = P_E - P_P$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Partimos de las dos ecuaciones base: $$\\eta = \\frac{P_U}{P_E}$$ y $$P_E = P_U + P_P$$. De la segunda ecuación, despejamos $$P_U$$, obteniendo $$P_U = P_E - P_P$$. Ahora, sustituimos esta expresión de $$P_U$$ en la fórmula de la eficiencia: $$\\eta = \\frac{P_E - P_P}{P_E}$$. Al separar la fracción, obtenemos $$\\eta = \\frac{P_E}{P_E} - \\frac{P_P}{P_E}$$, lo que se simplifica a $$\\eta = 1 - \\frac{P_P}{P_E}$$. (Para el cálculo en porcentaje, el resultado se multiplica por 100%).",
+      "imagen": null
+    }
+  ]
+}

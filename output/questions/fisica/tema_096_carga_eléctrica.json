@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 96,
+  "total_temas": 137,
+  "titulo_tema": "Carga Eléctrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_096_001",
+      "pregunta": "¿Qué rama de la física estudia la interacción y las propiedades de los sistemas de cargas eléctricas en reposo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Electrodinámica",
+        "B": "Magnetismo",
+        "C": "Electrostática",
+        "D": "Termodinámica",
+        "E": "Óptica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La electrostática es la teoría de la electricidad que se enfoca específicamente en el estudio de las cargas eléctricas que no están en movimiento, es decir, se encuentran en reposo. Analiza sus propiedades y las fuerzas que ejercen entre sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_002",
+      "pregunta": "¿Qué tipo de carga eléctrica poseen los protones y los electrones, respectivamente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positiva y negativa",
+        "B": "Negativa y positiva",
+        "C": "Neutra y negativa",
+        "D": "Positiva y neutra",
+        "E": "Neutra y neutra"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Los átomos están formados por partículas subatómicas. Los protones tienen una carga eléctrica positiva, los electrones tienen una carga eléctrica negativa de igual magnitud que la del protón, y los neutrones, como su nombre indica, son eléctricamente neutros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_003",
+      "pregunta": "¿Cuándo se considera que un cuerpo es eléctricamente neutro?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando tiene un exceso de electrones.",
+        "B": "Cuando tiene un exceso de protones.",
+        "C": "Cuando carece de protones.",
+        "D": "Cuando el número de protones y electrones es el mismo.",
+        "E": "Cuando solo contiene neutrones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un cuerpo es eléctricamente neutro cuando las cargas positivas y negativas en su interior se equilibran. Esto ocurre cuando el número total de protones (cargas positivas) es exactamente igual al número total de electrones (cargas negativas).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_004",
+      "pregunta": "¿Cuál es la unidad de la cantidad de carga eléctrica ($$Q$$) en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ampere (A)",
+        "B": "Volt (V)",
+        "C": "Ohm (Ω)",
+        "D": "Newton (N)",
+        "E": "Coulomb (C)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En el Sistema Internacional de Unidades, la unidad designada para medir la cantidad de carga eléctrica, representada por $$Q$$ o $$q$$, es el coulomb, cuyo símbolo es C.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_005",
+      "pregunta": "Un cuerpo que presenta un exceso de electrones se dice que está cargado:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positivamente",
+        "B": "Negativamente",
+        "C": "Neutramente",
+        "D": "Magnéticamente",
+        "E": "Isoladamente"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los electrones tienen carga negativa. Si un cuerpo tiene más electrones que protones (exceso de electrones), la cantidad total de carga negativa supera a la positiva, resultando en una carga neta negativa para el cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_006",
+      "pregunta": "¿Cómo se determina la carga eléctrica neta de un cuerpo macroscópico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sumando el número de protones y neutrones.",
+        "B": "Contando únicamente el número de electrones.",
+        "C": "Por la diferencia entre el número de protones y electrones.",
+        "D": "Multiplicando la masa del cuerpo por la carga del electrón.",
+        "E": "Contando únicamente el número de protones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La carga eléctrica neta de un cuerpo es el resultado del balance total de sus cargas. Se calcula como la diferencia entre el número total de protones (cargas positivas) y el número total de electrones (cargas negativas) que lo componen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_007",
+      "pregunta": "¿Qué establece el principio de que la carga eléctrica está cuantizada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la carga puede tomar cualquier valor numérico posible.",
+        "B": "Que la carga de un cuerpo es siempre igual a la de un protón.",
+        "C": "Que la carga total en el universo es cero.",
+        "D": "Que la carga eléctrica solo puede existir en múltiplos enteros de una unidad fundamental.",
+        "E": "Que la carga se mide en unidades de masa."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La cuantización de la carga eléctrica significa que la carga no es una cantidad continua. Existe una carga mínima e indivisible, llamada 'quantum' de carga, que es la carga del electrón (o protón). Cualquier carga observable en un objeto es siempre un múltiplo entero ($$n$$) de esta carga fundamental.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_008",
+      "pregunta": "En la fórmula de cuantificación de la carga, $$Q = \\pm n|e^-|$$, ¿qué representa el término $$|e^-|$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de electrones transferidos.",
+        "B": "La carga total del cuerpo.",
+        "C": "La magnitud de la carga eléctrica del electrón.",
+        "D": "Una constante de proporcionalidad.",
+        "E": "La carga de un neutrón."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la ecuación $$Q = \\pm n|e^-|$$, el término $$|e^-|$$ representa el valor absoluto o magnitud de la carga elemental, que es la carga de un solo electrón. Su valor es aproximadamente $$1.6 \times 10^{-19}$$ C. $$Q$$ es la carga total y $$n$$ es el número de electrones ganados o perdidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_009",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor el principio de conservación de la carga eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga eléctrica puede crearse a partir de la energía.",
+        "B": "En un sistema cerrado, las cargas positivas y negativas se anulan mutuamente con el tiempo.",
+        "C": "La carga eléctrica no se crea ni se destruye, solo se transfiere de un cuerpo a otro.",
+        "D": "Un cuerpo cargado siempre tenderá a un estado neutro.",
+        "E": "La cantidad total de protones en un sistema siempre es constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de conservación de la carga establece que en cualquier sistema cerrado o aislado, la carga eléctrica total no cambia. No se puede crear carga de la nada ni destruirla; solo puede moverse de un objeto a otro. Por ejemplo, al frotar dos cuerpos, uno pierde la misma cantidad de carga que el otro gana.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_010",
+      "pregunta": "Si al frotar una barra de vidrio con un paño de seda, la barra adquiere una carga de $$+Q$$, ¿qué carga adquiere el paño de seda según el principio de conservación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una carga de $$+Q$$",
+        "B": "Permanece neutro",
+        "C": "Una carga de $$-Q$$",
+        "D": "Una carga de $$+2Q$$",
+        "E": "Una carga de $$-2Q$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema (barra + seda) es inicialmente neutro. Según el principio de conservación, la carga total debe seguir siendo la misma después de frotarlos. Si la barra se carga positivamente ($$+Q$$) es porque ha perdido electrones. Esos electrones son transferidos a la seda, que adquiere una carga negativa de igual magnitud ($$-Q$$). Así, la carga total del sistema sigue siendo $$+Q + (-Q) = 0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_011",
+      "pregunta": "¿Qué es el \"quantum\" de electricidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga eléctrica total de un átomo de hidrógeno.",
+        "B": "La carga eléctrica equivalente a un coulomb.",
+        "C": "La mínima carga eléctrica indivisible que existe en la naturaleza.",
+        "D": "La carga eléctrica de un neutrón.",
+        "E": "Un valor de carga que puede dividirse infinitamente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término 'quantum' de electricidad se refiere a la carga fundamental o elemental, que es la carga más pequeña que se ha observado en la naturaleza. Esta carga es la que posee un electrón (negativa) o un protón (positiva) y no puede ser fraccionada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_012",
+      "pregunta": "Un cuerpo que presenta un \"defecto de electrones\" tendrá una cantidad de carga eléctrica:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Negativa",
+        "B": "Positiva",
+        "C": "Neutra",
+        "D": "Variable",
+        "E": "Nula"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un \"defecto de electrones\" significa que el cuerpo ha perdido electrones. Al perder cargas negativas (electrones), el número de protones (cargas positivas) se vuelve mayor que el número de electrones restantes. Este desequilibrio resulta en una carga neta positiva en el cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_013",
+      "pregunta": "¿Por qué un objeto no puede tener una carga neta de $$-2.0 \times 10^{-19}$$ C?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la carga eléctrica siempre debe ser un número entero.",
+        "B": "Porque esta cantidad no es un múltiplo entero de la carga elemental del electrón.",
+        "C": "Porque la carga eléctrica no puede ser negativa.",
+        "D": "Porque es un valor de carga demasiado grande para un objeto.",
+        "E": "Porque esta cantidad solo es posible en los protones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La carga eléctrica está cuantizada, lo que significa que cualquier carga neta $$Q$$ debe ser un múltiplo entero ($$n$$) de la carga elemental $$|e^-| \\approx 1.6 \times 10^{-19}$$ C. Para obtener la carga de $$-2.0 \times 10^{-19}$$ C, necesitaríamos un número de electrones $$n = \frac{Q}{e^-} = \frac{-2.0 \times 10^{-19}}{-1.6 \times 10^{-19}} = 1.25$$. Como no es posible transferir 1.25 electrones (debe ser un número entero), esta cantidad de carga es imposible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_014",
+      "pregunta": "En un sistema cerrado y eléctricamente aislado, la suma algebraica de todas las cargas es inicialmente de $$+5$$ C. Si ocurren interacciones y transferencias de carga entre los cuerpos dentro del sistema, ¿cuál será la suma algebraica de todas las cargas al final del proceso?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "0 C",
+        "B": "Menor que +5 C",
+        "C": "Mayor que +5 C",
+        "D": "$$+5$$ C",
+        "E": "Dependerá de cómo se transfirió la carga."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este es un ejemplo directo del principio de conservación de la carga eléctrica. Este principio establece que \"La suma algebraica de todas las cargas eléctricas en cualquier sistema cerrado es constante\". Como el sistema está cerrado y aislado, la carga total no puede cambiar, sin importar las interacciones internas. Por lo tanto, la carga total final seguirá siendo $$+5$$ C.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_096_015",
+      "pregunta": "Si se sabe que un cuerpo macroscópico tiene una carga eléctrica neta positiva ($$+Q$$), ¿qué se puede concluir con certeza sobre la composición de sus átomos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El cuerpo ha ganado protones adicionales.",
+        "B": "El número total de protones en el cuerpo es mayor que el número total de electrones.",
+        "C": "Los neutrones del cuerpo se han desintegrado.",
+        "D": "El número total de electrones es mayor que el número total de protones.",
+        "E": "El cuerpo ha perdido todos sus electrones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una carga neta positiva indica un desequilibrio entre las cargas fundamentales. En los procesos de carga habituales, los protones están fijos en el núcleo y no se transfieren. La carga se produce por la transferencia de electrones. Una carga positiva ($$+Q$$) significa que el cuerpo ha perdido electrones, resultando en un \"defecto de electrones\". Por lo tanto, el número de protones (cargas positivas) se mantiene, mientras que el número de electrones (cargas negativas) disminuye, haciendo que el total de protones sea mayor que el de electrones.",
+      "imagen": null
+    }
+  ]
+}

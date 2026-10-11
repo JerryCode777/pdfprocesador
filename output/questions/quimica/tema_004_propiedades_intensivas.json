@@ -3,5 +3,231 @@
   "numero_tema": 4,
   "total_temas": 322,
   "titulo_tema": "Propiedades Intensivas",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_004_001",
+      "pregunta": "¿Qué característica fundamental define a las propiedades intensivas de la materia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Dependen de la cantidad de masa del cuerpo",
+        "B": "Solo se aplican a sustancias en estado sólido",
+        "C": "Son independientes de la cantidad de masa",
+        "D": "Cambian según la forma del objeto",
+        "E": "Miden la resistencia de un cuerpo al movimiento"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las propiedades intensivas son aquellas que no dependen de la cantidad de materia (masa). Por ejemplo, la densidad del agua es la misma para una gota que para un litro. En cambio, propiedades como la masa o el volumen, que sí dependen de la cantidad, se conocen como extensivas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_002",
+      "pregunta": "¿Cómo se denomina la temperatura específica a la cual una sustancia pasa del estado sólido al estado líquido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Punto de ebullición",
+        "B": "Punto de fusión",
+        "C": "Punto de solubilidad",
+        "D": "Temperatura de dureza",
+        "E": "Temperatura de tenacidad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El punto de fusión es la temperatura constante a la que un material cambia de estado sólido a líquido. El punto de ebullición, por otro lado, es la temperatura a la que pasa de líquido a gaseoso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_003",
+      "pregunta": "¿Cuál de las siguientes propiedades se define como la resistencia que opone una sustancia a ser rayada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tenacidad",
+        "B": "Ductilidad",
+        "C": "Dureza",
+        "D": "Maleabilidad",
+        "E": "Solubilidad"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La dureza es la propiedad que mide la resistencia de una superficie a ser rayada por otra. Se mide comúnmente con la escala de Mohs. No debe confundirse con la tenacidad, que es la resistencia a romperse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_004",
+      "pregunta": "¿Qué propiedad intensiva se describe como la relación que existe entre la masa de una sustancia y su volumen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inercia",
+        "B": "Punto de ebullición",
+        "C": "Solubilidad",
+        "D": "Densidad",
+        "E": "Tenacidad"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La densidad es una propiedad intensiva que relaciona la cantidad de masa ($$m$$) contenida en un determinado volumen ($$V$$). Es una característica única para cada sustancia pura en condiciones específicas de temperatura y presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_005",
+      "pregunta": "¿Cuál es la característica principal de una sustancia pura?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Siempre se encuentra en la naturaleza",
+        "B": "Está formada por la unión de dos mezclas",
+        "C": "Tiene una composición definida y constante",
+        "D": "Sus propiedades varían dependiendo de la muestra",
+        "E": "No puede cambiar de estado físico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una sustancia pura, ya sea un elemento o un compuesto, se caracteriza por tener una composición química fija y constante, lo que le confiere propiedades distintivas y uniformes en cualquier muestra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_006",
+      "pregunta": "La capacidad de ciertos materiales, como el cobre, para ser estirados y convertidos en alambres o hilos se conoce como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Maleabilidad",
+        "B": "Tenacidad",
+        "C": "Dureza",
+        "D": "Ductilidad",
+        "E": "Solubilidad"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ductilidad es la propiedad de los materiales que permite deformarlos y estirarlos para formar alambres o hilos sin romperse. La maleabilidad es una propiedad similar, pero se refiere a la capacidad de formar láminas delgadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_007",
+      "pregunta": "El acero es conocido por su alta resistencia a romperse o deformarse cuando se le golpea. ¿A qué propiedad intensiva se refiere esta descripción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Dureza",
+        "B": "Maleabilidad",
+        "C": "Tenacidad",
+        "D": "Densidad",
+        "E": "Punto de fusión"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La tenacidad es la resistencia que ofrece un material a la rotura o deformación bajo el impacto de un golpe. El acero es un ejemplo clásico de un material con alta tenacidad. La dureza, en cambio, es la resistencia a ser rayado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_008",
+      "pregunta": "La escala de Mohs es una herramienta utilizada para medir cuantitativamente una propiedad específica de los materiales. ¿Cuál es esa propiedad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La tenacidad",
+        "B": "La ductilidad",
+        "C": "La dureza",
+        "D": "La densidad",
+        "E": "El punto de ebullición"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La escala de Mohs se utiliza para determinar la dureza relativa de los minerales y otros materiales. Clasifica la dureza en una escala de 1 (talco) a 10 (diamante) basándose en la capacidad de un material para rayar a otro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_009",
+      "pregunta": "Si se tienen dos lingotes de oro puro, uno de 10 gramos y otro de 1 kilogramo, ¿cuál de las siguientes propiedades será idéntica en ambos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa",
+        "B": "El volumen",
+        "C": "La inercia",
+        "D": "El punto de fusión",
+        "E": "El peso"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El punto de fusión es una propiedad intensiva, lo que significa que no depende de la cantidad de masa. Ambos lingotes de oro, al ser de la misma sustancia pura, se fundirán a la misma temperatura. La masa, el volumen, la inercia y el peso son propiedades extensivas y serán diferentes para cada lingote.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_010",
+      "pregunta": "La propiedad que permite que la sal de mesa se disuelva en agua a temperatura ambiente se denomina:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Densidad",
+        "B": "Punto de fusión",
+        "C": "Maleabilidad",
+        "D": "Solubilidad",
+        "E": "Dureza"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La solubilidad es la propiedad que tienen algunas sustancias (solutos) de disolverse en un líquido (solvente) a una temperatura determinada para formar una mezcla homogénea. En este caso, la sal es el soluto y el agua es el solvente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_011",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la maleabilidad y la ductilidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La maleabilidad es la resistencia a romperse y la ductilidad a rayarse.",
+        "B": "La maleabilidad es la capacidad de formar láminas y la ductilidad la de formar hilos.",
+        "C": "La maleabilidad es para líquidos y la ductilidad para sólidos.",
+        "D": "La maleabilidad mide la disolución y la ductilidad la temperatura de fusión.",
+        "E": "No hay diferencia, son términos intercambiables."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque ambas son propiedades relacionadas con la deformación plástica de los materiales, la maleabilidad se refiere específicamente a la capacidad de ser convertidos en láminas delgadas, mientras que la ductilidad se refiere a la capacidad de ser estirados para formar alambres o hilos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_012",
+      "pregunta": "¿Cuál es la función principal de las propiedades intensivas en la química?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Medir la cantidad de materia de una muestra.",
+        "B": "Determinar la resistencia al movimiento de un cuerpo.",
+        "C": "Permitir la diferenciación e identificación de las sustancias.",
+        "D": "Clasificar la materia únicamente en elementos y compuestos.",
+        "E": "Indicar si una mezcla es homogénea o heterogénea."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las propiedades intensivas son como la 'huella dactilar' de una sustancia. Debido a que son constantes para una sustancia pura dada (bajo ciertas condiciones), permiten diferenciarla de otras y confirmar su identidad. Por ejemplo, el punto de ebullición del agua es 100 °C, lo que la distingue del etanol, que hierve a 78.37 °C.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_013",
+      "pregunta": "Un artesano necesita fabricar una lámina muy delgada de aluminio para un adorno. ¿Qué propiedad intensiva de este metal le permite realizar esta tarea?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ductilidad",
+        "B": "Tenacidad",
+        "C": "Maleabilidad",
+        "D": "Dureza",
+        "E": "Solubilidad"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La maleabilidad es la capacidad de un material para ser deformado en láminas delgadas sin romperse. Al martillar o prensar el aluminio, el artesano está aprovechando su alta maleabilidad para crear la lámina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_014",
+      "pregunta": "Un científico mide el punto de ebullición de 100 mL de un líquido puro y obtiene 120 °C. Si a continuación mide el punto de ebullición de 500 mL del mismo líquido en las mismas condiciones de presión, ¿qué resultado debería esperar?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una temperatura mayor a 120 °C, porque hay más masa.",
+        "B": "Una temperatura menor a 120 °C, porque tarda más en calentarse.",
+        "C": "Exactamente 120 °C, ya que es una propiedad intensiva.",
+        "D": "No se puede predecir sin conocer la densidad.",
+        "E": "Una temperatura 5 veces mayor, proporcional al volumen."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El punto de ebullición es una propiedad intensiva, lo que significa que no depende de la cantidad de sustancia. Independientemente de si se tienen 100 mL o 500 mL, el líquido puro hervirá a la misma temperatura de 120 °C, siempre que la presión atmosférica sea constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_004_015",
+      "pregunta": "Sabiendo que una sustancia pura posee una composición constante y propiedades distintivas, ¿cuál de las siguientes afirmaciones es una consecuencia directa de esta definición?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El volumen de una sustancia pura nunca cambia.",
+        "B": "La tenacidad de una sustancia pura varía con su masa.",
+        "C": "Dos muestras de la misma sustancia pura compartirán las mismas propiedades intensivas.",
+        "D": "Todas las sustancias puras son altamente solubles.",
+        "E": "Una sustancia pura no puede ser ni dúctil ni maleable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de sustancia pura implica que sus características fundamentales son constantes. Las 'propiedades distintivas' son precisamente las propiedades intensivas (densidad, punto de fusión, etc.). Por lo tanto, cualquier muestra de una sustancia pura, sin importar su tamaño, tendrá los mismos valores para sus propiedades intensivas.",
+      "imagen": null
+    }
+  ]
 }

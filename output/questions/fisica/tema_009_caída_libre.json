@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 9,
+  "total_temas": 137,
+  "titulo_tema": "Caída Libre",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_009_001",
+      "pregunta": "¿Cuál es la definición de movimiento vertical de caída libre (M.V.C.L.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El movimiento de un objeto con velocidad constante hacia abajo.",
+        "B": "El movimiento de un objeto bajo la influencia exclusiva de la gravedad.",
+        "C": "Cualquier movimiento que sigue una trayectoria vertical.",
+        "D": "El movimiento de un objeto considerando la resistencia del aire.",
+        "E": "El movimiento de un objeto con aceleración nula."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El movimiento vertical de caída libre se define como el movimiento de un cuerpo que se encuentra únicamente bajo la influencia de la atracción gravitatoria, despreciando cualquier otra fuerza externa como la resistencia del aire. Esto resulta en una aceleración constante, no nula ni una velocidad constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_002",
+      "pregunta": "Cuando un cuerpo lanzado verticalmente hacia arriba alcanza su altura máxima, ¿cuál es el valor de su rapidez instantánea?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$9.8 \\, \text{m/s}$$",
+        "B": "Depende de la masa del cuerpo.",
+        "C": "$$0$$",
+        "D": "Igual a la rapidez de lanzamiento.",
+        "E": "$$-9.8 \\, \text{m/s}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el punto más alto de su trayectoria, un objeto lanzado verticalmente hacia arriba se detiene momentáneamente antes de comenzar a caer. Por lo tanto, su rapidez instantánea en ese preciso momento es cero ($$v_f = 0$$). Sin embargo, su aceleración sigue siendo la de la gravedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_003",
+      "pregunta": "Para fines prácticos y de cálculo, ¿a qué valor se suele redondear el módulo de la aceleración de la gravedad ($g$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$9.83 \\, \text{m/s}^2$$",
+        "B": "$$9.78 \\, \text{m/s}^2$$",
+        "C": "$$100 \\, \text{m/s}^2$$",
+        "D": "$$9.8 \\, \text{m/s}^2$$",
+        "E": "$$10 \\, \text{m/s}^2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Aunque el valor estándar de la aceleración de la gravedad es aproximadamente $$9.8 \\, \text{m/s}^2$$, para simplificar los cálculos en muchos problemas educativos y prácticos, su módulo se redondea comúnmente a $$10 \\, \text{m/s}^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_004",
+      "pregunta": "¿Qué tipo de trayectoria describe un móvil en caída libre?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una parábola.",
+        "B": "Una línea recta vertical.",
+        "C": "Un círculo.",
+        "D": "Una elipse.",
+        "E": "Una línea recta horizontal."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una de las características fundamentales del movimiento vertical de caída libre es que la trayectoria del objeto es una línea recta en dirección vertical, ya sea hacia arriba o hacia abajo, debido a que la única fuerza que actúa (la gravedad) tiene esa dirección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_005",
+      "pregunta": "¿Qué le origina la atracción terrestre a un objeto en caída libre?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una velocidad constante.",
+        "B": "Una aceleración variable.",
+        "C": "Una aceleración constante llamada $g$.",
+        "D": "La anulación de su peso.",
+        "E": "Una trayectoria curva."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de atracción de la Tierra (gravedad) provoca que todos los objetos en caída libre experimenten una aceleración constante. Esta aceleración se denomina aceleración de la gravedad y se representa con el símbolo $g$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_006",
+      "pregunta": "En un lanzamiento vertical hacia arriba, ¿cómo se compara el tiempo de subida con el tiempo de bajada si se miden entre los mismos niveles de altura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El tiempo de subida es mayor que el de bajada.",
+        "B": "El tiempo de bajada es mayor que el de subida.",
+        "C": "El tiempo de subida es igual al tiempo de bajada.",
+        "D": "La relación depende de la masa del objeto.",
+        "E": "El tiempo de subida es la mitad del tiempo de bajada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Debido a la simetría del movimiento de caída libre, el tiempo que un objeto tarda en subir hasta su altura máxima es exactamente igual al tiempo que tarda en caer desde esa altura máxima hasta el punto de partida. Por lo tanto, entre dos niveles cualesquiera, el tiempo de subida y el de bajada son iguales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_007",
+      "pregunta": "¿Cuál es la aceleración de un objeto en el punto más alto de su trayectoria cuando es lanzado verticalmente hacia arriba?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cero, porque su velocidad es cero.",
+        "B": "Igual a la gravedad ($g$), dirigida hacia abajo.",
+        "C": "Igual a la gravedad ($g$), dirigida hacia arriba.",
+        "D": "La mitad de la gravedad ($$g/2$$).",
+        "E": "Depende de la velocidad inicial de lanzamiento."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque la velocidad del objeto es momentáneamente cero en su altura máxima, la fuerza de la gravedad sigue actuando sobre él. Por lo tanto, su aceleración es constante durante todo el trayecto y es igual a la aceleración de la gravedad ($g$), dirigida siempre hacia el centro de la Tierra (hacia abajo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_008",
+      "pregunta": "En las ecuaciones escalares del M.V.C.L., ¿cuándo se utiliza el signo negativo ($-$) delante del término de la gravedad ($g$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el objeto está en su altura máxima.",
+        "B": "Cuando el movimiento es hacia abajo (acelerado).",
+        "C": "Cuando el movimiento es hacia arriba (desacelerado).",
+        "D": "Siempre, porque la gravedad apunta hacia abajo.",
+        "E": "Nunca, el signo siempre es positivo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El signo negativo se utiliza en las ecuaciones escalares para indicar que el movimiento es desacelerado, lo que ocurre cuando un objeto se lanza verticalmente hacia arriba. La gravedad actúa en dirección opuesta al movimiento, frenando al objeto hasta que alcanza su altura máxima.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_009",
+      "pregunta": "Si un objeto es lanzado verticalmente hacia arriba con una rapidez $v$ desde un punto, ¿con qué rapidez vuelve a pasar por el mismo punto en su descenso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Con la misma rapidez $v$.",
+        "B": "Con una rapidez de $$2v$$.",
+        "C": "Con una rapidez de $$v/2$$.",
+        "D": "Con una rapidez de cero.",
+        "E": "La rapidez depende de la masa del objeto."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Una característica del M.V.C.L. es la simetría de la rapidez. La rapidez (el módulo de la velocidad) de un objeto en cualquier punto de su trayectoria es la misma al subir que al bajar por ese mismo punto. Las velocidades son iguales en módulo pero de sentido opuesto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_010",
+      "pregunta": "¿Cuál de las siguientes ecuaciones del M.V.C.L. no depende del tiempo ($t$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$h = v_0 t \\pm \frac{1}{2}gt^2$$",
+        "B": "$$v_f = v_0 \\pm gt$$",
+        "C": "$$h = \\left( \frac{v_0 + v_f}{2} \right) t$$",
+        "D": "$$v_f^2 = v_0^2 \\pm 2gh$$",
+        "E": "$$t_{vuelo} = 2 \\cdot \frac{v_0}{g}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación $$v_f^2 = v_0^2 \\pm 2gh$$ relaciona la velocidad final ($v_f$), la velocidad inicial ($v_0$), la aceleración de la gravedad ($g$) y la altura ($h$) sin incluir la variable tiempo ($t$). Es útil para problemas donde el tiempo no es un dato conocido ni una incógnita.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_011",
+      "pregunta": "¿Cómo varía el valor de la aceleración de la gravedad ($g$) en la superficie de la Tierra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es mayor en la zona ecuatorial que en los polos.",
+        "B": "Es mayor en los polos que en la zona ecuatorial.",
+        "C": "Es absolutamente constante en toda la superficie.",
+        "D": "Varía dependiendo de la hora del día.",
+        "E": "Disminuye a medida que nos acercamos a los polos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El valor de $g$ no es perfectamente constante en la superficie terrestre. Debido a la rotación y al achatamiento de la Tierra, la aceleración de la gravedad es ligeramente mayor en los polos (aproximadamente $$9.83 \\, \text{m/s}^2$$) y menor en el ecuador (aproximadamente $$9.78 \\, \text{m/s}^2$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_012",
+      "pregunta": "La fórmula $$t_{vuelo} = 2 \\cdot t_{subida}$$ es válida cuando un objeto es lanzado verticalmente y regresa...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "a la mitad de su altura máxima.",
+        "B": "a su altura máxima.",
+        "C": "al mismo nivel desde donde fue lanzado.",
+        "D": "a cualquier punto por debajo del lanzamiento.",
+        "E": "hasta que su velocidad se duplica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El tiempo de vuelo ($$t_{vuelo}$$) se define como el tiempo total que el objeto permanece en el aire. Dado que el tiempo de subida es igual al tiempo de bajada para el mismo nivel, el tiempo total para que un objeto suba y regrese a su punto de partida es el doble del tiempo de subida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_013",
+      "pregunta": "Un objeto es lanzado verticalmente hacia arriba. ¿Cuál de las siguientes afirmaciones describe correctamente su movimiento durante la subida?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La velocidad es hacia arriba y la aceleración es hacia arriba.",
+        "B": "La velocidad disminuye y la aceleración es constante hacia abajo.",
+        "C": "Tanto la velocidad como la aceleración son constantes.",
+        "D": "La velocidad es hacia arriba y la aceleración es cero.",
+        "E": "La velocidad disminuye y la aceleración también disminuye."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la subida, el objeto se mueve hacia arriba, pero la gravedad ejerce una aceleración constante ($g$) hacia abajo. Esta aceleración opuesta al movimiento provoca que la velocidad del objeto disminuya (es un movimiento desacelerado) hasta llegar a cero en la altura máxima. La aceleración, sin embargo, permanece constante e igual a $g$ durante todo el trayecto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_014",
+      "pregunta": "¿Qué condición fundamental del M.V.C.L. se aplica a la ecuación $$v_f = v_0 - gt$$ para derivar la fórmula del tiempo de subida $$t_{subida} = \frac{v_0}{g}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La velocidad inicial es cero, $$v_0 = 0$$.",
+        "B": "La altura final es cero, $$h = 0$$.",
+        "C": "La velocidad final en la altura máxima es cero, $$v_f = 0$$.",
+        "D": "El tiempo total de vuelo es el doble del tiempo de subida.",
+        "E": "La velocidad de subida es igual a la de bajada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El tiempo de subida ($$t_{subida}$$) es el tiempo que tarda el objeto en alcanzar su altura máxima. En este punto, su velocidad final instantánea es cero ($$v_f = 0$$). Si sustituimos esta condición en la ecuación del movimiento hacia arriba ($$v_f = v_0 - gt$$), obtenemos $$0 = v_0 - gt_{subida}$$. Al despejar $$t_{subida}$$, resulta en $$t_{subida} = \frac{v_0}{g}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_009_015",
+      "pregunta": "Utilizando la fórmula $$h_{máx} = \frac{v_0^2}{2g}$$, si se duplica la velocidad inicial ($v_0$) de un lanzamiento vertical, ¿cómo se ve afectada la altura máxima ($h_{máx}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La altura máxima se duplica.",
+        "B": "La altura máxima se reduce a la mitad.",
+        "C": "La altura máxima no cambia.",
+        "D": "La altura máxima se cuadruplica.",
+        "E": "La altura máxima se triplica."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La altura máxima es directamente proporcional al cuadrado de la velocidad inicial ($$h_{máx} \\propto v_0^2$$). Si la velocidad inicial se duplica (se convierte en $$2v_0$$), la nueva altura máxima será $$h'_{máx} = \frac{(2v_0)^2}{2g} = \frac{4v_0^2}{2g} = 4 \\left( \frac{v_0^2}{2g} \right) = 4 h_{máx}$$. Por lo tanto, la altura máxima se cuadruplica.",
+      "imagen": null
+    }
+  ]
+}

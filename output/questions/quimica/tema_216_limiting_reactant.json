@@ -3,5 +3,231 @@
   "numero_tema": 216,
   "total_temas": 322,
   "titulo_tema": "Limiting Reactant",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_216_001",
+      "pregunta": "¿Qué es la estequiometría?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El estudio de la velocidad de las reacciones químicas.",
+        "B": "El estudio cualitativo de los reactivos y productos.",
+        "C": "El estudio cuantitativo de los reactivos y productos en una reacción.",
+        "D": "El estudio de las propiedades físicas de los elementos.",
+        "E": "La medición de la energía liberada en una reacción."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estequiometría se define como el estudio de las relaciones cuantitativas (cantidades medibles) entre los reactivos que se consumen y los productos que se forman en una reacción química. Las otras opciones se refieren a otras áreas de la química como la cinética (velocidad), el análisis cualitativo, la física o la termoquímica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_002",
+      "pregunta": "¿Cuál es la definición de reactivo limitante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El reactivo que se añade en mayor cantidad.",
+        "B": "El reactivo que tiene la mayor masa molar.",
+        "C": "El reactivo que se consume completamente primero en una reacción.",
+        "D": "El reactivo que sobra después de que la reacción se detiene.",
+        "E": "El producto principal de la reacción."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El reactivo limitante es, por definición, aquel que se agota primero. Una vez que este reactivo se ha consumido en su totalidad, la reacción química se detiene, independientemente de la cantidad de los otros reactivos presentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_003",
+      "pregunta": "¿Cómo se denomina al reactivo que no se consume totalmente en una reacción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Reactivo limitante",
+        "B": "Reactivo en exceso o excedente",
+        "C": "Reactivo inerte",
+        "D": "Producto secundario",
+        "E": "Catalizador"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El reactivo que queda o sobra después de que el reactivo limitante se ha consumido por completo se conoce como reactivo en exceso o excedente. Su cantidad inicial es mayor que la necesaria para reaccionar con todo el reactivo limitante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_004",
+      "pregunta": "En la analogía para explicar el reactivo limitante, si se tienen 6 hombres y 4 mujeres para formar parejas, ¿quiénes representan el reactivo en exceso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las mujeres",
+        "B": "Los hombres",
+        "C": "Las parejas formadas",
+        "D": "No hay reactivo en exceso",
+        "E": "Ambos son limitantes"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la analogía, solo se pueden formar 4 parejas porque solo hay 4 mujeres. Las mujeres se 'consumen' primero, siendo el 'reactivo limitante'. De los 6 hombres, 4 forman pareja y 2 sobran, por lo que los hombres representan el 'reactivo en exceso'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_005",
+      "pregunta": "Según la ecuación de combustión del metano, $$CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)$$, ¿cuántos moles de oxígeno ($$O₂$$) se necesitan para reaccionar con 1 mol de metano ($$CH₄$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "1 mol",
+        "B": "2 moles",
+        "C": "3 moles",
+        "D": "4 moles",
+        "E": "0.5 moles"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación molar está dada por los coeficientes estequiométricos en la ecuación balanceada. El coeficiente del $$CH₄$$ es 1 (implícito) y el del $$O₂$$ es 2. Esto significa que 1 mol de metano reacciona con 2 moles de oxígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_006",
+      "pregunta": "¿Qué ocurre en una reacción química cuando se consume por completo el reactivo limitante?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La reacción se acelera.",
+        "B": "La reacción se invierte.",
+        "C": "La reacción se detiene.",
+        "D": "Se empiezan a consumir los productos.",
+        "E": "Aumenta la temperatura drásticamente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El reactivo limitante es esencial para que la reacción continúe. En el momento en que se agota, no hay más de ese reactivo para combinarse con el reactivo en exceso, por lo que la formación de productos cesa y la reacción se detiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_007",
+      "pregunta": "En la reacción $$2Na + Cl₂ → 2NaCl$$, la estequiometría indica que 2 moles de sodio ($$Na$$) reaccionan con 1 mol de cloro ($$Cl₂$$). Si se combinan 5 moles de $$Na$$ con 1 mol de $$Cl₂$$, ¿por qué el sodio es el reactivo en exceso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el sodio tiene una masa atómica menor que el cloro.",
+        "B": "Porque 1 mol de $$Cl₂$$ solo necesita 2 moles de $$Na$$ para reaccionar, y hay 5 moles disponibles.",
+        "C": "Porque la reacción produce 2 moles de $$NaCl$$ por cada mol de $$Cl₂$$.",
+        "D": "Porque el sodio es un metal y el cloro es un gas.",
+        "E": "Porque se tienen más moles de sodio que de cloro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para determinar el reactivo en exceso, se compara la cantidad necesaria con la disponible. Según la estequiometría, 1 mol de $$Cl₂$$ requiere 2 moles de $$Na$$. Como se dispone de 5 moles de $$Na$$, hay más de lo necesario. Por lo tanto, el $$Na$$ es el reactivo en exceso y sobrarán $$5 - 2 = 3$$ moles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_008",
+      "pregunta": "Para la reacción $$H₂(g) + Cl₂(g) → 2HCl(g)$$, ¿qué significa que los reactivos no estén en \"cantidades estequiométricas exactas\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los reactivos no son puros.",
+        "B": "Que la reacción no puede llevarse a cabo.",
+        "C": "Que la proporción molar de los reactivos no es la misma que la indicada en la ecuación balanceada.",
+        "D": "Que se necesita un catalizador para que reaccionen.",
+        "E": "Que los volúmenes de los reactivos son diferentes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las \"cantidades estequiométricas exactas\" se refieren a tener los reactivos en la proporción molar exacta que indica la ecuación química balanceada (en este caso, 1:1). Si no están en esa proporción, uno de los reactivos se agotará primero (limitante) y del otro sobrará (exceso).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_009",
+      "pregunta": "En la combustión del metano, $$CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)$$, ¿cuál es la relación de volumen en condiciones normales (CN) entre el metano ($$CH₄$$) que reacciona y el dióxido de carbono ($$CO₂$$) que se produce?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se consumen 22.4 L de $$CH₄$$ para producir 44.8 L de $$CO₂$$.",
+        "B": "Se consumen 44.8 L de $$CH₄$$ para producir 22.4 L de $$CO₂$$.",
+        "C": "Se consumen 22.4 L de $$CH₄$$ para producir 22.4 L de $$CO₂$$.",
+        "D": "Se consumen 1 L de $$CH₄$$ para producir 2 L de $$CO₂$$.",
+        "E": "La relación de volumen no se puede determinar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la ley de Avogadro, a las mismas condiciones de temperatura y presión, los volúmenes de los gases reaccionantes y producidos están en la misma proporción que sus moles. La ecuación muestra una relación molar de 1:1 entre $$CH₄$$ y $$CO₂$$. Por lo tanto, el volumen de $$CH₄$$ consumido es igual al volumen de $$CO₂$$ producido, es decir, 22.4 L de $$CH₄$$ producen 22.4 L de $$CO₂$$ en CN.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_010",
+      "pregunta": "En el cálculo para la reacción $$H₂(g) + Cl₂(g) → 2HCl(g)$$, ¿por qué se elige al $$H₂$$ como reactivo limitante si 3 moles de $$H₂$$ producen 6 moles de $$HCl$$ y 4 moles de $$Cl₂$$ producen 8 moles de $$HCl$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el $$H₂$$ tiene menor masa molar.",
+        "B": "Porque se partió de una menor cantidad de moles de $$H₂$$ que de $$Cl₂$$.",
+        "C": "Porque el hidrógeno es más reactivo que el cloro.",
+        "D": "Porque la cantidad de producto que puede formar el $$H₂$$ (6 moles) es menor que la que puede formar el $$Cl₂$$ (8 moles).",
+        "E": "Porque produce un número par de moles de producto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El método para identificar el reactivo limitante consiste en calcular la cantidad de producto que cada reactivo podría formar si reaccionara por completo. El reactivo que produce la menor cantidad teórica de producto es el reactivo limitante, ya que es el que se agotará primero y detendrá la reacción. En este caso, 6 moles es menor que 8 moles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_011",
+      "pregunta": "En la reacción de combustión del metano, $$CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)$$, si se hace reaccionar una molécula de $$CH₄$$ con dos moléculas de $$O₂$$, ¿qué se obtiene?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "2 moléculas de $$CO₂$$ y 1 molécula de $$H₂O$$.",
+        "B": "1 molécula de $$CO₂$$ y 2 moléculas de $$H₂O$$.",
+        "C": "2 moléculas de $$CO₂$$ y 2 moléculas de $$H₂O$$.",
+        "D": "1 molécula de $$CO₂$$ y 1 molécula de $$H₂O$$.",
+        "E": "4 moléculas de producto en total."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación balanceada se puede interpretar a nivel molecular. Indica que 1 molécula de metano ($$CH₄$$) reacciona con 2 moléculas de oxígeno ($$O₂$$) para producir 1 molécula de dióxido de carbono ($$CO₂$$) y 2 moléculas de agua ($$H₂O$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_012",
+      "pregunta": "¿En qué tres conceptos fundamentales se basa la estequiometría?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Masa atómica, fórmulas químicas y Ley de la conservación de la masa.",
+        "B": "Velocidad de reacción, temperatura y presión.",
+        "C": "Molaridad, normalidad y molalidad.",
+        "D": "Entalpía, entropía y energía libre de Gibbs.",
+        "E": "Número de Avogadro, constante de los gases y volumen molar."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La estequiometría es el estudio cuantitativo de las reacciones, y para ello se apoya en tres pilares: el conocimiento de las masas de los átomos (masas atómicas), la representación de las sustancias (fórmulas químicas) y el principio de que la masa no se crea ni se destruye en una reacción (Ley de la conservación de la masa).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_013",
+      "pregunta": "Dada la reacción $$2Na + Cl₂ → 2NaCl$$, si se hacen reaccionar 8 moles de $$Na$$ con 5 moles de $$Cl₂$$, ¿cuál es el reactivo limitante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El sodio ($$Na$$), porque se necesitan 10 moles.",
+        "B": "El cloro ($$Cl₂$$), porque se necesitan 2.5 moles.",
+        "C": "El sodio ($$Na$$), porque produce la menor cantidad de $$NaCl$$.",
+        "D": "El cloro ($$Cl₂$$), porque produce la menor cantidad de $$NaCl$$.",
+        "E": "Ninguno, la mezcla es estequiométrica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para determinar el reactivo limitante, calculamos cuánto producto ($$NaCl$$) puede formar cada reactivo:\n1. A partir de $$Na$$: $$8 \text{ mol Na} \times \frac{2 \text{ mol NaCl}}{2 \text{ mol Na}} = 8 \text{ mol NaCl}$$\n2. A partir de $$Cl₂$$: $$5 \text{ mol Cl}_2 \times \frac{2 \text{ mol NaCl}}{1 \text{ mol Cl}_2} = 10 \text{ mol NaCl}$$\nDado que el sodio ($$Na$$) produce la menor cantidad de producto (8 moles de $$NaCl$$), es el reactivo limitante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_014",
+      "pregunta": "Para la reacción $$H₂(g) + Cl₂(g) → 2HCl(g)$$, si se parte de 3 moles de $$H₂$$ y 4 moles de $$Cl₂$$, ¿cuántos moles del reactivo en exceso sobran al finalizar la reacción?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "0.5 moles de $$Cl₂$$",
+        "B": "1 mol de $$H₂$$",
+        "C": "2 moles de $$Cl₂$$",
+        "D": "1 mol de $$Cl₂$$",
+        "E": "No sobra ningún reactivo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Primero, identificamos el reactivo limitante. 3 moles de $$H₂$$ producirían $$3 \times 2 = 6$$ moles de $$HCl$$. 4 moles de $$Cl₂$$ producirían $$4 \times 2 = 8$$ moles de $$HCl$$. Por lo tanto, el $$H₂$$ es el reactivo limitante y se consumirá por completo. \nLa estequiometría entre $$H₂$$ y $$Cl₂$$ es 1:1. Si se consumen 3 moles de $$H₂$$, también se consumirán 3 moles de $$Cl₂$$. \nLa cantidad sobrante de $$Cl₂$$ es la inicial menos la consumida: $$4 \text{ moles} - 3 \text{ moles} = 1 \text{ mol de } Cl₂$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_216_015",
+      "pregunta": "En la reacción de combustión $$CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)$$, si se mezclan 2 moles de $$CH₄$$ con 3 moles de $$O₂$$, ¿cuántos moles de $$CO₂$$ se pueden formar como máximo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "1 mol",
+        "B": "1.5 moles",
+        "C": "2 moles",
+        "D": "3 moles",
+        "E": "4 moles"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Se debe determinar el reactivo limitante calculando la cantidad de $$CO₂$$ que cada reactivo puede producir:\n1. A partir de $$CH₄$$: La relación es 1:1. $$2 \text{ mol CH}_4 \times \frac{1 \text{ mol CO}_2}{1 \text{ mol CH}_4} = 2 \text{ mol CO}_2$$\n2. A partir de $$O₂$$: La relación es 2:1. $$3 \text{ mol O}_2 \times \frac{1 \text{ mol CO}_2}{2 \text{ mol O}_2} = 1.5 \text{ mol CO}_2$$\nEl oxígeno ($$O₂$$) es el reactivo limitante porque produce la menor cantidad de $$CO₂$$. Por lo tanto, la cantidad máxima de $$CO₂$$ que se puede formar es 1.5 moles.",
+      "imagen": null
+    }
+  ]
 }

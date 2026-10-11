@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 125,
+  "total_temas": 320,
+  "titulo_tema": "Antigenicidad",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_125_001",
+      "pregunta": "¿Qué es la Inmunología?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El estudio de las enfermedades infecciosas y su tratamiento.",
+        "B": "Una rama de las ciencias biomédicas que se ocupa del estudio del sistema inmunitario.",
+        "C": "La ciencia que estudia la estructura y función de los anticuerpos.",
+        "D": "El proceso de vacunación y creación de sueros.",
+        "E": "El análisis de los componentes de la sangre y su función."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Inmunología es la rama de las ciencias biomédicas dedicada específicamente al estudio del sistema inmunitario, que incluye sus componentes (órganos, tejidos, células) y su funcionamiento. Las otras opciones describen campos relacionados pero más específicos o diferentes, como la infectología (A) o la hematología (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_002",
+      "pregunta": "¿Cuál es la definición de inmunidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El conjunto de células que defienden al cuerpo.",
+        "B": "La respuesta inflamatoria a una lesión.",
+        "C": "El estado de resistencia que presentan los organismos frente a la infección.",
+        "D": "La capacidad de producir anticuerpos de forma artificial.",
+        "E": "El proceso por el cual un agente extraño causa una enfermedad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunidad se define como el estado de resistencia de un organismo contra la infección. No es el conjunto de células en sí (que es parte del sistema inmunitario), ni una respuesta específica como la inflamación, sino el estado general de protección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_003",
+      "pregunta": "¿Cuáles son los dos tipos principales de inmunidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Celular y Humoral",
+        "B": "Activa y Pasiva",
+        "C": "Primaria y Secundaria",
+        "D": "Innata y Adaptativa",
+        "E": "General y Localizada"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El sistema inmune coordina respuestas a través de dos grandes divisiones: la inmunidad innata, con la que los individuos nacen y es de acción rápida, y la inmunidad adaptativa, que se adquiere a lo largo de la vida y es específica para cada patógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_004",
+      "pregunta": "Una molécula reconocida como \"extraña\" que desencadena una respuesta inmunológica se conoce como:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anticuerpo",
+        "B": "Citoquina",
+        "C": "Linfocito",
+        "D": "Receptor celular",
+        "E": "Antígeno o inmunógeno"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un antígeno o inmunógeno es, por definición, cualquier sustancia que el sistema inmunitario reconoce como ajena o extraña y que tiene la capacidad de provocar una respuesta inmunitaria. Los anticuerpos, citoquinas y linfocitos son componentes que participan en dicha respuesta, no los que la desencadenan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_005",
+      "pregunta": "¿Qué es la antigenicidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La capacidad de un organismo para producir una enfermedad.",
+        "B": "La propiedad del sistema inmune de recordar infecciones pasadas.",
+        "C": "La capacidad de una sustancia para combinarse con un anticuerpo o una célula específicamente.",
+        "D": "El proceso de formación de nuevas células inmunitarias.",
+        "E": "La respuesta coordinada del sistema inmune ante un agente extraño."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La antigenicidad es la propiedad específica de una sustancia (el antígeno) que le permite unirse o combinarse de forma específica con los productos de la respuesta inmune, como son los anticuerpos (Ac) o los receptores de las células inmunitarias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_006",
+      "pregunta": "¿Cuál es el objetivo principal de la Respuesta Inmune?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Identificar todas las células del propio cuerpo.",
+        "B": "Eliminar o reducir al mínimo la capacidad de un agente extraño de generar enfermedad.",
+        "C": "Crear una barrera física permanente contra todos los microorganismos.",
+        "D": "Producir anticuerpos contra cualquier sustancia, sea propia o extraña.",
+        "E": "Acelerar el metabolismo celular para combatir infecciones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Respuesta Inmune es el conjunto de mecanismos que se activan ante un agente extraño con la finalidad de neutralizarlo, eliminarlo o, si no es posible, minimizar el daño que pueda causar, es decir, su capacidad para generar una enfermedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_007",
+      "pregunta": "¿Qué característica distingue a la inmunidad adaptativa de la innata?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Está presente desde el nacimiento.",
+        "B": "Es una respuesta general e inespecífica.",
+        "C": "No genera memoria inmunológica.",
+        "D": "Se le conoce también como inmunidad adquirida o específica.",
+        "E": "Es la primera línea de defensa del organismo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La inmunidad adaptativa se desarrolla a lo largo de la vida en respuesta a la exposición a agentes extraños, por eso se le llama también adquirida. Además, es altamente específica para cada agente, a diferencia de la inmunidad innata, que es con la que se nace y es más general.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_008",
+      "pregunta": "La propiedad del sistema inmunitario de identificar y distinguir una molécula de otra se denomina:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Memoria",
+        "B": "Tolerancia",
+        "C": "Antigenicidad",
+        "D": "Especificidad",
+        "E": "Diversidad"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La especificidad es la capacidad fundamental del sistema inmune adaptativo para reconocer diferencias sutiles entre distintas moléculas (antígenos) y montar una respuesta dirigida únicamente contra una de ellas. La antigenicidad es la capacidad de la molécula para ser reconocida, no la capacidad del sistema para reconocerla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_009",
+      "pregunta": "¿Qué función crucial permite la propiedad de especificidad del sistema inmune?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La activación de la respuesta inflamatoria.",
+        "B": "La fagocitosis de patógenos por macrófagos.",
+        "C": "La generación de la memoria inmunológica.",
+        "D": "La producción masiva de glóbulos blancos.",
+        "E": "La regulación de la temperatura corporal durante una fiebre."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La especificidad, al permitir reconocer de forma única a un antígeno, es la base para la generación de la memoria inmunológica. El sistema inmune \"recuerda\" al antígeno específico y puede montar una respuesta mucho más rápida y eficaz en exposiciones futuras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_010",
+      "pregunta": "La raíz latina \"inmunitas\" de la que deriva la palabra Inmunología significa:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Protegido de",
+        "B": "Libre de",
+        "C": "Resistente a",
+        "D": "Fuerte contra",
+        "E": "Capaz de luchar"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Etimológicamente, la palabra \"inmunidad\" proviene del latín \"inmunitas\", que se traduce como \"libre de\", haciendo referencia a estar libre de la carga de una enfermedad o infección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_011",
+      "pregunta": "El sistema inmunitario de los vertebrados tiene como función principal:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Regular el crecimiento y desarrollo de los tejidos.",
+        "B": "Transportar oxígeno y nutrientes a todas las células.",
+        "C": "Reconocer elementos ajenos y generar una respuesta.",
+        "D": "Producir hormonas para el equilibrio del organismo.",
+        "E": "Eliminar las células viejas o dañadas del propio cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La función central del sistema inmunitario en los vertebrados es la vigilancia y defensa, lo que implica reconocer elementos que no son propios del organismo (ajenos o extraños) y montar una respuesta coordinada para neutralizarlos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_012",
+      "pregunta": "¿Con qué elementos del sistema inmune adaptativo está directamente relacionada la especificidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Con las barreras físicas como la piel y las mucosas.",
+        "B": "Con los receptores de antígenos individualizados.",
+        "C": "Con las células fagocíticas como los neutrófilos.",
+        "D": "Con el sistema del complemento en la sangre.",
+        "E": "Con las moléculas de la respuesta inflamatoria aguda."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La especificidad del sistema inmune adaptativo se debe a la existencia de receptores de antígenos únicos y altamente individualizados en la superficie de los linfocitos. Cada receptor está diseñado para reconocer y unirse a un antígeno específico, como una llave con su cerradura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_013",
+      "pregunta": "Si dos moléculas son muy similares pero solo una de ellas desencadena una respuesta inmune, ¿qué propiedad del sistema inmunitario se está demostrando?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Inmunidad innata",
+        "B": "Antigenicidad",
+        "C": "Respuesta Inmune",
+        "D": "Especificidad",
+        "E": "Inmunidad adaptativa"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este escenario demuestra la especificidad. El sistema inmune es capaz de distinguir entre las dos moléculas, a pesar de su similitud, y responder selectivamente solo contra la que reconoce como extraña. Esto resalta su alta capacidad de discriminación molecular, que es la esencia de la especificidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_014",
+      "pregunta": "¿Cuál es la relación conceptual entre un antígeno y la antigenicidad?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Son sinónimos y describen la respuesta del cuerpo.",
+        "B": "Un antígeno es una célula, mientras que la antigenicidad es una respuesta.",
+        "C": "El antígeno es la sustancia, y la antigenicidad es su capacidad de combinarse con anticuerpos o células.",
+        "D": "La antigenicidad es el proceso de creación de antígenos.",
+        "E": "No existe relación directa entre ambos conceptos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación es de sustancia a propiedad. El antígeno es la molécula o sustancia física que es reconocida por el sistema inmunitario. La antigenicidad es la propiedad o capacidad inherente de esa molécula para unirse específicamente a los componentes de la respuesta inmune, como los anticuerpos o receptores celulares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_125_015",
+      "pregunta": "Considerando las definiciones, ¿qué es necesario para que una sustancia sea considerada un inmunógeno además de tener antigenicidad?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Debe ser una proteína de gran tamaño.",
+        "B": "Debe poder combinarse con un anticuerpo, pero no necesariamente iniciar una respuesta.",
+        "C": "Debe ser capaz de desencadenar una respuesta inmunológica por sí misma.",
+        "D": "Debe estar presente desde el nacimiento en el organismo.",
+        "E": "Debe ser reconocida únicamente por el sistema inmune innato."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El texto define al antígeno o inmunógeno como una molécula que \"desencadena una respuesta inmunológica\". Por otro lado, la antigenicidad es la capacidad de \"combinarse con un anticuerpo o una célula\". Un inmunógeno no solo se combina (tiene antigenicidad), sino que también debe ser capaz de iniciar o provocar la respuesta inmune completa. Por lo tanto, un inmunógeno tiene antigenicidad y además la capacidad de inducir una respuesta.",
+      "imagen": null
+    }
+  ]
+}

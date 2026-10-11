@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 3,
+  "total_temas": 137,
+  "titulo_tema": "Análisis Dimensional",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_003_001",
+      "pregunta": "¿Cuál de las siguientes opciones describe mejor a una magnitud fundamental?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aquella que se obtiene de la combinación de dos o más magnitudes.",
+        "B": "Aquella que es independiente de otras magnitudes y no necesita de otras para ser cuantificada.",
+        "C": "Aquella cuyo valor es siempre un número entero.",
+        "D": "Únicamente las magnitudes que se pueden medir con una regla.",
+        "E": "Una magnitud que carece de unidades de medida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las magnitudes fundamentales, o básicas, se definen como aquellas que son independientes entre sí y que no se definen en función de otras magnitudes físicas. Ejemplos de ellas son la longitud (metro), la masa (kilogramo) y el tiempo (segundo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_002",
+      "pregunta": "¿Cuál de las siguientes es una magnitud derivada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Masa (kg)",
+        "B": "Tiempo (s)",
+        "C": "Temperatura (K)",
+        "D": "Velocidad (m/s)",
+        "E": "Intensidad Luminosa (cd)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una magnitud derivada es aquella que se define a partir de dos o más magnitudes fundamentales. La velocidad se define como la longitud dividida por el tiempo ($$m/s$$), por lo que es una magnitud derivada. Las otras opciones (Masa, Tiempo, Temperatura e Intensidad Luminosa) son magnitudes fundamentales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_003",
+      "pregunta": "En el contexto del análisis dimensional, ¿qué representa la notación $$[A]$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El valor numérico de la magnitud A.",
+        "B": "La unidad de medida de la magnitud A.",
+        "C": "La ecuación dimensional de la magnitud A.",
+        "D": "El inverso multiplicativo de A.",
+        "E": "El ángulo asociado a la magnitud A."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación $$[A]$$ se utiliza específicamente para representar la 'ecuación dimensional de A'. Esta expresión matemática relaciona la magnitud A con las magnitudes fundamentales (L para longitud, M para masa, T para tiempo, etc.).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_004",
+      "pregunta": "¿Cuál es el prefijo del Sistema Internacional que corresponde al factor $$10^3$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "mili (m)",
+        "B": "mega (M)",
+        "C": "centi (c)",
+        "D": "deca (da)",
+        "E": "kilo (k)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El prefijo 'kilo', cuyo símbolo es 'k', representa un múltiplo de $$10^3$$ (mil). Por ejemplo, 1 kilómetro (km) es igual a $$10^3$$ metros, es decir, 1000 metros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_005",
+      "pregunta": "¿Cuál es la ecuación dimensional del Volumen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$L$$",
+        "B": "$$L^2$$",
+        "C": "$$L^3$$",
+        "D": "$$LT^{-1}$$",
+        "E": "$$ML^{-3}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El volumen se calcula como el producto de tres longitudes (largo x ancho x alto). Si la dimensión de la longitud es $$L$$, entonces la ecuación dimensional del volumen es $$[V] = L \times L \times L = L^3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_006",
+      "pregunta": "Según el Principio de Homogeneidad Dimensional, si una fórmula física $$X = Y + Z$$ es correcta, ¿qué relación deben cumplir las dimensiones de $$X, Y$$ y $$Z$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$[X] = [Y] + [Z]$$",
+        "B": "$$[X] = [Y] = [Z]$$",
+        "C": "$$[X] = [Y][Z]$$",
+        "D": "$$[X]$$ debe ser adimensional, mientras que $$[Y]$$ y $$[Z]$$ no.",
+        "E": "La suma de las dimensiones de Y y Z debe ser 1."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Principio de Homogeneidad Dimensional establece que solo se pueden sumar o restar magnitudes físicas que tengan las mismas dimensiones. Para que la igualdad sea correcta, todos los términos de la ecuación deben ser dimensionalmente iguales. Por lo tanto, se debe cumplir que $$[X] = [Y] = [Z]$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_007",
+      "pregunta": "¿Cuál es la ecuación dimensional de la Presión ($$P$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$MLT^{-2}$$",
+        "B": "$$ML^2T^{-2}$$",
+        "C": "$$ML^{-1}T^{-2}$$",
+        "D": "$$LT^{-2}$$",
+        "E": "$$ML^2T^{-3}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión se define como Fuerza por unidad de Área ($$P = F/A$$). La dimensión de la Fuerza es $$[F] = MLT^{-2}$$ y la del Área es $$[A] = L^2$$. Por lo tanto, la dimensión de la Presión es $$[P] = \frac{[F]}{[A]} = \frac{MLT^{-2}}{L^2} = ML^{1-2}T^{-2} = ML^{-1}T^{-2}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_008",
+      "pregunta": "En la expresión $$E = mc^2$$, si $$E$$ es energía con dimensión $$ML^2T^{-2}$$ y $$m$$ es masa con dimensión $$M$$, ¿cuál es la dimensión de $$c$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$L^2T^{-2}$$",
+        "B": "$$LT^{-1}$$",
+        "C": "$$LT^{-2}$$",
+        "D": "$$L^{-1}T$$",
+        "E": "$$L$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aplicando el análisis dimensional a la ecuación: $$[E] = [m][c^2] = [m][c]^2$$. Despejando $$[c]$$, obtenemos $$[c]^2 = \frac{[E]}{[m]} = \frac{ML^2T^{-2}}{M} = L^2T^{-2}$$. Finalmente, sacando la raíz cuadrada, $$[c] = \\sqrt{L^2T^{-2}} = LT^{-1}$$, que corresponde a la dimensión de la velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_009",
+      "pregunta": "De acuerdo con las reglas dimensionales, si una magnitud $A$ se expresa como $$A = 5 \\log(B)$$, ¿cuál es la dimensión de $A$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La misma que B.",
+        "B": "Es adimensional, $$[A]=1$$.",
+        "C": "Es igual a 5.",
+        "D": "No se puede determinar sin conocer B.",
+        "E": "Tiene dimensiones de tiempo, T."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las reglas dimensionales establecen que cualquier coeficiente constante, como números (en este caso, 5), funciones logarítmicas, trigonométricas, etc., son adimensionales. Esto significa que su dimensión es nula, lo que se representa como $$[A] = 1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_010",
+      "pregunta": "¿Qué afirmación es correcta sobre la escritura de símbolos de unidades?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Todos los símbolos de unidades deben terminar con un punto.",
+        "B": "Todos los símbolos se escriben con letra mayúscula.",
+        "C": "Los símbolos se escriben con minúscula, a menos que provengan de un nombre propio, en cuyo caso inician con mayúscula.",
+        "D": "Todos los símbolos se escriben con letra minúscula, sin excepciones.",
+        "E": "El símbolo y el nombre de la unidad son intercambiables y siempre se escriben en mayúscula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla general es que los nombres de las unidades se escriben en minúscula (metro, segundo), y sus símbolos también (m, s). La excepción es cuando la unidad lleva el nombre de una persona, como el newton (N), el pascal (Pa) o el kelvin (K); en estos casos, el símbolo se escribe con la inicial mayúscula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_011",
+      "pregunta": "La Potencia tiene una ecuación dimensional de $$ML^2T^{-3}$$. ¿A qué combinación de magnitudes fundamentales corresponde esta dimensión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Masa por Longitud al cuadrado, dividido por Tiempo al cubo.",
+        "B": "Masa por Longitud por Tiempo al cubo.",
+        "C": "Longitud al cuadrado por Tiempo al cubo, dividido por Masa.",
+        "D": "Masa dividida por Longitud al cuadrado y por Tiempo al cubo.",
+        "E": "Masa al cuadrado por Longitud, dividida por Tiempo al cubo."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La ecuación dimensional $$ML^2T^{-3}$$ se desglosa de la siguiente manera: $$M$$ representa Masa, $$L^2$$ representa Longitud elevada al cuadrado, y $$T^{-3}$$ representa Tiempo elevado a la -3, lo que es equivalente a dividir por Tiempo al cubo ($$1/T^3$$). Por lo tanto, la combinación correcta es Masa por Longitud al cuadrado, dividido por Tiempo al cubo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_012",
+      "pregunta": "Si la Carga Eléctrica ($$q$$) tiene dimensiones de $$IT$$ (Intensidad de corriente por Tiempo), ¿cuál es la ecuación dimensional del Potencial Eléctrico ($$V$$), sabiendo que se define como Energía por unidad de carga ($$V = E/q$$)? Considere $$[Energía] = ML^2T^{-2}$$.",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$ML^2T^{-3}I^{-1}$$",
+        "B": "$$ML^2T^{-2}I$$",
+        "C": "$$ML^2T^{-1}I^{-1}$$",
+        "D": "$$ML^2T^{-3}I$$",
+        "E": "$$MLT^{-2}I^{-1}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Para encontrar la dimensión del Potencial Eléctrico, dividimos la dimensión de la Energía entre la dimensión de la Carga Eléctrica: $$[V] = \frac{[E]}{[q]} = \frac{ML^2T^{-2}}{IT} = ML^2T^{-2-1}I^{-1} = ML^2T^{-3}I^{-1}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_013",
+      "pregunta": "La ley de la gravitación universal de Newton se expresa como $$F = G\frac{m_1 m_2}{d^2}$$, donde $$F$$ es la fuerza, $$m_1$$ y $$m_2$$ son masas, y $$d$$ es la distancia. ¿Cuál es la ecuación dimensional de la constante de gravitación universal $$G$$? (Recuerde que $$[F] = MLT^{-2}$$).",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$M^{-1}L^3T^{-2}$$",
+        "B": "$$MLT^{-2}$$",
+        "C": "$$M^{-1}L^2T^{-2}$$",
+        "D": "$$M^2L^{-2}$$",
+        "E": "$$ML^3T^{-2}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Primero, despejamos $$G$$ de la fórmula: $$G = \frac{F d^2}{m_1 m_2}$$. Ahora, sustituimos las dimensiones de cada magnitud: $$[G] = \frac{[F][d]^2}{[m_1][m_2]} = \frac{(MLT^{-2})(L^2)}{(M)(M)} = \frac{ML^3T^{-2}}{M^2}$$. Simplificando la expresión, obtenemos: $$[G] = M^{1-2}L^3T^{-2} = M^{-1}L^3T^{-2}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_014",
+      "pregunta": "En la ecuación $$v = A t^3 - B x$$, se sabe que $$v$$ representa la velocidad ($$LT^{-1}$$), $$t$$ es el tiempo ($$T$$) y $$x$$ es la posición ($$L$$). Para que la ecuación sea dimensionalmente consistente, ¿cuáles deben ser las dimensiones de las constantes A y B?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$[A] = LT^{-3}$$ y $$[B] = T^{-1}$$",
+        "B": "$$[A] = LT^{-4}$$ y $$[B] = L$$",
+        "C": "$$[A] = L$$ y $$[B] = T$$",
+        "D": "$$[A] = LT^{-4}$$ y $$[B] = T^{-1}$$",
+        "E": "$$[A] = LT^{-2}$$ y $$[B] = T^{-2}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Según el principio de homogeneidad, todos los términos de la ecuación deben tener la misma dimensión que $$v$$ ($$LT^{-1}$$). \nPara el primer término: $$[v] = [A t^3] \\Rightarrow LT^{-1} = [A][t]^3 = [A]T^3$$. Despejando $$[A]$$, obtenemos $$[A] = \frac{LT^{-1}}{T^3} = LT^{-4}$$. \nPara el segundo término: $$[v] = [B x] \\Rightarrow LT^{-1} = [B][x] = [B]L$$. Despejando $$[B]$$, obtenemos $$[B] = \frac{LT^{-1}}{L} = T^{-1}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_003_015",
+      "pregunta": "La energía cinética de un objeto está dada por la fórmula $$E = \frac{1}{2}mv^x$$, donde $$E$$ es la energía ($$ML^2T^{-2}$$), $$m$$ es la masa ($$M$$) y $$v$$ es la velocidad ($$LT^{-1}$$). El coeficiente $$\frac{1}{2}$$ es adimensional. ¿Cuál debe ser el valor del exponente $$x$$ para que la fórmula sea dimensionalmente correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$x = 1$$",
+        "B": "$$x = 3$$",
+        "C": "$$x = 1/2$$",
+        "D": "$$x = -1$$",
+        "E": "$$x = 2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Aplicamos el análisis dimensional a la fórmula, ignorando el coeficiente adimensional $$\frac{1}{2}$$: $$[E] = [m][v]^x$$. Sustituimos las dimensiones conocidas: $$ML^2T^{-2} = (M)(LT^{-1})^x$$. Desarrollando el lado derecho, obtenemos: $$ML^2T^{-2} = M L^x T^{-x}$$. Para que la igualdad se cumpla, los exponentes de cada dimensión fundamental deben ser iguales en ambos lados. Comparando los exponentes de L, tenemos que $$2 = x$$. Verificamos con T: $$-2 = -x$$, lo cual también da $$x=2$$. Por lo tanto, el valor del exponente es 2.",
+      "imagen": null
+    }
+  ]
+}

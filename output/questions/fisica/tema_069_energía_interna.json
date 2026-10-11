@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 69,
+  "total_temas": 137,
+  "titulo_tema": "Energía Interna",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_069_001",
+      "pregunta": "¿Qué es la temperatura desde el punto de vista de la física?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una magnitud vectorial que indica la dirección del flujo de calor.",
+        "B": "Una medida de la cantidad total de calor en un cuerpo.",
+        "C": "Una magnitud escalar que mide la cantidad de energía térmica que tiene un cuerpo.",
+        "D": "La suma de las energías potenciales de las moléculas de un cuerpo.",
+        "E": "Una propiedad que depende de la masa y el volumen del cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura es una magnitud escalar, lo que significa que solo tiene valor numérico y no dirección. Mide la energía térmica promedio de las partículas de un cuerpo, no la cantidad total de calor. No depende de la cantidad de sustancia, sino de la energía promedio de sus constituyentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_002",
+      "pregunta": "¿Cómo se relaciona la temperatura de un cuerpo con la energía de sus moléculas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A mayor temperatura, menor es la energía cinética promedio de sus moléculas.",
+        "B": "A mayor temperatura, mayor es la energía cinética promedio de sus moléculas.",
+        "C": "La temperatura no tiene relación con la energía cinética de las moléculas.",
+        "D": "La temperatura solo se relaciona con la energía potencial de las moléculas.",
+        "E": "A mayor temperatura, la energía cinética de las moléculas se vuelve cero."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Existe una relación directa entre la temperatura de un cuerpo y la energía cinética promedio de sus moléculas. Cuando la temperatura aumenta, las moléculas se mueven más rápido, lo que significa que su energía cinética promedio también aumenta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_003",
+      "pregunta": "Si un gas recibe calor del entorno, ¿cómo se considera el valor del calor ($Q$) según la convención de signos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Negativo ($-Q$)",
+        "B": "Positivo ($+Q$)",
+        "C": "Nulo ($Q=0$)",
+        "D": "Depende de la temperatura inicial.",
+        "E": "Igual al trabajo realizado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Según la convención de signos termodinámica, cuando un sistema (como un gas) recibe o consume calor, el valor de $Q$ se considera positivo ($+Q$), indicando una ganancia de energía en forma de calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_004",
+      "pregunta": "Si un agente externo realiza trabajo sobre un gas, ¿qué signo tiene el trabajo ($W$) según la convención establecida?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positivo ($+W$)",
+        "B": "Negativo ($-W$)",
+        "C": "Cero ($W=0$)",
+        "D": "Positivo si el gas se expande.",
+        "E": "Negativo si la temperatura aumenta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La convención de signos indica que si el trabajo se efectúa sobre el sistema (el gas), este se considera negativo ($-W$). Esto representa energía que el entorno añade al sistema en forma de trabajo, como en una compresión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_005",
+      "pregunta": "Cuando un cuerpo aumenta su temperatura, ¿qué le ocurre a su energía interna?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Disminuye.",
+        "B": "Se mantiene constante.",
+        "C": "Se convierte en energía potencial.",
+        "D": "Aumenta.",
+        "E": "Se vuelve cero."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía interna está directamente relacionada con la temperatura. Si la temperatura de un cuerpo aumenta, significa que sus partículas tienen más energía cinética promedio, lo que resulta en un aumento de su energía interna total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_006",
+      "pregunta": "¿Cuál es la definición de la energía interna de un sistema?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía cinética total de las partículas del sistema únicamente.",
+        "B": "La energía potencial de interacción entre las partículas del sistema únicamente.",
+        "C": "La suma de las energías cinéticas y potenciales de todas sus partículas constitutivas.",
+        "D": "La energía total que el sistema puede intercambiar como trabajo.",
+        "E": "La energía asociada exclusivamente a la temperatura del sistema."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía interna ($U$) es una propiedad extensiva de un sistema y se define como la suma de todas las formas de energía microscópica. Esto incluye la energía cinética del movimiento de traslación, rotación y vibración de las partículas, así como la energía potencial debida a las fuerzas de interacción entre ellas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_007",
+      "pregunta": "En el caso de un gas ideal, ¿de qué variable depende exclusivamente su energía interna?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Solo de su presión.",
+        "B": "Solo de su volumen.",
+        "C": "De su presión y volumen.",
+        "D": "Solo de su temperatura.",
+        "E": "Del número de moles y la presión."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una característica fundamental de un gas ideal es que sus partículas no interactúan entre sí, por lo que su energía potencial de interacción es nula. Por lo tanto, su energía interna es la suma de las energías cinéticas de sus partículas, la cual depende exclusivamente de la temperatura del gas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_008",
+      "pregunta": "Si un gas realiza trabajo sobre su entorno, como en una expansión, ¿qué signo tiene el trabajo ($W$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo ($+W$)",
+        "B": "Negativo ($-W$)",
+        "C": "Cero ($W=0$)",
+        "D": "Depende de si el proceso es reversible o no.",
+        "E": "Negativo si la temperatura baja."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "De acuerdo con la convención de signos, si el sistema (el gas) realiza trabajo sobre el entorno, el trabajo se considera positivo ($+W$). Esto representa una transferencia de energía desde el sistema hacia el exterior en forma de trabajo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_009",
+      "pregunta": "¿Qué indica la naturaleza estadística de la temperatura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la temperatura de un cuerpo aumenta con su masa.",
+        "B": "Que la temperatura es una propiedad que no depende de la cantidad de sustancia medida.",
+        "C": "Que solo se puede medir con instrumentos estadísticos.",
+        "D": "Que la temperatura es una magnitud vectorial.",
+        "E": "Que el cálculo de la temperatura siempre tiene un margen de error."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura es una magnitud estadística porque describe el estado promedio de energía de las partículas de un sistema. Por esta razón, es una propiedad intensiva; no depende de la cantidad de materia. Por ejemplo, un litro de agua hirviendo tiene la misma temperatura que diez litros de agua hirviendo, aunque la segunda contenga más energía térmica total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_010",
+      "pregunta": "Si un cuerpo disminuye su temperatura, ¿qué se puede afirmar sobre su energía interna?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumentó porque cedió calor.",
+        "B": "Se mantuvo constante.",
+        "C": "Perdió energía interna.",
+        "D": "Ganó energía interna.",
+        "E": "Su energía interna se transformó en trabajo positivo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía interna está directamente ligada a la temperatura. Una disminución en la temperatura implica una reducción en la energía cinética promedio de las moléculas del cuerpo, lo que se traduce en una pérdida o disminución de su energía interna total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_011",
+      "pregunta": "En la expresión para el cambio de la energía interna de un gas ideal, $$ \\Delta U = nC_v\\Delta T $$, ¿qué representa el término $n$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La constante de los gases ideales.",
+        "B": "El número de moléculas del gas.",
+        "C": "La capacidad calorífica a presión constante.",
+        "D": "El número de moles de un gas ideal.",
+        "E": "La densidad del gas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula $$ \\Delta U = nC_v\\Delta T $$, cada término tiene un significado específico: $\\Delta U$ es la variación de la energía interna, $C_v$ es el calor específico a volumen constante, $\\Delta T$ es la variación de la temperatura, y $n$ representa la cantidad de sustancia del gas, medida en moles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_012",
+      "pregunta": "Si un gas cede calor a su entorno, ¿cómo se considera el valor de $Q$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo ($+Q$)",
+        "B": "Nulo ($Q=0$)",
+        "C": "Igual al cambio de energía interna.",
+        "D": "Negativo ($-Q$)",
+        "E": "Positivo solo si la temperatura aumenta."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Según la convención de signos, cuando un sistema (el gas) cede, pierde o libera calor hacia el entorno, el valor del calor $Q$ se considera negativo ($-Q$). Esto indica una salida de energía del sistema en forma de calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_013",
+      "pregunta": "¿Cuál es la fórmula correcta que describe el cambio en la energía interna ($\\Delta U$) de un gas ideal en función de la variación de su temperatura ($\\Delta T$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$ \\Delta U = nC_p\\Delta T $$",
+        "B": "$$ \\Delta U = P\\Delta V $$",
+        "C": "$$ \\Delta U = nC_v\\Delta T $$",
+        "D": "$$ \\Delta U = Q - P\\Delta V $$",
+        "E": "$$ \\Delta U = nR\\Delta T $$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cambio en la energía interna de un gas ideal depende únicamente de su cambio de temperatura. La fórmula que relaciona estas cantidades es $$ \\Delta U = nC_v\\Delta T $$, donde $n$ es el número de moles, y $C_v$ es el calor específico molar a volumen constante. Las otras opciones representan otras relaciones termodinámicas: A) usa el calor específico a presión constante ($C_p$), B) y D) se relacionan con el trabajo y la primera ley, y E) se relaciona con la ley de los gases ideales pero no directamente con la energía interna de esta forma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_014",
+      "pregunta": "Un gas ideal está contenido en un recipiente rígido de volumen fijo. Si se le suministra calor, ¿qué afirmación es correcta acerca de su energía interna?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía interna disminuye porque el volumen es constante.",
+        "B": "La energía interna no cambia porque no hay cambio de volumen.",
+        "C": "La energía interna aumenta porque su temperatura aumenta.",
+        "D": "La energía interna aumenta porque la presión disminuye.",
+        "E": "La energía interna se mantiene constante pero la presión aumenta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para un gas ideal, la energía interna depende exclusivamente de la temperatura. Al suministrarle calor, su temperatura necesariamente aumentará. Como la energía interna ($U$) es directamente proporcional a la temperatura ($T$), un aumento en $T$ provoca un aumento en $U$. El hecho de que el volumen sea constante implica que no se realiza trabajo, pero no impide el cambio de energía interna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_069_015",
+      "pregunta": "Durante un proceso termodinámico, un gas se expande realizando trabajo sobre el entorno y, al mismo tiempo, libera calor. ¿Cuáles son los signos de $Q$ y $W$ respectivamente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$Q$ es positivo, $W$ es negativo.",
+        "B": "$Q$ es negativo, $W$ es positivo.",
+        "C": "$Q$ es positivo, $W$ es positivo.",
+        "D": "$Q$ es negativo, $W$ es negativo.",
+        "E": "$Q$ es cero, $W$ es positivo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Se deben aplicar las dos convenciones de signos: 1) Si el gas realiza trabajo (se expande), el trabajo ($W$) es positivo. 2) Si el gas libera o cede calor, el calor ($Q$) es negativo. Por lo tanto, los signos son $Q$ negativo y $W$ positivo, respectivamente.",
+      "imagen": null
+    }
+  ]
+}

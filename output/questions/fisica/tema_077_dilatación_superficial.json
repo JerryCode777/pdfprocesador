@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 77,
+  "total_temas": 137,
+  "titulo_tema": "Dilatación Superficial",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_077_001",
+      "pregunta": "¿Qué describe el fenómeno de la dilatación superficial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El aumento de la masa de un cuerpo al calentarse.",
+        "B": "El aumento de la longitud de un cuerpo en una sola dimensión.",
+        "C": "El aumento de la superficie o área de un cuerpo debido al incremento de su temperatura.",
+        "D": "La disminución del volumen de un cuerpo al enfriarse.",
+        "E": "El incremento en la energía cinética de las moléculas sin cambio dimensional."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La dilatación superficial es, por definición, el aumento en el área o superficie que experimenta un cuerpo, como una lámina o placa, cuando su temperatura se eleva. La opción B se refiere a la dilatación lineal y las otras opciones describen fenómenos diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_002",
+      "pregunta": "En el contexto de la dilatación superficial, ¿qué representa el símbolo $\\beta$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La superficie final del cuerpo.",
+        "B": "La variación total de la temperatura.",
+        "C": "El coeficiente de dilatación lineal.",
+        "D": "El coeficiente de dilatación superficial.",
+        "E": "El incremento de la superficie."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo $\\beta$ (beta) se utiliza para representar el coeficiente de dilatación superficial. Este coeficiente es una propiedad intrínseca de cada material que indica cuánto aumenta su área por cada grado de aumento en la temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_003",
+      "pregunta": "¿Cuál es la relación matemática que vincula el coeficiente de dilatación superficial ($\\beta$) con el coeficiente de dilatación lineal ($\\alpha$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\beta = \\frac{\\alpha}{2}$$",
+        "B": "$$\\beta = 2\\alpha$$",
+        "C": "$$\\beta = \\alpha^2$$",
+        "D": "$$\\beta = 3\\alpha$$",
+        "E": "$$\\beta = \\alpha$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El coeficiente de dilatación superficial ($\\beta$) es aproximadamente el doble del coeficiente de dilatación lineal ($\\alpha$) para un material isótropo. Esto se debe a que la superficie se expande en dos dimensiones (largo y ancho). La relación correcta es $$\\beta = 2\\alpha$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_004",
+      "pregunta": "La dilatación superficial se estudia principalmente en cuerpos como:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Gases contenidos en un recipiente.",
+        "B": "Líquidos como el mercurio o el alcohol.",
+        "C": "Alambres y varillas delgadas.",
+        "D": "Placas, planchas y láminas.",
+        "E": "Cubos y esferas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El fenómeno de la dilatación superficial es más relevante en cuerpos donde dos dimensiones (largo y ancho) son significativamente mayores que la tercera (espesor), como es el caso de placas, planchas y láminas. En alambres se estudia la dilatación lineal y en cubos o esferas, la volumétrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_005",
+      "pregunta": "¿Qué fórmula representa correctamente el cálculo del incremento de superficie ($\\Delta S$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\Delta S = S_0 \\alpha \\Delta T$$",
+        "B": "$$\\Delta S = S_f - S_0$$",
+        "C": "$$\\Delta S = S_0(1 + \\beta \\Delta T)$$",
+        "D": "$$\\Delta S = \\frac{S_0 \\beta}{\\Delta T}$$",
+        "E": "$$\\Delta S = L_0 \\alpha \\Delta T$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La variación o incremento de cualquier magnitud física, en este caso la superficie ($\\Delta S$), se define como la diferencia entre su valor final ($S_f$) y su valor inicial ($S_0$). Por lo tanto, $$\\Delta S = S_f - S_0$$. Otra fórmula para calcularlo es $$\\Delta S = S_0 \\beta \\Delta T$$, pero la pregunta pide la fórmula que lo representa a partir de sus estados inicial y final.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_006",
+      "pregunta": "¿Cómo se describe la relación entre el incremento de área ($\\Delta S$) y el área inicial ($S_0$) y el incremento de temperatura ($\\Delta T$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es inversamente proporcional al área inicial y directamente proporcional a la temperatura.",
+        "B": "Es directamente proporcional al área inicial e inversamente proporcional a la temperatura.",
+        "C": "Es independiente del área inicial y de la temperatura.",
+        "D": "Es directamente proporcional tanto al área inicial como al incremento de temperatura.",
+        "E": "Es proporcional al cuadrado del área inicial."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Experimentalmente se ha demostrado que el incremento de área ($\\Delta S$) es directamente proporcional tanto al área inicial ($S_0$) del cuerpo como al cambio en su temperatura ($\\Delta T$). Esta relación se expresa en la fórmula $$\\Delta S = S_0\\beta\\Delta T$$, donde $\\beta$ es la constante de proporcionalidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_007",
+      "pregunta": "La fórmula $$S_f = S_0(1 + \\beta\\Delta T)$$ permite calcular directamente:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La variación de la temperatura.",
+        "B": "El coeficiente de dilatación superficial.",
+        "C": "El incremento del área.",
+        "D": "La superficie final del cuerpo después de la dilatación.",
+        "E": "La superficie inicial del cuerpo antes de calentarse."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta fórmula es una reordenación de la ecuación fundamental de la dilatación superficial. Permite calcular directamente la superficie final ($S_f$) que tendrá un objeto si se conocen su superficie inicial ($S_0$), el coeficiente de dilatación superficial del material ($\\beta$) y la variación de temperatura ($\\Delta T$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la dilatación superficial y la dilatación lineal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La dilatación lineal solo ocurre en líquidos y la superficial en sólidos.",
+        "B": "La dilatación superficial implica un incremento de volumen y la lineal no.",
+        "C": "La dilatación superficial implica un incremento de área, mientras que la lineal implica un incremento de longitud.",
+        "D": "La dilatación lineal depende de la temperatura y la superficial no.",
+        "E": "No existe una diferencia fundamental, son el mismo fenómeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción clave radica en la dimensionalidad del cambio. La dilatación lineal se enfoca en el cambio en una sola dimensión (longitud), representada por la fórmula $$\\Delta L = L_0\\alpha\\Delta T$$. En cambio, la dilatación superficial se ocupa del cambio en dos dimensiones, resultando en un incremento del área total, representada por $$\\Delta S = S_0\\beta\\Delta T$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_009",
+      "pregunta": "Cuando un área o superficie se dilata, ¿qué ocurre con sus dimensiones de largo y ancho?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Solo el largo aumenta, el ancho permanece constante.",
+        "B": "Aumentan en la misma proporción.",
+        "C": "El largo aumenta y el ancho disminuye para conservar el área.",
+        "D": "Una dimensión aumenta el doble que la otra.",
+        "E": "Solo el ancho aumenta, el largo permanece constante."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la dilatación superficial de un material isótropo (con propiedades uniformes en todas las direcciones), la expansión ocurre de manera uniforme. Esto significa que tanto la dimensión del largo como la del ancho se incrementan en la misma proporción, lo que conduce a un aumento del área total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_010",
+      "pregunta": "En el fenómeno de la dilatación volumétrica, ¿cuál es la causa a nivel molecular que provoca la expansión del material?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un aumento en la masa de las moléculas.",
+        "B": "Una disminución en la distancia intermolecular.",
+        "C": "Un aumento en la energía cinética de las moléculas.",
+        "D": "Un cambio en la composición química del material.",
+        "E": "La fusión de las moléculas entre sí."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al aumentar la temperatura de un material, sus moléculas absorben energía y vibran con mayor amplitud. Este aumento en la energía cinética hace que las moléculas se separen más entre sí, ocupando un mayor espacio y resultando en una expansión del volumen total del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_011",
+      "pregunta": "Si para un material se conoce únicamente su coeficiente de dilatación lineal ($\\alpha$), ¿cómo se puede determinar su coeficiente de dilatación superficial ($\\beta$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Elevando $\\alpha$ al cuadrado.",
+        "B": "Dividiendo $\\alpha$ entre 2.",
+        "C": "Multiplicando $\\alpha$ por 3.",
+        "D": "Multiplicando $\\alpha$ por 2.",
+        "E": "Es imposible determinar $\\beta$ a partir de $\\alpha$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Existe una relación directa y simple entre los coeficientes de dilatación. El coeficiente de dilatación superficial ($\\beta$) es dos veces el coeficiente de dilatación lineal ($\\alpha$), expresado como $$\\beta = 2\\alpha$$. Por lo tanto, conociendo $\\alpha$, se puede calcular $\\beta$ multiplicándolo por 2.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_012",
+      "pregunta": "En la ecuación $$S_f - S_0 = S_0\\beta\\Delta T$$, ¿qué representa el término $S_f - S_0$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El área final dividida por el área inicial.",
+        "B": "La temperatura final del objeto.",
+        "C": "El coeficiente de dilatación superficial.",
+        "D": "La variación o incremento total de la superficie ($\\Delta S$).",
+        "E": "El producto del área inicial y la temperatura."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término $S_f - S_0$ representa la diferencia entre la superficie final ($S_f$) y la superficie inicial ($S_0$). Esta diferencia es, por definición, la variación o el incremento de la superficie, que se denota con el símbolo $\\Delta S$. La ecuación completa muestra que este incremento depende del área inicial, el coeficiente y el cambio de temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_013",
+      "pregunta": "Dada la relación $$\\Delta S = S_0\\beta\\Delta T$$, si el área inicial $S_0$ de una placa metálica se duplica, manteniendo constantes $\\beta$ y $\\Delta T$, ¿qué le sucede al incremento de área $\\Delta S$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se reduce a la mitad.",
+        "B": "Permanece igual.",
+        "C": "Se cuadruplica.",
+        "D": "Se duplica.",
+        "E": "Se reduce a un cuarto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula $$\\Delta S = S_0\\beta\\Delta T$$ muestra una relación de proporcionalidad directa entre el incremento de área ($\\Delta S$) y el área inicial ($S_0$). Si $S_0$ se multiplica por 2, y los otros factores ($\\beta$ y $\\Delta T$) no cambian, entonces $\\Delta S$ también se multiplicará por 2. Por lo tanto, el incremento de área se duplica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_014",
+      "pregunta": "Una lámina cuadrada de un material con coeficiente de dilatación lineal $\\alpha$ se somete a un aumento de temperatura $\\Delta T$. ¿Cómo se puede expresar el incremento de su área ($\\Delta S$) en términos de $\\alpha$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\Delta S = S_0 \\alpha^2 \\Delta T$$",
+        "B": "$$\\Delta S = S_0 (\\alpha/2) \\Delta T$$",
+        "C": "$$\\Delta S = S_0 (2\\alpha) \\Delta T$$",
+        "D": "$$\\Delta S = S_0 (3\\alpha) \\Delta T$$",
+        "E": "$$\\Delta S = S_0 \\alpha \\Delta T$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula para el incremento de área es $$\\Delta S = S_0 \\beta \\Delta T$$. Sabemos que el coeficiente de dilatación superficial ($\\beta$) se relaciona con el lineal ($\\alpha$) mediante la expresión $$\\beta = 2\\alpha$$. Sustituyendo esta relación en la primera fórmula, obtenemos $$\\Delta S = S_0 (2\\alpha) \\Delta T$$. Esto permite calcular la dilatación superficial usando el coeficiente lineal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_077_015",
+      "pregunta": "Para un proceso de manufactura, se necesita conocer el área inicial ($S_0$) que debe tener una placa para que, tras calentarla en $\\Delta T$, alcance un área final deseada $S_f$. ¿Qué expresión matemática, derivada de las fórmulas de dilatación, es la correcta para calcular $S_0$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$S_0 = S_f (1 + \\beta \\Delta T)$$",
+        "B": "$$S_0 = S_f - \\beta \\Delta T$$",
+        "C": "$$S_0 = \\frac{S_f}{1 + \\beta \\Delta T}$$",
+        "D": "$$S_0 = \\frac{1 + \\beta \\Delta T}{S_f}$$",
+        "E": "$$S_0 = S_f (1 - \\beta \\Delta T)$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Partimos de la fórmula para la superficie final: $$S_f = S_0(1 + \\beta\\Delta T)$$. Para despejar el área inicial ($S_0$), debemos dividir ambos lados de la ecuación por el término $(1 + \\beta\\Delta T)$. Esto nos da la expresión correcta para calcular el área inicial requerida: $$S_0 = \\frac{S_f}{1 + \\beta \\Delta T}$$.",
+      "imagen": null
+    }
+  ]
+}

@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_235_001",
-      "pregunta": "¿Qué ángulo aproximado se forma entre los ejes de los orbitales híbridos sp³?",
+      "pregunta": "¿Cuál es el ángulo aproximado que se forma entre los ejes de los orbitales híbridos sp³?",
       "dificultad": 1,
       "opciones": {
         "A": "$$90^\\circ$$",
-        "B": "$$109.5^\\circ$$",
-        "C": "$$120^\\circ$$",
-        "D": "$$180^\\circ$$",
+        "B": "$$120^\\circ$$",
+        "C": "$$180^\\circ$$",
+        "D": "$$109.5^\\circ$$",
         "E": "$$60^\\circ$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La hibridación sp³ produce cuatro orbitales híbridos que se orientan hacia los vértices de un tetraedro para minimizar la repulsión electrónica. El ángulo característico de esta geometría tetraédrica es de aproximadamente $$109.5^\\circ$$.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los cuatro orbitales híbridos sp³ se orientan espacialmente hacia los vértices de un tetraedro para minimizar la repulsión electrónica. Esta disposición geométrica resulta en un ángulo de aproximadamente $$109.5^\\circ$$ entre cada par de orbitales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_235_002",
-      "pregunta": "¿Cuántos orbitales híbridos sp² se forman a partir de la combinación de orbitales atómicos?",
+      "pregunta": "¿Qué porcentaje de carácter \"s\" y \"p\" posee cada orbital híbrido sp²?",
       "dificultad": 1,
+      "opciones": {
+        "A": "50% de carácter \"s\" y 50% de carácter \"p\"",
+        "B": "25% de carácter \"s\" y 75% de carácter \"p\"",
+        "C": "33% de carácter \"s\" y 67% de carácter \"p\"",
+        "D": "67% de carácter \"s\" y 33% de carácter \"p\"",
+        "E": "100% de carácter \"p\""
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La hibridación sp² resulta de la combinación de un orbital \"s\" y dos orbitales \"p\". Por lo tanto, el carácter se distribuye entre los tres orbitales originales, dando a cada orbital híbrido sp² un 33% de carácter \"s\" ($$\\frac{1}{3}$$) y un 67% de carácter \"p\" ($$\\frac{2}{3}$$), aproximadamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_235_003",
+      "pregunta": "¿Cuál es el ángulo que forman entre sí los dos orbitales híbridos sp?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$109.5^\\circ$$",
+        "B": "$$120^\\circ$$",
+        "C": "$$180^\\circ$$",
+        "D": "$$90^\\circ$$",
+        "E": "$$360^\\circ$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los dos orbitales híbridos sp se orientan en direcciones opuestas a lo largo de un mismo eje para maximizar la distancia entre ellos. Esta disposición lineal resulta en un ángulo de $$180^\\circ$$ entre sus lóbulos principales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_235_004",
+      "pregunta": "¿Qué tipo de enlace químico, además de los sencillos y dobles, puede formar el carbono al compartir seis electrones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Enlace iónico",
+        "B": "Enlace metálico",
+        "C": "Enlace cuádruple",
+        "D": "Enlace triple",
+        "E": "Puente de hidrógeno"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El carbono tiene la capacidad de formar un enlace triple mediante la compartición de un total de seis electrones con otro átomo. Este tipo de enlace se explica mediante la hibridación sp.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_235_005",
+      "pregunta": "¿Cuál es la composición porcentual de carácter \"s\" y \"p\" en cada orbital híbrido sp?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "33% de carácter \"s\" y 67% de carácter \"p\"",
+        "B": "50% de carácter \"s\" y 50% de carácter \"p\"",
+        "C": "25% de carácter \"s\" y 75% de carácter \"p\"",
+        "D": "75% de carácter \"s\" y 25% de carácter \"p\"",
+        "E": "100% de carácter \"s\""
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La hibridación sp se forma por la mezcla de un orbital atómico \"s\" y un orbital atómico \"p\". Como resultado, los dos orbitales híbridos sp resultantes tienen una composición equitativa: 50% de carácter \"s\" y 50% de carácter \"p\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_235_006",
+      "pregunta": "En el proceso de hibridación sp², ¿cuántos orbitales 2p permanecen sin hibridar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cero",
+        "B": "Uno",
+        "C": "Dos",
+        "D": "Tres",
+        "E": "Cuatro"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La hibridación sp² implica la combinación de un orbital 2s con dos orbitales 2p. Dado que originalmente hay tres orbitales 2p (2px, 2py, 2pz), uno de ellos queda sin participar en la hibridación. Este orbital \"p\" puro es crucial para la formación de enlaces pi.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_235_007",
+      "pregunta": "¿Cuál es la orientación espacial del orbital 2p que no se hibrida en la hibridación sp²?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralelo al plano de los orbitales sp²",
+        "B": "Contenido en el mismo plano que los orbitales sp²",
+        "C": "Perpendicular al plano de los orbitales sp²",
+        "D": "Forma un ángulo de $$120^\\circ$$ con uno de los orbitales sp²",
+        "E": "No tiene una orientación definida"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los tres orbitales híbridos sp² se disponen en un plano trigonal. El orbital 2p que no participa en la hibridación se orienta de manera perpendicular a este plano, con un lóbulo por encima y otro por debajo del mismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_235_008",
+      "pregunta": "¿Hacia qué forma geométrica se dirigen los ejes de los orbitales híbridos sp³?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los vértices de un cuadrado plano",
+        "B": "Una línea recta",
+        "C": "Los vértices de un tetraedro",
+        "D": "Un plano trigonal",
+        "E": "Los vértices de una pirámide trigonal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La hibridación sp³ genera cuatro orbitales híbridos idénticos. Para minimizar la repulsión electrostática entre ellos, adoptan una disposición tridimensional en la que sus ejes apuntan hacia los vértices de un tetraedro regular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_235_009",
+      "pregunta": "¿Cuántos orbitales híbridos se producen como resultado de la hibridación sp²?",
+      "dificultad": 2,
       "opciones": {
         "A": "Uno",
         "B": "Dos",
         "C": "Tres",
         "D": "Cuatro",
-        "E": "Ninguno"
+        "E": "Cinco"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La hibridación sp² resulta de la mezcla de un orbital atómico 's' y dos orbitales atómicos 'p'. Esto da como resultado la formación de tres orbitales híbridos sp² equivalentes en energía y forma.",
+      "explicacion": "La hibridación sp² es el resultado de la mezcla de un orbital \"s\" y dos orbitales \"p\". El número de orbitales híbridos formados es siempre igual al número de orbitales atómicos que se combinan, por lo que se generan tres orbitales híbridos sp².",
       "imagen": null
     },
     {
-      "id_temporal": "quimica_235_003",
-      "pregunta": "¿Cuál es el ángulo aproximado que forman entre sí los tres orbitales híbridos sp²?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$$109.5^\\circ$$",
-        "B": "$$90^\\circ$$",
-        "C": "$$180^\\circ$$",
-        "D": "$$120^\\circ$$",
-        "E": "$$360^\\circ$$"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "Los tres orbitales híbridos sp² se disponen en un mismo plano y se orientan de tal manera que la separación entre ellos sea máxima, lo que da lugar a una geometría trigonal plana con ángulos de enlace de aproximadamente $$120^\\circ$$.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_235_004",
-      "pregunta": "¿Qué ángulo forman los lóbulos principales de los dos orbitales híbridos sp entre sí?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$$90^\\circ$$",
-        "B": "$$109.5^\\circ$$",
-        "C": "$$120^\\circ$$",
-        "D": "$$180^\\circ$$",
-        "E": "$$270^\\circ$$"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "La hibridación sp genera dos orbitales híbridos que se orientan en direcciones opuestas a lo largo de un mismo eje para minimizar la repulsión. Esta disposición lineal resulta en un ángulo de $$180^\\circ$$ entre ellos.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_235_005",
-      "pregunta": "¿Qué porcentaje de carácter 's' y 'p' tiene un orbital híbrido sp?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "33% 's' y 67% 'p'",
-        "B": "25% 's' y 75% 'p'",
-        "C": "50% 's' y 50% 'p'",
-        "D": "67% 's' y 33% 'p'",
-        "E": "100% 's' y 0% 'p'"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "Un orbital híbrido sp se forma por la combinación de un orbital 's' y un orbital 'p'. Por lo tanto, el carácter de los orbitales originales se distribuye equitativamente, resultando en un 50% de carácter 's' y un 50% de carácter 'p' para cada uno de los dos orbitales híbridos sp.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_235_006",
-      "pregunta": "En la hibridación sp², ¿cuál es la orientación del orbital 2p que no se hibrida con respecto al plano formado por los orbitales sp²?",
+      "id_temporal": "quimica_235_010",
+      "pregunta": "Durante la formación de orbitales híbridos sp a partir de los orbitales del segundo nivel de energía, ¿cuántos orbitales 2p permanecen sin cambios?",
       "dificultad": 2,
       "opciones": {
-        "A": "Paralelo al plano",
-        "B": "A un ángulo de $$45^\\circ$$ del plano",
-        "C": "Contenido dentro del plano",
-        "D": "Perpendicular al plano",
-        "E": "No tiene una orientación definida"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "En la hibridación sp², los tres orbitales híbridos sp² se encuentran en un plano (geometría trigonal plana). El orbital 2p que no participa en la hibridación se mantiene en su forma original y se orienta de manera perpendicular a este plano, lo que le permite formar enlaces π (pi).",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_235_007",
-      "pregunta": "En una hibridación sp, ¿cuántos orbitales 2p originales permanecen sin hibridar?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Ninguno",
+        "A": "Cero",
         "B": "Uno",
         "C": "Dos",
         "D": "Tres",
         "E": "Cuatro"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La hibridación sp implica la mezcla del orbital 2s con solo uno de los tres orbitales 2p. Como resultado, los otros dos orbitales 2p no participan en la hibridación y permanecen en su estado original, disponibles para formar enlaces π (pi).",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_235_008",
-      "pregunta": "¿Cuál es la composición porcentual de carácter 's' y 'p' para cada orbital en una hibridación sp²?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "50% 's' y 50% 'p'",
-        "B": "25% 's' y 75% 'p'",
-        "C": "75% 's' y 25% 'p'",
-        "D": "33% 's' y 67% 'p'",
-        "E": "100% 'p' y 0% 's'"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "La hibridación sp² combina un orbital 's' (una parte) y dos orbitales 'p' (dos partes), para un total de tres partes. Al distribuir el carácter, cada orbital híbrido sp² tiene aproximadamente $$1/3$$ de carácter 's' (33%) y $$2/3$$ de carácter 'p' (67%).",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_235_009",
-      "pregunta": "La orientación de los ejes de los cuatro orbitales híbridos sp³ apunta hacia los vértices de ¿qué figura geométrica?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Un cuadrado plano",
-        "B": "Una pirámide trigonal",
-        "C": "Un tetraedro",
-        "D": "Un octaedro",
-        "E": "Una línea recta"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "Los cuatro orbitales sp³ se repelen entre sí para adoptar una disposición espacial que minimice la energía. Esta disposición corresponde a los vértices de un tetraedro, una figura geométrica tridimensional con cuatro caras triangulares.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_235_010",
-      "pregunta": "¿Cuál de las siguientes configuraciones electrónicas representa correctamente un átomo con hibridación sp³ y cuatro orbitales híbridos semillenos?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "$$1s^2 2s^2 2p^4$$",
-        "B": "$$1s^2 (2sp^2)^3 (2p)^1$$",
-        "C": "$$1s^2 (2sp)^2 (2p)^2$$",
-        "D": "$$1s^2 (2sp^3)^1 (2sp^3)^1 (2sp^3)^1 (2sp^3)^1$$",
-        "E": "$$1s^2 (2sp^3)^4$$"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "Esta configuración muestra correctamente el nivel de energía 1s completo ($$1s^2$$) y luego los cuatro orbitales híbridos sp³, cada uno ocupado por un solo electrón (indicado por el superíndice 1). Esto representa un estado excitado y hibridado listo para formar cuatro enlaces covalentes simples.",
+      "explicacion": "La hibridación sp combina un orbital 2s y solo uno de los tres orbitales 2p. Por lo tanto, los otros dos orbitales 2p originales no participan en la hibridación y permanecen en su estado no hibridado, disponibles para formar enlaces pi.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_235_011",
-      "pregunta": "El modelo de hibridación sp es necesario para explicar la formación de un tipo de enlace específico en el que se comparten seis electrones. ¿Cuál es este enlace?",
+      "pregunta": "¿Cuál es la disposición geométrica de los tres orbitales híbridos sp²?",
       "dificultad": 2,
       "opciones": {
-        "A": "Enlace iónico",
-        "B": "Enlace sencillo",
-        "C": "Enlace doble",
-        "D": "Enlace triple",
-        "E": "Enlace metálico"
+        "A": "Lineal, con ángulos de $$180^\\circ$$",
+        "B": "Tetraédrica, con ángulos de $$109.5^\\circ$$",
+        "C": "Plana, con ángulos de $$120^\\circ$$",
+        "D": "Octaédrica, con ángulos de $$90^\\circ$$",
+        "E": "Piramidal, con ángulos variables"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Un enlace triple consiste en un enlace sigma (formado por el solapamiento de orbitales híbridos sp) y dos enlaces pi (formados por el solapamiento de los dos orbitales p no hibridados). Cada enlace covalente implica compartir dos electrones, por lo que tres enlaces suman un total de seis electrones compartidos.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los tres orbitales sp² se ubican en un mismo plano y se separan lo máximo posible para minimizar la repulsión. Esta disposición corresponde a una geometría trigonal plana, con ángulos de aproximadamente $$120^\\circ$$ entre ellos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_235_012",
-      "pregunta": "¿Cómo se describe la orientación espacial de los dos orbitales híbridos sp?",
+      "pregunta": "La configuración electrónica hibridada $$1s^2 (2sp^3)^1 (2sp^3)^1 (2sp^3)^1 (2sp^3)^1$$ representa un átomo con:",
       "dificultad": 2,
       "opciones": {
-        "A": "Forman una T en el espacio",
-        "B": "Apuntan a los vértices de un triángulo",
-        "C": "Comparten un eje común y sus lóbulos apuntan en direcciones opuestas",
-        "D": "Son perpendiculares entre sí",
-        "E": "Forman un ángulo de $$109.5^\\circ$$"
+        "A": "Tres orbitales híbridos semillenos",
+        "B": "Dos orbitales híbridos semillenos y dos orbitales p puros",
+        "C": "Un orbital híbrido lleno y tres vacíos",
+        "D": "Cuatro orbitales híbridos semillenos",
+        "E": "Cuatro orbitales p puros semillenos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los dos orbitales sp se alinean a lo largo de un mismo eje, pero sus lóbulos principales, que son los que participan en el enlace, se orientan en direcciones opuestas. Esto da como resultado una geometría lineal con un ángulo de $$180^\\circ$$ entre ellos.",
+      "respuesta_correcta": "D",
+      "explicacion": "La notación $$(2sp^3)^1$$ indica que cada uno de los cuatro orbitales híbridos sp³ contiene un solo electrón, es decir, están semillenos. Esta configuración permite al átomo formar cuatro enlaces covalentes sencillos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_235_013",
-      "pregunta": "¿Cuál de las siguientes afirmaciones compara correctamente el número de orbitales 'p' no hibridados en los tres tipos de hibridación del carbono (sp, sp², sp³)?",
+      "pregunta": "Si un átomo de carbono sufre una hibridación sp², ¿cuántos orbitales en total (híbridos y no híbridos) del segundo nivel de energía están disponibles para formar enlaces?",
       "dificultad": 3,
       "opciones": {
-        "A": "sp tiene 1, sp² tiene 2, sp³ tiene 3",
-        "B": "sp tiene 2, sp² tiene 1, sp³ tiene 0",
-        "C": "sp tiene 0, sp² tiene 1, sp³ tiene 2",
-        "D": "sp tiene 3, sp² tiene 2, sp³ tiene 1",
-        "E": "Todos tienen el mismo número de orbitales 'p' no hibridados"
+        "A": "Uno",
+        "B": "Dos",
+        "C": "Tres",
+        "D": "Cuatro",
+        "E": "Cinco"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El número de orbitales 'p' no hibridados depende de cuántos se usen en la hibridación: en sp (1s + 1p), se usan uno de los tres 'p', por lo que quedan 2 no hibridados. En sp² (1s + 2p), se usan dos 'p', quedando 1 no hibridado. En sp³ (1s + 3p), se usan los tres orbitales 'p', por lo que quedan 0 no hibridados.",
+      "respuesta_correcta": "D",
+      "explicacion": "En la hibridación sp², se forman tres orbitales híbridos sp² a partir de un orbital 2s y dos 2p. Además, un orbital 2p permanece sin hibridar. Por lo tanto, el número total de orbitales disponibles para el enlace en el segundo nivel es $$3 (sp^2) + 1 (p) = 4$$ orbitales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_235_014",
-      "pregunta": "Analizando la hibridación sp, sp² y sp³, ¿qué relación existe entre el porcentaje de carácter 's' de un orbital híbrido y el ángulo de enlace que forma?",
+      "pregunta": "¿Qué tipo de hibridación se caracteriza por tener dos orbitales híbridos colineales, dos orbitales \"p\" sin hibridar y se asocia a la formación de enlaces triples?",
       "dificultad": 3,
       "opciones": {
-        "A": "A mayor carácter 's', menor es el ángulo de enlace.",
-        "B": "A mayor carácter 's', mayor es el ángulo de enlace.",
-        "C": "El carácter 's' no tiene relación con el ángulo de enlace.",
-        "D": "La relación es aleatoria y depende de la molécula.",
-        "E": "Solo el carácter 'p' determina el ángulo de enlace."
+        "A": "Hibridación sp",
+        "B": "Hibridación sp²",
+        "C": "Hibridación sp³",
+        "D": "Hibridación s²p",
+        "E": "Hibridación p³"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Existe una correlación directa: a medida que aumenta el porcentaje de carácter 's', el ángulo de enlace se hace mayor. Hibridación sp³ (25% s) tiene $$109.5^\\circ$$. Hibridación sp² (33% s) tiene $$120^\\circ$$. Hibridación sp (50% s) tiene $$180^\\circ$$. Un mayor carácter 's' significa que los electrones están más cerca del núcleo, lo que aumenta la repulsión entre los orbitales y expande el ángulo.",
+      "respuesta_correcta": "A",
+      "explicacion": "Este conjunto de características describe de forma única la hibridación sp. Se forman dos orbitales sp que se alinean a $$180^\\circ$$ (colineales), dejando dos orbitales \"p\" puros disponibles. Esta configuración es la que permite la formación de un enlace sigma y dos enlaces pi, constituyendo un enlace triple.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_235_015",
-      "pregunta": "La configuración electrónica hibridada $$1s^2 (2sp^3)^1 (2sp^3)^1 (2sp^3)^1 (2sp^3)^1$$ implica que un átomo está energéticamente preparado para:",
+      "pregunta": "Comparando las hibridaciones sp³, sp² y sp, ¿cuál de ellas presenta el mayor porcentaje de carácter \"s\" en sus orbitales híbridos y qué consecuencia geométrica principal tiene?",
       "dificultad": 3,
       "opciones": {
-        "A": "Formar un enlace triple y tener un par solitario.",
-        "B": "Formar dos enlaces dobles.",
-        "C": "Formar cuatro enlaces simples equivalentes.",
-        "D": "Formar un enlace doble y dos enlaces simples.",
-        "E": "Permanecer inerte y no formar ningún enlace."
+        "A": "sp³; geometría tetraédrica con ángulos de $$109.5^\\circ$$",
+        "B": "sp²; geometría trigonal plana con ángulos de $$120^\\circ$$",
+        "C": "sp; geometría lineal con ángulos de $$180^\\circ$$",
+        "D": "sp³; geometría lineal con ángulos de $$180^\\circ$$",
+        "E": "sp; geometría trigonal plana con ángulos de $$120^\\circ$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Esta configuración muestra cuatro orbitales híbridos sp³ degenerados (de igual energía), cada uno con un solo electrón. Esta disposición es ideal para formar cuatro enlaces σ (sigma) o simples, que serán equivalentes en longitud y energía, orientados en una geometría tetraédrica. Las otras opciones de enlace (dobles, triples) requieren hibridaciones sp² o sp, que dejan orbitales p sin hibridar.",
+      "explicacion": "El porcentaje de carácter \"s\" es: sp³ (25%), sp² (33%) y sp (50%). La hibridación sp tiene el mayor carácter \"s\". Un mayor carácter \"s\" implica que los orbitales híbridos son más cortos y están más cerca del núcleo. Para minimizar la repulsión en este estado, los dos orbitales sp se orientan lo más lejos posible el uno del otro, resultando en una geometría lineal con un ángulo de $$180^\\circ$$ entre ellos.",
       "imagen": null
     }
   ]

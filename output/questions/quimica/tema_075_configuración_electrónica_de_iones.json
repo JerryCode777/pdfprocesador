@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_075_001",
-      "pregunta": "¿Cuál es el primer paso para determinar la configuración electrónica de un anión?",
+      "pregunta": "¿Cuál es el primer paso que se debe realizar para determinar la configuración electrónica de un anión?",
       "dificultad": 1,
       "opciones": {
-        "A": "Realizar la configuración del átomo neutro.",
-        "B": "Calcular el número total de electrones sumando los ganados.",
-        "C": "Quitar los electrones correspondientes a la carga del último nivel.",
-        "D": "Identificar el número de protones en el núcleo.",
-        "E": "Distribuir únicamente los electrones del átomo neutro."
+        "A": "Realizar la configuración electrónica del átomo neutro.",
+        "B": "Quitar los electrones indicados por la carga del último nivel de energía.",
+        "C": "Calcular el número total de electrones, sumando los electrones del átomo neutro más los ganados.",
+        "D": "Identificar el último nivel de energía del átomo neutro.",
+        "E": "Restar el número de electrones ganados al número atómico."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para un anión, el procedimiento inicia calculando el número total de electrones. Esto se hace tomando los electrones del átomo neutro y sumándole la cantidad de electrones ganados, que corresponde a la carga negativa del anión. Una vez obtenido este total, se procede a realizar la distribución electrónica.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para configurar un anión, el procedimiento correcto comienza por determinar el número total de electrones que posee el ion. Esto se logra sumando los electrones del átomo en su estado neutro y la cantidad de electrones que ha ganado para formar el anión. Posteriormente, se distribuye este nuevo total de electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_002",
-      "pregunta": "¿Cuál es el primer paso que se debe seguir para establecer la configuración electrónica de un catión?",
+      "pregunta": "Al determinar la configuración electrónica de un catión, ¿cuál es el paso inicial requerido?",
       "dificultad": 1,
       "opciones": {
-        "A": "Sumar los electrones perdidos al total del átomo neutro.",
+        "A": "Calcular el número total de electrones restando la carga y luego distribuir.",
         "B": "Realizar la configuración electrónica del átomo neutro.",
-        "C": "Calcular el número de electrones del ion y luego distribuirlos.",
-        "D": "Quitar electrones del nivel de menor energía.",
-        "E": "Añadir electrones al último nivel de energía."
+        "C": "Sumar los electrones que corresponden a la carga positiva.",
+        "D": "Quitar electrones directamente del último subnivel que fue llenado.",
+        "E": "Realizar la configuración del anión correspondiente primero."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El procedimiento para un catión comienza realizando la configuración electrónica completa del átomo en su estado neutro. Solo después de haber establecido esta configuración base, se procede a quitar los electrones según la carga positiva del ion.",
+      "explicacion": "El método para determinar la configuración de un catión establece que el primer paso fundamental es escribir la configuración electrónica completa del átomo en su estado neutro. Solo después de tener esta configuración base se procede a quitar los electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_003",
-      "pregunta": "En la configuración de un anión, ¿cómo se determina el número de electrones que se van a distribuir?",
+      "pregunta": "¿Cómo se calcula el número total de electrones ($$e^-_{total}$$) para la configuración de un anión?",
       "dificultad": 1,
       "opciones": {
-        "A": "Se usan solo los electrones ganados.",
-        "B": "Se restan los electrones ganados a los del átomo neutro.",
-        "C": "Se usan solo los electrones del átomo neutro.",
-        "D": "Se suman los electrones del átomo neutro y los electrones ganados.",
-        "E": "Se distribuyen los electrones del átomo neutro y luego se añaden los extra."
+        "A": "$$e^-_{total} = e^-_{átomo neutro} - e^-_{ganados}$$",
+        "B": "$$e^-_{total} = e^-_{átomo neutro} + e^-_{ganados}$$",
+        "C": "$$e^-_{total} = e^-_{ganados}$$",
+        "D": "$$e^-_{total} = \text{número de protones} - e^-_{ganados}$$",
+        "E": "$$e^-_{total} = e^-_{átomo neutro}$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para un anión, el total de electrones a distribuir se obtiene sumando los electrones que tiene el átomo en estado neutro más la cantidad de electrones que ha ganado para formar el ion con carga negativa. La configuración se realiza con este nuevo total de electrones.",
+      "respuesta_correcta": "B",
+      "explicacion": "Un anión es una especie química que ha ganado electrones. Por lo tanto, para obtener su número total de electrones, es necesario sumar los electrones que el átomo tenía en estado neutro a los electrones adicionales que ha aceptado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_004",
-      "pregunta": "Al formar la configuración electrónica de un catión, ¿de dónde se deben quitar los electrones?",
+      "pregunta": "Una vez que se tiene la configuración del átomo neutro, ¿de dónde se deben quitar los electrones para formar la configuración de un catión?",
       "dificultad": 1,
       "opciones": {
-        "A": "Del primer nivel de energía.",
-        "B": "De los orbitales de menor energía.",
-        "C": "Del último nivel y los de mayor energía.",
-        "D": "De manera aleatoria de cualquier orbital.",
-        "E": "Del núcleo del átomo."
+        "A": "Del primer nivel de energía ($$n=1$$).",
+        "B": "Del subnivel con la menor energía.",
+        "C": "De cualquier orbital de la capa de valencia.",
+        "D": "Del último nivel y de los subniveles de mayor energía dentro de ese nivel.",
+        "E": "Del orbital que fue llenado más recientemente."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Una vez que se tiene la configuración del átomo neutro, los electrones para formar un catión se quitan comenzando por aquellos que se encuentran en el último nivel (el nivel de energía más alto) y, dentro de ese nivel, los de mayor energía.",
+      "respuesta_correcta": "D",
+      "explicacion": "La regla específica para la formación de cationes indica que los electrones deben ser removidos comenzando por el nivel de energía más externo (el que tiene el número cuántico principal $n$ más alto) y, dentro de ese nivel, de los orbitales que posean la mayor energía.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_005",
-      "pregunta": "¿Qué describe correctamente el proceso general para la configuración electrónica de un catión?",
+      "pregunta": "¿Qué acción específica se realiza sobre la configuración del átomo neutro para obtener la configuración de un catión con carga $$q+$$?",
       "dificultad": 1,
       "opciones": {
-        "A": "Sumar electrones al átomo neutro y luego configurar.",
-        "B": "Configurar el átomo neutro y luego quitar electrones del último nivel.",
-        "C": "Calcular electrones del ion y distribuir directamente.",
-        "D": "Configurar el átomo neutro y luego quitar electrones del primer nivel.",
-        "E": "Sumar protones y electrones y luego configurar."
+        "A": "Se añaden $q$ electrones al último nivel.",
+        "B": "Se quitan $q$ electrones siguiendo las reglas establecidas.",
+        "C": "Se reorganizan todos los electrones en nuevos orbitales.",
+        "D": "Se suman $q$ protones al núcleo del átomo.",
+        "E": "Se calcula un nuevo total de electrones y se realiza una nueva distribución desde cero."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El método establecido para un catión es un proceso de dos pasos: primero, se escribe la configuración electrónica del átomo neutro, y segundo, se eliminan los electrones que indica la carga positiva, comenzando desde el nivel de energía más externo.",
+      "explicacion": "Después de obtener la configuración del átomo neutro, el paso para configurar un catión es quitar un número de electrones igual a su carga positiva ($q$), comenzando por el último nivel de energía y los subniveles de mayor energía.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_006",
-      "pregunta": "¿Cuál es la diferencia fundamental en el punto de partida al configurar un anión en comparación con un catión?",
+      "pregunta": "¿Cuál es la diferencia clave en el procedimiento para establecer la configuración de un anión en comparación con la de un catión?",
       "dificultad": 2,
       "opciones": {
-        "A": "Para el anión se suman electrones al final; para el catión se quitan al principio.",
-        "B": "Para el anión se calcula un nuevo total de electrones primero; para el catión se parte de la configuración del átomo neutro.",
-        "C": "No hay ninguna diferencia fundamental en el punto de partida.",
-        "D": "Para el catión se suman protones; para el anión se suman electrones.",
-        "E": "Para el anión se quitan electrones del último nivel; para el catión se añaden al primero."
+        "A": "Para el anión se suman electrones al final del proceso; para el catión se restan al principio.",
+        "B": "No existe ninguna diferencia fundamental en los procedimientos.",
+        "C": "Para el catión se debe configurar primero el átomo neutro, mientras que para el anión se calcula primero el número total de electrones.",
+        "D": "Para el anión se restan electrones, mientras que para el catión se suman.",
+        "E": "Para el catión se ignora el último nivel de energía, mientras que para el anión es el foco principal."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La diferencia clave radica en el primer paso. Para un anión, se recalcula el número total de electrones antes de escribir cualquier configuración. Para un catión, el primer paso es escribir la configuración completa del átomo neutro, y la modificación (quitar electrones) ocurre después.",
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia metodológica es crucial: para un anión, el ajuste de electrones (suma) se hace al principio, calculando un nuevo total para luego distribuirlo. En cambio, para un catión, el ajuste (resta) se hace al final, modificando la configuración previamente establecida del átomo neutro.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_007",
-      "pregunta": "En el procedimiento para un catión, ¿en qué momento se eliminan los electrones indicados por la carga?",
+      "pregunta": "¿Por qué es fundamental realizar primero la configuración del átomo neutro al determinar la de un catión?",
       "dificultad": 2,
       "opciones": {
-        "A": "Antes de escribir cualquier configuración.",
-        "B": "Durante la distribución de los electrones del átomo neutro.",
-        "C": "Después de haber realizado la configuración electrónica completa del átomo neutro.",
-        "D": "Se eliminan del conteo inicial y luego se configura.",
-        "E": "Se eliminan del nivel de energía más bajo."
+        "A": "Para poder sumar la carga positiva al número de electrones.",
+        "B": "Para identificar correctamente el último nivel de energía, del cual se deben quitar los electrones.",
+        "C": "Es un paso opcional que no afecta el resultado final.",
+        "D": "Porque los cationes y los átomos neutros siempre comparten la misma configuración electrónica.",
+        "E": "Para verificar el número de protones en el núcleo."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La eliminación de electrones para formar un catión es el último paso del proceso. Primero, es indispensable tener la configuración electrónica del átomo neutro como referencia, y a partir de ella, se retiran los electrones del nivel más externo.",
+      "respuesta_correcta": "B",
+      "explicacion": "Escribir la configuración del átomo neutro es un paso esencial porque permite identificar sin ambigüedad cuál es el nivel de energía más externo (el de mayor número cuántico principal, $n$). Los electrones deben ser removidos de este nivel primero, que no siempre coincide con el último subnivel llenado según el principio de Aufbau (por ejemplo, el nivel 4s se llena antes que el 3d, pero el nivel 4 es el más externo).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_008",
-      "pregunta": "Si un átomo neutro con $Z$ electrones forma un anión con carga $n-$, ¿cuántos electrones se deben usar para realizar la distribución electrónica?",
+      "pregunta": "¿Cuál de las siguientes secuencias describe correctamente el método para obtener la configuración electrónica de un anión?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$Z - n$$",
-        "B": "$$Z$$",
-        "C": "$$n$$",
-        "D": "$$Z + n$$",
-        "E": "$$Z / n$$"
+        "A": "1. Configurar el átomo neutro; 2. Quitar el número de electrones ganados.",
+        "B": "1. Configurar el átomo neutro; 2. Añadir los electrones ganados al último nivel de energía.",
+        "C": "1. Restar la carga del número atómico; 2. Realizar la distribución electrónica.",
+        "D": "1. Sumar los electrones ganados al total del átomo neutro; 2. Realizar la distribución electrónica con el nuevo total.",
+        "E": "1. Identificar el último nivel; 2. Sumar los electrones ganados únicamente a ese nivel."
       },
       "respuesta_correcta": "D",
-      "explicacion": "Para un anión, el primer paso es calcular el número total de electrones. Si el átomo neutro tiene $Z$ electrones y gana $n$ electrones para formar un anión con carga $n-$, el número total de electrones a distribuir será la suma de los electrones originales más los ganados, es decir, $$Z + n$$.",
+      "explicacion": "El procedimiento para un anión es un proceso directo en dos pasos: primero, se calcula el nuevo número total de electrones que posee el ion (electrones del átomo neutro más los electrones ganados). Segundo, se realiza la distribución electrónica estándar para ese número total de electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_009",
-      "pregunta": "¿Por qué es incorrecto, en el caso de un catión, simplemente restar los electrones de la carga al número atómico y luego hacer la distribución?",
+      "pregunta": "Si un átomo neutro posee electrones en los niveles de energía principal $n=3$ y $n=4$, ¿de qué nivel se comenzarían a retirar electrones para formar un catión?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque se deben sumar los electrones, no restar.",
-        "B": "Porque la regla especifica que primero se debe configurar el átomo neutro.",
-        "C": "Porque la carga del catión no afecta el número de electrones.",
-        "D": "Porque este método solo es válido para los aniones.",
-        "E": "Porque los electrones se quitan del primer nivel, no del último."
+        "A": "Del nivel $n=3$, porque contiene orbitales que se llenan después del $4s$.",
+        "B": "De ambos niveles de forma simultánea.",
+        "C": "Del nivel $n=4$, porque es el último nivel o el más externo.",
+        "D": "Del subnivel $s$ de cualquiera de los dos niveles.",
+        "E": "La elección depende del número de protones en el núcleo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El procedimiento para cationes es estricto: primero se escribe la configuración del átomo neutro y luego se quitan los electrones del nivel de mayor energía. Hacer la resta primero y luego distribuir puede llevar a una configuración incorrecta, ya que el orden de llenado de orbitales no es necesariamente el inverso al orden de vaciado.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla para formar cationes es explícita: la remoción de electrones debe empezar \"por el último nivel\". El último nivel es aquel con el número cuántico principal ($n$) más alto. Entre $n=3$ y $n=4$, el último nivel es $n=4$, por lo tanto, los electrones se quitan primero de este nivel.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_010",
-      "pregunta": "La regla para la configuración de un catión indica que los electrones se quitan del 'último nivel'. ¿Qué implica esto sobre el orden de eliminación de electrones?",
+      "pregunta": "¿Para cuál tipo de ion es la configuración del átomo neutro un paso intermedio indispensable antes de ajustar el número de electrones?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se eliminan los electrones en el orden inverso al que fueron añadidos.",
-        "B": "Se eliminan primero los electrones con el número cuántico principal ($n$) más alto.",
-        "C": "Se eliminan siempre del subnivel 's'.",
-        "D": "Se eliminan siempre del subnivel 'p'.",
-        "E": "El orden de eliminación es aleatorio."
+        "A": "Anión.",
+        "B": "Catión.",
+        "C": "Ambos, anión y catión, requieren este paso.",
+        "D": "Ninguno, la configuración del ion siempre se calcula directamente.",
+        "E": "Únicamente para iones de gases nobles."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La expresión 'último nivel' se refiere al nivel de energía con el número cuántico principal ($n$) más alto. Por lo tanto, al formar un catión, los primeros electrones que se retiran son aquellos que se encuentran en la capa más externa del átomo, independientemente del orden en que se llenaron los subniveles.",
+      "explicacion": "Es específicamente para el catión que se define un proceso secuencial donde primero se debe escribir la configuración completa del átomo neutro. Posteriormente, se modifica esta configuración quitando electrones. Para el anión, el ajuste de electrones se realiza antes de escribir la configuración.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_011",
-      "pregunta": "¿Cuál de las siguientes afirmaciones contrasta correctamente los métodos para iones?",
+      "pregunta": "Al configurar un catión, ¿qué acción se considera incorrecta según el procedimiento establecido?",
       "dificultad": 2,
       "opciones": {
-        "A": "Los aniones modifican el número de electrones al final; los cationes al principio.",
-        "B": "Ambos métodos comienzan configurando el átomo neutro.",
-        "C": "El método del anión se basa en un conteo total de electrones, mientras que el del catión es un proceso de eliminación posterior a la configuración neutra.",
-        "D": "En ambos casos, se quitan electrones del último nivel de energía.",
-        "E": "El método del catión es aditivo, y el del anión es sustractivo."
+        "A": "Iniciar el proceso escribiendo la configuración del átomo neutro.",
+        "B": "Quitar electrones del nivel de energía con el número cuántico principal más alto.",
+        "C": "Restar la carga al número atómico para obtener un total de electrones y luego distribuirlos.",
+        "D": "Quitar un número de electrones exactamente igual a la magnitud de la carga positiva.",
+        "E": "Identificar el último nivel de energía como paso previo a la remoción de electrones."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La distinción fundamental es que para los aniones, todo el proceso se basa en un nuevo total de electrones (átomo neutro + ganados). En cambio, para los cationes, el proceso es secuencial: primero la configuración del neutro y luego la sustracción de electrones del nivel más externo. Las otras opciones describen incorrectamente uno o ambos procesos.",
+      "explicacion": "El método de 'restar la carga y luego distribuir' es incorrecto porque ignora la regla fundamental de que los electrones deben ser removidos del nivel más externo primero. Este enfoque simplificado puede llevar a una configuración electrónica errónea, especialmente en elementos de transición.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_012",
-      "pregunta": "Si un átomo neutro forma un catión $C^{2+}$, ¿cuál es el segundo y último paso para obtener su configuración electrónica?",
+      "pregunta": "Si al formar un catión, el último nivel de energía contiene electrones en más de un subnivel, ¿cuál es el criterio para decidir de qué subnivel se quitan primero?",
       "dificultad": 2,
       "opciones": {
-        "A": "Añadir dos electrones al último nivel de la configuración del átomo neutro.",
-        "B": "Quitar dos electrones, empezando por el último nivel y los de mayor energía, de la configuración del átomo neutro.",
-        "C": "Realizar la configuración del átomo neutro.",
-        "D": "Calcular el número total de electrones como (electrones neutros - 2) y distribuir.",
-        "E": "Quitar dos electrones del primer nivel de energía."
+        "A": "Se quitan del subnivel con menor energía.",
+        "B": "Se quitan del subnivel que se llenó primero cronológicamente.",
+        "C": "Se quitan de los subniveles de mayor energía dentro de ese nivel.",
+        "D": "Se quitan de forma aleatoria de cualquier subnivel del último nivel.",
+        "E": "Se quitan siempre del subnivel $s$ porque es el más estable."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El procedimiento para un catión es: 1) Realizar la configuración del átomo neutro. 2) Quitar el número de electrones que indique la carga (en este caso, 2) comenzando por el último nivel. Por lo tanto, el segundo y último paso es la eliminación de dos electrones de la configuración ya establecida del átomo neutro.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla completa indica que los electrones se quitan \"empezando por el último nivel y los de mayor energía\". Esto significa que, dentro de un mismo nivel de energía principal, los electrones se removerán primero de los subniveles que sean energéticamente superiores (por ejemplo, del subnivel $d$ antes que del $p$, y del $p$ antes que del $s$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_013",
-      "pregunta": "Un estudiante intenta configurar un catión $X^{3+}$ pero aplica erróneamente el procedimiento para aniones. ¿Cuál sería el primer paso que realizaría bajo esta suposición incorrecta?",
+      "pregunta": "Un estudiante configura un catión $$X^{2+}$$ restando primero 2 al número atómico y luego distribuyendo el número resultante de electrones. ¿Por qué este método puede conducir a un error?",
       "dificultad": 3,
       "opciones": {
-        "A": "Realizar la configuración del átomo neutro $X$.",
-        "B": "Sumar los electrones del átomo neutro $X$ más 3 electrones y luego distribuir.",
-        "C": "Restar 3 electrones al total del átomo neutro $X$ y luego distribuir.",
-        "D": "Quitar 3 electrones del último nivel del átomo neutro $X$.",
-        "E": "Sumar 3 protones al núcleo antes de configurar."
+        "A": "Porque para un catión siempre se deben sumar electrones.",
+        "B": "Porque la carga del ion es irrelevante para el número de electrones.",
+        "C": "Porque ignora la regla de que los electrones deben eliminarse del último nivel de energía, que no siempre es el último en llenarse.",
+        "D": "Porque este método es exclusivamente válido para la configuración de aniones.",
+        "E": "Porque es obligatorio configurar primero el anión correspondiente."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Esta pregunta evalúa la comprensión de ambos métodos. El procedimiento para aniones comienza calculando el total de electrones (neutro + ganados). Si un estudiante aplicara este método erróneamente a un catión $X^{3+}$, interpretaría la carga como si fueran electrones ganados y su primer paso sería sumar 3 electrones al total del átomo neutro, lo cual es conceptualmente opuesto a lo que ocurre en un catión.",
+      "respuesta_correcta": "C",
+      "explicacion": "Este es un error conceptual común. El método de \"restar y distribuir\" falla porque el orden de llenado de orbitales (principio de Aufbau) no es necesariamente el inverso del orden de extracción de electrones. La regla correcta para cationes prioriza la eliminación de electrones del nivel de energía más externo (el de mayor $n$), un detalle que este método simplificado omite, llevando a posibles configuraciones incorrectas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_014",
-      "pregunta": "¿Por qué la secuencia de pasos es crucialmente diferente para cationes y aniones, especialmente en lo que respecta al átomo neutro?",
+      "pregunta": "¿Cuál de las siguientes afirmaciones explica mejor por qué los procedimientos para configurar aniones y cationes son distintos?",
       "dificultad": 3,
       "opciones": {
-        "A": "No es diferente, en ambos casos se parte del átomo neutro.",
-        "B": "Porque para los cationes, el orden de eliminación de electrones depende de la estructura del átomo neutro, mientras que para los aniones, los electrones extra simplemente ocupan los siguientes orbitales disponibles.",
-        "C": "Porque los cationes siempre pierden electrones del subnivel 's' y los aniones siempre ganan en el subnivel 'p'.",
-        "D": "Porque los aniones tienen más protones que electrones, y los cationes tienen menos.",
-        "E": "La secuencia solo es una convención y ambos métodos darían el mismo resultado."
+        "A": "Porque los aniones son siempre más grandes que los cationes.",
+        "B": "La adición de electrones (anión) sigue las reglas de llenado estándar, pero la eliminación (catión) prioriza el nivel de energía más externo sobre el orden de llenado.",
+        "C": "La configuración de cationes es inherentemente más difícil y por eso requiere más pasos.",
+        "D": "Porque los cationes tienden a perder todos sus electrones de valencia, mientras que los aniones no.",
+        "E": "Porque los aniones solo se forman a partir de no metales y los cationes solo a partir de metales."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La secuencia es crítica. Para un catión, se necesita la configuración del átomo neutro como mapa para saber de dónde quitar electrones (del nivel más externo, que no siempre es el último en llenarse). Para un anión, los electrones adicionales simplemente siguen el principio de Aufbau, llenando los orbitales de menor energía disponibles como si el átomo siempre hubiera tenido ese número total de electrones. Esta diferencia en el proceso es fundamental para obtener la configuración correcta.",
+      "explicacion": "La diferencia fundamental radica en la naturaleza de los procesos. La formación de un anión implica añadir electrones a los orbitales de menor energía disponibles, siguiendo las reglas de Aufbau. En cambio, la formación de un catión implica quitar electrones, y este proceso no es el inverso del llenado; se rige por una regla diferente que prioriza la eliminación de los electrones del nivel cuántico principal más alto (los más externos).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_075_015",
-      "pregunta": "Al comparar los procesos de configuración electrónica de un anión y un catión, ¿qué afirmación sintetiza la principal diferencia conceptual?",
+      "pregunta": "Al formar la configuración de un catión, se sigue una regla jerárquica que no es el foco principal al configurar un anión. ¿Cuál es esta regla?",
       "dificultad": 3,
       "opciones": {
-        "A": "El proceso del anión es una construcción directa basada en un nuevo total de partículas, mientras que el del catión es una deconstrucción a partir de una estructura preexistente (el átomo neutro).",
-        "B": "El proceso del catión implica únicamente al último nivel de energía, mientras que el del anión involucra a todos los niveles de energía por igual.",
-        "C": "Para los aniones, la carga se considera al principio del cálculo, y para los cationes, se considera al final, pero el proceso intermedio es idéntico.",
-        "D": "La configuración de un anión se realiza quitando electrones y la de un catión, añadiéndolos.",
-        "E": "Ambos procesos son idénticos, solo cambia el signo de la carga en los cálculos."
+        "A": "El principio de exclusión de Pauli, que limita a dos electrones por orbital.",
+        "B": "La regla de Hund, sobre la máxima multiplicidad de espín.",
+        "C": "El principio de Aufbau, sobre el llenado en orden de energía creciente.",
+        "D": "El principio de remover electrones comenzando por el nivel cuántico principal más alto.",
+        "E": "La ley de conservación de la masa y la carga."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Esta opción captura la esencia de la diferencia. Para un anión, se calcula un nuevo total de electrones y se 'construye' la configuración desde cero con ese número. Para un catión, se parte de la configuración 'preexistente' del átomo neutro y se 'deconstruye' quitando electrones del nivel más externo. Esta analogía de construcción vs. deconstrucción describe perfectamente la divergencia fundamental en los dos procedimientos.",
+      "respuesta_correcta": "D",
+      "explicacion": "Mientras que la configuración de un anión (y de un átomo neutro) se rige principalmente por el principio de Aufbau, el proceso para un catión introduce una regla jerárquica distinta: la ubicación del electrón en el nivel de energía más externo es el factor decisivo para su eliminación. Este principio de \"quitar del último nivel\" es la característica distintiva en la configuración de cationes.",
       "imagen": null
     }
   ]

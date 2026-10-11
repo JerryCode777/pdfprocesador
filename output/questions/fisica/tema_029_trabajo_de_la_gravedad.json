@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 29,
+  "total_temas": 137,
+  "titulo_tema": "Trabajo de la Gravedad",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_029_001",
+      "pregunta": "¿Bajo qué condición el trabajo realizado por la fuerza de la gravedad se considera positivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando el cuerpo sube.",
+        "B": "Cuando el cuerpo se mueve horizontalmente.",
+        "C": "Cuando el cuerpo cae.",
+        "D": "Cuando el cuerpo está en reposo.",
+        "E": "Cuando la fuerza neta es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo realizado por la fuerza de la gravedad es positivo cuando el cuerpo cae. Esto se debe a que la dirección de la fuerza de gravedad (hacia abajo) coincide con la dirección del desplazamiento del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_002",
+      "pregunta": "¿Cuál es la expresión matemática general para el trabajo realizado por la fuerza de gravedad ($$W_{F_g}$$) en función del desplazamiento vertical $$h$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$W_{F_g} = mgh$$",
+        "B": "$$W_{F_g} = -mgh$$",
+        "C": "$$W_{F_g} = \\frac{mg}{h}$$",
+        "D": "$$W_{F_g} = \\pm mgh$$",
+        "E": "$$W_{F_g} = 0$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación que representa el trabajo realizado por la fuerza de gravedad es $$W_{F_g} = \\pm mgh$$. El signo depende de la dirección del movimiento: es positivo si el cuerpo cae y negativo si el cuerpo sube.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_003",
+      "pregunta": "¿Qué se define como trabajo neto o trabajo total?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El trabajo realizado únicamente por la fuerza de gravedad.",
+        "B": "La suma algebraica de los trabajos efectuados por cada una de las fuerzas que actúan sobre un cuerpo.",
+        "C": "El trabajo realizado por la fuerza de mayor magnitud.",
+        "D": "El producto de todas las fuerzas aplicadas sobre un cuerpo.",
+        "E": "El trabajo necesario para iniciar el movimiento de un cuerpo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo neto o total se define como la suma algebraica de los trabajos realizados por cada una de las fuerzas individuales que actúan sobre un cuerpo. También es equivalente al trabajo realizado por la fuerza resultante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_004",
+      "pregunta": "Si un cuerpo sube, ¿cuál es el signo del trabajo realizado por la fuerza de la gravedad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positivo",
+        "B": "Negativo",
+        "C": "Cero",
+        "D": "Depende de la velocidad",
+        "E": "Depende de la aceleración"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando un cuerpo sube, se mueve en dirección opuesta a la fuerza de la gravedad. Por esta razón, el trabajo realizado por la fuerza de la gravedad es negativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_005",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa correctamente el cálculo del trabajo neto ($$W_{NETO}$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$W_{NETO} = W_1 \\times W_2 \\times \\dots \\times W_n$$",
+        "B": "$$W_{NETO} = \\frac{W_1 + W_2}{2}$$",
+        "C": "$$W_{NETO} = W_1 - W_2$$",
+        "D": "$$W_{NETO} = \\Sigma W = W_1 + W_2 + \\dots + W_n$$",
+        "E": "$$W_{NETO} = F_{\\text{resultante}}$$ "
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo neto es la suma algebraica de los trabajos individuales realizados por todas las fuerzas que actúan sobre el cuerpo. La notación sigma ($$\\Sigma$$) representa esta suma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_006",
+      "pregunta": "En la ecuación $$W_{F_g} = \\pm mgh$$, ¿qué representa físicamente la variable $$h$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La distancia horizontal recorrida.",
+        "B": "La altura inicial del cuerpo.",
+        "C": "La magnitud del desplazamiento vertical.",
+        "D": "La hipotenusa del triángulo de desplazamiento.",
+        "E": "La altura máxima alcanzada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La variable $$h$$ en la fórmula del trabajo de la gravedad se refiere específicamente a la magnitud del desplazamiento vertical del cuerpo, es decir, el cambio en su altura, independientemente de la trayectoria horizontal que haya seguido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_007",
+      "pregunta": "El trabajo realizado por la gravedad es negativo cuando un objeto es levantado. ¿Cuál es la razón física de este signo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía cinética del objeto disminuye.",
+        "B": "La fuerza de gravedad y el desplazamiento del objeto tienen direcciones opuestas.",
+        "C": "Se requiere una fuerza externa para levantarlo.",
+        "D": "La masa del objeto se opone al movimiento.",
+        "E": "La fuerza de gravedad y el desplazamiento del objeto tienen la misma dirección."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo es negativo cuando la fuerza y el desplazamiento forman un ángulo de 180°. Al levantar un objeto, la fuerza de gravedad apunta hacia abajo, mientras que el desplazamiento es hacia arriba. Al ser opuestos, el trabajo realizado por la gravedad es negativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_008",
+      "pregunta": "Además de ser la suma algebraica de los trabajos individuales, ¿de qué otra manera se puede calcular el trabajo neto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Calculando el trabajo realizado por la fuerza de fricción.",
+        "B": "Calculando el trabajo realizado por la fuerza resultante.",
+        "C": "Multiplicando la masa por la aceleración total.",
+        "D": "Calculando el trabajo de la fuerza de mayor magnitud.",
+        "E": "Promediando los trabajos de todas las fuerzas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo neto es conceptualmente equivalente al trabajo que realizaría la fuerza resultante (la suma vectorial de todas las fuerzas) sobre el cuerpo a lo largo del mismo desplazamiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_009",
+      "pregunta": "Si la fuerza de gravedad es constante y vertical, ¿de qué depende el trabajo que realiza sobre un cuerpo en movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente de la trayectoria seguida por el cuerpo.",
+        "B": "Del tiempo que dura el movimiento.",
+        "C": "De la velocidad horizontal del cuerpo.",
+        "D": "Únicamente del cambio en la posición vertical ($$h$$).",
+        "E": "De la forma del objeto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Dado que la fuerza de gravedad es vertical, solo la componente vertical del desplazamiento contribuye al trabajo. Por lo tanto, el trabajo de la gravedad depende exclusivamente de la masa ($$m$$), la aceleración de la gravedad ($$g$$) y el desplazamiento vertical ($$h$$), no de la trayectoria horizontal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_010",
+      "pregunta": "¿En qué situación el trabajo realizado por una fuerza es nulo, según la expresión $$W = Fd \\cos 90^\\circ$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando la fuerza es paralela al desplazamiento.",
+        "B": "Cuando no hay desplazamiento.",
+        "C": "Cuando la fuerza es perpendicular al desplazamiento.",
+        "D": "Cuando la fuerza y el desplazamiento son opuestos.",
+        "E": "Cuando la fuerza es muy pequeña."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El coseno de 90 grados es cero. Por lo tanto, si el ángulo entre el vector de fuerza y el vector de desplazamiento es de 90°, es decir, son perpendiculares, el trabajo realizado por esa fuerza es nulo ($$W = Fd \\times 0 = 0$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_011",
+      "pregunta": "Un objeto de masa $m$ se levanta una altura $h$ y luego se baja de nuevo a su punto de partida. ¿Cómo se compara el trabajo de la gravedad al subir ($$W_{\\text{subir}}$$) con el trabajo de la gravedad al bajar ($$W_{\\text{bajar}}$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{\\text{subir}} = W_{\\text{bajar}}$$",
+        "B": "$$W_{\\text{subir}} > W_{\\text{bajar}}$$",
+        "C": "$$W_{\\text{subir}} = -W_{\\text{bajar}}$$",
+        "D": "Ambos trabajos son nulos.",
+        "E": "$$W_{\\text{subir}} < W_{\\text{bajar}}$$ y ambos son negativos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al subir, el trabajo de la gravedad es negativo: $$W_{\\text{subir}} = -mgh$$. Al bajar la misma altura, el trabajo es positivo: $$W_{\\text{bajar}} = +mgh$$. Por lo tanto, tienen la misma magnitud pero signos opuestos, cumpliendo la relación $$W_{\\text{subir}} = -W_{\\text{bajar}}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_012",
+      "pregunta": "Si el trabajo neto sobre un cuerpo es la suma de los trabajos $$W_1$$, $$W_2$$ y $$W_3$$, y se sabe que $$W_1$$ es el trabajo de la gravedad al caer una altura $$h$$, ¿cuál es el valor de $$W_1$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_1 = 0$$",
+        "B": "$$W_1 = -mgh$$",
+        "C": "$$W_1 = mgh$$",
+        "D": "$$W_1 = W_2 + W_3$$",
+        "E": "$$W_1 = \\pm mgh$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El problema especifica que $$W_1$$ es el trabajo realizado por la gravedad cuando el cuerpo está cayendo una altura $$h$$. En el caso de una caída, la fuerza de gravedad y el desplazamiento tienen la misma dirección, por lo que el trabajo es positivo, resultando en $$W_1 = mgh$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_013",
+      "pregunta": "Un libro de masa $m$ es deslizado horizontalmente sobre una mesa una distancia $d$. ¿Cuál es el trabajo realizado por la fuerza de gravedad sobre el libro durante este movimiento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$mgd$$",
+        "B": "$$-mgd$$",
+        "C": "$$0$$",
+        "D": "$$mgh$$",
+        "E": "No se puede determinar sin la velocidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo de la gravedad depende del desplazamiento vertical ($$h$$). En un movimiento puramente horizontal, el desplazamiento vertical es cero ($$h=0$$). Por lo tanto, el trabajo realizado por la gravedad es $$W_{F_g} = mg(0) = 0$$. Alternativamente, la fuerza de gravedad (vertical) es perpendicular al desplazamiento (horizontal), y el trabajo de una fuerza perpendicular al desplazamiento es siempre cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_014",
+      "pregunta": "Un proyectil de masa $m$ se lanza hacia arriba, alcanza una altura máxima $h$ y luego cae de nuevo hasta el punto de lanzamiento. ¿Cuál es el trabajo neto realizado por la fuerza de gravedad durante todo el trayecto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$2mgh$$",
+        "B": "$$mgh$$",
+        "C": "$$-mgh$$",
+        "D": "$$0$$",
+        "E": "$$-2mgh$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo neto es la suma del trabajo en cada tramo. Durante la subida, el trabajo de la gravedad es $$-mgh$$. Durante la bajada, es $$+mgh$$. El trabajo neto total es la suma de ambos: $$W_{\\text{total}} = (-mgh) + (+mgh) = 0$$. Esto ocurre porque el desplazamiento vertical total es cero, ya que el objeto termina en la misma altura de la que partió.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_029_015",
+      "pregunta": "Un cuerpo de masa $m$ es levantado verticalmente una altura $h$ por una fuerza $F$. Al mismo tiempo, una fuerza de resistencia del aire $R$ realiza un trabajo $W_R$. ¿Cómo se expresaría el trabajo neto ($$W_{NETO}$$) sobre el cuerpo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$W_{NETO} = W_F + W_{F_g} + W_R$$",
+        "B": "$$W_{NETO} = W_F - mgh$$",
+        "C": "$$W_{NETO} = W_F + mgh + W_R$$",
+        "D": "$$W_{NETO} = W_F - W_R$$",
+        "E": "$$W_{NETO} = mgh$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El trabajo neto es la suma algebraica de los trabajos realizados por todas las fuerzas que actúan sobre el cuerpo. En este caso, las fuerzas son la fuerza de levantamiento ($$F$$), la fuerza de gravedad ($$F_g$$) y la resistencia del aire ($$R$$). Por lo tanto, el trabajo neto es la suma de los trabajos de cada una: $$W_{NETO} = W_F + W_{F_g} + W_R$$. Dado que el cuerpo sube, el trabajo de la gravedad ($$W_{F_g}$$) sería igual a $$-mgh$$, pero la expresión general de la suma es la correcta.",
+      "imagen": null
+    }
+  ]
+}

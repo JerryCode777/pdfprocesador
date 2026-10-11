@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_263_001",
-      "pregunta": "¿Qué terminación se utiliza para nombrar un hidrocarburo que contiene tres enlaces dobles en su estructura?",
+      "pregunta": "¿Qué terminación se utiliza en la nomenclatura de hidrocarburos para indicar la presencia de dos dobles enlaces en la molécula?",
       "dificultad": 1,
       "opciones": {
-        "A": "-ino",
-        "B": "-eno",
-        "C": "-trieno",
-        "D": "-dieno",
-        "E": "-ano"
+        "A": "eno",
+        "B": "ino",
+        "C": "ano",
+        "D": "dieno",
+        "E": "trieno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La nomenclatura de alquenos indica que se usan terminaciones específicas según el número de dobles enlaces. La terminación \"-trieno\" se emplea para indicar la presencia de tres enlaces dobles. La terminación \"-eno\" es para un solo enlace doble, \"-dieno\" para dos, \"-ano\" para alcanos (enlaces simples) e \"-ino\" para alquinos (enlaces triples).",
+      "respuesta_correcta": "D",
+      "explicacion": "Según las reglas de nomenclatura, el sufijo \"-dieno\" se utiliza específicamente para nombrar hidrocarburos que contienen dos enlaces dobles. La terminación \"-eno\" es para un solo doble enlace, \"-trieno\" para tres, \"-ano\" para alcanos (enlaces simples) y \"-ino\" para alquinos (enlaces triples).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_002",
-      "pregunta": "¿Cómo se denominan de forma general los hidrocarburos que contienen dos o más enlaces dobles?",
+      "pregunta": "¿Cómo se denominan genéricamente los hidrocarburos que poseen dos o más enlaces dobles?",
       "dificultad": 1,
       "opciones": {
-        "A": "Alenos",
-        "B": "Dienos",
+        "A": "Alquinos",
+        "B": "Alcanos",
         "C": "Polienos",
-        "D": "Alquenos conjugados",
-        "E": "Alcanos"
+        "D": "Alenos",
+        "E": "Dienos conjugados"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El término \"polienos\" es la denominación general que engloba a todos los hidrocarburos con dos o más enlaces dobles. Los \"dienos\" son un tipo específico de polieno que tiene exactamente dos enlaces dobles, y los \"alenos\" son un tipo de dieno.",
+      "explicacion": "El término general para los hidrocarburos que contienen dos o más enlaces dobles es \"polienos\". Los dienos (dos enlaces dobles) y los trienos (tres enlaces dobles) son tipos específicos de polienos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_003",
-      "pregunta": "Un alqueno que posee exactamente dos dobles enlaces se denomina específicamente:",
+      "pregunta": "¿Cuál es la regla principal para enumerar la cadena de carbonos en un alqueno con múltiples enlaces dobles?",
       "dificultad": 1,
       "opciones": {
-        "A": "Trieno",
-        "B": "Dieno",
-        "C": "Polieno",
-        "D": "Aleno",
-        "E": "Alquino"
+        "A": "Empezar por el extremo con más ramificaciones.",
+        "B": "Empezar por el extremo que resulte en la cadena más larga.",
+        "C": "Empezar por el extremo más cercano a un enlace doble.",
+        "D": "Empezar siempre por el carbono de la izquierda.",
+        "E": "Empezar por el extremo más cercano a un enlace simple."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La terminología química especifica que un \"dieno\" es un alqueno que tiene precisamente dos enlaces dobles en su cadena de carbono. \"Trieno\" se refiere a tres enlaces dobles, mientras que \"polieno\" es una categoría más amplia que incluye a los dienos y trienos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de nomenclatura establece que la cadena principal debe enumerarse comenzando por el extremo más cercano a un doble enlace. El objetivo es asignar los localizadores (números) más bajos posibles a las posiciones de los dobles enlaces.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_004",
-      "pregunta": "¿Cuál es el principio fundamental para enumerar la cadena principal de un alqueno con múltiples enlaces dobles?",
+      "pregunta": "¿Qué tipo de dieno se caracteriza por tener dos dobles enlaces que pertenecen a un único átomo de carbono?",
       "dificultad": 1,
       "opciones": {
-        "A": "Empezar por el extremo más cercano a un grupo metilo.",
-        "B": "Asegurar que la cadena sea lo más larga posible, sin importar los enlaces.",
-        "C": "Empezar por el extremo que dé los números más bajos a los dobles enlaces.",
-        "D": "Enumerar de izquierda a derecha en todos los casos.",
-        "E": "Empezar por el carbono con más sustituyentes."
+        "A": "Aislado",
+        "B": "Conjugado",
+        "C": "Alternado",
+        "D": "Cíclico",
+        "E": "Acumulado o aleno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La regla de nomenclatura establece que la cadena principal debe ser enumerada comenzando por el extremo que se encuentre más cerca del primer doble enlace. El objetivo es asignar las posiciones (localizadores) más bajas posibles a los dobles enlaces para nombrarlos correctamente.",
+      "respuesta_correcta": "E",
+      "explicacion": "Los dienos acumulados, también conocidos como alenos, son aquellos en los que un solo átomo de carbono participa en dos dobles enlaces, formando una estructura del tipo $$C=C=C$$. Los dienos conjugados tienen los dobles enlaces separados por un enlace simple y los aislados por más de un enlace simple.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_005",
-      "pregunta": "¿Qué característica define a un dieno como \"acumulado\" o \"aleno\"?",
+      "pregunta": "Si un polieno contiene exactamente tres enlaces dobles, ¿qué terminación específica se utiliza en su nombre?",
       "dificultad": 1,
       "opciones": {
-        "A": "Los dobles enlaces están separados por un enlace simple.",
-        "B": "Los dos dobles enlaces pertenecen a un único átomo de carbono.",
-        "C": "Los dobles enlaces están en los extremos opuestos de la molécula.",
-        "D": "Los dobles enlaces están separados por dos o más enlaces simples.",
-        "E": "La molécula forma una estructura cíclica."
+        "A": "polieno",
+        "B": "trieno",
+        "C": "dieno",
+        "D": "eno",
+        "E": "tetraeno"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Un dieno se clasifica como acumulado o aleno cuando los dos enlaces dobles comparten el mismo átomo de carbono, es decir, un carbono participa en dos dobles enlaces simultáneamente, formando una estructura del tipo $$C=C=C$$.",
+      "explicacion": "El prefijo numérico griego \"tri-\" significa tres. Combinado con la terminación \"-eno\" para los dobles enlaces, la terminación correcta para un hidrocarburo con tres dobles enlaces es \"-trieno\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_006",
-      "pregunta": "¿Cuál es la diferencia estructural clave entre un dieno \"conjugado\" y uno \"aislado\"?",
+      "pregunta": "¿Cuál es la característica estructural que define a un dieno como \"conjugado\" o \"alternado\"?",
       "dificultad": 2,
       "opciones": {
-        "A": "Los conjugados tienen enlaces dobles en carbonos adyacentes, mientras que los aislados no.",
-        "B": "Los conjugados tienen dobles enlaces separados por un enlace simple, y los aislados por más de un enlace simple.",
-        "C": "Los conjugados siempre son lineales y los aislados siempre son ramificados.",
-        "D": "Los conjugados tienen dos dobles enlaces en el mismo carbono, y los aislados los tienen separados.",
-        "E": "No hay diferencia estructural, solo en el nombre."
+        "A": "Los dobles enlaces están en carbonos adyacentes.",
+        "B": "Los dobles enlaces están separados por un único enlace simple C-C.",
+        "C": "Los dobles enlaces están en el mismo átomo de carbono.",
+        "D": "Los dobles enlaces están separados por dos o más enlaces simples C-C.",
+        "E": "Los dobles enlaces se encuentran en los extremos de la cadena."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La clasificación de los dienos se basa en la posición relativa de los dobles enlaces. En los dienos conjugados (o alternados), los dos dobles enlaces están separados por exactamente un enlace simple (patrón doble-simple-doble). En los dienos aislados, están separados por más de un enlace simple (dos o más).",
+      "explicacion": "En un dieno conjugado (o alternado), el patrón estructural es un doble enlace, seguido de un enlace simple, y luego otro doble enlace. Están separados por exactamente un enlace simple, lo que permite la deslocalización de electrones pi.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_007",
-      "pregunta": "¿Cómo se clasifica un dieno en el cual los dobles enlaces siguen un patrón $$C=C–C=C$$?",
+      "pregunta": "¿Qué diferencia fundamental existe entre un dieno \"aislado\" y un dieno \"conjugado\"?",
       "dificultad": 2,
       "opciones": {
-        "A": "Aislado",
-        "B": "Acumulado",
-        "C": "Trieno",
-        "D": "Alternado o conjugado",
-        "E": "Aleno"
+        "A": "El número total de átomos de carbono.",
+        "B": "La presencia de ramificaciones.",
+        "C": "El número de enlaces simples que separan los dobles enlaces.",
+        "D": "La ubicación de los dobles enlaces en carbonos primarios o secundarios.",
+        "E": "La cantidad de dobles enlaces en la molécula."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Este patrón, donde un enlace doble está separado del siguiente por un único enlace simple, es la definición de un dieno alternado o conjugado. Los dienos aislados tienen más de un enlace simple de separación, y los acumulados (alenos) tienen ambos dobles enlaces en el mismo carbono.",
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción clave entre estos dos tipos de dienos radica en el espaciamiento de los dobles enlaces. En los dienos conjugados, están separados por un solo enlace simple. En los dienos aislados, están separados por más de un enlace simple (dos o más).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_008",
-      "pregunta": "La molécula con la estructura $$CH_2=CH–CH_2–CH_2–CH=CH_2$$ es un ejemplo de qué tipo de dieno?",
+      "pregunta": "El término \"aleno\" es un sinónimo para un tipo específico de dieno. ¿Cuál es?",
       "dificultad": 2,
       "opciones": {
-        "A": "Aleno",
-        "B": "Conjugado",
-        "C": "Alternado",
-        "D": "Acumulado",
-        "E": "Aislado"
+        "A": "Dieno aislado",
+        "B": "Dieno conjugado",
+        "C": "Dieno alternado",
+        "D": "Dieno acumulado",
+        "E": "Dieno cíclico"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "En esta molécula, los dos enlaces dobles están separados por dos enlaces simples (el grupo $$–CH_2–CH_2–$$). Dado que están separados por más de un enlace simple, se clasifica como un dieno aislado.",
+      "respuesta_correcta": "D",
+      "explicacion": "\"Aleno\" es el nombre específico que se le da a los dienos donde los dos dobles enlaces están en el mismo átomo de carbono. Esta es la definición de un dieno acumulado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_009",
-      "pregunta": "¿A qué tipo de dieno corresponde la estructura $$CH_3-CH=C=CH–CH_3$$?",
+      "pregunta": "Una molécula con la estructura $$\\text{CH}_2=\\text{CH}–\\text{CH}_2–\\text{CH}_2–\\text{CH}=\\text{CH}_2$$ se clasifica como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Conjugado",
-        "B": "Aislado",
-        "C": "Acumulado o aleno",
-        "D": "Alternado",
-        "E": "Polieno simple"
+        "A": "Dieno conjugado",
+        "B": "Dieno acumulado",
+        "C": "Aleno",
+        "D": "Trieno",
+        "E": "Dieno aislado"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La característica distintiva de esta molécula es el átomo de carbono central que participa en dos dobles enlaces ($$=C=$$). Esta configuración, donde dos dobles enlaces le pertenecen a un único carbono, define a un dieno como acumulado o aleno.",
+      "respuesta_correcta": "E",
+      "explicacion": "En la estructura proporcionada, los dos enlaces dobles están separados por dos enlaces simples (el grupo $$\\text{–CH}_2–\\text{CH}_2–$$). Dado que están separados por más de un enlace simple, la molécula se clasifica como un dieno aislado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_010",
-      "pregunta": "Si una molécula se clasifica como \"dieno\" y otra como \"trieno\", ¿a qué categoría general pertenecen ambas?",
+      "pregunta": "¿Cómo se describe la disposición de los dobles enlaces en un dieno \"alternado\"?",
       "dificultad": 2,
       "opciones": {
-        "A": "Alenos",
-        "B": "Alquenos aislados",
-        "C": "Alcanos",
-        "D": "Polienos",
-        "E": "Alquinos"
+        "A": "Separados por al menos dos enlaces simples.",
+        "B": "Compartiendo el mismo átomo de carbono.",
+        "C": "Ubicados en carbonos consecutivos, sin enlace simple entre ellos.",
+        "D": "Separados por exactamente un enlace simple C-C.",
+        "E": "Ubicados en los extremos opuestos de una cadena larga."
       },
       "respuesta_correcta": "D",
-      "explicacion": "La definición de polieno es un hidrocarburo con dos o más enlaces dobles. Dado que los dienos tienen dos enlaces dobles y los trienos tienen tres, ambos son tipos específicos de polienos.",
+      "explicacion": "El término \"alternado\" es sinónimo de \"conjugado\". La característica que define a esta disposición es que los dobles enlaces se alternan con enlaces simples, es decir, están separados por exactamente un enlace simple C-C.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_011",
-      "pregunta": "¿Cuál es el propósito de la regla de enumeración que prioriza la posición del doble enlace en un polieno?",
+      "pregunta": "El concepto general de \"polieno\" incluye a los hidrocarburos con dos o más enlaces dobles. ¿Cuál de las siguientes categorías es un tipo específico de polieno?",
       "dificultad": 2,
       "opciones": {
-        "A": "Indicar la longitud total de la cadena de carbono.",
-        "B": "Indicar la presencia de ramificaciones.",
-        "C": "Indicar de forma unívoca y con los localizadores más bajos posibles la posición de los dobles enlaces.",
-        "D": "Facilitar la identificación de enlaces simples.",
-        "E": "Determinar si el polieno es conjugado o aislado."
+        "A": "Alcano",
+        "B": "Alquino",
+        "C": "Dieno",
+        "D": "Alcohol",
+        "E": "Éter"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La finalidad principal de la regla de enumeración es estandarizar el nombre de la molécula. Al empezar por el extremo más cercano a un doble enlace, se asegura que los números (localizadores) que indican dónde se encuentran dichos enlaces sean los más bajos posibles, evitando ambigüedades en el nombre.",
+      "explicacion": "Un polieno es un hidrocarburo con dos o más enlaces dobles. Un dieno es un hidrocarburo con exactamente dos enlaces dobles. Por lo tanto, un dieno es un ejemplo específico de la clase más general de polienos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_012",
-      "pregunta": "Un dieno \"alternado\" se caracteriza por tener:",
+      "pregunta": "¿Cuál es el propósito fundamental de indicar la posición de los dobles enlaces al enumerar la cadena principal de un polieno?",
       "dificultad": 2,
       "opciones": {
-        "A": "Dos dobles enlaces sobre el mismo carbono.",
-        "B": "Dos dobles enlaces en carbonos consecutivos ($$C=C=C$$).",
-        "C": "Dobles enlaces separados por dos o más enlaces simples.",
-        "D": "Dobles enlaces separados por exactamente un enlace simple.",
-        "E": "Un doble enlace al principio y otro al final de la cadena."
+        "A": "Determinar la masa molar del compuesto.",
+        "B": "Identificar de forma inequívoca la estructura del isómero.",
+        "C": "Predecir el punto de ebullición de la molécula.",
+        "D": "Conocer el número de átomos de hidrógeno.",
+        "E": "Facilitar la escritura de la fórmula empírica."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El término \"alternado\" es sinónimo de \"conjugado\". La definición de este tipo de dieno es que sus dobles enlaces están separados por un único enlace simple, creando un patrón de alternancia entre enlace doble y enlace simple, como en $$C=C-C=C$$.",
+      "respuesta_correcta": "B",
+      "explicacion": "La enumeración de la cadena y la indicación de la posición de los dobles enlaces son cruciales para diferenciar entre isómeros estructurales. Por ejemplo, 1,3-butadieno y 1,2-butadieno (un aleno) son moléculas diferentes con la misma fórmula molecular. La nomenclatura permite nombrar e identificar cada estructura de manera única.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_013",
-      "pregunta": "Al analizar la estructura $$CH_2=CH–CH=CH–CH_2-CH_3$$, ¿cómo se clasificaría correctamente este dieno?",
+      "pregunta": "Dada la estructura molecular $$\\text{CH}_3-\\text{CH}_2-\\text{CH}=\\text{C}=\\text{CH}–\\text{CH}_2–\\text{CH}_3$$, ¿cuál es su clasificación más específica como dieno?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es un dieno acumulado porque los dobles enlaces están juntos.",
-        "B": "Es un dieno aislado porque tiene una cadena de $$–CH_2-CH_3$$ al final.",
-        "C": "Es un dieno conjugado porque los dobles enlaces están separados por un enlace simple.",
-        "D": "Es un aleno porque la cadena es corta.",
-        "E": "Es un polieno no clasificable como dieno."
+        "A": "Dieno aislado",
+        "B": "Dieno conjugado",
+        "C": "Polieno genérico",
+        "D": "Dieno acumulado o aleno",
+        "E": "Dieno alternado"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La clasificación depende exclusivamente de la relación entre los dobles enlaces. En la molécula $$CH_2=CH–CH=CH–CH_2-CH_3$$, los dos dobles enlaces están separados por un único enlace simple ($$–CH–$$). Esta configuración $$C=C-C=C$$ es la definición precisa de un dieno conjugado o alternado. El resto de la cadena no afecta esta clasificación.",
+      "respuesta_correcta": "D",
+      "explicacion": "Al analizar la estructura, se observa un átomo de carbono central que forma parte de dos dobles enlaces consecutivos ($$=\\text{C}=$$). Esta disposición específica, donde ambos dobles enlaces involucran al mismo carbono, define al compuesto como un dieno acumulado, también conocido como aleno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_014",
-      "pregunta": "¿Cuál de las siguientes descripciones corresponde de manera inequívoca a la estructura de un aleno o dieno acumulado?",
+      "pregunta": "Si un hidrocarburo es clasificado como un \"trieno\", ¿qué información estructural se puede deducir con certeza a partir de esta denominación?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un sistema donde dos enlaces dobles están separados por un grupo metileno ($$-CH_2-$$).",
-        "B": "Un sistema con un patrón alternante de enlaces dobles y simples.",
-        "C": "Un sistema donde un átomo de carbono forma parte simultáneamente de dos enlaces dobles.",
-        "D": "Un hidrocarburo que contiene al menos tres enlaces dobles en su estructura.",
-        "E": "Un dieno donde los enlaces dobles están separados por al menos dos enlaces simples."
+        "A": "La molécula contiene tres átomos de carbono.",
+        "B": "La molécula tiene tres enlaces dobles C=C y tres enlaces simples C-C.",
+        "C": "La molécula posee exactamente tres enlaces dobles carbono-carbono.",
+        "D": "Todos los enlaces dobles de la molécula son conjugados.",
+        "E": "La cadena principal tiene una longitud de tres carbonos."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Esta pregunta requiere identificar la definición más precisa de un aleno. La característica única y definitoria de los dienos acumulados (alenos) es la presencia de un átomo de carbono que está unido a otros dos carbonos a través de dos enlaces dobles distintos ($$=C=$$). Las otras opciones describen dienos aislados (A, E), dienos conjugados (B) o trienos (que son un tipo de polieno, pero no dienos) (D).",
+      "explicacion": "La nomenclatura \"trieno\" se deriva de \"tri-\" (tres) y \"-eno\" (enlace doble). Por definición, esto implica que la molécula contiene exactamente tres enlaces dobles C=C. No proporciona información sobre la longitud total de la cadena, el número de enlaces simples o la disposición relativa de los dobles enlaces (conjugados, aislados, etc.).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_263_015",
-      "pregunta": "Si un hidrocarburo es un \"polieno\", ¿qué se puede afirmar con total certeza sobre su estructura sin más información?",
+      "pregunta": "Analice la estructura $$\\text{CH}_2=\\text{CH}–\\text{CH}=\\text{CH}–\\text{CH}_2-\\text{CH}_3$$. Según la disposición de sus enlaces dobles, ¿cómo se clasifica este compuesto?",
       "dificultad": 3,
       "opciones": {
-        "A": "Debe ser un dieno conjugado.",
-        "B": "Contiene al menos un átomo de carbono que participa en dos dobles enlaces.",
-        "C": "Su nombre terminará obligatoriamente en \"-dieno\".",
-        "D": "Contiene dos o más enlaces dobles carbono-carbono.",
-        "E": "Todos sus enlaces carbono-carbono son dobles."
+        "A": "Dieno acumulado",
+        "B": "Dieno aislado",
+        "C": "Dieno conjugado o alternado",
+        "D": "Aleno",
+        "E": "Trieno"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La definición de \"polieno\" es la más general y se aplica a cualquier hidrocarburo con dos o más enlaces dobles. Por lo tanto, lo único que se puede afirmar con certeza es la presencia de al menos dos de estos enlaces. No se puede saber si es un dieno, trieno, etc. (por lo que la terminación \"-dieno\" no es obligatoria), ni tampoco su clasificación (conjugado, aislado, acumulado). La opción E es incorrecta ya que también debe contener enlaces simples para formar la cadena.",
+      "respuesta_correcta": "C",
+      "explicacion": "La molécula es un dieno porque tiene dos enlaces dobles. Al observar su estructura, los dos dobles enlaces (entre C1-C2 y C3-C4) están separados por un único enlace simple (entre C2-C3). Este patrón de alternancia (doble-simple-doble) es la definición exacta de un dieno conjugado o alternado.",
       "imagen": null
     }
   ]

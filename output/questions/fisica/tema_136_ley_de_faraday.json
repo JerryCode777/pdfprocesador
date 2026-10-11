@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 136,
+  "total_temas": 137,
+  "titulo_tema": "Ley de Faraday",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_136_001",
+      "pregunta": "¿Qué fenómeno describe la inducción de corriente eléctrica en un conductor por la acción de un campo magnético externo que varía con el tiempo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerza de Lorentz",
+        "B": "Ley de Faraday",
+        "C": "Efecto electrostático",
+        "D": "Flujo magnético constante",
+        "E": "Ley de Coulomb"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de Faraday es el principio fundamental que describe cómo un campo magnético variable en el tiempo puede generar (inducir) una corriente eléctrica en un circuito conductor cercano. Las otras opciones se refieren a conceptos diferentes: la Fuerza de Lorentz describe la fuerza sobre una carga en movimiento, el efecto electrostático se relaciona con cargas en reposo, y la Ley de Coulomb cuantifica la fuerza entre cargas estáticas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_002",
+      "pregunta": "Según la convención de signos para el flujo magnético, ¿cómo se considera el flujo que entra a una superficie?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positivo",
+        "B": "Negativo",
+        "C": "Nulo",
+        "D": "Igual al flujo saliente",
+        "E": "Variable"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por convención, las líneas de campo magnético que entran a una superficie representan un flujo negativo, mientras que las que salen representan un flujo positivo. Esta distinción es crucial para entender el flujo neto en superficies cerradas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_003",
+      "pregunta": "En la fórmula de la Ley de Faraday, ¿qué representa el símbolo $$\\varepsilon$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La carga eléctrica",
+        "B": "El campo eléctrico",
+        "C": "La fuerza electromotriz inducida",
+        "D": "El número de espiras",
+        "E": "La permitividad eléctrica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El símbolo $$\\varepsilon$$ representa la fuerza electromotriz (fem) inducida, que es la 'fuerza' o diferencia de potencial, medida en voltios (V), que impulsa la corriente inducida en el circuito debido a la variación del flujo magnético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_004",
+      "pregunta": "¿Cuál es el valor del flujo magnético neto ($$\\Phi_{neto}$$) a través de cualquier superficie cerrada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positivo",
+        "B": "Negativo",
+        "C": "Infinito",
+        "D": "Cero",
+        "E": "Depende de la forma de la superficie"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para cualquier superficie cerrada, la cantidad de líneas de campo magnético que entran es igual a la cantidad de líneas que salen. Dado que el flujo entrante es negativo y el saliente es positivo, sus magnitudes son iguales y sus signos opuestos, por lo que su suma, el flujo neto ($$\\Phi_{neto}$$), es siempre cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_005",
+      "pregunta": "¿En qué unidad del Sistema Internacional se mide la variación del flujo magnético ($$\\Delta\\Phi_B$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Voltios (V)",
+        "B": "Teslas (T)",
+        "C": "Amperios (A)",
+        "D": "Segundos (s)",
+        "E": "Webers (Wb)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La variación del flujo magnético, $$\\Delta\\Phi_B$$, se mide en webers (Wb). Un weber es equivalente a un tesla por metro cuadrado ($$T \\cdot m^2$$). Las otras unidades corresponden a la fuerza electromotriz (Voltios), la densidad de campo magnético (Teslas), la corriente (Amperios) y el tiempo (Segundos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_006",
+      "pregunta": "¿Bajo qué condición fundamental se induce una fuerza electromotriz (fem) en un circuito o espira?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el circuito está en un campo magnético muy intenso.",
+        "B": "Cuando el flujo magnético a través del circuito es constante.",
+        "C": "Cuando hay una variación del flujo magnético a través del circuito.",
+        "D": "Cuando el circuito está hecho de un material superconductor.",
+        "E": "Cuando el circuito se mueve a velocidad constante en una región sin campo magnético."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley de Faraday establece que una fem se induce únicamente cuando el flujo magnético que atraviesa el área del circuito está cambiando. Un campo magnético constante y fuerte no induce fem si el flujo no varía. El cambio es la clave para la inducción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_007",
+      "pregunta": "¿Qué relación existe entre la velocidad de movimiento de un imán respecto a una bobina y la magnitud de la fem inducida?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad no afecta la fem inducida.",
+        "B": "A mayor velocidad, menor es la magnitud de la fem inducida.",
+        "C": "A mayor velocidad, mayor es la magnitud de la fem inducida.",
+        "D": "La fem inducida solo aparece a velocidades muy bajas.",
+        "E": "La fem inducida es inversamente proporcional al cuadrado de la velocidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una mayor velocidad de movimiento relativo entre el imán y la bobina provoca una variación más rápida del flujo magnético ($$\\Delta\\Phi_B$$ en un menor $$\\Delta t$$). Según la Ley de Faraday, esto resulta en una fuerza electromotriz inducida de mayor magnitud.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_008",
+      "pregunta": "¿Qué principio físico explica la presencia del signo negativo en la fórmula de la Ley de Faraday, $$\\varepsilon = -N \frac{\\Delta\\Phi_B}{\\Delta t}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ley de Gauss para el magnetismo",
+        "B": "Ley de Ohm",
+        "C": "Ley de Lenz",
+        "D": "Principio de superposición",
+        "E": "Fuerza de Lorentz"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El signo negativo es una manifestación de la Ley de Lenz. Esta ley establece que la corriente inducida y el campo magnético que esta genera siempre se oponen a la variación del flujo magnético que los originó, conservando así la energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_009",
+      "pregunta": "¿Cuál es la expresión matemática correcta para la fuerza electromotriz inducida en una sola espira conductora?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\varepsilon = - \frac{\\Delta\\Phi_B}{\\Delta t}$$",
+        "B": "$$\\varepsilon = \frac{\\Delta t}{\\Delta\\Phi_B}$$",
+        "C": "$$\\varepsilon = - \\Delta\\Phi_B \\cdot \\Delta t$$",
+        "D": "$$\\varepsilon = N \frac{\\Delta\\Phi_B}{\\Delta t}$$",
+        "E": "$$\\varepsilon = \frac{\\Delta\\Phi_B}{\\Delta t}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La fórmula para una sola espira ($$N=1$$) es $$\\varepsilon = - \frac{\\Delta\\Phi_B}{\\Delta t}$$. Esta ecuación relaciona directamente la fem inducida ($$\\varepsilon$$) con la tasa de cambio del flujo magnético a través de la espira. La opción D sería para N espiras, y las otras opciones son matemáticamente incorrectas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_010",
+      "pregunta": "¿Qué fenómeno se produce en las cargas eléctricas de una barra metálica conductora cuando se mueve con rapidez $$v$$ dentro de un campo magnético $$B$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se agrupan en el centro de la barra.",
+        "B": "Se mueven en círculos dentro de la barra.",
+        "C": "Permanecen distribuidas de manera uniforme.",
+        "D": "Se polarizan, acumulándose en los extremos de la barra.",
+        "E": "Se anulan entre sí, dejando la barra neutra."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando la barra conductora se mueve, la fuerza de Lorentz actúa sobre las cargas libres (electrones) dentro de ella. Esta fuerza las desplaza hacia un extremo de la barra, creando un exceso de carga negativa en un extremo y un exceso de carga positiva en el otro. Este fenómeno se conoce como polarización.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_011",
+      "pregunta": "¿Cuál es la relación matemática fundamental entre el flujo entrante ($$\\Phi_{entrante}$$) y el flujo saliente ($$\\Phi_{saliente}$$) a través de una superficie cerrada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Phi_{entrante} = \\Phi_{saliente}$$",
+        "B": "$$\\Phi_{entrante} > \\Phi_{saliente}$$",
+        "C": "$$\\Phi_{saliente} + \\Phi_{entrante} = 0$$",
+        "D": "$$\\Phi_{saliente} - \\Phi_{entrante} = 1$$",
+        "E": "$$\\Phi_{entrante} < \\Phi_{saliente}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación fundamental es que el flujo neto es cero: $$\\Phi_{neto} = \\Phi_{saliente} + \\Phi_{entrante} = 0$$. Esto implica que $$\\Phi_{entrante} = - \\Phi_{saliente}$$, es decir, tienen la misma magnitud pero signos opuestos. La opción C expresa correctamente que la suma de ambos es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_012",
+      "pregunta": "Si un imán se mueve hacia una bobina, se induce una fem. ¿Qué sucede con la fem inducida en el instante en que el imán se detiene por completo dentro de la bobina?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Alcanza su valor máximo.",
+        "B": "Se invierte de polaridad.",
+        "C": "Se vuelve constante y diferente de cero.",
+        "D": "Se anula (es cero).",
+        "E": "Comienza a oscilar."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fem inducida existe solo mientras el flujo magnético está variando ($$\\Delta\\Phi_B \neq 0$$). Si el imán se detiene, el flujo magnético a través de la bobina se vuelve constante. Con un flujo constante, la variación es cero ($$\\Delta\\Phi_B = 0$$), y según la Ley de Faraday, la fem inducida ($$\\varepsilon$$) también es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_013",
+      "pregunta": "Si el flujo magnético que atraviesa un circuito se mantiene perfectamente constante a lo largo del tiempo, ¿qué se puede concluir acerca de la fuerza electromotriz inducida ($$\\varepsilon$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Será máxima y constante.",
+        "B": "Dependerá del número de espiras del circuito.",
+        "C": "Será igual a cero.",
+        "D": "Será proporcional al valor del flujo constante.",
+        "E": "Será negativa y constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley de Faraday, $$\\varepsilon = -N \frac{\\Delta\\Phi_B}{\\Delta t}$$, indica que la fem inducida depende de la *variación* del flujo magnético ($$\\Delta\\Phi_B$$), no de su valor absoluto. Si el flujo es constante, su variación con el tiempo es cero ($$\\Delta\\Phi_B = 0$$), lo que inevitablemente hace que la fem inducida ($$\\varepsilon$$) sea cero, sin importar el número de espiras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_014",
+      "pregunta": "De acuerdo con la Ley de Lenz, ¿cuál es el propósito del campo magnético creado por la corriente inducida en una espira?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Reforzar y aumentar la variación del flujo magnético externo.",
+        "B": "Generar una fuerza que acelere el movimiento que causa la inducción.",
+        "C": "Cancelar por completo el campo magnético externo.",
+        "D": "Oponerse y tratar de compensar la variación del flujo magnético que la originó.",
+        "E": "Invertir la polaridad del campo magnético externo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Lenz es un principio de conservación de la energía. Establece que la corriente inducida fluirá en una dirección tal que su propio campo magnético se opondrá al cambio en el flujo magnético que la está produciendo. Si el flujo aumenta, el campo inducido intentará disminuirlo; si el flujo disminuye, el campo inducido intentará aumentarlo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_136_015",
+      "pregunta": "Usando la fórmula $$\\varepsilon = -N \frac{\\Delta\\Phi_B}{\\Delta t}$$, si una cierta variación de flujo ($$\\Delta\\Phi_B$$) se produce en un tiempo $$\\Delta t$$ generando una fem $$\\varepsilon_1$$, ¿cómo será la nueva fem $$\\varepsilon_2$$ si la misma variación de flujo ocurre en la mitad del tiempo ($$\frac{\\Delta t}{2}$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\varepsilon_2 = \frac{1}{2} \\varepsilon_1$$",
+        "B": "$$\\varepsilon_2 = \\varepsilon_1$$",
+        "C": "$$\\varepsilon_2 = 4 \\varepsilon_1$$",
+        "D": "$$\\varepsilon_2 = \frac{1}{4} \\varepsilon_1$$",
+        "E": "$$\\varepsilon_2 = 2 \\varepsilon_1$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La magnitud de la fem inducida es inversamente proporcional al intervalo de tiempo ($$\\Delta t$$) en el que ocurre el cambio de flujo. Si el tiempo se reduce a la mitad, la tasa de cambio del flujo ($$\frac{\\Delta\\Phi_B}{\\Delta t}$$) se duplica. Por lo tanto, la magnitud de la nueva fem inducida ($$\\varepsilon_2$$) será el doble de la original ($$\\varepsilon_1$$).",
+      "imagen": null
+    }
+  ]
+}

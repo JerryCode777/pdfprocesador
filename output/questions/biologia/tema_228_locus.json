@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 228,
+  "total_temas": 320,
+  "titulo_tema": "Locus",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_228_001",
+      "pregunta": "¿Cuál es la definición de genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El estudio de la composición química de los seres vivos.",
+        "B": "La rama de la biología que se ocupa del estudio de los mecanismos de la herencia.",
+        "C": "La ciencia que clasifica a los organismos en reinos y especies.",
+        "D": "El análisis de las interacciones entre los organismos y su ambiente.",
+        "E": "La disciplina que investiga la estructura de las proteínas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La genética es la rama de la biología que estudia la herencia, las leyes que la rigen y las variaciones en la transmisión de caracteres hereditarios. Las otras opciones describen otras áreas de la biología como la bioquímica, la taxonomía o la ecología.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_002",
+      "pregunta": "¿Qué término describe la unidad molecular de la herencia que se transfiere de una generación a otra?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Locus",
+        "B": "Cromosoma",
+        "C": "Carácter",
+        "D": "Gen",
+        "E": "Proteína"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un gen es la unidad molecular de la herencia genética. Contiene información en un segmento de ADN que se transfiere entre generaciones. Un locus es su ubicación, un cromosoma contiene muchos genes, un carácter es el rasgo resultante y una proteína es el producto de la codificación del gen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_003",
+      "pregunta": "¿Qué es un locus en el contexto de la genética cromosómica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La totalidad del material genético de un organismo.",
+        "B": "Una variación específica de un gen.",
+        "C": "La posición específica que ocupa un gen en un cromosoma.",
+        "D": "La molécula de ADN completa.",
+        "E": "Una característica heredable como el color de ojos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El locus se define como la posición o ubicación física y específica que un gen ocupa dentro de la estructura de un cromosoma. Es considerado la 'dirección genética' del gen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_004",
+      "pregunta": "¿Cuál es el término correcto para referirse a las posiciones de varios genes en un cromosoma?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Genoma",
+        "B": "Loci",
+        "C": "Alelos",
+        "D": "Caracteres",
+        "E": "Locuses"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término 'Loci' es el plural de 'locus'. Se utiliza para señalar la posición de múltiples genes a lo largo de uno o más cromosomas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_005",
+      "pregunta": "En genética, un atributo heredable de un organismo que posee una función se denomina:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Gen",
+        "B": "Locus",
+        "C": "Carácter",
+        "D": "Alelo",
+        "E": "Proteína"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un carácter es un atributo o rasgo de un organismo que es heredable y funcional, como por ejemplo, el color de ojos o la forma de una semilla. Los genes contienen la información para estos caracteres.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_006",
+      "pregunta": "¿Cuál es la relación fundamental entre un gen y una proteína?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una proteína contiene la información para crear un gen.",
+        "B": "Un gen contiene información que, al codificarse, forma una proteína.",
+        "C": "Gen y proteína son dos términos para la misma molécula.",
+        "D": "Las proteínas se unen para formar la estructura de un gen.",
+        "E": "Un gen es una forma inactiva de una proteína."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La función principal de un gen es contener la información genética. Esta información, a través de los procesos de transcripción y traducción, se codifica para sintetizar una proteína específica, la cual a su vez es responsable de dar origen a características del organismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_007",
+      "pregunta": "Si el \"color de ojos\" es un carácter, ¿qué representan las variedades \"marrón\", \"azul\" y \"verde\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Loci",
+        "B": "Genes diferentes",
+        "C": "Caracteres distintos",
+        "D": "Alelos",
+        "E": "Cromosomas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un carácter es un atributo general (color de ojos). Las diferentes versiones o estados de ese carácter (marrón, azul, verde) se conocen como alelos o alelomorfos. Cada alelo es una variación del gen que codifica para ese carácter.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_008",
+      "pregunta": "¿Cómo se describe la relación entre un gen y un locus?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un gen es una colección de varios loci.",
+        "B": "Un locus es una parte de la secuencia de un gen.",
+        "C": "Un locus es la ubicación específica de un gen en un cromosoma.",
+        "D": "Gen y locus son estructuras independientes en la célula.",
+        "E": "Un locus se transforma en un gen durante la división celular."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación es de contenido y ubicación. El gen es la unidad de información hereditaria, y el locus es el lugar físico, la 'dirección', donde ese gen se encuentra dentro de un cromosoma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_009",
+      "pregunta": "¿Qué concepto genético puede ser entendido como la \"dirección genética\" de una unidad de herencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El alelo",
+        "B": "El carácter",
+        "C": "El genoma",
+        "D": "El locus",
+        "E": "La proteína"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El locus se define como la posición específica de un gen, por lo que a menudo se le denomina su 'dirección genética' dentro del vasto mapa de un cromosoma.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_010",
+      "pregunta": "¿Cuál de las siguientes afirmaciones conecta correctamente los conceptos de gen y carácter?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un carácter es una secuencia de ADN que forma un gen.",
+        "B": "Un gen es una de las posibles variaciones de un carácter.",
+        "C": "Varios genes se codifican para dar origen a un carácter.",
+        "D": "Un carácter es la posición física de un gen en el cromosoma.",
+        "E": "Los genes son unidades moleculares que no se relacionan con los caracteres."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La información contenida en uno o varios genes se codifica para formar proteínas, y estas proteínas son las que finalmente dan origen a los caracteres o atributos heredables de un organismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_011",
+      "pregunta": "Si un científico se refiere a los loci de los genes responsables del color y la textura de una semilla, ¿a qué se está refiriendo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A las variaciones o alelos de esos genes.",
+        "B": "A las proteínas que producen dichos genes.",
+        "C": "A las características observables del color y la textura.",
+        "D": "A las posiciones específicas que ocupan esos genes en los cromosomas.",
+        "E": "A la secuencia completa de ADN de los genes."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término 'loci' es el plural de 'locus', que significa posición. Por lo tanto, el científico se refiere a las ubicaciones específicas en los cromosomas donde se encuentran los genes para el color y la textura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_012",
+      "pregunta": "¿Qué par de conceptos describe mejor una característica general y una de sus variedades específicas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Gen y Locus",
+        "B": "Carácter y Alelo",
+        "C": "Locus y Loci",
+        "D": "Gen y Proteína",
+        "E": "Cromosoma y Gen"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un carácter es el atributo general y heredable (p. ej., color de flor), mientras que un alelo es una de las variedades o estados específicos de ese carácter (p. ej., color rojo, color blanco).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_013",
+      "pregunta": "Si un cromosoma se compara con una calle larga, ¿cuál sería la analogía más precisa para un locus?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La calle entera.",
+        "B": "Un coche que circula por la calle.",
+        "C": "El nombre de la calle.",
+        "D": "La dirección exacta de una casa en esa calle.",
+        "E": "El tipo de edificio (casa, apartamento, etc.)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En esta analogía, el cromosoma es la estructura grande y lineal (la calle). Un gen sería como una casa en esa calle, y el locus sería la dirección numérica específica y única de esa casa, indicando su posición exacta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_014",
+      "pregunta": "Un investigador identifica un segmento de ADN que codifica la resistencia a una enfermedad en el maíz y determina que siempre se encuentra en el mismo punto del cromosoma 3. ¿Qué dos conceptos genéticos describen, respectivamente, este segmento de ADN y su punto de ubicación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Carácter y Alelo",
+        "B": "Alelo y Loci",
+        "C": "Gen y Locus",
+        "D": "Locus y Gen",
+        "E": "Carácter y Locus"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El segmento de ADN que contiene la información para una característica (resistencia a la enfermedad) es el gen. El punto específico y constante donde se encuentra en el cromosoma 3 es su locus. La pregunta pide los conceptos en ese orden: primero el segmento (gen) y luego la ubicación (locus).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_228_015",
+      "pregunta": "Se sabe que existen diferentes versiones de un gen que determinan si una persona tiene el lóbulo de la oreja pegado o despegado. Todas estas versiones se localizan en la misma posición en un cromosoma particular. ¿Cuál de las siguientes afirmaciones integra correctamente los conceptos genéticos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El lóbulo de la oreja es el gen, y las versiones son los loci.",
+        "B": "La forma del lóbulo (pegado/despegado) es el carácter; las versiones que lo determinan son alelos y su posición compartida es el locus.",
+        "C": "La posición en el cromosoma es el carácter, y las versiones pegado/despegado son los genes.",
+        "D": "El gen es el cromosoma, y el locus es el alelo que determina la forma.",
+        "E": "El lóbulo pegado es un gen y el lóbulo despegado es otro gen, cada uno con su propio locus."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta opción organiza correctamente todos los conceptos: 1) La forma del lóbulo es el 'carácter' (el atributo general). 2) Las versiones específicas (pegado o despegado) son los 'alelos'. 3) La única posición física que ocupan estas versiones en el cromosoma es el 'locus' del gen para ese carácter.",
+      "imagen": null
+    }
+  ]
+}

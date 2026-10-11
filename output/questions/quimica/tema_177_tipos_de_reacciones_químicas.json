@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_177_001",
-      "pregunta": "¿Cómo se define una reacción de síntesis, combinación o adición?",
+      "pregunta": "¿Qué tipo de reacción química se caracteriza por la combinación de dos o más sustancias para formar un único producto?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un compuesto se descompone para producir dos o más sustancias.",
-        "B": "Un elemento más activo desplaza a otro menos activo de un compuesto.",
-        "C": "Dos o más sustancias reaccionantes se combinan para formar un solo producto.",
-        "D": "Una reacción que requiere un agente externo como calor o luz para ocurrir.",
-        "E": "Un elemento reacciona con un compuesto, intercambiando lugares."
+        "A": "Descomposición",
+        "B": "Desplazamiento simple",
+        "C": "Síntesis",
+        "D": "Análisis",
+        "E": "Sustitución única"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Una reacción de síntesis, también conocida como combinación o adición, se define como aquella en la que dos o más reactivos se unen para formar un único producto. Su forma general es $$A + B \\rightarrow AB$$. Las otras opciones describen reacciones de descomposición (A), desplazamiento simple (B) o características que no definen exclusivamente a la síntesis (D).",
+      "explicacion": "Una reacción de síntesis, también llamada de combinación o adición, es aquella en la que dos o más reactivos se unen para formar un solo producto, siguiendo el esquema general $$A + B \\rightarrow AB$$. Las reacciones de descomposición o análisis son lo opuesto (un reactivo se divide en varios productos). El desplazamiento simple o sustitución única implica que un elemento reemplace a otro en un compuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_002",
-      "pregunta": "¿Cuál es la característica principal de una reacción de descomposición o análisis?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Dos elementos se combinan para formar un compuesto.",
-        "B": "Un compuesto se descompone para producir dos o más sustancias.",
-        "C": "Un elemento desplaza a otro dentro de un compuesto.",
-        "D": "Siempre es un proceso espontáneo que libera energía.",
-        "E": "Dos compuestos reaccionan para formar un único producto."
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "La característica definitoria de una reacción de descomposición es que un único compuesto (reactante) se divide o descompone en dos o más sustancias más simples (productos). Su forma general es $$AB \\rightarrow A + B$$. Las opciones A y E describen la síntesis, la C describe el desplazamiento simple y la D es incorrecta, ya que estas reacciones a menudo no son espontáneas.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_177_003",
-      "pregunta": "¿Cuál es la representación general de una reacción de desplazamiento simple o sustitución única?",
+      "pregunta": "¿Cuál es la representación general de una reacción de descomposición o análisis?",
       "dificultad": 1,
       "opciones": {
         "A": "$$A + B \\rightarrow AB$$",
         "B": "$$AB \\rightarrow A + B$$",
         "C": "$$A + BC \\rightarrow AC + B$$",
         "D": "$$AB + CD \\rightarrow AD + CB$$",
-        "E": "$$A \\rightarrow B + C$$"
+        "E": "$$A \\rightarrow B$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La forma general $$A + BC \\rightarrow AC + B$$ representa correctamente una reacción de desplazamiento simple. En esta, un elemento $$A$$ reacciona con un compuesto $$BC$$, desplazando al elemento $$B$$ para formar un nuevo compuesto $$AC$$ y liberar el elemento $$B$$. Las otras opciones representan síntesis (A) y descomposición (B y E).",
+      "respuesta_correcta": "B",
+      "explicacion": "La forma general $$AB \\rightarrow A + B$$ representa una reacción de descomposición, donde un único compuesto ($$AB$$) se descompone en dos o más sustancias más simples ($$A$$ y $$B$$). La forma $$A + B \\rightarrow AB$$ es de síntesis y $$A + BC \\rightarrow AC + B$$ es de desplazamiento simple. La opción D representa una reacción de doble desplazamiento, que no se describe en el contenido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_177_003",
+      "pregunta": "¿Cómo se denomina la reacción en la que un elemento más activo desplaza a otro menos activo dentro de un compuesto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Síntesis",
+        "B": "Combinación",
+        "C": "Descomposición",
+        "D": "Desplazamiento simple",
+        "E": "Adición"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este proceso se conoce como reacción de desplazamiento simple o sustitución única. En ella, un elemento libre ($$A$$) reemplaza a otro elemento ($$B$$) en un compuesto ($$BC$$), formando un nuevo compuesto ($$AC$$) y liberando el elemento desplazado ($$B$$). La capacidad para realizar este desplazamiento depende de la reactividad relativa de los elementos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_004",
-      "pregunta": "¿Qué tipo de reacción es aquella en la que un compuesto se descompone por la acción de un agente externo como calor, luz o corriente eléctrica?",
+      "pregunta": "¿Qué otro nombre reciben las reacciones de síntesis?",
       "dificultad": 1,
       "opciones": {
-        "A": "Síntesis",
-        "B": "Adición",
-        "C": "Desplazamiento simple",
-        "D": "Descomposición",
-        "E": "Combinación"
+        "A": "Análisis o descomposición",
+        "B": "Sustitución o desplazamiento",
+        "C": "Combinación o adición",
+        "D": "Electrólisis o pirólisis",
+        "E": "Oxidación o reducción"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Las reacciones de descomposición son aquellas en las que un compuesto se fragmenta. Se menciona específicamente que estas reacciones, en su mayoría, no son espontáneas y requieren un agente externo como calor, luz o corriente eléctrica para llevarse a cabo.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las reacciones de síntesis son también conocidas como reacciones de combinación o de adición, ya que implican que dos o más reactivos se \"combinan\" o se \"adicionan\" para formar un solo producto. \"Análisis\" es sinónimo de descomposición, y \"sustitución\" de desplazamiento simple.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_005",
-      "pregunta": "En una reacción de síntesis, ¿cuál es el resultado esperado de la combinación de los reactantes?",
+      "pregunta": "¿Qué suelen requerir las reacciones de descomposición para llevarse a cabo, ya que mayormente no son espontáneas?",
       "dificultad": 1,
       "opciones": {
-        "A": "Dos o más productos",
-        "B": "Un solo producto",
-        "C": "Un elemento y un compuesto diferentes a los iniciales",
-        "D": "La separación de un compuesto en sus elementos",
-        "E": "La sustitución de un elemento por otro"
+        "A": "Un catalizador negativo",
+        "B": "Bajas temperaturas",
+        "C": "Un agente externo como calor, luz o electricidad",
+        "D": "Alta presión atmosférica",
+        "E": "La presencia de un gas noble"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La definición fundamental de una reacción de síntesis o combinación es que dos o más sustancias reaccionantes se unen para formar un único producto. Esta es su característica distintiva frente a otros tipos de reacciones.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las reacciones de descomposición generalmente no ocurren de forma espontánea. Para romper los enlaces del compuesto inicial, se necesita un aporte de energía, el cual puede ser suministrado por un agente externo como el calor (pirólisis), la luz (fotólisis) o una corriente eléctrica (electrólisis).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_006",
-      "pregunta": "La reacción $$SO_{3}(g) + H_{2}O(l) \\rightarrow H_{2}SO_{4}(ac)$$ es un ejemplo de:",
+      "pregunta": "La ecuación $$2CO(g) + O_2(g) \\rightarrow 2CO_2(g)$$ representa la formación de dióxido de carbono a partir de monóxido de carbono y oxígeno. ¿A qué tipo de reacción corresponde?",
       "dificultad": 2,
       "opciones": {
-        "A": "Descomposición de un compuesto en otros dos.",
-        "B": "Desplazamiento simple de hidrógeno por azufre.",
-        "C": "Síntesis entre dos compuestos.",
-        "D": "Descomposición catalizada por agua.",
-        "E": "Síntesis entre un elemento y un compuesto."
+        "A": "Descomposición",
+        "B": "Desplazamiento simple",
+        "C": "Síntesis",
+        "D": "Sustitución doble",
+        "E": "Análisis"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Esta reacción muestra cómo dos compuestos, el trióxido de azufre ($$SO_3$$) y el agua ($$H_2O$$), se combinan para formar un único producto, el ácido sulfúrico ($$H_2SO_4$$). Esto encaja perfectamente en la definición de una reacción de síntesis entre dos compuestos.",
+      "explicacion": "Esta es una reacción de síntesis o combinación. Se identifica porque dos sustancias diferentes (el compuesto monóxido de carbono, $$CO$$, y el elemento oxígeno, $$O_2$$) reaccionan para formar un único producto (dióxido de carbono, $$CO_2$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_007",
-      "pregunta": "¿A qué tipo de reacción corresponde la ecuación $$CaCO_{3}(s) \\rightarrow CaO(s) + CO_{2}(g)$$?",
+      "pregunta": "¿Cómo se clasifica la reacción $$CaCO_3(s) \\rightarrow CaO(s) + CO_2(g)$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Síntesis",
-        "B": "Desplazamiento simple",
-        "C": "Combinación",
-        "D": "Descomposición",
+        "A": "Síntesis de dos compuestos",
+        "B": "Desplazamiento de un elemento",
+        "C": "Descomposición en otros compuestos",
+        "D": "Combinación de un elemento y un compuesto",
         "E": "Sustitución única"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La ecuación muestra que un solo reactante, el carbonato de calcio ($$CaCO_3$$), se descompone en dos productos más simples, el óxido de calcio ($$CaO$$) y el dióxido de carbono ($$CO_2$$). Este patrón es característico de una reacción de descomposición o análisis.",
+      "respuesta_correcta": "C",
+      "explicacion": "Esta reacción es una descomposición porque un único reactivo, el carbonato de calcio ($$CaCO_3$$), se descompone en dos productos diferentes, el óxido de calcio ($$CaO$$) y el dióxido de carbono ($$CO_2$$). Específicamente, es una descomposición en otros compuestos, ya que ambos productos son compuestos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_008",
-      "pregunta": "¿Qué diferencia fundamental existe entre una reacción de síntesis y una de descomposición?",
+      "pregunta": "¿Cuál de las siguientes representaciones generales corresponde a una reacción de desplazamiento simple?",
       "dificultad": 2,
       "opciones": {
-        "A": "La síntesis siempre involucra elementos puros y la descomposición solo compuestos.",
-        "B": "La síntesis forma un solo producto a partir de varios reactantes, mientras que la descomposición produce varios productos a partir de un solo reactante.",
-        "C": "Las reacciones de síntesis requieren calor, mientras que las de descomposición son siempre espontáneas.",
-        "D": "En la síntesis un elemento desplaza a otro, y en la descomposición no hay desplazamiento.",
-        "E": "No hay diferencia, son dos nombres para el mismo tipo de reacción."
+        "A": "$$A + B \\rightarrow AB$$",
+        "B": "$$XY \\rightarrow X + Y$$",
+        "C": "$$A + BC \\rightarrow AC + B$$",
+        "D": "$$C + D \\rightarrow CD$$",
+        "E": "$$ABC \\rightarrow A + B + C$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La principal diferencia radica en el cambio en el número de sustancias. En la síntesis, el número de sustancias disminuye (varios reactantes forman un producto). En la descomposición, el número de sustancias aumenta (un reactante forma varios productos). Son procesos opuestos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La forma $$A + BC \\rightarrow AC + B$$ describe una reacción de desplazamiento simple o sustitución única, donde el elemento $$A$$ desplaza al elemento $$B$$ del compuesto $$BC$$. Las opciones A y D son de síntesis, mientras que B y E son de descomposición.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_009",
-      "pregunta": "Para que ocurra una reacción de desplazamiento simple del tipo $$A + BC \\rightarrow AC + B$$, ¿qué condición debe cumplir el elemento $$A$$ en relación con el elemento $$B$$?",
+      "pregunta": "La electrólisis del agua, representada por $$2H_2O(l) \\rightarrow 2H_2(g) + O_2(g)$$, es un ejemplo específico de una reacción de descomposición en...",
       "dificultad": 2,
       "opciones": {
-        "A": "Debe ser un no metal.",
-        "B": "Debe estar en estado gaseoso.",
-        "C": "Debe ser menos activo que el elemento $$B$$.",
-        "D": "Debe ser más activo que el elemento $$B$$.",
-        "E": "Debe tener una masa atómica mayor que $$B$$."
+        "A": "Un elemento y un compuesto",
+        "B": "Dos compuestos diferentes",
+        "C": "Tres sustancias simples",
+        "D": "Dos elementos",
+        "E": "Un compuesto iónico y un elemento"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El principio de las reacciones de desplazamiento simple es que un elemento más activo tiene la capacidad de desplazar a uno menos activo de un compuesto. Por lo tanto, para que la reacción proceda como está escrita, el elemento $$A$$ debe ser más reactivo que el elemento $$B$$, según la tabla de reactividad.",
+      "explicacion": "En esta reacción, el compuesto agua ($$H_2O$$) se descompone en sus componentes fundamentales: hidrógeno gaseoso ($$H_2$$) y oxígeno gaseoso ($$O_2$$), que son ambos elementos. Por lo tanto, es un ejemplo de descomposición en dos elementos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_010",
-      "pregunta": "La formación de amoníaco a partir de nitrógeno e hidrógeno, representada por $$N_{2}(g) + 3H_{2}(g) \\rightarrow 2NH_{3}(g)$$, es un ejemplo de síntesis entre:",
+      "pregunta": "¿Cuál es la diferencia fundamental en la estructura de una reacción de síntesis frente a una de descomposición?",
       "dificultad": 2,
       "opciones": {
-        "A": "Dos compuestos",
-        "B": "Un elemento y un compuesto",
-        "C": "Dos elementos",
-        "D": "Un catalizador y un elemento",
-        "E": "Un compuesto iónico y un compuesto covalente"
+        "A": "Las reacciones de síntesis siempre liberan calor y las de descomposición lo absorben",
+        "B": "Las de síntesis combinan múltiples reactivos en un producto, mientras que las de descomposición dividen un reactivo en múltiples productos",
+        "C": "La síntesis ocurre solo con elementos y la descomposición solo con compuestos",
+        "D": "Las de síntesis son siempre espontáneas y las de descomposición no",
+        "E": "La síntesis involucra metales y la descomposición no metales"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "En esta reacción, los reactantes son nitrógeno ($$N_2$$) e hidrógeno ($$H_2$$). Ambas son sustancias elementales (moléculas diatómicas de un solo elemento) que se combinan para formar el compuesto amoníaco ($$NH_3$$). Por lo tanto, es un ejemplo de síntesis entre dos elementos.",
+      "respuesta_correcta": "B",
+      "explicacion": "La principal diferencia estructural es la relación entre reactivos y productos. En la síntesis ($$A+B \\rightarrow C$$), varios reactivos forman un solo producto. En la descomposición ($$C \\rightarrow A+B$$), un solo reactivo forma varios productos. Las otras opciones son generalizaciones que no siempre son ciertas o son incorrectas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_011",
-      "pregunta": "¿Qué agente externo se menciona como responsable de la descomposición del agua en la reacción $$2H_{2}O(l) \\rightarrow 2H_{2}(g) + O_{2}(g)$$?",
+      "pregunta": "En una reacción de sustitución única, ¿qué factor determina si un elemento puede desplazar a otro de un compuesto?",
       "dificultad": 2,
       "opciones": {
-        "A": "Luz ultravioleta",
-        "B": "Calor",
-        "C": "Alta presión",
-        "D": "Corriente eléctrica (Electrólisis)",
-        "E": "Un catalizador de platino"
+        "A": "El estado de agregación de los reactivos",
+        "B": "La masa molar del elemento que desplaza",
+        "C": "La temperatura a la que ocurre la reacción",
+        "D": "La reactividad relativa de los elementos involucrados",
+        "E": "El color de los compuestos formados"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El ejemplo específico de la descomposición del agua en hidrógeno y oxígeno está etiquetado con la palabra \"Electrólisis\". La electrólisis es un proceso que utiliza una corriente eléctrica para inducir una reacción química no espontánea, en este caso, la descomposición del agua.",
+      "explicacion": "El principio fundamental de las reacciones de desplazamiento simple es la reactividad. Un elemento más activo (más reactivo) tiene la capacidad de desplazar a un elemento menos activo (menos reactivo) de un compuesto. Esta jerarquía se organiza en la tabla o serie de reactividad de los elementos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_012",
-      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente una posibilidad en las reacciones de descomposición?",
+      "pregunta": "La reacción $$SO_3(g) + H_2O(l) \\rightarrow H_2SO_4(ac)$$ es un ejemplo de...",
       "dificultad": 2,
       "opciones": {
-        "A": "Siempre resultan en la formación de dos elementos puros.",
-        "B": "Un reactante puede descomponerse en un elemento y un compuesto.",
-        "C": "Es un proceso que siempre ocurre de manera espontánea sin energía externa.",
-        "D": "Implica la combinación de dos o más sustancias para formar una.",
-        "E": "Un elemento activo siempre desplaza a uno menos activo."
+        "A": "Descomposición en dos compuestos",
+        "B": "Desplazamiento simple",
+        "C": "Descomposición en un elemento y un compuesto",
+        "D": "Síntesis de dos compuestos",
+        "E": "Descomposición de dos elementos"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El contenido educativo proporciona ejemplos de diferentes resultados de la descomposición. Uno de ellos, $$2KClO_{3}(s) \\rightarrow 2KCl(s) + 3O_{2}(g)$$, muestra cómo un compuesto se descompone en otro compuesto ($$KCl$$) y un elemento ($$O_2$$). Por lo tanto, esta afirmación es correcta. La opción A es incorrecta porque también pueden formarse compuestos; la C es incorrecta porque a menudo no son espontáneas; D describe la síntesis y E el desplazamiento.",
+      "respuesta_correcta": "D",
+      "explicacion": "Esta es una reacción de síntesis o combinación porque dos reactivos, que son ambos compuestos (trióxido de azufre, $$SO_3$$, y agua, $$H_2O$$), se combinan para formar un único producto, el ácido sulfúrico ($$H_2SO_4$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_013",
-      "pregunta": "Al analizar la reacción $$2KClO_{3}(s) \\rightarrow 2KCl(s) + 3O_{2}(g)$$ y sabiendo que requiere calor, ¿qué se puede inferir sobre la naturaleza de esta transformación química?",
+      "pregunta": "Al observar la reacción de descomposición del clorato de potasio $$2KClO_3(s) \\rightarrow 2KCl(s) + 3O_2(g)$$ y considerando las características generales de este tipo de reacciones, ¿qué es más probable que se requiera para que ocurra?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es una reacción de síntesis que absorbe calor.",
-        "B": "Es una reacción de desplazamiento simple espontánea.",
-        "C": "Es una reacción de descomposición no espontánea.",
-        "D": "Es una reacción de combinación que requiere un catalizador.",
-        "E": "Es una electrólisis que forma dos compuestos."
+        "A": "La presencia de otro compuesto como $$KCl$$ para iniciarla",
+        "B": "Una disminución significativa de la presión",
+        "C": "Un aporte de energía externa, como calor",
+        "D": "La reacción con un elemento más activo",
+        "E": "La disolución de los reactivos en agua"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La reacción muestra a un único reactante ($$KClO_3$$) formando múltiples productos ($$KCl$$ y $$O_2$$), lo que la clasifica como una descomposición. El hecho de que se indique que requiere calor como agente externo significa que no ocurre de manera espontánea bajo condiciones normales. Por lo tanto, es una reacción de descomposición no espontánea.",
+      "explicacion": "Las reacciones de descomposición, como la del $$KClO_3$$, mayormente no son espontáneas. Requieren una fuente de energía externa para romper los enlaces del compuesto reactante. El texto menciona explícitamente el calor como agente para esta reacción específica, lo cual es consistente con la regla general de que la descomposición necesita agentes como calor, luz o electricidad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_014",
-      "pregunta": "¿Cuál de las siguientes opciones describe un escenario que NO corresponde a los tipos de reacción de síntesis presentados?",
+      "pregunta": "¿Cuál de los siguientes pares de reactivos podría, según los ejemplos, participar en una reacción de síntesis para formar un solo producto compuesto?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un elemento metálico reacciona con un elemento no metálico para formar una sal.",
-        "B": "Un óxido no metálico como el $$SO_3$$ reacciona con agua para formar un ácido.",
-        "C": "Dos gases elementales, como $$N_2$$ y $$H_2$$, se combinan para formar un compuesto.",
-        "D": "Un elemento reacciona con un compuesto para formar un nuevo compuesto y un nuevo elemento.",
-        "E": "Un elemento como el oxígeno reacciona con un compuesto como el $$CO$$."
+        "A": "$$H_2O$$ y $$H_2$$",
+        "B": "$$SO_3$$ y $$H_2O$$",
+        "C": "$$CaCO_3$$ y $$CaO$$",
+        "D": "$$KClO_3$$ y $$O_2$$",
+        "E": "$$CO$$ y $$CO_2$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Las opciones A, B, C y E describen escenarios que se ajustan al patrón de síntesis ($$A + B \\rightarrow AB$$), donde dos o más sustancias forman un solo producto. La opción D, donde un elemento reacciona con un compuesto para formar un nuevo compuesto y un nuevo elemento, corresponde exactamente al patrón de una reacción de desplazamiento simple o sustitución única ($$A + BC \\rightarrow AC + B$$), no de síntesis.",
+      "respuesta_correcta": "B",
+      "explicacion": "Basado en el ejemplo $$SO_3(g) + H_2O(l) \\rightarrow H_2SO_4(ac)$$, se muestra una reacción de síntesis donde dos compuestos (un óxido no metálico y agua) se combinan para formar un único producto (un ácido). El par $$SO_3$$ y $$H_2O$$ encaja perfectamente en este patrón de síntesis entre dos compuestos. Las otras opciones no representan combinaciones típicas de síntesis vistas en los ejemplos o son productos/reactivos de descomposición.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_177_015",
-      "pregunta": "Considerando los patrones generales $$A + B \\rightarrow AB$$, $$AB \\rightarrow A + B$$ y $$A + BC \\rightarrow AC + B$$, ¿cuál es la principal diferencia en términos de la cantidad de productos en relación con los reactantes?",
+      "pregunta": "Una reacción inicia con un solo compuesto y, tras aplicar una corriente eléctrica, produce dos sustancias elementales distintas. ¿Qué tipo de reacción es y cuál es su forma general?",
       "dificultad": 3,
       "opciones": {
-        "A": "La síntesis y la descomposición tienen un solo reactante.",
-        "B": "El desplazamiento y la síntesis siempre tienen dos productos.",
-        "C": "La síntesis produce una sola sustancia, mientras que la descomposición y el desplazamiento producen dos o más.",
-        "D": "La descomposición es la única que tiene un solo reactante.",
-        "E": "La síntesis y el desplazamiento tienen el mismo número de reactantes y productos."
+        "A": "Síntesis; $$A + B \\rightarrow AB$$",
+        "B": "Desplazamiento simple; $$C + AB \\rightarrow CB + A$$",
+        "C": "Descomposición; $$AB \\rightarrow A + B$$",
+        "D": "Análisis; $$A + B \\rightarrow AB$$",
+        "E": "Combinación; $$AB \\rightarrow A + B$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Analizando los patrones: la síntesis ($$A + B \\rightarrow AB$$) tiene dos o más reactantes. El desplazamiento simple ($$A + BC \\rightarrow AC + B$$) tiene dos reactantes. La descomposición ($$AB \\rightarrow A + B$$) es la única de las tres que se caracteriza por tener un solo reactante que se fragmenta en múltiples productos. Las otras opciones son incorrectas: C es incorrecta porque el desplazamiento simple ($$AC + B$$) produce dos sustancias, no siempre \"dos o más\". La opción D es la más precisa y distintiva entre los tres tipos descritos.",
+      "respuesta_correcta": "C",
+      "explicacion": "El proceso describe un único reactivo que se divide en dos o más productos, lo cual es la definición de una reacción de descomposición (o análisis). El hecho de que se necesite una corriente eléctrica confirma que es una descomposición no espontánea (electrólisis). La forma general es que un compuesto $$AB$$ se descompone en sus componentes $$A$$ y $$B$$. Por lo tanto, es una descomposición con la forma general $$AB \\rightarrow A + B$$.",
       "imagen": null
     }
   ]

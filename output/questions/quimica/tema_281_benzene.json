@@ -3,5 +3,231 @@
   "numero_tema": 281,
   "total_temas": 322,
   "titulo_tema": "Benzene",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_281_001",
+      "pregunta": "¿Cuál es la fórmula molecular del benceno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$CH$$",
+        "B": "$$C_2H_2$$",
+        "C": "$$C_6H_{12}$$",
+        "D": "$$C_6H_6$$",
+        "E": "$$C_6H_{14}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula molecular del benceno es $$C_6H_6$$. Esto fue determinado por Eilhard Mitscherlich, quien, a partir de la fórmula empírica $$CH$$ y una masa molecular de aproximadamente 78, dedujo que la molécula debía contener 6 átomos de carbono y 6 de hidrógeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_002",
+      "pregunta": "¿Qué científico aisló por primera vez el benceno como un compuesto puro en 1825?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Friedrich Kekulé",
+        "B": "Eilhard Mitscherlich",
+        "C": "Michael Faraday",
+        "D": "Antoine Lavoisier",
+        "E": "John Dalton"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Michael Faraday fue el primer científico en aislar benceno en estado puro en el año 1825. Lo obtuvo a partir del gas de alumbrado, que se utilizaba para la iluminación en esa época. Eilhard Mitscherlich lo sintetizó más tarde y Friedrich Kekulé propuso su famosa estructura anular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_003",
+      "pregunta": "¿Cuál es la geometría de la molécula de benceno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tetraédrica",
+        "B": "Lineal",
+        "C": "Piramidal trigonal",
+        "D": "Angular",
+        "E": "Plana y hexagonal regular"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La molécula de benceno es plana y tiene la forma de un hexágono regular. Esta geometría se debe a que todos sus átomos de carbono tienen hibridación $$sp^2$$, lo que resulta en ángulos de enlace de $$120^\\circ$$ y una disposición planar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_004",
+      "pregunta": "¿De qué fuente aisló Michael Faraday el benceno originalmente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Del ácido benzoico",
+        "B": "Del incienso de Java",
+        "C": "Del gas de alumbrado",
+        "D": "De la destilación del petróleo",
+        "E": "De la hulla"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En 1825, Michael Faraday aisló por primera vez un compuesto puro, que ahora conocemos como benceno, a partir del gas de alumbrado, un subproducto gaseoso utilizado para la iluminación pública y doméstica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_005",
+      "pregunta": "¿Qué tipo de hibridación presentan los seis átomos de carbono en el anillo de benceno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$sp$$",
+        "B": "$$sp^2$$",
+        "C": "$$sp^3$$",
+        "D": "$$sp^3d$$",
+        "E": "No presentan hibridación"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cada uno de los seis átomos de carbono en el benceno tiene hibridación $$sp^2$$. Esto significa que cada carbono forma tres enlaces sigma (dos con otros carbonos y uno con un hidrógeno) en un plano, y le queda un orbital $p$ sin hibridar perpendicular a ese plano.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_006",
+      "pregunta": "¿Qué dos datos permitieron a Eilhard Mitscherlich determinar que la fórmula molecular del benceno era $$C_6H_6$$ y no su fórmula empírica $$CH$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Punto de ebullición y color",
+        "B": "Densidad de vapor y fórmula empírica",
+        "C": "Reactividad y punto de fusión",
+        "D": "Solubilidad y ángulo de enlace",
+        "E": "Origen del compuesto y nombre"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Eilhard Mitscherlich confirmó la fórmula empírica $$CH$$ (masa de $\\approx 13$) y, mediante mediciones de la densidad de vapor del compuesto, determinó una masa molecular aproximada de 78. Al dividir la masa molecular por la masa de la fórmula empírica ($$78/13 \\approx 6$$), concluyó que la fórmula molecular era $$C_6H_6$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_007",
+      "pregunta": "¿Qué característica de los enlaces carbono-carbono en el benceno indica que no es una estructura con enlaces dobles y sencillos alternados?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Todos los enlaces tienen una longitud de $$154 \\text{ pm}$$",
+        "B": "Todos los enlaces tienen una longitud de $$134 \\text{ pm}$$",
+        "C": "Todos los enlaces tienen la misma longitud, intermedia entre un enlace sencillo y uno doble.",
+        "D": "Los enlaces son más largos que los enlaces sencillos típicos.",
+        "E": "La longitud de los enlaces varía aleatoriamente en la molécula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La evidencia experimental muestra que todos los enlaces carbono-carbono en el benceno tienen la misma longitud ($$139 \\text{ pm}$$). Este valor es intermedio entre la longitud de un enlace sencillo C-C ($\\approx 154 \\text{ pm}$) y un enlace doble C=C ($\\approx 134 \\text{ pm}$), lo que demuestra que los enlaces no son ni puramente sencillos ni dobles, sino un híbrido de ambos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_008",
+      "pregunta": "La etimología del nombre \"benceno\" combina \"benzoe\" con el sufijo \"-eno\". ¿Qué propiedad química del benceno se infiere de este sufijo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es un compuesto aromático",
+        "B": "Es un hidrocarburo saturado",
+        "C": "Es un alcohol",
+        "D": "Es un hidrocarburo insaturado",
+        "E": "Proviene de una fuente natural"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la nomenclatura química orgánica, el sufijo \"-eno\" se utiliza para designar a los hidrocarburos que contienen al menos un doble enlace carbono-carbono, es decir, a los hidrocarburos insaturados. Aunque el benceno tiene un comportamiento especial (aromaticidad), su fórmula indica insaturación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_009",
+      "pregunta": "¿Cómo se compara la reactividad del benceno con la de los alquenos típicos, a pesar de que ambos son insaturados?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El benceno es mucho más reactivo y experimenta reacciones de adición fácilmente.",
+        "B": "El benceno tiene una reactividad idéntica a la del eteno.",
+        "C": "El benceno es mucho menos reactivo y no experimenta las reacciones de adición típicas de los alquenos.",
+        "D": "El benceno solo reacciona bajo condiciones de alta presión, a diferencia de los alquenos.",
+        "E": "El benceno es un compuesto saturado y, por tanto, menos reactivo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las propiedades más notables del benceno es su estabilidad inusual. A pesar de ser un compuesto insaturado, es mucho menos reactivo que los alquenos comunes y no sufre las típicas reacciones de adición que caracterizan a estos últimos, como la halogenación o la hidrogenación en condiciones suaves.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_010",
+      "pregunta": "¿Cuál es el valor de los ángulos de enlace C-C-C en la estructura hexagonal del benceno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$90^\\circ$$",
+        "B": "$$109.5^\\circ$$",
+        "C": "$$120^\\circ$$",
+        "D": "$$180^\\circ$$",
+        "E": "$$60^\\circ$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los átomos de carbono con hibridación $$sp^2$$ adoptan una geometría trigonal plana, con ángulos de enlace ideales de $$120^\\circ$$. En el benceno, esta geometría se manifiesta perfectamente en su estructura de hexágono regular, donde todos los ángulos de enlace C-C-C son de $$120^\\circ$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_011",
+      "pregunta": "¿Qué químico sintetizó benceno calentando ácido benzoico y le dio el nombre de \"bencina\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Michael Faraday",
+        "B": "Friedrich Kekulé",
+        "C": "Justus von Liebig",
+        "D": "Robert Bunsen",
+        "E": "Eilhard Mitscherlich"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En 1834, Eilhard Mitscherlich logró sintetizar el mismo compuesto que Faraday había aislado, pero esta vez lo hizo calentando ácido benzoico. Debido a que su compuesto derivaba de la benzoína (relacionado con el ácido benzoico), lo llamó \"bencina\", nombre que evolucionaría al actual \"benceno\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_012",
+      "pregunta": "¿Qué conclusión clave sobre la estructura del benceno se obtiene de los mapas de potencial electrostático que muestran una densidad electrónica idéntica en los seis enlaces carbono-carbono?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que los átomos de hidrógeno son fuertemente electronegativos.",
+        "B": "Que la molécula es altamente polar.",
+        "C": "Que los seis enlaces carbono-carbono son equivalentes.",
+        "D": "Que el benceno tiene enlaces iónicos.",
+        "E": "Que la molécula tiene una forma de silla."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un mapa de potencial electrostático visualiza la distribución de electrones en una molécula. Si este mapa muestra que la densidad electrónica es la misma en los seis enlaces C-C, la conclusión directa es que estos enlaces son indistinguibles entre sí. Esto apoya un modelo de electrones deslocalizados en lugar de enlaces dobles y sencillos fijos y alternados.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_013",
+      "pregunta": "La longitud de un enlace sencillo C-C es de aproximadamente $$154 \\text{ pm}$$ y la de un doble enlace C=C es de $$134 \\text{ pm}$$. ¿Por qué el hecho de que todos los enlaces C-C en el benceno midan $$139 \\text{ pm}$$ refuta la estructura de Kekulé con enlaces alternados?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque $$139 \\text{ pm}$$ es más cercano a un enlace doble, lo que indica que todos son dobles.",
+        "B": "Porque una estructura con enlaces alternados debería mostrar dos longitudes de enlace distintas, una cercana a $$154 \\text{ pm}$$ y otra a $$134 \\text{ pm}$$, no un único valor intermedio.",
+        "C": "Porque $$139 \\text{ pm}$$ es un valor demasiado corto para formar un anillo estable.",
+        "D": "Porque la longitud del enlace no tiene relación con el tipo de enlace (sencillo o doble).",
+        "E": "Porque $$139 \\text{ pm}$$ es el promedio exacto y esto no es físicamente posible."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si el benceno tuviera una estructura fija de dobles y sencillos enlaces alternados, se esperarían medir experimentalmente dos longitudes de enlace diferentes: tres enlaces cortos ($\\approx 134 \\text{ pm}$) y tres enlaces largos ($\\approx 154 \\text{ pm}$). El hallazgo de que los seis enlaces son idénticos y tienen una longitud intermedia ($$139 \\text{ pm}$$) es una prueba contundente contra este modelo y apoya la teoría de la deslocalización electrónica, donde los electrones pi se distribuyen uniformemente por todo el anillo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_014",
+      "pregunta": "Sabiendo que todos los carbonos del benceno tienen hibridación $$sp^2$$, ¿qué implicaciones estructurales se derivan directamente de esta hibridación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una estructura tridimensional con ángulos de $$109.5^\\circ$$ y orbitales $p$ paralelos.",
+        "B": "Una estructura plana con ángulos de $$120^\\circ$$ y un orbital $p$ sin hibridar en cada carbono, perpendicular al plano del anillo.",
+        "C": "Una estructura lineal con ángulos de $$180^\\circ$$ y dos orbitales $p$ sin hibridar en cada carbono.",
+        "D": "Una estructura tetraédrica, ya que la hibridación $$sp^2$$ no es estable en anillos.",
+        "E": "Una estructura plana con ángulos de $$90^\\circ$$ para minimizar la tensión del anillo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La hibridación $$sp^2$$ es la clave para entender la estructura del benceno. Implica que cada carbono forma tres orbitales híbridos $$sp^2$$ que se sitúan en un plano con una separación de $$120^\\circ$$, creando el esqueleto sigma plano del anillo hexagonal. El orbital $p$ que no participa en la hibridación queda perpendicular a este plano, permitiendo el solapamiento lateral con los orbitales $p$ de los carbonos vecinos para formar el sistema pi deslocalizado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_281_015",
+      "pregunta": "Si la fórmula empírica del benceno es $$CH$$ (masa molar $\\approx 13.02 \\text{ g/mol}$) y su masa molecular determinada experimentalmente es de aproximadamente $$78 \\text{ g/mol}$$, ¿cómo se establece la fórmula molecular?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fórmula molecular es siempre el doble de la empírica, resultando en $$C_2H_2$$.",
+        "B": "Se divide la masa molecular por la masa de la fórmula empírica ($$78 / 13.02 \\approx 6$$), y se multiplica la fórmula empírica por este factor, obteniendo $$C_6H_6$$.",
+        "C": "Se asume que, al ser un anillo, la fórmula debe ser $$C_6H_6$$ sin necesidad de cálculos.",
+        "D": "Se resta la masa de la fórmula empírica de la masa molecular para encontrar el número de unidades.",
+        "E": "La masa molecular y la empírica no están relacionadas, por lo que no se puede determinar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación entre la fórmula molecular y la fórmula empírica se basa en que la primera es un múltiplo entero de la segunda. Para encontrar ese múltiplo ($n$), se realiza el siguiente cálculo: $$n = \\frac{\\text{Masa molecular}}{\\text{Masa de la fórmula empírica}}$$. Para el benceno, esto es $$n \\approx \\frac{78}{13.02} \\approx 6$$. Luego, la fórmula molecular se obtiene multiplicando los subíndices de la fórmula empírica por este factor: $$(CH)_6 = C_6H_6$$.",
+      "imagen": null
+    }
+  ]
 }

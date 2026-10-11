@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 147,
+  "total_temas": 320,
+  "titulo_tema": "Barreras Biológicas",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_147_001",
+      "pregunta": "¿Qué nombre recibe el conjunto de bacterias que viven en el intestino en una relación de simbiosis con el ser humano?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Células Natural Killer",
+        "B": "Microbiota intestinal",
+        "C": "Perforinas plasmáticas",
+        "D": "Receptores CD16",
+        "E": "Anticuerpos simbióticos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La microbiota intestinal es el término utilizado para describir el conjunto de bacterias que habitan en el intestino y mantienen una relación simbiótica con el ser humano, contribuyendo a su salud. Las otras opciones se refieren a componentes del sistema inmune (Células NK, receptores CD16, anticuerpos) o a moléculas específicas (perforinas), no a la comunidad bacteriana intestinal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_002",
+      "pregunta": "¿Cuál es la función principal de las células Natural Killer (NK)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Producir anticuerpos contra bacterias",
+        "B": "Formar una barrera física en la piel",
+        "C": "Destruir células infectadas o transformadas",
+        "D": "Fomentar el crecimiento de la microbiota intestinal",
+        "E": "Regular la temperatura corporal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La función principal de las células NK es la destrucción de células que han sido infectadas por virus o que se han vuelto tumorales (transformadas). Lo hacen mediante un ataque directo a su membrana plasmática. Las otras opciones describen funciones de otras partes del sistema inmune o del cuerpo que no corresponden a las células NK.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_003",
+      "pregunta": "¿Qué molécula utilizan las células NK para perforar la membrana plasmática de las células diana?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anticuerpos",
+        "B": "CD16",
+        "C": "Perforinas",
+        "D": "Simbiontes",
+        "E": "Citotoxinas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las células NK liberan proteínas llamadas perforinas, las cuales se insertan en la membrana plasmática de la célula objetivo, creando poros o perforaciones. Esto conduce a la lisis y muerte de la célula. Los anticuerpos y los receptores CD16 están implicados en el mecanismo ADCC, pero no son la molécula que perfora directamente la membrana.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_004",
+      "pregunta": "¿Contra qué dos tipos de células está dirigida principalmente la actividad citotóxica de las células NK?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Bacterias simbióticas y hongos",
+        "B": "Células de la piel y glóbulos rojos",
+        "C": "Células infectadas por virus y células tumorales",
+        "D": "Células nerviosas y células musculares",
+        "E": "Bacterias ajenas y células de la microbiota"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las células NK están especializadas en reconocer y eliminar células del propio cuerpo que presentan anomalías, específicamente aquellas que han sido infectadas por virus o que han sufrido transformaciones tumorales. No actúan principalmente contra bacterias, hongos o células sanas del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_005",
+      "pregunta": "Además de la microbiota intestinal, ¿en qué otra parte del cuerpo se mencionan bacterias simbióticas que impiden el desarrollo de patógenos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En la sangre",
+        "B": "En la vagina",
+        "C": "En los pulmones",
+        "D": "En la superficie de la piel",
+        "E": "En el cerebro"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El contenido menciona explícitamente a las bacterias simbióticas de la vagina como un ejemplo de barrera biológica, que junto con la microbiota intestinal, impiden el crecimiento de microorganismos no deseados como hongos o bacterias ajenas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_006",
+      "pregunta": "¿Qué función cumple el receptor CD16 en las células NK?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Perforar directamente la membrana de la célula tumoral",
+        "B": "Liberar perforinas de forma inespecífica",
+        "C": "Unirse a anticuerpos para iniciar la citotoxicidad dependiente de anticuerpos (ADCC)",
+        "D": "Reconocer a las bacterias de la microbiota intestinal",
+        "E": "Impedir el desarrollo de hongos y bacterias ajenas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El receptor CD16 es específico para unirse a la porción constante de los anticuerpos. Cuando un anticuerpo está unido a una célula diana (infectada o tumoral), el receptor CD16 de la célula NK se une a este anticuerpo, lo que activa a la célula NK para que destruya la célula diana. Este proceso se conoce como ADCC.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_007",
+      "pregunta": "¿Cuál es la consecuencia directa de la acción de las perforinas sobre una célula diana?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La célula diana se vuelve simbiótica",
+        "B": "La célula diana es marcada por anticuerpos",
+        "C": "La célula diana estalla debido a la perforación de su membrana",
+        "D": "La célula diana activa sus propios receptores CD16",
+        "E": "La célula diana se divide de forma incontrolada"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las perforinas crean poros en la membrana plasmática de la célula objetivo. Esta alteración de la integridad de la membrana provoca un desequilibrio osmótico, la entrada incontrolada de agua y, finalmente, la lisis o estallido de la célula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_008",
+      "pregunta": "¿Cómo contribuye la microbiota normal a la defensa del organismo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Atacando células tumorales mediante perforinas",
+        "B": "Produciendo anticuerpos específicos",
+        "C": "Impidiendo el desarrollo de hongos o bacterias ajenas",
+        "D": "Uniéndose a receptores CD16 para activarse",
+        "E": "Proporcionando actividad citotóxica inespecífica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La microbiota normal, como la intestinal o la vaginal, actúa como una barrera biológica. Ocupa un nicho ecológico y compite por los recursos, lo que dificulta o impide que microorganismos patógenos (hongos o bacterias ajenas) puedan establecerse y proliferar. Las otras opciones describen funciones de las células NK o linfocitos B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_009",
+      "pregunta": "El mecanismo de Citotoxicidad Dependiente de Anticuerpos (ADCC) requiere la cooperación entre:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Células NK y bacterias simbióticas",
+        "B": "Perforinas y la microbiota intestinal",
+        "C": "Células tumorales y células infectadas por virus",
+        "D": "Anticuerpos y los receptores CD16 de las células NK",
+        "E": "Hongos y bacterias ajenas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El mecanismo ADCC es un puente entre la inmunidad adaptativa (anticuerpos) y la inmunidad innata (células NK). Requiere que los anticuerpos primero marquen una célula diana, y luego que las células NK reconozcan estos anticuerpos a través de sus receptores CD16 para proceder con la destrucción celular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_010",
+      "pregunta": "¿Qué término describe la relación que las bacterias de la microbiota intestinal tienen con el ser humano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Patogénica",
+        "B": "Citotóxica",
+        "C": "Simbiosis",
+        "D": "Antagónica",
+        "E": "Inespecífica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La simbiosis es una relación de cooperación estrecha y a largo plazo entre dos organismos de diferentes especies. En este caso, el ser humano proporciona un ambiente y nutrientes para las bacterias, y estas a cambio impiden el crecimiento de patógenos, entre otros beneficios.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_011",
+      "pregunta": "¿Cuál es la característica de la actividad citotóxica de las células NK mencionada en el texto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es altamente específica para un solo tipo de virus",
+        "B": "Es inespecífica",
+        "C": "Depende exclusivamente de la microbiota",
+        "D": "Es un proceso lento que dura varios días",
+        "E": "Solo ocurre en la vagina"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las células NK proporcionan una actividad citotóxica inespecífica. Esto significa que pueden reconocer y destruir una variedad de células anormales (infectadas o tumorales) sin necesidad de una exposición previa, a diferencia de los linfocitos T citotóxicos que son altamente específicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_012",
+      "pregunta": "Para que una célula NK destruya una célula diana mediante el mecanismo ADCC, ¿qué debe expresar la superficie de la célula diana?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Receptores CD16",
+        "B": "Perforinas",
+        "C": "Bacterias simbióticas",
+        "D": "Anticuerpos unidos a ella",
+        "E": "Una membrana plasmática resistente"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El mecanismo ADCC se inicia cuando los anticuerpos se unen a antígenos en la superficie de una célula diana. La célula NK no reconoce directamente a la célula diana, sino a los anticuerpos que la están recubriendo. Es esta presencia de anticuerpos lo que permite la unión del receptor CD16 y la consiguiente activación de la célula NK.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_013",
+      "pregunta": "Si una célula tumoral no es reconocida por ningún anticuerpo, ¿qué mecanismo de destrucción por parte de las células NK sería aún posible según la información proporcionada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El mecanismo de ADCC, ya que es inespecífico",
+        "B": "La destrucción mediante el ataque a su membrana con perforinas",
+        "C": "La inhibición por parte de la microbiota intestinal",
+        "D": "Ninguno, ya que los anticuerpos son siempre necesarios",
+        "E": "La activación a través del receptor CD16"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El texto describe dos mecanismos. Uno es el ADCC, que depende de anticuerpos. El otro, descrito como su principal función, es la destrucción directa de células transformadas mediante el ataque a su membrana con perforinas. Este segundo mecanismo no requiere la presencia de anticuerpos, por lo tanto, aún sería funcional contra una célula tumoral no opsonizada (no cubierta por anticuerpos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_014",
+      "pregunta": "¿Cuál es la diferencia fundamental entre el papel de la microbiota como barrera biológica y el de las células NK?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La microbiota es una defensa celular, mientras que las NK son una defensa química",
+        "B": "La microbiota previene la colonización por patógenos, mientras que las NK eliminan células propias ya alteradas",
+        "C": "La microbiota actúa de forma específica y las NK de forma inespecífica",
+        "D": "Las células NK solo actúan en el intestino y la microbiota en todo el cuerpo",
+        "E": "No hay diferencia, ambas utilizan perforinas para destruir patógenos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta pregunta requiere sintetizar la función de ambos componentes. La microbiota intestinal y vaginal actúa de manera preventiva, impidiendo que patógenos externos se establezcan. En cambio, las células NK actúan sobre células del propio organismo que ya han sido comprometidas (infectadas por virus o transformadas en tumorales). La microbiota es una barrera externa/de exclusión, mientras que las NK son una línea de defensa interna/de eliminación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_147_015",
+      "pregunta": "Una deficiencia en la expresión de receptores CD16 en las células NK afectaría más directamente a su capacidad para:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Impedir el desarrollo de hongos en el intestino",
+        "B": "Reconocer y perforar la membrana de una célula tumoral sin anticuerpos",
+        "C": "Vivir en simbiosis con el ser humano",
+        "D": "Producir perforinas",
+        "E": "Ejecutar la citotoxicidad dependiente de anticuerpos (ADCC)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El receptor CD16 es el componente de la célula NK que se une a los anticuerpos para mediar el mecanismo de ADCC. Una deficiencia en este receptor impediría esta unión específica, anulando la capacidad de la célula NK para activarse a través de esta vía. Sin embargo, no afectaría directamente a su capacidad de producir perforinas ni a su función principal de reconocer y destruir células alteradas por otros mecanismos que no dependen de anticuerpos.",
+      "imagen": null
+    }
+  ]
+}

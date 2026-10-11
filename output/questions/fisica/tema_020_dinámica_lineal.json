@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 20,
+  "total_temas": 137,
+  "titulo_tema": "Dinámica Lineal",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_020_001",
+      "pregunta": "¿Cuál es la ecuación escalar que representa la Segunda Ley de Newton?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$F_R = \\frac{m}{a}$$",
+        "B": "$$a = F_R \\cdot m$$",
+        "C": "$$F_R = ma^2$$",
+        "D": "$$F_R = ma$$",
+        "E": "$$m = F_R a$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Segunda Ley de Newton establece que la fuerza resultante ($$F_R$$) que actúa sobre un cuerpo es igual al producto de su masa ($$m$$) por la aceleración ($$a$$) que adquiere. La forma escalar de esta ley se expresa como $$F_R = ma$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_002",
+      "pregunta": "¿Qué relación existe entre la aceleración de un cuerpo y la fuerza resultante desequilibrada que actúa sobre él?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son inversamente proporcionales.",
+        "B": "Son directamente proporcionales.",
+        "C": "No tienen ninguna relación.",
+        "D": "La aceleración es proporcional al cuadrado de la fuerza.",
+        "E": "La fuerza es proporcional al cuadrado de la aceleración."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Segunda Ley de Newton indica que la aceleración producida en un cuerpo es directamente proporcional a la magnitud de la fuerza resultante que actúa sobre él. Esto significa que si la fuerza aumenta, la aceleración también aumenta en la misma proporción, siempre que la masa se mantenga constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_003",
+      "pregunta": "Según la Segunda Ley de Newton, ¿cómo se relaciona la aceleración de un cuerpo con su masa, si la fuerza resultante es constante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Son directamente proporcionales.",
+        "B": "Son inversamente proporcionales.",
+        "C": "La aceleración es independiente de la masa.",
+        "D": "La aceleración es igual a la masa.",
+        "E": "La aceleración es el doble de la masa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ley establece que la aceleración es inversamente proporcional a la masa del cuerpo. Esto se ve en la ecuación $$a = \\frac{F_R}{m}$$. Si la fuerza resultante ($$F_R$$) se mantiene constante, un aumento en la masa ($$m$$) provocará una disminución en la aceleración ($$a$$), y viceversa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_004",
+      "pregunta": "En el Sistema Internacional, ¿cuáles son las unidades para la fuerza resultante ($$F_R$$), la masa ($$m$$) y la aceleración ($$a$$) respectivamente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Kilogramo (kg), Newton (N), metro por segundo al cuadrado (m/s²)",
+        "B": "Newton (N), gramo (g), metro por segundo (m/s)",
+        "C": "Newton (N), kilogramo (kg), metro por segundo al cuadrado (m/s²)",
+        "D": "Dina (dyn), gramo (g), centímetro por segundo al cuadrado (cm/s²)",
+        "E": "Kilogramo (kg), Newton (N), metro por segundo (m/s)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para aplicar correctamente la Segunda Ley de Newton en el Sistema Internacional de Unidades, la fuerza resultante ($$F_R$$) se mide en Newtons (N), la masa ($$m$$) en kilogramos (kg), y la aceleración ($$a$$) en metros por segundo al cuadrado (m/s²).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_005",
+      "pregunta": "¿Qué indica la Segunda Ley de Newton sobre la dirección y el sentido de la aceleración que adquiere un cuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tiene dirección opuesta a la fuerza resultante.",
+        "B": "Tiene la misma dirección y sentido que la fuerza resultante.",
+        "C": "Es siempre perpendicular a la fuerza resultante.",
+        "D": "Tiene la misma dirección pero sentido opuesto a la fuerza resultante.",
+        "E": "Es independiente de la dirección de la fuerza resultante."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ley establece que la aceleración que produce una fuerza resultante desequilibrada sobre un cuerpo tendrá siempre la misma dirección y el mismo sentido que dicha fuerza. El vector aceleración y el vector fuerza resultante son colineales y apuntan hacia el mismo lado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_006",
+      "pregunta": "Si sobre un cuerpo en movimiento rectilíneo actúan fuerzas perpendiculares a su velocidad, ¿cuál es la resultante de dichas fuerzas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Igual a la masa por la aceleración ($$ma$$).",
+        "B": "Igual al peso del cuerpo.",
+        "C": "Mayor que cero.",
+        "D": "Cero.",
+        "E": "Igual a la fuerza de fricción."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En un movimiento rectilíneo, no hay desplazamiento ni cambio de velocidad en la dirección perpendicular al movimiento. Como no hay aceleración en esa dirección ($$a_{\\perp} = 0$$), la suma de todas las fuerzas o componentes de fuerzas en esa dirección debe ser cero, es decir, $$\\Sigma F_{\\perp} = m \\cdot a_{\\perp} = m \\cdot 0 = 0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_007",
+      "pregunta": "¿Cuál es el primer paso sugerido para resolver un problema de dinámica y hallar la fuerza resultante?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aplicar directamente la fórmula $$F_R = ma$$.",
+        "B": "Aislar imaginariamente el cuerpo o sistema a analizar.",
+        "C": "Calcular la energía cinética del cuerpo.",
+        "D": "Descomponer la fuerza de gravedad.",
+        "E": "Determinar la velocidad final del sistema."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para analizar correctamente las fuerzas que actúan sobre un objeto, el primer paso fundamental es aislarlo, ya sea real o imaginariamente, del resto del entorno. Este proceso, conocido como crear un diagrama de cuerpo libre, permite identificar y graficar todas las fuerzas externas que actúan sobre él.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_008",
+      "pregunta": "En el análisis del movimiento horizontal de un bloque sobre una mesa, ¿por qué la fuerza de gravedad no se considera al aplicar la ecuación $$F_R = ma$$ para el eje horizontal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la gravedad es una fuerza muy débil.",
+        "B": "Porque la gravedad solo actúa en la dirección vertical y se anula con otras fuerzas verticales.",
+        "C": "Porque el movimiento horizontal no tiene aceleración.",
+        "D": "Porque la ecuación $$F_R = ma$$ no se aplica a movimientos horizontales.",
+        "E": "Porque la masa del bloque se considera despreciable."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El análisis de la Segunda Ley de Newton se realiza por ejes. Para el movimiento horizontal, solo se consideran las fuerzas horizontales. La fuerza de gravedad es una fuerza vertical que actúa hacia abajo, y en un plano horizontal, es equilibrada por la fuerza normal que actúa hacia arriba. Por lo tanto, la resultante vertical es cero y no afecta la aceleración horizontal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_009",
+      "pregunta": "Si la fuerza resultante que actúa sobre un cuerpo de masa $$m$$ se duplica, ¿qué le ocurre a su aceleración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad.",
+        "B": "Permanece constante.",
+        "C": "Se duplica.",
+        "D": "Se cuadruplica.",
+        "E": "Se reduce a la cuarta parte."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que la aceleración es directamente proporcional a la fuerza resultante ($$a = \\frac{F_R}{m}$$), si la fuerza resultante ($$F_R$$) se duplica y la masa ($$m$$) permanece constante, la aceleración ($$a$$) también se duplicará para mantener la igualdad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_010",
+      "pregunta": "Si se aplica la misma fuerza resultante a dos cuerpos, uno con masa $$m$$ y otro con masa $$2m$$, ¿cómo será la aceleración del segundo cuerpo en comparación con la del primero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Será el doble.",
+        "B": "Será la misma.",
+        "C": "Será cuatro veces mayor.",
+        "D": "Será la mitad.",
+        "E": "Será la cuarta parte."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La aceleración es inversamente proporcional a la masa ($$a = \\frac{F_R}{m}$$). Si la fuerza ($$F_R$$) es la misma para ambos cuerpos, el cuerpo con el doble de masa ($$2m$$) experimentará la mitad de la aceleración que el cuerpo con masa $$m$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_011",
+      "pregunta": "¿Qué condición debe cumplirse para que un objeto o sistema experimente un movimiento acelerado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la suma de todas las fuerzas sea cero.",
+        "B": "Que la velocidad del objeto sea constante.",
+        "C": "Que sobre él actúe una fuerza resultante ($$F_R$$) no nula.",
+        "D": "Que la masa del objeto sea muy grande.",
+        "E": "Que solo la fuerza de gravedad actúe sobre él."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un objeto acelera solo si hay una fuerza neta o resultante desequilibrada actuando sobre él. Si la fuerza resultante es cero, el objeto permanecerá en reposo o se moverá con velocidad constante (Primera Ley de Newton). Por lo tanto, una $$F_R$$ no nula es necesaria para producir una aceleración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_012",
+      "pregunta": "Al realizar un diagrama de fuerzas para un cuerpo, ¿qué fuerzas se deben graficar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente las fuerzas que el cuerpo ejerce sobre su entorno.",
+        "B": "Las fuerzas internas del cuerpo.",
+        "C": "Tanto las fuerzas sobre el cuerpo como las que el cuerpo ejerce.",
+        "D": "Únicamente las fuerzas que actúan sobre el cuerpo.",
+        "E": "Solo la fuerza de gravedad y la fuerza normal."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El objetivo de un diagrama de cuerpo libre es analizar el movimiento de un objeto específico. Para ello, es crucial graficar únicamente las fuerzas externas que actúan *sobre* el cuerpo, sin incluir las fuerzas que este ejerce sobre otros objetos, ya que estas últimas no afectan su propio movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_013",
+      "pregunta": "Al analizar un sistema de dos bloques que se mueven juntos por la acción de una fuerza, ¿cómo se debe tratar la masa del sistema para aplicar la Segunda Ley de Newton?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se considera solo la masa del bloque más pesado.",
+        "B": "Se calcula el promedio de las masas.",
+        "C": "Se agrupan las masas, sumándolas para obtener una masa total.",
+        "D": "Se analiza cada bloque con una masa y aceleración diferentes.",
+        "E": "Se desprecia la masa del bloque más ligero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando varios cuerpos se mueven como una unidad (un sistema), se pueden analizar como un solo objeto. Para ello, la masa total del sistema es la suma de las masas individuales de los bloques. La fuerza resultante externa sobre el sistema producirá una aceleración común para todos los bloques.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_014",
+      "pregunta": "Un objeto está subiendo verticalmente con aceleración constante. Para aplicar la ecuación $$F_R = ma$$, ¿cuál sería la expresión correcta para la fuerza resultante ($$F_R$$) si $$F_{subida}$$ es la fuerza que lo impulsa hacia arriba y $$P$$ es su peso (fuerza de gravedad)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$F_R = F_{subida} + P$$",
+        "B": "$$F_R = F_{subida} - P$$",
+        "C": "$$F_R = P - F_{subida}$$",
+        "D": "$$F_R = F_{subida}$$",
+        "E": "$$F_R = P$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En el movimiento vertical, se deben considerar todas las fuerzas verticales. La fuerza $$F_{subida}$$ actúa hacia arriba (sentido positivo del movimiento acelerado) y el peso $$P$$ actúa hacia abajo (sentido opuesto). La fuerza resultante es la suma vectorial de estas fuerzas, que en este caso es la resta de sus módulos: $$F_R = F_{subida} - P$$. Esta fuerza resultante es la que produce la aceleración $$a$$ según la ecuación $$(F_{subida} - P) = ma$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_020_015",
+      "pregunta": "Un cuerpo es arrastrado sobre una superficie horizontal por una fuerza $$F$$ que forma un ángulo con la horizontal, provocando una aceleración. ¿Qué establece la condición de equilibrio en el eje vertical (perpendicular al movimiento)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que la componente horizontal de $$F$$ es igual a la fuerza de rozamiento.",
+        "B": "Que la fuerza normal es igual al peso del cuerpo.",
+        "C": "Que la suma de la fuerza normal y la componente vertical de $$F$$ es igual al peso.",
+        "D": "Que la componente vertical de $$F$$ es igual al peso.",
+        "E": "Que no existen fuerzas en el eje vertical."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El movimiento es horizontal, por lo que no hay aceleración en el eje vertical. Esto implica que la suma de fuerzas en el eje vertical es cero ($$\\Sigma F_y = 0$$). Las fuerzas que actúan verticalmente son: la fuerza normal ($$N$$) hacia arriba, la componente vertical de la fuerza $$F$$ ($$F_y$$) hacia arriba, y el peso ($$P$$) hacia abajo. La condición de equilibrio es $$N + F_y - P = 0$$, lo que es equivalente a $$N + F_y = P$$.",
+      "imagen": null
+    }
+  ]
+}

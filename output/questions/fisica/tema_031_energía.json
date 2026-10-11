@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 31,
+  "total_temas": 137,
+  "titulo_tema": "Energía",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_031_001",
+      "pregunta": "¿En qué unidad se mide la energía, al igual que el trabajo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Watt (W)",
+        "C": "Pascal (Pa)",
+        "D": "Joule (J)",
+        "E": "Kilogramo (kg)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Tanto la energía como el trabajo son magnitudes físicas que se miden en joules (J) en el Sistema Internacional de Unidades. El joule representa la cantidad de trabajo realizado cuando una fuerza de un newton desplaza un objeto un metro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_002",
+      "pregunta": "¿Qué propiedad se define como aquello que permite a un objeto realizar trabajo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Masa",
+        "B": "Energía",
+        "C": "Inercia",
+        "D": "Velocidad",
+        "E": "Aceleración"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía es, por definición, la capacidad que tiene un sistema o un objeto para realizar trabajo. Específicamente, es la energía disponible la que puede transformarse para ejercer una fuerza a lo largo de una distancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_003",
+      "pregunta": "La energía mecánica es la suma de dos tipos de energía. ¿Cuáles son?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Energía térmica y energía química",
+        "B": "Energía nuclear y energía eléctrica",
+        "C": "Energía potencial y energía cinética",
+        "D": "Energía sonora y energía lumínica",
+        "E": "Energía elástica y energía gravitacional"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía mecánica se define como la energía asociada a la posición y al movimiento de un objeto. Se compone de la energía potencial (debida a la posición) y la energía cinética (debida al movimiento), o la suma de ambas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_004",
+      "pregunta": "¿Cómo se clasifica la energía cinética como cantidad física?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vectorial",
+        "B": "Escalar",
+        "C": "Fundamental",
+        "D": "Tensorial",
+        "E": "Adimensional"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía cinética es una cantidad escalar. Esto significa que solo tiene magnitud y no depende de la dirección del movimiento del objeto. Se define únicamente por la masa y la rapidez del objeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_005",
+      "pregunta": "¿De qué dos magnitudes depende exclusivamente la energía cinética de una partícula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Masa y aceleración",
+        "B": "Masa y rapidez",
+        "C": "Fuerza y desplazamiento",
+        "D": "Posición y velocidad",
+        "E": "Rapidez y dirección"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía cinética de una partícula es una función directa de su masa y su rapidez (la magnitud de su velocidad). La dirección del movimiento no afecta su valor, por ser una cantidad escalar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_006",
+      "pregunta": "¿Bajo qué condición el trabajo neto sobre un cuerpo es cero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando la fuerza neta es máxima",
+        "B": "Cuando el cuerpo se mueve con aceleración constante",
+        "C": "Cuando el cuerpo se mueve con velocidad constante",
+        "D": "Cuando el cuerpo sigue una trayectoria curva",
+        "E": "Cuando la masa del cuerpo es muy pequeña"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si un cuerpo se mueve con velocidad constante, está en un Movimiento Rectilíneo Uniforme (MRU). En este caso, su aceleración es cero ($$a=0$$). Dado que el trabajo neto se puede expresar como $$W_{NETO} = mad$$, si la aceleración es cero, el trabajo neto también será cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_007",
+      "pregunta": "La expresión para el trabajo neto, $$W_{NETO} = mad$$, se obtiene al combinar la definición de trabajo neto ($$W_{NETO} = F_R \\cdot d$$) con:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ley de conservación de la energía",
+        "B": "La primera ley de Newton",
+        "C": "La segunda ley de Newton",
+        "D": "La ley de la gravitación universal",
+        "E": "La tercera ley de Newton"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La segunda ley de Newton establece que la fuerza resultante ($$F_R$$) es igual al producto de la masa ($$m$$) por la aceleración ($$a$$), es decir, $$F_R = ma$$. Al sustituir esta expresión en la fórmula del trabajo neto ($$W_{NETO} = F_R \\cdot d$$), se obtiene $$W_{NETO} = mad$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_008",
+      "pregunta": "¿Cuál es la condición fundamental para que exista un trabajo neto sobre un cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el cuerpo tenga una gran masa.",
+        "B": "Que la velocidad del cuerpo sea muy alta.",
+        "C": "Que una fuerza resultante actúe sobre el cuerpo y lo desplace.",
+        "D": "Que la suma de las fuerzas sea cero pero el cuerpo se mueva.",
+        "E": "Que el cuerpo esté en reposo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que se realice un trabajo neto, es indispensable que exista una fuerza resultante ($$F_R$$) diferente de cero que actúe sobre el cuerpo y que, como consecuencia de esta fuerza, el cuerpo experimente un desplazamiento ($$d$$). Si la fuerza neta es cero o no hay desplazamiento, el trabajo neto es nulo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_009",
+      "pregunta": "Si la energía cinética es una cantidad escalar, ¿qué se puede afirmar de dos partículas con masas y rapideces idénticas que se mueven en direcciones opuestas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sus energías cinéticas son iguales.",
+        "B": "Sus energías cinéticas tienen signos opuestos.",
+        "C": "La suma de sus energías cinéticas es cero.",
+        "D": "La partícula que se mueve en la dirección positiva tiene mayor energía cinética.",
+        "E": "Sus energías cinéticas son vectores opuestos."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Al ser una cantidad escalar, la energía cinética no depende de la dirección del movimiento. Solo depende de la masa y la rapidez. Por lo tanto, si dos partículas tienen la misma masa y la misma rapidez, sus energías cinéticas serán exactamente iguales, sin importar que se muevan en direcciones opuestas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_010",
+      "pregunta": "¿Qué se deduce de la afirmación de que no toda la energía en un objeto puede transformarse en trabajo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía no se conserva.",
+        "B": "La energía y el trabajo no están relacionados.",
+        "C": "Solo una parte de la energía total, la 'energía disponible', puede realizar trabajo.",
+        "D": "El trabajo solo puede ser realizado por la energía cinética.",
+        "E": "La energía total de un objeto es siempre cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La afirmación distingue entre la energía total de un objeto y su capacidad para realizar trabajo. Esto implica que existe una 'energía disponible' que es la porción de la energía total que puede ser efectivamente convertida en trabajo, mientras que otra parte no lo es, usualmente debido a la segunda ley de la termodinámica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_011",
+      "pregunta": "La razón por la que el trabajo neto es cero para un objeto en Movimiento Rectilíneo Uniforme (MRU) es que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El desplazamiento es siempre cero.",
+        "B": "La fuerza neta es perpendicular al desplazamiento.",
+        "C": "No actúan fuerzas sobre el objeto.",
+        "D": "La aceleración del objeto es cero.",
+        "E": "La masa del objeto es despreciable."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En un MRU, la velocidad es constante. Un cambio en la velocidad es lo que define la aceleración. Por lo tanto, si la velocidad es constante, la aceleración es nula ($$a=0$$). Aplicando la fórmula $$W_{NETO} = mad$$, cualquier valor multiplicado por cero da como resultado cero, por lo que el trabajo neto es nulo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_012",
+      "pregunta": "¿Qué representa físicamente la expresión $$W_{NETO} = F_R \\cdot d$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía potencial gravitatoria.",
+        "B": "La potencia instantánea de un cuerpo.",
+        "C": "La energía cinética total de un sistema.",
+        "D": "El trabajo realizado por la fuerza resultante sobre un cuerpo.",
+        "E": "El impulso aplicado a un cuerpo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación $$W_{NETO} = F_R \\cdot d$$ define el trabajo neto. Este corresponde al trabajo efectuado por la fuerza resultante o neta ($$F_R$$) que actúa sobre un objeto, causando un desplazamiento ($$d$$). Es la suma de los trabajos realizados por todas las fuerzas individuales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_013",
+      "pregunta": "Un automóvil viaja por una carretera recta a una velocidad constante de 90 km/h. ¿Qué se puede concluir acerca del trabajo neto realizado sobre el automóvil?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es positivo y depende de la potencia del motor.",
+        "B": "Es negativo debido a la fricción.",
+        "C": "Es cero.",
+        "D": "Es igual al trabajo realizado por el motor.",
+        "E": "No se puede determinar sin conocer la masa del automóvil."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Que el automóvil se mueva a velocidad constante implica que su aceleración es cero ($$a=0$$). Dado que el trabajo neto se relaciona con la aceleración a través de la ecuación $$W_{NETO} = mad$$, si $$a=0$$, entonces el trabajo neto debe ser cero. Esto significa que el trabajo realizado por el motor para impulsar el auto es exactamente contrarrestado por el trabajo negativo de las fuerzas de resistencia (fricción y arrastre del aire).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_014",
+      "pregunta": "Dos proyectiles, P1 y P2, tienen la misma masa. P1 se mueve hacia el norte a una rapidez $$v$$, y P2 se mueve hacia el este con la misma rapidez $$v$$. ¿Cómo se comparan sus energías cinéticas ($$E_c$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La $$E_c$$ de P1 es mayor que la de P2.",
+        "B": "La $$E_c$$ de P2 es mayor que la de P1.",
+        "C": "La $$E_c$$ de P1 es igual a la $$E_c$$ de P2.",
+        "D": "La suma de sus $$E_c$$ es cero.",
+        "E": "No se pueden comparar porque son vectores."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía cinética es una cantidad escalar, lo que significa que su valor no depende de la dirección del movimiento. Solo está determinada por la masa y la rapidez del objeto. Como ambos proyectiles tienen la misma masa y la misma rapidez $$v$$, sus energías cinéticas son idénticas, a pesar de viajar en direcciones perpendiculares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_031_015",
+      "pregunta": "Si se realiza un trabajo neto positivo sobre un objeto en movimiento, y sabiendo que $$W_{NETO} = mad$$, ¿qué se puede inferir sobre el movimiento del objeto si el desplazamiento $$d$$ es en la dirección de la fuerza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El objeto se mueve con velocidad constante.",
+        "B": "El objeto está frenando.",
+        "C": "La fuerza neta sobre el objeto es cero.",
+        "D": "El objeto está acelerando.",
+        "E": "El objeto se mueve en dirección opuesta a la fuerza neta."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación $$W_{NETO} = mad$$ relaciona el trabajo neto, la masa, la aceleración y el desplazamiento. Si el trabajo neto ($$W_{NETO}$$) es positivo, y la masa ($$m$$) y el desplazamiento ($$d$$) son también positivos, la única forma de que la ecuación se cumpla es que la aceleración ($$a$$) sea positiva. Una aceleración positiva en la dirección del movimiento significa que la velocidad del objeto está aumentando, es decir, está acelerando.",
+      "imagen": null
+    }
+  ]
+}

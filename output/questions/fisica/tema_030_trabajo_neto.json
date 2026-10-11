@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 30,
+  "total_temas": 137,
+  "titulo_tema": "Trabajo Neto",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_030_001",
+      "pregunta": "¿Cómo se define el trabajo neto o trabajo total sobre un cuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El trabajo realizado únicamente por la fuerza de gravedad.",
+        "B": "El producto de la masa del cuerpo por su velocidad.",
+        "C": "La suma algebraica de los trabajos efectuados por cada una de las fuerzas que actúan sobre él.",
+        "D": "El trabajo realizado solo por la fuerza más grande aplicada.",
+        "E": "La energía total disponible en el cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo neto se define como la suma algebraica de todos los trabajos individuales realizados por cada fuerza que actúa sobre un cuerpo. También es equivalente al trabajo realizado por la fuerza resultante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_002",
+      "pregunta": "¿En qué unidad se mide la energía, al igual que el trabajo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newtons (N)",
+        "B": "Watts (W)",
+        "C": "Pascales (Pa)",
+        "D": "Joules (J)",
+        "E": "Kilogramos (kg)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Tanto el trabajo como la energía son cantidades escalares que se miden en la misma unidad en el Sistema Internacional, el joule (J). El newton es unidad de fuerza, el watt de potencia, el pascal de presión y el kilogramo de masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_003",
+      "pregunta": "¿En qué situación el trabajo realizado por la fuerza de gravedad ($$W_{F_g}$$) es positivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando un cuerpo sube.",
+        "B": "Cuando un cuerpo se mueve horizontalmente.",
+        "C": "Cuando un cuerpo está en reposo.",
+        "D": "Cuando un cuerpo cae.",
+        "E": "Cuando un cuerpo se mueve con velocidad constante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo realizado por la fuerza de la gravedad es positivo cuando el desplazamiento del cuerpo tiene la misma dirección que la fuerza, es decir, hacia abajo. Esto ocurre cuando el cuerpo cae.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_004",
+      "pregunta": "¿De qué dos cantidades escalares depende la energía cinética de una partícula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De su masa y la aceleración que experimenta.",
+        "B": "De su posición y su velocidad.",
+        "C": "De su masa y su rapidez.",
+        "D": "De la fuerza aplicada y la dirección del movimiento.",
+        "E": "De su peso y su altura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía cinética es una cantidad escalar que depende únicamente de la masa de la partícula y de su rapidez (la magnitud de la velocidad). No depende de la dirección del movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_005",
+      "pregunta": "Si una fuerza $$F$$ es perpendicular al desplazamiento $$d$$ de un cuerpo, ¿cuál es el trabajo $$W$$ realizado por dicha fuerza?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$W = Fd$$",
+        "B": "$$W = -Fd$$",
+        "C": "$$W = 0$$",
+        "D": "$$W = Fd \\sin 90^\\circ$$",
+        "E": "$$W = mgd$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo realizado por una fuerza es cero si la fuerza es perpendicular al desplazamiento. Esto se debe a que el ángulo entre la fuerza y el desplazamiento es de 90 grados, y el coseno de 90 grados es cero. La fórmula es $$W = Fd \\cos 90^\\circ$$, lo que resulta en $$W = 0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_006",
+      "pregunta": "¿Por qué el trabajo neto sobre un cuerpo que se mueve con velocidad constante (MRU) es cero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque no hay desplazamiento.",
+        "B": "Porque la masa del cuerpo es cero.",
+        "C": "Porque no actúa ninguna fuerza sobre el cuerpo.",
+        "D": "Porque la aceleración es cero.",
+        "E": "Porque la energía cinética es cero."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En un movimiento con velocidad constante (MRU), la aceleración ($$a$$) es cero. Dado que el trabajo neto se puede expresar como $$W_{NETO} = mad$$, si $$a=0$$, entonces el trabajo neto es necesariamente cero, independientemente de la masa o el desplazamiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_007",
+      "pregunta": "La expresión $$W_{NETO} = W_{fuerza\\ resultante}$$ establece que el trabajo neto es igual al trabajo realizado por la fuerza resultante. Si la fuerza resultante es $$F_R$$ y el desplazamiento es $$d$$, ¿cuál es la fórmula equivalente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{NETO} = \frac{F_R}{d}$$",
+        "B": "$$W_{NETO} = F_R \\cdot d$$",
+        "C": "$$W_{NETO} = m a$$",
+        "D": "$$W_{NETO} = \\sum W$$",
+        "E": "$$W_{NETO} = \\pm mgh$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La definición de trabajo realizado por una fuerza constante es el producto de la magnitud de la fuerza por la magnitud del desplazamiento en la misma dirección. Por lo tanto, el trabajo de la fuerza resultante ($$F_R$$) a lo largo de un desplazamiento $$d$$ es $$W_{NETO} = F_R \\cdot d$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_008",
+      "pregunta": "Un objeto de masa $$m$$ es lanzado hacia arriba, alcanzando una altura vertical $$h$$. ¿Cuál es la expresión para el trabajo realizado por la fuerza de gravedad ($$W_{F_g}$$) durante el ascenso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{F_g} = mgh$$",
+        "B": "$$W_{F_g} = 0$$",
+        "C": "$$W_{F_g} = -mgh$$",
+        "D": "$$W_{F_g} = mg$$",
+        "E": "$$W_{F_g} = \frac{mgh}{2}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando un cuerpo sube, su desplazamiento es en dirección opuesta a la fuerza de gravedad (que siempre apunta hacia abajo). En esta situación, el trabajo realizado por la fuerza de gravedad es negativo. Por lo tanto, la fórmula correcta es $$W_{F_g} = -mgh$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_009",
+      "pregunta": "¿Qué representa la energía mecánica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía debida únicamente al movimiento de un objeto.",
+        "B": "La energía debida únicamente a la posición de un objeto.",
+        "C": "La energía que un objeto puede transformar en calor.",
+        "D": "La energía debida a la posición y al movimiento de un objeto.",
+        "E": "La suma de todas las formas de energía en el universo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía mecánica se centra específicamente en la energía asociada a la configuración (posición) y al movimiento de un objeto. Puede presentarse como energía potencial (por posición), energía cinética (por movimiento) o la suma de ambas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_010",
+      "pregunta": "Combinando la definición de trabajo neto con la segunda ley de Newton ($$F_R = ma$$), se obtiene la expresión:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{NETO} = \frac{ma}{d}$$",
+        "B": "$$W_{NETO} = mad$$",
+        "C": "$$W_{NETO} = m + a + d$$",
+        "D": "$$W_{NETO} = \frac{md}{a}$$",
+        "E": "$$W_{NETO} = F_R + d$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo neto es el trabajo de la fuerza resultante, es decir, $$W_{NETO} = F_R \\cdot d$$. Según la segunda ley de Newton, la fuerza resultante es $$F_R = ma$$. Sustituyendo esta expresión en la fórmula del trabajo, obtenemos $$W_{NETO} = (ma)d = mad$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_011",
+      "pregunta": "Según la descripción proporcionada, ¿qué le permite la energía a un objeto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Existir en el espacio.",
+        "B": "Tener masa.",
+        "C": "Realizar trabajo.",
+        "D": "Mantener una temperatura constante.",
+        "E": "Resistir el movimiento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía se define conceptualmente como la capacidad que tiene un objeto o sistema para realizar trabajo. Específicamente, es la energía disponible la que puede transformarse para efectuar un trabajo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_012",
+      "pregunta": "¿Qué es la energía cinética desde el punto de vista de su naturaleza matemática?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una cantidad vectorial que depende de la dirección.",
+        "B": "Una constante universal.",
+        "C": "Una cantidad escalar que no depende de la dirección.",
+        "D": "Una cantidad adimensional.",
+        "E": "Una propiedad exclusiva de los cuerpos en reposo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía cinética es una cantidad escalar. Esto significa que solo tiene magnitud y no está asociada a una dirección en el espacio, a diferencia de la velocidad o la fuerza, que son vectores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_013",
+      "pregunta": "Un objeto es empujado sobre una superficie horizontal con una fuerza constante, pero se mueve a velocidad constante. ¿Qué se puede afirmar con certeza sobre el trabajo neto realizado sobre el objeto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El trabajo neto es positivo, porque hay una fuerza aplicada.",
+        "B": "El trabajo neto es negativo, debido a la fuerza de fricción.",
+        "C": "El trabajo neto es cero.",
+        "D": "No se puede determinar sin conocer la masa.",
+        "E": "El trabajo neto es igual al trabajo de la fuerza aplicada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si el objeto se mueve a velocidad constante, su aceleración es cero ($$a=0$$). El trabajo neto está dado por la fórmula $$W_{NETO} = mad$$. Dado que $$a=0$$, el trabajo neto es cero. Esto implica que el trabajo de la fuerza que lo empuja es cancelado por el trabajo de otras fuerzas, como la fricción, resultando en una suma algebraica de trabajos igual a cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_014",
+      "pregunta": "Si sobre un cuerpo existe una fuerza resultante no nula que logra desplazarlo una distancia $$d$$, ¿cuál de las siguientes afirmaciones es siempre verdadera?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El trabajo neto sobre el cuerpo es cero.",
+        "B": "El cuerpo se mueve necesariamente con velocidad constante.",
+        "C": "El trabajo neto sobre el cuerpo es distinto de cero.",
+        "D": "La energía cinética del cuerpo no cambia.",
+        "E": "El trabajo realizado por cada fuerza individual es positivo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Solo habrá trabajo neto sobre un cuerpo si existe una fuerza resultante ($$F_R \neq 0$$) que logre desplazarlo ($$d \neq 0$$). La fórmula $$W_{NETO} = F_R \\cdot d$$ indica que si ni la fuerza resultante ni el desplazamiento son nulos (y no son perpendiculares), el trabajo neto será distinto de cero. Esto, a su vez, implica una aceleración y un cambio en la energía cinética.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_030_015",
+      "pregunta": "Considerando las dos definiciones de trabajo neto, $$W_{NETO} = \\sum W$$ y $$W_{NETO} = W_{fuerza\\ resultante}$$, ¿qué se puede concluir?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El trabajo de la fuerza resultante es siempre mayor que la suma de los trabajos individuales.",
+        "B": "Estas dos definiciones solo son válidas si no hay fricción.",
+        "C": "La suma algebraica de los trabajos de cada fuerza es equivalente al trabajo que realizaría la fuerza resultante actuando sola.",
+        "D": "El concepto de fuerza resultante no se aplica al cálculo del trabajo neto.",
+        "E": "Solo se puede usar una de las dos fórmulas, dependiendo de si el movimiento es vertical u horizontal."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las dos expresiones son dos formas equivalentes de calcular la misma cantidad. Esto significa que el efecto combinado de los trabajos de todas las fuerzas individuales ($$\\sum W$$) es exactamente igual al trabajo que la fuerza neta o resultante ($$F_R$$) realizaría si actuara por sí misma sobre el mismo desplazamiento. Esta es una consecuencia directa del principio de superposición de fuerzas.",
+      "imagen": null
+    }
+  ]
+}

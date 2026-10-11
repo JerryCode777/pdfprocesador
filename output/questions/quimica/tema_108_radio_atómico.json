@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_108_001",
-      "pregunta": "¿Cómo se define el radio atómico en los metales?",
+      "pregunta": "¿Cómo se define el radio atómico para los elementos metálicos?",
       "dificultad": 1,
       "opciones": {
         "A": "La distancia total entre los núcleos de dos átomos idénticos unidos.",
         "B": "La mitad de la distancia internuclear de dos átomos idénticos unidos mediante un enlace químico.",
-        "C": "El radio del orbital más externo del átomo.",
-        "D": "La distancia desde el núcleo hasta el electrón más alejado en un átomo aislado.",
-        "E": "El doble de la longitud de un enlace covalente simple."
+        "C": "El radio del orbital más externo de un átomo completamente aislado.",
+        "D": "La distancia desde el núcleo hasta el electrón más alejado en un ion.",
+        "E": "El volumen total que ocupa un átomo en estado gaseoso."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Para los metales, el radio atómico se define específicamente como la mitad de la distancia entre los núcleos (distancia internuclear) de dos átomos idénticos que están enlazados químicamente. Las otras opciones son incorrectas: la opción A es la distancia internuclear completa, no el radio; las opciones C y D describen conceptos teóricos difíciles de medir directamente en un enlace; y la opción E se relaciona con el radio covalente pero de forma incorrecta.",
+      "explicacion": "Para los metales, el radio atómico se define como la mitad de la distancia entre los núcleos (distancia internuclear) de dos átomos idénticos que están adyacentes en una estructura cristalina, unidos por un enlace metálico. Esta medición proporciona una estimación del tamaño del átomo en un entorno químico específico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_002",
-      "pregunta": "¿Qué información general proporciona el radio atómico sobre un átomo?",
+      "pregunta": "¿Qué información general proporciona el radio atómico de un elemento?",
       "dificultad": 1,
       "opciones": {
         "A": "La masa relativa del átomo.",
-        "B": "La carga eléctrica del núcleo.",
+        "B": "El tamaño relativo del átomo.",
         "C": "La reactividad química del átomo.",
-        "D": "El tamaño relativo del átomo.",
-        "E": "El número de electrones de valencia."
+        "D": "El número de isótopos del átomo.",
+        "E": "La energía de enlace del núcleo."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El radio atómico es una medida que proporciona una idea del tamaño relativo de un átomo. Aunque el tamaño puede influir en la reactividad o estar relacionado con la masa y la carga nuclear, su propósito fundamental es ser un indicador del volumen o tamaño atómico.",
+      "respuesta_correcta": "B",
+      "explicacion": "El radio atómico es una medida que proporciona una idea del tamaño relativo de un átomo. Aunque el tamaño puede influir en otras propiedades como la reactividad, su propósito fundamental es cuantificar las dimensiones atómicas comparativas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_003",
-      "pregunta": "Al descender por un grupo en la tabla periódica, ¿cómo varía generalmente el radio atómico?",
+      "pregunta": "¿Cuál es la tendencia general del radio atómico al descender por un grupo en la tabla periódica?",
       "dificultad": 1,
       "opciones": {
-        "A": "Disminuye constantemente.",
-        "B": "Aumenta con el número atómico.",
-        "C": "Permanece constante.",
-        "D": "Aumenta y luego disminuye.",
-        "E": "No sigue una tendencia clara."
+        "A": "Disminuye porque aumenta la carga nuclear.",
+        "B": "Permanece constante debido al apantallamiento.",
+        "C": "Aumenta con el número atómico.",
+        "D": "No sigue una tendencia clara.",
+        "E": "Disminuye para los metales y aumenta para los no metales."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La tendencia periódica del radio atómico en los grupos es clara: aumenta a medida que se desciende por el grupo. Esto se debe a que el número atómico ($Z$) aumenta, y cada nuevo elemento en el grupo añade una capa electrónica más externa, incrementando el tamaño del átomo.",
+      "respuesta_correcta": "C",
+      "explicacion": "Al descender en un grupo, el número atómico aumenta, lo que significa que se añaden nuevas capas electrónicas (niveles de energía). Cada nueva capa está más alejada del núcleo que la anterior, lo que provoca un aumento significativo del radio atómico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_004",
-      "pregunta": "Para los no metales diatómicos como el $H_2$ o el $Cl_2$, ¿cómo se denomina y define su radio?",
+      "pregunta": "En el caso de no metales diatómicos como H₂ o Cl₂, el radio atómico es conocido específicamente como:",
       "dificultad": 1,
       "opciones": {
-        "A": "Radio metálico: la mitad de la distancia entre iones adyacentes.",
-        "B": "Radio iónico: el tamaño del átomo después de perder un electrón.",
-        "C": "Radio de van der Waals: la distancia de máxima aproximación entre átomos no enlazados.",
-        "D": "Radio covalente: la mitad de la longitud de enlace de átomos unidos por enlace covalente simple.",
-        "E": "Radio nuclear: el tamaño del núcleo del átomo."
+        "A": "Radio iónico.",
+        "B": "Radio de Van der Waals.",
+        "C": "Radio metálico.",
+        "D": "Radio covalente.",
+        "E": "Radio de Bohr."
       },
       "respuesta_correcta": "D",
-      "explicacion": "En el caso de no metales que forman moléculas diatómicas (como hidrógeno, cloro, etc.), el radio se conoce como radio covalente. Se define como la mitad de la distancia internuclear, también llamada longitud de enlace, entre dos átomos idénticos unidos por un enlace covalente simple.",
+      "explicacion": "Para los no metales que forman moléculas diatómicas con enlaces covalentes simples, el radio atómico se denomina radio covalente. Se define como la mitad de la distancia internuclear, que es la longitud del enlace covalente entre los dos átomos idénticos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_005",
-      "pregunta": "Al avanzar de izquierda a derecha en un periodo de la tabla periódica, ¿cuál es la tendencia general del radio atómico?",
+      "pregunta": "¿Cómo varía el radio atómico al moverse de izquierda a derecha a lo largo de un mismo periodo?",
       "dificultad": 1,
       "opciones": {
-        "A": "Aumenta, ya que hay más electrones.",
-        "B": "Permanece casi igual.",
-        "C": "Disminuye al aumentar el número atómico ($Z$).",
-        "D": "Aumenta, ya que la masa atómica es mayor.",
+        "A": "Aumenta al aumentar el número atómico ($Z$).",
+        "B": "Disminuye al aumentar el número atómico ($Z$).",
+        "C": "Permanece esencialmente constante.",
+        "D": "Aumenta hasta la mitad del periodo y luego disminuye.",
         "E": "Varía de forma impredecible."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Dentro de un mismo periodo, el radio atómico tiende a disminuir a medida que se avanza hacia la derecha. Esto ocurre porque, aunque se añaden electrones, también aumenta el número de protones en el núcleo (aumenta $Z$), lo que resulta en una mayor atracción nuclear sobre los electrones, contrayendo el átomo.",
+      "respuesta_correcta": "B",
+      "explicacion": "A lo largo de un periodo, los electrones se añaden a la misma capa de valencia, mientras que el número de protones en el núcleo (y por tanto la carga nuclear, $Z$) aumenta. Esta mayor carga nuclear ejerce una atracción más fuerte sobre los electrones, tirando de ellos hacia el núcleo y causando una disminución del radio atómico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_006",
-      "pregunta": "¿Cuál es la explicación principal de por qué el radio atómico disminuye a lo largo de un periodo?",
+      "pregunta": "¿Cuál es la causa fundamental de que el radio atómico disminuya a lo largo de un periodo?",
       "dificultad": 2,
       "opciones": {
-        "A": "El número de capas de electrones aumenta, expandiendo el átomo.",
-        "B": "Los electrones adicionales se repelen entre sí, aumentando el tamaño.",
-        "C": "La mayor atracción del núcleo sobre los electrones externos disminuye la distancia núcleo-electrón.",
-        "D": "El carácter metálico aumenta, lo que hace que los átomos sean más pequeños.",
-        "E": "La afinidad electrónica se vuelve menos negativa, permitiendo que el átomo se contraiga."
+        "A": "El aumento del número de neutrones.",
+        "B": "La adición de nuevas capas electrónicas.",
+        "C": "La disminución del carácter metálico.",
+        "D": "La mayor atracción del núcleo sobre los electrones de los orbitales más externos.",
+        "E": "La repulsión entre los electrones de la capa de valencia."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "A medida que se avanza en un periodo, el número atómico ($Z$) aumenta, lo que significa que hay más protones en el núcleo. Esta mayor carga nuclear positiva ejerce una atracción más fuerte sobre los electrones de la capa más externa, atrayéndolos más cerca del núcleo y, por lo tanto, disminuyendo el radio atómico.",
+      "respuesta_correcta": "D",
+      "explicacion": "Al avanzar hacia la derecha en un periodo, el número atómico ($Z$) aumenta, lo que significa que hay más protones en el núcleo. Aunque también se añaden electrones, estos entran en la misma capa energética. La creciente carga nuclear positiva atrae con más fuerza a los electrones de la capa más externa, reduciendo la distancia núcleo-electrón y, por consiguiente, el radio atómico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_007",
-      "pregunta": "¿En qué dirección general de la tabla periódica aumenta el radio atómico?",
+      "pregunta": "Según las tendencias periódicas, ¿qué relación existe entre el radio atómico y el carácter metálico?",
       "dificultad": 2,
       "opciones": {
-        "A": "Hacia arriba y a la derecha.",
-        "B": "Hacia abajo y a la izquierda.",
-        "C": "Solo hacia abajo en cualquier columna.",
-        "D": "Solo hacia la izquierda en cualquier fila.",
-        "E": "Hacia arriba y a la izquierda."
+        "A": "Son inversamente proporcionales; cuando uno aumenta, el otro disminuye.",
+        "B": "Siguen la misma tendencia general; ambas propiedades aumentan hacia abajo y a la izquierda.",
+        "C": "No tienen ninguna relación periódica.",
+        "D": "El carácter metálico aumenta con el radio en los grupos, pero disminuye en los periodos.",
+        "E": "Ambas propiedades aumentan hacia arriba y a la derecha."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El radio atómico sigue dos tendencias principales: aumenta al bajar por un grupo y aumenta al moverse de derecha a izquierda en un periodo. Combinando ambas tendencias, la dirección general en la que el radio atómico aumenta es hacia abajo y a la izquierda.",
+      "explicacion": "Tanto el radio atómico como el carácter metálico siguen la misma tendencia en la tabla periódica. Ambas propiedades aumentan al descender en un grupo y al moverse de derecha a izquierda en un periodo. Por lo tanto, los elementos con mayor radio atómico (ubicados en la esquina inferior izquierda) también presentan el mayor carácter metálico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_008",
-      "pregunta": "¿Cómo se define el radio iónico en comparación con el radio atómico?",
+      "pregunta": "El radio iónico se define de forma análoga al radio atómico, pero se aplica a:",
       "dificultad": 2,
       "opciones": {
-        "A": "Es siempre mayor que el radio atómico.",
-        "B": "Se define de forma análoga al radio atómico, pero para átomos ionizados.",
-        "C": "Es la mitad del radio atómico del átomo neutro.",
-        "D": "Solo se aplica a los cationes y no a los aniones.",
-        "E": "Se mide directamente aislando un solo ion en el vacío."
+        "A": "Átomos en estado gaseoso.",
+        "B": "Átomos en su estado fundamental.",
+        "C": "Átomos que han sido ionizados (han ganado o perdido electrones).",
+        "D": "Moléculas poliatómicas.",
+        "E": "Isótopos de un mismo elemento."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El radio iónico se define de una manera análoga al radio atómico, es decir, está relacionado con la distancia internuclear, pero se aplica a iones (átomos que han perdido o ganado electrones) en lugar de átomos neutros. Su propósito es proporcionar el tamaño relativo de los iones.",
+      "respuesta_correcta": "C",
+      "explicacion": "La principal diferencia es el objeto de estudio. Mientras que el radio atómico describe el tamaño de un átomo neutro, el radio iónico describe el tamaño relativo de un ion, que es un átomo que ha adquirido una carga neta al ganar (anión) o perder (catión) uno o más electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_009",
-      "pregunta": "¿Cuál de las siguientes propiedades periódicas presenta una tendencia general opuesta a la del radio atómico?",
+      "pregunta": "¿Qué propiedad periódica muestra una tendencia opuesta a la del radio atómico?",
       "dificultad": 2,
       "opciones": {
         "A": "Carácter metálico.",
-        "B": "Volumen molar.",
-        "C": "Densidad.",
-        "D": "Electronegatividad.",
-        "E": "Masa atómica."
+        "B": "Masa atómica.",
+        "C": "Electronegatividad.",
+        "D": "Número de capas electrónicas.",
+        "E": "Radio iónico de aniones."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El radio atómico aumenta hacia abajo y a la izquierda en la tabla periódica. En contraste, la electronegatividad, la energía de ionización y la afinidad electrónica aumentan hacia arriba y a la derecha. Por lo tanto, la electronegatividad tiene una tendencia opuesta a la del radio atómico.",
+      "respuesta_correcta": "C",
+      "explicacion": "El radio atómico aumenta hacia abajo y a la izquierda en la tabla periódica. En cambio, la electronegatividad, la energía de ionización y la afinidad electrónica aumentan hacia arriba y a la derecha. Por lo tanto, la electronegatividad sigue una tendencia opuesta a la del radio atómico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_010",
-      "pregunta": "Si la distancia internuclear ($d$) entre dos átomos idénticos en un metal es de 286 picómetros, ¿cuál es el radio atómico ($r$) del metal?",
+      "pregunta": "¿Por qué es necesario utilizar métodos indirectos, como la difracción de rayos X, para determinar los radios atómicos e iónicos?",
       "dificultad": 2,
       "opciones": {
-        "A": "286 pm",
-        "B": "572 pm",
-        "C": "143 pm",
-        "D": "71.5 pm",
-        "E": "No se puede determinar con esa información."
+        "A": "Porque los electrones se mueven demasiado rápido para ser localizados.",
+        "B": "Porque el núcleo atómico interfiere con las mediciones directas.",
+        "C": "Porque es imposible aislar un único átomo o ion para medir su radio directamente.",
+        "D": "Porque los átomos son transparentes a la luz visible.",
+        "E": "Porque los enlaces químicos distorsionan la forma esférica del átomo."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El radio atómico en los metales se define como la mitad de la distancia internuclear de dos átomos idénticos unidos. La relación matemática es $$r = \\frac{d}{2}$$. Por lo tanto, si la distancia internuclear ($d$) es 286 pm, el radio atómico ($r$) es $$r = \\frac{286 \\text{ pm}}{2} = 143 \\text{ pm}$$.",
+      "explicacion": "Un átomo o un ion no existen en el vacío de forma aislada para poder medir su radio con una 'regla'. Su tamaño se determina en el contexto de sus interacciones con otros átomos (en un cristal o una molécula). Métodos como la difracción de rayos X miden las distancias entre los núcleos en una sustancia, y a partir de estas distancias se infiere el radio.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_011",
-      "pregunta": "Además del radio atómico, ¿qué otra propiedad periódica aumenta generalmente hacia abajo y a la izquierda en la tabla periódica?",
+      "pregunta": "Si comparamos la energía de ionización y el radio atómico, ¿qué relación general se observa en la tabla periódica?",
       "dificultad": 2,
       "opciones": {
-        "A": "Energía de ionización",
-        "B": "Afinidad electrónica",
-        "C": "Carácter no metálico",
-        "D": "Electronegatividad",
-        "E": "Carácter metálico"
+        "A": "Ambas propiedades aumentan en la misma dirección.",
+        "B": "Un átomo con un radio atómico grande tiende a tener una energía de ionización alta.",
+        "C": "Un átomo con un radio atómico pequeño tiende a tener una energía de ionización alta.",
+        "D": "No existe una correlación predecible entre estas dos propiedades.",
+        "E": "El radio atómico determina la energía de ionización solo en los no metales."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Las tendencias periódicas indican que el radio atómico y el carácter metálico disminuyen hacia arriba y a la derecha. Esto implica que ambas propiedades aumentan en la dirección opuesta, es decir, hacia abajo y a la izquierda. Las otras opciones (energía de ionización, afinidad electrónica, carácter no metálico y electronegatividad) aumentan hacia arriba y a la derecha.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las tendencias son opuestas. El radio atómico aumenta hacia abajo y a la izquierda, mientras que la energía de ionización aumenta hacia arriba y a la derecha. Esto implica que los átomos más pequeños (con radios atómicos pequeños) tienen sus electrones más externos fuertemente atraídos por el núcleo, lo que hace que se necesite más energía para arrancarlos (alta energía de ionización).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_012",
-      "pregunta": "¿Por qué la determinación del radio atómico o iónico requiere métodos indirectos como la difracción de rayos X?",
+      "pregunta": "Al analizar la tendencia del radio atómico en un periodo, ¿cómo se relaciona con el aumento del número atómico ($Z$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque los átomos son demasiado grandes para los instrumentos de medición directa.",
-        "B": "Porque los electrones se mueven demasiado rápido para definir un borde claro.",
-        "C": "Porque es imposible aislar un solo átomo o ion para medir su radio directamente.",
-        "D": "Porque los núcleos atómicos interfieren con las mediciones ópticas.",
-        "E": "Porque los enlaces químicos alteran la forma esférica del átomo."
+        "A": "Son directamente proporcionales; a mayor $Z$, mayor radio.",
+        "B": "Son inversamente proporcionales; a mayor $Z$, menor radio.",
+        "C": "$Z$ no influye en el radio dentro de un periodo, solo el número de capas.",
+        "D": "La relación es cuadrática.",
+        "E": "A mayor $Z$, mayor radio en metales y menor en no metales."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "No es posible tomar un solo átomo o ion y medir su radio directamente con una regla o un instrumento similar. Los radios se determinan a partir de mediciones de las distancias entre los núcleos de átomos en un sólido cristalino o en una molécula, utilizando técnicas como la difracción de rayos X, que permiten inferir estas distancias a nivel atómico.",
+      "respuesta_correcta": "B",
+      "explicacion": "Dentro de un mismo periodo, a medida que el número atómico ($Z$) aumenta, la carga nuclear efectiva también aumenta. Esto provoca una mayor atracción sobre los electrones de la misma capa de valencia, contrayendo la nube electrónica y disminuyendo el radio atómico. Por lo tanto, la relación es inversamente proporcional en un periodo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_013",
-      "pregunta": "Considere dos elementos, X y Y, ubicados en el mismo periodo. Si el número atómico de X es menor que el de Y ($Z_X < Z_Y$), ¿qué se puede predecir sobre sus radios atómicos?",
+      "pregunta": "Considerando un elemento en la esquina inferior izquierda de la tabla periódica, ¿qué combinación de propiedades periódicas se esperaría que exhibiera?",
       "dificultad": 3,
       "opciones": {
-        "A": "El radio de X será menor que el de Y, debido a una menor carga nuclear.",
-        "B": "El radio de X será mayor que el de Y, porque la atracción del núcleo sobre los electrones externos es menor en X.",
-        "C": "Ambos tendrán el mismo radio, ya que están en el mismo periodo.",
-        "D": "El radio de Y será mayor que el de X, porque Y tiene más electrones.",
-        "E": "No se puede hacer una predicción sin saber el número de neutrones."
+        "A": "Radio atómico pequeño, alta electronegatividad y alto carácter metálico.",
+        "B": "Radio atómico grande, baja energía de ionización y alto carácter metálico.",
+        "C": "Radio atómico grande, alta afinidad electrónica y bajo carácter metálico.",
+        "D": "Radio atómico pequeño, baja energía de ionización y bajo carácter metálico.",
+        "E": "Radio atómico grande, alta energía de ionización y alta electronegatividad."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Dentro de un mismo periodo, el radio atómico disminuye al aumentar el número atómico ($Z$). El elemento X, con un menor $Z$, tiene menos protones en su núcleo que el elemento Y. Por lo tanto, el núcleo de X ejerce una atracción más débil sobre sus electrones más externos en comparación con Y. Esto resulta en un radio atómico mayor para X que para Y.",
+      "explicacion": "Los elementos en la esquina inferior izquierda tienen el mayor radio atómico y el mayor carácter metálico, ya que ambas propiedades aumentan hacia abajo y a la izquierda. Por otro lado, propiedades como la energía de ionización, la afinidad electrónica y la electronegatividad aumentan hacia arriba y a la derecha, por lo que estos elementos tendrán valores bajos para estas últimas. La combinación correcta es, por tanto, un radio grande, una baja energía de ionización y un alto carácter metálico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_014",
-      "pregunta": "Si un elemento A se encuentra en el periodo 3 de un grupo y un elemento B se encuentra en el periodo 5 del mismo grupo, ¿cuál tendrá un radio atómico mayor y por qué?",
+      "pregunta": "La definición del radio atómico como la mitad de la distancia internuclear implica que el tamaño de un átomo:",
       "dificultad": 3,
       "opciones": {
-        "A": "A tendrá un radio mayor porque tiene menos electrones.",
-        "B": "B tendrá un radio mayor porque, al descender en el grupo, el radio atómico aumenta.",
-        "C": "Ambos tendrán radios similares porque pertenecen al mismo grupo.",
-        "D": "A tendrá un radio mayor porque su carga nuclear es menor.",
-        "E": "B tendrá un radio menor debido a una mayor atracción nuclear."
+        "A": "Es una constante física fundamental e inmutable.",
+        "B": "Se mide en un átomo completamente aislado en el vacío.",
+        "C": "Depende del tipo de enlace químico y de su interacción con átomos vecinos.",
+        "D": "Es determinado únicamente por el volumen del núcleo atómico.",
+        "E": "No puede ser medido ni siquiera de forma indirecta."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La tendencia del radio atómico en un grupo es que aumenta al descender, es decir, al aumentar el número de periodo y el número atómico. El elemento B está en un periodo inferior (periodo 5) al elemento A (periodo 3), lo que significa que se encuentra más abajo en el mismo grupo. Consecuentemente, B tendrá un radio atómico mayor que A.",
+      "respuesta_correcta": "C",
+      "explicacion": "El hecho de que el radio atómico se defina en el contexto de un enlace (metálico o covalente) demuestra que el 'tamaño' de un átomo no es una propiedad intrínseca y aislada, sino una medida efectiva que depende de su entorno químico. El radio covalente de un átomo puede ser diferente de su radio metálico. Esto se refuerza con la idea de que el tamaño real de un ion depende de su interacción con los iones circundantes.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_108_015",
-      "pregunta": "Al analizar las tendencias del radio atómico, ¿qué factor principal explica la disminución en un periodo, en contraste con el aumento en un grupo?",
+      "pregunta": "Si se compara un átomo de Litio (Li, $Z=3$) con un átomo de Flúor (F, $Z=9$), ambos en el mismo periodo, ¿cuál tendría el radio atómico más pequeño y por qué?",
       "dificultad": 3,
       "opciones": {
-        "A": "En ambos casos, el factor principal es el aumento del número de electrones.",
-        "B": "El aumento del radio en un grupo se debe a la menor electronegatividad, mientras que en un periodo disminuye por la afinidad electrónica.",
-        "C": "En un periodo, el aumento de la carga nuclear efectiva domina, atrayendo más a los electrones; en un grupo, se añaden nuevas capas electrónicas.",
-        "D": "La disminución en un periodo se debe al aumento del carácter metálico, y el aumento en un grupo al carácter no metálico.",
-        "E": "En un periodo, la repulsión electrón-electrón disminuye el radio, mientras que en un grupo, el aumento de la masa lo expande."
+        "A": "Litio, porque tiene menos electrones en total.",
+        "B": "Flúor, porque su mayor carga nuclear ($Z=9$) atrae con más fuerza a los electrones de la misma capa energética.",
+        "C": "Ambos tendrían un radio similar porque están en el mismo periodo.",
+        "D": "Litio, porque al ser un metal, sus átomos son más compactos.",
+        "E": "Flúor, porque tiene más electrones y la repulsión entre ellos expande el átomo."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Las causas de las tendencias son diferentes. A lo largo de un periodo, el radio disminuye porque la carga nuclear (número de protones) aumenta, ejerciendo una mayor atracción sobre los electrones de la misma capa de valencia. En cambio, al descender por un grupo, el radio aumenta principalmente porque cada nuevo elemento añade una capa electrónica principal, lo que incrementa significativamente la distancia de los electrones de valencia al núcleo, a pesar del aumento de la carga nuclear. El texto lo explica para el periodo como \"la mayor atracción que ejerce el núcleo\" y para el grupo simplemente como que \"aumenta con el número atómico, es decir, hacia abajo\". La opción C resume correctamente este contraste.",
+      "respuesta_correcta": "B",
+      "explicacion": "Esta pregunta aplica la tendencia del radio atómico en un periodo. A medida que se avanza hacia la derecha en un periodo, el número atómico ($Z$) aumenta. El Flúor tiene más protones en su núcleo ($Z=9$) que el Litio ($Z=3$). Esta mayor carga nuclear positiva ejerce una atracción más intensa sobre los electrones, que se encuentran en el mismo nivel de energía (periodo 2), contrayendo la nube electrónica. Por lo tanto, el Flúor tiene un radio atómico significativamente más pequeño que el Litio.",
       "imagen": null
     }
   ]

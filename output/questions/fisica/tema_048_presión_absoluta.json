@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 48,
+  "total_temas": 137,
+  "titulo_tema": "Presión Absoluta",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_048_001",
+      "pregunta": "¿Cómo se define la presión absoluta, también llamada presión total?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es la diferencia entre la presión atmosférica y la presión manométrica.",
+        "B": "Es la presión que se mide tomando como base el cero absoluto o vacío.",
+        "C": "Es la presión ejercida únicamente por la atmósfera.",
+        "D": "Es la presión que resulta de la densidad de un líquido y su altura.",
+        "E": "Es la presión que existe solo en la superficie de un líquido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión absoluta ($P_{abs}$) se define como la presión total que se mide utilizando el cero absoluto (vacío) como punto de referencia. En la práctica, se calcula como la suma de la presión atmosférica y la presión manométrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_002",
+      "pregunta": "¿Qué nombre recibe la diferencia entre la presión absoluta ($P$) y la presión atmosférica ($P_0$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Presión hidrostática",
+        "B": "Presión de vacío",
+        "C": "Presión manométrica",
+        "D": "Presión total",
+        "E": "Presión nula"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia $P – P_0$ se define como la presión manométrica. Representa la presión por encima de la presión atmosférica local.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_003",
+      "pregunta": "¿Cuál es la fórmula para calcular la presión hidrostática ($P_{hA}$) en un punto A dentro de un líquido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$P_{hA} = \\rho_{liq} \\cdot g$$",
+        "B": "$$P_{hA} = \\rho_{liq} \\cdot h$$",
+        "C": "$$P_{hA} = \\frac{\\rho_{liq} \\cdot g}{h}$$",
+        "D": "$$P_{hA} = \\rho_{liq}gh$$",
+        "E": "$$P_{hA} = P_0 + \\rho_{liq}gh$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La presión hidrostática ($P_{hA}$) en un punto A se calcula multiplicando la densidad del líquido ($\\rho_{liq}$), la aceleración de la gravedad ($g$) y la profundidad ($h$) a la que se encuentra el punto. La fórmula es $$P_{hA} = \\rho_{liq}gh$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_004",
+      "pregunta": "En la expresión para la presión hidrostática, ¿qué representa la variable $h$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La humedad del ambiente.",
+        "B": "La altura total del recipiente.",
+        "C": "La densidad del líquido.",
+        "D": "La aceleración de la gravedad.",
+        "E": "La altura o profundidad desde la superficie libre."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En la fórmula de la presión hidrostática, $$P_{hA} = \\rho_{liq}gh$$, la variable $h$ representa la profundidad a la que se está midiendo la presión, contada desde la superficie libre del líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_005",
+      "pregunta": "¿Qué es la presión hidrostática ($P_h$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presión ejercida por un gas en movimiento.",
+        "B": "La presión en la atmósfera terrestre.",
+        "C": "La presión ejercida por un líquido estático.",
+        "D": "La diferencia entre la presión absoluta y la manométrica.",
+        "E": "La presión que se mide en el vacío absoluto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión hidrostática es específicamente la presión que ejerce un líquido que se encuentra en reposo (estático). Esta presión actúa en todos los puntos dentro del líquido y sobre las paredes del recipiente que lo contiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_006",
+      "pregunta": "¿Cuál es la relación matemática correcta entre la presión absoluta ($P_{abs}$), la presión atmosférica ($P_0$) y la presión manométrica ($P_{man}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P_{abs} = P_0 - P_{man}$$",
+        "B": "$$P_{abs} = P_{man} - P_0$$",
+        "C": "$$P_{abs} = P_0 + P_{man}$$",
+        "D": "$$P_{abs} = \\frac{P_0}{P_{man}}$$",
+        "E": "$$P_{abs} = P_0 \\cdot P_{man}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión absoluta o total es la suma de todas las presiones que actúan en un punto. En la práctica, esto se expresa como la suma de la presión atmosférica ($P_0$) y la presión manométrica ($P_{man}$), resultando en la ecuación $$P_{abs} = P_0 + P_{man}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_007",
+      "pregunta": "¿Cómo se comporta la presión hidrostática a medida que aumenta la profundidad dentro de un líquido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye linealmente.",
+        "B": "Permanece constante.",
+        "C": "Aumenta.",
+        "D": "Disminuye exponencialmente.",
+        "E": "Es siempre nula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión hidrostática aumenta conforme sea mayor la profundidad. Esto se debe a que la cantidad de líquido que ejerce peso sobre un punto es mayor a mayores profundidades, como se refleja en la fórmula $$P_{hA} = \\rho_{liq}gh$$, donde la presión es directamente proporcional a la profundidad $h$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_008",
+      "pregunta": "En la ecuación $P = P_0 + \\rho gh$, utilizada para determinar una presión desconocida $P$, ¿qué representa el término $\\rho gh$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión absoluta.",
+        "B": "La presión atmosférica.",
+        "C": "La presión manométrica.",
+        "D": "La presión en el vacío.",
+        "E": "La densidad total del sistema."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la relación $P = P_0 + \\rho gh$, $P$ es la presión absoluta y $P_0$ es la presión atmosférica. La diferencia $P - P_0$ es la presión manométrica, por lo tanto, el término $\\rho gh$ corresponde a la presión manométrica, que es la presión debida a la columna de fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_009",
+      "pregunta": "¿En qué punto de un líquido la presión hidrostática se considera nula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En el fondo del recipiente.",
+        "B": "En el punto medio de la profundidad.",
+        "C": "En contacto con las paredes del recipiente.",
+        "D": "En la superficie libre del líquido.",
+        "E": "En ningún punto, siempre tiene un valor positivo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La presión hidrostática es nula en la superficie libre del líquido. Esto se debe a que en ese punto, la profundidad $h$ es cero, y según la fórmula $$P_{hA} = \\rho_{liq}gh$$, si $h=0$, entonces la presión hidrostática también es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_010",
+      "pregunta": "Además de la aceleración de la gravedad, ¿qué dos factores son determinantes para el valor de la presión hidrostática en un punto específico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El volumen y la forma del recipiente.",
+        "B": "La densidad del líquido y la profundidad.",
+        "C": "La presión atmosférica y la temperatura.",
+        "D": "La masa total del líquido y el área de la base.",
+        "E": "La viscosidad y la tensión superficial."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Según la fórmula $$P_{hA} = \\rho_{liq}gh$$, la presión hidrostática en un punto depende directamente de tres factores: la densidad del líquido ($\\rho_{liq}$), la aceleración de la gravedad ($g$), y la profundidad ($h$) del punto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_011",
+      "pregunta": "Al igualar una presión desconocida $P$ con la presión en otro punto B, se obtiene la expresión $P = P_0 + \\rho gh$. ¿Qué tipo de presión es $P$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Presión manométrica",
+        "B": "Presión hidrostática únicamente",
+        "C": "Presión atmosférica",
+        "D": "Presión negativa",
+        "E": "Presión absoluta"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En la expresión $P = P_0 + \\rho gh$, la presión $P$ se calcula sumando la presión atmosférica ($P_0$) a la presión debida a la columna de fluido ($\\rho gh$, que es la presión manométrica). La suma de la presión atmosférica y manométrica es, por definición, la presión absoluta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_012",
+      "pregunta": "¿Cuál de los siguientes términos es un sinónimo de \"presión absoluta\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Presión diferencial",
+        "B": "Presión de altura",
+        "C": "Presión total",
+        "D": "Presión de superficie",
+        "E": "Presión estática"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión absoluta también es conocida como presión total, ya que representa la suma de todas las presiones que actúan sobre un punto, tomando el vacío como referencia cero. Esto incluye, comúnmente, la presión atmosférica y la presión manométrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_013",
+      "pregunta": "Si un manómetro indica que la presión manométrica de un neumático es $P_{man}$, ¿qué información adicional se requiere para determinar la presión absoluta ($P_{abs}$) dentro del neumático?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La densidad del aire dentro del neumático.",
+        "B": "La temperatura ambiente.",
+        "C": "La aceleración de la gravedad.",
+        "D": "La presión atmosférica ($P_0$) local.",
+        "E": "El volumen del neumático."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La presión absoluta se calcula con la fórmula $$P_{abs} = P_0 + P_{man}$$. Dado que ya se conoce la presión manométrica ($P_{man}$), el único dato que falta para calcular la presión absoluta es el valor de la presión atmosférica ($P_0$) en el lugar donde se realiza la medición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_014",
+      "pregunta": "Un buzo se encuentra a una profundidad $h$ en un lago. La presión total que experimenta es la presión absoluta ($P_{abs}$). ¿Cómo se descompone esta presión absoluta en sus componentes principales?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Únicamente en presión hidrostática $$\\rho_{liq}gh$$",
+        "B": "En la presión atmosférica ($P_0$) más la presión hidrostática ($\\rho_{liq}gh$)",
+        "C": "Únicamente en la presión atmosférica ($P_0$)",
+        "D": "En la presión hidrostática menos la presión atmosférica",
+        "E": "Solo en la presión manométrica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La presión absoluta ($P_{abs}$) es la suma de todas las presiones. En este caso, el buzo está sometido a la presión de la atmósfera sobre la superficie del lago ($P_0$) y a la presión de la columna de agua sobre él, que es la presión hidrostática ($P_h = \\rho_{liq}gh$). Por lo tanto, $$P_{abs} = P_0 + P_h = P_0 + \\rho_{liq}gh$$. La presión hidrostática actúa aquí como la presión manométrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_048_015",
+      "pregunta": "Si la presión absoluta ($P$) de un gas es exactamente igual a la presión atmosférica ($P_0$), ¿cuál es el valor de la presión manométrica ($P_{man}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Igual a $P_0$",
+        "B": "Igual a $2P_0$",
+        "C": "Cero",
+        "D": "Negativo",
+        "E": "Depende de la densidad del gas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión manométrica se define como la diferencia entre la presión absoluta y la presión atmosférica: $$P_{man} = P - P_0$$. Si se establece que la presión absoluta es igual a la atmosférica, es decir, $P = P_0$, entonces al sustituir en la fórmula se obtiene $$P_{man} = P_0 - P_0 = 0$$. Esto significa que la presión del gas es la misma que la del ambiente.",
+      "imagen": null
+    }
+  ]
+}

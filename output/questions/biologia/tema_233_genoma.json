@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 233,
+  "total_temas": 320,
+  "titulo_tema": "Genoma",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_233_001",
+      "pregunta": "¿Cómo se define el genoma?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las características físicas observables de un organismo.",
+        "B": "Toda la información contenida en los cromosomas de un individuo.",
+        "C": "El conjunto de genes que presenta una población o especie.",
+        "D": "Una estructura filamentosa constituida por ADN y proteínas.",
+        "E": "Las variaciones o posibilidades de un carácter genético."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El genoma se define como el conjunto completo de genes que caracteriza a una población o a una especie. Las otras opciones se refieren a conceptos diferentes: el fenotipo (A), el genotipo (B), el cromosoma (D) y el alelo (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_002",
+      "pregunta": "¿Qué es un alelo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El conjunto de toda la información genética de un individuo.",
+        "B": "La expresión física de un gen.",
+        "C": "Una de las variaciones o posibilidades que puede tener un carácter.",
+        "D": "Una estructura de ADN y proteínas que contiene genes.",
+        "E": "El número total de cromosomas en una célula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un alelo es cada una de las formas alternativas o variaciones que puede presentar un gen para un determinado carácter. Por ejemplo, para el color de una flor, puede haber un alelo para el color rojo y otro para el color blanco.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_003",
+      "pregunta": "¿A qué corresponde el término 'genotipo'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al resultado de la expresión de los genes influenciado por el ambiente.",
+        "B": "A toda la información contenida en los cromosomas de un individuo.",
+        "C": "Al conjunto de dos alelos recesivos, como $aa$.",
+        "D": "Al conjunto de genes de toda una especie.",
+        "E": "A un alelo que se expresa sobre otro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El genotipo es la totalidad de la información genética que posee un organismo en su ADN, contenida en sus cromosomas. Esta información puede o no manifestarse externamente (en el fenotipo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_004",
+      "pregunta": "¿Qué son los cromosomas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las diferentes versiones de un gen para un mismo carácter.",
+        "B": "El conjunto de genes de una población.",
+        "C": "Estructuras filamentosas constituidas por ADN y proteínas.",
+        "D": "La información genética que se expresa físicamente.",
+        "E": "El resultado de la interacción entre genes y ambiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cromosomas son las estructuras con forma de filamento que se encuentran en el núcleo de las células eucariotas, y están compuestos principalmente por ADN y proteínas. Son los portadores de la mayor parte de la información genética de un ser vivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_005",
+      "pregunta": "Un individuo que posee dos alelos dominantes para un carácter específico, como $AA$, se clasifica como:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Heterocigoto",
+        "B": "Homocigoto recesivo",
+        "C": "Genoma",
+        "D": "Homocigoto dominante",
+        "E": "Fenotipo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un homocigoto dominante es aquel individuo que para un gen dado tiene en cada cromosoma homólogo el mismo tipo de alelo dominante. Se representa con dos letras mayúsculas, por ejemplo, $AA$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_006",
+      "pregunta": "¿Bajo qué condición se manifiesta fenotípicamente un alelo recesivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando está en un genotipo heterocigoto, como $Aa$.",
+        "B": "Siempre que esté presente en el genotipo.",
+        "C": "Solamente cuando se encuentra en condición homocigótica, como $aa$.",
+        "D": "Únicamente si el ambiente es favorable.",
+        "E": "Cuando se aparea con un alelo dominante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La información de un alelo recesivo (representado por una letra minúscula, como $a$) solo se expresa en el fenotipo cuando el individuo posee dos copias de ese alelo, es decir, cuando se encuentra en condición homocigótica recesiva ($aa$). En un heterocigoto ($Aa$), el alelo dominante ($A$) enmascara la expresión del recesivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_007",
+      "pregunta": "Si el alelo para el pelaje negro ($A$) es dominante sobre el alelo para el pelaje blanco ($a$), ¿cuál será el fenotipo de un individuo con el genotipo $Aa$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Pelaje blanco",
+        "B": "Pelaje gris",
+        "C": "Pelaje negro",
+        "D": "Pelaje con manchas blancas y negras",
+        "E": "No se puede determinar"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un individuo heterocigoto ($Aa$) posee tanto el alelo dominante ($A$) como el recesivo ($a$). Por definición, el alelo dominante es aquel que se expresa aunque el otro alelo lleve información diferente. Por lo tanto, el fenotipo del individuo será el determinado por el alelo dominante, en este caso, pelaje negro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_008",
+      "pregunta": "¿Cuál es la relación fundamental entre el genotipo y el fenotipo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El fenotipo es la composición genética y el genotipo es la apariencia física.",
+        "B": "Son términos intercambiables para describir los genes.",
+        "C": "El genotipo determina el fenotipo, pero el ambiente también puede influir en la expresión final.",
+        "D": "El fenotipo siempre es un reflejo exacto del 100% de los genes del genotipo.",
+        "E": "El genotipo solo incluye alelos dominantes, mientras que el fenotipo incluye ambos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El genotipo es la información genética de un individuo, mientras que el fenotipo es la manifestación observable de esa información. El fenotipo es el resultado de la expresión de un porcentaje del genotipo, y esta expresión puede ser modificada o influenciada por factores del medio ambiente y epigenéticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_009",
+      "pregunta": "¿Cómo se representa un alelo dominante y cuál es su principal característica de expresión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se representa con una letra minúscula y solo se expresa en homocigosis.",
+        "B": "Se representa con una letra mayúscula y se expresa incluso en presencia de un alelo diferente.",
+        "C": "Se representa con una letra minúscula y siempre se expresa sobre el recesivo.",
+        "D": "Se representa con una letra mayúscula y solo se expresa en el genotipo.",
+        "E": "Se representa con dos letras mayúsculas y determina el genoma."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los alelos dominantes se simbolizan con letras mayúsculas (por ejemplo, $A$). Su característica principal es que su información se expresa en el fenotipo incluso cuando el individuo es heterocigoto, es decir, cuando el otro alelo del par es diferente (recesivo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_010",
+      "pregunta": "¿Cuál es la ubicación específica de un par de alelos en las células de un organismo diploide?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En diferentes lugares de cromosomas no homólogos.",
+        "B": "En igual locus o lugar de los cromosomas homólogos.",
+        "C": "Dispersos aleatoriamente por todo el citoplasma celular.",
+        "D": "Únicamente en los cromosomas presentes en los gametos.",
+        "E": "En el genoma de la población, pero no en el individuo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En los organismos diploides, que tienen dos juegos de cromosomas, cada par de alelos para un carácter determinado se encuentra en la misma posición (locus) en los cromosomas homólogos, que son el par de cromosomas heredados uno del padre y otro de la madre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_011",
+      "pregunta": "¿Qué afirmación sobre el número cromosómico de una especie es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es idéntico para todas las especies de mamíferos.",
+        "B": "Varía significativamente entre los diferentes tejidos de un mismo individuo.",
+        "C": "Es un carácter específico y distintivo de cada especie.",
+        "D": "Cambia en respuesta a factores ambientales como la dieta.",
+        "E": "Los gametos tienen el doble del número cromosómico que las demás células."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número de cromosomas es una característica biológica constante y específica para cada especie. Por ejemplo, los seres humanos tienen 46 cromosomas en sus células somáticas. Esta constancia lo convierte en un rasgo distintivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_012",
+      "pregunta": "La especie humana posee 46 cromosomas en cada una de sus células somáticas. Este número representa su:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Genotipo completo",
+        "B": "Fenotipo diploide",
+        "C": "Número cromosómico",
+        "D": "Genoma haploide",
+        "E": "Locus alélico"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número total de cromosomas característico de una especie se conoce como su número cromosómico. Para la especie humana, este número es 46 en la mayoría de las células del organismo (excepto los gametos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_013",
+      "pregunta": "Un organismo presenta un fenotipo que corresponde a un carácter recesivo, como el pelaje blanco ($a$). ¿Qué se puede inferir con total seguridad sobre su genotipo para ese carácter?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es heterocigoto ($Aa$).",
+        "B": "Es homocigoto dominante ($AA$).",
+        "C": "Es homocigoto recesivo ($aa$).",
+        "D": "Puede ser tanto $Aa$ como $AA$.",
+        "E": "Su genotipo no se puede determinar solo con el fenotipo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un alelo recesivo solo se expresa en el fenotipo cuando no hay un alelo dominante que lo enmascare. La única forma de que esto ocurra es que el individuo posea dos copias del alelo recesivo. Por lo tanto, si un individuo muestra un rasgo recesivo, su genotipo para ese carácter debe ser obligatoriamente homocigoto recesivo ($aa$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_014",
+      "pregunta": "Considerando que los mamíferos son organismos diploides, ¿cuál es la razón biológica por la que poseen dos alelos para la mayoría de los caracteres?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque un alelo se usa para la estructura y otro para la función.",
+        "B": "Porque los alelos se duplican en cada ciclo celular para tener una copia de seguridad.",
+        "C": "Porque heredan un juego completo de cromosomas del padre y otro de la madre.",
+        "D": "Porque un alelo es activo durante el día y el otro durante la noche.",
+        "E": "Porque los factores epigenéticos activan la creación de un segundo alelo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ser diploide significa tener dos juegos completos de cromosomas. En la reproducción sexual, un juego es aportado por el gameto del padre y el otro por el gameto de la madre. Como los genes (y sus alelos) se encuentran en los cromosomas, al heredar dos juegos de cromosomas, se heredan dos alelos para cada carácter.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_233_015",
+      "pregunta": "Además de la información contenida en el genotipo, ¿qué otros elementos pueden modular o influir en la manifestación final de un carácter en el fenotipo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El número total de genes en el genoma de la especie.",
+        "B": "Únicamente la dominancia o recesividad de los alelos.",
+        "C": "La ubicación de la especie en la escala evolutiva.",
+        "D": "El medio ambiente y los factores epigenéticos.",
+        "E": "La cantidad de cromosomas en las células gaméticas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El fenotipo no es solo el resultado directo de la información del genotipo. La expresión de los genes puede ser modificada por la interacción del organismo con su entorno (medio ambiente) y por mecanismos epigenéticos, que son cambios que no alteran la secuencia de ADN pero sí afectan cómo se leen y expresan los genes.",
+      "imagen": null
+    }
+  ]
+}

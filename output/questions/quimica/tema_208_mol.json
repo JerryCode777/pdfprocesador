@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_208_001",
-      "pregunta": "¿Cómo se define la masa molecular de una sustancia?",
+      "pregunta": "¿Cómo se define la masa molar ($M$) de una sustancia?",
       "dificultad": 1,
       "opciones": {
-        "A": "Como la suma de las masas atómicas de los átomos en su fórmula química.",
-        "B": "Como la masa de un mol de la sustancia en unidades de masa atómica.",
-        "C": "Como el número de Avogadro multiplicado por la masa de un átomo.",
-        "D": "Como el promedio de las masas atómicas de los elementos presentes.",
-        "E": "Como la masa del átomo más pesado en la molécula."
+        "A": "La masa, en gramos, de un solo átomo de la sustancia.",
+        "B": "El número de moléculas presentes en un kilogramo de la sustancia.",
+        "C": "La masa, en gramos, de un mol de la sustancia.",
+        "D": "La suma de las masas atómicas dividida por el número de Avogadro.",
+        "E": "El volumen que ocupa un mol de la sustancia en estado gaseoso."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "La masa molecular de una sustancia se calcula sumando las masas atómicas de cada uno de los átomos que componen su fórmula química. Por ejemplo, para la glucosa ($C_6H_{12}O_6$), se suman las masas de 6 átomos de carbono, 12 de hidrógeno y 6 de oxígeno.",
+      "respuesta_correcta": "C",
+      "explicacion": "La masa molar se define como la masa, expresada en gramos, de un mol de una sustancia. Es numéricamente igual a la masa atómica o masa fórmula, pero sus unidades son gramos por mol ($g/mol$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_002",
-      "pregunta": "¿Para qué tipo de compuestos se utiliza el término \"masa fórmula\" en lugar de \"masa molecular\"?",
+      "pregunta": "¿Qué representa el número de Avogadro ($$N_a$$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "Compuestos orgánicos",
-        "B": "Compuestos covalentes",
-        "C": "Sustancias iónicas",
-        "D": "Gases nobles",
-        "E": "Elementos metálicos"
+        "A": "El número de gramos en 12 moles de carbono-12.",
+        "B": "La cantidad de moles en 12 gramos de una sustancia.",
+        "C": "El número de entidades elementales en un mol de una sustancia.",
+        "D": "La masa de un átomo de carbono-12.",
+        "E": "La constante de los gases ideales."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El término \"masa fórmula\" se aplica a las sustancias iónicas, ya que estas no forman moléculas discretas, sino redes cristalinas compuestas por unidades fórmula. Aunque el cálculo es idéntico al de la masa molecular, el concepto distingue la naturaleza del enlace iónico.",
+      "explicacion": "El número de Avogadro, aproximadamente $$6.022 \\times 10^{23}$$, representa la cantidad de entidades elementales (como átomos, moléculas o iones) que hay en un mol de cualquier sustancia. Su definición se basa en el número de átomos presentes en 12 gramos de carbono-12.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_003",
-      "pregunta": "¿Cuál es el valor aproximado del número de Avogadro ($N_a$)?",
+      "pregunta": "El término \"masa fórmula\" se utiliza preferentemente en lugar de \"masa molecular\" cuando se habla de:",
       "dificultad": 1,
       "opciones": {
-        "A": "$$6.022 \\times 10^{-23}$$",
-        "B": "$$6.022 \\times 10^{23}$$",
-        "C": "$$12.00 \\times 10^{23}$$",
-        "D": "$$6.022 \\times 10^{22}$$",
-        "E": "$$3.141 \\times 10^{23}$$"
+        "A": "Compuestos gaseosos.",
+        "B": "Sustancias orgánicas.",
+        "C": "Sustancias iónicas.",
+        "D": "Elementos puros.",
+        "E": "Mezclas homogéneas."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El número de Avogadro ($N_a$) es la cantidad de entidades elementales (como átomos o moléculas) en un mol de una sustancia, y su valor aceptado es aproximadamente $$6.022 \\times 10^{23}$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las sustancias iónicas no forman moléculas discretas, sino redes cristalinas. Por ello, se habla de \"unidades fórmula\" en lugar de moléculas, y la masa correspondiente se denomina \"masa fórmula\". El método de cálculo es idéntico al de la masa molecular.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_004",
-      "pregunta": "¿En qué unidades se expresa comúnmente la masa molar ($M$)?",
+      "pregunta": "¿Cuál es la definición de mol según el Sistema Internacional de Unidades?",
       "dificultad": 1,
       "opciones": {
-        "A": "uma (unidades de masa atómica)",
-        "B": "g/mol (gramos por mol)",
-        "C": "mol",
-        "D": "gramos",
-        "E": "entidades/mol"
+        "A": "La cantidad de sustancia que contiene $$6.022 \\times 10^{23}$$ gramos.",
+        "B": "La cantidad de sustancia que contiene tantas entidades elementales como átomos hay en 12 g de carbono-12.",
+        "C": "La masa molecular de una sustancia expresada en gramos.",
+        "D": "La cantidad de sustancia que ocupa un volumen de 22.4 litros.",
+        "E": "El número de átomos en 1 gramo de hidrógeno."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La masa molar ($M$) representa la masa de un mol de una sustancia y se expresa en gramos por mol (g/mol). Esto permite relacionar la masa de una muestra (en gramos) con la cantidad de sustancia (en moles).",
+      "explicacion": "El mol se define en el Sistema Internacional como la cantidad de una sustancia que contiene el mismo número de entidades elementales (átomos, moléculas, etc.) que átomos hay exactamente en 12 gramos del isótopo carbono-12. Este número es conocido como el número de Avogadro.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_005",
-      "pregunta": "Según su origen etimológico, la palabra 'molécula' es el diminutivo de 'mol'. ¿Qué significa 'mol' en latín?",
+      "pregunta": "¿Cómo se calcula la masa molecular de un compuesto?",
       "dificultad": 1,
       "opciones": {
-        "A": "Una parte pequeña",
-        "B": "Una masa",
-        "C": "Un átomo",
-        "D": "Una cantidad",
-        "E": "Un compuesto"
+        "A": "Multiplicando las masas atómicas de sus elementos.",
+        "B": "Sumando las masas atómicas de los átomos en su fórmula química.",
+        "C": "Promediando las masas atómicas de todos los átomos.",
+        "D": "Dividiendo la masa molar por el número de Avogadro.",
+        "E": "Sumando los números atómicos de sus elementos."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El término 'mol' proviene de la palabra latina 'moles', que significa 'una masa'. Por lo tanto, 'molécula' se puede interpretar como 'una masa pequeña', reflejando su naturaleza como una pequeña porción de materia.",
+      "explicacion": "La masa molecular de un compuesto se calcula sumando las masas atómicas de cada uno de los átomos que componen su fórmula química. Por ejemplo, para $$C_6H_{12}O_6$$, se suma la masa de 6 átomos de carbono, 12 de hidrógeno y 6 de oxígeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_006",
-      "pregunta": "¿Cuál es la relación numérica entre la masa fórmula de un compuesto y su masa molar?",
+      "pregunta": "¿Qué relación numérica existe entre la masa fórmula de una sustancia (en uma) y su masa molar (en g/mol)?",
       "dificultad": 2,
       "opciones": {
-        "A": "Son numéricamente iguales, pero tienen diferentes unidades.",
-        "B": "La masa molar es $$6.022 \\times 10^{23}$$ veces la masa fórmula.",
-        "C": "Son inversamente proporcionales.",
-        "D": "No tienen ninguna relación numérica.",
-        "E": "La masa fórmula es siempre mayor que la masa molar."
+        "A": "La masa molar es el inverso de la masa fórmula.",
+        "B": "Son numéricamente iguales.",
+        "C": "La masa molar es la masa fórmula multiplicada por el número de Avogadro.",
+        "D": "La masa fórmula es la masa molar elevada al cuadrado.",
+        "E": "No tienen ninguna relación directa."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "La masa molar y la masa fórmula (o masa molecular) son numéricamente iguales. La diferencia fundamental radica en sus unidades: la masa fórmula se expresa en unidades de masa atómica (uma), mientras que la masa molar se expresa en gramos por mol (g/mol). Por ejemplo, la masa fórmula del NaCl es 58.5 uma, y su masa molar es 58.5 g/mol.",
+      "respuesta_correcta": "B",
+      "explicacion": "La masa molar de una sustancia es numéricamente igual a su masa fórmula (o masa molecular). La diferencia fundamental radica en las unidades: la masa fórmula se expresa en unidades de masa atómica (uma), mientras que la masa molar se expresa en gramos por mol (g/mol). Por ejemplo, el NaCl tiene una masa fórmula de $$58.5 \\text{ uma}$$ y una masa molar de $$58.5 \\text{ g/mol}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_007",
-      "pregunta": "¿Qué estándar se utiliza para la definición de mol en el Sistema Internacional?",
+      "pregunta": "En un mol de glucosa ($$C_6H_{12}O_6$$), ¿cuántos átomos de hidrógeno hay?",
       "dificultad": 2,
       "opciones": {
-        "A": "La cantidad de moléculas en 1 gramo de hidrógeno-1.",
-        "B": "El número de átomos exactamente en 12 gramos de carbono-12.",
-        "C": "La masa de $$6.022 \\times 10^{23}$$ átomos de oxígeno-16.",
-        "D": "El número de moléculas en 18 gramos de agua.",
-        "E": "La cantidad de átomos en 1 gramo de cualquier elemento."
+        "A": "$$6.022 \\times 10^{23}$$ átomos de hidrógeno",
+        "B": "$$12$$ átomos de hidrógeno",
+        "C": "$$6 \\times (6.022 \\times 10^{23})$$ átomos de hidrógeno",
+        "D": "$$2 \\times (6.022 \\times 10^{23})$$ átomos de hidrógeno",
+        "E": "$$12 \\times (6.022 \\times 10^{23})$$ átomos de hidrógeno"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El mol se define como la cantidad de una sustancia que contiene tantas entidades elementales como átomos hay exactamente en 12 gramos del isótopo carbono-12. Este número de entidades es el número de Avogadro.",
+      "respuesta_correcta": "E",
+      "explicacion": "Un mol de glucosa contiene $$6.022 \\times 10^{23}$$ moléculas de glucosa. Dado que cada molécula de $$C_6H_{12}O_6$$ contiene 12 átomos de hidrógeno, el número total de átomos de hidrógeno en un mol de glucosa es 12 veces el número de Avogadro: $$12 \\times (6.022 \\times 10^{23})$$ átomos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_008",
-      "pregunta": "¿Cuántas entidades elementales contiene un mol de cualquier sustancia?",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre un mol de agua ($$H_2O$$) es correcta?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un número variable dependiendo de la masa de la sustancia.",
-        "B": "Exactamente $$12.00$$ entidades.",
-        "C": "Un número de entidades igual a la masa molar en gramos.",
-        "D": "Aproximadamente $$6.022 \\times 10^{23}$$ entidades.",
-        "E": "Un número de entidades igual a su masa atómica."
+        "A": "Contiene $$6.022 \\times 10^{23}$$ átomos en total.",
+        "B": "Contiene dos moles de átomos de oxígeno.",
+        "C": "Contiene $$2 \\times (6.022 \\times 10^{23})$$ moléculas de agua.",
+        "D": "Contiene $$6.022 \\times 10^{23}$$ átomos de oxígeno.",
+        "E": "Contiene un mol de moléculas de agua y dos moles de átomos de hidrógeno."
       },
       "respuesta_correcta": "D",
-      "explicacion": "Por definición, un mol de cualquier sustancia, ya sean átomos, moléculas o unidades fórmula, contiene un número constante de entidades elementales. Este número es el número de Avogadro, que es aproximadamente $$6.022 \\times 10^{23}$$.",
+      "explicacion": "Un mol de agua ($$H_2O$$) contiene $$6.022 \\times 10^{23}$$ moléculas de agua. Como cada molécula tiene un átomo de oxígeno, un mol de agua contiene $$1 \\times (6.022 \\times 10^{23})$$ átomos de oxígeno. También contiene $$2 \\times (6.022 \\times 10^{23})$$ átomos de hidrógeno, no moléculas de agua (opción C). La opción A es incorrecta porque el total de átomos es $$3 \\times N_a$$. La opción B es incorrecta porque contiene 1 mol de átomos de O. La opción E es una afirmación parcialmente correcta pero la D es la que se presenta en el texto como ejemplo directo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_009",
-      "pregunta": "En un mol de agua ($H_2O$), ¿cuántos átomos de hidrógeno están presentes?",
+      "pregunta": "Si la masa fórmula del cloruro de sodio ($$NaCl$$) es $$58.5 \\text{ uma}$$, ¿qué representa este valor?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$6.022 \\times 10^{23}$$",
-        "B": "$$1$$",
-        "C": "$$2$$",
-        "D": "$$2 \\times (6.022 \\times 10^{23})$$",
-        "E": "$$3 \\times (6.022 \\times 10^{23})$$"
+        "A": "La masa en gramos de una molécula de NaCl.",
+        "B": "La masa de un mol de NaCl.",
+        "C": "La suma de la masa atómica de un átomo de sodio y un átomo de cloro.",
+        "D": "El número de unidades fórmula en un gramo de NaCl.",
+        "E": "La masa de un átomo de Na multiplicada por la masa de un átomo de Cl."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Un mol de agua contiene $$6.022 \\times 10^{23}$$ moléculas de $H_2O$. Dado que cada molécula de agua tiene 2 átomos de hidrógeno, el número total de átomos de hidrógeno es el doble del número de Avogadro: $$2 \\times (6.022 \\times 10^{23}) = 12.044 \\times 10^{23}$$ átomos de hidrógeno.",
+      "respuesta_correcta": "C",
+      "explicacion": "La masa fórmula, al igual que la masa molecular, se calcula sumando las masas atómicas de los átomos presentes en la fórmula química. En este caso, $$58.5 \\text{ uma}$$ es el resultado de sumar la masa atómica del sodio ($$\\approx 23 \\text{ uma}$$) y la masa atómica del cloro ($$\\approx 35.5 \\text{ uma}$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_010",
-      "pregunta": "Considerando las masas atómicas Na = 23 uma y Cl = 35.5 uma, ¿cuál es la masa fórmula del cloruro de sodio ($NaCl$)?",
+      "pregunta": "El origen etimológico del término 'molécula' se relaciona con la palabra latina 'moles'. ¿Qué significa 'molécula' en este contexto?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$12.5 \\text{ uma}$$",
-        "B": "$$58.5 \\text{ uma}$$",
-        "C": "$$810.5 \\text{ uma}$$",
-        "D": "$$23.0 \\text{ uma}$$",
-        "E": "$$35.5 \\text{ uma}$$"
+        "A": "Una masa grande.",
+        "B": "Una masa divisible.",
+        "C": "Una masa pequeña.",
+        "D": "Una unidad de masa.",
+        "E": "Una masa elemental."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La masa fórmula se calcula sumando las masas atómicas de los átomos en la unidad fórmula. Para el $NaCl$, la masa fórmula es la suma de la masa atómica del sodio y la del cloro: $$1(23 \\text{ uma}) + 1(35.5 \\text{ uma}) = 58.5 \\text{ uma}$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "El término 'mol' proviene del latín 'moles', que significa 'una masa'. La palabra 'molécula' es el diminutivo de 'mol', lo que se traduce como 'una masa pequeña', reflejando que es una partícula fundamental de una sustancia.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_011",
-      "pregunta": "Un mol de agua ($H_2O$) contiene $$6.022 \\times 10^{23}$$ moléculas de agua y la misma cantidad de átomos de oxígeno. ¿Por qué es esto?",
+      "pregunta": "Considerando que la masa atómica del carbono es $$12 \\text{ uma}$$ y la del oxígeno es $$16 \\text{ uma}$$, ¿cuál es la masa molar del dióxido de carbono ($$CO_2$$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque el oxígeno es el átomo más pesado.",
-        "B": "Porque la fórmula química $H_2O$ contiene un solo átomo de oxígeno por molécula.",
-        "C": "Porque el oxígeno y el agua tienen la misma masa molar.",
-        "D": "Porque el número de Avogadro se define en base al oxígeno.",
-        "E": "Porque todos los átomos en un mol son iguales."
+        "A": "$$28 \\text{ g/mol}$$",
+        "B": "$$32 \\text{ g/mol}$$",
+        "C": "$$44 \\text{ g/mol}$$",
+        "D": "$$56 \\text{ g/mol}$$",
+        "E": "$$192 \\text{ g/mol}$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La relación es directa: si tienes $$N_a$$ moléculas y cada molécula contiene 1 átomo de oxígeno, entonces tendrás $$N_a \\times 1 = N_a$$ átomos de oxígeno. La cantidad de átomos de un elemento en un mol de un compuesto depende del subíndice de ese elemento en la fórmula química.",
+      "respuesta_correcta": "C",
+      "explicacion": "Primero, se calcula la masa molecular del $$CO_2$$ sumando las masas atómicas: $$1 \\times (12 \\text{ uma}) + 2 \\times (16 \\text{ uma}) = 12 + 32 = 44 \\text{ uma}$$. La masa molar es numéricamente igual a la masa molecular, pero expresada en g/mol. Por lo tanto, la masa molar del $$CO_2$$ es $$44 \\text{ g/mol}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_012",
-      "pregunta": "Si la masa molar de una sustancia es la masa en gramos de un mol de esa sustancia, ¿qué representa la masa de $$180 \\text{ g}$$ de glucosa ($C_6H_{12}O_6$), sabiendo que su masa molecular es $$180 \\text{ uma}$$?",
+      "pregunta": "¿Qué tienen en común un mol de átomos de carbono ($$C$$) y un mol de moléculas de agua ($$H_2O$$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "La masa de $$6.022 \\times 10^{23}$$ gramos de glucosa.",
-        "B": "La masa de una molécula de glucosa.",
-        "C": "La masa de un mol de glucosa.",
-        "D": "La masa de 12 átomos de carbono.",
-        "E": "La masa de 180 moles de glucosa."
+        "A": "La misma masa.",
+        "B": "El mismo número de átomos totales.",
+        "C": "El mismo número de entidades elementales.",
+        "D": "El mismo volumen.",
+        "E": "La misma masa molar."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La masa molar es numéricamente igual a la masa molecular, pero expresada en g/mol. Si la masa molecular de la glucosa es 180 uma, su masa molar es 180 g/mol. Por lo tanto, 180 gramos de glucosa corresponden exactamente a la masa de un mol de esta sustancia.",
+      "explicacion": "La definición de mol establece que un mol de cualquier sustancia contiene el mismo número de entidades elementales, que es el número de Avogadro ($$6.022 \\times 10^{23}$$). Por lo tanto, un mol de átomos de C contiene $$6.022 \\times 10^{23}$$ átomos, y un mol de moléculas de H₂O contiene $$6.022 \\times 10^{23}$$ moléculas. No tienen la misma masa ni el mismo número total de átomos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_013",
-      "pregunta": "Calcule la masa molecular de la glucosa ($C_6H_{12}O_6$) utilizando las siguientes masas atómicas: C = 12 uma, H = 1 uma, O = 16 uma.",
+      "pregunta": "Si un mol de un compuesto con fórmula $$X_2Y_3$$ contiene $$2 \\times (6.022 \\times 10^{23})$$ átomos de $$X$$, ¿cuántos átomos de $$Y$$ contiene?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$29 \\text{ uma}$$",
-        "B": "$$156 \\text{ uma}$$",
-        "C": "$$180 \\text{ uma}$$",
-        "D": "$$204 \\text{ uma}$$",
-        "E": "$$96 \\text{ uma}$$"
+        "A": "$$2 \\times (6.022 \\times 10^{23})$$ átomos",
+        "B": "$$6.022 \\times 10^{23}$$ átomos",
+        "C": "$$5 \\times (6.022 \\times 10^{23})$$ átomos",
+        "D": "$$1.5 \\times (6.022 \\times 10^{23})$$ átomos",
+        "E": "$$3 \\times (6.022 \\times 10^{23})$$ átomos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Para calcular la masa molecular, se multiplica la masa atómica de cada elemento por el número de átomos de ese elemento en la fórmula y se suman los resultados. Para $C_6H_{12}O_6$: $$ \\text{Masa molecular} = 6 \\times (12 \\text{ uma}) + 12 \\times (1 \\text{ uma}) + 6 \\times (16 \\text{ uma}) = 72 \\text{ uma} + 12 \\text{ uma} + 96 \\text{ uma} = 180 \\text{ uma}$$.",
+      "respuesta_correcta": "E",
+      "explicacion": "Un mol del compuesto $$X_2Y_3$$ contiene un mol de unidades fórmula, es decir, $$6.022 \\times 10^{23}$$ unidades de $$X_2Y_3$$. La fórmula indica que por cada 2 átomos de $$X$$, hay 3 átomos de $$Y$$. Por lo tanto, si un mol del compuesto contiene 2 moles de átomos de $$X$$, contendrá 3 moles de átomos de $$Y$$. Esto equivale a $$3 \\times (6.022 \\times 10^{23})$$ átomos de $$Y$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_014",
-      "pregunta": "¿Cuántos átomos de oxígeno hay en un mol de glucosa ($C_6H_{12}O_6$)?",
+      "pregunta": "Sabiendo que la masa molecular de la glucosa ($$C_6H_{12}O_6$$) es $$180 \\text{ uma}$$, ¿qué cantidad de moléculas de glucosa hay en 180 gramos de glucosa?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$6.022 \\times 10^{23}$$",
-        "B": "$$12 \\times (6.022 \\times 10^{23})$$",
-        "C": "$$1 \\times (6.022 \\times 10^{23})$$",
-        "D": "$$24 \\times (6.022 \\times 10^{23})$$",
-        "E": "$$6 \\times (6.022 \\times 10^{23})$$"
+        "A": "$$1$$ molécula",
+        "B": "$$180$$ moléculas",
+        "C": "$$6.022 \\times 10^{23}$$ moléculas",
+        "D": "$$12 \\times (6.022 \\times 10^{23})$$ moléculas",
+        "E": "$$180 \\times (6.022 \\times 10^{23})$$ moléculas"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Un mol de glucosa contiene $$6.022 \\times 10^{23}$$ moléculas de $C_6H_{12}O_6$. La fórmula química indica que cada molécula de glucosa contiene 6 átomos de oxígeno. Por lo tanto, el número total de átomos de oxígeno es 6 veces el número de Avogadro: $$6 \\times (6.022 \\times 10^{23})$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "La masa molecular de la glucosa es $$180 \\text{ uma}$$. Esto significa que su masa molar es $$180 \\text{ g/mol}$$. Por lo tanto, 180 gramos de glucosa equivalen exactamente a un mol de glucosa. Por definición, un mol de cualquier sustancia contiene el número de Avogadro de entidades, que en este caso son moléculas. Así, en 180 g de glucosa hay $$6.022 \\times 10^{23}$$ moléculas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_208_015",
-      "pregunta": "Una muestra contiene $$12.044 \\times 10^{23}$$ átomos de hidrógeno y $$6.022 \\times 10^{23}$$ átomos de oxígeno, combinados en un solo compuesto. ¿Qué representa esta muestra?",
+      "pregunta": "Una muestra contiene $$12.044 \\times 10^{23}$$ átomos de hidrógeno, los cuales forman parte de moléculas de agua ($$H_2O$$). ¿Cuántos moles de moléculas de agua hay en la muestra?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un mol de peróxido de hidrógeno ($H_2O_2$)",
-        "B": "Dos moles de hidróxido ($OH^-$)",
-        "C": "Un mol de agua ($H_2O$)",
-        "D": "Dos moles de agua ($H_2O$)",
-        "E": "Medio mol de agua ($H_2O$)"
+        "A": "$$0.5$$ moles",
+        "B": "$$1$$ mol",
+        "C": "$$2$$ moles",
+        "D": "$$4$$ moles",
+        "E": "$$6.022 \\times 10^{23}$$ moles"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La muestra contiene $$2 \\times (6.022 \\times 10^{23})$$ átomos de H y $$1 \\times (6.022 \\times 10^{23})$$ átomos de O. Esto corresponde a $$N_a$$ veces la fórmula $H_2O$. Dado que $$N_a$$ (el número de Avogadro) de entidades es un mol, la muestra representa un mol de moléculas de agua ($H_2O$), que se compone de $$6.022 \\times 10^{23}$$ moléculas.",
+      "respuesta_correcta": "B",
+      "explicacion": "Primero, se determina el número de moles de átomos de hidrógeno. Sabiendo que $$N_a = 6.022 \\times 10^{23}$$, la cantidad de átomos de hidrógeno es $$12.044 \\times 10^{23} = 2 \\times (6.022 \\times 10^{23})$$, lo que equivale a 2 moles de átomos de hidrógeno. La fórmula del agua ($$H_2O$$) indica que cada mol de moléculas de agua contiene 2 moles de átomos de hidrógeno. Por lo tanto, si hay 2 moles de átomos de H, debe haber 1 mol de moléculas de $$H_2O$$.",
       "imagen": null
     }
   ]

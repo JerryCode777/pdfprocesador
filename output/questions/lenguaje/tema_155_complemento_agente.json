@@ -1,0 +1,233 @@
+{
+  "materia": "lenguaje",
+  "numero_tema": 155,
+  "total_temas": 225,
+  "titulo_tema": "Complemento Agente",
+  "preguntas": [
+    {
+      "id_temporal": "lenguaje_155_001",
+      "pregunta": "¿Qué función sintáctica señala al ser que realiza la acción verbal en una oración cuyo sujeto es pasivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sujeto Activo",
+        "B": "Complemento Predicativo",
+        "C": "Complemento Agente",
+        "D": "Complemento Atributo",
+        "E": "Objeto Directo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Complemento Agente (AG) es, por definición, la función sintáctica que identifica en el predicado al ser que ejecuta la acción del verbo, pero únicamente cuando la oración está en voz pasiva y el sujeto recibe dicha acción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_002",
+      "pregunta": "¿Cuál es la pregunta específica utilizada para identificar el Complemento Agente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "¿Cómo + V?",
+        "B": "¿Para qué + V + sujeto?",
+        "C": "¿Qué + V?",
+        "D": "¿Por quién + V + sujeto?",
+        "E": "¿Dónde + V + sujeto?"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para reconocer el Complemento Agente en una oración pasiva, se formula la pregunta '¿Por quién + Verbo + sujeto?'. La respuesta a esta pregunta corresponderá al Complemento Agente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_003",
+      "pregunta": "El Complemento Agente aparece exclusivamente en oraciones con...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Voz activa",
+        "B": "Voz pasiva",
+        "C": "Verbos copulativos",
+        "D": "Sujeto elíptico",
+        "E": "Predicado nominal"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una característica fundamental del Complemento Agente es que solo se encuentra en oraciones construidas en voz pasiva, donde el sujeto no realiza la acción, sino que la recibe.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_004",
+      "pregunta": "¿Qué preposiciones suelen encabezar al Complemento Agente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "con, sin",
+        "B": "a, para",
+        "C": "en, sobre",
+        "D": "desde, hasta",
+        "E": "por, de"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Generalmente, el Complemento Agente va introducido por la preposición 'por'. En casos específicos, como para designar enfermedades o virus, se utiliza la preposición 'de'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_005",
+      "pregunta": "En la oración \"El edificio fue construido por el ingeniero civil\", ¿cuál es el Complemento Agente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El edificio",
+        "B": "fue construido",
+        "C": "por el ingeniero civil",
+        "D": "el ingeniero",
+        "E": "construido"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al aplicar la fórmula de reconocimiento '¿Por quién fue construido el edificio?', la respuesta es 'por el ingeniero civil'. Este sintagma preposicional indica quién realizó la acción de construir.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_006",
+      "pregunta": "¿Cuál es la principal diferencia entre un Complemento Agente y un Complemento Circunstancial de Causa, ambos introducidos por 'por'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El C. Agente aparece en voz activa y el C. de Causa en voz pasiva.",
+        "B": "El C. Agente indica quién realiza la acción, mientras que el C. de Causa indica el motivo o la razón.",
+        "C": "No existe diferencia, son términos intercambiables.",
+        "D": "El C. Agente siempre se refiere a una persona y el C. de Causa a un objeto.",
+        "E": "El C. Agente responde a la pregunta '¿para qué?' y el C. de Causa a '¿por quién?'."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción clave es la función semántica. El Complemento Agente nombra al ejecutor de la acción en una estructura pasiva (fue preparado 'por él'), mientras que el C. Circunstancial de Causa explica la razón de la acción (fue premiado 'por eficiente').",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_007",
+      "pregunta": "En la oración \"Él fue contagiado de COVID-19\", el sintagma \"de COVID-19\" funciona como Complemento Agente porque...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Indica el lugar del contagio.",
+        "B": "Es una cualidad del sujeto.",
+        "C": "La preposición 'de' designa al virus que realiza la acción de contagiar.",
+        "D": "La oración está en voz activa.",
+        "E": "Responde a la pregunta ¿cómo fue contagiado?"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque la preposición más común es 'por', se utiliza 'de' para designar enfermedades o virus que actúan como el agente causante de la acción verbal en una oración pasiva. En este caso, el virus COVID-19 es el que realiza la acción de contagiar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_008",
+      "pregunta": "¿Qué característica del sujeto en una oración determina la posible presencia de un Complemento Agente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ser un sujeto compuesto.",
+        "B": "Ser un sujeto activo que realiza la acción.",
+        "C": "Ser un sujeto tácito.",
+        "D": "Ser un sujeto pasivo que recibe la acción.",
+        "E": "Ser un pronombre personal."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Complemento Agente existe para nombrar al ejecutor de la acción precisamente porque el sujeto gramatical no la realiza, sino que la padece o la recibe; es decir, el sujeto es pasivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_009",
+      "pregunta": "Un modificador BIVALENTE, como el Complemento Predicativo, se diferencia del Complemento Agente en que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El C. Agente solo aparece en voz activa.",
+        "B": "El C. Agente modifica simultáneamente al verbo y al sujeto o al objeto directo.",
+        "C": "El C. Predicativo modifica a dos elementos a la vez (verbo y sujeto, o verbo y OD), mientras que el C. Agente solo indica el ejecutor de la acción.",
+        "D": "El C. Agente expresa cualidad y el C. Predicativo, acción.",
+        "E": "El C. Predicativo solo acompaña a verbos copulativos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La bivalencia es una característica del Complemento Predicativo (PVO), que afecta a dos elementos de la oración (ej. \"Él entrena concentrado\", 'concentrado' se refiere a 'él' y a 'entrena'). El Complemento Agente (AG) tiene una única función: señalar quién realiza la acción en la voz pasiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_010",
+      "pregunta": "¿Cuál de las siguientes oraciones contiene un Complemento Agente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El atleta corre veloz por la pista.",
+        "B": "La noticia fue difundida por la agencia de prensa.",
+        "C": "El encontró limpia la habitación.",
+        "D": "Se castigó al culpable por su delito.",
+        "E": "Él entrena muy concentrado para la final."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La opción B es la única en voz pasiva ('fue difundida') donde 'por la agencia de prensa' responde a la pregunta '¿Por quién fue difundida la noticia?', identificando al ejecutor de la acción. Las demás opciones contienen C. Predicativos (C, E), un C. de Causa (D) o un C. de Modo (A).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_011",
+      "pregunta": "En la frase \"Él fue premiado por eficiente\", el sintagma \"por eficiente\" es un Complemento Circunstancial de Causa y no un Complemento Agente porque...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La oración está en voz activa.",
+        "B": "La preposición 'por' no puede introducir un C. Agente.",
+        "C": "'Eficiente' es una cualidad que expresa el motivo del premio, no un ser que ejecute la acción de premiar.",
+        "D": "El sujeto 'Él' es quien realiza la acción.",
+        "E": "Falta un objeto directo en la oración."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque la oración es pasiva, 'eficiente' no es un agente que realiza la acción. Indica la causa o el motivo por el cual el sujeto fue premiado. Un Complemento Agente debe ser una entidad (persona, animal, cosa) que pueda ejecutar la acción verbal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_012",
+      "pregunta": "¿Qué complemento expresa una cualidad o propiedad del sujeto, al igual que el Complemento Predicativo, pero se diferencia de este y del Complemento Agente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Complemento Circunstancial de Modo",
+        "B": "Complemento Directo",
+        "C": "Complemento de Régimen",
+        "D": "Complemento Atributo",
+        "E": "Sujeto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Complemento Atributo (ATR) es la función sintáctica que expresa una cualidad del sujeto, pero a diferencia del Predicativo, lo hace con verbos copulativos (ser, estar, parecer). Se distingue claramente del Agente, que indica el ejecutor de una acción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_013",
+      "pregunta": "Si transformamos la oración activa \"El científico descubrió la cura\" a voz pasiva, ¿qué función sintáctica desempeñaría \"El científico\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sujeto pasivo",
+        "B": "Complemento Agente",
+        "C": "Objeto Directo",
+        "D": "Complemento Predicativo",
+        "E": "Atributo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al transformar la oración a voz pasiva, el sujeto de la activa (\"El científico\") se convierte en el Complemento Agente. La oración resultante sería: \"La cura fue descubierta por el científico\". Aquí, 'por el científico' indica quién realizó la acción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_014",
+      "pregunta": "Analice la oración: \"El acusado fue absuelto por falta de pruebas\". ¿Qué función cumple \"por falta de pruebas\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Complemento Agente, porque las pruebas realizan la acción.",
+        "B": "Complemento Predicativo, porque modifica al verbo.",
+        "C": "Complemento Circunstancial de Causa, porque indica el motivo de la absolución.",
+        "D": "Complemento Atributo, porque es una cualidad del acusado.",
+        "E": "Objeto indirecto, porque responde a la pregunta ¿a quién?"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este es un caso para diferenciar C. Agente de C. de Causa. Aunque la oración es pasiva ('fue absuelto'), \"falta de pruebas\" no es un agente que ejecuta la acción de absolver. Es la razón o la causa por la que el juez (agente omitido) lo absolvió. Por lo tanto, es un Complemento Circunstancial de Causa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_155_015",
+      "pregunta": "¿En cuál de las siguientes oraciones la estructura 'por + sustantivo' funciona inequívocamente como Complemento Agente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Siente un gran respeto por su maestro.",
+        "B": "Fue sancionado por su comportamiento.",
+        "C": "El poema fue recitado por el autor.",
+        "D": "Lucha por un ideal de justicia.",
+        "E": "Paseaba por el parque tranquilamente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Solo en la opción C se cumplen todas las condiciones: la oración está en voz pasiva ('fue recitado'), el sujeto ('El poema') es paciente y 'por el autor' es el ser que realiza la acción de recitar. Las otras opciones indican: sentimiento hacia alguien (A), causa (B), finalidad (D) y lugar (E).",
+      "imagen": null
+    }
+  ]
+}

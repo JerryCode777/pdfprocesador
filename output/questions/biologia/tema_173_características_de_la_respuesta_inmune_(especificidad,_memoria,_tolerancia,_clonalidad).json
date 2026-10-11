@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 173,
+  "total_temas": 320,
+  "titulo_tema": "Características de la Respuesta Inmune (Especificidad, Memoria, Tolerancia, Clonalidad)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_173_001",
+      "pregunta": "¿Cuál de las siguientes propiedades de la respuesta inmunitaria se refiere a la capacidad de generar una única respuesta para cada agente invasor específico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Memoria",
+        "B": "Tolerancia",
+        "C": "Clonalidad",
+        "D": "Especificidad",
+        "E": "Opsonización"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La especificidad es la característica del sistema inmunitario que le permite reconocer de manera precisa a un antígeno concreto y montar una respuesta dirigida exclusivamente contra él, distinguiéndolo de otros antígenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_002",
+      "pregunta": "¿Qué característica del sistema inmune permite que una segunda respuesta a un mismo agente invasor sea más intensa y eficaz que la primera?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Clonalidad",
+        "B": "Tolerancia",
+        "C": "Memoria",
+        "D": "Especificidad",
+        "E": "Precipitación"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La memoria inmunológica es la capacidad del sistema inmune de 'recordar' un antígeno con el que ya ha estado en contacto. Gracias a esta memoria, una exposición subsecuente al mismo agente patógeno desencadena una respuesta secundaria mucho más rápida, fuerte y efectiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_003",
+      "pregunta": "¿Cómo se denomina la propiedad del sistema inmunitario que le permite aprender a no generar respuestas contra los antígenos del propio organismo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Opsonización",
+        "B": "Tolerancia",
+        "C": "Memoria",
+        "D": "Clonalidad",
+        "E": "Precipitación"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La tolerancia es el proceso por el cual el sistema inmunitario aprende a reconocer los componentes propios del cuerpo como 'seguros', evitando así atacarlos. Este mecanismo es fundamental para prevenir la autoinmunidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_004",
+      "pregunta": "¿Qué propiedad de la respuesta inmune implica que los linfocitos activados proliferan para originar una gran cantidad de células genéticamente idénticas con los mismos receptores?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Memoria",
+        "B": "Especificidad",
+        "C": "Tolerancia",
+        "D": "Opsonización",
+        "E": "Clonalidad"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La clonalidad, o expansión clonal, es el proceso mediante el cual un linfocito que ha reconocido a su antígeno específico se activa y se multiplica masivamente. Esto genera un gran número de células hijas (un clon) idénticas, todas capaces de reconocer y combatir al mismo antígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_005",
+      "pregunta": "¿Cuál es el mecanismo por el cual los anticuerpos marcan la superficie de un microorganismo, utilizando los fragmentos Fc, para facilitar su fagocitosis?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Neutralización",
+        "B": "Precipitación",
+        "C": "Opsonización",
+        "D": "Clonalidad",
+        "E": "Tolerancia"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La opsonización es el proceso en el que los anticuerpos (u otras moléculas llamadas opsoninas) se unen a la superficie de un patógeno. Esto expone sus fragmentos Fc, que son reconocidos por receptores en las células fagocitarias, mejorando drásticamente la eficiencia con la que el patógeno es capturado y destruido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_006",
+      "pregunta": "En el mecanismo de precipitación, ¿cómo contribuye la formación de grandes entramados antígeno-anticuerpo a la eliminación del patógeno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Neutralizando directamente las toxinas del patógeno.",
+        "B": "Activando la memoria inmunológica de forma inmediata.",
+        "C": "Facilitando la fagocitosis del complejo por parte de PMNs y macrófagos.",
+        "D": "Impidiendo que el patógeno se una a las células del huésped.",
+        "E": "Generando linfocitos clónicos específicos para el patógeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La precipitación ocurre cuando los anticuerpos se unen a antígenos solubles, formando grandes complejos insolubles. Estos precipitados son fácilmente reconocidos y eliminados por células fagocitarias como los polimorfonucleares (PMNs) y los macrófagos, conectando la respuesta humoral específica con la defensa celular inespecífica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_007",
+      "pregunta": "¿Cuál es la consecuencia directa de un error en el mecanismo de tolerancia inmunológica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una respuesta más lenta ante infecciones recurrentes.",
+        "B": "La incapacidad de generar anticuerpos específicos.",
+        "C": "El desarrollo de enfermedades autoinmunes.",
+        "D": "Una proliferación descontrolada de linfocitos clónicos.",
+        "E": "La neutralización ineficaz de toxinas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La tolerancia es crucial para que el sistema inmune no ataque a los propios tejidos del cuerpo. Cuando este mecanismo falla, los linfocitos autorreactivos se activan y comienzan a atacar a las células y tejidos propios, lo que da lugar a las enfermedades autoinmunes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_008",
+      "pregunta": "Durante la opsonización, ¿qué parte de las inmunoglobulinas actúa como señal para que las células fagocitarias reconozcan y ataquen al microorganismo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La región variable del anticuerpo.",
+        "B": "El antígeno mismo.",
+        "C": "Los fragmentos Fc.",
+        "D": "Los receptores del linfocito T.",
+        "E": "El complejo mayor de histocompatibilidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la opsonización, los anticuerpos se unen al antígeno a través de su región variable. Esto deja expuesta la región constante, conocida como fragmento Fc. Las células fagocitarias, como los macrófagos, tienen receptores para este fragmento Fc, que al unirse, actúan como una potente señal de 'cómeme' para iniciar la fagocitosis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_009",
+      "pregunta": "¿Qué relación existe entre la especificidad y la clonalidad en la respuesta inmune?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La clonalidad genera la especificidad inicial del sistema inmune.",
+        "B": "La especificidad es el resultado de la memoria, mientras que la clonalidad es independiente.",
+        "C": "Un linfocito específico para un antígeno prolifera (clonalidad) para generar muchas células idénticas que atacan a ese mismo antígeno.",
+        "D": "La clonalidad reduce la especificidad para poder atacar a más tipos de patógenos.",
+        "E": "La especificidad y la clonalidad son procesos antagónicos que rara vez ocurren juntos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La especificidad y la clonalidad están intrínsecamente ligadas. La especificidad asegura que solo los linfocitos que reconocen al antígeno invasor se activen. La clonalidad es el paso siguiente: ese linfocito específico prolifera masivamente para crear un 'ejército' de clones, todos con la misma especificidad, para combatir eficazmente la infección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_010",
+      "pregunta": "El mecanismo de precipitación ilustra una interacción clave en la defensa del organismo. ¿Qué dos componentes del sistema de defensa interactúan en este proceso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La respuesta celular y la respuesta humoral entre sí.",
+        "B": "La memoria inmunológica y la tolerancia.",
+        "C": "La defensa específica (respuesta humoral) y la defensa inespecífica (células fagocitarias).",
+        "D": "La opsonización y la neutralización.",
+        "E": "Los linfocitos T y los linfocitos B únicamente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La precipitación es un ejemplo de cómo la inmunidad adaptativa (o específica) colabora con la inmunidad innata (o inespecífica). La respuesta humoral, mediada por anticuerpos (específica), forma los precipitados, que luego son eliminados por células fagocitarias como macrófagos (inespecíficas), complementando la acción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_011",
+      "pregunta": "El principal beneficio de la memoria inmunológica es que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "...garantiza que el sistema inmune no ataque a las células propias.",
+        "B": "...permite generar una gran diversidad de linfocitos desde el nacimiento.",
+        "C": "...asegura que la respuesta a una reinfección sea más rápida y potente.",
+        "D": "...crea clones de linfocitos genéticamente idénticos durante la primera infección.",
+        "E": "...facilita la precipitación de complejos antígeno-anticuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El beneficio fundamental de la memoria inmunológica es la capacidad de montar una respuesta secundaria mucho más rápida, de mayor magnitud y más eficaz ante una segunda exposición al mismo patógeno. Esto a menudo previene la enfermedad por completo o la hace mucho más leve.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_012",
+      "pregunta": "¿En qué etapa del desarrollo de un organismo comienza a generarse la tolerancia del sistema inmunitario?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Durante la adolescencia.",
+        "B": "Después del primer año de vida.",
+        "C": "Únicamente tras la primera infección grave.",
+        "D": "Desde las primeras semanas del desarrollo embrionario.",
+        "E": "En la edad adulta, al madurar completamente el sistema inmune."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El proceso de tolerancia, mediante el cual el sistema inmune aprende a no atacar los componentes propios del cuerpo, es un evento temprano y crucial. Comienza a establecerse desde las primeras semanas del desarrollo embrionario, a medida que el sistema inmunitario se va formando.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_013",
+      "pregunta": "Un niño que ha superado el sarampión no vuelve a contraer la enfermedad a pesar de estar en contacto con el virus años después. ¿Qué propiedad fundamental de la respuesta inmune explica esta protección a largo plazo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La tolerancia, que evita que el cuerpo se ataque a sí mismo.",
+        "B": "La clonalidad, que produjo muchas células durante la primera infección.",
+        "C": "La especificidad, que permite reconocer al virus del sarampión y no a otro.",
+        "D": "La memoria, que guarda la información para una respuesta rápida y eficaz en exposiciones futuras.",
+        "E": "La opsonización, que marca al virus para ser destruido."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este escenario es el ejemplo clásico de la memoria inmunológica. Tras la primera infección, el sistema inmune genera células de memoria de larga duración. En un segundo contacto con el virus, estas células se activan rápidamente, produciendo una respuesta tan potente que elimina el patógeno antes de que pueda causar síntomas. Si bien la especificidad y la clonalidad son parte del proceso, la memoria es la propiedad clave que confiere protección a largo plazo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_014",
+      "pregunta": "Si el sistema inmune de un individuo perdiera la capacidad de distinguir entre antígenos propios y extraños, ¿qué característica se vería directamente comprometida y cuál sería la consecuencia más probable?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La memoria se vería comprometida, resultando en infecciones recurrentes.",
+        "B": "La especificidad se vería comprometida, llevando a una respuesta débil contra los patógenos.",
+        "C": "La tolerancia se vería comprometida, resultando en un ataque a los tejidos del propio organismo.",
+        "D": "La clonalidad se vería comprometida, impidiendo la proliferación de linfocitos.",
+        "E": "La opsonización se vería comprometida, dificultando la fagocitosis."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacidad de distinguir entre lo propio y lo extraño es la definición de tolerancia inmunológica. Si esta característica se pierde, el sistema inmune deja de 'tolerar' los componentes del propio cuerpo y los identifica erróneamente como una amenaza. La consecuencia directa es una respuesta inmune dirigida contra los propios tejidos, lo que se conoce como enfermedad autoinmune.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_173_015",
+      "pregunta": "Al comparar los mecanismos de precipitación y opsonización, se puede concluir que ambos, aunque por vías diferentes, tienen como objetivo común...",
+      "dificultad": 3,
+      "opciones": {
+        "A": "...neutralizar toxinas supramoleculares de forma directa.",
+        "B": "...generar memoria inmunológica para futuras infecciones.",
+        "C": "...facilitar la eliminación de los antígenos mediante la fagocitosis.",
+        "D": "...producir una gran cantidad de linfocitos clónicos idénticos.",
+        "E": "...impedir que el antígeno se disuelva en los fluidos corporales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta requiere sintetizar la función de dos mecanismos. La precipitación forma grandes complejos antígeno-anticuerpo que son fagocitados por PMNs y macrófagos. La opsonización marca directamente a los microorganismos para que las células fagocitarias los reconozcan y destruyan con mayor eficacia. Por lo tanto, un objetivo final común de ambos procesos es mejorar y facilitar la fagocitosis como método de eliminación del agente invasor.",
+      "imagen": null
+    }
+  ]
+}

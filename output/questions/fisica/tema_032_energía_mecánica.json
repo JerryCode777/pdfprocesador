@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 32,
+  "total_temas": 137,
+  "titulo_tema": "Energía Mecánica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_032_001",
+      "pregunta": "¿En qué unidad del Sistema Internacional se mide la energía?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newtons (N)",
+        "B": "Watts (W)",
+        "C": "Joules (J)",
+        "D": "Kilogramos (kg)",
+        "E": "Metros por segundo (m/s)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía, al igual que el trabajo, se mide en joules (J) en el Sistema Internacional. El Newton es la unidad de fuerza, el Watt de potencia, el kilogramo de masa y el metro por segundo de velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_002",
+      "pregunta": "¿Cómo se define la energía mecánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía debida únicamente a la temperatura de un objeto.",
+        "B": "La energía debida a la posición y al movimiento de un objeto.",
+        "C": "La energía almacenada en los enlaces químicos.",
+        "D": "La energía liberada en reacciones nucleares.",
+        "E": "La energía asociada exclusivamente a la deformación de un resorte."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía mecánica se define como la suma de las energías asociadas a la posición (energía potencial) y al movimiento (energía cinética) de un objeto. Las otras opciones describen otras formas de energía como la térmica, química o nuclear.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_003",
+      "pregunta": "¿Qué tipo de cantidad física es la energía cinética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vectorial, porque depende de la dirección del movimiento.",
+        "B": "Escalar, porque solo depende de la masa y la rapidez.",
+        "C": "Fundamental, como la masa o el tiempo.",
+        "D": "Adimensional, no tiene unidades.",
+        "E": "Vectorial, porque depende de la aceleración."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía cinética es una cantidad escalar. Su valor depende de la masa y del cuadrado de la rapidez del objeto, pero no de la dirección en la que se mueve. Por lo tanto, no es una cantidad vectorial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_004",
+      "pregunta": "¿Qué valor tiene el trabajo neto sobre un cuerpo que se mueve con velocidad constante (MRU)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Positivo",
+        "B": "Negativo",
+        "C": "Cero",
+        "D": "Depende de la masa del cuerpo",
+        "E": "Infinito"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si un cuerpo se mueve con velocidad constante, su aceleración es cero. Dado que el trabajo neto se puede expresar como $$W_{NETO} = mad$$, si la aceleración $$a$$ es cero, el trabajo neto también será cero. Esto significa que la fuerza resultante sobre el cuerpo es nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_005",
+      "pregunta": "¿Cuál es una característica fundamental de las fuerzas conservativas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Dependen de la velocidad del objeto.",
+        "B": "Son siempre perpendiculares al desplazamiento.",
+        "C": "Dependen de la posición del objeto (altura o deformación).",
+        "D": "Solo aparecen en sistemas sin fricción.",
+        "E": "Son proporcionales al tiempo de aplicación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las fuerzas conservativas, como la gravitatoria o la elástica, se caracterizan porque el trabajo que realizan depende únicamente de las posiciones inicial y final del objeto, no de la trayectoria. Su valor está determinado por la posición, ya sea altura o deformación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_006",
+      "pregunta": "¿Qué establece el teorema del trabajo neto y la energía cinética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El trabajo neto es igual a la energía cinética final: $$W_{NETO} = E_{kf}$$",
+        "B": "El trabajo neto es igual a la variación de la energía potencial: $$W_{NETO} = \\Delta E_p$$",
+        "C": "El trabajo neto es igual a la energía mecánica total: $$W_{NETO} = E_M$$",
+        "D": "El trabajo neto es igual a la variación de la energía cinética: $$W_{NETO} = \\Delta E_k$$",
+        "E": "El trabajo neto es siempre cero si hay movimiento."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El teorema del trabajo neto y la energía cinética establece que el trabajo realizado por la fuerza resultante sobre un cuerpo es igual al cambio (variación) en su energía cinética. Matemáticamente, se expresa como $$W_{NETO} = E_{kf} - E_{ko} = \\Delta E_k$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_007",
+      "pregunta": "Si el trabajo neto realizado sobre un cuerpo es positivo ($$W_{NETO} > 0$$), ¿qué se puede concluir sobre su movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El cuerpo se mueve con velocidad constante.",
+        "B": "El cuerpo está en reposo.",
+        "C": "El cuerpo tiene un movimiento desacelerado.",
+        "D": "El cuerpo tiene un movimiento acelerado.",
+        "E": "El cuerpo invierte su dirección de movimiento."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un trabajo neto positivo implica que la energía cinética del cuerpo ha aumentado ($$\\Delta E_k > 0$$). Un aumento en la energía cinética significa un aumento en la rapidez, lo cual corresponde a un movimiento acelerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_008",
+      "pregunta": "La fórmula de la energía mecánica total es $$EM = \\frac{1}{2}mv^2 + mgh + \\frac{1}{2}kx^2$$. ¿Qué representa cada término respectivamente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cinética, elástica y gravitatoria.",
+        "B": "Gravitatoria, cinética y elástica.",
+        "C": "Cinética, gravitatoria y elástica.",
+        "D": "Elástica, cinética y gravitatoria.",
+        "E": "Potencial, cinética y de trabajo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la expresión $$EM = \\frac{1}{2}mv^2 + mgh + \\frac{1}{2}kx^2$$, el término $$\\frac{1}{2}mv^2$$ corresponde a la energía cinética ($$E_k$$), el término $$mgh$$ a la energía potencial gravitatoria ($$E_{PG}$$) y el término $$\\frac{1}{2}kx^2$$ a la energía potencial elástica ($$E_{PE}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_009",
+      "pregunta": "¿Cuál es la relación matemática que vincula el trabajo neto ($$W_{NETO}$$) con la fuerza resultante ($$F_R$$) y el desplazamiento ($$d$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{NETO} = F_R \\cdot d$$",
+        "B": "$$W_{NETO} = \\frac{F_R}{d}$$",
+        "C": "$$W_{NETO} = F_R - d$$",
+        "D": "$$W_{NETO} = \\frac{d}{F_R}$$",
+        "E": "$$W_{NETO} = F_R + d$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El trabajo neto se define como el trabajo realizado por la fuerza resultante. Se calcula como el producto escalar de la fuerza resultante ($$F_R$$) por el vector desplazamiento ($$d$$). Si la fuerza y el desplazamiento tienen la misma dirección, la fórmula se simplifica a $$W_{NETO} = F_R \\cdot d$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_010",
+      "pregunta": "Si la energía cinética final de un objeto es menor que su energía cinética inicial ($$E_{kf} < E_{ko}$$), ¿cómo es el trabajo neto realizado sobre él?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo",
+        "B": "Cero",
+        "C": "Negativo",
+        "D": "Igual a la energía mecánica",
+        "E": "No se puede determinar"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según el teorema del trabajo y la energía, $$W_{NETO} = E_{kf} - E_{ko}$$. Si la energía cinética final es menor que la inicial, la diferencia ($$E_{kf} - E_{ko}$$) será un número negativo. Por lo tanto, el trabajo neto es negativo, lo que corresponde a un movimiento desacelerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_011",
+      "pregunta": "Utilizando la segunda ley de Newton ($$F_R = ma$$), ¿cómo se puede expresar el trabajo neto ($$W_{NETO}$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{NETO} = m + a + d$$",
+        "B": "$$W_{NETO} = \\frac{ma}{d}$$",
+        "C": "$$W_{NETO} = mad$$",
+        "D": "$$W_{NETO} = m(a-d)$$",
+        "E": "$$W_{NETO} = \\frac{d}{ma}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo neto es el producto de la fuerza resultante por el desplazamiento, $$W_{NETO} = F_R \\cdot d$$. Al sustituir la fuerza resultante por su equivalente según la segunda ley de Newton, $$F_R = ma$$, obtenemos la expresión $$W_{NETO} = mad$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_012",
+      "pregunta": "¿Qué condición es indispensable para que exista un trabajo neto no nulo sobre un cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el cuerpo se mueva con velocidad constante.",
+        "B": "Que la suma de todas las fuerzas sobre el cuerpo sea cero.",
+        "C": "Que exista una fuerza resultante que provoque un desplazamiento.",
+        "D": "Que el cuerpo esté en reposo absoluto.",
+        "E": "Que la trayectoria del cuerpo sea una línea recta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que haya trabajo neto, se requiere una fuerza resultante ($$F_R \\neq 0$$) y un desplazamiento ($$d \\neq 0$$). Si la fuerza resultante es cero, como en el caso de velocidad constante o reposo, el trabajo neto también es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_013",
+      "pregunta": "La derivación del teorema del trabajo y la energía utiliza la expresión $$W_{NETO} = mad$$ y la combina con una ecuación cinemática para llegar a $$W_{NETO} = \\frac{1}{2}mv_f^2 - \\frac{1}{2}mv_0^2$$. ¿Qué representa el término $$ad$$ en esa derivación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La velocidad instantánea del objeto.",
+        "B": "La mitad de la diferencia de las velocidades al cuadrado, $$\\frac{v_f^2 - v_0^2}{2}$$",
+        "C": "El impulso aplicado al objeto.",
+        "D": "La energía potencial por unidad de masa.",
+        "E": "El doble del cambio en la velocidad, $$2(v_f - v_0)$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la derivación, se parte de la ecuación cinemática del M.R.U.V.: $$v_f^2 = v_0^2 + 2ad$$. Si se despeja el producto $$ad$$, se obtiene $$ad = \\frac{v_f^2 - v_0^2}{2}$$. Este término se sustituye en $$W_{NETO} = m(ad)$$ para obtener la expresión final del teorema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_014",
+      "pregunta": "Si se sabe que el trabajo neto sobre un objeto en movimiento es cero ($$W_{NETO} = 0$$), ¿qué se puede afirmar con certeza sobre su energía cinética y su aceleración?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su energía cinética es cero y su aceleración es positiva.",
+        "B": "Su energía cinética aumenta y su aceleración es cero.",
+        "C": "Su energía cinética es constante y su aceleración es cero.",
+        "D": "Su energía cinética disminuye y su aceleración es negativa.",
+        "E": "Su energía cinética es constante y su aceleración puede ser positiva."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El teorema del trabajo neto establece que $$W_{NETO} = \\Delta E_k$$. Si $$W_{NETO} = 0$$, entonces $$\\Delta E_k = 0$$, lo que significa que la energía cinética no cambia (es constante). Por otro lado, la relación $$W_{NETO} = mad$$ implica que si el trabajo neto es cero y hay desplazamiento, la aceleración $$a$$ debe ser cero. Por lo tanto, tanto la energía cinética como la aceleración son constantes (siendo esta última cero).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_032_015",
+      "pregunta": "¿Por qué el trabajo neto sobre un cuerpo en Movimiento Rectilíneo Uniforme (MRU) es nulo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque su energía cinética inicial siempre es cero.",
+        "B": "Porque la fuerza de fricción es siempre igual a la fuerza aplicada.",
+        "C": "Porque su aceleración es nula, lo que implica una fuerza resultante nula.",
+        "D": "Porque el desplazamiento es siempre perpendicular a la fuerza resultante.",
+        "E": "Porque solo las fuerzas conservativas realizan trabajo en un MRU."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un cuerpo en MRU se mueve con velocidad constante. Por definición, si la velocidad es constante, la aceleración ($$a$$) es cero. Según la segunda ley de Newton, la fuerza resultante es el producto de la masa por la aceleración ($$F_R = ma$$). Si $$a=0$$, entonces la fuerza resultante $$F_R$$ también es cero. Como el trabajo neto es $$W_{NETO} = F_R \\cdot d$$, un valor de $$F_R=0$$ conduce a que el trabajo neto sea nulo.",
+      "imagen": null
+    }
+  ]
+}

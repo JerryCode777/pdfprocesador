@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 148,
+  "total_temas": 320,
+  "titulo_tema": "Rol de las Células Natural Killer (NK)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_148_001",
+      "pregunta": "¿Cuál es la función principal de la microbiota intestinal mencionada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Producir vitaminas esenciales para el ser humano.",
+        "B": "Digerir alimentos que el cuerpo no puede procesar.",
+        "C": "Impedir el desarrollo de hongos o bacterias ajenas.",
+        "D": "Regular la absorción de nutrientes en el intestino.",
+        "E": "Comunicarse con el sistema nervioso central."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La función principal de la microbiota intestinal, como conjunto de bacterias simbióticas, es impedir el desarrollo de microorganismos patógenos, como hongos o bacterias ajenas, protegiendo así al huésped.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_002",
+      "pregunta": "¿Contra qué tipo de células dirigen principalmente su actividad citotóxica las células NK?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Bacterias y parásitos.",
+        "B": "Células sanas y glóbulos rojos.",
+        "C": "Células infectadas por virus y células tumorales.",
+        "D": "Células del sistema nervioso.",
+        "E": "Hongos y levaduras."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las células Natural Killer (NK) están especializadas en reconocer y destruir células que han sido alteradas, específicamente aquellas infectadas por virus y las que se han transformado en células tumorales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_003",
+      "pregunta": "¿Qué molécula utilizan las células NK para perforar la membrana plasmática de las células objetivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anticuerpos",
+        "B": "Receptores CD16",
+        "C": "Citoquinas",
+        "D": "Perforinas",
+        "E": "Linfocitos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La principal función destructiva de las células NK implica un ataque directo a la membrana de la célula objetivo utilizando proteínas llamadas perforinas, las cuales crean poros en la membrana.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_004",
+      "pregunta": "La actividad citotóxica de las células NK se caracteriza por ser:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Específica y lenta",
+        "B": "Dependiente de la memoria inmunológica",
+        "C": "Únicamente antiviral",
+        "D": "Inespecífica",
+        "E": "Exclusivamente antitumoral"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las células NK proporcionan una respuesta citotóxica inespecífica, lo que significa que no requieren una exposición previa al patógeno o a la célula tumoral para actuar, a diferencia de la inmunidad adaptativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_005",
+      "pregunta": "¿Qué significa el acrónimo ADCC en el contexto de la función de las células NK?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Activación Dependiente de Células Complementarias",
+        "B": "Citotoxicidad Dependiente de Antígenos Celulares",
+        "C": "Ataque Dirigido Contra Células",
+        "D": "Citotoxicidad Celular Dependiente de Anticuerpos",
+        "E": "Defensa Celular Contra Células"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "ADCC corresponde a las siglas de Citotoxicidad Celular Dependiente de Anticuerpos (Antibody-Dependent Cell-mediated Cytotoxicity). Es un mecanismo por el cual las células NK reconocen y destruyen células que han sido marcadas por anticuerpos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_006",
+      "pregunta": "¿Cuál es el resultado final del ataque de las células NK con perforinas sobre una célula objetivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La célula objetivo se divide incontroladamente.",
+        "B": "La célula es marcada para ser eliminada por macrófagos.",
+        "C": "La célula estalla debido a la perforación de su membrana.",
+        "D": "El material genético de la célula es destruido.",
+        "E": "La célula entra en un estado de latencia."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El mecanismo de acción de las perforinas consiste en crear poros en la membrana plasmática de la célula infectada o tumoral. Este daño a la integridad de la membrana provoca un desequilibrio osmótico que finalmente hace que la célula estalle y muera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_007",
+      "pregunta": "¿Qué papel juega el receptor CD16 en la función de las células NK?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se une directamente a las células tumorales.",
+        "B": "Libera las perforinas para atacar la membrana.",
+        "C": "Reconoce células infectadas por virus sin necesidad de anticuerpos.",
+        "D": "Se une a los anticuerpos que cubren una célula objetivo.",
+        "E": "Impide la activación de la célula NK."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El receptor CD16 es específico de las células NK y su función es unirse a la porción Fc de los anticuerpos. Cuando los anticuerpos ya están unidos a una célula objetivo (infectada o tumoral), la unión del CD16 a estos anticuerpos activa la célula NK para que destruya la célula marcada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_008",
+      "pregunta": "¿Qué elemento es indispensable para que las células NK se activen a través del mecanismo de ADCC?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presencia de perforinas en la célula objetivo.",
+        "B": "El contacto directo con el ADN viral.",
+        "C": "La presencia de anticuerpos unidos a la célula objetivo.",
+        "D": "Una señal de activación de los linfocitos T.",
+        "E": "La ausencia de receptores en la célula NK."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El mecanismo de Citotoxicidad Dependiente de Anticuerpos (ADCC) requiere, por definición, la presencia de anticuerpos. Estos anticuerpos actúan como un puente, marcando la célula objetivo y permitiendo que la célula NK, a través de su receptor CD16, la reconozca y se active para destruirla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_009",
+      "pregunta": "¿Cómo contribuyen las bacterias simbióticas de la vagina o el intestino a la defensa del organismo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Entrenando a las células NK para ser más específicas.",
+        "B": "Produciendo anticuerpos contra patógenos comunes.",
+        "C": "Ocupando un nicho ecológico que impide el crecimiento de organismos extraños.",
+        "D": "Liberando perforinas para destruir hongos y bacterias.",
+        "E": "Enviando señales químicas para activar a todo el sistema inmune."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las bacterias que forman la microbiota normal, como las de la vagina o el intestino, establecen una barrera biológica. Al consumir recursos y ocupar espacio, compiten con posibles patógenos (hongos o bacterias ajenas), impidiendo que estos puedan establecerse y proliferar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_010",
+      "pregunta": "La destrucción de una célula que expresa anticuerpos en su superficie por una célula NK es una descripción del mecanismo de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fagocitosis",
+        "B": "Apoptosis programada",
+        "C": "Citotoxicidad directa por perforinas",
+        "D": "ADCC (Citotoxicidad Dependiente de Anticuerpos)",
+        "E": "Respuesta inmune adaptativa"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este escenario describe precisamente el mecanismo de ADCC. La clave es la participación de tres componentes: la célula objetivo, los anticuerpos que la marcan, y la célula NK que reconoce esos anticuerpos y ejecuta la destrucción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_011",
+      "pregunta": "¿Cuál es la relación entre los receptores CD16 de las células NK y la activación celular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La unión del CD16 a un anticuerpo inhibe la activación de la NK.",
+        "B": "El receptor CD16 libera perforinas directamente.",
+        "C": "La unión de un anticuerpo al receptor CD16 produce la activación de la célula NK.",
+        "D": "El CD16 es el receptor para las células infectadas por virus.",
+        "E": "No existe relación entre el CD16 y la activación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unión del receptor CD16 de la célula NK al extremo de un anticuerpo (que a su vez está unido a una célula diana) es la señal específica que desencadena la activación de la célula NK, llevándola a liberar sus moléculas citotóxicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_012",
+      "pregunta": "¿Qué diferencia fundamental existe entre el mecanismo de ADCC y el ataque directo con perforinas por parte de las células NK?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El ADCC es para células tumorales y las perforinas para células con virus.",
+        "B": "El ADCC requiere la mediación de anticuerpos, mientras que el ataque directo no necesariamente.",
+        "C": "El ataque con perforinas es más lento que el ADCC.",
+        "D": "Solo el ADCC provoca que la célula estalle.",
+        "E": "Las perforinas son inespecíficas, mientras que el ADCC es específico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción clave es la participación de los anticuerpos. El mecanismo de ADCC depende explícitamente de que los anticuerpos marquen la célula objetivo. En cambio, el ataque con perforinas se describe como la función principal de destrucción, que puede ocurrir por otros mecanismos de reconocimiento que no involucran anticuerpos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_013",
+      "pregunta": "Si un fármaco bloqueara selectivamente los receptores CD16 de las células NK, ¿qué función se vería directamente afectada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La capacidad de la microbiota intestinal para impedir el crecimiento de hongos.",
+        "B": "Toda la actividad citotóxica de las células NK.",
+        "C": "La capacidad de las células NK para destruir células objetivo mediante ADCC.",
+        "D": "La producción de perforinas por parte de las células NK.",
+        "E": "El reconocimiento general de células infectadas por virus."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El receptor CD16 es esencial y específico para el mecanismo de Citotoxicidad Dependiente de Anticuerpos (ADCC), ya que es el punto de unión con los anticuerpos. Si se bloquea, las células NK no podrían unirse a las células marcadas por anticuerpos, anulando esta vía de destrucción específica, aunque podrían seguir funcionando por otros mecanismos que no dependen de anticuerpos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_014",
+      "pregunta": "Considerando los mecanismos descritos, ¿qué secuencia de eventos representa correctamente la citotoxicidad mediada por ADCC?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La célula NK se activa -> Se une al receptor CD16 -> Se une al anticuerpo -> Destruye la célula.",
+        "B": "Un anticuerpo se une a una célula objetivo -> La célula NK se une al anticuerpo vía CD16 -> La célula NK se activa -> Destruye la célula objetivo.",
+        "C": "La célula NK libera perforinas -> Perfora la célula objetivo -> Un anticuerpo se une a la célula dañada -> La célula estalla.",
+        "D": "El receptor CD16 reconoce una célula tumoral -> La célula NK se activa -> Se producen anticuerpos -> La célula es destruida.",
+        "E": "La célula NK se activa por un virus -> Se une a un anticuerpo -> Libera CD16 -> Destruye la célula."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El proceso de ADCC sigue un orden lógico: primero, un anticuerpo debe reconocer y marcar una célula objetivo (por ejemplo, una infectada). Luego, la célula NK, a través de su receptor CD16, se acopla a ese anticuerpo. Esta unión es la señal que activa a la célula NK, la cual procede a liberar sus agentes citotóxicos para destruir la célula objetivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_148_015",
+      "pregunta": "¿Cuál de los siguientes componentes es un mediador del sistema inmune adaptativo que es crucial para una función del sistema inmune innato (células NK)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las perforinas",
+        "B": "La microbiota intestinal",
+        "C": "Los receptores CD16",
+        "D": "Las células tumorales",
+        "E": "Los anticuerpos"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Esta pregunta conecta dos ramas de la inmunidad. Las células NK son parte del sistema inmune innato (inespecífico). Sin embargo, para realizar la ADCC, dependen de los anticuerpos, que son producidos por el sistema inmune adaptativo (específico). Por lo tanto, los anticuerpos actúan como un puente, permitiendo que una célula de la inmunidad innata (NK) actúe sobre un objetivo específico marcado por la inmunidad adaptativa.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 25,
+  "total_temas": 137,
+  "titulo_tema": "Ascensores y Peso Aparente",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_025_001",
+      "pregunta": "¿Cómo se define el peso aparente de una persona que se encuentra dentro de un ascensor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como el módulo de la fuerza de gravedad",
+        "B": "Como el producto de la masa por la aceleración del ascensor",
+        "C": "Como el módulo de la fuerza normal",
+        "D": "Como la suma de todas las fuerzas externas",
+        "E": "Como la velocidad constante del ascensor"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso aparente de una persona en un ascensor es la sensación de peso que experimenta, la cual está determinada por la fuerza que el piso del ascensor ejerce sobre ella. Esta fuerza es la fuerza normal ($F_N$), por lo que el peso aparente se define como el módulo de la fuerza normal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_002",
+      "pregunta": "¿Qué ocurre con el peso aparente de un pasajero cuando el ascensor sube o baja con velocidad constante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El peso aparente aumenta.",
+        "B": "El peso aparente disminuye.",
+        "C": "El peso aparente es igual al módulo del peso real.",
+        "D": "El peso aparente es cero.",
+        "E": "El peso aparente es el doble del peso real."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando un ascensor se mueve con velocidad constante, su aceleración es nula ($$a=0$$). Según la segunda ley de Newton, la fuerza resultante es cero. En este caso, la fuerza normal ($F_N$) equilibra exactamente al peso ($F_g$), por lo tanto, el peso aparente ($F_N$) es igual al peso real ($F_g$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_003",
+      "pregunta": "En un sistema de polea móvil donde las aceleraciones $a_1$ y $a_2$ tienen la misma dirección, ¿cuál es la relación que determina la aceleración $a_3$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$a_3 = a_1 + a_2$$",
+        "B": "$$a_3 = \\frac{a_1 - a_2}{2}$$",
+        "C": "$$a_3 = a_1 \\cdot a_2$$",
+        "D": "$$a_3 = \\frac{a_1 + a_2}{2}$$",
+        "E": "$$a_3 = 2(a_1 + a_2)$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para un caso de polea móvil donde las aceleraciones de los extremos de la cuerda tienen la misma dirección, la aceleración del eje de la polea ($a_3$) es el promedio de las otras dos aceleraciones. La relación correcta es $$a_3 = \\frac{a_1 + a_2}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_004",
+      "pregunta": "Si un ascensor se suelta y entra en caída libre, ¿cuál es el valor del peso aparente de un pasajero en su interior?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Igual al peso real",
+        "B": "La mitad del peso real",
+        "C": "Cero",
+        "D": "El doble del peso real",
+        "E": "Infinito"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En caída libre, el ascensor y el pasajero bajan con la misma aceleración, que es la aceleración de la gravedad ($$a = g$$). En esta situación, el piso del ascensor no ejerce ninguna fuerza de soporte sobre el pasajero, por lo que la fuerza normal ($F_N$) es cero. Como el peso aparente es igual a $F_N$, este es nulo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_005",
+      "pregunta": "Al analizar un sistema de dos o más cuerpos unidos, ¿cuál es el enfoque metodológico recomendado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Considerar cada cuerpo por separado incluyendo tensiones.",
+        "B": "Analizar el sistema como un todo, sin considerar tensiones ni fuerzas de contacto internas.",
+        "C": "Ignorar las masas de todos los cuerpos.",
+        "D": "Calcular únicamente las fuerzas de contacto entre los cuerpos.",
+        "E": "Sumar las aceleraciones individuales de cada cuerpo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para simplificar el análisis de la dinámica de un sistema de cuerpos unidos (atados, pegados o por poleas), se debe tratar el conjunto como un único sistema. En este enfoque, las fuerzas internas como las tensiones en las cuerdas o las fuerzas de contacto entre los cuerpos no se consideran, ya que son pares de acción-reacción que se anulan dentro del sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_006",
+      "pregunta": "Cuando un ascensor sube acelerando a razón de $a$, ¿cuál es la expresión para el peso aparente de un pasajero de masa $m$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$m(g - a)$$",
+        "B": "$$mg$$",
+        "C": "$$ma$$",
+        "D": "$$m(g + a)$$",
+        "E": "$$m(a - g)$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando el ascensor sube acelerando, la fuerza normal ($F_N$) debe ser mayor que el peso ($F_g$) para producir una fuerza resultante hacia arriba. Aplicando la segunda ley de Newton ($F_R = ma$), tenemos $$F_N - F_g = ma$$. Dado que $$F_g = mg$$, despejamos $F_N$: $$F_N = mg + ma = m(g + a)$$. El peso aparente es $F_N$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_007",
+      "pregunta": "Un pasajero siente que su peso disminuye en un ascensor. Esto ocurre porque el ascensor...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sube con velocidad constante.",
+        "B": "Sube acelerando.",
+        "C": "Baja acelerando.",
+        "D": "Está en reposo.",
+        "E": "Sube frenando."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La sensación de disminución de peso ocurre cuando la fuerza normal es menor que el peso real. Esto sucede cuando hay una aceleración neta hacia abajo. Un ascensor que baja acelerando cumple esta condición. La ecuación es $$F_g - F_N = ma$$, lo que implica que $$F_N = F_g - ma = m(g-a)$$, un valor menor que el peso real $mg$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_008",
+      "pregunta": "Para un sistema de dos cuerpos unidos por una polea, con $m_1$ en un plano inclinado de ángulo $\\theta$ y $m_2$ suspendida, la aceleración del sistema se calcula mediante la fórmula:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$a = \\frac{(m_2 + m_1\\sin\\theta)g}{m_1 + m_2}$$",
+        "B": "$$a = \\frac{(m_1 - m_2\\sin\\theta)g}{m_1 + m_2}$$",
+        "C": "$$a = \\frac{(m_2\\sin\\theta - m_1)g}{m_1 + m_2}$$",
+        "D": "$$a = \\frac{(m_2 - m_1)g}{m_1 + m_2}$$",
+        "E": "$$a = \\frac{(m_2 - m_1\\sin\\theta)g}{m_1 + m_2}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La aceleración de un sistema compuesto por una masa en un plano inclinado y otra masa colgando se determina analizando las fuerzas que impulsan y se oponen al movimiento. La fuerza impulsora es el peso de la masa colgante ($m_2g$) y la fuerza que se opone es la componente del peso de la masa en el plano paralela a este ($m_1g\\sin\\theta$). La fuerza neta es $$(m_2g - m_1g\\sin\\theta)$$. Dividiendo por la masa total del sistema ($m_1 + m_2$) se obtiene la aceleración: $$a = \\frac{(m_2 - m_1\\sin\\theta)g}{m_1 + m_2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_009",
+      "pregunta": "¿Cuál es la ecuación escalar correcta, según la segunda ley de Newton, para un pasajero en un ascensor que baja acelerando a razón de $a$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_N - F_g = ma$$",
+        "B": "$$F_g + F_N = ma$$",
+        "C": "$$F_N = ma$$",
+        "D": "$$F_g - F_N = ma$$",
+        "E": "$$F_N - ma = 0$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando el ascensor baja acelerando, la fuerza neta o resultante ($F_R$) está dirigida hacia abajo. Las fuerzas que actúan sobre el pasajero son el peso ($F_g$, hacia abajo) y la normal ($F_N$, hacia arriba). La fuerza resultante es la diferencia entre ellas en la dirección del movimiento: $$F_R = F_g - F_N$$. Según la segunda ley de Newton, $$F_R = ma$$, por lo tanto, la ecuación correcta es $$F_g - F_N = ma$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_010",
+      "pregunta": "En un sistema de polea móvil donde una de las aceleraciones ($a_2$) tiene dirección contraria a la otra ($a_1$), ¿cuál es la relación correcta para la aceleración $a_3$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$a_3 = \\frac{a_1 + a_2}{2}$$",
+        "B": "$$a_3 = a_1 - a_2$$",
+        "C": "$$a_3 = \\frac{a_1 - a_2}{2}$$",
+        "D": "$$a_3 = 2(a_1 - a_2)$$",
+        "E": "$$a_3 = a_2 - a_1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para una polea móvil, cuando las aceleraciones en los extremos de la cuerda tienen direcciones opuestas, la aceleración del eje de la polea ($a_3$) se calcula como la semidiferencia de los módulos de dichas aceleraciones. La fórmula que representa esta relación es $$a_3 = \\frac{a_1 - a_2}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_011",
+      "pregunta": "Considerando un sistema tipo Atwood con tres masas $m_1$, $m_2$, y $m_3$, donde $m_1$ y $m_3$ cuelgan de los extremos, ¿cuál es la fórmula para la aceleración del sistema?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$a = \\frac{(m_1 + m_3)g}{m_1 + m_2 + m_3}$$",
+        "B": "$$a = \\frac{(m_3 - m_1)g}{m_1 + m_2 + m_3}$$",
+        "C": "$$a = \\frac{(m_1 + m_2 + m_3)g}{m_3 - m_1}$$",
+        "D": "$$a = \\frac{m_2 g}{m_1 + m_2 + m_3}$$",
+        "E": "$$a = (m_3 - m_1)g$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En este sistema, la fuerza neta que provoca el movimiento es la diferencia entre los pesos de las masas en los extremos ($m_3g - m_1g$). La masa total que debe ser acelerada es la suma de las tres masas ($m_1 + m_2 + m_3$). Aplicando la segunda ley de Newton ($a = F_{neta} / m_{total}$), se obtiene la fórmula $$a = \\frac{(m_3 - m_1)g}{m_1 + m_2 + m_3}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_012",
+      "pregunta": "¿Por qué un pasajero en un ascensor que sube acelerando siente que su peso aumenta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque la fuerza de gravedad aumenta.",
+        "B": "Porque la fuerza normal del piso es mayor que su peso real.",
+        "C": "Porque la masa del pasajero se incrementa.",
+        "D": "Porque la velocidad del ascensor es muy alta.",
+        "E": "Porque la fuerza normal es menor que su peso real."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La sensación de peso está asociada al peso aparente, que es la fuerza normal. Para que el pasajero acelere hacia arriba junto con el ascensor, la fuerza neta sobre él debe ser hacia arriba. Esto requiere que la fuerza normal ($F_N$) ejercida por el piso sea mayor que la fuerza de gravedad ($F_g$). La ecuación es $$F_N - F_g = ma$$, lo que demuestra que $$F_N > F_g$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_013",
+      "pregunta": "¿En cuál de las siguientes situaciones el peso aparente de un pasajero es mayor que su peso real ($F_g$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El ascensor baja con velocidad constante.",
+        "B": "El ascensor baja acelerando.",
+        "C": "El ascensor está en caída libre.",
+        "D": "El ascensor sube acelerando.",
+        "E": "El ascensor está en reposo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El peso aparente es mayor que el peso real cuando la fuerza normal ($F_N$) es mayor que la fuerza de gravedad ($F_g$). Esto ocurre cuando hay una aceleración neta hacia arriba. De las opciones, solo un ascensor que sube acelerando cumple esta condición, ya que la fuerza neta hacia arriba es $$F_N - F_g = ma$$, lo que implica $$F_N = F_g + ma$$, y por tanto $$F_N > F_g$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_014",
+      "pregunta": "¿Bajo qué condición la aceleración de un sistema de poleas tipo Atwood con tres masas ($m_1, m_2, m_3$), donde el movimiento depende de $m_1$ y $m_3$, es exactamente cero?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Cuando $$m_1 + m_3 = m_2$$",
+        "B": "Cuando $$m_1 = 0$$",
+        "C": "Cuando $$m_1 = m_3$$",
+        "D": "Cuando $$m_2 = m_1 + m_3$$",
+        "E": "Cuando $$m_3 = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula para la aceleración del sistema es $$a = \\frac{(m_3 - m_1)g}{m_1 + m_2 + m_3}$$. Para que la aceleración ($a$) sea cero, el numerador de la fracción debe ser cero, es decir, $$(m_3 - m_1)g = 0$$. Como la gravedad ($g$) no es cero, la única forma de que esto ocurra es si $$m_3 - m_1 = 0$$, lo que implica que $$m_1 = m_3$$. En este caso, las fuerzas de los pesos en los extremos se equilibran.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_025_015",
+      "pregunta": "¿Qué condición específica debe cumplirse para que el peso aparente de una persona, representado por la fuerza normal $F_N$, sea exactamente cero?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El ascensor debe subir con aceleración $a=g$.",
+        "B": "El ascensor debe moverse con velocidad constante.",
+        "C": "El ascensor debe estar en reposo.",
+        "D": "El ascensor debe bajar con velocidad constante.",
+        "E": "El ascensor debe bajar con una aceleración igual a la de la gravedad ($a = g$)."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El peso aparente es la fuerza normal, $F_N$. Para un ascensor que baja acelerando, la ecuación es $$F_N = m(g - a)$$. Para que $F_N$ sea cero, es necesario que $$g - a = 0$$, lo que significa que la aceleración de bajada del ascensor, $a$, debe ser igual a la aceleración de la gravedad, $g$. Esta situación se conoce como caída libre.",
+      "imagen": null
+    }
+  ]
+}

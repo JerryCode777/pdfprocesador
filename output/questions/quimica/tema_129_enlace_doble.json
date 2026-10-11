@@ -6,51 +6,6 @@
   "preguntas": [
     {
       "id_temporal": "quimica_129_001",
-      "pregunta": "¿Cómo se define un enlace covalente simple según el número de pares de electrones compartidos?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Cuando se comparten dos pares de electrones.",
-        "B": "Cuando se comparten tres pares de electrones.",
-        "C": "Cuando se comparten un par de electrones.",
-        "D": "Cuando un átomo cede electrones a otro.",
-        "E": "Cuando se comparten cuatro pares de electrones."
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "Un enlace covalente simple se caracteriza fundamentalmente por el hecho de que los dos átomos involucrados comparten exactamente un par de electrones. El compartir dos pares corresponde a un enlace doble y tres pares a un enlace triple.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_129_002",
-      "pregunta": "¿Qué tipo de enlace covalente se encuentra típicamente en moléculas diatómicas formadas por elementos iguales, como $$O_2$$ o $$H_2$$?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Enlace covalente polar",
-        "B": "Enlace iónico",
-        "C": "Enlace covalente apolar",
-        "D": "Enlace metálico",
-        "E": "Enlace de hidrógeno"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "En moléculas diatómicas compuestas por átomos idénticos (ej. $$O_2$$, $$N_2$$, $$H_2$$), la diferencia de electronegatividad es cero. Esto provoca que los electrones se compartan de manera equitativa, dando lugar a un enlace covalente apolar.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_129_003",
-      "pregunta": "En un enlace covalente polar, ¿qué carga parcial adquiere el átomo más electronegativo?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Una carga parcial positiva ($$\\delta$$⁺)",
-        "B": "Una carga neta positiva (+1)",
-        "C": "Una carga parcial negativa ($$\\delta$$⁻)",
-        "D": "Ninguna carga",
-        "E": "Una carga neta negativa (-1)"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "La electronegatividad es la capacidad de un átomo para atraer electrones. En un enlace covalente polar, el átomo más electronegativo atrae con más fuerza los electrones compartidos, acumulando una mayor densidad electrónica y adquiriendo así una carga parcial negativa, representada como $$\\delta$$⁻.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_129_004",
       "pregunta": "¿Cuántos pares de electrones se comparten en un enlace doble?",
       "dificultad": 1,
       "opciones": {
@@ -61,88 +16,193 @@
         "E": "Ningún par"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Por definición, un enlace doble se forma cuando dos átomos comparten dos pares de electrones para lograr una configuración electrónica más estable. Esto suma un total de cuatro electrones compartidos.",
+      "explicacion": "Por definición, un enlace covalente doble se forma cuando dos átomos comparten exactamente dos pares de electrones para establecer su unión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_129_002",
+      "pregunta": "¿Qué tipo de carga parcial adquiere el átomo más electronegativo en un enlace covalente polar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Carga parcial positiva ($$\\delta^+$$)",
+        "B": "Carga neta positiva",
+        "C": "Carga parcial negativa ($$\\delta^-$$)",
+        "D": "Carga neta negativa",
+        "E": "Carga neutra"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un enlace covalente polar, el átomo con mayor electronegatividad atrae con más fuerza los electrones compartidos. Esto genera una mayor densidad electrónica a su alrededor, resultando en una carga parcial negativa, que se representa como $$\\delta^-$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_129_003",
+      "pregunta": "¿Cómo se denomina al enlace que se forma cuando se comparte un solo par de electrones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Enlace doble",
+        "B": "Enlace múltiple",
+        "C": "Enlace pi ($$\\pi$$)",
+        "D": "Enlace iónico",
+        "E": "Enlace simple"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un enlace simple es el tipo de enlace covalente en el que los átomos involucrados comparten un único par de electrones. Este enlace consiste en un enlace tipo sigma ($$\\sigma$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_129_004",
+      "pregunta": "¿En qué tipo de moléculas se encuentra característicamente el enlace covalente apolar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En compuestos iónicos",
+        "B": "En moléculas diatómicas de elementos iguales",
+        "C": "En moléculas con gran diferencia de electronegatividad",
+        "D": "En moléculas de agua ($$H_2O$$)",
+        "E": "En aleaciones metálicas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El enlace covalente apolar se produce cuando los electrones se comparten de manera equitativa. Esto es típico en moléculas formadas por dos átomos del mismo elemento, como $$O_2$$, $$N_2$$ o $$H_2$$, ya que ambos átomos tienen la misma electronegatividad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_129_005",
-      "pregunta": "Un enlace covalente simple está compuesto exclusivamente por un enlace de tipo:",
+      "pregunta": "Un enlace covalente polar se forma cuando se enlazan no metales que presentan una diferencia de electronegatividad...",
       "dificultad": 1,
       "opciones": {
-        "A": "Pi ($$\\pi$$)",
-        "B": "Iónico",
-        "C": "Delta ($$\\delta$$)",
-        "D": "Sigma ($$\\sigma$$)",
-        "E": "Múltiple"
+        "A": "muy alta",
+        "B": "nula",
+        "C": "moderada",
+        "D": "extremadamente baja",
+        "E": "negativa"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El enlace covalente simple, que implica la compartición de un solo par de electrones, consiste en un único enlace de tipo sigma ($$\\sigma$$). Los enlaces pi ($$\\pi$$) solo aparecen en los enlaces múltiples (dobles y triples).",
+      "respuesta_correcta": "C",
+      "explicacion": "Para que se forme un enlace covalente polar, debe existir una diferencia en la electronegatividad entre los átomos, lo que causa un reparto desigual de los electrones. Esta diferencia debe ser moderada; si fuera nula, el enlace sería apolar, y si fuera muy alta, tendería a ser iónico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_129_006",
-      "pregunta": "¿Cuál es la composición específica de un enlace doble en términos de tipos de enlaces?",
+      "pregunta": "¿Cuál es la composición de un enlace doble en términos de los tipos de enlace que lo conforman?",
       "dificultad": 2,
       "opciones": {
         "A": "Dos enlaces sigma ($$\\sigma$$)",
         "B": "Dos enlaces pi ($$\\pi$$)",
         "C": "Un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$)",
         "D": "Un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$)",
-        "E": "Solo un enlace pi ($$\\pi$$)"
+        "E": "Únicamente un enlace pi ($$\\pi$$)"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Un enlace doble es un tipo de enlace múltiple que se compone de dos enlaces distintos: uno de tipo sigma ($$\\sigma$$), que es el primero en formarse, y uno de tipo pi ($$\\pi$$), que se forma adicionalmente. Esta combinación permite compartir dos pares de electrones.",
+      "explicacion": "Un enlace doble es un enlace múltiple que siempre está formado por dos componentes: un enlace sigma ($$\\sigma$$), que es el primer y más fuerte enlace, y un enlace pi ($$\\pi$$), que se forma adicionalmente al sigma.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_129_007",
-      "pregunta": "¿Qué característica principal diferencia un enlace covalente polar de uno apolar?",
+      "pregunta": "¿Qué condición fundamental causa la formación de cargas parciales ($$\\delta^+$$ y $$\\delta^-$$) en un enlace covalente?",
       "dificultad": 2,
       "opciones": {
-        "A": "El número total de electrones en la molécula.",
-        "B": "La forma en que se distribuyen los electrones compartidos.",
-        "C": "La presencia de átomos metálicos.",
-        "D": "El estado de agregación de la molécula (sólido, líquido o gas).",
-        "E": "El número de enlaces sigma ($$\\sigma$$) presentes."
+        "A": "El compartimiento de más de un par de electrones",
+        "B": "La atracción desigual por los electrones compartidos",
+        "C": "El enlace entre dos átomos del mismo elemento",
+        "D": "La presencia exclusiva de un enlace sigma ($$\\sigma$$)",
+        "E": "El tamaño similar de los átomos"
       },
       "respuesta_correcta": "B",
-      "explicacion": "La diferencia fundamental radica en la distribución de la densidad electrónica. En un enlace apolar, los electrones se comparten equitativamente. En un enlace polar, debido a una diferencia de electronegatividad, un átomo atrae más fuertemente los electrones, generando una distribución desigual y cargas parciales.",
+      "explicacion": "Las cargas parciales, características de un enlace covalente polar, surgen debido a que uno de los átomos es más electronegativo y atrae con mayor fuerza los electrones del enlace. Esta distribución desigual de la carga electrónica crea un polo positivo ($$\\delta^+$$) en el átomo menos electronegativo y uno negativo ($$\\delta^-$$) en el más electronegativo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_129_008",
-      "pregunta": "En un enlace covalente polar como el del $$HBr$$, ¿qué indica el símbolo $$\\delta$$⁺ sobre el átomo de hidrógeno?",
+      "pregunta": "¿Bajo qué criterio se clasifican los enlaces covalentes en simples, dobles o triples?",
       "dificultad": 2,
       "opciones": {
-        "A": "Que el hidrógeno ha ganado un electrón.",
-        "B": "Que el hidrógeno es más electronegativo que el bromo.",
-        "C": "Que el hidrógeno tiene una menor densidad de electrones debido a una menor atracción.",
-        "D": "Que se ha formado un enlace iónico.",
-        "E": "Que el enlace es de tipo apolar."
+        "A": "Según la polaridad del enlace",
+        "B": "Según el tipo de átomos (metal o no metal)",
+        "C": "Según el número de pares electrónicos enlazantes",
+        "D": "Según el tipo de orbital (sigma o pi)",
+        "E": "Según la diferencia de electronegatividad"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El símbolo $$\\delta$$⁺ denota una carga parcial positiva. En un enlace polar, esta carga se asigna al átomo menos electronegativo (en este caso, el hidrógeno), ya que ejerce una menor atracción sobre el par de electrones compartidos, resultando en una menor densidad electrónica a su alrededor.",
+      "explicacion": "La clasificación de un enlace covalente como simple, doble o triple depende directamente de cuántos pares de electrones son compartidos entre los dos átomos: un par para el simple, dos pares para el doble y tres pares para el triple.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_129_009",
-      "pregunta": "¿Qué condición es necesaria para que se forme un enlace covalente polar entre dos átomos no metálicos?",
+      "pregunta": "Un enlace que consiste únicamente en un enlace tipo sigma ($$\\sigma$$) es característico de ¿qué tipo de enlace covalente?",
       "dificultad": 2,
       "opciones": {
-        "A": "Que ambos átomos tengan idéntica electronegatividad.",
-        "B": "Una transferencia completa de uno o más electrones.",
-        "C": "Que se compartan exactamente dos pares de electrones.",
-        "D": "Una diferencia de electronegatividad moderada entre los átomos.",
-        "E": "La ausencia de enlaces tipo sigma ($$\\sigma$$)."
+        "A": "Enlace doble",
+        "B": "Enlace triple",
+        "C": "Enlace múltiple",
+        "D": "Enlace pi ($$\\pi$$)",
+        "E": "Enlace simple"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Un enlace covalente polar se origina cuando se unen dos no metales que poseen una diferencia de electronegatividad moderada. Esta diferencia es suficiente para causar un reparto desigual de electrones, pero no tan grande como para provocar una transferencia completa (que formaría un enlace iónico).",
+      "respuesta_correcta": "E",
+      "explicacion": "Un enlace simple se define por compartir un solo par de electrones, y este siempre corresponde a un enlace de tipo sigma ($$\\sigma$$). Los enlaces múltiples (doble y triple) contienen un enlace sigma más uno o más enlaces pi ($$\\pi$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_129_010",
-      "pregunta": "¿Cuántos electrones en total se comparten en un enlace que consiste en un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$)?",
+      "pregunta": "¿Cuál de las siguientes moléculas contiene enlaces covalentes polares?",
       "dificultad": 2,
+      "opciones": {
+        "A": "Hidrógeno molecular ($$H_2$$)",
+        "B": "Agua ($$H_2O$$)",
+        "C": "Oxígeno molecular ($$O_2$$)",
+        "D": "Nitrógeno molecular ($$N_2$$)",
+        "E": "Cualquier molécula diatómica de elementos iguales"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La molécula de agua ($$H_2O$$) está formada por oxígeno e hidrógeno, dos no metales con una diferencia de electronegatividad moderada. Esto causa que los enlaces O-H sean polares. Las moléculas como $$H_2$$, $$O_2$$ y $$N_2$$ están formadas por átomos idénticos, por lo que sus enlaces son apolares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_129_011",
+      "pregunta": "Si un átomo A es menos electronegativo que un átomo B y forman un enlace covalente, ¿qué carga parcial se asignará al átomo A?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Carga parcial negativa ($$\\delta^-$$)",
+        "B": "Carga parcial positiva ($$\\delta^+$$)",
+        "C": "Carga neta -1",
+        "D": "Carga neta +1",
+        "E": "Ninguna carga parcial"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un enlace covalente polar, el átomo menos electronegativo, en este caso A, ejerce una menor atracción sobre los electrones compartidos. Como resultado, la densidad electrónica a su alrededor disminuye, confiriéndole una carga parcial positiva ($$\\delta^+$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_129_012",
+      "pregunta": "¿Cuál es la diferencia fundamental entre un enlace covalente polar y uno apolar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número de enlaces sigma ($$\\sigma$$) que contienen",
+        "B": "La simetría en la distribución de los electrones compartidos",
+        "C": "Si se forman entre metales o no metales",
+        "D": "El estado físico de la sustancia a temperatura ambiente",
+        "E": "La cantidad de energía necesaria para romper el enlace"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción clave entre ambos tipos de enlace es la distribución de la densidad electrónica. En un enlace apolar, los electrones se comparten equitativamente y su distribución es simétrica. En un enlace polar, los electrones se comparten de forma desigual, creando una distribución asimétrica o polarizada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_129_013",
+      "pregunta": "Una molécula se forma entre dos átomos no metálicos que comparten dos pares de electrones. Uno de los átomos tiene una electronegatividad mayor que el otro. ¿Qué descripción se ajusta mejor al enlace formado?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un enlace simple apolar compuesto por un enlace sigma ($$\\sigma$$)",
+        "B": "Un enlace doble polar compuesto por un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$)",
+        "C": "Un enlace doble apolar compuesto por dos enlaces pi ($$\\pi$$)",
+        "D": "Un enlace triple polar compuesto por un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$)",
+        "E": "Un enlace simple polar compuesto por un enlace pi ($$\\pi$$)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta pregunta combina varios conceptos. Primero, al compartir dos pares de electrones, el enlace es doble. Segundo, al haber una diferencia de electronegatividad, el enlace es polar. Tercero, la estructura de un enlace doble siempre consiste en un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$). Por lo tanto, la descripción completa y correcta es un enlace doble polar compuesto por un enlace sigma y un enlace pi.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_129_014",
+      "pregunta": "Si se sabe que un enlace químico entre dos átomos consiste en un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$), ¿cuántos electrones en total están siendo compartidos en dicho enlace?",
+      "dificultad": 3,
       "opciones": {
         "A": "2 electrones",
         "B": "3 electrones",
@@ -151,82 +211,22 @@
         "E": "1 electrón"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La combinación de un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$) define estructuralmente a un enlace doble. Un enlace doble implica compartir dos pares de electrones. Como cada par tiene 2 electrones, el total de electrones compartidos es $$2 \\times 2 = 4$$.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_129_011",
-      "pregunta": "Tanto el enlace doble como el triple pertenecen a una categoría general de enlaces llamada:",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Enlaces simples",
-        "B": "Enlaces polares",
-        "C": "Enlaces iónicos",
-        "D": "Enlaces múltiples",
-        "E": "Enlaces apolares"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "Los enlaces covalentes se clasifican por el número de pares electrónicos compartidos. Aquellos que comparten más de un par de electrones, como el enlace doble (dos pares) y el enlace triple (tres pares), se agrupan en la categoría de enlaces múltiples.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_129_012",
-      "pregunta": "Moléculas como $$HBr$$, $$HF$$ y $$H_2O$$ se presentan como ejemplos de enlaces covalentes polares. ¿Qué tienen en común los átomos que forman estos enlaces?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Son todos elementos del mismo grupo de la tabla periódica.",
-        "B": "Tienen una diferencia de electronegatividad significativa pero no extrema.",
-        "C": "Siempre forman enlaces dobles.",
-        "D": "Comparten electrones de forma perfectamente equitativa.",
-        "E": "Son todos metales."
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "El rasgo común en los enlaces de $$HBr$$, $$HF$$ y $$H_2O$$ es que están formados por átomos no metálicos con una diferencia de electronegatividad moderada o significativa. Esto causa que el átomo más electronegativo (Br, F, O) atraiga más los electrones que el hidrógeno, polarizando el enlace.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_129_013",
-      "pregunta": "Analizando la estructura de los enlaces, ¿por qué es imposible que un enlace doble esté formado únicamente por dos enlaces pi ($$\\pi$$)?",
-      "dificultad": 3,
-      "opciones": {
-        "A": "Porque los enlaces pi ($$\\pi$$) son más débiles que los enlaces sigma ($$\\sigma$$).",
-        "B": "Porque el enlace pi ($$\\pi$$) solo puede formarse después de que exista un enlace sigma ($$\\sigma$$) entre los dos átomos.",
-        "C": "Porque dos enlaces pi ($$\\pi$$) requerirían la compartición de cinco electrones.",
-        "D": "Porque los enlaces pi ($$\\pi$$) solo se dan en enlaces covalentes apolares.",
-        "E": "Porque los enlaces dobles siempre son apolares."
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "El enlace sigma ($$\\sigma$$) se forma por el solapamiento directo de orbitales a lo largo del eje que une los dos núcleos atómicos, siendo el primer y más fuerte enlace. Los enlaces pi ($$\\pi$$) se forman por el solapamiento lateral de orbitales p y solo pueden ocurrir si ya existe un enlace sigma ($$\\sigma$$) que mantiene unidos a los átomos. Por tanto, un enlace múltiple siempre tiene un enlace $$\\sigma$$ como base.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_129_014",
-      "pregunta": "Si en una molécula hipotética A-B, el átomo A adquiere una carga parcial $$\\delta$$⁻ y el átomo B una carga parcial $$\\delta$$⁺, ¿qué se puede deducir con certeza?",
-      "dificultad": 3,
-      "opciones": {
-        "A": "El enlace es apolar y los electrones se comparten por igual.",
-        "B": "El átomo A es menos electronegativo que el átomo B.",
-        "C": "El enlace es covalente polar y A es más electronegativo que B.",
-        "D": "Se ha formado un enlace iónico con transferencia total de electrones de B a A.",
-        "E": "La molécula debe contener un enlace doble o triple."
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "La presencia de cargas parciales ($$\\delta$$⁻ y $$\\delta$$⁺) es la característica distintiva de un enlace covalente polar. La carga parcial negativa ($$\\delta$$⁻) se asigna al átomo que atrae con más fuerza los electrones, es decir, al más electronegativo. Por lo tanto, se puede concluir que el enlace es polar y que el átomo A es más electronegativo que el átomo B.",
+      "explicacion": "La combinación de un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$) define estructuralmente a un enlace doble. Un enlace doble, por definición, implica el compartimiento de dos pares de electrones. Dado que cada par contiene 2 electrones, el número total de electrones compartidos es $$2 \\times 2 = 4$$ electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_129_015",
-      "pregunta": "Comparando un enlace simple y un enlace doble entre dos átomos de carbono (no mencionado explícitamente, pero aplicando el principio), ¿cómo se relaciona la cantidad de enlaces pi ($$\\pi$$) con el número de pares de electrones compartidos?",
+      "pregunta": "La molécula de oxígeno diatómico ($$O_2$$) contiene un enlace doble. Basándose en la naturaleza de sus átomos constituyentes, ¿qué se puede inferir sobre la polaridad y las cargas parciales de este enlace?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un enlace simple tiene un enlace $$\\pi$$ y comparte un par de electrones.",
-        "B": "Un enlace doble no tiene enlaces $$\\pi$$ y comparte un par de electrones.",
-        "C": "Un enlace simple no tiene enlaces $$\\pi$$; un enlace doble tiene un enlace $$\\pi$$ y comparte dos pares de electrones.",
-        "D": "Ambos enlaces tienen un enlace $$\\sigma$$ y un enlace $$\\pi$$.",
-        "E": "Un enlace doble tiene dos enlaces $$\\pi$$ y comparte dos pares de electrones."
+        "A": "Es polar con cargas $$\\delta^+$$ y $$\\delta^-$$ definidas",
+        "B": "Es apolar y no presenta cargas parciales",
+        "C": "Es polar porque es un enlace múltiple",
+        "D": "Es apolar pero tiene cargas parciales debido al enlace pi ($$\\pi$$)",
+        "E": "Es un enlace iónico, no covalente"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Aplicando las definiciones: un enlace simple comparte un par de electrones y consiste únicamente en un enlace sigma ($$\\sigma$$), por lo que no tiene enlaces pi ($$\\pi$$). Un enlace doble comparte dos pares de electrones y está compuesto por un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$). Por lo tanto, la aparición de un enlace $$\\pi$$ coincide con el aumento de un par de electrones compartidos al pasar de simple a doble.",
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque la molécula de $$O_2$$ posee un enlace doble (un enlace $$\\sigma$$ y un enlace $$\\pi$$), está compuesta por dos átomos idénticos de oxígeno. Al tener la misma electronegatividad, la atracción por los electrones compartidos es igual para ambos átomos. Esto resulta en una distribución de carga perfectamente simétrica, haciendo que el enlace sea covalente apolar y, por lo tanto, no presente cargas parciales. El tipo de enlace (simple, doble o triple) no determina su polaridad.",
       "imagen": null
     }
   ]

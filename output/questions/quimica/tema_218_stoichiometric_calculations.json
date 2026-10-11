@@ -3,5 +3,231 @@
   "numero_tema": 218,
   "total_temas": 322,
   "titulo_tema": "Stoichiometric Calculations",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_218_001",
+      "pregunta": "¿Qué es un reactivo limitante en una reacción química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El reactivo que se añade en mayor cantidad.",
+        "B": "El reactivo que se consume completamente primero.",
+        "C": "El reactivo con la mayor masa molar.",
+        "D": "El producto que se forma en menor cantidad.",
+        "E": "El reactivo que no reacciona y sobra al final."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El reactivo limitante es aquel que se agota por completo durante una reacción química, determinando así la cantidad máxima de producto que se puede formar. Una vez que se consume, la reacción se detiene. El reactivo que sobra se denomina reactivo en exceso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_002",
+      "pregunta": "¿Cómo se define el reactivo en exceso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es el reactivo que determina la cantidad de producto formado.",
+        "B": "Es el reactivo que se consume totalmente en la reacción.",
+        "C": "Es el reactivo del cual queda una cantidad sin reaccionar al finalizar la reacción.",
+        "D": "Es el reactivo con menor masa molar en la ecuación.",
+        "E": "Es el catalizador de la reacción."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El reactivo en exceso es aquel que está presente en una cantidad mayor a la necesaria para reaccionar completamente con el reactivo limitante. Por lo tanto, al finalizar la reacción, queda un sobrante de este reactivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_003",
+      "pregunta": "¿Qué representa el rendimiento teórico de una reacción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad de producto obtenida experimentalmente en el laboratorio.",
+        "B": "El promedio de producto obtenido en varias reacciones.",
+        "C": "La cantidad máxima de producto que se puede formar según los cálculos estequiométricos.",
+        "D": "El porcentaje de reactivo que se convierte en producto.",
+        "E": "La cantidad de producto que se pierde debido a impurezas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rendimiento teórico es una cantidad calculada. Representa la masa máxima de producto que podría obtenerse a partir de una cantidad dada de reactivo limitante, asumiendo que la reacción es 100% eficiente y no hay pérdidas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_004",
+      "pregunta": "¿A qué se refiere el rendimiento real de una reacción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A la cantidad máxima de producto que se podría obtener.",
+        "B": "A la cantidad de producto que se calcula usando la ecuación balanceada.",
+        "C": "A la cantidad de producto que se obtiene de forma experimental.",
+        "D": "Al 100% de la conversión de los reactivos.",
+        "E": "A la pureza del producto obtenido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rendimiento real es la cantidad de producto que se obtiene físicamente después de realizar la reacción en un entorno de laboratorio. Este valor se mide experimentalmente y casi siempre es menor que el rendimiento teórico debido a factores como reacciones secundarias o pérdidas durante la manipulación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_005",
+      "pregunta": "¿Cuál es la fórmula para calcular el porcentaje de pureza ($$\\% P$$) de una sustancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\% P = \frac{\text{masa de impurezas}}{\text{masa de la sustancia pura}} \times 100\\%$$",
+        "B": "$$\\% P = \frac{\text{masa de la sustancia pura}}{\text{masa de la sustancia con impurezas}} \times 100\\%$$",
+        "C": "$$\\% P = \frac{\text{masa de la sustancia con impurezas}}{\text{masa de la sustancia pura}} \times 100\\%$$",
+        "D": "$$\\% P = \frac{\text{masa del producto}}{\text{masa del reactivo}} \times 100\\%$$",
+        "E": "$$\\% P = \frac{\text{masa de la sustancia pura}}{\text{masa de impurezas}} \times 100\\%$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El porcentaje de pureza indica qué parte de una muestra impura corresponde a la sustancia de interés. Se calcula dividiendo la masa de la sustancia pura entre la masa total de la muestra (sustancia pura más impurezas) y multiplicando por 100.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_006",
+      "pregunta": "En la analogía de formar parejas con 6 hombres y 4 mujeres, ¿por qué se considera a las mujeres el \"reactivo limitante\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque hay más hombres que mujeres.",
+        "B": "Porque el número de parejas que se puede formar depende del número de mujeres.",
+        "C": "Porque los hombres son el \"reactivo en exceso\".",
+        "D": "Porque las mujeres son más importantes para formar una pareja.",
+        "E": "Porque es una regla estequiométrica de las relaciones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En esta analogía, las mujeres son el reactivo limitante porque su cantidad (4) determina el número máximo de parejas (4) que se pueden formar. Se agotan primero, limitando así el \"producto\" (parejas), aunque haya hombres de sobra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_007",
+      "pregunta": "En la reacción $$2\text{Na} + \text{Cl}_2 \rightarrow 2\text{NaCl}$$, si se parte de 5 moles de $Na$ y 1 mol de $Cl_2$, ¿por qué el $Na$ es el reactivo en exceso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el sodio tiene una masa molar menor que el cloro.",
+        "B": "Porque el coeficiente estequiométrico del $Na$ es mayor.",
+        "C": "Porque se tienen más moles de $Na$ que de $Cl_2$ al inicio.",
+        "D": "Porque para reaccionar con 1 mol de $Cl_2$ solo se necesitan 2 moles de $Na$, y hay 5 moles disponibles.",
+        "E": "Porque el cloro es un gas y el sodio es un sólido."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La estequiometría de la reacción indica que la relación molar es de 2 moles de $Na$ por cada 1 mol de $Cl_2$. Si se tiene 1 mol de $Cl_2$, se requerirán 2 moles de $Na$. Como se dispone de 5 moles de $Na$, hay un excedente de 3 moles ($$5 - 2 = 3$$), lo que convierte al $Na$ en el reactivo en exceso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_008",
+      "pregunta": "¿Por qué es fundamental conocer el porcentaje de pureza de un reactivo antes de realizar cálculos estequiométricos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque las impurezas pueden catalizar la reacción.",
+        "B": "Para determinar la masa total de la muestra que se debe pesar.",
+        "C": "Para conocer la cantidad real de reactivo puro que participará en la reacción.",
+        "D": "Porque las impurezas siempre aumentan el rendimiento de la reacción.",
+        "E": "Para calcular la masa molar de las impurezas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las impurezas son materia que no participa en la reacción deseada y añaden peso a la muestra. Para que los cálculos estequiométricos sean precisos, deben basarse únicamente en la masa de la sustancia pura que reaccionará, no en la masa total de la muestra impura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_009",
+      "pregunta": "¿Qué determina la cantidad máxima de producto que se puede obtener en una reacción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La cantidad inicial del reactivo en exceso.",
+        "B": "La cantidad inicial del reactivo limitante.",
+        "C": "La suma de las masas de todos los reactivos.",
+        "D": "La temperatura y presión del sistema.",
+        "E": "El rendimiento real de la reacción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La cantidad de reactivo limitante es el factor que dicta cuánto producto se puede formar. Una vez que este reactivo se consume por completo, la reacción se detiene, sin importar cuánto reactivo en exceso quede disponible. Por ello, todos los cálculos de rendimiento teórico se basan en el reactivo limitante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_010",
+      "pregunta": "Generalmente, ¿cuál es la relación entre el rendimiento real y el rendimiento teórico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El rendimiento real es siempre igual al rendimiento teórico.",
+        "B": "El rendimiento real es casi siempre menor que el rendimiento teórico.",
+        "C": "El rendimiento real es casi siempre mayor que el rendimiento teórico.",
+        "D": "El rendimiento real y el teórico no tienen relación.",
+        "E": "El rendimiento real solo es menor si hay impurezas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la práctica, el rendimiento real (obtenido en el laboratorio) es casi siempre inferior al rendimiento teórico (calculado). Esto se debe a diversas razones, como reacciones incompletas, formación de subproductos no deseados, o pérdidas de material durante los procesos de separación y purificación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_011",
+      "pregunta": "En la reacción $$H_2(g) + Cl_2(g) \rightarrow 2HCl(g)$$, al reaccionar 3 moles de $H_2$ y 4 moles de $Cl_2$, se determina que $H_2$ es el reactivo limitante porque:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se tienen menos moles de $H_2$ que de $Cl_2$.",
+        "B": "El $H_2$ produce teóricamente la menor cantidad de $HCl$.",
+        "C": "La masa molar del $H_2$ es menor que la del $Cl_2$.",
+        "D": "El cloro es más reactivo que el hidrógeno.",
+        "E": "La relación estequiométrica es 1:1."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para identificar el reactivo limitante, se calcula la cantidad de producto que cada reactivo podría formar. 3 moles de $H_2$ pueden producir 6 moles de $HCl$, mientras que 4 moles de $Cl_2$ pueden producir 8 moles de $HCl$. El reactivo que produce la menor cantidad de producto (en este caso, el $H_2$) es el limitante, ya que se agotará primero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_012",
+      "pregunta": "Si se tienen 40 g de una muestra de carbonato de calcio ($$CaCO_3$$) con un 90% de pureza, ¿qué masa de $$CaCO_3$$ puro está disponible para reaccionar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "40 g",
+        "B": "4 g",
+        "C": "36 g",
+        "D": "44.4 g",
+        "E": "10 g"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa de la sustancia pura se calcula multiplicando la masa total de la muestra por el porcentaje de pureza. La masa pura de $$CaCO_3$$ es el 90% de 40 g: $$40 \text{ g} \times \frac{90}{100} = 36 \text{ g}$$. Los 4 g restantes son impurezas que no reaccionan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_013",
+      "pregunta": "Para la reacción $$H_2(g) + Cl_2(g) \rightarrow 2HCl(g)$$, si reaccionan 5 moles de $H_2$ con 3 moles de $Cl_2$, ¿cuántos moles de $HCl$ se forman?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "10 moles",
+        "B": "8 moles",
+        "C": "5 moles",
+        "D": "3 moles",
+        "E": "6 moles"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Primero, se determina el reactivo limitante. La relación es 1 mol $H_2$ : 1 mol $Cl_2$. \n1. A partir de $H_2$: $$5 \text{ mol } H_2 \times \frac{2 \text{ mol } HCl}{1 \text{ mol } H_2} = 10 \text{ mol } HCl$$ \n2. A partir de $Cl_2$: $$3 \text{ mol } Cl_2 \times \frac{2 \text{ mol } HCl}{1 \text{ mol } Cl_2} = 6 \text{ mol } HCl$$ \nEl $Cl_2$ produce la menor cantidad de producto, por lo que es el reactivo limitante. La cantidad de $HCl$ formada será de 6 moles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_014",
+      "pregunta": "En la reacción $$CaCO_3(s) \rightarrow CaO(s) + CO_2(g)$$, se obtienen 20.2 g de $CaO$ a partir de 36 g de $CaCO_3$ puro. Si se usó una muestra impura de 40 g para obtener esos 36 g puros, ¿cuál fue la pureza de la muestra original?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "85%",
+        "B": "90%",
+        "C": "75%",
+        "D": "95%",
+        "E": "80%"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La pureza se calcula con la fórmula $$\\% P = (\frac{\text{masa pura}}{\text{masa impura}}) \times 100\\%$$. Los datos indican que la masa de la muestra impura es de 40 g y la masa de la sustancia pura que reaccionó fue de 36 g. Por lo tanto, el porcentaje de pureza es: $$ \\% P = \frac{36 \text{ g}}{40 \text{ g}} \times 100\\% = 90\\%$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_218_015",
+      "pregunta": "En la síntesis de 1,3,5 - trimetilbenceno ($$C_9H_{12}$$) a partir de acetona ($$C_3H_6O$$), el rendimiento teórico calculado es de 137.9 g. Si en el laboratorio solo se lograron obtener 96.5 g del producto, ¿cuál es el rendimiento porcentual de la reacción?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "142.9%",
+        "B": "85.0%",
+        "C": "70.0%",
+        "D": "65.5%",
+        "E": "72.5%"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rendimiento porcentual se calcula con la fórmula $$\\% R = (\frac{\text{Rendimiento real}}{\text{Rendimiento teórico}}) \times 100\\%$$. Con un rendimiento real de 96.5 g y un rendimiento teórico de 137.9 g, el cálculo es: $$ \\% R = \frac{96.5 \text{ g}}{137.9 \text{ g}} \times 100\\% \\approx 70.0\\%$$.",
+      "imagen": null
+    }
+  ]
 }

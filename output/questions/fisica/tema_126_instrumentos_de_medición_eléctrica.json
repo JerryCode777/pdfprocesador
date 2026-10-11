@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 126,
+  "total_temas": 137,
+  "titulo_tema": "Instrumentos de medición eléctrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_126_001",
+      "pregunta": "¿Qué magnitud física mide un voltímetro?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Corriente eléctrica",
+        "B": "Resistencia eléctrica",
+        "C": "Diferencia de potencial",
+        "D": "Carga eléctrica",
+        "E": "Potencia eléctrica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un voltímetro es el instrumento diseñado específicamente para medir la diferencia de potencial, también conocida como voltaje, entre dos puntos cualesquiera de un circuito eléctrico. Otros instrumentos miden otras magnitudes, como el amperímetro que mide la corriente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_002",
+      "pregunta": "¿De qué manera se debe conectar un amperímetro en un circuito para medir la corriente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En paralelo",
+        "B": "En serie",
+        "C": "En una configuración mixta",
+        "D": "Perpendicular al flujo de corriente",
+        "E": "Sin contacto directo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un amperímetro debe conectarse en serie dentro del ramal del circuito cuya corriente se desea medir. Esto asegura que toda la corriente que fluye por ese punto pase a través del instrumento, permitiendo una medición directa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_003",
+      "pregunta": "¿Cuál es el valor de la resistencia interna de un amperímetro ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Infinita",
+        "B": "Cero",
+        "C": "Igual a la resistencia del circuito",
+        "D": "Muy alta, pero no infinita",
+        "E": "Un valor negativo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un amperímetro ideal tiene una resistencia de cero ohmios ($$R=0$$). De esta forma, al ser conectado en serie, no introduce ninguna resistencia adicional al circuito y, por lo tanto, no altera el valor de la corriente que está midiendo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_004",
+      "pregunta": "Al recorrer una trayectoria en un circuito, ¿cómo se considera el cambio de voltaje si se pasa de un polo positivo (+) a un polo negativo (-) de una fuente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como un aumento de voltaje ($$+V$$)",
+        "B": "Como una bajada de voltaje ($$-V$$)",
+        "C": "Nulo ($$0$$)",
+        "D": "Depende de la corriente",
+        "E": "Como un valor positivo o negativo dependiendo del circuito"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Según las convenciones para el análisis de circuitos, pasar del terminal positivo al negativo de una fuente de voltaje representa una disminución o caída de potencial. Por esta razón, se considera con signo negativo ($$-V$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_005",
+      "pregunta": "¿Cuál es la característica principal de la resistencia de un voltímetro ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Resistencia cero",
+        "B": "Resistencia infinita",
+        "C": "Resistencia variable",
+        "D": "Resistencia igual a la del componente medido",
+        "E": "Resistencia negativa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un voltímetro ideal posee una resistencia interna infinita. Esto es para que, al conectarse en paralelo, no desvíe ninguna corriente del circuito principal, garantizando que la medición del voltaje no altere las condiciones originales del circuito.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_006",
+      "pregunta": "¿Por qué un voltímetro práctico debe tener una resistencia interna muy grande?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Para permitir que toda la corriente del circuito pase a través de él",
+        "B": "Para minimizar la corriente que se desvía a través del instrumento y no alterar significativamente el voltaje medido",
+        "C": "Para que pueda medir corrientes muy pequeñas",
+        "D": "Porque su resistencia debe ser igual a la del componente medido",
+        "E": "Para reducir el consumo de energía del circuito"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un voltímetro se conecta en paralelo. Si su resistencia es muy alta, la corriente que se desvía del circuito principal para pasar por el medidor es insignificante (tiende a cero). Esto asegura que la presencia del voltímetro no modifique las condiciones del circuito y que la medición de voltaje sea precisa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_007",
+      "pregunta": "Al analizar una malla, si se recorre una resistencia $R$ en el mismo sentido que fluye la corriente $I$, ¿cómo se representa el producto $IR$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo ($$+IR$$)",
+        "B": "Negativo ($$-IR$$)",
+        "C": "Cero",
+        "D": "Depende del voltaje de la fuente",
+        "E": "Se ignora en el cálculo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando se atraviesa una resistencia en la misma dirección que la corriente, se produce una caída de potencial, ya que la energía se disipa en el resistor. Esta caída de voltaje se representa con un signo negativo ($$-IR$$) según la convención para el análisis de circuitos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_008",
+      "pregunta": "¿Cuál es la principal diferencia entre las características de resistencia interna de un voltímetro ideal y un amperímetro ideal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos tienen resistencia cero.",
+        "B": "Ambos tienen resistencia infinita.",
+        "C": "El voltímetro tiene resistencia infinita y el amperímetro tiene resistencia cero.",
+        "D": "El voltímetro tiene resistencia cero y el amperímetro tiene resistencia infinita.",
+        "E": "Sus resistencias dependen del circuito en el que se usan."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los instrumentos ideales están diseñados para no afectar la medición. Un voltímetro ideal, conectado en paralelo, debe tener resistencia infinita para no desviar corriente. Un amperímetro ideal, conectado en serie, debe tener resistencia cero para no causar una caída de voltaje y no oponerse a la corriente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_009",
+      "pregunta": "¿Qué precaución de polaridad se debe tomar al conectar un voltímetro a los extremos de un resistor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La terminal positiva del voltímetro se conecta al extremo con menor potencial.",
+        "B": "La terminal negativa del voltímetro se conecta al extremo con mayor potencial.",
+        "C": "Las terminales se pueden conectar de cualquier forma.",
+        "D": "La terminal positiva del voltímetro se conecta al extremo con mayor potencial.",
+        "E": "Ambas terminales se conectan al mismo punto."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para una lectura correcta y para proteger el instrumento, la polaridad debe respetarse. La terminal positiva (+) del voltímetro se debe conectar al punto del circuito que tiene un potencial eléctrico más alto, y la terminal negativa (-) al de menor potencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_010",
+      "pregunta": "Si al recorrer un circuito se pasa a través de una resistencia $R$ en sentido contrario a la corriente $I$, ¿cuál es el término correcto para representar el cambio de potencial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$-IR$$",
+        "B": "$$+IR$$",
+        "C": "$$0$$",
+        "D": "$$-V$$",
+        "E": "$$+V$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Moverse en contra de la dirección de la corriente a través de una resistencia es equivalente a ir desde un punto de menor potencial a uno de mayor potencial. Por lo tanto, este cambio se considera un aumento de potencial y se representa con un signo positivo ($$+IR$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_011",
+      "pregunta": "¿Qué se requiere en un amperímetro real para que su medición sea lo más precisa posible?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que su resistencia sea lo más grande posible.",
+        "B": "Que se conecte en paralelo.",
+        "C": "Que su resistencia sea mucho mayor que la del circuito.",
+        "D": "Que su resistencia sea finita, pero tan pequeña como sea posible.",
+        "E": "Que tenga una resistencia infinita."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un amperímetro real siempre tendrá una resistencia interna. Para que afecte mínimamente la corriente del circuito (que es lo que se busca en una buena medición), esta resistencia interna debe ser lo más cercana a cero posible, es decir, muy pequeña.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_012",
+      "pregunta": "Al atravesar una fuente de voltaje desde su terminal negativo (-) hacia su terminal positivo (+), ¿qué sucede con el potencial eléctrico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hay una bajada de voltaje, representada como $$-V$$",
+        "B": "No hay cambio de voltaje.",
+        "C": "Hay un aumento de voltaje, representado como $$+V$$",
+        "D": "El cambio depende de la corriente $I$.",
+        "E": "El cambio es igual a $$-IR$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una fuente de voltaje, como una batería, está diseñada para elevar el potencial eléctrico. Al moverse desde el terminal de menor potencial (-) al de mayor potencial (+), se experimenta un aumento de voltaje, que se considera positivo ($$+V$$) en el análisis de circuitos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_013",
+      "pregunta": "¿Cuál es la consecuencia directa de que un amperímetro real, con una pequeña pero finita resistencia interna, se inserte en serie en un ramal de un circuito?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El voltaje en el ramal aumenta significativamente.",
+        "B": "La corriente medida será ligeramente menor que la corriente original del ramal sin el instrumento.",
+        "C": "El instrumento medirá el voltaje en lugar de la corriente.",
+        "D": "La corriente medida será mayor que la corriente original del ramal.",
+        "E": "No tendrá ningún efecto en el circuito, ya que para eso está diseñado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al insertar el amperímetro en serie, su resistencia interna se suma a la resistencia total del ramal. Según la ley de Ohm ($$I = V/R$$), si la resistencia total $R$ aumenta (aunque sea ligeramente), la corriente $I$ que fluye por el ramal disminuirá. Por lo tanto, el valor medido será un poco más bajo que el valor real que existía antes de conectar el medidor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_014",
+      "pregunta": "Se desea medir el voltaje en un resistor $R_1$. Si se utiliza un voltímetro cuya resistencia interna no es \"mucho mayor\" que la resistencia de $R_1$, ¿qué error sistemático se introduce en la medición?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El voltímetro medirá un voltaje mayor al real porque extrae energía del circuito.",
+        "B": "El voltímetro se comportará como un amperímetro y medirá la corriente.",
+        "C": "La resistencia equivalente del voltímetro en paralelo con $R_1$ será menor que $R_1$, alterando el voltaje a medir.",
+        "D": "La resistencia del voltímetro no afecta la medición de voltaje, solo la de corriente.",
+        "E": "El circuito entrará en cortocircuito."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El voltímetro se conecta en paralelo con $R_1$. La resistencia equivalente de dos resistores en paralelo es siempre menor que la menor de las resistencias. Si la resistencia del voltímetro ($$R_V$$) no es muy grande comparada con $R_1$, la resistencia equivalente ($$R_{eq} = (R_1 \\cdot R_V) / (R_1 + R_V)$$) será significativamente menor que $R_1$. Esto cambia la distribución de voltaje en el circuito, y el voltaje medido por el voltímetro será diferente al que existía en $R_1$ antes de conectar el instrumento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_126_015",
+      "pregunta": "Al aplicar el teorema de la trayectoria a una malla cerrada que contiene una fuente de voltaje $V$ y una resistencia $R$, se inicia en el polo negativo de la fuente, se atraviesa la fuente, y luego se recorre la resistencia en la misma dirección que la corriente $I$. ¿Cuál sería la ecuación correcta para esta malla simple?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$+V + IR = 0$$",
+        "B": "$$-V - IR = 0$$",
+        "C": "$$+V - IR = 0$$",
+        "D": "$$-V + IR = 0$$",
+        "E": "$$V = IR^2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Siguiendo la trayectoria descrita y aplicando las reglas de signos: 1. Se atraviesa la fuente de voltaje desde el polo negativo (-) al positivo (+), lo que representa un aumento de potencial: $$+V$$. 2. Se recorre la resistencia $R$ en el mismo sentido que la corriente $I$, lo que representa una caída de potencial: $$-IR$$. La suma de los cambios de potencial en una malla cerrada debe ser cero, por lo tanto, la ecuación correcta es $$+V - IR = 0$$.",
+      "imagen": null
+    }
+  ]
+}

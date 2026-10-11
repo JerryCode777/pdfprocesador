@@ -9,14 +9,14 @@
       "pregunta": "¿Cuál es el grupo funcional que caracteriza a los ácidos carboxílicos?",
       "dificultad": 1,
       "opciones": {
-        "A": "El grupo hidroxilo (-OH)",
-        "B": "El grupo carbonilo (C=O)",
-        "C": "El grupo carboxilo (-COOH)",
-        "D": "El grupo aciloxi (-COO-)",
-        "E": "El grupo amino (-NH₂)"
+        "A": "Grupo hidroxilo ($-OH$)",
+        "B": "Grupo carbonilo ($-CO-$)",
+        "C": "Grupo carboxilo ($-COOH$)",
+        "D": "Grupo aciloxi ($-COO-$)",
+        "E": "Grupo amino ($-NH_2$)"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los ácidos carboxílicos se definen por la presencia del grupo funcional carboxilo, cuya estructura es -COOH. Este grupo combina un grupo carbonilo y un grupo hidroxilo en el mismo átomo de carbono. El grupo aciloxi (-COO-) es característico de los ésteres.",
+      "explicacion": "Los ácidos carboxílicos se definen por la presencia del grupo funcional carboxilo, cuya fórmula es $-COOH$. El grupo hidroxilo es de los alcoholes, el carbonilo de cetonas y aldehídos, el aciloxi de los ésteres y el amino de las aminas.",
       "imagen": null
     },
     {
@@ -27,16 +27,46 @@
         "A": "-al",
         "B": "-ona",
         "C": "-ol",
-        "D": "-oato",
-        "E": "-oico"
+        "D": "-oico",
+        "E": "-ato"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Para nombrar un ácido carboxílico según el sistema IUPAC, se toma el nombre del alcano con la cadena de carbono más larga que incluye el grupo carboxilo, se elimina la terminación 'o' y se añade la terminación 'oico', anteponiendo siempre la palabra 'ácido'.",
+      "respuesta_correcta": "D",
+      "explicacion": "Para nombrar un ácido carboxílico, se toma el nombre del alcano con la misma cantidad de carbonos en la cadena principal, se elimina la terminación '-o' y se añade el sufijo '-oico', anteponiendo siempre la palabra 'ácido'. Por ejemplo, de metano deriva el ácido metanoico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_003",
-      "pregunta": "¿Cuál es el nombre común del ácido carboxílico con la fórmula $$CH_3-COOH$$?",
+      "pregunta": "¿Cuál es la fórmula general que representa a un ácido carboxílico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$R-OH$",
+        "B": "$R-CHO$",
+        "C": "$R-CO-R'$",
+        "D": "$R-COO-R'$",
+        "E": "$R-COOH$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula general de un ácido carboxílico es $R-COOH$, donde $R$ representa una cadena de hidrocarburo o un átomo de hidrógeno, y $-COOH$ es el grupo funcional carboxilo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_308_004",
+      "pregunta": "El nombre común 'ácido fórmico' para el compuesto $H-COOH$ proviene del latín 'formica', que significa:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vinagre",
+        "B": "Manzana",
+        "C": "Hormiga",
+        "D": "Grasa",
+        "E": "Mantequilla"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre trivial 'ácido fórmico' deriva de la palabra latina 'formica', que significa hormiga, ya que este ácido fue aislado por primera vez de las hormigas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_308_005",
+      "pregunta": "¿Cuál es el nombre trivial del ácido carboxílico con la fórmula $CH_3-COOH$, conocido por ser el componente principal del vinagre?",
       "dificultad": 1,
       "opciones": {
         "A": "Ácido fórmico",
@@ -46,187 +76,157 @@
         "E": "Ácido valérico"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El nombre común para el compuesto $$CH_3-COOH$$ es ácido acético. Su nombre proviene del latín 'acetum', que significa vinagre, ya que es el principal componente que le da al vinagre su sabor agrio y olor característico.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_308_004",
-      "pregunta": "¿Cuál es la fórmula general que representa a un éster?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$$R-OH$$",
-        "B": "$$R-CHO$$",
-        "C": "$$R-COOH$$",
-        "D": "$$R-O-R'$$",
-        "E": "$$R-COO-R'$$"
-      },
-      "respuesta_correcta": "E",
-      "explicacion": "La fórmula general de los ésteres es $$R-COO-R'$$. Se caracterizan por tener el grupo funcional aciloxi (-COO-), que se encuentra entre dos cadenas de carbono, $R$ y $R'$. La fórmula $$R-COOH$$ corresponde a un ácido carboxílico.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_308_005",
-      "pregunta": "En la nomenclatura IUPAC de un ácido carboxílico, ¿qué carbono de la cadena principal siempre recibe el número 1?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "El carbono más cercano a un sustituyente",
-        "B": "El último carbono de la cadena más larga",
-        "C": "El carbono del grupo metilo terminal",
-        "D": "El carbono del grupo carboxilo (-COOH)",
-        "E": "El carbono central de la cadena"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "Una regla fundamental en la nomenclatura IUPAC de ácidos carboxílicos es que la numeración de la cadena principal siempre comienza en el carbono del grupo carboxilo. Por lo tanto, a este carbono se le asigna la posición número 1.",
+      "explicacion": "El compuesto $CH_3-COOH$ es comúnmente conocido como ácido acético. Su nombre proviene del latín 'acetum', que significa vinagre, del cual es el principal componente ácido.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_006",
-      "pregunta": "¿Qué sufijo se utiliza en la nomenclatura IUPAC para nombrar una molécula que contiene dos grupos carboxilo en su cadena principal?",
+      "pregunta": "En la nomenclatura IUPAC de ácidos carboxílicos, ¿qué posición se le asigna siempre al carbono del grupo carboxilo ($-COOH$) al numerar la cadena principal?",
       "dificultad": 2,
       "opciones": {
-        "A": "-carboxílico",
-        "B": "-dioico",
-        "C": "-biscarboxilo",
-        "D": "-oico-oico",
-        "E": "-dicarboxi"
+        "A": "La posición más baja posible",
+        "B": "La posición final de la cadena",
+        "C": "La posición central",
+        "D": "La posición 1",
+        "E": "No se numera"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Cuando una molécula contiene dos grupos carboxilo en su cadena principal, se denomina ácido dicarboxílico. En la nomenclatura IUPAC, se utiliza el sufijo '-dioico' añadido al nombre del alcano correspondiente, precedido por la palabra 'ácido'. Por ejemplo, $$HOOC-COOH$$ es el ácido etanodioico.",
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de nomenclatura IUPAC para ácidos carboxílicos establece que la cadena principal se numera comenzando desde el carbono del grupo carboxilo, al cual se le asigna siempre la posición número 1. Esto se debe a que el grupo carboxilo define la función principal y debe estar al inicio de la numeración.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_007",
-      "pregunta": "¿Cuál es el nombre IUPAC para el compuesto $$HOOC(CH_2)_2COOH$$?",
+      "pregunta": "¿Qué sufijo se utiliza en la nomenclatura IUPAC para nombrar compuestos que contienen dos grupos carboxilo en la cadena principal?",
       "dificultad": 2,
       "opciones": {
-        "A": "Ácido succínico",
-        "B": "Ácido malónico",
-        "C": "Ácido butanodioico",
-        "D": "Ácido etanodioico",
-        "E": "Ácido propanoico"
+        "A": "-carboxílico",
+        "B": "-oico",
+        "C": "-biscarboxilo",
+        "D": "-dioico",
+        "E": "-dicarboxílico"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El compuesto $$HOOC(CH_2)_2COOH$$ tiene una cadena principal de 4 átomos de carbono (dos de los grupos carboxilo y dos del grupo metileno). Al tener dos grupos carboxilo, se utiliza el sufijo '-dioico'. Por lo tanto, su nombre IUPAC es ácido butanodioico. Su nombre común es ácido succínico.",
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando una molécula contiene dos grupos carboxilo en su cadena principal, se denomina ácido dicarboxílico. El sufijo IUPAC utilizado para estos compuestos es '-dioico', que se añade al nombre del alcano correspondiente. Un ejemplo es el ácido etanodioico ($HOOC-COOH$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_008",
-      "pregunta": "¿Cuál es el nombre correcto para un compuesto formado por un grupo -COOH unido directamente a un anillo de ciclopentano?",
+      "pregunta": "¿Cuál es el nombre IUPAC para el compuesto con la estructura $HOOC(CH_2)_2COOH$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Ácido ciclopentiloico",
-        "B": "Ácido pentanocarboxílico",
-        "C": "Ácido ciclopentanocarboxílico",
-        "D": "Ciclopentano ácido oico",
-        "E": "Ácido ciclopentanoico"
+        "A": "Ácido succínico",
+        "B": "Ácido propanodioico",
+        "C": "Ácido butanodioico",
+        "D": "Ácido oxálico",
+        "E": "Ácido malónico"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Para los ácidos que tienen un grupo carboxilo (-COOH) unido a una estructura cíclica, la nomenclatura IUPAC utiliza el sufijo '-carboxílico' después del nombre del cicloalcano. En este caso, el anillo es un ciclopentano, por lo que el nombre completo es ácido ciclopentanocarboxílico.",
+      "explicacion": "La estructura $HOOC(CH_2)_2COOH$ tiene una cadena principal de 4 átomos de carbono en total (dos de los grupos carboxilo y dos del grupo metileno). El alcano de 4 carbonos es el butano. Como tiene dos grupos carboxilo, se utiliza el sufijo '-dioico'. Por lo tanto, el nombre IUPAC es ácido butanodioico. Su nombre común es ácido succínico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_009",
-      "pregunta": "El nombre común 'ácido fórmico' para el compuesto $$H-COOH$$ se origina de:",
+      "pregunta": "¿Cómo se nombran los ácidos carboxílicos en los que el grupo $-COOH$ está unido directamente a un anillo cicloalcano?",
       "dificultad": 2,
       "opciones": {
-        "A": "La palabra latina para vinagre, 'acetum'",
-        "B": "La palabra griega para grasa, 'pion'",
-        "C": "La palabra latina para ámbar, 'succinum'",
-        "D": "La palabra latina para hormiga, 'formica'",
-        "E": "La planta Valeriana"
+        "A": "Se utiliza el prefijo 'ciclo-' y la terminación '-oico'.",
+        "B": "Se nombra el anillo como sustituyente.",
+        "C": "Se utiliza el nombre del cicloalcano seguido del sufijo '-carboxílico'.",
+        "D": "Se numera el anillo y se indica la posición del grupo con la terminación '-oico'.",
+        "E": "Se utiliza la terminación '-cicloico'."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El nombre trivial 'ácido fórmico' proviene de la palabra latina 'formica', que significa hormiga. Este ácido fue aislado por primera vez a partir de la destilación de hormigas y es responsable de la irritación que causan sus picaduras.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para los ácidos carboxílicos cíclicos, el sistema IUPAC establece una regla específica: se nombra el anillo cicloalcano y se le añade el sufijo '-carboxílico'. El carbono del anillo al que está unido el grupo $-COOH$ se considera la posición 1. Por ejemplo, el ácido ciclohexanocarboxílico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_010",
-      "pregunta": "¿Cuál es la estructura química del ácido butírico?",
+      "pregunta": "El ácido valérico, cuyo nombre proviene de la planta Valeriana, corresponde a la fórmula:",
       "dificultad": 2,
       "opciones": {
-        "A": "$$CH_3-COOH$$",
-        "B": "$$CH_3(CH_2)_3COOH$$",
-        "C": "$$COOH-COOH$$",
-        "D": "$$CH_3-CH_2-COOH$$",
-        "E": "$$CH_3(CH_2)_2COOH$$"
+        "A": "$CH_3(CH_2)_2COOH$",
+        "B": "$CH_3(CH_2)_3COOH$",
+        "C": "$COOH-CH_2-COOH$",
+        "D": "$COOH(CH_2)_3COOH$",
+        "E": "$CH_3-CH_2-COOH$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El ácido butírico es un ácido carboxílico de cuatro carbonos. Su estructura es $$CH_3(CH_2)_2COOH$$. El nombre proviene del griego 'boúturos' (mantequilla), ya que se encuentra en la mantequilla rancia.",
+      "respuesta_correcta": "B",
+      "explicacion": "El ácido valérico es un ácido carboxílico de 5 carbonos. Su fórmula estructural es $CH_3(CH_2)_3COOH$. La opción A es ácido butírico, la C es ácido malónico, la D es ácido glutárico y la E es ácido propiónico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_011",
-      "pregunta": "¿Cuál es el nombre IUPAC del compuesto $$C_6H_{11}-COOH$$?",
+      "pregunta": "El compuesto con fórmula $C_6H_5COOH$, utilizado como conservante de alimentos, es conocido comúnmente como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Ácido ciclohexanoico",
-        "B": "Ácido benzoico",
-        "C": "Ácido hexilcarboxílico",
-        "D": "Ácido ciclohexanocarboxílico",
-        "E": "Ácido hexanodioico"
+        "A": "Ácido salicílico",
+        "B": "Ácido ciclohexanocarboxílico",
+        "C": "Ácido palmítico",
+        "D": "Ácido benzoico",
+        "E": "Ácido margárico"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La fórmula $$C_6H_{11}$$ representa un grupo ciclohexilo. Cuando un grupo carboxilo ($$-COOH$$) está unido a un anillo, se nombra añadiendo el sufijo '-carboxílico' al nombre del cicloalcano. Por lo tanto, el nombre correcto es ácido ciclohexanocarboxílico.",
+      "explicacion": "La fórmula $C_6H_5COOH$ representa un grupo carboxilo unido a un anillo de benceno. Este compuesto es el ácido benzoico, un conocido conservante alimentario. El ácido salicílico tiene un grupo $-OH$ adicional en el anillo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_012",
-      "pregunta": "¿Qué compuesto es la materia prima para la fabricación de la aspirina y tiene la fórmula $$o-HOC_6H_4COOH$$?",
+      "pregunta": "El ácido palmítico, obtenido del aceite de palma, y el ácido mirístico, de la nuez moscada, son ácidos carboxílicos de cadena larga. ¿Cuál es la fórmula del ácido palmítico?",
       "dificultad": 2,
       "opciones": {
-        "A": "Ácido benzoico",
-        "B": "Ácido acético",
-        "C": "Ácido salicílico",
-        "D": "Ácido palmítico",
-        "E": "Ácido oxálico"
+        "A": "$COOH(CH_2)_{10}CH_3$",
+        "B": "$COOH(CH_2)_{12}CH_3$",
+        "C": "$COOH(CH_2)_{14}CH_3$",
+        "D": "$COOH(CH_2)_{15}CH_3$",
+        "E": "$C_6H_5COOH$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El ácido salicílico, cuya fórmula es $$o-HOC_6H_4COOH$$, es un compuesto clave utilizado como materia prima para sintetizar el ácido acetilsalicílico, comúnmente conocido como aspirina. Se caracteriza por tener un grupo hidroxilo (-OH) en posición orto con respecto al grupo carboxilo en un anillo de benceno.",
+      "explicacion": "El ácido palmítico es un ácido graso saturado de 16 carbonos. Su fórmula es $COOH(CH_2)_{14}CH_3$, que se puede escribir también como $CH_3(CH_2)_{14}COOH$. La opción A es ácido láurico, la B es ácido mirístico y la D es ácido margárico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_013",
-      "pregunta": "¿Cuál es el nombre IUPAC correcto para un ácido carboxílico con una cadena principal de cinco carbonos y un grupo metilo en el carbono 3?",
+      "pregunta": "Determine el nombre IUPAC para el ácido carboxílico que tiene un grupo carboxilo unido a un anillo de ciclopentano.",
       "dificultad": 3,
       "opciones": {
-        "A": "Ácido 3-metilbutanoico",
-        "B": "Ácido 2-metilpentanoico",
-        "C": "Ácido isopentanoico",
-        "D": "Ácido 3-metilpentanoico",
-        "E": "Ácido 3-metil-1-pentanoico"
+        "A": "Ácido 1-pentanocarboxílico",
+        "B": "Ácido ciclopentanoico",
+        "C": "Ácido ciclopentanocarboxílico",
+        "D": "Ácido 1-carboxiciclopentano",
+        "E": "Ácido pentilcarboxílico"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para nombrar este compuesto, seguimos las reglas IUPAC: 1. La cadena más larga con el grupo -COOH tiene cinco carbonos, por lo que la base es 'pentanoico'. 2. La numeración comienza en el carbono del grupo carboxilo ($C-1$). 3. Un grupo metilo ($-CH_3$) está en el carbono 3. 4. Se antepone la palabra 'ácido'. Combinando todo, el nombre es ácido 3-metilpentanoico. La opción E es incorrecta porque el -COOH siempre está en la posición 1 y no es necesario indicarlo.",
+      "respuesta_correcta": "C",
+      "explicacion": "Según las reglas de la IUPAC para ácidos carboxílicos cíclicos, se nombra primero el anillo y luego se agrega el sufijo '-carboxílico'. En este caso, el anillo es un ciclopentano, por lo que el nombre correcto es ácido ciclopentanocarboxílico. El carbono del anillo unido al grupo $-COOH$ se numera como 1.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_014",
-      "pregunta": "El ácido valérico, $$CH_3(CH_2)_3COOH$$, es el nombre común de un ácido carboxílico de cinco carbonos. ¿Cuál es su nombre sistemático IUPAC?",
+      "pregunta": "El compuesto conocido comúnmente como ácido oxálico tiene la fórmula $HOOC-COOH$. ¿Cuál es su nombre sistemático IUPAC?",
       "dificultad": 3,
       "opciones": {
-        "A": "Ácido butanoico",
-        "B": "Ácido pentanoico",
-        "C": "Ácido valerianoico",
-        "D": "Ácido hexanoico",
-        "E": "Ácido propanoico"
+        "A": "Ácido metanodioico",
+        "B": "Ácido dicarboxílico",
+        "C": "Ácido etanodioico",
+        "D": "Ácido carboximetanoico",
+        "E": "Ácido butanodioico"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El nombre sistemático IUPAC se basa en la cadena de alcano más larga que contiene el grupo funcional. La estructura $$CH_3(CH_2)_3COOH$$ tiene una cadena de cinco átomos de carbono en total. El alcano correspondiente es el pentano. Aplicando las reglas IUPAC, se cambia la terminación '-o' por '-oico' y se antepone 'ácido'. Por lo tanto, el nombre IUPAC es ácido pentanoico.",
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura $HOOC-COOH$ consiste en una cadena de dos átomos de carbono, cada uno formando un grupo carboxilo. El alcano de dos carbonos es el etano. Al tener dos grupos carboxilo, se aplica el sufijo '-dioico'. Por lo tanto, su nombre IUPAC es ácido etanodioico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_308_015",
-      "pregunta": "Aplicando las reglas de nomenclatura para derivados cíclicos, ¿cuál sería el nombre IUPAC para un ácido carboxílico donde un grupo -COOH está unido a un anillo de ciclopropano que tiene un sustituyente metilo en la posición 2?",
+      "pregunta": "Un ácido dicarboxílico tiene la fórmula $COOH(CH_2)_3COOH$. ¿Cuáles son, respectivamente, su nombre común (trivial) y su nombre sistemático IUPAC?",
       "dificultad": 3,
       "opciones": {
-        "A": "Ácido 2-metilciclopropanoico",
-        "B": "Ácido metilciclopropil-metanoico",
-        "C": "Ácido 2-metilciclopropanocarboxílico",
-        "D": "2-metilciclopropil ácido fórmico",
-        "E": "Ácido 1-carboxi-2-metilciclopropano"
+        "A": "Ácido succínico y Ácido butanodioico",
+        "B": "Ácido malónico y Ácido propanodioico",
+        "C": "Ácido glutárico y Ácido pentanodioico",
+        "D": "Ácido valérico y Ácido pentanoico",
+        "E": "Ácido succínico y Ácido pentanodioico"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Las reglas para nombrar ácidos carboxílicos cíclicos indican que: 1. El carbono del anillo al que está unido el grupo -COOH es el C-1. 2. El nombre del anillo se usa como base, seguido del sufijo '-carboxílico'. 3. Los sustituyentes se nombran y numeran según su posición en el anillo. En este caso, el anillo es 'ciclopropano', el grupo funcional dicta el sufijo '-carboxílico', y hay un grupo 'metilo' en la posición 2. Por lo tanto, el nombre completo es ácido 2-metilciclopropanocarboxílico.",
+      "explicacion": "Primero, determinemos el nombre IUPAC. La molécula tiene 5 carbonos en su cadena principal ($1$ del primer $COOH$, $3$ de los $CH_2$, y $1$ del segundo $COOH$). El alcano correspondiente es pentano. Al ser un ácido dicarboxílico, el sufijo es '-dioico'. Por lo tanto, el nombre IUPAC es ácido pentanodioico. Al consultar la tabla de nombres comunes, la fórmula $COOH(CH_2)_3COOH$ corresponde al ácido glutárico. Por lo tanto, el par correcto es ácido glutárico y ácido pentanodioico.",
       "imagen": null
     }
   ]

@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 300,
+  "total_temas": 320,
+  "titulo_tema": "Vacunas Comestibles",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_300_001",
+      "pregunta": "¿Cuál es el concepto central de las “vacunas comestibles”?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Utilizar plantas para producir proteínas inocuas de patógenos que, al ser ingeridas, generan inmunidad.",
+        "B": "Inyectar extractos de plantas medicinales para prevenir enfermedades.",
+        "C": "Mezclar vacunas tradicionales con alimentos para facilitar su administración.",
+        "D": "Crear alimentos que fortalecen el sistema inmune de forma natural, sin usar proteínas de patógenos.",
+        "E": "Usar plantas como filtros para purificar vacunas líquidas antes de su uso."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las vacunas comestibles se basan en la modificación genética de plantas para que produzcan proteínas inofensivas que se encuentran en virus o bacterias patógenas. Al consumir estas plantas, el cuerpo reconoce estas proteínas y desarrolla una respuesta inmune, similar a una vacunación tradicional, pero sin necesidad de inyecciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_002",
+      "pregunta": "¿Qué nombre recibe el proceso de combinar ADN de diferentes fuentes para, por ejemplo, producir proteínas de uso médico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Clonación de genes",
+        "B": "Proyecto del Genoma Humano",
+        "C": "Tecnología del ADN recombinante",
+        "D": "Biología molecular",
+        "E": "Ingeniería cromosómica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La tecnología del ADN recombinante es el término específico para el conjunto de técnicas que permiten aislar un gen de un organismo para su posterior manipulación e inserción en otro diferente. Este proceso es fundamental para que un organismo (como una bacteria o una planta) produzca una proteína que no le es propia, como la insulina humana o proteínas virales para vacunas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_003",
+      "pregunta": "Según el concepto de vacunas comestibles, ¿cuál es una de sus principales ventajas sobre los métodos de vacunación tradicionales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ofrecen inmunidad contra todas las enfermedades conocidas.",
+        "B": "No requieren refrigeración para su almacenamiento y distribución.",
+        "C": "Su efecto es instantáneo después de la ingestión.",
+        "D": "Son más efectivas en adultos que en niños.",
+        "E": "Pueden ser producidas en cualquier huerto casero sin tecnología."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una de las ventajas más destacadas de las vacunas comestibles es que no requerirían refrigeración. Esto las convierte en una alternativa excelente para zonas con infraestructura limitada, donde mantener la \"cadena de frío\" necesaria para las vacunas tradicionales es un desafío logístico y económico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_004",
+      "pregunta": "¿Cuál fue uno de los objetivos primordiales del Proyecto del Genoma Humano?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Crear el \"arroz dorado\" para mejorar la nutrición mundial.",
+        "B": "Desarrollar una bacteria capaz de degradar contaminantes.",
+        "C": "Clonar por primera vez un mamífero.",
+        "D": "Identificar todos los genes del ADN humano y mapear su localización en los cromosomas.",
+        "E": "Producir insulina humana utilizando la tecnología del ADN recombinante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Proyecto del Genoma Humano fue un esfuerzo internacional monumental cuyo objetivo principal era secuenciar y cartografiar todos los genes del genoma humano. Esto implicaba identificar la ubicación de cada gen en los 23 pares de cromosomas humanos para comprender mejor las enfermedades y desarrollar nuevos tratamientos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_005",
+      "pregunta": "La producción de insulina, hormona del crecimiento humano y factores coagulantes son ejemplos de aplicaciones de la biotecnología en el campo:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Agrícola",
+        "B": "Medioambiental",
+        "C": "Nutricional",
+        "D": "Médico",
+        "E": "Industrial"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Estas tres proteínas (insulina, hormona del crecimiento y factores coagulantes) son utilizadas para tratar enfermedades o condiciones médicas como la diabetes, trastornos del crecimiento y la hemofilia. Su producción mediante tecnología de ADN recombinante es una de las aplicaciones más importantes de la biotecnología en la medicina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_006",
+      "pregunta": "Para que una vacuna comestible sea eficaz, ¿qué barrera fisiológica crucial deben superar las proteínas producidas por la planta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La barrera hematoencefálica en el cerebro.",
+        "B": "La absorción a través de la piel.",
+        "C": "La filtración en los riñones.",
+        "D": "La digestión en el estómago y el intestino delgado.",
+        "E": "El metabolismo en el hígado."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El principal desafío para una vacuna comestible es que la proteína de interés (el antígeno) debe llegar intacta al sistema inmunitario del intestino. Para ello, debe ser capaz de resistir el ambiente ácido del estómago y la acción de las enzimas digestivas en el intestino delgado. Si la proteína se degrada, no podrá generar la respuesta inmune deseada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_007",
+      "pregunta": "¿Qué tecnología es la base tanto para crear plantas resistentes a enfermedades como para desarrollar vacunas comestibles?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El mapeo de cromosomas humanos.",
+        "B": "La clonación de organismos completos.",
+        "C": "La tecnología del ADN recombinante.",
+        "D": "El cultivo de tejidos vegetales.",
+        "E": "La fermentación bacteriana."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Ambas aplicaciones se basan en la tecnología del ADN recombinante. Esta técnica permite insertar genes específicos en el genoma de una planta, ya sea un gen que le confiere resistencia a una plaga o enfermedad, o un gen de un patógeno para que la planta produzca la proteína que funcionará como vacuna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_008",
+      "pregunta": "El desarrollo del \"arroz dorado\" es un ejemplo de cómo la ingeniería genética puede ser utilizada para:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumentar la resistencia de los cultivos a las plagas.",
+        "B": "Crear medicamentos \"desde la semilla\".",
+        "C": "Mejorar la productividad y el tamaño de los frutos.",
+        "D": "Aumentar el valor nutritivo de los alimentos básicos.",
+        "E": "Desarrollar bacterias que limpian el medio ambiente."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El \"arroz dorado\" fue diseñado genéticamente para producir beta-caroteno, un precursor de la vitamina A. Su propósito es combatir la deficiencia de esta vitamina en poblaciones donde el arroz es el alimento principal, demostrando cómo la tecnología del ADN recombinante puede usarse para mejorar la nutrición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_009",
+      "pregunta": "¿Qué campo del conocimiento, que experimentó un rápido desarrollo desde la década de 1960, sentó las bases para la ingeniería genética y la clonación de genes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La microbiología clásica",
+        "B": "La anatomía comparada",
+        "C": "La biología molecular y la genética",
+        "D": "La botánica taxonómica",
+        "E": "La ecología de poblaciones"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los avances en la comprensión de la estructura del ADN (la doble hélice), cómo se replica y cómo codifica la información para producir proteínas, fueron el pilar fundamental. Este conocimiento, propio de la biología molecular y la genética, permitió a los científicos empezar a manipular el ADN, dando lugar a la ingeniería genética.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_010",
+      "pregunta": "Además de la eliminación de las agujas, ¿qué otro paso del proceso de vacunación tradicional se omite con las vacunas comestibles?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La necesidad de pruebas clínicas.",
+        "B": "La producción de proteínas purificadas.",
+        "C": "La respuesta del sistema inmunitario.",
+        "D": "El registro sanitario del producto.",
+        "E": "La participación de personal médico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la vacunación tradicional, las proteínas o componentes que generan la inmunidad deben ser producidos (por ejemplo, en bacterias o cultivos celulares) y luego pasar por un complejo y costoso proceso de purificación. Con las vacunas comestibles, la planta misma produce la proteína y se consume directamente, eliminando la necesidad de purificar la vacuna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_011",
+      "pregunta": "La capacidad de identificar y reproducir un gen en concreto es una tecnología conocida como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Genoma Humano",
+        "B": "Clonación de genes",
+        "C": "ADN recombinante",
+        "D": "Ingeniería genética",
+        "E": "Terapia molecular"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La clonación de genes se refiere específicamente a la técnica de hacer múltiples copias idénticas de un fragmento de ADN, como un gen. Este es un paso fundamental en la ingeniería genética, ya que permite obtener la cantidad suficiente de un gen de interés para poder estudiarlo o insertarlo en otro organismo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_012",
+      "pregunta": "El desarrollo de una bacteria modificada genéticamente con capacidad de degradar contaminantes es una aplicación de la tecnología del ADN recombinante en el área de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Diagnóstico de enfermedades",
+        "B": "Mejora de la productividad agrícola",
+        "C": "Producción farmacéutica",
+        "D": "Terapia génica humana",
+        "E": "Biorremediación ambiental"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Esta aplicación corresponde al campo de la biorremediación, que utiliza organismos vivos (en este caso, bacterias modificadas) para limpiar o reducir la contaminación ambiental. La tecnología del ADN recombinante permite \"programar\" a estas bacterias para que metabolicen y degraden eficientemente sustancias tóxicas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_013",
+      "pregunta": "¿Cuál es el principio biotecnológico común que subyace en la producción de insulina en bacterias y la creación de una planta que funciona como vacuna comestible?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos procesos se basan en la fermentación para producir la proteína.",
+        "B": "Ambos implican la inserción de un gen humano en un organismo huésped.",
+        "C": "Ambos utilizan la tecnología del ADN recombinante para que un organismo produzca una proteína de interés que no le es propia.",
+        "D": "Ambos requieren que la proteína final sea purificada antes de su uso.",
+        "E": "Ambos son resultado directo del Proyecto del Genoma Humano."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio fundamental en ambos casos es el mismo: se toma un gen que codifica una proteína de interés (el gen de la insulina humana, o un gen de una proteína viral) y se introduce en el genoma de un organismo huésped (una bacteria o una planta). El huésped, al leer este nuevo gen, produce la proteína deseada. Este es el núcleo de la tecnología del ADN recombinante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_014",
+      "pregunta": "El conocimiento del genoma humano tiene un potencial ilimitado para desarrollar nuevos enfoques diagnósticos y terapéuticos porque permite:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sintetizar cualquier proteína humana en el laboratorio sin necesidad de genes.",
+        "B": "Eliminar por completo las enfermedades infecciosas modificando el ADN humano.",
+        "C": "Identificar las bases genéticas de las enfermedades y diseñar tratamientos moleculares específicos.",
+        "D": "Crear órganos artificiales perfectamente compatibles con cualquier individuo.",
+        "E": "Predecir con total certeza todas las enfermedades que una persona desarrollará en su vida."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al conocer la secuencia y función de los genes, los científicos pueden identificar qué genes o mutaciones están asociados con enfermedades específicas. Este conocimiento permite, por un lado, crear pruebas de diagnóstico mucho más precisas y tempranas y, por otro, diseñar fármacos o terapias que actúen directamente sobre la causa molecular del problema, en lugar de solo tratar los síntomas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_300_015",
+      "pregunta": "Considerando las ventajas logísticas de las vacunas comestibles (sin refrigeración, sin agujas, sin purificación), ¿en qué escenario tendrían el mayor impacto en la salud pública mundial?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "En campañas de vacunación masiva en ciudades con sistemas de salud avanzados.",
+        "B": "Para la erradicación de enfermedades en países con alta densidad de población y buena infraestructura.",
+        "C": "En la prevención de enfermedades en regiones rurales o en desarrollo con acceso limitado a electricidad y personal médico.",
+        "D": "Como tratamiento de emergencia para pandemias en centros urbanos altamente conectados.",
+        "E": "Para la inmunización de la fauna silvestre en reservas naturales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las características de las vacunas comestibles resuelven los mayores obstáculos para la vacunación en áreas remotas o en desarrollo. La falta de una \"cadena de frío\" (refrigeración constante), la escasez de personal sanitario cualificado para administrar inyecciones y los altos costos asociados a la producción y distribución de vacunas tradicionales son barreras significativas en estas regiones. Las vacunas comestibles podrían superar estos desafíos de manera efectiva.",
+      "imagen": null
+    }
+  ]
+}

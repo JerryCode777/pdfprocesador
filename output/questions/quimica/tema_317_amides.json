@@ -6,77 +6,77 @@
   "preguntas": [
     {
       "id_temporal": "quimica_317_001",
-      "pregunta": "¿Cuál es la fórmula general que representa la estructura de las amidas?",
+      "pregunta": "¿Cuál es el grupo funcional característico de las amidas?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$R-CHO$$",
-        "B": "$$R-COOH$$",
-        "C": "$$R-CONH_2$$",
-        "D": "$$R-NH_2$$",
-        "E": "$$R-O-R'$$"
+        "A": "Grupo hidroxilo ($-OH$)",
+        "B": "Grupo carboxilo ($-COOH$)",
+        "C": "Grupo amino ($-NH_2$)",
+        "D": "Grupo acilamino ($-CONH_2$)",
+        "E": "Grupo carbonilo ($C=O$)"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La fórmula general de una amida es $$R-CONH_2$$. Esta estructura se caracteriza por tener un grupo carbonilo ($$C=O$$) unido a un átomo de nitrógeno. Las otras opciones representan otras familias de compuestos orgánicos: $$R-CHO$$ (aldehído), $$R-COOH$$ (ácido carboxílico), $$R-NH_2$$ (amina) y $$R-O-R'$$ (éter).",
+      "respuesta_correcta": "D",
+      "explicacion": "El grupo funcional que define a las amidas es el grupo acilamino, que consiste en un grupo carbonilo unido a un átomo de nitrógeno. Su fórmula general es $-CONH_2$ para amidas primarias.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_002",
-      "pregunta": "¿Qué grupo funcional caracteriza a las amidas?",
+      "pregunta": "¿Cuál es la fórmula general de una amida primaria?",
       "dificultad": 1,
       "opciones": {
-        "A": "Grupo hidroxilo ($$-OH$$)",
-        "B": "Grupo acilamino ($$-CONH_2$$)",
-        "C": "Grupo amino ($$-NH_2$$)",
-        "D": "Grupo carboxilo ($$-COOH$$)",
-        "E": "Grupo carbonilo ($$-CO-$$)"
+        "A": "$$R-CO-NH-R'$$",
+        "B": "$$R-COOH$$",
+        "C": "$$R-CO-NH_2$$",
+        "D": "$$R-NH_2$$",
+        "E": "$$R-CO-N(R')R''$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Las amidas se definen por la presencia del grupo funcional acilamino, cuya fórmula es $$-CONH_2$$. Este grupo consiste en un grupo acilo ($$R-CO-$$) unido a un átomo de nitrógeno. El grupo amino ($$-NH_2$$) caracteriza a las aminas, y el grupo carboxilo ($$-COOH$$) a los ácidos carboxílicos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula general de una amida primaria es $$R-CO-NH_2$$. Se caracteriza porque el átomo de nitrógeno del grupo acilamino está unido a dos átomos de hidrógeno. Las fórmulas $$R-CO-NH-R'$$ y $$R-CO-N(R')R''$$ corresponden a amidas secundarias y terciarias, respectivamente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_003",
-      "pregunta": "¿Cómo se clasifican las amidas que tienen la estructura general $$R-CO-NH_2$$?",
+      "pregunta": "Según la nomenclatura IUPAC, ¿cómo se nombran las amidas primarias?",
       "dificultad": 1,
       "opciones": {
-        "A": "Amidas secundarias",
-        "B": "Amidas terciarias",
-        "C": "Amidas simples",
-        "D": "Amidas primarias",
-        "E": "Amidas básicas"
+        "A": "Cambiando la terminación \"-ano\" del alcano por \"-amida\".",
+        "B": "Cambiando la terminación \"-oico\" del ácido correspondiente por \"-amida\".",
+        "C": "Cambiando la terminación \"-ico\" del ácido correspondiente por \"-amida\".",
+        "D": "Usando el prefijo \"amido-\" antes del nombre del alcano.",
+        "E": "Cambiando la terminación \"-ol\" del alcohol por \"-amida\"."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Una amida con la estructura $$R-CO-NH_2$$ se clasifica como primaria. En esta estructura, el átomo de nitrógeno del grupo amida está unido a dos átomos de hidrógeno. Las amidas secundarias tienen un hidrógeno sustituido por un grupo R', y las terciarias tienen ambos hidrógenos sustituidos.",
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de nomenclatura IUPAC para amidas primarias establece que se debe tomar el nombre del ácido carboxílico correspondiente y cambiar la terminación \"-oico\" por \"-amida\". Por ejemplo, del ácido etanoico se deriva la etanamida. El cambio de \"-ico\" por \"-amida\" corresponde a la nomenclatura común.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_004",
-      "pregunta": "Según la nomenclatura IUPAC, ¿cómo se nombran las amidas primarias?",
+      "pregunta": "¿A partir de qué compuestos se forman las amidas?",
       "dificultad": 1,
       "opciones": {
-        "A": "Cambiando la terminación \"-ico\" del ácido por \"-amida\"",
-        "B": "Cambiando la terminación \"-ano\" del alcano por \"-amida\"",
-        "C": "Usando el prefijo \"amino-\" seguido del nombre del ácido",
-        "D": "Cambiando la terminación \"-oico\" del ácido por \"-amida\"",
-        "E": "Añadiendo el sufijo \"-amida\" al nombre del grupo alquilo"
+        "A": "De la combinación de un alcohol y una cetona.",
+        "B": "De la combinación de un éster y agua.",
+        "C": "De la combinación de un ácido con amoniaco o una amina.",
+        "D": "De la oxidación de un alqueno.",
+        "E": "De la reducción de un aldehído."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La regla de nomenclatura de la IUPAC para amidas primarias consiste en identificar el ácido carboxílico correspondiente y cambiar su terminación \"-oico\" por \"-amida\". Por ejemplo, el ácido etanoico da lugar a la etanamida. La opción A describe la nomenclatura común.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las amidas son derivados de los ácidos carboxílicos que se obtienen al reaccionar un ácido con amoniaco (para formar amidas primarias) o con una amina (para formar amidas secundarias o terciarias).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_005",
-      "pregunta": "¿De qué compuestos se derivan las amidas?",
+      "pregunta": "¿Qué tipo de macromolécula biológica se describe como una amida compleja de cadena larga?",
       "dificultad": 1,
       "opciones": {
-        "A": "De la combinación de un alcohol con amoniaco",
-        "B": "De la combinación de un éter con una amina",
-        "C": "De la combinación de un ácido con amoniaco o una amina",
-        "D": "De la oxidación de una cetona",
-        "E": "De la reducción de un alcano"
+        "A": "Carbohidratos",
+        "B": "Proteínas",
+        "C": "Lípidos",
+        "D": "Ácidos nucleicos",
+        "E": "Glúcidos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Las amidas son derivados de los ácidos carboxílicos. Se forman conceptualmente por la reacción de un ácido carboxílico con amoniaco (para formar amidas primarias) o con una amina (para formar amidas secundarias o terciarias).",
+      "respuesta_correcta": "B",
+      "explicacion": "Las proteínas son polímeros de aminoácidos unidos por enlaces peptídicos. El enlace peptídico es un tipo de enlace amida, por lo que la estructura fundamental de las proteínas corresponde a la de amidas complejas de cadena larga.",
       "imagen": null
     },
     {
@@ -87,146 +87,146 @@
         "A": "Metanamida",
         "B": "Acetamida",
         "C": "Propanamida",
-        "D": "Etanamida",
-        "E": "Formamida"
+        "D": "Formamida",
+        "E": "Etanamida"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El compuesto tiene dos átomos de carbono, por lo que deriva del ácido etanoico. Siguiendo la nomenclatura IUPAC, se reemplaza la terminación \"-oico\" del ácido (etanoico) por \"-amida\", resultando en el nombre etanamida. \"Acetamida\" es su nombre común.",
+      "respuesta_correcta": "E",
+      "explicacion": "El compuesto tiene dos átomos de carbono en su cadena principal. El ácido carboxílico correspondiente es el ácido etanoico. Siguiendo la regla IUPAC, se cambia la terminación \"-oico\" por \"-amida\", resultando en el nombre Etanamida. \"Acetamida\" es su nombre común.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_007",
-      "pregunta": "Las proteínas, que son cadenas largas y complejas, son un ejemplo de qué tipo de compuesto?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Aminas complejas",
-        "B": "Ésteres de cadena larga",
-        "C": "Amidas complejas de cadena larga",
-        "D": "Polialcoholes",
-        "E": "Cetonas polifuncionales"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "Las proteínas están formadas por aminoácidos unidos entre sí mediante enlaces peptídicos. Un enlace peptídico es funcionalmente un enlace amida. Por lo tanto, las proteínas son polímeros naturales con la estructura de amidas complejas de cadena larga.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_317_008",
-      "pregunta": "¿Cuál es la clasificación de una amida con la estructura general $$R-CO-N(R')R''$$?",
+      "pregunta": "Una amida con la estructura general $$R-CO-N(R')R''$$ se clasifica como:",
       "dificultad": 2,
       "opciones": {
         "A": "Amida primaria",
         "B": "Amida secundaria",
-        "C": "Amina terciaria",
-        "D": "Amida terciaria",
-        "E": "Sal de amonio cuaternaria"
+        "C": "Amida terciaria",
+        "D": "Amina secundaria",
+        "E": "Amina terciaria"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La clasificación de las amidas depende del número de sustituyentes alquilo o arilo unidos al átomo de nitrógeno. En la estructura $$R-CO-N(R')R''$$, el nitrógeno no está unido a ningún átomo de hidrógeno, sino a un grupo acilo ($R-CO$) y dos grupos R ($R'$ y $R''$), por lo que se clasifica como una amida terciaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_317_008",
+      "pregunta": "Según la nomenclatura común, ¿cuál es el nombre de la amida $$CH_3-CH_2-CH_2-CO-NH_2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Butanamida",
+        "B": "Propanamida",
+        "C": "Acetamida",
+        "D": "Butiramida",
+        "E": "Valeramida"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Una amida se clasifica como terciaria cuando el átomo de nitrógeno del grupo amida está unido a dos grupos alquilo o arilo ($$R'$$ y $$R''$$), y no tiene átomos de hidrógeno directamente enlazados a él. La fórmula general es $$R-CO-N(R')R''$$.",
+      "explicacion": "La nomenclatura común de las amidas se deriva del nombre común del ácido carboxílico correspondiente. Esta amida tiene 4 átomos de carbono, por lo que deriva del ácido butírico. Cambiando la terminación \"-ico\" por \"-amida\" se obtiene el nombre Butiramida. \"Butanamida\" es el nombre IUPAC.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_009",
-      "pregunta": "¿Cuál es el nombre común para el compuesto $$CH_3-CH_2-CH_2-CO-NH_2$$?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Propionamida",
-        "B": "Butanamida",
-        "C": "Butiramida",
-        "D": "Acetamida",
-        "E": "Valeramida"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "Este compuesto deriva del ácido butírico (nombre común del ácido con cuatro carbonos). Para la nomenclatura común, se cambia la terminación \"-ico\" del ácido por \"-amida\", lo que da como resultado el nombre \"butiramida\". Su nombre IUPAC sería \"butanamida\".",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_317_010",
-      "pregunta": "Una amida secundaria se caracteriza por tener la estructura general:",
+      "pregunta": "¿Cuál de las siguientes estructuras corresponde a una amida secundaria?",
       "dificultad": 2,
       "opciones": {
         "A": "$$R-CO-NH_2$$",
         "B": "$$R-CO-NH-R'$$",
         "C": "$$R-NH-R'$$",
         "D": "$$R-CO-N(R')R''$$",
-        "E": "$$R-COO-R'$$"
+        "E": "$$CH_3-CH_2-NH_2$$"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Una amida secundaria es aquella en la que el átomo de nitrógeno del grupo amida está unido a un átomo de hidrógeno y a un grupo alquilo o arilo ($$R'$$). Su fórmula general es $$R-CO-NH-R'$$. La opción A es una amida primaria, C es una amina secundaria y D es una amida terciaria.",
+      "explicacion": "Una amida secundaria se caracteriza porque el átomo de nitrógeno del grupo funcional está unido a un átomo de hidrógeno y a un grupo alquilo o arilo ($R'$), además del grupo acilo ($R-CO$). La fórmula $$R-CO-NH-R'$$ representa esta estructura. $$R-CO-NH_2$$ es primaria y $$R-CO-N(R')R''$$ es terciaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_317_010",
+      "pregunta": "Para nombrar una amida según la nomenclatura común, se cambia la terminación del ácido correspondiente. ¿Qué cambio específico se realiza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se cambia \"-oico\" por \"-amida\"",
+        "B": "Se cambia \"-ano\" por \"-amida\"",
+        "C": "Se cambia \"-ato\" por \"-amida\"",
+        "D": "Se cambia \"-ico\" por \"-amida\"",
+        "E": "Se cambia \"-oso\" por \"-amida\""
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La nomenclatura común de las amidas se basa en el nombre común del ácido carboxílico del que derivan. La regla consiste en reemplazar la terminación \"-ico\" del ácido por la terminación \"-amida\". Por ejemplo, del ácido acético se deriva la acetamida. El cambio de \"-oico\" por \"-amida\" es la regla IUPAC.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_011",
-      "pregunta": "¿Qué diferencia fundamental existe entre la nomenclatura IUPAC y la nomenclatura común para las amidas?",
+      "pregunta": "¿Qué estructura química representa a la Butanamida?",
       "dificultad": 2,
       "opciones": {
-        "A": "La IUPAC usa números para la posición, la común no.",
-        "B": "La IUPAC nombra la cadena principal, la común usa nombres triviales.",
-        "C": "La IUPAC cambia \"-oico\" por \"-amida\", mientras que la común cambia \"-ico\" por \"-amida\".",
-        "D": "La IUPAC usa el prefijo N-, la común no.",
-        "E": "No hay diferencia, ambos sistemas son idénticos."
+        "A": "$$CH_3-CH_2-CO-NH_2$$",
+        "B": "$$CH_3-CO-NH_2$$",
+        "C": "$$CH_3-CH_2-CH_2-CH_2-CO-NH_2$$",
+        "D": "$$H-CO-NH_2$$",
+        "E": "$$CH_3-CH_2-CH_2-CO-NH_2$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La principal diferencia radica en el nombre del ácido carboxílico del que derivan. La nomenclatura IUPAC parte del nombre sistemático del ácido (que termina en \"-oico\") y lo cambia a \"-amida\". La nomenclatura común parte del nombre trivial del ácido (que a menudo termina en \"-ico\") y lo cambia a \"-amida\". Por ejemplo, del ácido etanoico (IUPAC) deriva la etanamida, y del ácido acético (común) deriva la acetamida.",
+      "respuesta_correcta": "E",
+      "explicacion": "El nombre \"Butanamida\" indica una amida derivada del ácido butanoico. El prefijo \"but-\" significa una cadena de 4 átomos de carbono, incluyendo el carbono del grupo carbonilo. La estructura $$CH_3-CH_2-CH_2-CO-NH_2$$ tiene exactamente 4 átomos de carbono en su cadena principal.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_012",
-      "pregunta": "Comparando la estructura de una amina como $$H_3C-CH_2-NH-CH_2-CH_2-CH_3$$ y una amida como $$CH_3-CO-NH_2$$, ¿cuál es la diferencia estructural clave?",
+      "pregunta": "La principal diferencia estructural entre una amida primaria y una secundaria radica en:",
       "dificultad": 2,
       "opciones": {
-        "A": "Las aminas tienen más hidrógenos que las amidas.",
-        "B": "Las amidas tienen un grupo carbonilo ($$C=O$$) adyacente al nitrógeno, las aminas no.",
-        "C": "Las aminas son siempre cadenas lineales, las amidas son ramificadas.",
-        "D": "El nitrógeno en las amidas tiene una carga positiva.",
-        "E": "Las amidas contienen oxígeno, las aminas no."
+        "A": "La longitud de la cadena de carbono R.",
+        "B": "La presencia de un doble enlace en la cadena R.",
+        "C": "El número de átomos de hidrógeno unidos directamente al nitrógeno del grupo amida.",
+        "D": "El tipo de átomo de carbono al que está unido el grupo carbonilo.",
+        "E": "La presencia de un grupo hidroxilo adicional."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La característica definitoria que distingue a una amida de una amina es la presencia de un grupo carbonilo ($$C=O$$) directamente unido al átomo de nitrógeno. Este grupo acilo ($$R-CO-$$) modifica significativamente las propiedades químicas del nitrógeno en comparación con una amina, donde el nitrógeno está unido solo a átomos de carbono (de grupos alquilo) y/o hidrógeno.",
+      "respuesta_correcta": "C",
+      "explicacion": "La clasificación de las amidas se basa en la sustitución en el átomo de nitrógeno. Una amida primaria ($R-CO-NH_2$) tiene dos hidrógenos en el nitrógeno. Una amida secundaria ($R-CO-NH-R'$) tiene un hidrógeno y un grupo R' en el nitrógeno. Por lo tanto, la diferencia clave es el número de hidrógenos en el átomo de nitrógeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_013",
-      "pregunta": "¿Cuál de las siguientes estructuras químicas corresponde a la Butanamida?",
+      "pregunta": "Si la Etanamida ($$CH_3-CO-NH_2$$) se nombra comúnmente como Acetamida, ¿de qué ácido carboxílico proviene su nombre común?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$CH_3-CO-NH_2$$",
-        "B": "$$CH_3-CH_2-CO-NH_2$$",
-        "C": "$$CH_3-CH_2-CH_2-CH_2-CO-NH_2$$",
-        "D": "$$CH_3-CH_2-CH_2-NH_2$$",
-        "E": "$$CH_3-CH_2-CH_2-CO-NH_2$$"
+        "A": "Ácido etanoico",
+        "B": "Ácido propiónico",
+        "C": "Ácido acético",
+        "D": "Ácido fórmico",
+        "E": "Ácido butírico"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El nombre \"Butanamida\" indica una amida derivada del ácido butanoico. El prefijo \"but-\" significa una cadena de cuatro átomos de carbono, incluyendo el carbono del grupo carbonilo. Por lo tanto, la estructura correcta es $$CH_3-CH_2-CH_2-CO-NH_2$$. La opción B es propanamida, la A es etanamida, la C es pentanamida y la D es una amina (butilamina).",
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre común \"Acetamida\" se deriva del nombre común del ácido carboxílico correspondiente. La regla es cambiar la terminación \"-ico\" por \"-amida\". Por lo tanto, Acetamida se deriva del Ácido Acético. El nombre IUPAC del ácido es Ácido etanoico, del cual se deriva el nombre IUPAC Etanamida.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_014",
-      "pregunta": "Un compuesto se forma por la reacción de un ácido carboxílico de 4 carbonos con amoniaco. ¿Cuál es el nombre IUPAC del producto?",
+      "pregunta": "¿Cuál es el nombre IUPAC del ácido carboxílico que da origen a la Butanamida?",
       "dificultad": 3,
       "opciones": {
-        "A": "Propanamida",
-        "B": "Butiramida",
-        "C": "Butanamida",
-        "D": "Butilamina",
-        "E": "Ácido aminobutanoico"
+        "A": "Ácido butírico",
+        "B": "Ácido propanoico",
+        "C": "Ácido pentanoico",
+        "D": "Ácido butanoico",
+        "E": "Ácido 2-metilpropanoico"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un ácido carboxílico de 4 carbonos es el ácido butanoico. Según las reglas de la IUPAC, para nombrar la amida resultante, se reemplaza la terminación \"-oico\" del ácido por \"-amida\". Por lo tanto, el ácido butanoico produce la butanamida. \"Butiramida\" es el nombre común, no el IUPAC.",
+      "respuesta_correcta": "D",
+      "explicacion": "El nombramiento IUPAC de las amidas se basa en el nombre IUPAC del ácido carboxílico padre. Si la amida se llama Butanamida (indicando 4 carbonos), se deriva del ácido con 4 carbonos. El nombre IUPAC para este ácido es Ácido butanoico. El \"Ácido butírico\" es el nombre común, no el IUPAC.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_317_015",
-      "pregunta": "Dada la amida $$CH_3-CH_2-CO-NH-CH_3$$, ¿cómo se clasifica?",
+      "pregunta": "Un compuesto tiene la fórmula $$CH_3-CO-NH-CH_3$$. ¿Cómo se clasifica y por qué?",
       "dificultad": 3,
       "opciones": {
-        "A": "Amida primaria",
-        "B": "Amida secundaria",
-        "C": "Amida terciaria",
-        "D": "Amina secundaria",
-        "E": "Cetona N-sustituida"
+        "A": "Amida primaria, porque deriva del ácido etanoico.",
+        "B": "Amida secundaria, porque el nitrógeno está unido a un hidrógeno y un grupo metilo.",
+        "C": "Amida terciaria, porque hay tres grupos metilo en total.",
+        "D": "Amina secundaria, porque el nitrógeno está unido a dos grupos de carbono.",
+        "E": "Cetona, por la presencia del grupo carbonilo ($C=O$)."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La clasificación de las amidas depende del número de sustituyentes en el átomo de nitrógeno. En la molécula $$CH_3-CH_2-CO-NH-CH_3$$, el nitrógeno está unido a un átomo de hidrógeno y a un grupo alquilo (un grupo metilo, $$-CH_3$$). Esta estructura corresponde a la definición de una amida secundaria ($$R-CO-NH-R'$$).",
+      "explicacion": "La clasificación se determina por los sustituyentes en el átomo de nitrógeno. En la estructura $$CH_3-CO-NH-CH_3$$, el nitrógeno está unido al grupo acilo ($CH_3-CO-$), a un grupo metilo ($-CH_3$) y a un átomo de hidrógeno ($-H$). Al tener un sustituyente R' (el metilo) y un hidrógeno, se clasifica como una amida secundaria. No es una amina porque tiene un grupo acilo ($R-CO-$) unido al nitrógeno.",
       "imagen": null
     }
   ]

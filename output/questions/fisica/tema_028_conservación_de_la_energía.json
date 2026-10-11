@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 28,
+  "total_temas": 137,
+  "titulo_tema": "Conservación de la Energía",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_028_001",
+      "pregunta": "¿Cómo se define la energía mecánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía asociada únicamente al movimiento de un cuerpo.",
+        "B": "La suma de la energía cinética y la energía potencial.",
+        "C": "La energía relacionada exclusivamente con la posición de un objeto.",
+        "D": "El trabajo realizado por las fuerzas de fricción.",
+        "E": "La capacidad de un cuerpo para generar calor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía mecánica de un sistema es, por definición, la suma de su energía cinética (la energía del movimiento) y su energía potencial (la energía de la posición). Las otras opciones describen solo una parte de la energía mecánica o conceptos diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_002",
+      "pregunta": "¿Con qué propiedad de un cuerpo está asociada la energía cinética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Con su temperatura.",
+        "B": "Con su posición relativa en un campo de fuerza.",
+        "C": "Con su composición química.",
+        "D": "Con su movimiento.",
+        "E": "Con su masa en estado de reposo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía cinética es la energía que posee un cuerpo debido a su movimiento. Un objeto en reposo no tiene energía cinética, mientras que un objeto en movimiento sí la tiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_003",
+      "pregunta": "¿A qué está asociada la energía potencial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A la velocidad del objeto.",
+        "B": "A la aceleración del objeto.",
+        "C": "A la posición relativa de un objeto dentro de un sistema.",
+        "D": "Al trabajo total realizado sobre el objeto.",
+        "E": "A la cantidad de calor que puede liberar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial es una forma de energía almacenada que depende de la posición relativa de las diferentes partes de un sistema. Por ejemplo, la energía potencial gravitatoria depende de la altura de un objeto con respecto a un punto de referencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_004",
+      "pregunta": "¿Qué condición fundamental se debe cumplir para que una fuerza realice trabajo mecánico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fuerza debe ser constante en el tiempo.",
+        "B": "El objeto sobre el que actúa la fuerza debe experimentar un desplazamiento.",
+        "C": "La persona que aplica la fuerza debe sentir cansancio.",
+        "D": "La fuerza debe ser de origen gravitacional.",
+        "E": "El objeto debe tener una masa muy grande."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En física, el concepto de trabajo mecánico implica que una fuerza aplicada sobre un objeto debe causar un desplazamiento. Si no hay movimiento del objeto en la dirección de la fuerza, no se realiza trabajo, sin importar la magnitud de la fuerza aplicada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_005",
+      "pregunta": "¿Qué concepto físico sirve como conexión entre el enfoque de resolución de problemas basado en fuerzas (leyes de Newton) y el enfoque basado en energía?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa.",
+        "B": "La aceleración.",
+        "C": "La energía potencial.",
+        "D": "La potencia.",
+        "E": "El trabajo."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El trabajo es el concepto que relaciona las fuerzas con los cambios en la energía. El teorema del trabajo y la energía establece una equivalencia directa entre el trabajo total realizado por las fuerzas sobre una partícula y el cambio en su energía cinética, uniendo así los dos enfoques.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_006",
+      "pregunta": "¿Cuál es la relación fundamental entre el trabajo realizado por todas las fuerzas sobre una partícula y su energía cinética?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El trabajo es igual al valor final de la energía cinética.",
+        "B": "El trabajo es inversamente proporcional a la energía cinética.",
+        "C": "El trabajo es igual al cambio en la energía cinética de la partícula.",
+        "D": "El trabajo siempre anula la energía cinética.",
+        "E": "No existe una relación directa entre trabajo y energía cinética."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta relación se conoce como el Teorema del Trabajo y la Energía. Afirma que el trabajo total ($$W_{total}$$) realizado sobre una partícula por la fuerza neta es exactamente igual al cambio en su energía cinética ($$\\Delta K$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_007",
+      "pregunta": "Si una persona empuja un muro con una fuerza constante de 100 N durante un minuto, pero el muro no se mueve, ¿cuánto trabajo mecánico realiza la persona sobre el muro?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "100 Joules.",
+        "B": "6000 Joules.",
+        "C": "Un valor positivo que depende de la masa del muro.",
+        "D": "Cero.",
+        "E": "Un valor negativo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que se realice trabajo mecánico, la fuerza aplicada debe producir un desplazamiento. Dado que el muro no se mueve, el desplazamiento es cero. Por lo tanto, el trabajo realizado sobre el muro es cero, independientemente de la magnitud de la fuerza o del tiempo que se aplique.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_008",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la diferencia entre el concepto físico de trabajo y el esfuerzo fisiológico o \"cansancio\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son sinónimos en cualquier contexto.",
+        "B": "El trabajo físico requiere desplazamiento, mientras que uno puede cansarse sin mover nada.",
+        "C": "El cansancio es una medida de la energía potencial, y el trabajo de la energía cinética.",
+        "D": "Solo las máquinas realizan trabajo físico, mientras que los seres vivos se cansan.",
+        "E": "El trabajo se mide en Newtons y el cansancio en Joules."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El concepto de trabajo en física está estrictamente ligado a la existencia de una fuerza que provoca un desplazamiento. Una persona puede sentir un gran esfuerzo o cansancio al sostener un objeto pesado sin moverlo, pero desde el punto de vista físico, no está realizando trabajo sobre el objeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_009",
+      "pregunta": "¿Qué ventaja se menciona al resolver problemas de mecánica con un enfoque basado en la energía en lugar de usar directamente las leyes de Newton?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No requiere conocer la masa de los objetos.",
+        "B": "Proporciona resultados más exactos en todos los casos.",
+        "C": "Solo es aplicable a sistemas sin movimiento.",
+        "D": "Permite un desarrollo más sencillo del problema.",
+        "E": "Elimina la necesidad de considerar la gravedad."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El enfoque de energía a menudo simplifica la resolución de problemas porque trata con cantidades escalares (energía) en lugar de cantidades vectoriales (fuerzas), lo que puede llevar a un desarrollo matemático y conceptual más directo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_010",
+      "pregunta": "¿Qué representa la suma de la energía asociada al movimiento y la energía asociada a la posición relativa de un cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El trabajo neto.",
+        "B": "La energía mecánica.",
+        "C": "La energía interna.",
+        "D": "La potencia instantánea.",
+        "E": "La cantidad de movimiento."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía asociada al movimiento es la energía cinética, y la energía asociada a la posición relativa es la energía potencial. La suma de estas dos formas de energía constituye la energía mecánica total del sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_011",
+      "pregunta": "El trabajo total realizado sobre una partícula es igual al cambio en su energía cinética. ¿Cómo se expresa matemáticamente este \"cambio\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El promedio de la energía cinética inicial y final.",
+        "B": "La energía cinética final menos la energía cinética inicial.",
+        "C": "El producto de la energía cinética inicial y final.",
+        "D": "La energía cinética inicial menos la energía cinética final.",
+        "E": "La suma de la energía cinética inicial y final."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En física, un \"cambio\" en cualquier cantidad (representado por el símbolo delta, $$\\Delta$$) se calcula siempre como el valor final menos el valor inicial. Por lo tanto, el cambio en la energía cinética ($$\\Delta K$$) es la energía cinética final ($$K_f$$) menos la energía cinética inicial ($$K_i$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_012",
+      "pregunta": "Si se aplica una fuerza sobre un coche pero este no se desplaza, ¿cuál de las siguientes afirmaciones es la correcta en el contexto del trabajo mecánico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza realiza un trabajo positivo.",
+        "B": "Se está convirtiendo energía potencial en trabajo.",
+        "C": "La fuerza aplicada no realiza trabajo sobre el coche.",
+        "D": "El trabajo realizado es igual a la fuerza aplicada.",
+        "E": "La energía cinética del coche aumenta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de trabajo mecánico exige que haya un desplazamiento como resultado de la aplicación de una fuerza. Si el coche no se mueve, el desplazamiento es cero, y por consiguiente, el trabajo realizado por esa fuerza sobre el coche también es cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_013",
+      "pregunta": "Si el trabajo total neto realizado por todas las fuerzas sobre una partícula en movimiento es positivo, ¿qué se puede concluir sobre la energía cinética y la rapidez de la partícula?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su energía cinética disminuye y su rapidez disminuye.",
+        "B": "Su energía cinética aumenta y su rapidez aumenta.",
+        "C": "Su energía cinética se mantiene constante, pero su rapidez aumenta.",
+        "D": "Su energía cinética aumenta, pero su rapidez se mantiene constante.",
+        "E": "La energía cinética y la rapidez no se ven afectadas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Según el teorema del trabajo y la energía, un trabajo total neto positivo ($$W_{neto} > 0$$) implica un cambio positivo en la energía cinética ($$\\Delta K > 0$$). Esto significa que la energía cinética final es mayor que la inicial. Como la energía cinética está asociada al movimiento (rapidez), un aumento en la energía cinética implica un aumento en la rapidez de la partícula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_014",
+      "pregunta": "Si el trabajo total realizado por todas las fuerzas que actúan sobre una partícula es cero, ¿qué se puede afirmar con certeza acerca de su energía cinética?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía cinética de la partícula debe ser cero.",
+        "B": "La energía cinética de la partícula aumenta.",
+        "C": "La energía cinética de la partícula disminuye.",
+        "D": "La energía cinética de la partícula se ha convertido en energía potencial.",
+        "E": "La energía cinética de la partícula permanece constante."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El teorema del trabajo y la energía establece que el trabajo total es igual al cambio en la energía cinética ($$W_{total} = \\Delta K$$). Si el trabajo total es cero ($$W_{total} = 0$$), entonces el cambio en la energía cinética también debe ser cero ($$\\Delta K = 0$$). Esto significa que la energía cinética final es igual a la inicial ($$K_f = K_i$$), por lo que permanece constante. No implica que sea cero, solo que no cambia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_028_015",
+      "pregunta": "Analizando la conexión entre el enfoque de fuerzas y el de energía, ¿qué representa el trabajo total sobre una partícula?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La causa del cambio en la energía potencial de la partícula.",
+        "B": "Una medida de la inercia de la partícula.",
+        "C": "El mecanismo mediante el cual las fuerzas alteran la energía de movimiento de la partícula.",
+        "D": "Una propiedad intrínseca de la partícula, como su masa.",
+        "E": "La suma de la energía cinética y potencial en un instante dado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo es el concepto que une los dos enfoques. Representa la acción neta de todas las fuerzas sobre una partícula, y su valor es igual al cambio en la energía cinética. Por lo tanto, el trabajo es el proceso o mecanismo a través del cual el efecto combinado de las fuerzas (enfoque de Newton) se traduce en un cambio en el estado de movimiento (energía cinética, enfoque de energía) de la partícula.",
+      "imagen": null
+    }
+  ]
+}

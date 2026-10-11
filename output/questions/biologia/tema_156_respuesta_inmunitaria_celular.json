@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 156,
+  "total_temas": 320,
+  "titulo_tema": "Respuesta Inmunitaria Celular",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_156_001",
+      "pregunta": "¿Cuál es la principal característica que define a la respuesta inmunitaria celular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es la respuesta más rápida del sistema inmunitario.",
+        "B": "Depende exclusivamente de los macrófagos.",
+        "C": "No involucra la participación de anticuerpos.",
+        "D": "Se origina completamente en los ganglios linfáticos.",
+        "E": "Produce principalmente linfocitos B de memoria."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La respuesta inmunitaria celular es una forma de inmunidad específica que se caracteriza fundamentalmente por no contar con la participación de anticuerpos. En su lugar, utiliza células como los linfocitos T, células Natural Killer y macrófagos activados para eliminar patógenos o células anormales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_002",
+      "pregunta": "¿En qué órgano se lleva a cabo el proceso de maduración de los linfocitos T?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En la médula ósea roja.",
+        "B": "En el bazo.",
+        "C": "En el timo.",
+        "D": "En los ganglios linfáticos.",
+        "E": "En el hígado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos T se originan en la médula ósea roja, pero viajan a través de la linfa hasta el timo, que es el órgano especializado donde completan su proceso de maduración y se vuelven funcionalmente competentes para participar en la respuesta inmunitaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_003",
+      "pregunta": "¿Con qué otro nombre se conocen los linfocitos T que expresan la proteína de superficie CD4+?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Linfocitos T citotóxicos",
+        "B": "Linfocitos T de memoria",
+        "C": "Linfocitos Natural Killer",
+        "D": "Linfocitos T auxiliares",
+        "E": "Linfocitos T supresores"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos T CD4+ son conocidos como linfocitos T auxiliares o \"helpers\". Su función principal es coordinar la respuesta inmunitaria mediante la liberación de citoquinas tras reconocer un antígeno presentado por una célula presentadora de antígenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_004",
+      "pregunta": "Además de los linfocitos T, ¿qué otras células participan en la inmunidad celular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Linfocitos B y células plasmáticas",
+        "B": "Eosinófilos y basófilos",
+        "C": "Neutrófilos y mastocitos",
+        "D": "Eritrocitos y plaquetas",
+        "E": "Natural Killer y macrófagos activados"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La respuesta inmunitaria celular es un esfuerzo coordinado que, además de los linfocitos T (CD4+ y CD8+), involucra la participación de las células Natural Killer (NK) y los macrófagos que han sido activados por las propias células T.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_005",
+      "pregunta": "¿Cuál de las siguientes es una función clave de la inmunidad celular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Producción de inmunoglobulinas para la sangre.",
+        "B": "Rechazo primario de trasplantes.",
+        "C": "Neutralización de toxinas bacterianas libres.",
+        "D": "Respuesta alérgica inmediata.",
+        "E": "Formación de complejos antígeno-anticuerpo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La inmunidad celular es fundamental en varios procesos, entre los que se incluyen el rechazo primario de trasplantes de órganos, la detección y destrucción de células transformadas (cancerosas) y la eliminación de microorganismos que viven dentro de las células.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_006",
+      "pregunta": "¿A través de qué tipo de molécula presentan los antígenos las células infectadas por virus a los linfocitos T citotóxicos (CD8+)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Proteínas MHC de clase II",
+        "B": "Anticuerpos de superficie",
+        "C": "Receptores de citoquinas",
+        "D": "Proteínas MHC de clase I",
+        "E": "Receptor FAS"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las células infectadas por virus o que se han vuelto malignas presentan fragmentos de antígenos internos (virales o tumorales) en su superficie, anclados a proteínas del Complejo Mayor de Histocompatibilidad (MHC) de clase I. Este complejo es reconocido específicamente por los linfocitos T citotóxicos (CD8+).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_007",
+      "pregunta": "¿Cuál es la consecuencia directa de que un linfocito T auxiliar (CD4+) reconozca un antígeno presentado por un macrófago?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La destrucción inmediata del macrófago.",
+        "B": "La liberación de citoquinas que estimulan la proliferación de linfocitos.",
+        "C": "La conversión del linfocito T en un linfocito B.",
+        "D": "El bloqueo de la capacidad fagocítica del macrófago.",
+        "E": "La producción de perforinas para atacar al macrófago."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando un linfocito T auxiliar (CD4+) interactúa con una célula presentadora de antígenos (como un macrófago), se activa y libera citoquinas. Estas moléculas actúan como señales que inducen la proliferación de los propios linfocitos T y, además, potencian la actividad de las células presentadoras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_008",
+      "pregunta": "Los linfocitos T citotóxicos (CD8+) eliminan a las células diana mediante la inyección de enzimas citotóxicas. ¿Cuáles son estas enzimas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Lisoenzimas y catalasas",
+        "B": "Interleucinas y citoquinas",
+        "C": "Fragmentinas y perforinas",
+        "D": "Histaminas y heparinas",
+        "E": "Amilasas y lipasas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para matar a una célula infectada o tumoral, el linfocito T citotóxico (CD8+) le inyecta un cóctel de enzimas. Las perforinas crean poros en la membrana celular, mientras que las fragmentinas ingresan a la célula a través de esos poros y activan las vías de la apoptosis o muerte celular programada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_009",
+      "pregunta": "¿Qué molécula de presentación de antígenos es reconocida por los linfocitos T auxiliares (CD4+)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El receptor TCR del propio linfocito.",
+        "B": "Proteínas MHC de clase I.",
+        "C": "Antígenos libres en el plasma.",
+        "D": "Proteínas MHC de clase II.",
+        "E": "El receptor FAS en células diana."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos T auxiliares (CD4+) están especializados en reconocer fragmentos de antígenos que son presentados por células presentadoras de antígenos (como macrófagos) a través de las proteínas del Complejo Mayor de Histocompatibilidad (MHC) de clase II.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_010",
+      "pregunta": "Además de matar a la célula diana, ¿qué otra respuesta desencadena un linfocito T citotóxico (CD8+) al reconocer un antígeno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se transforma en una célula presentadora de antígenos.",
+        "B": "Secreta interleucinas para inducir la proliferación de otros linfocitos T.",
+        "C": "Fagocita los restos de la célula destruida.",
+        "D": "Viaja al timo para madurar nuevamente.",
+        "E": "Comienza a producir anticuerpos específicos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El linfocito T citotóxico tiene una doble respuesta. Por un lado, elimina a la célula infectada o maligna. Por otro lado, secreta citoquinas, específicamente interleucinas, que actúan como una señal para estimular la proliferación de más linfocitos T con la misma especificidad antigénica, amplificando así la respuesta inmune.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_011",
+      "pregunta": "¿Cuál es la función específica de las fragmentinas en el proceso de citotoxicidad mediada por células T?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Crear poros en la membrana de la célula diana.",
+        "B": "Activar la proliferación de linfocitos T auxiliares.",
+        "C": "Unirse al receptor FAS de la célula diana.",
+        "D": "Desencadenar los mecanismos de muerte celular programada (apoptosis).",
+        "E": "Señalar a los macrófagos para que fagociten la célula."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una vez que las perforinas han creado canales en la membrana de la célula objetivo, las fragmentinas (también llamadas granzimas) ingresan al citoplasma y activan una cascada de enzimas que conduce a la apoptosis, una forma ordenada de muerte celular que evita la liberación de contenidos intracelulares dañinos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_012",
+      "pregunta": "¿De dónde proceden generalmente los fragmentos antigénicos que presenta un macrófago a un linfocito T auxiliar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "De proteínas propias del macrófago.",
+        "B": "De la digestión parcial de microorganismos fagocitados.",
+        "C": "De la producción interna de proteínas virales.",
+        "D": "De la superficie de otras células inmunitarias.",
+        "E": "De anticuerpos que se han unido al macrófago."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los macrófagos son células presentadoras de antígenos profesionales. Cuando fagocitan un patógeno (como una bacteria), lo digieren en fragmentos pequeños. Luego, exponen estos fragmentos en su superficie, a través de moléculas MHC de clase II, para presentarlos a los linfocitos T auxiliares (CD4+) y activar la respuesta inmune.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_013",
+      "pregunta": "Un individuo sufre una infección por un virus que se replica en el interior de sus hepatocitos (células del hígado). ¿Qué evento inmunitario celular es fundamental para eliminar estas células infectadas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La activación de linfocitos T auxiliares (CD4+) por los hepatocitos, que liberan citoquinas.",
+        "B": "La fagocitosis de los hepatocitos infectados por parte de los macrófagos.",
+        "C": "La producción de anticuerpos que penetran en los hepatocitos para neutralizar el virus.",
+        "D": "El reconocimiento de antígenos virales en MHC de clase I por linfocitos T citotóxicos (CD8+).",
+        "E": "La liberación de histamina por las células Natural Killer para destruir los hepatocitos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando un virus infecta una célula como un hepatocito, la célula presenta fragmentos de proteínas virales en su superficie a través de moléculas MHC de clase I. Este complejo es la señal específica que los linfocitos T citotóxicos (CD8+) reconocen para identificar y destruir la célula infectada, deteniendo así la propagación del virus.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_014",
+      "pregunta": "Si una enfermedad genética impidiera la expresión funcional de las proteínas MHC de clase II en los macrófagos y otras células presentadoras, ¿cuál sería la consecuencia inmunológica más directa?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los linfocitos T citotóxicos (CD8+) no podrían reconocer y eliminar células tumorales.",
+        "B": "Los linfocitos T auxiliares (CD4+) no podrían ser activados eficazmente.",
+        "C": "Los linfocitos T no podrían madurar correctamente en el timo.",
+        "D": "Las células Natural Killer perderían su capacidad citotóxica.",
+        "E": "Las células infectadas por virus no podrían ser detectadas por el sistema inmune."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las proteínas MHC de clase II son esenciales para que las células presentadoras de antígenos muestren los péptidos de patógenos exógenos a los linfocitos T auxiliares (CD4+). Sin MHC de clase II funcionales, esta presentación no puede ocurrir, lo que resulta en una falla grave en la activación de los linfocitos T auxiliares, que son cruciales para orquestar gran parte de la respuesta inmunitaria adaptativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_156_015",
+      "pregunta": "Analizando la función de los linfocitos T, ¿cuál es la diferencia fundamental en el origen del antígeno que activa a un linfocito CD4+ en comparación con un CD8+?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los CD4+ responden a antígenos bacterianos y los CD8+ a antígenos virales, exclusivamente.",
+        "B": "Los CD4+ responden a antígenos extracelulares procesados, mientras que los CD8+ responden a antígenos intracelulares.",
+        "C": "Los CD4+ son activados por antígenos en la médula ósea y los CD8+ en el timo.",
+        "D": "Los CD4+ reconocen antígenos completos, mientras que los CD8+ solo reconocen fragmentos.",
+        "E": "No hay diferencia en el origen, solo en la célula que lo presenta."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia clave radica en la procedencia del antígeno. Los linfocitos T CD4+ (auxiliares) se activan por antígenos que se originaron fuera de la célula presentadora (extracelulares), fueron fagocitados y luego presentados en MHC de clase II. En cambio, los linfocitos T CD8+ (citotóxicos) se activan por antígenos generados dentro de la propia célula (intracelulares), como proteínas virales o tumorales, que son presentados en MHC de clase I.",
+      "imagen": null
+    }
+  ]
+}

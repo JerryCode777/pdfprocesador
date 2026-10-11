@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 150,
+  "total_temas": 320,
+  "titulo_tema": "Vía Clásica",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_150_001",
+      "pregunta": "¿Qué es el sistema del complemento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un conjunto de aproximadamente 30 proteínas que promueven la inflamación, fagocitosis y lisis celular.",
+        "B": "Un grupo de anticuerpos especializados en la destrucción de bacterias.",
+        "C": "Un mecanismo exclusivo de la inmunidad adquirida para reconocer antígenos.",
+        "D": "Un conjunto de células fagocíticas como los macrófagos y neutrófilos.",
+        "E": "Un sistema de señalización hormonal que regula la respuesta inmune."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El sistema del complemento se define como un conjunto de aproximadamente 30 proteínas. Sus funciones principales incluyen la promoción de la inflamación, el marcado de patógenos para la fagocitosis y la lisis (destrucción) directa de células, además de modular la inmunidad adquirida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_002",
+      "pregunta": "¿Cuál es el evento inicial que desencadena la Vía Clásica del complemento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La unión de lectinas a las manosas de una pared bacteriana.",
+        "B": "La activación directa de C3 por moléculas de paredes fúngicas.",
+        "C": "La formación de un complejo entre un antígeno y un anticuerpo.",
+        "D": "La activación espontánea del componente C5.",
+        "E": "La presencia de los factores D, H e I en la superficie de un patógeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Vía Clásica se inicia específicamente cuando se forma un complejo entre un antígeno (como una molécula en la superficie de un patógeno) y su anticuerpo correspondiente. Esta unión es el detonante que activa el primer componente de esta vía, C1.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_003",
+      "pregunta": "En la cascada de la Vía Clásica, ¿qué función principal cumple el fragmento C3b?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Actúa como una anafilotoxina proinflamatoria.",
+        "B": "Actúa como una opsonina.",
+        "C": "Inicia la formación del complejo antígeno-anticuerpo.",
+        "D": "Se une directamente a C9 para lisar la célula.",
+        "E": "Inhibe la activación de la convertasa C3."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando la convertasa C3 se activa, fragmenta la proteína C3 en C3a y C3b. El fragmento C3b tiene la función de actuar como una opsonina, lo que significa que se adhiere a la superficie de los patógenos para marcarlos y facilitar su fagocitosis por células inmunes. C3a, en cambio, es una anafilotoxina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_004",
+      "pregunta": "¿Cuál de las siguientes describe la función del fragmento C3a?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Formar la convertasa C5.",
+        "B": "Unirse a C6, C7, C8 y C9.",
+        "C": "Actuar como opsonina para la fagocitosis.",
+        "D": "Ser una anafilotoxina proinflamatoria que activa mastocitos.",
+        "E": "Activar directamente el componente C1."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El fragmento C3a, generado por la acción de la convertasa C3, funciona como una anafilotoxina proinflamatoria. Su papel es reclutar células inmunes al sitio de la infección y activar mastocitos, lo que contribuye a la respuesta inflamatoria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_005",
+      "pregunta": "¿Qué componentes se unen secuencialmente a C5b para formar el Complejo de Ataque a la Membrana?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "C1, C2 y C4.",
+        "B": "C3a y C5a.",
+        "C": "Factores D, H e I.",
+        "D": "C6, C7, C8 y C9.",
+        "E": "Antígeno y anticuerpo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una vez que se genera C5b, este inicia el ensamblaje del Complejo de Ataque a la Membrana (MAC). Para ello, se une secuencialmente a los componentes C6, C7, C8 y finalmente a múltiples moléculas de C9, formando una estructura de poro que lisa la célula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_006",
+      "pregunta": "En la Vía Clásica, ¿cuál es la secuencia correcta de activación que conduce a la formación de la convertasa C3?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Complejo antígeno-anticuerpo → C1 → C2 → C4",
+        "B": "Complejo antígeno-anticuerpo → C4 → C2 → C1",
+        "C": "Complejo antígeno-anticuerpo → C1 → C4 → C2",
+        "D": "Lectina → C2 → C4 → Complejo antígeno-anticuerpo",
+        "E": "Factores D, H, I → C3b → C1"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Vía Clásica sigue un orden de activación estricto. Primero, el complejo antígeno-anticuerpo activa a C1. Luego, C1 activado actúa sobre C4, y este a su vez sobre C2. El complejo resultante de la activación de C4 y C2 es el que forma la enzima convertasa C3.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_007",
+      "pregunta": "¿Cuál es el evento central y común que resulta de la activación de las tres vías del complemento (Clásica, Alternativa y de la Lectina)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La unión de un anticuerpo a un antígeno.",
+        "B": "La formación y activación de la convertasa C3.",
+        "C": "La activación inicial del componente C1.",
+        "D": "La unión de lectinas a manosas bacterianas.",
+        "E": "La activación de los factores D, H e I."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque las tres vías (Clásica, Alternativa y de la Lectina) se inician por diferentes estímulos, todas convergen en un punto crucial: la formación de una enzima activa llamada convertasa C3. La activación de esta enzima es el paso central que amplifica la cascada y conduce a los efectos finales del complemento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_008",
+      "pregunta": "¿Qué papel juega el componente C1 específicamente en la Vía Clásica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se fragmenta en C1a y C1b para activar mastocitos.",
+        "B": "Es el componente final que forma el poro en la membrana celular.",
+        "C": "Actúa como opsonina para facilitar la fagocitosis.",
+        "D": "Se activa por el complejo antígeno-anticuerpo y a su vez activa a C4 y C2.",
+        "E": "Forma la convertasa C5 junto con el fragmento C3b."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El componente C1 es el sensor inicial de la Vía Clásica. Se une al complejo antígeno-anticuerpo, lo que provoca su propia activación. Una vez activo, C1 funciona como una enzima que desencadena la siguiente etapa de la cascada al activar los componentes C4 y C2.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_009",
+      "pregunta": "¿Cuál es la relación secuencial entre la convertasa C3 y la convertasa C5?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas se activan simultáneamente por el componente C1.",
+        "B": "La convertasa C5 se fragmenta para formar la convertasa C3.",
+        "C": "El fragmento C3b, un producto de la convertasa C3, es necesario para formar y activar la convertasa C5.",
+        "D": "Son la misma enzima con diferentes nombres dependiendo de la vía de activación.",
+        "E": "La convertasa C3 inhibe la acción de la convertasa C5 para regular la respuesta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La activación de las convertasas ocurre en una secuencia. Primero, la convertasa C3 se activa y produce C3b. Luego, este fragmento C3b se une al complejo enzimático para formar la convertasa C5. Por lo tanto, la actividad de la convertasa C3 es un prerrequisito para la activación de la convertasa C5.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_010",
+      "pregunta": "Además de C3a, ¿qué otro fragmento del complemento se describe con una función anafilotóxica que activa mastocitos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "C4a",
+        "B": "C5a",
+        "C": "C3b",
+        "D": "C5b",
+        "E": "C2b"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Tanto C3a como C5a son fragmentos pequeños liberados durante la cascada del complemento y se conocen como anafilotoxinas. Ambos tienen potentes efectos proinflamatorios, incluyendo la capacidad de activar mastocitos para que liberen mediadores como la histamina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_011",
+      "pregunta": "¿Qué diferencia fundamental existe entre la activación inicial de la Vía de la Lectina y la Vía Clásica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La Vía de la Lectina activa directamente a C3, mientras que la Clásica activa a C1.",
+        "B": "La Vía Clásica requiere anticuerpos, mientras que la de la Lectina se inicia por la unión de lectinas a manosas.",
+        "C": "La Vía de la Lectina no utiliza C2 ni C4, a diferencia de la Vía Clásica.",
+        "D": "La Vía Clásica conduce a la lisis celular, pero la Vía de la Lectina no.",
+        "E": "La Vía de la Lectina es activada por los Factores D, H e I, y la Clásica por C1."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La principal diferencia radica en su molécula de reconocimiento inicial. La Vía Clásica depende de la inmunidad adquirida, ya que necesita anticuerpos preexistentes unidos a un antígeno. En cambio, la Vía de la Lectina es parte de la inmunidad innata y se activa cuando proteínas llamadas lectinas reconocen patrones moleculares como las manosas en la superficie de las bacterias.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_012",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe de manera más completa las funciones del sistema del complemento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su única función es producir anticuerpos para neutralizar toxinas.",
+        "B": "Su objetivo se limita a la lisis celular directa a través del Complejo de Ataque a la Membrana.",
+        "C": "Promueve la inflamación, la fagocitosis y la lisis celular, además de modular la inmunidad adquirida.",
+        "D": "Actúa principalmente inhibiendo la respuesta inmune para prevenir la autoinmunidad.",
+        "E": "Es un sistema compuesto por células T y células B que patrullan el organismo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema del complemento tiene múltiples funciones efectoras. No se limita a una sola acción, sino que coordina una respuesta integral que incluye: atraer células inmunes mediante la inflamación (C3a, C5a), facilitar la eliminación de patógenos mediante fagocitosis (opsonización por C3b) y destruir células directamente (lisis por el MAC). También influye en la respuesta de la inmunidad adquirida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_013",
+      "pregunta": "Si un individuo presenta una deficiencia genética que impide la producción funcional del componente C4, ¿qué vía o vías de activación del complemento se verían directamente afectadas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Únicamente la Vía Alternativa.",
+        "B": "Únicamente la Vía de la Lectina.",
+        "C": "La Vía Clásica y la Vía de la Lectina.",
+        "D": "Las tres vías: Clásica, Alternativa y de la Lectina.",
+        "E": "Ninguna vía, ya que C4 es un componente terminal."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El componente C4 es crucial para dos de las tres vías. En la Vía Clásica, C1 activa a C4. En la Vía de la Lectina, el complejo de lectinas activado también actúa sobre C4. En ambos casos, C4 y C2 son necesarios para formar la convertasa C3. La Vía Alternativa no utiliza C1, C2 ni C4 en sus pasos iniciales, por lo que no se vería directamente afectada por una deficiencia de C4.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_014",
+      "pregunta": "La opsonización es un proceso que marca a los patógenos para facilitar su fagocitosis. Basado en la cascada del complemento descrita, ¿qué componente es el principal responsable de esta función?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El complejo C1",
+        "B": "El fragmento C5a",
+        "C": "El componente C9",
+        "D": "El fragmento C3b",
+        "E": "El fragmento C3a"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El texto indica explícitamente que C3b, uno de los productos de la fragmentación de C3 por la convertasa C3, actúa como una opsonina. Una opsonina es una molécula que se une a la superficie de un patógeno y lo 'marca' para que sea reconocido y engullido más eficientemente por células fagocíticas como los macrófagos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_150_015",
+      "pregunta": "¿Cuál es la consecuencia biológica final de la formación del complejo que involucra a C5b, C6, C7, C8 y C9 en la membrana de una célula?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La activación de mastocitos y la liberación de mediadores inflamatorios.",
+        "B": "La amplificación masiva de la producción de convertasa C3.",
+        "C": "La promoción de la lisis celular.",
+        "D": "La opsonización de la célula para su posterior fagocitosis.",
+        "E": "La inactivación de la cascada del complemento para proteger los tejidos propios."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ensamblaje de C5b, C6, C7, C8 y C9 forma el Complejo de Ataque a la Membrana (MAC). Esta estructura crea un poro transmembrana en la célula objetivo, lo que interrumpe su equilibrio osmótico y provoca la entrada incontrolada de agua y la salida de componentes vitales, culminando en la lisis (ruptura) de la célula. Esta es una de las funciones efectoras primarias de todo el sistema del complemento.",
+      "imagen": null
+    }
+  ]
+}

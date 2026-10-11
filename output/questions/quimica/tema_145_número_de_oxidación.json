@@ -6,22 +6,22 @@
   "preguntas": [
     {
       "id_temporal": "quimica_145_001",
-      "pregunta": "¿Cuál es la definición del número o estado de oxidación de un átomo?",
+      "pregunta": "¿Qué representa conceptualmente el número de oxidación de un átomo?",
       "dificultad": 1,
       "opciones": {
-        "A": "El número total de electrones en el átomo.",
-        "B": "La carga que tendría un átomo si los electrones fueran transferidos completamente.",
-        "C": "El número de protones en el núcleo del átomo.",
-        "D": "La suma de protones y neutrones.",
-        "E": "La cantidad de electrones en la capa de valencia."
+        "A": "El número total de electrones que posee el átomo.",
+        "B": "La carga que tendría un átomo si los electrones de sus enlaces se transfirieran completamente.",
+        "C": "El número de protones en el núcleo atómico.",
+        "D": "La capa de valencia en la que se encuentran sus electrones.",
+        "E": "La suma de neutrones y protones del átomo."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El número de oxidación se define como la carga hipotética que un átomo tendría dentro de una molécula o compuesto iónico si se asumiera que todos los enlaces fueran 100% iónicos, lo que implica una transferencia completa de electrones. Las otras opciones describen el número atómico, el número másico o la configuración electrónica, pero no el estado de oxidación.",
+      "explicacion": "El número de oxidación, o estado de oxidación, es un concepto que define la carga hipotética que un átomo tendría en un compuesto si todos los electrones de los enlaces se asignaran al átomo más electronegativo, es decir, si fueran transferidos completamente. No corresponde al número de protones, electrones totales ni a la masa atómica.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_002",
-      "pregunta": "¿Cuál es el estado de oxidación común para los metales del grupo 1 como el Litio ($$Li$$) y el Sodio ($$Na$$)?",
+      "pregunta": "¿Cuál es el estado de oxidación común para metales alcalinos como Sodio (Na), Potasio (K) y Plata (Ag)?",
       "dificultad": 1,
       "opciones": {
         "A": "$$+2$$",
@@ -31,12 +31,12 @@
         "E": "$$+3$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Los metales alcalinos, que incluyen al Litio ($$Li$$), Sodio ($$Na$$), Potasio ($$K$$), Rubidio ($$Rb$$) y Cesio ($$Cs$$), tienden a perder un electrón para alcanzar una configuración electrónica estable, por lo que su estado de oxidación común es $$+1$$. La Plata ($$Ag$$) también comparte este estado de oxidación.",
+      "explicacion": "Los metales como Litio (Li), Sodio (Na), Potasio (K), Rubidio (Rb), Cesio (Cs) y Plata (Ag) se caracterizan por tener un estado de oxidación constante de $$+1$$. Esto se debe a que tienden a perder un electrón para alcanzar una configuración electrónica más estable.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_003",
-      "pregunta": "¿Qué número de oxidación presentan comúnmente metales como el Calcio ($$Ca$$) y el Zinc ($$Zn$$)?",
+      "pregunta": "Para los metales alcalinotérreos como Magnesio (Mg), Calcio (Ca) y Bario (Ba), ¿cuál es su número de oxidación característico?",
       "dificultad": 1,
       "opciones": {
         "A": "$$+1$$",
@@ -46,12 +46,12 @@
         "E": "$$+4$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los metales alcalinotérreos como el Calcio ($$Ca$$), Magnesio ($$Mg$$), Bario ($$Ba$$), etc., así como el Zinc ($$Zn$$) y el Cadmio ($$Cd$$), tienen como estado de oxidación característico el $$+2$$, ya que tienden a perder dos electrones para formar cationes divalentes.",
+      "explicacion": "El Magnesio (Mg), Calcio (Ca), Estroncio (Sr), Bario (Ba), así como el Zinc (Zn) y el Cadmio (Cd), presentan de forma consistente un número de oxidación de $$+2$$ en sus compuestos, ya que ceden sus dos electrones de valencia.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_004",
-      "pregunta": "De acuerdo con los datos, ¿cuál es el único estado de oxidación que presenta el Flúor ($$F$$)?",
+      "pregunta": "¿Cuál es el único estado de oxidación indicado para el no metal Flúor (F)?",
       "dificultad": 1,
       "opciones": {
         "A": "$$+1$$",
@@ -61,172 +61,172 @@
         "E": "$$-1$$"
       },
       "respuesta_correcta": "E",
-      "explicacion": "El Flúor ($$F$$) es el elemento más electronegativo, lo que significa que tiene una gran tendencia a atraer electrones. En sus compuestos, su estado de oxidación es consistentemente $$-1$$.",
+      "explicacion": "El Flúor (F) es el elemento más electronegativo, lo que significa que en todos sus compuestos atrae electrones de otros átomos. Por esta razón, su único estado de oxidación es $$-1$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_005",
-      "pregunta": "¿Cuál es el estado de oxidación característico del Aluminio ($$Al$$)?",
+      "pregunta": "El Aluminio (Al), el Galio (Ga) y el Indio (In) son metales que comparten un único estado de oxidación. ¿Cuál es?",
       "dificultad": 1,
       "opciones": {
         "A": "$$+1$$",
         "B": "$$+2$$",
-        "C": "$$+3$$",
-        "D": "$$+4$$",
-        "E": "$$-3$$"
+        "C": "$$+4$$",
+        "D": "$$+3$$",
+        "E": "$$+5$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El Aluminio ($$Al$$), junto con otros elementos de su grupo como el Galio ($$Ga$$) y el Indio ($$In$$), así como el Escandio ($$Sc$$), presenta un único estado de oxidación común de $$+3$$, correspondiente a la pérdida de sus tres electrones de valencia.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los metales Aluminio (Al), Galio (Ga), Indio (In) y Escandio (Sc) se caracterizan por tener un estado de oxidación fijo de $$+3$$, correspondiente a la pérdida de sus tres electrones de valencia.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_006",
-      "pregunta": "¿Qué par de metales comparten los estados de oxidación $$+2$$ y $$+3$$?",
+      "pregunta": "¿Qué par de elementos pueden ambos exhibir un estado de oxidación de $$+2$$ y $$+3$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Cobre ($$Cu$$) y Mercurio ($$Hg$$)",
-        "B": "Estaño ($$Sn$$) y Plomo ($$Pb$$)",
-        "C": "Hierro ($$Fe$$) y Cobalto ($$Co$$)",
-        "D": "Oro ($$Au$$) y Talio ($$Tl$$)",
-        "E": "Zinc ($$Zn$$) y Cadmio ($$Cd$$)"
+        "A": "Cobre (Cu) y Mercurio (Hg)",
+        "B": "Hierro (Fe) y Cobalto (Co)",
+        "C": "Estaño (Sn) y Plomo (Pb)",
+        "D": "Oro (Au) y Talio (Tl)",
+        "E": "Magnesio (Mg) y Calcio (Ca)"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El Hierro ($$Fe$$) y el Cobalto ($$Co$$), junto con el Níquel ($$Ni$$), son metales de transición que comúnmente exhiben los estados de oxidación $$+2$$ y $$+3$$. Las otras opciones son incorrectas porque: Cu y Hg tienen $$+1$$ y $$+2$$; Sn y Pb tienen $$+2$$ y $$+4$$; Au y Tl tienen $$+1$$ y $$+3$$; y Zn y Cd solo tienen $$+2$$.",
+      "respuesta_correcta": "B",
+      "explicacion": "Tanto el Hierro (Fe) como el Cobalto (Co) y el Níquel (Ni) comparten los estados de oxidación $$+2$$ y $$+3$$. Las otras opciones son incorrectas: Cu y Hg comparten $$+1$$ y $$+2$$; Sn y Pb comparten $$+2$$ y $$+4$$; Au y Tl comparten $$+1$$ y $$+3$$; y Mg y Ca solo tienen $$+2$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_007",
-      "pregunta": "¿Cuál de los siguientes elementos metálicos presenta un único estado de oxidación de $$+1$$?",
+      "pregunta": "¿Cuál de los siguientes no metales puede presentar tanto estados de oxidación positivos como negativos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Cobre ($$Cu$$)",
-        "B": "Hierro ($$Fe$$)",
-        "C": "Oro ($$Au$$)",
-        "D": "Plata ($$Ag$$)",
-        "E": "Mercurio ($$Hg$$)"
+        "A": "Flúor (F)",
+        "B": "Sodio (Na)",
+        "C": "Hidrógeno (H)",
+        "D": "Calcio (Ca)",
+        "E": "Plata (Ag)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "De la lista proporcionada, la Plata ($$Ag$$) es el único metal que tiene como estado de oxidación común y único el valor de $$+1$$. Los otros elementos son metales con valencia variable: Cobre ($$+1, +2$$), Hierro ($$+2, +3$$), Oro ($$+1, +3$$) y Mercurio ($$+1, +2$$).",
+      "respuesta_correcta": "C",
+      "explicacion": "El Hidrógeno (H) puede actuar con un estado de oxidación de $$+1$$ cuando se combina con no metales (más electronegativos) y con $$-1$$ cuando se combina con metales (menos electronegativos), formando hidruros. El Boro (B) es otro no metal con esta capacidad ($$-3, +3$$). El Flúor solo tiene $$-1$$, y los metales listados (Na, Ca, Ag) solo tienen estados positivos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_008",
-      "pregunta": "¿Cuáles son los dos estados de oxidación que puede presentar el Hidrógeno ($$H$$)?",
+      "pregunta": "Los elementos Estaño (Sn), Plomo (Pb), Paladio (Pd) y Platino (Pt) tienen un conjunto común de estados de oxidación. ¿Cuál es?",
       "dificultad": 2,
       "opciones": {
-        "A": "Únicamente $$+1$$",
-        "B": "$$+1$$ y $$+2$$",
-        "C": "$$-1$$ y $$-2$$",
-        "D": "$$0$$ y $$+1$$",
-        "E": "$$+1$$ y $$-1$$"
+        "A": "$$+1, +2$$",
+        "B": "$$+1, +3$$",
+        "C": "$$+2, +3$$",
+        "D": "$$+2, +4$$",
+        "E": "$$+3, +6$$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El Hidrógeno ($$H$$) es un elemento versátil. Cuando se combina con no metales (que son más electronegativos), su estado de oxidación es $$+1$$. Cuando se combina con metales (que son menos electronegativos) para formar hidruros metálicos, su estado de oxidación es $$-1$$.",
+      "respuesta_correcta": "D",
+      "explicacion": "El grupo de elementos formado por Estaño (Sn), Plomo (Pb), Paladio (Pd) y Platino (Pt) se caracteriza por presentar los estados de oxidación $$+2$$ y $$+4$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_009",
-      "pregunta": "Identifique el elemento que puede tener los estados de oxidación $$+2$$ y $$+4$$.",
+      "pregunta": "Además de su estado más común de $$-2$$, ¿cuál de los siguientes valores NO es un estado de oxidación posible para el Oxígeno (O)?",
       "dificultad": 2,
       "opciones": {
-        "A": "Hierro ($$Fe$$)",
-        "B": "Estaño ($$Sn$$)",
-        "C": "Cobre ($$Cu$$)",
-        "D": "Aluminio ($$Al$$)",
-        "E": "Cromo ($$Cr$$)"
+        "A": "$$-1$$",
+        "B": "$$+\\frac{1}{2}$$",
+        "C": "$$+2$$",
+        "D": "$$-\\frac{1}{2}$$",
+        "E": "Todos son posibles"
       },
       "respuesta_correcta": "B",
-      "explicacion": "El Estaño ($$Sn$$), junto con el Plomo ($$Pb$$), Paladio ($$Pd$$) y Platino ($$Pt$$), son elementos que característicamente pueden actuar con estados de oxidación de $$+2$$ y $$+4$$. Los otros elementos tienen diferentes combinaciones: Fe ($$+2, +3$$), Cu ($$+1, +2$$), Al ($$+3$$) y Cr ($$+2, +3, +6$$).",
+      "explicacion": "Los estados de oxidación listados para el Oxígeno (O) son $$-2$$ (óxidos), $$-1$$ (peróxidos), $$-\\frac{1}{2}$$ (superóxidos) y $$+2$$ (en OF₂). El valor $$+\\frac{1}{2}$$ no corresponde a un estado de oxidación conocido para el oxígeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_010",
-      "pregunta": "De los metales listados, ¿cuál presenta la mayor cantidad de estados de oxidación diferentes?",
+      "pregunta": "¿Cuál de los siguientes metales puede tener un estado de oxidación de $$+1$$, pero no de $$+3$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Vanadio ($$V$$)",
-        "B": "Cromo ($$Cr$$)",
-        "C": "Hierro ($$Fe$$)",
-        "D": "Manganeso ($$Mn$$)",
-        "E": "Plomo ($$Pb$$)"
+        "A": "Oro (Au)",
+        "B": "Talio (Tl)",
+        "C": "Hierro (Fe)",
+        "D": "Aluminio (Al)",
+        "E": "Cobre (Cu)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Al comparar la cantidad de estados de oxidación listados para cada metal, el Manganeso ($$Mn$$) es el que presenta la mayor variedad, con cinco estados diferentes: $$+2$$, $$+3$$, $$+4$$, $$+6$$ y $$+7$$. El Vanadio ($$V$$) tiene cuatro ($$+2, +3, +4, +5$$), el Cromo ($$Cr$$) tiene tres ($$+2, +3, +6$$), y el Hierro ($$Fe$$) y el Plomo ($$Pb$$) tienen dos cada uno.",
+      "respuesta_correcta": "E",
+      "explicacion": "El Cobre (Cu) tiene estados de oxidación $$+1$$ y $$+2$$. El Oro (Au) y el Talio (Tl) tienen $$+1$$ y $$+3$$. El Hierro (Fe) tiene $$+2$$ y $$+3$$, y el Aluminio (Al) solo tiene $$+3$$. Por lo tanto, el Cobre es el único de la lista que tiene $$+1$$ pero no $$+3$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_011",
-      "pregunta": "¿Qué no metal, además del Oxígeno ($$O$$) y el Hidrógeno ($$H$$), puede tener tanto estados de oxidación positivos como negativos?",
+      "pregunta": "Los metales Cromo (Cr) y Manganeso (Mn) son conocidos por su capacidad de tener múltiples estados de oxidación. ¿Qué estado de oxidación tienen en común?",
       "dificultad": 2,
       "opciones": {
-        "A": "Flúor ($$F$$)",
-        "B": "Boro ($$B$$)",
-        "C": "Sodio ($$Na$$)",
-        "D": "Calcio ($$Ca$$)",
-        "E": "Ninguno de los mencionados"
+        "A": "$$+7$$",
+        "B": "$$+5$$",
+        "C": "$$+4$$",
+        "D": "$$+2$$",
+        "E": "$$+1$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El Boro ($$B$$) es un no metal que puede exhibir un estado de oxidación negativo ($$-3$$) y uno positivo ($$+3$$), dependiendo de con qué elementos se combine. El Flúor ($$F$$) solo presenta $$-1$$. El Sodio ($$Na$$) y el Calcio ($$Ca$$) son metales y solo presentan estados de oxidación positivos.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los estados de oxidación del Cromo (Cr) son $$+2, +3, +6$$. Los del Manganeso (Mn) son $$+2, +3, +4, +6, +7$$. Comparando ambas listas, se observa que ambos elementos pueden presentar los estados de oxidación $$+2$$, $$+3$$ y $$+6$$. De las opciones proporcionadas, $$+2$$ es un estado que ambos comparten.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_012",
-      "pregunta": "¿Cuáles son los estados de oxidación posibles para el Cobre ($$Cu$$) y el Mercurio ($$Hg$$)?",
+      "pregunta": "¿Qué elemento metálico se caracteriza por tener los estados de oxidación $$+1$$ y $$+2$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$+1$$ y $$+3$$",
-        "B": "$$+2$$ y $$+3$$",
-        "C": "$$+2$$ y $$+4$$",
-        "D": "$$+1$$ y $$+2$$",
-        "E": "Solo $$+2$$"
+        "A": "Plata (Ag)",
+        "B": "Zinc (Zn)",
+        "C": "Mercurio (Hg)",
+        "D": "Sodio (Na)",
+        "E": "Hierro (Fe)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Tanto el Cobre ($$Cu$$) como el Mercurio ($$Hg$$) son metales de transición que tienen dos estados de oxidación comunes: $$+1$$ (cuproso/mercuroso) y $$+2$$ (cúprico/mercúrico).",
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto el Cobre (Cu) como el Mercurio (Hg) presentan los estados de oxidación $$+1$$ y $$+2$$. La Plata (Ag) y el Sodio (Na) solo tienen $$+1$$. El Zinc (Zn) solo tiene $$+2$$. El Hierro (Fe) tiene $$+2$$ y $$+3$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_013",
-      "pregunta": "Un elemento metálico es capaz de formar un compuesto donde su estado de oxidación es $$+5$$. ¿A qué elemento de la lista corresponde?",
+      "pregunta": "Entre el Vanadio (V), Cromo (Cr) y Manganeso (Mn), ¿cuál de ellos alcanza el estado de oxidación positivo más alto?",
       "dificultad": 3,
       "opciones": {
-        "A": "Manganeso ($$Mn$$)",
-        "B": "Cromo ($$Cr$$)",
-        "C": "Hierro ($$Fe$$)",
-        "D": "Vanadio ($$V$$)",
-        "E": "Platino ($$Pt$$)"
+        "A": "Vanadio (V)",
+        "B": "Cromo (Cr)",
+        "C": "Manganeso (Mn)",
+        "D": "Todos alcanzan el mismo máximo ($$+6$$)",
+        "E": "Tanto Cr como Mn alcanzan el máximo ($$+7$$)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Al revisar la lista de estados de oxidación, el Vanadio ($$V$$) es el único elemento que tiene $$+5$$ como uno de sus posibles estados ($$+2, +3, +4, +5$$). Aunque el Manganeso y el Cromo tienen estados de oxidación altos ($$+7$$ y $$+6$$ respectivamente), no se lista que tengan el estado $$+5$$. El Hierro y el Platino no alcanzan este estado de oxidación.",
+      "respuesta_correcta": "C",
+      "explicacion": "Al analizar los estados de oxidación máximos para cada elemento: el Vanadio (V) llega hasta $$+5$$, el Cromo (Cr) llega hasta $$+6$$, y el Manganeso (Mn) es el que alcanza el estado de oxidación más elevado del grupo, con un valor de $$+7$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_014",
-      "pregunta": "Se sabe que un elemento metálico puede formar compuestos con estados de oxidación de $$+2$$, $$+3$$ y $$+6$$. ¿Cuál es este elemento?",
+      "pregunta": "Considerando todos los elementos listados, ¿cuál de ellos presenta la mayor cantidad de estados de oxidación diferentes?",
       "dificultad": 3,
       "opciones": {
-        "A": "Manganeso ($$Mn$$)",
-        "B": "Cromo ($$Cr$$)",
-        "C": "Hierro ($$Fe$$)",
-        "D": "Vanadio ($$V$$)",
-        "E": "Cobalto ($$Co$$)"
+        "A": "Vanadio (V)",
+        "B": "Manganeso (Mn)",
+        "C": "Oxígeno (O)",
+        "D": "Cromo (Cr)",
+        "E": "Hierro (Fe)"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Esta combinación específica de estados de oxidación ($$+2$$, $$+3$$, y $$+6$$) corresponde únicamente al Cromo ($$Cr$$). El Manganeso y el Vanadio tienen los estados $$+2$$ y $$+3$$, pero no exactamente esta combinación completa (Mn tiene más, V tiene otros diferentes). El Hierro y el Cobalto solo tienen $$+2$$ y $$+3$$ en la lista.",
+      "explicacion": "Contando los estados de oxidación para cada opción: Vanadio (V) tiene 4 ($$+2, +3, +4, +5$$); Manganeso (Mn) tiene 5 ($$+2, +3, +4, +6, +7$$); Oxígeno (O) tiene 4 ($$-2, -1, -1/2, +2$$); Cromo (Cr) tiene 3 ($$+2, +3, +6$$); y Hierro (Fe) tiene 2 ($$+2, +3$$). Por lo tanto, el Manganeso (Mn) es el elemento con la mayor variedad de estados de oxidación.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_145_015",
-      "pregunta": "¿Cuál de los siguientes elementos es único en presentar un estado de oxidación fraccionario ($$-\\frac{1}{2}$$) y también uno positivo ($$+2$$)?",
+      "pregunta": "¿Qué característica única presentan los estados de oxidación del Oxígeno (O) en comparación con los otros no metales de la lista (F, H, B)?",
       "dificultad": 3,
       "opciones": {
-        "A": "Hidrógeno ($$H$$)",
-        "B": "Flúor ($$F$$)",
-        "C": "Oxígeno ($$O$$)",
-        "D": "Boro ($$B$$)",
-        "E": "Manganeso ($$Mn$$)"
+        "A": "Es el único que puede tener un estado de oxidación positivo.",
+        "B": "Es el único que presenta un estado de oxidación fraccionario.",
+        "C": "Es el único con un estado de oxidación negativo.",
+        "D": "Es el único con más de dos estados de oxidación.",
+        "E": "Es el único que puede tener el estado de oxidación $$-2$$."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El Oxígeno ($$O$$) es excepcional por su variedad de estados de oxidación. Además de su común $$-2$$, puede formar peróxidos ($$-1$$), superóxidos ($$-\\frac{1}{2}$$) y, en compuestos con el flúor (el único elemento más electronegativo), puede tener un estado de oxidación positivo de $$+2$$. Ningún otro elemento en la lista presenta esta combinación de un estado fraccionario y uno positivo.",
+      "respuesta_correcta": "B",
+      "explicacion": "Una característica distintiva del Oxígeno (O) es la existencia del estado de oxidación $$-\\frac{1}{2}$$, que es un valor fraccionario y se encuentra en los compuestos conocidos como superóxidos. Ningún otro no metal en la lista (Flúor, Hidrógeno, Boro) presenta un estado de oxidación fraccionario. Tanto H como B pueden tener estados positivos, y todos excepto el Boro tienen estados negativos.",
       "imagen": null
     }
   ]

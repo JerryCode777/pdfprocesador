@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 95,
+  "total_temas": 137,
+  "titulo_tema": "Electrostática",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_095_001",
+      "pregunta": "¿Cuál es el objeto de estudio de la electrostática?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Las propiedades de las cargas eléctricas en movimiento constante.",
+        "B": "La interacción y las propiedades de los sistemas de cargas eléctricas en reposo.",
+        "C": "La relación entre la electricidad y el magnetismo.",
+        "D": "La generación de corriente eléctrica a partir de fuentes químicas.",
+        "E": "El comportamiento de los neutrones dentro del núcleo atómico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La electrostática es la rama de la física que se enfoca en el estudio de los sistemas de cargas eléctricas que se encuentran en estado de reposo, analizando sus propiedades y las fuerzas de interacción entre ellas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_002",
+      "pregunta": "¿Cuáles son las partículas fundamentales del átomo que poseen carga eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Protones y neutrones",
+        "B": "Electrones y neutrones",
+        "C": "Solamente los protones",
+        "D": "Protones y electrones",
+        "E": "Solamente los electrones"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Dentro de la estructura atómica, los protones tienen carga eléctrica positiva y los electrones tienen carga eléctrica negativa. Los neutrones, como su nombre indica, son eléctricamente neutros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_003",
+      "pregunta": "¿Qué condición debe cumplirse para que un cuerpo sea considerado eléctricamente neutro?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Debe tener un exceso de protones.",
+        "B": "Debe tener un exceso de electrones.",
+        "C": "Debe carecer completamente de cargas eléctricas.",
+        "D": "Debe tener el mismo número de protones que de electrones.",
+        "E": "Debe estar compuesto únicamente por neutrones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un cuerpo es eléctricamente neutro cuando la cantidad total de carga positiva (protones) es exactamente igual a la cantidad total de carga negativa (electrones), resultando en una carga neta de cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_004",
+      "pregunta": "¿Qué se conoce como el \"quantum\" de electricidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La carga total de un átomo de hidrógeno.",
+        "B": "La mínima cantidad de corriente eléctrica posible.",
+        "C": "La carga eléctrica que posee un electrón o un protón.",
+        "D": "La carga neta de un objeto macroscópico.",
+        "E": "La carga eléctrica de un neutrón."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El \"quantum\" de electricidad es la carga fundamental o mínima que existe en la naturaleza. Esta cantidad corresponde a la magnitud de la carga de una sola partícula elemental, como el electrón o el protón. Toda carga eléctrica es un múltiplo entero de este valor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_005",
+      "pregunta": "La cantidad de carga eléctrica, representada por $q$ o $Q$, es una magnitud de tipo:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vectorial",
+        "B": "Escalar",
+        "C": "Tensorial",
+        "D": "Fundamental y vectorial",
+        "E": "Adimensional"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La carga eléctrica es una magnitud escalar, lo que significa que se describe completamente con un número y su unidad correspondiente (por ejemplo, Coulombs). No tiene dirección ni sentido, a diferencia de las magnitudes vectoriales como la fuerza o la velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_006",
+      "pregunta": "¿Cómo adquiere un cuerpo macroscópico una carga neta positiva?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ganando neutrones.",
+        "B": "Teniendo un exceso de protones.",
+        "C": "Perdiendo todos sus electrones y protones.",
+        "D": "Teniendo un exceso de electrones.",
+        "E": "Manteniendo el equilibrio entre protones y electrones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un cuerpo se carga positivamente cuando tiene un desequilibrio de carga donde el número de protones (cargas positivas) es mayor que el número de electrones (cargas negativas). Esto generalmente ocurre cuando el cuerpo pierde electrones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_007",
+      "pregunta": "¿Cuál es la relación entre la magnitud de la carga de un protón y la de un electrón?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La magnitud de la carga del protón es mayor.",
+        "B": "La magnitud de la carga del electrón es mayor.",
+        "C": "No tienen ninguna relación.",
+        "D": "Tienen exactamente la misma magnitud.",
+        "E": "La carga del electrón es la mitad que la del protón."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una propiedad fundamental de las partículas atómicas es que el protón y el electrón poseen cargas de igual magnitud, aunque de signo opuesto. La carga del protón es positiva y la del electrón es negativa, pero su valor absoluto es idéntico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_008",
+      "pregunta": "La carga eléctrica es una propiedad fundamental de la materia, similar a otra propiedad fundamental que es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura.",
+        "B": "La densidad.",
+        "C": "La masa.",
+        "D": "El volumen.",
+        "E": "El color."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Así como la masa es una propiedad intrínseca y fundamental de la materia que determina su inercia y su interacción gravitacional, la carga eléctrica es otra propiedad fundamental que determina cómo la materia interactúa con los campos electromagnéticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_009",
+      "pregunta": "El origen histórico del estudio de la electricidad se asocia con la observación de que un trozo de ámbar frotado era capaz de atraer objetos ligeros. ¿Cuál es el significado de la palabra griega \"elektron\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Atracción",
+        "B": "Piedra",
+        "C": "Frotamiento",
+        "D": "Electricidad",
+        "E": "Ámbar"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El término \"electricidad\" deriva de la palabra griega \"elektron\", que significa ámbar. Este material fue el primero en el que se observaron y registraron sistemáticamente las propiedades electrostáticas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_010",
+      "pregunta": "¿Qué establece el principio de cuantización de la carga eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga eléctrica puede tomar cualquier valor real.",
+        "B": "La carga eléctrica de un cuerpo es siempre positiva.",
+        "C": "La carga eléctrica es indivisible y solo puede existir en múltiplos enteros de la carga elemental.",
+        "D": "La carga total en un sistema aislado siempre se conserva.",
+        "E": "La carga de un cuerpo depende de su temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cuantización de la carga significa que la carga eléctrica no es una cantidad continua. Existe una unidad mínima de carga (la del electrón o protón), y cualquier carga neta que un objeto pueda tener será siempre un múltiplo entero ($$1, 2, 3, ...$$) de esta unidad fundamental. No es posible encontrar una carga que sea, por ejemplo, 1.5 veces la carga del electrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_011",
+      "pregunta": "¿Cómo se determina la carga eléctrica neta de un cuerpo macroscópico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sumando el número de protones y electrones.",
+        "B": "Contando únicamente el número de electrones en su capa de valencia.",
+        "C": "Por la diferencia entre el número de protones y el número de electrones.",
+        "D": "Multiplicando el número de átomos por la carga del electrón.",
+        "E": "Contando el número total de neutrones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La carga neta de un objeto se define por el desequilibrio entre sus cargas positivas y negativas. Se calcula restando el número total de electrones del número total de protones. Si el resultado es positivo, la carga neta es positiva; si es negativo, la carga neta es negativa; y si es cero, el cuerpo es neutro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_012",
+      "pregunta": "La fórmula $$Q = \\pm n |e^-|$$ cuantifica la carga de un cuerpo. ¿Qué mide específicamente esta expresión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía potencial eléctrica del cuerpo.",
+        "B": "El número total de átomos en el cuerpo.",
+        "C": "La fuerza de atracción o repulsión que ejerce.",
+        "D": "La cantidad de electrones que un cuerpo ha ganado o perdido.",
+        "E": "La masa total de los electrones en el cuerpo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta ecuación es la expresión matemática de la cuantización de la carga. $Q$ es la carga neta total, $|e^-|$ es la magnitud de la carga elemental, y $n$ es un número entero que representa cuántos electrones se han ganado (signo -) o perdido (signo +). Por lo tanto, la fórmula mide la carga total en función del número de electrones transferidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_013",
+      "pregunta": "En la ecuación de cuantización de la carga, $$Q = \\pm n |e^-|$$, ¿qué tipo de valor puede tomar la variable $n$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Cualquier número real positivo.",
+        "B": "Solo los valores +1 o -1.",
+        "C": "Un número entero ($$1, 2, 3, ...$$).",
+        "D": "Cualquier número fraccionario.",
+        "E": "Un valor que depende de la masa del objeto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de cuantización establece que la carga se transfiere en paquetes discretos, correspondientes a electrones individuales. Por lo tanto, $n$ en la fórmula $$Q = \\pm n |e^-|$$ debe ser un número entero, ya que representa el número de electrones ganados o perdidos. No se puede transferir una fracción de un electrón.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_014",
+      "pregunta": "Un cuerpo que era eléctricamente neutro ahora tiene una carga neta de $$+3|e^-|$$. ¿Qué proceso ha ocurrido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El cuerpo ha ganado 3 protones.",
+        "B": "El cuerpo ha perdido 3 electrones.",
+        "C": "El cuerpo ha ganado 3 electrones.",
+        "D": "El cuerpo ha perdido 3 neutrones.",
+        "E": "El cuerpo ha ganado 3 positrones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una carga neta positiva indica un exceso de protones sobre electrones. Dado que los protones están fijos en el núcleo de los átomos en un sólido, la carga se adquiere mediante la transferencia de electrones. Para que un cuerpo neutro (mismo número de protones y electrones) adquiera una carga positiva de $$+3|e^-|$$, debe haber perdido 3 electrones, dejando 3 protones sin su correspondiente par negativo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_095_015",
+      "pregunta": "¿Por qué es físicamente imposible que un objeto aislado adquiera una carga neta de $$1.6 \times 10^{-20}$$ Coulombs, sabiendo que la carga elemental $|e^-|$ es aproximadamente $$1.6 \times 10^{-19}$$ Coulombs?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la carga de un objeto no puede ser tan pequeña.",
+        "B": "Porque la carga debe ser un múltiplo entero de la carga elemental, y $$1.6 \times 10^{-20}$$ C es una décima parte ($$0.1$$) de $|e^-|$.",
+        "C": "Porque la carga neta de un objeto siempre debe ser negativa.",
+        "D": "Porque las cargas solo pueden existir en valores pares.",
+        "E": "Porque esa cantidad de carga es inestable y se desintegra."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de cuantización de la carga establece que cualquier carga $Q$ debe ser un múltiplo entero de la carga elemental $|e^-|$, es decir, $$Q = n|e^-|$$, donde $n$ es un entero. En este caso, la carga propuesta es $$1.6 \times 10^{-20}$$ C, que es igual a $$0.1 \times (1.6 \times 10^{-19} \text{ C})$$, o $$0.1 |e^-|$$. Como no es posible transferir 0.1 electrones (la carga elemental es indivisible), esta cantidad de carga es físicamente imposible.",
+      "imagen": null
+    }
+  ]
+}

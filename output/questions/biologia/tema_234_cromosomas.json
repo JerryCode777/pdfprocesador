@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 234,
+  "total_temas": 320,
+  "titulo_tema": "Cromosomas",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_234_001",
+      "pregunta": "¿Qué es un alelo en el contexto de la genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una estructura filamentosa de ADN y proteínas.",
+        "B": "La manifestación física de un gen.",
+        "C": "El conjunto completo de genes de una especie.",
+        "D": "Cada una de las variaciones o posibilidades que puede presentar un carácter hereditario.",
+        "E": "Toda la información contenida en los cromosomas de un individuo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un alelo se define como cada una de las formas alternativas o variaciones que puede tener un mismo gen para un determinado carácter. Por ejemplo, para el color de una flor, un alelo puede determinar el color rojo y otro el color blanco. Las otras opciones se refieren al cromosoma (A), fenotipo (B), genoma (C) y genotipo (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_002",
+      "pregunta": "¿Cómo se denomina al conjunto de toda la información genética contenida en los cromosomas de un individuo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fenotipo",
+        "B": "Genotipo",
+        "C": "Genoma",
+        "D": "Alelo",
+        "E": "Cariotipo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El genotipo es el término utilizado para describir la totalidad de la información genética que un organismo posee en sus cromosomas. Esta información puede manifestarse o no en las características observables del individuo, que constituyen el fenotipo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_003",
+      "pregunta": "¿De qué están constituidas principalmente las estructuras filamentosas conocidas como cromosomas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "ARN y lípidos",
+        "B": "Solo de proteínas",
+        "C": "ADN y proteínas",
+        "D": "Glucosa y fosfatos",
+        "E": "Solo de ADN"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cromosomas son estructuras complejas ubicadas en el núcleo de las células eucariotas, y están formados fundamentalmente por la compactación de ADN (ácido desoxirribonucleico) y diversas proteínas, principalmente histonas, que ayudan a empaquetar y organizar el material genético.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_004",
+      "pregunta": "¿Qué característica define a un alelo dominante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Solo se expresa en condición homocigótica.",
+        "B": "Se representa con una letra minúscula.",
+        "C": "Se expresa incluso si el otro alelo lleva información diferente.",
+        "D": "Es la variación menos común en una población.",
+        "E": "Resulta de una mutación reciente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un alelo dominante es aquel que manifiesta su carácter en el fenotipo tanto en condición homocigótica (ej. $AA$) como heterocigótica (ej. $Aa$). Su información prevalece sobre la del alelo recesivo cuando ambos están presentes. Se representa con letras mayúsculas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_005",
+      "pregunta": "¿Cuál es el número de cromosomas que posee cada célula somática en la especie humana?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "23",
+        "B": "46",
+        "C": "64",
+        "D": "92",
+        "E": "Varía según el tejido"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La dotación cromosómica es un rasgo distintivo de cada especie. En los seres humanos, cada célula del cuerpo (excepto los gametos) contiene 46 cromosomas, organizados en 23 pares. Los gametos (óvulos y espermatozoides) son haploides y contienen 23 cromosomas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_006",
+      "pregunta": "¿Cuál es la diferencia fundamental entre genotipo y fenotipo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El genotipo es la constitución genética y el fenotipo es la expresión observable de dicha constitución.",
+        "B": "El genotipo se refiere solo a los alelos recesivos y el fenotipo a los dominantes.",
+        "C": "El genotipo es fijo, mientras que el fenotipo no puede ser influenciado por el ambiente.",
+        "D": "El genotipo es el conjunto de genes de una población y el fenotipo el de un individuo.",
+        "E": "Son términos sinónimos para describir el material genético."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El genotipo es la composición genética completa de un individuo. El fenotipo, en cambio, es el conjunto de rasgos observables (físicos, bioquímicos, de comportamiento) que resultan de la expresión del genotipo en interacción con factores ambientales y epigenéticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_007",
+      "pregunta": "Un organismo es clasificado como homocigoto recesivo para un carácter específico. ¿Qué significa esto en términos de sus alelos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Posee dos alelos dominantes idénticos para ese carácter.",
+        "B": "Posee dos alelos recesivos idénticos para ese carácter.",
+        "C": "Posee un alelo dominante y uno recesivo.",
+        "D": "Sus alelos están en cromosomas diferentes.",
+        "E": "No tiene alelos para ese carácter."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un individuo homocigoto recesivo tiene dos copias del mismo alelo recesivo en el locus de un gen en cromosomas homólogos. Se representa con dos letras minúsculas, por ejemplo, $aa$. Este es el único caso en el que un rasgo recesivo se manifiesta en el fenotipo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_008",
+      "pregunta": "¿En qué condición se expresa la información contenida en un alelo recesivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre que esté presente en el genotipo.",
+        "B": "Únicamente cuando el individuo es heterocigoto.",
+        "C": "Solo cuando se encuentra en condición homocigótica.",
+        "D": "Cuando el alelo dominante está ausente del genoma.",
+        "E": "Cuando las condiciones ambientales son favorables."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La información de un alelo recesivo solo se manifiesta en el fenotipo cuando un individuo posee dos copias de ese alelo, es decir, cuando se encuentra en condición homocigótica recesiva (ej. $aa$). En un heterocigoto (ej. $Aa$), el alelo dominante enmascara la expresión del recesivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_009",
+      "pregunta": "¿Qué relación existe entre los alelos de un gen y los cromosomas homólogos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los alelos se ubican en diferentes cromosomas no homólogos.",
+        "B": "Un cromosoma homólogo contiene ambos alelos para un gen.",
+        "C": "Cada par de alelos se ubica en el mismo locus en cromosomas homólogos.",
+        "D": "Los alelos son estructuras que conectan los cromosomas homólogos.",
+        "E": "No existe una relación espacial definida entre ellos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cromosomas homólogos son un par de cromosomas (uno heredado del padre y otro de la madre) que tienen la misma estructura y secuencia de genes. Los alelos para un gen específico se encuentran en la misma posición, o locus, en cada uno de los cromosomas de este par.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_010",
+      "pregunta": "¿Qué distingue a un genoma de un genotipo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El genoma es observable y el genotipo no.",
+        "B": "El genoma se refiere al conjunto de genes de una población o especie, y el genotipo al de un individuo.",
+        "C": "El genotipo incluye ADN y proteínas, mientras que el genoma es solo ADN.",
+        "D": "El genoma solo contiene genes dominantes, y el genotipo contiene todos los alelos.",
+        "E": "Son conceptos idénticos que se usan de forma intercambiable."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque ambos términos se refieren a la información genética, su alcance es diferente. El genotipo es la constitución genética de un organismo individual. El genoma, en cambio, es un concepto más amplio que abarca el conjunto completo de genes característico de una población o de toda una especie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_011",
+      "pregunta": "Un organismo con un genotipo formado por alelos diferentes para un carácter específico se clasifica como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Homocigoto dominante",
+        "B": "Homocigoto recesivo",
+        "C": "Heterocigoto",
+        "D": "Puro",
+        "E": "Genoma"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un individuo heterocigoto es aquel que ha heredado dos alelos diferentes para un gen particular, uno de cada progenitor. Por ejemplo, su genotipo sería $Aa$. En este caso, fenotípicamente se expresará el carácter determinado por el alelo dominante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_012",
+      "pregunta": "¿Qué se entiende por número cromosómico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La cantidad de genes en un solo cromosoma.",
+        "B": "El número total de células en un organismo.",
+        "C": "La dotación cromosómica específica y distintiva de cada especie.",
+        "D": "El tamaño promedio de los cromosomas de un individuo.",
+        "E": "La suma de alelos dominantes y recesivos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El número cromosómico es el número total de cromosomas que se encuentra en las células de un organismo. Este número es un carácter constante y distintivo para cada especie biológica. Por ejemplo, para los humanos es 46 y para un perro es 78.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_013",
+      "pregunta": "Si el alelo $A$ (negro) es dominante sobre el alelo $a$ (blanco), ¿cuál será el fenotipo de un individuo con el genotipo $Aa$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Blanco",
+        "B": "Negro",
+        "C": "Gris, una mezcla de ambos colores",
+        "D": "Manchado de blanco y negro",
+        "E": "No se puede determinar sin conocer el genotipo de los padres"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un individuo con genotipo $Aa$ es heterocigoto. Dado que el alelo $A$ es dominante, su información se expresará en el fenotipo, enmascarando la del alelo recesivo $a$. Por lo tanto, el individuo será de color negro, aunque porte el alelo para el color blanco.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_014",
+      "pregunta": "Un individuo presenta un fenotipo de color blanco, determinado por el alelo recesivo $a$. ¿Cuál de los siguientes genotipos debe tener obligatoriamente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$AA$",
+        "B": "$Aa$",
+        "C": "$aa$",
+        "D": "$A$",
+        "E": "Cualquiera de los anteriores"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un carácter recesivo, como el color blanco determinado por el alelo $a$, solo se expresa en el fenotipo cuando no hay un alelo dominante que lo enmascare. Esto ocurre únicamente cuando el individuo es homocigoto recesivo, es decir, su genotipo es $aa$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_234_015",
+      "pregunta": "Sabiendo que el genotipo es la información genética y el fenotipo su expresión influenciada por el ambiente, ¿qué se puede afirmar sobre dos individuos con genotipos $AA$ y $Aa$ para el color negro (dominante)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Tienen el mismo genotipo pero diferente fenotipo.",
+        "B": "Tienen el mismo fenotipo (negro) pero diferente genotipo.",
+        "C": "Ambos tienen genotipo y fenotipo idénticos.",
+        "D": "El individuo $AA$ será negro y el individuo $Aa$ será blanco.",
+        "E": "Su fenotipo dependerá exclusivamente de factores epigenéticos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos individuos tendrán el mismo fenotipo (color negro) porque en ambos casos está presente al menos un alelo dominante $A$. Sin embargo, sus genotipos son diferentes: uno es homocigoto dominante ($AA$) y el otro es heterocigoto ($Aa$). El individuo heterocigoto, a pesar de ser negro, es portador del alelo recesivo para el color blanco.",
+      "imagen": null
+    }
+  ]
+}

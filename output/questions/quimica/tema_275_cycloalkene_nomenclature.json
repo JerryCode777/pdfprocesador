@@ -6,37 +6,52 @@
   "preguntas": [
     {
       "id_temporal": "quimica_275_001",
-      "pregunta": "¿Cuál es la fórmula general que describe a los cicloalquenos?",
+      "pregunta": "¿Cuál es la característica estructural que define a un cicloalqueno?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$C_nH_{2n}$$",
-        "B": "$$C_nH_{2n+2}$$",
-        "C": "$$C_nH_{2n-2}$$",
-        "D": "$$C_nH_{2n-4}$$",
-        "E": "$$C_nH_n$$"
+        "A": "Una cadena de carbonos abierta con un doble enlace.",
+        "B": "Una cadena de carbonos cerrada que presenta al menos un doble enlace.",
+        "C": "Un hidrocarburo formado únicamente por enlaces simples en un ciclo.",
+        "D": "Una cadena cerrada de carbonos con un triple enlace.",
+        "E": "Un compuesto que contiene un anillo de benceno."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La fórmula general para los cicloalquenos es $$C_nH_{2n-2}$$, donde $n$ representa el número de átomos de carbono en el anillo. Esta fórmula refleja la presencia de un anillo (que elimina dos hidrógenos en comparación con un alcano) y un doble enlace (que elimina otros dos hidrógenos).",
+      "respuesta_correcta": "B",
+      "explicacion": "Los cicloalquenos son, por definición, hidrocarburos cíclicos (de cadena cerrada) que contienen como mínimo un enlace doble carbono-carbono en el anillo. Las otras opciones describen alquenos acíclicos (A), cicloalcanos (C), cicloalquinos (D) o hidrocarburos aromáticos (E).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_002",
-      "pregunta": "¿Qué característica fundamental define a un hidrocarburo como un cicloalqueno?",
+      "pregunta": "¿Cuál es la fórmula general que representa a los cicloalquenos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Ser una cadena abierta con un triple enlace.",
-        "B": "Ser una cadena cerrada con únicamente enlaces simples.",
-        "C": "Ser una cadena cerrada con al menos un doble enlace de carbono.",
-        "D": "Tener una estructura aromática como el benceno.",
-        "E": "Contener átomos de oxígeno en su anillo."
+        "A": "$$C_nH_{2n+2}$$",
+        "B": "$$C_nH_{2n}$$",
+        "C": "$$C_nH_{2n-2}$$",
+        "D": "$$C_nH_{n}$$",
+        "E": "$$C_nH_{2n-4}$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los cicloalquenos son, por definición, hidrocarburos (compuestos de carbono e hidrógeno) que tienen una estructura de cadena cerrada o anillo y que contienen como mínimo un doble enlace entre dos de sus átomos de carbono.",
+      "explicacion": "La fórmula general para los cicloalquenos es $$C_nH_{2n-2}$$, donde $n$ es el número de átomos de carbono. Esta fórmula tiene en cuenta la presencia de un anillo y un doble enlace, cada uno de los cuales reduce en dos el número de hidrógenos en comparación con un alcano de cadena abierta ($$C_nH_{2n+2}$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_003",
-      "pregunta": "¿Cuál es el cicloalqueno más pequeño que puede existir?",
+      "pregunta": "¿Qué dos elementos componen fundamentalmente a los hidrocarburos como los cicloalquenos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Carbono y Oxígeno",
+        "B": "Hidrógeno y Nitrógeno",
+        "C": "Carbono e Hidrógeno",
+        "D": "Carbono y Azufre",
+        "E": "Oxígeno e Hidrógeno"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los hidrocarburos, como su nombre indica, son compuestos orgánicos formados exclusivamente por átomos de carbono ($C$) e hidrógeno ($H$). Los cicloalquenos pertenecen a esta vasta familia de compuestos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_275_004",
+      "pregunta": "¿Cuál es el cicloalqueno de menor tamaño posible?",
       "dificultad": 1,
       "opciones": {
         "A": "Ciclobuteno",
@@ -46,187 +61,172 @@
         "E": "Cicloeteno"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El cicloalqueno más pequeño es el ciclopropeno. Un anillo requiere un mínimo de tres átomos de carbono para cerrarse, y el ciclopropeno es el que cumple esta condición conteniendo además un doble enlace.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_275_004",
-      "pregunta": "En la nomenclatura de cicloalquenos, ¿qué característica estructural se numera siempre entre los carbonos C1 y C2?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "El sustituyente más grande",
-        "B": "Un enlace triple",
-        "C": "El doble enlace",
-        "D": "Un átomo de halógeno",
-        "E": "El carbono con más hidrógenos"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "La regla fundamental para nombrar cicloalquenos es que la numeración del anillo siempre comienza de tal manera que el doble enlace se encuentre entre el carbono 1 (C1) y el carbono 2 (C2).",
+      "explicacion": "El cicloalqueno más pequeño que puede existir es el ciclopropeno, que consiste en un anillo de tres átomos de carbono con un doble enlace. Se necesitan al menos tres átomos de carbono para formar un anillo, por lo que el cicloeteno no puede existir.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_005",
-      "pregunta": "¿De qué tipo de átomos están formados exclusivamente los cicloalquenos?",
+      "pregunta": "En la nomenclatura de cicloalquenos, ¿qué posiciones se asignan siempre a los átomos de carbono que forman el doble enlace?",
       "dificultad": 1,
       "opciones": {
-        "A": "Carbono, hidrógeno y oxígeno",
-        "B": "Únicamente átomos de carbono",
-        "C": "Carbono e hidrógeno",
-        "D": "Carbono, hidrógeno y nitrógeno",
-        "E": "Silicio e hidrógeno"
+        "A": "Las posiciones con los números más bajos posibles, sean cuales sean.",
+        "B": "Las posiciones 1 y 3.",
+        "C": "Las posiciones terminales del anillo.",
+        "D": "Las posiciones 1 y 2.",
+        "E": "No se asignan números fijos, depende de los sustituyentes."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los cicloalquenos son un tipo de hidrocarburo, lo que por definición significa que están compuestos únicamente por átomos de carbono (C) e hidrógeno (H).",
+      "respuesta_correcta": "D",
+      "explicacion": "La regla fundamental para nombrar cicloalquenos es numerar el anillo de tal forma que los carbonos del doble enlace siempre reciban las posiciones 1 y 2. Esto establece el punto de partida para la numeración del resto de los átomos del anillo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_006",
-      "pregunta": "¿Por qué no es necesario indicar la posición del doble enlace en el nombre de un cicloalqueno simple (p. ej., ciclohexeno)?",
+      "pregunta": "¿Por qué no es necesario especificar la posición del doble enlace en el nombre de un compuesto como el \"ciclohexeno\"?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque el doble enlace puede estar en cualquier posición sin cambiar el compuesto.",
-        "B": "Porque la regla de nomenclatura establece que siempre está entre C1 y C2.",
-        "C": "Porque los cicloalquenos no tienen dobles enlaces en una posición fija.",
-        "D": "Porque el nombre depende únicamente de los sustituyentes.",
-        "E": "Porque todos los enlaces dobles en el anillo son equivalentes."
+        "A": "Porque el doble enlace puede estar en cualquier posición.",
+        "B": "Porque la posición se indica con un prefijo griego.",
+        "C": "Porque por convención, el doble enlace siempre está entre los carbonos 1 y 2.",
+        "D": "Porque en anillos de seis miembros la posición es irrelevante.",
+        "E": "Porque se asume que está en la posición más sustituida."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura de cicloalquenos, la numeración del anillo se define para que el doble enlace ocupe las posiciones más bajas posibles, que son C1 y C2. Como esta regla es invariable, la posición del doble enlace se vuelve implícita y no necesita ser especificada en el nombre.",
+      "respuesta_correcta": "C",
+      "explicacion": "En la nomenclatura de cicloalquenos monosustituidos o no sustituidos, la posición del doble enlace se omite porque las reglas establecen que la numeración del anillo siempre comienza en los carbonos del doble enlace, asignándoles las posiciones 1 y 2. Por lo tanto, su ubicación es implícita y no requiere ser nombrada.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_007",
-      "pregunta": "Al numerar un cicloalqueno con sustituyentes, ¿cuál es la regla principal después de asignar C1 y C2 al doble enlace?",
+      "pregunta": "¿Qué fenómeno es particularmente notable en cicloalquenos de tres y cuatro miembros, pero menos problemático en anillos de cinco o más?",
       "dificultad": 2,
       "opciones": {
-        "A": "Asignar el número más bajo posible al sustituyente de mayor masa molecular.",
-        "B": "Continuar la numeración siempre en sentido horario.",
-        "C": "Asignar al primer sustituyente encontrado el número más bajo posible.",
-        "D": "Continuar la numeración siempre en sentido antihorario.",
-        "E": "Asignar el número más bajo al carbono con la mayor cantidad de sustituyentes."
+        "A": "Resonancia magnética nuclear",
+        "B": "Aromaticidad",
+        "C": "Isomería cis-trans",
+        "D": "Tensión de anillo",
+        "E": "Hibridación sp"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Una vez que el doble enlace se ha asignado a las posiciones C1 y C2, la dirección de la numeración (horaria o antihoraria) se elige de manera que el primer sustituyente que se encuentre reciba el localizador (número) más bajo posible.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los anillos pequeños, como los de tres y cuatro miembros, fuerzan a los ángulos de enlace a desviarse significativamente de sus valores ideales, lo que genera una inestabilidad conocida como tensión de anillo. Los anillos más grandes (cinco miembros o más) son más flexibles y pueden adoptar conformaciones que minimizan esta tensión, alojando fácilmente los dobles enlaces.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_008",
-      "pregunta": "¿Qué cicloalquenos, según el tamaño de su anillo, presentan una mayor evidencia de tensión?",
+      "pregunta": "Al numerar un cicloalqueno que posee un sustituyente, ¿cuál es el criterio principal a seguir una vez que se han asignado las posiciones 1 y 2 al doble enlace?",
       "dificultad": 2,
       "opciones": {
-        "A": "Anillos de cinco y seis miembros.",
-        "B": "Anillos de siete o más miembros.",
-        "C": "Anillos de tres y cuatro miembros.",
-        "D": "Únicamente los anillos de cinco miembros.",
-        "E": "Todos los cicloalquenos presentan la misma tensión."
+        "A": "Numerar en la dirección que dé el número más alto al sustituyente.",
+        "B": "Numerar en orden alfabético de los sustituyentes.",
+        "C": "Numerar en la dirección que asigne el número más bajo posible al primer sustituyente.",
+        "D": "Siempre numerar en el sentido de las agujas del reloj.",
+        "E": "Asignar la posición 3 al sustituyente más voluminoso."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los anillos pequeños, como los de tres (ciclopropeno) y cuatro (ciclobuteno) miembros, son los que presentan una tensión de anillo más significativa. Esto se debe a que los ángulos de enlace internos son mucho menores que los ángulos ideales para los orbitales híbridos de los carbonos, lo que desestabiliza la molécula.",
+      "explicacion": "La regla de nomenclatura establece que después de fijar el doble enlace en las posiciones 1 y 2, la cadena de carbonos del anillo se debe numerar en la dirección (sentido horario o antihorario) que otorgue el localizador (número) más bajo posible al primer sustituyente encontrado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_009",
-      "pregunta": "¿Cómo se comparan los ángulos de enlace del doble enlace en el ciclopropeno con los valores típicos para un doble enlace en una cadena abierta?",
+      "pregunta": "¿Cómo se compara el comportamiento químico de la mayoría de los cicloalquenos de anillo grande (cinco o más carbonos) con el de los alquenos de cadena abierta?",
       "dificultad": 2,
       "opciones": {
-        "A": "Son idénticos, alrededor de 120°.",
-        "B": "Son mucho mayores, cercanos a 180°.",
-        "C": "Están comprimidos a aproximadamente la mitad del valor usual de 120°.",
-        "D": "Son ligeramente menores, alrededor de 109.5°.",
-        "E": "Son flexibles y no tienen un valor comparable."
+        "A": "Reaccionan de forma completamente diferente.",
+        "B": "Son mucho menos reactivos debido a la estructura cíclica.",
+        "C": "Reaccionan de manera muy similar.",
+        "D": "Son mucho más reactivos debido a la tensión.",
+        "E": "Solo participan en reacciones de sustitución."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La geometría de un anillo de tres miembros impone ángulos de enlace internos de aproximadamente 60°. Esto obliga a que los ángulos del doble enlace en el ciclopropeno se compriman a un valor cercano a 60°, que es la mitad del ángulo ideal de 120° para un carbono con hibridación sp², generando una gran tensión.",
+      "explicacion": "Los cicloalquenos con anillos de cinco o más miembros no presentan una tensión de anillo significativa. Como resultado, su doble enlace se comporta de manera muy parecida al de un alqueno acíclico (de cadena abierta), participando en reacciones de adición típicas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_010",
-      "pregunta": "Usando la fórmula general $$C_nH_{2n-2}$$, ¿cuántos átomos de hidrógeno tiene un ciclopenteno, donde $n=5$?",
+      "pregunta": "El ciclopropeno se describe como un compuesto con una alta tensión de anillo. ¿Cuál es la causa principal de esta tensión?",
       "dificultad": 2,
       "opciones": {
-        "A": "5",
-        "B": "10",
-        "C": "12",
-        "D": "8",
-        "E": "6"
+        "A": "La presencia de demasiados átomos de hidrógeno.",
+        "B": "La compresión de los ángulos de enlace del doble enlace desde su valor ideal de 120° a aproximadamente 60°.",
+        "C": "La repulsión estérica entre los átomos de carbono.",
+        "D": "La incapacidad de formar enlaces pi.",
+        "E": "La hibridación sp³ de todos sus carbonos."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para encontrar el número de hidrógenos, se sustituye $n=5$ en la fórmula general $$C_nH_{2n-2}$$. El cálculo es: $$2n-2 = 2(5)-2 = 10-2 = 8$$. Por lo tanto, la fórmula molecular del ciclopenteno es $$C_5H_8$$.",
+      "respuesta_correcta": "B",
+      "explicacion": "La geometría triangular del ciclopropeno obliga a que los ángulos de enlace internos sean de aproximadamente 60°. Esto comprime drásticamente el ángulo ideal de 120° para los carbonos con hibridación sp² que forman el doble enlace, generando una inestabilidad muy alta conocida como tensión angular, una forma de tensión de anillo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_011",
-      "pregunta": "¿Qué factor estructural explica principalmente la mayor reactividad asociada con cicloalquenos de anillo pequeño como el ciclopropeno?",
+      "pregunta": "¿Cuál es la principal diferencia estructural entre el ciclohexeno y el ciclohexano?",
       "dificultad": 2,
       "opciones": {
-        "A": "La presencia de más átomos de hidrógeno por carbono.",
-        "B": "La alta tensión del anillo.",
-        "C": "El mayor número de posibles sustituyentes.",
-        "D": "Su menor masa molar.",
-        "E": "Su estado gaseoso a temperatura ambiente."
+        "A": "El ciclohexeno tiene más hidrógenos.",
+        "B": "El ciclohexano tiene un doble enlace y el ciclohexeno no.",
+        "C": "El ciclohexeno tiene un doble enlace carbono-carbono y el ciclohexano solo enlaces simples.",
+        "D": "El ciclohexeno es un anillo de 5 carbonos y el ciclohexano de 6.",
+        "E": "No hay ninguna diferencia estructural."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La tensión del anillo, causada por la desviación de los ángulos de enlace de sus valores ideales, debilita los enlaces carbono-carbono y hace que la molécula sea menos estable y, por lo tanto, más reactiva. Los anillos de tres y cuatro miembros son los que más sufren de esta tensión.",
+      "respuesta_correcta": "C",
+      "explicacion": "Ambos son anillos de seis carbonos, pero su diferencia radica en el tipo de enlace. El ciclohexano es un cicloalcano, con todos sus enlaces carbono-carbono siendo simples. El ciclohexeno es un cicloalqueno, caracterizado por la presencia de un doble enlace carbono-carbono dentro del anillo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_012",
-      "pregunta": "En términos generales, ¿cómo es la reactividad de la mayoría de los cicloalquenos (con anillos de cinco o más miembros) en comparación con los alquenos acíclicos?",
+      "pregunta": "¿Qué tipo de cicloalquenos son más propensos a exhibir diferencias significativas en reactividad en comparación con los alquenos acíclicos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Reaccionan de manera completamente diferente.",
-        "B": "Son considerablemente menos reactivos.",
-        "C": "Son mucho más reactivos.",
-        "D": "Reaccionan de forma muy similar.",
-        "E": "Son inertes y no reaccionan."
+        "A": "Aquellos con anillos de cinco y seis miembros.",
+        "B": "Aquellos con un gran número de sustituyentes.",
+        "C": "Aquellos con anillos de tres y cuatro miembros.",
+        "D": "Aquellos que son isómeros trans.",
+        "E": "Todos los cicloalquenos reaccionan igual que los acíclicos."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La mayoría de los cicloalquenos, especialmente aquellos con anillos de cinco o más miembros que no tienen una tensión de anillo significativa, reaccionan de manera muy parecida a los alquenos de cadena abierta (acíclicos). Sus dobles enlaces participan en reacciones similares, como la adición.",
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de una alta tensión de anillo en los cicloalquenos pequeños (como ciclopropeno y ciclobuteno) los hace más inestables y, por lo tanto, más reactivos o propensos a reaccionar de maneras que alivien esa tensión. Los cicloalquenos de anillos más grandes tienen una tensión menor y se comportan de forma más parecida a sus análogos de cadena abierta.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_013",
-      "pregunta": "Al aplicar las reglas de nomenclatura a un cicloalqueno, ¿cuál es el número de posición más bajo que puede ocupar un sustituyente si este NO se encuentra en uno de los carbonos del doble enlace?",
+      "pregunta": "Utilizando la fórmula general $$C_nH_{2n-2}$$, ¿cuál sería la fórmula molecular del cicloocteno, un cicloalqueno con 8 átomos de carbono?",
       "dificultad": 3,
       "opciones": {
-        "A": "C1",
-        "B": "C2",
-        "C": "C3",
-        "D": "C4",
-        "E": "Depende del tamaño total del anillo."
+        "A": "$$C_8H_{16}$$",
+        "B": "$$C_8H_{18}$$",
+        "C": "$$C_8H_{12}$$",
+        "D": "$$C_8H_{14}$$",
+        "E": "$$C_8H_{10}$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Por regla, los carbonos del doble enlace son siempre C1 y C2. Para que el primer sustituyente tenga el número más bajo posible, la numeración debe continuar desde C2 hacia el carbono adyacente que lleva el sustituyente. Este carbono será, por lo tanto, C3. Si se numerara en la otra dirección, recibiría un número más alto.",
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula general para un cicloalqueno es $$C_nH_{2n-2}$$. Para el cicloocteno, el número de carbonos ($n$) es 8. Sustituyendo este valor en la fórmula: $C_8H_{(2 \\times 8) - 2} = C_8H_{16-2} = C_8H_{14}$. Por lo tanto, la fórmula molecular es $$C_8H_{14}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_014",
-      "pregunta": "¿Cuál es la razón fundamental por la que el doble enlace en el ciclopropeno se considera que está bajo una alta tensión?",
+      "pregunta": "En un ciclohexeno sustituido, si el doble enlace se encuentra entre C1 y C2, ¿por qué un sustituyente en la posición 6 indica un error en la numeración del anillo?",
       "dificultad": 3,
       "opciones": {
-        "A": "Porque la molécula es demasiado grande y voluminosa.",
-        "B": "Porque los ángulos de enlace de ~60° del anillo triangular comprimen severamente el ángulo ideal de 120° del doble enlace.",
-        "C": "Porque los enlaces carbono-hidrógeno son inusualmente cortos.",
-        "D": "Porque carece de suficientes electrones pi para ser estable.",
-        "E": "Porque es una molécula que no es plana."
+        "A": "Porque los sustituyentes no pueden estar en la posición 6.",
+        "B": "Porque se debería haber numerado en la dirección opuesta para darle al sustituyente la posición 3.",
+        "C": "Porque los anillos de cicloalquenos no pueden tener más de 5 carbonos.",
+        "D": "Porque el sustituyente debería tener siempre la posición 1.",
+        "E": "Porque el doble enlace debería estar entre C5 y C6."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La alta tensión en el ciclopropeno surge de un conflicto geométrico. La estructura de un anillo de tres miembros fuerza a los ángulos de enlace a ser de aproximadamente 60°. Sin embargo, los carbonos de un doble enlace prefieren ángulos de 120°. Esta severa compresión del ángulo del doble enlace genera una gran tensión angular, desestabilizando la molécula.",
+      "explicacion": "La regla de nomenclatura exige dar al primer sustituyente el número más bajo posible después de fijar el doble enlace en C1-C2. Si numerar en una dirección (p. ej., C1→C2→...→C6) da la posición 6 al sustituyente, numerar en la dirección opuesta (C2→C1→...→C3) le daría la posición 3. Siempre se debe elegir la ruta que minimice el número del primer sustituyente, por lo que 3 es preferible a 6.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_275_015",
-      "pregunta": "Un hidrocarburo presenta la fórmula molecular $$C_6H_{10}$$. Basándose exclusivamente en la fórmula general proporcionada para los cicloalquenos, ¿qué se puede afirmar sobre su estructura?",
+      "pregunta": "Considerando la información sobre la tensión de anillo, ¿qué afirmación describe mejor la estabilidad relativa del ciclopropeno en comparación con el ciclopenteno?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es obligatoriamente un ciclohexeno.",
-        "B": "Es un alqueno de cadena abierta (acíclico).",
-        "C": "No puede ser un hidrocarburo cíclico.",
-        "D": "Su fórmula es consistente con la de un cicloalqueno.",
-        "E": "Debe tener dos dobles enlaces."
+        "A": "El ciclopropeno es más estable debido a su menor número de átomos de carbono.",
+        "B": "Ambos tienen una estabilidad similar porque ambos son cicloalquenos.",
+        "C": "El ciclopenteno es significativamente más estable porque su anillo de cinco miembros puede alojar el doble enlace con mucha menos tensión angular.",
+        "D": "El ciclopropeno es más estable porque sus enlaces son más cortos y fuertes.",
+        "E": "El ciclopenteno es menos estable porque tiene más átomos de hidrógeno que causan repulsión."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La fórmula general de los cicloalquenos es $$C_nH_{2n-2}$$. Si aplicamos esta fórmula para un compuesto con 6 carbonos ($n=6$), obtenemos: $$C_6H_{2(6)-2} = C_6H_{12-2} = C_6H_{10}$$. Dado que la fórmula molecular coincide, podemos afirmar que es consistente con la estructura de un cicloalqueno (como el ciclohexeno). Aunque otras estructuras como los alquinos o los dienos también pueden tener esta fórmula, la opción D es la única afirmación correcta basada en la información dada.",
+      "respuesta_correcta": "C",
+      "explicacion": "La estabilidad de los cicloalquenos está muy influenciada por la tensión de anillo. El ciclopropeno tiene una tensión angular extrema porque sus ángulos de enlace de ~60° están muy lejos del ideal de 120° para un doble enlace. En contraste, un anillo de cinco miembros como el ciclopenteno es mucho más flexible y puede adoptar una conformación que reduce la tensión, alojando el doble enlace de manera más fácil y resultando en una molécula significativamente más estable.",
       "imagen": null
     }
   ]

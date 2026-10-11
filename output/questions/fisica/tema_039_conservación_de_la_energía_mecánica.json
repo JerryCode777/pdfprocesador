@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 39,
+  "total_temas": 137,
+  "titulo_tema": "Conservación de la Energía Mecánica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_039_001",
+      "pregunta": "¿Cuál es una característica fundamental de las fuerzas conservativas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El trabajo que desarrollan depende de la trayectoria seguida.",
+        "B": "Disipan la energía mecánica en forma de calor.",
+        "C": "El trabajo que desarrollan en una trayectoria cerrada es cero.",
+        "D": "Son todas las fuerzas excepto el peso y la fuerza elástica.",
+        "E": "Siempre producen un cambio en la energía mecánica del cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las propiedades que definen a las fuerzas conservativas es que el trabajo que realizan a lo largo de una trayectoria cerrada es nulo. Esto contrasta con las fuerzas no conservativas, cuyo trabajo en una trayectoria cerrada es diferente de cero. Las opciones A, B y E describen características de las fuerzas no conservativas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_002",
+      "pregunta": "¿Cómo se relaciona el trabajo realizado por el peso ($$W_{\\text{peso}}$$) con la variación de la energía potencial gravitatoria ($$\\Delta E_{PG}$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$W_{\\text{peso}} = \\Delta E_{PG}$$",
+        "B": "$$W_{\\text{peso}} = \\Delta E_{PE}$$",
+        "C": "$$W_{\\text{peso}} = E_{PGf} + E_{PG_o}$$",
+        "D": "$$W_{\\text{peso}} = -\\Delta E_{PG}$$",
+        "E": "$$W_{\\text{peso}} = 0$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo realizado por fuerzas conservativas, como el peso, puede expresarse como el negativo de la variación de la energía potencial asociada. Para el peso, la relación es $$W_{\\text{peso}} = -\\Delta E_{PG}$$, lo que significa que si el peso realiza un trabajo positivo (el cuerpo cae), la energía potencial gravitatoria disminuye.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_003",
+      "pregunta": "¿Qué tipo de fuerzas son consideradas no conservativas en el campo de la energía mecánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Únicamente la fuerza de gravedad.",
+        "B": "Solamente la fuerza elástica.",
+        "C": "El peso y la fuerza elástica.",
+        "D": "Todas las fuerzas, excepto el peso y la fuerza elástica.",
+        "E": "Fuerzas cuyo trabajo es independiente de la trayectoria."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En el estudio de la energía mecánica, se definen como fuerzas no conservativas a todas aquellas que no son ni el peso (fuerza de gravedad) ni la fuerza elástica. Estas fuerzas, como el rozamiento, alteran la energía mecánica total del sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_004",
+      "pregunta": "¿Qué afirma el principio de la conservación de la energía mecánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La energía mecánica siempre se transforma en calor.",
+        "B": "La energía cinética de un sistema siempre es constante.",
+        "C": "La energía mecánica de un sistema permanece constante si solo actúan fuerzas conservativas.",
+        "D": "La energía potencial de un sistema siempre es constante.",
+        "E": "El trabajo realizado por las fuerzas no conservativas siempre es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de la conservación de la energía mecánica establece que la energía mecánica total ($$EM$$) de un sistema no cambia, es decir, se conserva, siempre y cuando las únicas fuerzas que realicen trabajo sobre el sistema sean fuerzas conservativas. Si actúan fuerzas no conservativas, la energía mecánica cambiará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_005",
+      "pregunta": "¿Por qué se considera que una fuerza no conservativa es \"disipativa\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Porque aumenta la energía cinética del sistema.",
+        "B": "Porque transforma parte de la energía mecánica en energía calorífica.",
+        "C": "Porque su trabajo en una trayectoria cerrada es nulo.",
+        "D": "Porque da lugar a la energía potencial.",
+        "E": "Porque conserva la energía mecánica del sistema."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las fuerzas no conservativas, como el rozamiento, son llamadas disipativas porque provocan que una parte de la energía mecánica del sistema se \"pierda\" o se transforme en otras formas de energía, principalmente calor. Esto resulta en una disminución de la energía mecánica total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_006",
+      "pregunta": "Bajo qué condición se cumple la ecuación $$EM_o = EM_f$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el trabajo de las fuerzas no conservativas es positivo ($$W_{FNC} > 0$$).",
+        "B": "Cuando el trabajo de las fuerzas conservativas es cero ($$W_{FC} = 0$$).",
+        "C": "Cuando el trabajo de las fuerzas no conservativas es cero ($$W_{FNC} = 0$$).",
+        "D": "Cuando la energía cinética final es cero ($$E_{kf} = 0$$).",
+        "E": "Cuando el trabajo neto es cero ($$W_N = 0$$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La igualdad entre la energía mecánica inicial ($$EM_o$$) y la final ($$EM_f$$) es la expresión del principio de conservación de la energía mecánica. Este principio es válido únicamente cuando no hay trabajo realizado por fuerzas no conservativas, es decir, cuando $$W_{FNC} = 0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_007",
+      "pregunta": "¿Cuál es la expresión matemática que define el Teorema del Trabajo y la Energía Mecánica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{FC} = \\Delta EM$$",
+        "B": "$$W_N = E_{kf} - E_{ko}$$",
+        "C": "$$EM_o = EM_f$$",
+        "D": "$$W_{FNC} = \\Delta EM$$",
+        "E": "$$W_{FNC} = -\\Delta E_{PG}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Teorema del Trabajo y la Energía Mecánica establece la relación entre el trabajo de las fuerzas no conservativas y la energía mecánica. Afirma que el trabajo realizado por las fuerzas no conservativas ($$W_{FNC}$$) es igual al cambio en la energía mecánica total del sistema ($$\\Delta EM = EM_f - EM_o$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_008",
+      "pregunta": "Si un objeto se mueve del punto A al punto B por dos trayectorias diferentes, y una fuerza que actúa sobre él realiza un trabajo distinto en cada trayectoria, ¿qué se puede concluir sobre dicha fuerza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es una fuerza conservativa.",
+        "B": "Es la fuerza de la gravedad.",
+        "C": "Es una fuerza no conservativa.",
+        "D": "No realiza trabajo neto.",
+        "E": "Es una fuerza elástica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica definitoria de las fuerzas no conservativas es que el trabajo que realizan depende de la trayectoria seguida entre dos puntos. Por el contrario, el trabajo de las fuerzas conservativas es independiente de la trayectoria. Por lo tanto, si el trabajo es diferente, la fuerza es no conservativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_009",
+      "pregunta": "La derivación del principio de conservación de la energía mecánica parte del teorema del trabajo neto ($$W_N = E_{kf} - E_{ko}$$). ¿Qué paso es crucial para llegar a la expresión $$EPG_o + E_{ko} = EPG_f + E_{kf}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Asumir que la energía cinética es constante.",
+        "B": "Separar el trabajo neto en $$W_{FC} + W_{FNC}$$, hacer $$W_{FNC} = 0$$ y sustituir $$W_{FC} = -\\Delta E_{PG}$$",
+        "C": "Asumir que la energía potencial es constante.",
+        "D": "Igualar el trabajo de las fuerzas conservativas con el de las no conservativas.",
+        "E": "Hacer que el trabajo de las fuerzas conservativas sea cero ($$W_{FC}=0$$)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para derivar la conservación de la energía mecánica, se parte de $$W_N = W_{FC} + W_{FNC} = E_{kf} - E_{ko}$$. Se impone la condición de que solo actúan fuerzas conservativas, lo que implica $$W_{FNC} = 0$$. Luego, se sustituye la definición del trabajo de una fuerza conservativa, como la gravedad, $$W_{FC} = -\\Delta E_{PG}$$. Reordenando los términos se llega a la expresión final de la conservación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_010",
+      "pregunta": "La ecuación $$W_{FNC} = (E_{PGf} + E_{kf}) - (E_{PG_o} + E_{ko})$$ se puede simplificar como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{FNC} = W_N$$",
+        "B": "$$W_{FNC} = EM_f - EM_o$$",
+        "C": "$$W_{FNC} = E_{ko} - E_{kf}$$",
+        "D": "$$W_{FNC} = -\\Delta E_{PG}$$",
+        "E": "$$W_{FNC} = 0$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación agrupa los términos de energía final y energía inicial. Sabiendo que la energía mecánica total ($$EM$$) es la suma de la energía potencial gravitatoria ($$E_{PG}$$) y la energía cinética ($$E_k$$), la expresión se simplifica a $$W_{FNC} = EM_f - EM_o$$, que es la definición del cambio en la energía mecánica ($$\\Delta EM$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_011",
+      "pregunta": "Cuando sobre un sistema actúan tanto fuerzas conservativas ($$FC$$) como no conservativas ($$FNC$$), ¿cuál de las siguientes relaciones, derivada del teorema del trabajo neto, es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$W_{FC} = E_{kf} - E_{ko}$$",
+        "B": "$$W_{FNC} = E_{kf} - E_{ko}$$",
+        "C": "$$W_{FC} + W_{FNC} = 0$$",
+        "D": "$$W_{FC} + W_{FNC} = E_{kf} - E_{ko}$$",
+        "E": "$$W_{FNC} = -W_{FC}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El teorema del trabajo neto establece que el trabajo neto ($$W_N$$) es igual al cambio en la energía cinética. El trabajo neto es la suma del trabajo de todas las fuerzas que actúan, que se pueden agrupar en conservativas y no conservativas. Por lo tanto, la expresión correcta es $$W_{FC} + W_{FNC} = E_{kf} - E_{ko}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_012",
+      "pregunta": "¿Qué representa la expresión $$-\\Delta E_{PE}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El trabajo realizado por la fuerza de rozamiento.",
+        "B": "El trabajo realizado por la fuerza elástica.",
+        "C": "La variación de la energía cinética.",
+        "D": "El trabajo realizado por el peso.",
+        "E": "La energía mecánica total del sistema."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Análogamente al trabajo del peso, el trabajo de la fuerza elástica, que es una fuerza conservativa, se expresa como el negativo de la variación de la energía potencial elástica ($$\\Delta E_{PE}$$). Por lo tanto, $$W_{\\text{fuerza elástica}} = -\\Delta E_{PE}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_013",
+      "pregunta": "Si la energía mecánica total de un sistema aumenta ($$\\Delta EM > 0$$), ¿qué se puede concluir sobre el trabajo realizado por las fuerzas no conservativas ($$W_{FNC}$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$W_{FNC}$$ es negativo.",
+        "B": "$$W_{FNC}$$ es cero y la energía se conserva.",
+        "C": "$$W_{FNC}$$ es positivo.",
+        "D": "No actuaron fuerzas no conservativas.",
+        "E": "El trabajo de las fuerzas conservativas fue mayor que cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según el teorema del trabajo y la energía mecánica, $$W_{FNC} = \\Delta EM$$. Si la variación de la energía mecánica es positiva ($$\\Delta EM > 0$$), significa que la energía mecánica final es mayor que la inicial. Esto solo puede ocurrir si el trabajo realizado por las fuerzas no conservativas es positivo, es decir, si estas fuerzas han añadido energía mecánica al sistema (por ejemplo, la fuerza de un motor).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_014",
+      "pregunta": "Un cuerpo completa una trayectoria cerrada y vuelve a su punto de partida. Si la energía mecánica al final del recorrido es menor que al principio, ¿qué afirmación es necesariamente cierta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El trabajo de la fuerza de gravedad fue negativo.",
+        "B": "El trabajo neto de las fuerzas conservativas es distinto de cero.",
+        "C": "El trabajo neto de las fuerzas no conservativas fue negativo.",
+        "D": "No actuaron fuerzas conservativas en la trayectoria.",
+        "E": "La energía cinética final es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo de cualquier fuerza conservativa (como la gravedad) en una trayectoria cerrada es siempre cero. Si la energía mecánica disminuyó, significa que $$EM_f < EM_o$$, por lo que $$\\Delta EM < 0$$. Dado que $$W_{FNC} = \\Delta EM$$, se concluye que el trabajo neto de las fuerzas no conservativas (como el rozamiento) debe haber sido negativo, disipando energía del sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_039_015",
+      "pregunta": "Analizando la expresión $$-\\Delta E_{PG} + W_{FNC} = E_{kf} - E_{ko}$$, ¿qué representa el término $$-\\Delta E_{PG}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El cambio en la energía mecánica total.",
+        "B": "El trabajo realizado por la fuerza de gravedad.",
+        "C": "El trabajo neto realizado sobre el cuerpo.",
+        "D": "El trabajo realizado por las fuerzas no conservativas.",
+        "E": "La energía perdida en forma de calor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta ecuación se deriva de $$W_{FC} + W_{FNC} = E_{kf} - E_{ko}$$. El término $$W_{FC}$$ (trabajo de las fuerzas conservativas) se sustituye por su equivalente en términos de energía potencial. Si la única fuerza conservativa que realiza trabajo es el peso, entonces $$W_{FC} = W_{\\text{peso}}$$. La definición establece que $$W_{\\text{peso}} = -\\Delta E_{PG}$$. Por lo tanto, el término $$-\\Delta E_{PG}$$ representa directamente el trabajo realizado por la fuerza de gravedad.",
+      "imagen": null
+    }
+  ]
+}

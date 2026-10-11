@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 71,
+  "total_temas": 137,
+  "titulo_tema": "Termómetros",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_071_001",
+      "pregunta": "¿Cuál es la unidad de medida de la temperatura en el Sistema Internacional (SI)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Grados Celsius ($°C$)",
+        "B": "Grados Fahrenheit ($°F$)",
+        "C": "Kelvin ($K$)",
+        "D": "Rankine ($R$)",
+        "E": "Calorías (cal)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad de medida de la temperatura en el Sistema Internacional de Unidades es el Kelvin ($K$). Aunque los grados Celsius y Fahrenheit son de uso común, el Kelvin es la unidad estándar para aplicaciones científicas y técnicas por ser una escala absoluta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_002",
+      "pregunta": "¿Qué tipo de termómetro utiliza una columna de mercurio en un tubo de vidrio para realizar mediciones?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Termómetro digital",
+        "B": "Termómetro de infrarrojos",
+        "C": "Termómetro de gas",
+        "D": "Termómetro de mercurio",
+        "E": "Termómetro de resistencia"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los termómetros de mercurio funcionan basándose en la dilatación de este metal líquido contenido en un tubo de vidrio. La altura que alcanza la columna de mercurio indica la temperatura. Los otros tipos utilizan principios diferentes, como sensores electrónicos o la medición de radiación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_003",
+      "pregunta": "¿Cómo se denominan las magnitudes físicas, como la resistencia eléctrica o el volumen de un gas, que varían con la temperatura y permiten su medición?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Magnitudes intensivas",
+        "B": "Magnitudes extensivas",
+        "C": "Magnitudes escalares",
+        "D": "Magnitudes vectoriales",
+        "E": "Magnitudes termométricas"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Se denominan magnitudes termométricas a aquellas propiedades físicas que cambian de manera predecible con la temperatura, lo que permite utilizarlas para construir un termómetro y medirla indirectamente. Ejemplos incluyen la altura de una columna de líquido, la resistencia eléctrica y la presión de un gas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_004",
+      "pregunta": "En la escala Celsius, ¿qué fenómeno físico se utiliza como punto de referencia para el valor de $0 \\text{ °C}$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El punto de ebullición del agua",
+        "B": "El cero absoluto",
+        "C": "El punto de congelación del agua",
+        "D": "La temperatura corporal humana",
+        "E": "La ausencia total de energía"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La escala Celsius es una escala relativa que establece el punto de congelación del agua a presión atmosférica estándar como su punto de referencia cero, es decir, $0 \\text{ °C}$. El punto de ebullición del agua se define como $100 \\text{ °C}$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_005",
+      "pregunta": "¿Qué tipo de dispositivo mide la temperatura detectando la radiación infrarroja emitida por un objeto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Termómetro de mercurio",
+        "B": "Termómetro digital",
+        "C": "Termómetro de infrarrojos",
+        "D": "Sensor de presión",
+        "E": "Calorímetro"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los termómetros de infrarrojos funcionan midiendo la energía de la radiación infrarroja que emiten los cuerpos. Esta radiación es una función de la temperatura del objeto, lo que permite una medición sin contacto físico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_006",
+      "pregunta": "¿Por qué la temperatura se considera una propiedad intensiva de la materia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque depende de la masa total de la sustancia.",
+        "B": "Porque no varía con la cantidad de sustancia.",
+        "C": "Porque se mide con instrumentos de alta precisión.",
+        "D": "Porque siempre se expresa en Kelvin.",
+        "E": "Porque es una medida de la energía total."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las propiedades intensivas son aquellas que no dependen de la cantidad de materia presente. La temperatura es un ejemplo claro, ya que una muestra pequeña de una sustancia (como 200 $cm^3$ de agua) tendrá la misma temperatura que una muestra grande (2 litros) si están en equilibrio térmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_007",
+      "pregunta": "¿Cuál es la característica fundamental que distingue a las escalas de temperatura absolutas (como Kelvin) de las relativas (como Celsius)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las escalas absolutas solo se usan en Estados Unidos.",
+        "B": "Las escalas relativas no usan puntos de referencia.",
+        "C": "El punto cero en las escalas absolutas representa la ausencia total de energía térmica.",
+        "D": "Las escalas absolutas no tienen grados negativos.",
+        "E": "El punto cero en las escalas relativas es arbitrario y no tiene significado físico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia clave radica en el significado del cero. En escalas absolutas como Kelvin o Rankine, el cero ($0 \\text{ K}$ o $0 \\text{ R}$) es el cero absoluto, el punto teórico de mínima energía térmica posible. En escalas relativas como Celsius o Fahrenheit, el cero es un punto de referencia (como la congelación del agua) y no indica la ausencia de energía térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_008",
+      "pregunta": "Si la temperatura es una magnitud estadística que no se puede medir directamente, ¿cómo logran los termómetros proporcionar una lectura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Contando el número de moléculas en la sustancia.",
+        "B": "Calculando un promedio estadístico de forma digital.",
+        "C": "Midiendo el cambio en una magnitud termométrica que sí es medible.",
+        "D": "Comparando el color del objeto con una escala de colores.",
+        "E": "Midiendo la energía cinética de una sola partícula."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura, como medida de la energía cinética promedio de las partículas, no se mide directamente. En su lugar, los termómetros miden una propiedad física que varía con la temperatura, conocida como magnitud termométrica (ej. volumen, presión, resistencia eléctrica), y la calibran para mostrar una lectura de temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_009",
+      "pregunta": "¿Qué tienen en común las escalas Celsius y Fahrenheit según su clasificación fundamental?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas son escalas absolutas.",
+        "B": "Ambas definen el cero como la ausencia de calor.",
+        "C": "Ambas utilizan los mismos puntos de referencia para el agua.",
+        "D": "Ambas son escalas relativas.",
+        "E": "Ambas son unidades del Sistema Internacional."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Tanto la escala Celsius como la Fahrenheit son escalas relativas. Esto significa que definen sus valores de temperatura en relación con puntos de referencia específicos (como los puntos de congelación y ebullición del agua) en lugar de un cero absoluto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_010",
+      "pregunta": "¿Qué significa físicamente el cero absoluto ($0 \\text{ K}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El punto de congelación del mercurio.",
+        "B": "La temperatura a la cual el agua se congela.",
+        "C": "La ausencia total de energía térmica.",
+        "D": "Un punto de referencia arbitrario en la escala Kelvin.",
+        "E": "La temperatura más baja alcanzada en un laboratorio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cero absoluto, que corresponde a $0 \\text{ K}$ en la escala Kelvin, es el punto teórico en el que las partículas de una sustancia tienen la mínima energía térmica posible. Representa la ausencia total de energía térmica, un concepto fundamental en la termodinámica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_011",
+      "pregunta": "Un termómetro digital y uno de mercurio se colocan en un vaso de agua y ambos marcan $25 \\text{ °C}$. Aunque sus lecturas son iguales, ¿en qué se diferencia fundamentalmente su principio de funcionamiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No hay diferencia, ambos miden la dilatación de un material.",
+        "B": "El digital mide radiación infrarroja y el de mercurio la presión.",
+        "C": "El de mercurio mide la dilatación de un líquido y el digital una propiedad eléctrica.",
+        "D": "El digital es una escala absoluta y el de mercurio es relativa.",
+        "E": "El de mercurio mide la temperatura directamente y el digital de forma indirecta."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia fundamental está en la magnitud termométrica que utilizan. El termómetro de mercurio se basa en la dilatación volumétrica del mercurio (una propiedad física), mientras que un termómetro digital típico utiliza sensores electrónicos cuya resistencia eléctrica u otra propiedad eléctrica cambia con la temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_012",
+      "pregunta": "Además de la altura de una columna de mercurio, ¿cuál de las siguientes es otra magnitud termométrica mencionada que se utiliza para medir la temperatura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa de un objeto.",
+        "B": "El color de la luz emitida.",
+        "C": "La resistencia eléctrica.",
+        "D": "La densidad de la sustancia.",
+        "E": "La aceleración de las partículas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia eléctrica de ciertos materiales varía de manera consistente y medible con la temperatura. Esta propiedad es una magnitud termométrica utilizada en termómetros digitales y termistores. Otras magnitudes mencionadas son el volumen y la presión de un gas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_013",
+      "pregunta": "Un objeto se encuentra a una temperatura de $0 \\text{ °C}$. ¿Por qué es físicamente incorrecto afirmar que este objeto no posee energía térmica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque $0 \\text{ °C}$ es una temperatura extremadamente alta.",
+        "B": "Porque la energía térmica solo puede ser cero en el vacío.",
+        "C": "Porque la escala Celsius es relativa y su cero es solo un punto de referencia, no la ausencia de energía.",
+        "D": "Porque a $0 \\text{ °C}$ todas las moléculas están vibrando a su máxima capacidad.",
+        "E": "Porque la energía térmica es independiente de la temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La afirmación es incorrecta debido a la naturaleza de la escala Celsius. Es una escala relativa donde $0 \\text{ °C}$ se define como el punto de congelación del agua. La ausencia total de energía térmica solo ocurre en el cero absoluto ($0 \\text{ K}$), que equivale a $-273.15 \\text{ °C}$. Por lo tanto, a $0 \\text{ °C}$, las partículas de un objeto todavía poseen una cantidad significativa de energía térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_014",
+      "pregunta": "Un ingeniero diseña un nuevo tipo de sensor de temperatura. El dispositivo funciona midiendo cómo cambia la presión de un gas confinado en un volumen constante. Este principio se basa en el uso de una...",
+      "dificultad": 3,
+      "opciones": {
+        "A": "escala absoluta.",
+        "B": "propiedad intensiva.",
+        "C": "magnitud termométrica.",
+        "D": "radiación infrarroja.",
+        "E": "escala relativa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ingeniero está utilizando la presión de un gas como una magnitud termométrica. Una magnitud termométrica es cualquier propiedad física que varía de forma predecible con la temperatura y que, por lo tanto, puede ser calibrada para medirla. En este caso, la presión del gas es la propiedad medible que se correlaciona con la temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_071_015",
+      "pregunta": "Al afirmar que la temperatura de una muestra de 2 litros de agua es idéntica a la de 200 $cm^3$ de la misma agua (si están en equilibrio), ¿qué concepto fundamental de las escalas de temperatura se está ignorando o no se está considerando?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La diferencia entre escalas relativas y absolutas.",
+        "B": "La definición de calor como energía en tránsito.",
+        "C": "La cantidad total de energía térmica en cada muestra.",
+        "D": "El uso del Kelvin como unidad del SI.",
+        "E": "El principio de funcionamiento de los termómetros de infrarrojos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque la temperatura (una propiedad intensiva) es la misma, la cantidad total de energía térmica (una propiedad extensiva) es muy diferente. La muestra de 2 litros contiene muchas más moléculas que la de 200 $cm^3$, por lo que, a la misma temperatura, la suma de las energías cinéticas de todas sus partículas (la energía térmica total) es considerablemente mayor. La pregunta se centra en que la temperatura es la misma, pero implícitamente hay una diferencia en la energía térmica total.",
+      "imagen": null
+    }
+  ]
+}

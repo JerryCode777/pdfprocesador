@@ -3,5 +3,231 @@
   "numero_tema": 222,
   "total_temas": 322,
   "titulo_tema": "Actual Yield",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_222_001",
+      "pregunta": "¿Qué término describe la cantidad máxima de producto que se puede obtener a partir de una cantidad dada de reactivos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Rendimiento real",
+        "B": "Rendimiento teórico",
+        "C": "Rendimiento porcentual",
+        "D": "Reactivo limitante",
+        "E": "Producto recuperado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El rendimiento teórico es el rendimiento máximo que se puede obtener de una reacción. Se calcula asumiendo que todo el reactivo limitante reacciona para formar el producto, sin pérdidas ni reacciones secundarias. El rendimiento real es la cantidad que se obtiene en la práctica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_002",
+      "pregunta": "¿Cómo se define el rendimiento real de una reacción química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad de producto que se predice mediante cálculos estequiométricos.",
+        "B": "El porcentaje de reactivo limitante que se consume.",
+        "C": "La cantidad de producto puro que realmente se obtiene en la reacción.",
+        "D": "La máxima cantidad de producto posible en condiciones ideales.",
+        "E": "La suma de los productos deseados y no deseados."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rendimiento real, también llamado rendimiento recuperado, es la cantidad específica de producto puro que se aísla y mide al final de un experimento químico. Difiere del rendimiento teórico, que es una cantidad calculada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_003",
+      "pregunta": "¿Qué factor fundamental determina el rendimiento teórico de una reacción?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La temperatura de la reacción",
+        "B": "La pureza del producto",
+        "C": "La cantidad de reactivo limitante",
+        "D": "El tiempo de reacción",
+        "E": "La cantidad de reactivo en exceso"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El rendimiento teórico está directamente determinado por la cantidad de reactivo limitante presente al inicio. Este reactivo es el que se consumirá por completo primero, limitando así la cantidad máxima de producto que se puede formar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_004",
+      "pregunta": "¿Cuál es la fórmula matemática correcta para calcular el porcentaje de rendimiento (% R)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\% R = \\frac{\\text{Rendimiento teórico}}{\\text{Rendimiento real}} \\times 100\\%$$",
+        "B": "$$\\% R = \\frac{\\text{Rendimiento real}}{\\text{Rendimiento teórico}} \\times 100\\%$$",
+        "C": "$$\\% R = (\\text{Rendimiento teórico} - \\text{Rendimiento real}) \\times 100\\%$$",
+        "D": "$$\\% R = \\frac{\\text{Rendimiento real}}{\\text{Reactivo limitante}} \\times 100\\%$$",
+        "E": "$$\\% R = \\frac{\\text{Rendimiento teórico}}{\\text{Masa total}} \\times 100\\%$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El porcentaje de rendimiento se calcula para comparar la cantidad de producto obtenida experimentalmente (rendimiento real) con la máxima cantidad posible (rendimiento teórico). La fórmula correcta es el cociente del rendimiento real entre el rendimiento teórico, multiplicado por 100%.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_005",
+      "pregunta": "Para determinar el rendimiento teórico, ¿qué es indispensable utilizar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un calorímetro",
+        "B": "La ecuación balanceada de la reacción",
+        "C": "El rendimiento real del experimento",
+        "D": "Un medidor de presión",
+        "E": "El punto de fusión del producto"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El rendimiento teórico se calcula a partir de la estequiometría de la reacción, la cual se establece en la ecuación química balanceada. Esta ecuación proporciona las proporciones molares entre reactivos y productos, permitiendo calcular la cantidad máxima de producto a partir de una cantidad dada de reactivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_006",
+      "pregunta": "En un entorno de laboratorio práctico, ¿cuál es la relación más común entre el rendimiento real y el rendimiento teórico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El rendimiento real es siempre igual al rendimiento teórico.",
+        "B": "El rendimiento real es casi siempre menor que el rendimiento teórico.",
+        "C": "El rendimiento real es casi siempre mayor que el rendimiento teórico.",
+        "D": "El rendimiento real es irrelevante para el rendimiento teórico.",
+        "E": "El rendimiento real es el doble del rendimiento teórico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la práctica, es muy difícil lograr que una reacción se complete al 100% sin pérdidas. Factores como reacciones incompletas, reacciones secundarias o pérdidas durante la manipulación hacen que la cantidad de producto obtenida (rendimiento real) sea casi siempre inferior a la máxima cantidad posible (rendimiento teórico).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_007",
+      "pregunta": "¿Qué consecuencia directa tienen las \"reacciones secundarias\" en el rendimiento de una reacción?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumentan la velocidad de la reacción principal.",
+        "B": "Garantizan que todo el reactivo limitante se consuma.",
+        "C": "Consumen reactivos para formar productos no deseados, disminuyendo el rendimiento del producto deseado.",
+        "D": "Solo ocurren si los reactivos son 100% puros.",
+        "E": "Simplifican el proceso de purificación del producto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las reacciones secundarias son rutas de reacción alternativas que consumen parte de los reactivos para formar productos diferentes al deseado. Esto desvía materia prima de la reacción principal, resultando en una menor cantidad de producto deseado y, por lo tanto, en una disminución del rendimiento real.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_008",
+      "pregunta": "Si un químico no logra recuperar todo el producto formado durante el proceso de separación y purificación, ¿qué valor se verá directamente afectado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El rendimiento teórico",
+        "B": "El rendimiento real",
+        "C": "La cantidad de reactivo limitante",
+        "D": "La ecuación balanceada",
+        "E": "La pureza de los reactivos iniciales"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La pérdida de producto durante etapas como la filtración, cristalización o transferencia entre recipientes reduce la cantidad final de producto puro que se pesa. Esta cantidad medida es el rendimiento real, por lo que este valor disminuye debido a dichas pérdidas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_009",
+      "pregunta": "El concepto de \"reacciones incompletas\" implica que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se forman productos adicionales no esperados.",
+        "B": "Los reactivos no se convierten en su totalidad en productos.",
+        "C": "La reacción ocurre a una temperatura demasiado alta.",
+        "D": "Se pierde producto durante su manipulación.",
+        "E": "La ecuación química está mal balanceada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una reacción incompleta es aquella que no llega a completarse al 100%. Esto significa que al final de la reacción, aún queda una parte de los reactivos sin reaccionar, lo que provoca que la cantidad de producto formado (rendimiento real) sea inferior a la máxima posible (rendimiento teórico).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_010",
+      "pregunta": "¿Cuál de los siguientes escenarios describe el efecto de la \"impureza de los reactivos\" sobre el rendimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa total de reactivos es mayor, por lo que el rendimiento teórico aumenta.",
+        "B": "La cantidad real de sustancia reactiva es menor de la que se pesa, disminuyendo el rendimiento real.",
+        "C": "Las impurezas catalizan la reacción, aumentando el porcentaje de rendimiento.",
+        "D": "Las impurezas reaccionan para formar más producto del deseado.",
+        "E": "La pureza de los reactivos no afecta el rendimiento, solo la velocidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si un reactivo es impuro, parte de la masa que se mide y se utiliza en la reacción no es la sustancia reactiva. Por lo tanto, la cantidad real de reactivo es menor, lo que lleva a la formación de menos producto. Esto resulta en un rendimiento real inferior al que se esperaría si el reactivo fuera puro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_011",
+      "pregunta": "Operar una reacción bajo condiciones de temperatura o presión que no son las adecuadas puede ser una causa de un bajo rendimiento. ¿A qué categoría de problema corresponde este factor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Error de manipulación",
+        "B": "Reacción secundaria",
+        "C": "Impureza de reactivos",
+        "D": "Pérdida de producto",
+        "E": "Condiciones inadecuadas"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Mantener las condiciones óptimas de temperatura y presión es crucial para maximizar la conversión de reactivos a productos. Si estas condiciones no son las adecuadas, la reacción puede ser más lenta, incompleta o favorecer rutas secundarias, lo que se clasifica como un problema de \"condiciones inadecuadas\" que afectan negativamente el rendimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_012",
+      "pregunta": "El término \"rendimiento recuperado\" es un sinónimo de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Rendimiento teórico",
+        "B": "Reactivo en exceso",
+        "C": "Porcentaje de rendimiento",
+        "D": "Rendimiento real",
+        "E": "Producto secundario"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El rendimiento real es la cantidad de producto que se obtiene y se recupera físicamente al final de un procedimiento experimental. Por lo tanto, \"rendimiento recuperado\" es otra forma de referirse al rendimiento real.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_013",
+      "pregunta": "Un estudiante calcula a partir de la ecuación balanceada que una reacción debería producir un máximo de 25 gramos de sulfato de bario. Al realizar el experimento, pesa el producto puro y obtiene 21.5 gramos. En este contexto, ¿qué representa el valor de 25 gramos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El rendimiento real del experimento.",
+        "B": "El porcentaje de rendimiento.",
+        "C": "El rendimiento teórico de la reacción.",
+        "D": "La masa del reactivo limitante.",
+        "E": "La masa de los productos secundarios."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El valor calculado a partir de la estequiometría de la ecuación balanceada, que representa la cantidad máxima posible de producto, es por definición el rendimiento teórico. El valor obtenido experimentalmente (21.5 gramos) es el rendimiento real.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_014",
+      "pregunta": "Si se sabe que los reactivos utilizados eran puros, las condiciones de reacción fueron óptimas y no hubo errores de manipulación evidentes, pero el rendimiento porcentual fue significativamente menor al 100%, ¿cuál de las siguientes es la explicación más plausible?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El cálculo del rendimiento teórico fue incorrecto.",
+        "B": "La reacción es incompleta o existen reacciones secundarias significativas.",
+        "C": "La masa del producto se midió incorrectamente, mostrando un valor menor.",
+        "D": "Se utilizó demasiado reactivo en exceso.",
+        "E": "La pureza de los reactivos fue subestimada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Descartando problemas de pureza, condiciones y manipulación, las causas inherentes a la propia química de la reacción son las más probables. Una reacción puede ser inherentemente incompleta (por ejemplo, si alcanza un equilibrio) o puede tener vías de reacción secundarias que consumen reactivos para formar otros productos, disminuyendo el rendimiento del producto deseado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_222_015",
+      "pregunta": "En un escenario hipotético ideal donde el porcentaje de rendimiento es exactamente 100%, ¿qué se puede inferir sobre el proceso químico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La reacción fue instantánea.",
+        "B": "Se utilizó un catalizador muy eficiente.",
+        "C": "Todo el reactivo limitante se convirtió en el producto deseado sin pérdidas ni reacciones secundarias.",
+        "D": "La masa de los reactivos es igual a la masa del producto.",
+        "E": "Los reactivos utilizados tenían una pureza superior al 100%."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un rendimiento del 100% representa el caso perfecto. Implica que el rendimiento real es igual al rendimiento teórico. Para que esto ocurra, la reacción debe ser completa (todo el reactivo limitante reacciona), no debe haber reacciones secundarias que consuman reactivos, y no debe haber ninguna pérdida física del producto durante su aislamiento y purificación.",
+      "imagen": null
+    }
+  ]
 }

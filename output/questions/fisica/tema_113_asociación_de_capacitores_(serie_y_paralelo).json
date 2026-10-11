@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 113,
+  "total_temas": 137,
+  "titulo_tema": "Asociación de capacitores (serie y paralelo)",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_113_001",
+      "pregunta": "¿Cuál es la unidad del Sistema Internacional (S.I.) para la capacitancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Volt (V)",
+        "B": "Coulomb (C)",
+        "C": "Farad (F)",
+        "D": "Ampere (A)",
+        "E": "Joule (J)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad del S.I. para la capacitancia es el farad, representado por la letra F. Un farad se define como un coulomb por volt ($$1 \text{ C/V}$$). Las otras opciones representan unidades de diferencia de potencial (Volt), carga eléctrica (Coulomb), corriente eléctrica (Ampere) y energía (Joule).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_002",
+      "pregunta": "¿Cómo se define matemáticamente la capacitancia ($C$) en función de la carga ($Q$) y la diferencia de potencial ($V_{AB}$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$C = Q \\cdot V_{AB}$$",
+        "B": "$$C = \\frac{V_{AB}}{Q}$$",
+        "C": "$$C = Q^2 \\cdot V_{AB}$$",
+        "D": "$$C = \\frac{Q}{V_{AB}}$$",
+        "E": "$$C = \\frac{Q}{V_{AB}^2}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La capacitancia ($C$) se define como la razón entre la magnitud de la carga ($Q$) en una de las placas del capacitor y la diferencia de potencial ($V_{AB}$) entre ellas. La fórmula que representa esta relación es $$C = \\frac{Q}{V_{AB}}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_003",
+      "pregunta": "En una conexión de capacitores en serie, ¿qué característica describe la magnitud de la carga eléctrica en todos los capacitores?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La carga en cada capacitor es diferente y proporcional a su capacitancia.",
+        "B": "La carga total es la suma de las cargas de cada capacitor.",
+        "C": "La carga es cero en todos los capacitores del medio.",
+        "D": "La magnitud de la carga en todos los capacitores es la misma.",
+        "E": "La carga aumenta secuencialmente del primer al último capacitor."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una característica fundamental de los capacitores conectados en serie es que la carga eléctrica ($q$) tiene la misma magnitud en todas las placas de todos los capacitores. Esto se expresa como $$q = q_1 = q_2 = q_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_004",
+      "pregunta": "¿Cuál es la característica principal de la diferencia de potencial en una combinación de capacitores en paralelo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La diferencia de potencial se divide equitativamente entre los capacitores.",
+        "B": "La diferencia de potencial es la misma para todos los capacitores individuales.",
+        "C": "La suma de las diferencias de potencial individuales es igual al potencial total.",
+        "D": "La diferencia de potencial es mayor en el capacitor de menor capacitancia.",
+        "E": "La diferencia de potencial es cero en todo el arreglo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una conexión en paralelo, todos los capacitores están conectados a los mismos dos puntos del circuito. Por lo tanto, la diferencia de potencial ($V$) a través de cada capacitor individual es idéntica y es igual al voltaje total aplicado al arreglo. Esto se representa como $$V = V_1 = V_2 = V_3$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_005",
+      "pregunta": "La energía potencial eléctrica almacenada en un capacitor cargado es exactamente igual a:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La resistencia eléctrica del circuito.",
+        "B": "La suma de las capacitancias individuales.",
+        "C": "La cantidad de trabajo requerido para cargarlo.",
+        "D": "El campo magnético generado por la corriente.",
+        "E": "La diferencia de potencial total del circuito."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por definición, la energía potencial eléctrica que un capacitor almacena es igual a la cantidad de trabajo que se debe realizar para transportar la carga de una placa a otra y así cargarlo. Esta energía se almacena en el campo eléctrico entre las placas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_006",
+      "pregunta": "¿Cuál es la fórmula correcta para calcular la capacitancia equivalente ($C_{eq}$) de una combinación de capacitores en serie?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C_{eq} = C_1 + C_2 + C_3 + \\dots$$",
+        "B": "$$C_{eq} = \\frac{1}{C_1} + \\frac{1}{C_2} + \\frac{1}{C_3} + \\dots$$",
+        "C": "$$\\frac{1}{C_{eq}} = C_1 + C_2 + C_3 + \\dots$$",
+        "D": "$$C_{eq} = C_1 \\cdot C_2 \\cdot C_3 \\cdot \\dots$$",
+        "E": "$$\\frac{1}{C_{eq}} = \\frac{1}{C_1} + \\frac{1}{C_2} + \\frac{1}{C_3} + \\dots$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para capacitores en serie, el recíproco de la capacitancia equivalente es igual a la suma de los recíprocos de las capacitancias individuales. La fórmula correcta es $$\\frac{1}{C_{eq}} = \\frac{1}{C_1} + \\frac{1}{C_2} + \\frac{1}{C_3} + \\dots$$. La opción A corresponde a la fórmula para capacitores en paralelo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_007",
+      "pregunta": "¿Cómo se determina la capacitancia equivalente ($C$) para una combinación de capacitores en paralelo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es la suma de los recíprocos de las capacitancias individuales.",
+        "B": "Es igual a la capacitancia más pequeña del arreglo.",
+        "C": "Es la suma directa de las capacitancias individuales.",
+        "D": "Es el promedio de todas las capacitancias.",
+        "E": "Es el recíproco de la suma de las capacitancias individuales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La capacitancia equivalente de una combinación de capacitores en paralelo se encuentra sumando directamente las capacitancias de cada uno de los capacitores en el arreglo. La fórmula es $$C = C_1 + C_2 + C_3 + \\dots$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_008",
+      "pregunta": "En un circuito de capacitores en serie, ¿cómo se relaciona la diferencia de potencial total ($V$) con las caídas de potencial individuales ($V_1$, $V_2$, $V_3$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El potencial total es el mismo que en cada capacitor: $$V = V_1 = V_2 = V_3$$",
+        "B": "El potencial total es el producto de los potenciales individuales: $$V = V_1 \\cdot V_2 \\cdot V_3$$",
+        "C": "El potencial total es la suma de los potenciales individuales: $$V = V_1 + V_2 + V_3$$",
+        "D": "El potencial total es menor que cualquier potencial individual.",
+        "E": "El recíproco del potencial total es la suma de los recíprocos de los potenciales individuales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En una conexión en serie, la diferencia de potencial total aplicada al circuito se reparte entre los capacitores. La suma de las caídas de potencial a través de cada capacitor individual es igual al potencial total: $$V = V_1 + V_2 + V_3$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_009",
+      "pregunta": "Para una conexión de capacitores en paralelo, ¿cómo se relaciona la carga total ($q$) con las cargas individuales ($q_1$, $q_2$, $q_3$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga total es la misma en cada capacitor: $$q = q_1 = q_2 = q_3$$",
+        "B": "La carga total es la suma de las cargas individuales: $$q = q_1 + q_2 + q_3$$",
+        "C": "La carga total es el promedio de las cargas individuales.",
+        "D": "El inverso de la carga total es la suma de los inversos de las cargas individuales.",
+        "E": "La carga total es igual a la carga del capacitor de mayor capacitancia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un arreglo en paralelo, la carga total suministrada por la fuente se distribuye entre los diferentes capacitores. La carga total es la suma de las cargas almacenadas en cada capacitor individual: $$q = q_1 + q_2 + q_3$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_010",
+      "pregunta": "¿Cuál de las siguientes expresiones NO representa la energía potencial eléctrica ($U$) almacenada en un capacitor?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$U = \\frac{Q^2}{2C}$$",
+        "B": "$$U = \\frac{C \\cdot V^2}{2}$$",
+        "C": "$$U = \\frac{Q \\cdot V}{2}$$",
+        "D": "$$U = \\frac{Q \\cdot C}{2}$$",
+        "E": "Todas las opciones A, B y C son fórmulas válidas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las fórmulas correctas para la energía potencial ($U$) almacenada en un capacitor son $$U = \\frac{Q^2}{2C}$$, $$U = \\frac{C \\cdot V^2}{2}$$ y $$U = \\frac{Q \\cdot V}{2}$$. La expresión $$U = \\frac{Q \\cdot C}{2}$$ no es una fórmula válida para la energía almacenada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_011",
+      "pregunta": "La unidad de capacitancia, el farad ($F$), es dimensionalmente equivalente a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un volt por coulomb ($$1 \\text{ V/C}$$)",
+        "B": "Un coulomb por volt ($$1 \\text{ C/V}$$)",
+        "C": "Un joule por segundo ($$1 \\text{ J/s}$$)",
+        "D": "Un coulomb por segundo ($$1 \\text{ C/s}$$)",
+        "E": "Un volt por ampere ($$1 \\text{ V/A}$$)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por definición, la capacitancia se calcula como $$C = Q/V$$. Por lo tanto, su unidad, el farad ($F$), debe ser equivalente a la unidad de carga (coulomb, $C$) dividida por la unidad de diferencia de potencial (volt, $V$). Así, $$1 \\text{ F} = 1 \\text{ C/V}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_012",
+      "pregunta": "Por definición, ¿qué característica fundamental tienen siempre los valores de capacitancia ($C$), carga ($Q$) y diferencia de potencial ($V$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son cantidades vectoriales.",
+        "B": "Se expresan como cantidades negativas en un campo eléctrico inverso.",
+        "C": "Siempre se expresan como cantidades positivas.",
+        "D": "Sus valores son siempre números enteros.",
+        "E": "Dependen de la temperatura del ambiente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el contexto de la fórmula de capacitancia, tanto la carga ($Q$) como la diferencia de potencial ($V$) se expresan como cantidades positivas. Como resultado, la capacitancia ($C$), que es la razón de estas dos, siempre es una cantidad positiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_013",
+      "pregunta": "Si se añade un capacitor adicional a un circuito que ya tiene varios capacitores conectados en serie, ¿cómo se verá afectada la capacitancia equivalente total ($C_{eq}$) del circuito?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La capacitancia equivalente aumentará.",
+        "B": "La capacitancia equivalente no cambiará.",
+        "C": "La capacitancia equivalente se volverá negativa.",
+        "D": "La capacitancia equivalente disminuirá.",
+        "E": "La capacitancia equivalente será igual a la del capacitor añadido."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La capacitancia equivalente en serie se calcula con la fórmula $$\\frac{1}{C_{eq}} = \\frac{1}{C_1} + \\frac{1}{C_2} + \\dots$$. Al añadir un nuevo capacitor, se agrega un nuevo término ($$\\frac{1}{C_{nuevo}}$$) a la suma de los recíprocos. Esto hace que el valor total de la suma de recíprocos aumente, lo que a su vez provoca que el valor de $$C_{eq}$$ (que es el inverso de esa suma) disminuya. De hecho, la capacitancia equivalente en serie es siempre menor que la menor de las capacitancias individuales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_014",
+      "pregunta": "Al conectar un nuevo capacitor en paralelo a un arreglo existente de capacitores en paralelo, ¿qué ocurre con la capacitancia equivalente total?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Disminuye, porque la carga se debe repartir entre más capacitores.",
+        "B": "Permanece constante, sin importar el valor del nuevo capacitor.",
+        "C": "Aumenta, ya que su valor se suma directamente al total.",
+        "D": "Se vuelve igual al valor del capacitor más grande del arreglo.",
+        "E": "Se vuelve cero para equilibrar el circuito."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para capacitores en paralelo, la capacitancia equivalente es la suma directa de las capacitancias individuales: $$C_{eq} = C_1 + C_2 + \\dots$$. Al añadir un nuevo capacitor, simplemente se agrega su capacitancia ($$C_{nuevo}$$) a la suma. Como la capacitancia es siempre una cantidad positiva, la suma total necesariamente aumentará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_113_015",
+      "pregunta": "Basándose en la fórmula de energía almacenada $$U = \\frac{C \\cdot V^2}{2}$$, si la diferencia de potencial ($V$) a través de un capacitor se duplica mientras su capacitancia ($C$) permanece constante, ¿cómo cambia la energía almacenada ($U$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía se reduce a la mitad.",
+        "B": "La energía permanece igual.",
+        "C": "La energía se duplica.",
+        "D": "La energía se cuadruplica.",
+        "E": "La energía se reduce a una cuarta parte."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía almacenada ($U$) es directamente proporcional al cuadrado de la diferencia de potencial ($V^2$). Si el voltaje se duplica ($$V_{nuevo} = 2V$$), la nueva energía será $$U_{nueva} = \\frac{C \\cdot (2V)^2}{2} = \\frac{C \\cdot 4V^2}{2} = 4 \\left( \\frac{C \\cdot V^2}{2} \\right) = 4U$$. Por lo tanto, la energía almacenada se cuadruplica.",
+      "imagen": null
+    }
+  ]
+}

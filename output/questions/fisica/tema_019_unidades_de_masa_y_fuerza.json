@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 19,
+  "total_temas": 137,
+  "titulo_tema": "Unidades de Masa y Fuerza",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_019_001",
+      "pregunta": "¿Cuál es la unidad de masa en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Gramo (g)",
+        "C": "Kilogramo (kg)",
+        "D": "Metro por segundo al cuadrado (m/s²)",
+        "E": "Joule (J)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa es una magnitud fundamental en el Sistema Internacional (S.I.). Su unidad estándar es el kilogramo, representado por el símbolo kg. Las otras opciones son incorrectas: el Newton es la unidad de fuerza, el gramo es un submúltiplo del kilogramo, el metro por segundo al cuadrado es la unidad de aceleración y el Joule es la unidad de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_002",
+      "pregunta": "¿En qué tipo de marco de referencia se cumplen las leyes de Newton?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Marco de referencia acelerado",
+        "B": "Marco de referencia no inercial",
+        "C": "Marco de referencia rotacional",
+        "D": "Marco de referencia inercial",
+        "E": "Cualquier marco de referencia"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las leyes de Newton se cumplen en todos los marcos de referencia inerciales. Un marco de referencia inercial es aquel que no está acelerado, es decir, se mueve a velocidad constante o está en reposo. En los marcos de referencia no inerciales, que están acelerados, las leyes de Newton no se cumplen de forma directa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_003",
+      "pregunta": "¿Cuál es la unidad de medida para la fuerza en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Kilogramo (kg)",
+        "B": "Newton (N)",
+        "C": "Pascal (Pa)",
+        "D": "Metro (m)",
+        "E": "Segundo (s)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza se mide en newtons (N) en el Sistema Internacional. Un newton es una unidad derivada, definida a partir de las unidades fundamentales de masa, longitud y tiempo. El kilogramo es la unidad de masa, el Pascal de presión, el metro de longitud y el segundo de tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_004",
+      "pregunta": "Un sistema de referencia no inercial se caracteriza por estar...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "en reposo absoluto.",
+        "B": "moviéndose con velocidad constante.",
+        "C": "acelerado con respecto a un observador inercial.",
+        "D": "en el vacío.",
+        "E": "siempre en movimiento rectilíneo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La característica fundamental de un sistema de referencia no inercial es que se encuentra acelerado con respecto a un sistema de referencia inercial. Los sistemas en reposo o que se mueven con velocidad constante son inerciales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_005",
+      "pregunta": "¿Cómo se define matemáticamente un newton (N)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1 \\text{ N} = 1 \\text{ kg} \\times 1 \\text{ m/s}$$",
+        "B": "$$1 \\text{ N} = 1 \\text{ kg} \\div 1 \\text{ m/s}^2$$",
+        "C": "$$1 \\text{ N} = 1 \\text{ g} \\times 1 \\text{ cm/s}^2$$",
+        "D": "$$1 \\text{ N} = 1 \\text{ kg} \\times 1 \\text{ m}^2/\\text{s}^2$$",
+        "E": "$$1 \\text{ N} = 1 \\text{ kg} \\times 1 \\text{ m/s}^2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un newton se define como la fuerza resultante que, al actuar sobre un cuerpo de un kilogramo de masa, le produce una aceleración de un metro por segundo al cuadrado. La fórmula que representa esta definición es $$1 \\text{ N} = 1 \\text{ kg} \\times 1 \\text{ m/s}^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_006",
+      "pregunta": "Si un marco de referencia se mueve con velocidad constante respecto a un marco de referencia inercial, ¿qué tipo de marco de referencia es?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No inercial",
+        "B": "Acelerado",
+        "C": "Rotacional",
+        "D": "Absoluto",
+        "E": "También inercial"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un principio fundamental de la física newtoniana es que todo marco de referencia que se mueva con velocidad constante respecto de otro marco de referencia inercial, será también inercial. Esto significa que las leyes de la física, en particular las de Newton, se aplicarán de la misma forma en ambos marcos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_007",
+      "pregunta": "¿Cuál es la consecuencia principal de realizar mediciones en un sistema de referencia no inercial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa de los objetos cambia.",
+        "B": "El tiempo transcurre más lentamente.",
+        "C": "Las leyes de Newton no se cumplen.",
+        "D": "La velocidad de la luz varía.",
+        "E": "Las fuerzas fundamentales desaparecen."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un sistema de referencia no inercial, que es un sistema acelerado, las leyes de Newton no se cumplen de manera directa. Para que se cumplan, es necesario introducir el concepto de fuerzas ficticias o de inercia, que no son interacciones reales entre cuerpos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_008",
+      "pregunta": "Si se aplica una fuerza resultante de $$1 \\text{ N}$$ a un cuerpo de $$1 \\text{ kg}$$, ¿cuál es la magnitud de la aceleración que experimenta el cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$9.8 \\text{ m/s}^2$$",
+        "B": "$$1.0 \\text{ m/s}$$",
+        "C": "$$0.1 \\text{ m/s}^2$$",
+        "D": "$$1.0 \\text{ m/s}^2$$",
+        "E": "$$10.0 \\text{ m/s}^2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La definición de newton establece que es la fuerza que produce una aceleración de $$1.0 \\text{ m/s}^2$$ en una masa de $$1 \\text{ kg}$$. Por lo tanto, si una fuerza de $$1 \\text{ N}$$ actúa sobre una masa de $$1 \\text{ kg}$$, la aceleración resultante es, por definición, de $$1.0 \\text{ m/s}^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_009",
+      "pregunta": "¿Qué diferencia fundamental existe entre un marco de referencia inercial y uno no inercial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad a la que se mueven.",
+        "B": "La cantidad de masa que contienen.",
+        "C": "La presencia o ausencia de aceleración.",
+        "D": "El tipo de coordenadas utilizadas (cartesianas o polares).",
+        "E": "La dirección del movimiento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción clave es la aceleración. Un marco de referencia inercial no está acelerado (se mueve a velocidad constante o está en reposo), mientras que un marco de referencia no inercial sí está acelerado con respecto a un marco inercial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_010",
+      "pregunta": "Si un sistema de referencia está acelerando, ¿qué se puede afirmar sobre la validez de las leyes de Newton dentro de él?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se cumplen perfectamente.",
+        "B": "Solo se cumple la primera ley de Newton.",
+        "C": "Solo se cumple la tercera ley de Newton.",
+        "D": "No se cumplen.",
+        "E": "Se cumplen solo si la aceleración es constante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un sistema que está acelerando es un sistema no inercial. Una característica definitoria de los sistemas no inerciales es que las leyes de Newton no se cumplen desde la perspectiva de un observador situado en dicho sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_011",
+      "pregunta": "La masa es considerada una de las magnitudes...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "vectoriales del S.I.",
+        "B": "derivadas del S.I.",
+        "C": "fundamentales del S.I.",
+        "D": "adimensionales del S.I.",
+        "E": "secundarias del S.I."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Sistema Internacional (S.I.) se basa en siete magnitudes fundamentales a partir de las cuales se derivan todas las demás. La masa es una de estas siete magnitudes fundamentales, junto con la longitud, el tiempo, la temperatura, la corriente eléctrica, la intensidad luminosa y la cantidad de sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_012",
+      "pregunta": "Un observador en un tren que se mueve en línea recta y a velocidad constante, se encuentra en un sistema de referencia...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "no inercial, porque se está moviendo.",
+        "B": "acelerado, porque tiene velocidad.",
+        "C": "inercial, porque su velocidad es constante.",
+        "D": "no inercial, porque la Tierra rota.",
+        "E": "variable, dependiendo de la masa del tren."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un sistema de referencia es inercial si se mueve con velocidad constante (lo cual incluye el estado de reposo, donde la velocidad es cero y constante). Dado que el tren se mueve en línea recta y a velocidad constante, no tiene aceleración, por lo que constituye un marco de referencia inercial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_013",
+      "pregunta": "Un objeto de masa desconocida experimenta una aceleración de $$1.0 \\text{ m/s}^2$$ cuando sobre él actúa una fuerza resultante de $$1 \\text{ N}$$. ¿Cuál es la masa del objeto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$9.8 \\text{ kg}$$",
+        "B": "$$1.0 \\text{ kg}$$",
+        "C": "$$0.1 \\text{ kg}$$",
+        "D": "$$2.0 \\text{ kg}$$",
+        "E": "No se puede determinar sin conocer la velocidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La relación entre fuerza ($$F$$), masa ($$m$$) y aceleración ($$a$$) está dada por $$F = m \\times a$$. A partir de la definición de Newton, sabemos que $$1 \\text{ N} = 1 \\text{ kg} \\times 1 \\text{ m/s}^2$$. Si despejamos la masa, tenemos $$m = F/a$$. Sustituyendo los valores dados: $$m = 1 \\text{ N} / 1.0 \\text{ m/s}^2 = 1.0 \\text{ kg}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_014",
+      "pregunta": "Un experimento se realiza dentro de un ascensor que está frenando mientras sube. ¿Por qué este ascensor es un sistema de referencia no inercial para el experimento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque está en un campo gravitatorio.",
+        "B": "Porque se mueve verticalmente.",
+        "C": "Porque tiene una velocidad no nula.",
+        "D": "Porque está experimentando una aceleración.",
+        "E": "Porque es un sistema cerrado."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un sistema de referencia es no inercial si está acelerado. Frenar es un tipo de aceleración (en este caso, una aceleración con dirección opuesta a la velocidad). Dado que el ascensor está cambiando su velocidad (frenando), está acelerado, y por lo tanto, constituye un marco de referencia no inercial. Las leyes de Newton no se aplicarían directamente para un observador dentro de él.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_019_015",
+      "pregunta": "Se sabe que en el marco de referencia S1 las leyes de Newton son válidas. Se observa un segundo marco, S2, donde las leyes de Newton también son válidas. ¿Qué se puede concluir sobre el movimiento de S2 con respecto a S1?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "S2 debe estar en reposo con respecto a S1.",
+        "B": "S2 debe moverse con velocidad constante con respecto a S1.",
+        "C": "S2 debe moverse con aceleración constante con respecto a S1.",
+        "D": "S2 debe estar rotando con respecto a S1.",
+        "E": "No se puede establecer ninguna relación entre ellos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si las leyes de Newton son válidas en ambos marcos de referencia (S1 y S2), significa que ambos son marcos inerciales. Por definición, cualquier marco de referencia que se mueva con velocidad constante respecto a un marco inercial, también es inercial. Por lo tanto, el marco S2 debe moverse con velocidad constante (lo cual incluye el caso de estar en reposo, que es velocidad constante igual a cero) con respecto al marco S1.",
+      "imagen": null
+    }
+  ]
+}

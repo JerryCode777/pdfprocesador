@@ -3,5 +3,231 @@
   "numero_tema": 175,
   "total_temas": 322,
   "titulo_tema": "Ecuación Química",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_175_001",
+      "pregunta": "¿Cómo se denominan las sustancias iniciales que participan en una reacción química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Resultantes",
+        "B": "Productos",
+        "C": "Reactantes o reaccionantes",
+        "D": "Coeficientes",
+        "E": "Catalizadores"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las sustancias que inician una reacción química se conocen como reactantes o reaccionantes. Estas son las materias primas que se transforman durante el proceso. Los productos o resultantes son las sustancias que se forman al final de la reacción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_002",
+      "pregunta": "En una ecuación química, ¿qué indica el símbolo $$(s)$$ escrito como subíndice junto a una sustancia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que la sustancia es soluble",
+        "B": "Que la sustancia está en estado sólido",
+        "C": "Que la reacción es espontánea",
+        "D": "Que se necesita un catalizador",
+        "E": "Que la sustancia es una solución"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El símbolo $$(s)$$ es una convención utilizada en las ecuaciones químicas para indicar el estado físico de una sustancia. Específicamente, $$(s)$$ representa el estado sólido. Los otros estados comunes son $$(l)$$ para líquido, $$(g)$$ para gas y $$(ac)$$ para disolución acuosa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_003",
+      "pregunta": "¿Cuál de los siguientes símbolos se utiliza para indicar que una reacción es reversible?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\rightarrow$$",
+        "B": "$$\\uparrow$$",
+        "C": "$$\\downarrow$$",
+        "D": "$$\\leftrightarrow$$",
+        "E": "$$\\Delta$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El símbolo de la doble flecha, $$\\leftrightarrow$$, se usa para indicar que una reacción es reversible, lo que significa que puede proceder tanto en la dirección de reactivos a productos como de productos a reactivos. La flecha simple, $$\\rightarrow$$, indica una reacción irreversible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_004",
+      "pregunta": "¿Qué representa el coeficiente que se coloca a la izquierda de una fórmula en una ecuación química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de átomos en la molécula",
+        "B": "La masa molar de la sustancia",
+        "C": "El número de moles de la sustancia",
+        "D": "El estado físico de la sustancia",
+        "E": "La carga eléctrica del compuesto"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El coeficiente estequiométrico es el número que se antepone a la fórmula de una sustancia en una ecuación química. Su función es indicar el número relativo de moles de esa sustancia que participa en la reacción, permitiendo balancear la ecuación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_005",
+      "pregunta": "¿Cuál de las siguientes opciones es una evidencia observable de que ha ocurrido una reacción química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La disolución completa de un sólido",
+        "B": "Un cambio en la presión del sistema",
+        "C": "La formación de un gas",
+        "D": "La ebullición de un líquido por calentamiento",
+        "E": "La mezcla de dos líquidos de diferente densidad"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La formación de un gas, a menudo visible como burbujas o efervescencia, es una de las señales claras de que se ha producido una reacción química. Otras evidencias incluyen el cambio de color, la formación de un precipitado y la liberación o absorción de calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_006",
+      "pregunta": "¿Cómo influye un aumento en la concentración de los reactivos en la velocidad de una reacción química?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye la velocidad de reacción",
+        "B": "Aumenta la velocidad de reacción",
+        "C": "No tiene ningún efecto en la velocidad",
+        "D": "Solo afecta a reacciones en estado gaseoso",
+        "E": "Invierte el sentido de la reacción"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al aumentar la concentración de los reactivos, hay más partículas de reactivos en un volumen determinado. Esto incrementa la frecuencia de colisiones efectivas entre ellas, lo que resulta en un aumento de la velocidad de la reacción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_007",
+      "pregunta": "En la estructura de una ecuación química, ¿en qué lado se escriben las sustancias que resultan de la reacción, conocidas como productos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A la izquierda de la flecha",
+        "B": "A la derecha de la flecha",
+        "C": "Encima de la flecha",
+        "D": "Debajo de la flecha",
+        "E": "En ambos lados si es reversible"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por convención, las ecuaciones químicas se escriben con los reactivos (sustancias iniciales) a la izquierda y los productos (sustancias formadas) a la derecha, separados por una flecha que indica el sentido de la transformación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_008",
+      "pregunta": "¿Cuál es la función principal de un catalizador en una reacción química?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ser uno de los productos finales de la reacción",
+        "B": "Aumentar la concentración de los reactivos",
+        "C": "Indicar el estado físico de las sustancias",
+        "D": "Aportar la energía inicial para la reacción",
+        "E": "Aumentar o disminuir la velocidad de la reacción"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un catalizador es una sustancia que modifica la velocidad de una reacción química sin ser consumida en el proceso. Puede acelerar la reacción (catalizador positivo) o disminuir su velocidad (catalizador negativo o inhibidor).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_009",
+      "pregunta": "Si al mezclar dos soluciones transparentes se forma una sustancia sólida insoluble, ¿qué evidencia de reacción química se está observando?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Absorción de calor",
+        "B": "Formación de un gas",
+        "C": "Cambio de color",
+        "D": "Formación de un precipitado",
+        "E": "Aumento de la temperatura"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La aparición de un sólido insoluble en una solución se denomina precipitación. Este sólido es un producto de la reacción y su formación es una evidencia visual clara de que ha ocurrido una transformación química. El símbolo para un precipitado es $$\\downarrow$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_010",
+      "pregunta": "El símbolo $$(aq)$$ o $$(ac)$$ junto a la fórmula de una sustancia indica que esta se encuentra:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En estado gaseoso",
+        "B": "En estado líquido puro",
+        "C": "Como un ácido concentrado",
+        "D": "En una disolución acuosa",
+        "E": "Liberando energía"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los símbolos $$(aq)$$ o $$(ac)$$ provienen del latín \"aqua\" y se utilizan para especificar que una sustancia no está en su estado puro, sino disuelta en agua, formando una disolución acuosa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_011",
+      "pregunta": "¿Qué significa el símbolo $$\\Delta$$ colocado sobre la flecha de una reacción química?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la reacción produce un cambio de color",
+        "B": "Que se requiere la adición de calor para que la reacción ocurra",
+        "C": "Que la reacción es reversible",
+        "D": "Que se utiliza un catalizador",
+        "E": "Que la reacción ocurre a alta presión"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El símbolo delta mayúscula, $$\\Delta$$, se coloca sobre la flecha de la reacción para indicar que se debe suministrar calor o energía térmica para que la reacción química se lleve a cabo. Es una condición externa necesaria para la transformación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_012",
+      "pregunta": "Al reaccionar un antiácido en tableta con agua, se observa que la tableta pulverizada reacciona mucho más rápido que la tableta entera. ¿Qué factor está influyendo principalmente en esta diferencia de velocidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura del agua",
+        "B": "La presencia de un catalizador",
+        "C": "La superficie de contacto",
+        "D": "La concentración del antiácido",
+        "E": "El cambio de color"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al pulverizar la tableta, se aumenta drásticamente su superficie de contacto total. Una mayor superficie de contacto permite que más partículas del reactivo sólido estén expuestas y puedan colisionar con las partículas del agua simultáneamente, lo que acelera la velocidad de la reacción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_013",
+      "pregunta": "Una reacción química produce un gas que escapa del sistema y es un proceso que no puede revertirse para formar los reactivos originales. ¿Qué combinación de símbolos representaría correctamente estas dos características en la ecuación?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$(\\downarrow)$$ y $$(\\leftrightarrow)$$",
+        "B": "$$(\\uparrow)$$ y $$(\\rightarrow)$$",
+        "C": "$$(g)$$ y $$(\\leftrightarrow)$$",
+        "D": "$$(\\Delta)$$ y $$(\\rightarrow)$$",
+        "E": "$$(l)$$ y $$(\\downarrow)$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La producción de un gas que se desprende se simboliza con una flecha hacia arriba, $$\\uparrow$$. Una reacción que transcurre en un solo sentido (irreversible) se representa con una flecha simple, $$\\rightarrow$$. La combinación de ambos símbolos describe adecuadamente las características mencionadas. El símbolo $$(g)$$ indica estado gaseoso, pero $$\\uparrow$$ especifica que se desprende.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_014",
+      "pregunta": "Si se observa que un tubo de ensayo se enfría notablemente al tacto después de mezclar dos reactivos, ¿qué evidencia de reacción química está ocurriendo y qué se puede inferir sobre el proceso?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Formación de gas, lo que indica un cambio de estado físico.",
+        "B": "Absorción de calor, indicando que la reacción es endotérmica.",
+        "C": "Formación de precipitado, lo que indica la creación de un sólido.",
+        "D": "Liberación de calor, indicando que la reacción es exotérmica.",
+        "E": "Cambio de color, lo cual no tiene relación directa con la temperatura."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El enfriamiento del recipiente indica que la reacción está tomando energía en forma de calor de su entorno. Esto corresponde a la evidencia de \"absorción de calor\". Las reacciones que absorben calor se denominan endotérmicas. Una reacción que liberara calor (exotérmica) calentaría el tubo de ensayo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_175_015",
+      "pregunta": "¿Cuál de los siguientes escenarios describe la combinación de factores que, según los principios dados, maximizaría la velocidad de una reacción entre un reactivo sólido y uno en disolución acuosa?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Usar el sólido en un solo trozo, a baja temperatura y en una disolución diluida.",
+        "B": "Usar el sólido pulverizado, a alta temperatura, en una disolución concentrada y con un catalizador que acelere la reacción.",
+        "C": "Usar el sólido en trozos grandes, a temperatura ambiente y con un catalizador que disminuya la velocidad.",
+        "D": "Usar el sólido pulverizado, pero a baja temperatura y en una disolución diluida.",
+        "E": "Usar el sólido en un solo trozo, a alta temperatura y en una disolución concentrada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para maximizar la velocidad de reacción, se deben combinar los efectos de todos los factores que la aumentan: una mayor superficie de contacto (sólido pulverizado), una mayor temperatura, una mayor concentración de los reactivos (disolución concentrada) y el uso de un catalizador que aumente la velocidad (acelerador). La opción B es la única que combina todos estos factores de manera óptima.",
+      "imagen": null
+    }
+  ]
 }

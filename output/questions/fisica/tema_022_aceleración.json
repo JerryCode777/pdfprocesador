@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 22,
+  "total_temas": 137,
+  "titulo_tema": "Aceleración",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_022_001",
+      "pregunta": "¿Qué característica de la fuerza resultante determina la dirección y el sentido de la aceleración de un cuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La magnitud de la fuerza resultante",
+        "B": "La dirección y el sentido de la fuerza resultante",
+        "C": "El punto de aplicación de la fuerza resultante",
+        "D": "La duración de la aplicación de la fuerza",
+        "E": "La masa del cuerpo sobre el que actúa la fuerza"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La aceleración de un cuerpo siempre tiene la misma dirección y el mismo sentido que la fuerza resultante que la produce. Las otras opciones, como la magnitud de la fuerza o la masa, influyen en la magnitud de la aceleración, pero no en su dirección y sentido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_002",
+      "pregunta": "¿Cómo se denomina el movimiento de un cuerpo cuando su rapidez aumenta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Movimiento desacelerado",
+        "B": "Movimiento rectilíneo",
+        "C": "Movimiento uniforme",
+        "D": "Movimiento acelerado",
+        "E": "Movimiento estacionario"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un movimiento es considerado acelerado cuando la rapidez del objeto aumenta con el tiempo. Por el contrario, si la rapidez disminuye, el movimiento se denomina desacelerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_003",
+      "pregunta": "¿Bajo qué condición la aceleración de un cuerpo se mantendrá constante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Si la masa del cuerpo es constante",
+        "B": "Si la velocidad del cuerpo es constante",
+        "C": "Si las fuerzas aplicadas sobre el cuerpo permanecen constantes",
+        "D": "Si no se aplican fuerzas sobre el cuerpo",
+        "E": "Si la trayectoria del cuerpo es una línea recta"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que la aceleración de un cuerpo sea constante, es necesario que la fuerza resultante aplicada sobre él también sea constante. Si la fuerza varía, la aceleración también variará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_004",
+      "pregunta": "¿Cuál es la relación de proporcionalidad entre la aceleración que adquiere un cuerpo y la fuerza resultante aplicada?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inversamente proporcional",
+        "B": "Directamente proporcional",
+        "C": "Cuadrática inversa",
+        "D": "No existe relación de proporcionalidad",
+        "E": "Exponencial"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La aceleración es directamente proporcional a la fuerza resultante. Esto significa que si la fuerza aumenta, la aceleración aumenta en la misma proporción, y si la fuerza disminuye, la aceleración también disminuye proporcionalmente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_005",
+      "pregunta": "¿Qué relación existe entre la aceleración de un cuerpo y su masa cuando se aplica una fuerza constante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La aceleración es directamente proporcional a la masa.",
+        "B": "La aceleración es independiente de la masa.",
+        "C": "La aceleración es inversamente proporcional a la masa.",
+        "D": "La aceleración es igual al cuadrado de la masa.",
+        "E": "La aceleración es igual a la masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración es inversamente proporcional a la masa del cuerpo. Esto implica que, para una misma fuerza aplicada, un cuerpo con mayor masa experimentará una menor aceleración, mientras que un cuerpo con menor masa experimentará una mayor aceleración.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_006",
+      "pregunta": "Si un vehículo en movimiento comienza a frenar, y por lo tanto su rapidez disminuye, se dice que su movimiento es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Acelerado",
+        "B": "Uniforme",
+        "C": "Nulo",
+        "D": "Desacelerado",
+        "E": "Perpétuo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando la rapidez de un cuerpo disminuye, el movimiento se clasifica como desacelerado. Esto implica que la aceleración tiene un sentido opuesto al de la velocidad del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_007",
+      "pregunta": "Si la fuerza resultante que actúa sobre un objeto se reduce a la tercera parte de su valor original, ¿cómo cambiará su aceleración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se triplicará.",
+        "B": "Se reducirá a la tercera parte.",
+        "C": "No cambiará.",
+        "D": "Se reducirá a la novena parte.",
+        "E": "Se volverá cero."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Dado que la aceleración es directamente proporcional a la fuerza resultante, cualquier cambio en la fuerza se reflejará de manera idéntica en la aceleración. Si la fuerza se reduce a la tercera parte, la aceleración también se reducirá a la tercera parte.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_008",
+      "pregunta": "Se aplica una misma fuerza resultante a dos cuerpos, A y B. Si la masa de A es menor que la masa de B, ¿qué se puede afirmar sobre sus aceleraciones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La aceleración de A es menor que la de B.",
+        "B": "La aceleración de A es igual a la de B.",
+        "C": "La aceleración de A es mayor que la de B.",
+        "D": "Ambos cuerpos tendrán aceleración cero.",
+        "E": "No se puede determinar la relación sin conocer la fuerza."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración es inversamente proporcional a la masa. Al aplicar la misma fuerza, el cuerpo con menor masa (cuerpo A) experimentará una aceleración mayor que el cuerpo con mayor masa (cuerpo B).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_009",
+      "pregunta": "Un cuerpo experimenta una aceleración constante. ¿Qué se puede deducir acerca de la fuerza resultante que actúa sobre él?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza resultante es nula.",
+        "B": "La fuerza resultante está aumentando linealmente.",
+        "C": "La fuerza resultante es constante y no nula.",
+        "D": "La fuerza resultante está disminuyendo.",
+        "E": "La fuerza resultante es perpendicular a la aceleración."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que la aceleración sea constante, la fuerza resultante que la produce también debe ser constante. Si la fuerza fuera nula, la aceleración sería cero. Si la fuerza variara, la aceleración también lo haría.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_010",
+      "pregunta": "Un objeto tiene una aceleración inicial $a$. Si la fuerza neta que actúa sobre él se duplica, ¿cuál será su nueva aceleración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$a$$",
+        "B": "$$\\frac{a}{2}$$",
+        "C": "$$4a$$",
+        "D": "$$\\frac{a}{4}$$",
+        "E": "$$2a$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La aceleración es directamente proporcional a la fuerza resultante. Si la fuerza se duplica, la aceleración también se duplicará, pasando de un valor $a$ a un valor $2a$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_011",
+      "pregunta": "Un bloque de masa $m$ adquiere una aceleración $a$ cuando se le aplica una fuerza $F$. Si se aplica la misma fuerza $F$ a un bloque de masa $2m$, ¿cuál será su aceleración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$2a$$",
+        "B": "$$a$$",
+        "C": "$$\\frac{a}{2}$$",
+        "D": "$$4a$$",
+        "E": "$$\\frac{a}{4}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración es inversamente proporcional a la masa. Si la masa se duplica (de $m$ a $2m$) mientras la fuerza se mantiene constante, la aceleración se reducirá a la mitad (de $a$ a $a/2$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_012",
+      "pregunta": "Si un objeto está en un estado de movimiento desacelerado, ¿qué se puede afirmar sobre la relación entre la fuerza resultante y la velocidad del objeto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza resultante tiene el mismo sentido que la velocidad.",
+        "B": "La fuerza resultante es perpendicular a la velocidad.",
+        "C": "La fuerza resultante tiene sentido opuesto a la velocidad.",
+        "D": "La fuerza resultante es cero.",
+        "E": "La fuerza resultante no tiene relación con la velocidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un movimiento desacelerado implica que la rapidez disminuye. Esto ocurre cuando la aceleración tiene sentido opuesto a la velocidad. Dado que la fuerza resultante siempre tiene la misma dirección y sentido que la aceleración, la fuerza resultante también debe tener un sentido opuesto al de la velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_013",
+      "pregunta": "Dos bloques, A y B, son empujados con la misma fuerza. La masa del bloque B es el doble que la del bloque A ($$m_B = 2m_A$$). ¿Cuál es la relación entre la aceleración del bloque B ($$a_B$$) y la del bloque A ($$a_A$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$a_B = a_A$$",
+        "B": "$$a_B = 2a_A$$",
+        "C": "$$a_B = 4a_A$$",
+        "D": "$$a_B = \\frac{a_A}{2}$$",
+        "E": "$$a_B = \\frac{a_A}{4}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La aceleración es inversamente proporcional a la masa. Como la fuerza es la misma para ambos bloques, y la masa de B es el doble que la de A, la aceleración de B debe ser la mitad de la aceleración de A. Por lo tanto, $$a_B = \\frac{a_A}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_014",
+      "pregunta": "Un cuerpo de masa $m$ adquiere una aceleración $a$ cuando se le aplica una fuerza resultante $F$. Si la fuerza se triplica a $3F$ y la masa se duplica a $2m$, ¿cuál es la nueva aceleración del cuerpo en términos de $a$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$6a$$",
+        "B": "$$\\frac{2}{3}a$$",
+        "C": "$$5a$$",
+        "D": "$$\\frac{3}{2}a$$",
+        "E": "$$a$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La aceleración es directamente proporcional a la fuerza e inversamente proporcional a la masa. La nueva aceleración $a'$ estará afectada por ambos cambios. El cambio en la fuerza la multiplica por 3, y el cambio en la masa la divide por 2. Por lo tanto, la nueva aceleración será $$a' = a \\times \\frac{3}{2} = \\frac{3}{2}a$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_022_015",
+      "pregunta": "Un objeto se mueve con una velocidad hacia la derecha y su rapidez está disminuyendo. ¿Cuál es la dirección y sentido de la fuerza resultante que actúa sobre él?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Hacia la derecha.",
+        "B": "Hacia la izquierda.",
+        "C": "Hacia arriba.",
+        "D": "No hay fuerza resultante.",
+        "E": "Hacia abajo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si la rapidez de un objeto disminuye, el movimiento es desacelerado. Esto significa que la aceleración tiene un sentido opuesto al de la velocidad. Como el objeto se mueve hacia la derecha, su aceleración debe ser hacia la izquierda. Dado que la fuerza resultante tiene la misma dirección y sentido que la aceleración, la fuerza resultante también debe apuntar hacia la izquierda.",
+      "imagen": null
+    }
+  ]
+}

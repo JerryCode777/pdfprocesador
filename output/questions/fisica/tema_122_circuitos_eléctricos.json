@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 122,
+  "total_temas": 137,
+  "titulo_tema": "Circuitos eléctricos",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_122_001",
+      "pregunta": "¿Cuál es la unidad de medida de la potencia eléctrica en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Amperio (A)",
+        "B": "Voltio (V)",
+        "C": "Joule (J)",
+        "D": "Watt (W)",
+        "E": "Ohm (Ω)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad de la potencia eléctrica en el Sistema Internacional es el watt o vatio, representado por el símbolo W. El amperio es la unidad de la intensidad de corriente, el voltio es la unidad del voltaje, el joule es la unidad de la energía y el ohm es la unidad de la resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_002",
+      "pregunta": "¿Cómo se define un watt (W) en términos de energía y tiempo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un joule de energía utilizado en una hora",
+        "B": "Un voltio por amperio",
+        "C": "Un joule de energía utilizado en un segundo",
+        "D": "Un amperio de corriente en un segundo",
+        "E": "Un coulomb de carga por segundo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un watt se define como la cantidad de potencia cuando se utiliza un joule de energía en un segundo ($$1 \text{ W} = 1 \frac{\text{J}}{\text{s}}$$). Mide la rapidez con la que se transfiere o consume la energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_003",
+      "pregunta": "¿Qué representa la variable $I$ en las fórmulas de potencia eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Voltaje",
+        "B": "Resistencia",
+        "C": "Potencia eléctrica",
+        "D": "Energía",
+        "E": "Intensidad de corriente eléctrica"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En el contexto de los circuitos eléctricos, la variable $I$ representa la intensidad de la corriente eléctrica, cuya unidad de medida es el amperio (A). La $V$ representa el voltaje, la $P$ la potencia y la $R$ la resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_004",
+      "pregunta": "Cuando varias resistencias se conectan de tal manera que forman una sola trayectoria para el flujo de electrones, ¿cómo se denomina esta conexión?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Conexión en paralelo",
+        "B": "Conexión mixta",
+        "C": "Conexión en serie",
+        "D": "Conexión abierta",
+        "E": "Conexión en cortocircuito"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una conexión en serie se caracteriza porque los componentes, en este caso las resistencias, se conectan uno a continuación del otro, formando un único camino para el paso de la corriente eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_005",
+      "pregunta": "¿Qué es un circuito eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un único dispositivo que consume energía",
+        "B": "Una trayectoria abierta por donde pueden fluir los electrones",
+        "C": "Un conjunto de alambres sin dispositivos conectados",
+        "D": "Una conexión de dispositivos eléctricos que forman una trayectoria cerrada para los electrones",
+        "E": "Cualquier fuente de voltaje, como una batería"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un circuito eléctrico es una interconexión de componentes eléctricos (como baterías, resistencias, etc.) que forman una trayectoria cerrada, permitiendo el flujo continuo de electrones o corriente eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_006",
+      "pregunta": "¿Qué mide la magnitud escalar conocida como potencia consumida?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La cantidad total de energía almacenada en un circuito",
+        "B": "La oposición al flujo de electrones en un conductor",
+        "C": "La rapidez con que un dispositivo transforma o consume la energía eléctrica",
+        "D": "La fuerza que impulsa a los electrones a través de un conductor",
+        "E": "La cantidad de carga eléctrica que pasa por un punto en un segundo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La potencia consumida es la magnitud que indica la rapidez con la que se realiza un trabajo o se transforma la energía. En el contexto eléctrico, mide cuán rápido un dispositivo (como una bombilla o un motor) convierte la energía eléctrica en otra forma de energía (luz, calor, movimiento).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_007",
+      "pregunta": "¿Cuál de las siguientes fórmulas expresa correctamente la potencia eléctrica ($P$) en función del voltaje ($V$) y la intensidad de corriente ($I$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = \\frac{I}{V}$$",
+        "B": "$$P = IV$$",
+        "C": "$$P = I^2V$$",
+        "D": "$$P = \\frac{V}{I}$$",
+        "E": "$$P = V^2I$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La potencia eléctrica ($P$) se puede calcular como el producto del voltaje ($V$) y la intensidad de corriente ($I$). La fórmula es $$P = IV$$. Las otras opciones representan relaciones incorrectas entre estas tres magnitudes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_008",
+      "pregunta": "¿Qué condición es indispensable para que exista un flujo continuo de electrones en un circuito?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el circuito contenga al menos tres resistencias",
+        "B": "Que el circuito sea completo y sin interrupciones",
+        "C": "Que el voltaje sea superior a 100 voltios",
+        "D": "Que las resistencias estén conectadas únicamente en paralelo",
+        "E": "Que el circuito tenga una forma geométrica específica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que los electrones fluyan de manera continua, deben tener un camino cerrado y sin interrupciones por el cual moverse. Cualquier interrupción, como un interruptor abierto, detiene el flujo de la corriente en todo el circuito.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_009",
+      "pregunta": "La fórmula $$P = I^2R$$ permite calcular la potencia consumida. ¿Qué variables representa cada letra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$P$ = Potencial, $I$ = Impedancia, $R$ = Resistencia",
+        "B": "$P$ = Potencia, $I$ = Intensidad de corriente, $R$ = Resistencia",
+        "C": "$P$ = Presión, $I$ = Intensidad, $R$ = Radio",
+        "D": "$P$ = Potencia, $I$ = Voltaje, $R$ = Resistencia",
+        "E": "$P$ = Potencial, $I$ = Intensidad de corriente, $R$ = Reactancia"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la ecuación $$P = I^2R$$, la letra $P$ representa la potencia eléctrica (en watts), $I$ representa la intensidad de la corriente eléctrica (en amperios) y $R$ representa la resistencia eléctrica (en ohms).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_010",
+      "pregunta": "¿Cuál de estas expresiones matemáticas es una forma válida de calcular la potencia consumida ($P$) usando el voltaje ($V$) y la resistencia ($R$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P = V^2R$$",
+        "B": "$$P = \\frac{V}{R^2}$$",
+        "C": "$$P = \\frac{R}{V^2}$$",
+        "D": "$$P = \\frac{V^2}{R}$$",
+        "E": "$$P = VR$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una de las tres fórmulas para calcular la potencia eléctrica consumida es $$P = \\frac{V^2}{R}$$. Esta ecuación es particularmente útil cuando se conoce el voltaje aplicado a una resistencia y el valor de dicha resistencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_011",
+      "pregunta": "La potencia consumida se define como una magnitud escalar. ¿Qué significa esto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que tiene magnitud, dirección y sentido",
+        "B": "Que solo se puede medir en el Sistema Internacional",
+        "C": "Que queda completamente definida por un número y su unidad, sin necesidad de una dirección",
+        "D": "Que su valor siempre es positivo",
+        "E": "Que depende de la temperatura del circuito"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una magnitud escalar es aquella que se describe completamente con un valor numérico y su correspondiente unidad (por ejemplo, 100 W). No posee dirección ni sentido, a diferencia de las magnitudes vectoriales como la fuerza o la velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_012",
+      "pregunta": "Si un circuito tiene más de un dispositivo que recibe energía eléctrica, ¿cómo se pueden asociar sus resistencias de forma básica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente en serie",
+        "B": "Únicamente en paralelo",
+        "C": "En serie o en paralelo",
+        "D": "En diagonal o en perpendicular",
+        "E": "De forma abierta o cerrada"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las formas básicas de asociar o conectar resistencias en un circuito eléctrico son la conexión en serie (una detrás de otra) y la conexión en paralelo (en ramificaciones distintas). También existen combinaciones de ambas (circuitos mixtos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_013",
+      "pregunta": "En un resistor con resistencia $R$ constante, si la intensidad de corriente $I$ que lo atraviesa se duplica, ¿cómo cambia la potencia $P$ que consume?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La potencia se duplica",
+        "B": "La potencia se reduce a la mitad",
+        "C": "La potencia se cuadruplica",
+        "D": "La potencia se reduce a la cuarta parte",
+        "E": "La potencia no cambia"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación entre potencia, corriente y resistencia está dada por la fórmula $$P = I^2R$$. Si la corriente $I$ se duplica, el nuevo valor será $2I$. Al sustituir en la fórmula, la nueva potencia $P'$ será $$P' = (2I)^2R = 4I^2R = 4P$$. Por lo tanto, la potencia se cuadruplica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_014",
+      "pregunta": "Si el voltaje $V$ aplicado a una resistencia $R$ de valor fijo se reduce a la mitad, ¿qué le sucede a la potencia $P$ consumida por dicha resistencia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se reduce a la mitad",
+        "B": "Se duplica",
+        "C": "Se mantiene constante",
+        "D": "Se cuadruplica",
+        "E": "Se reduce a la cuarta parte"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La potencia se puede calcular con la fórmula $$P = \\frac{V^2}{R}$$. Si el voltaje $V$ se reduce a la mitad, el nuevo valor es $\\frac{V}{2}$. La nueva potencia $P'$ será $$P' = \\frac{(\\frac{V}{2})^2}{R} = \\frac{\\frac{V^2}{4}}{R} = \\frac{V^2}{4R} = \\frac{1}{4}P$$. Por lo tanto, la potencia se reduce a la cuarta parte de su valor original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_122_015",
+      "pregunta": "Un dispositivo eléctrico opera con un voltaje $V$ y una corriente $I$. Si en un nuevo escenario, tanto el voltaje aplicado como la corriente que fluye a través del dispositivo se duplican, ¿cómo se ve afectada la potencia $P$ consumida?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La potencia se duplica",
+        "B": "La potencia se cuadruplica",
+        "C": "La potencia no cambia",
+        "D": "La potencia se reduce a la mitad",
+        "E": "La potencia aumenta ocho veces"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula que relaciona directamente potencia, voltaje y corriente es $$P = IV$$. Si el nuevo voltaje es $V' = 2V$ y la nueva corriente es $I' = 2I$, la nueva potencia $P'$ será $$P' = V'I' = (2V)(2I) = 4VI = 4P$$. Esto significa que la potencia consumida se cuadruplica.",
+      "imagen": null
+    }
+  ]
+}

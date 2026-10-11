@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 116,
+  "total_temas": 137,
+  "titulo_tema": "Corriente eléctrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_116_001",
+      "pregunta": "¿Qué es la corriente eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La acumulación de cargas en un punto de un conductor.",
+        "B": "La fuerza de atracción o repulsión entre cargas eléctricas.",
+        "C": "Todo movimiento ordenado de las cargas eléctricas.",
+        "D": "El movimiento aleatorio de electrones en un metal.",
+        "E": "La energía almacenada en un campo eléctrico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La corriente eléctrica se define fundamentalmente como cualquier movimiento ordenado y dirigido de cargas eléctricas. Este movimiento es típicamente causado por la presencia de un campo eléctrico en un material conductor, que obliga a las cargas a fluir en una dirección específica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_002",
+      "pregunta": "¿Cuál es la unidad de la intensidad de corriente eléctrica en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Coulomb (C)",
+        "B": "Ohmio (Ω)",
+        "C": "Segundo (s)",
+        "D": "Amperio (A)",
+        "E": "Ohmio-metro (Ωm)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad para medir la intensidad de corriente eléctrica en el Sistema Internacional es el amperio, cuyo símbolo es A. El coulomb (C) es la unidad de carga eléctrica, el ohmio (Ω) es la unidad de resistencia eléctrica y el segundo (s) es la unidad de tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_003",
+      "pregunta": "¿Qué es la resistencia eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La facilidad con la que un cuerpo permite el paso de la corriente.",
+        "B": "La cantidad de carga que atraviesa un conductor por segundo.",
+        "C": "La dificultad que ofrece un cuerpo conductor al desplazamiento de las cargas eléctricas.",
+        "D": "Una propiedad intrínseca de un material para conducir electricidad.",
+        "E": "El flujo de electrones en sentido opuesto al campo eléctrico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia eléctrica es una medida de la oposición o dificultad que presenta un material al flujo de la corriente eléctrica. Un material con alta resistencia dificulta el paso de las cargas, mientras que uno con baja resistencia lo facilita. Se mide en ohmios (Ω).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_004",
+      "pregunta": "En los conductores metálicos, ¿cuáles son los portadores de carga que ocasionan la corriente eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Iones positivos",
+        "B": "Electrones con carga negativa",
+        "C": "Iones positivos y negativos",
+        "D": "Protones libres",
+        "E": "Electrones e iones positivos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En los conductores sólidos como los metales (cobre, aluminio, etc.), los átomos están en una red fija, pero algunos de sus electrones más externos, llamados electrones libres, pueden moverse a través del material. Son estos electrones con carga negativa los que constituyen la corriente eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_005",
+      "pregunta": "La Ley de Pouillet establece una relación para calcular la resistencia eléctrica de un conductor. ¿En qué unidad se mide dicha resistencia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Amperio (A)",
+        "B": "Coulomb (C)",
+        "C": "Metro (m)",
+        "D": "Ohmio-metro (Ωm)",
+        "E": "Ohmio (Ω)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La resistencia eléctrica ($R$) se mide en ohmios, y su símbolo es la letra griega omega (Ω). El ohmio-metro (Ωm) es la unidad de la resistividad ($ρ$), que es una propiedad del material.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_006",
+      "pregunta": "¿Cuál es la fórmula que relaciona la intensidad de corriente ($I$), la cantidad de carga ($Q$) y el tiempo ($t$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$I = Q \\cdot t$$",
+        "B": "$$I = \\frac{t}{Q}$$",
+        "C": "$$I = \\frac{Q}{t}$$",
+        "D": "$$Q = I \\cdot R$$",
+        "E": "$$t = Q \\cdot I$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La intensidad de corriente eléctrica ($I$) se define como la cantidad de carga neta ($Q$) que atraviesa la sección transversal de un conductor por unidad de tiempo ($t$). Matemáticamente, esta relación se expresa como $$I = \\frac{Q}{t}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_007",
+      "pregunta": "En una gráfica de intensidad de corriente ($I$) versus tiempo ($t$), ¿qué representa el área bajo la curva?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistencia eléctrica del conductor.",
+        "B": "La cantidad de carga neta ($Q$).",
+        "C": "La resistividad del material ($ρ$).",
+        "D": "El potencial eléctrico.",
+        "E": "La longitud del conductor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Dado que la intensidad de corriente es la carga por unidad de tiempo ($$I = \\frac{Q}{t}$$), la carga total ($Q$) puede obtenerse multiplicando la intensidad por el tiempo ($$Q = I \\cdot t$$). En una gráfica $I$ vs $t$, este producto corresponde al área bajo la curva, que representa la cantidad total de carga que ha fluido durante ese intervalo de tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre el sentido real y el sentido convencional de la corriente en un conductor metálico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El sentido real es para corriente alterna y el convencional para corriente continua.",
+        "B": "El sentido real es el movimiento de electrones (negativos) y el convencional es el del flujo de carga positiva.",
+        "C": "No existe diferencia, ambos describen el movimiento de electrones.",
+        "D": "El sentido real ocurre en gases y el convencional en metales.",
+        "E": "El sentido convencional es opuesto al campo eléctrico, mientras que el real es en la misma dirección."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El sentido real de la corriente en un metal corresponde al flujo físico de los electrones, que tienen carga negativa y se mueven en sentido contrario al campo eléctrico (hacia el polo positivo). El sentido convencional, establecido por acuerdo, asume que la corriente es un flujo de cargas positivas que se mueven en la misma dirección que el campo eléctrico (del polo positivo al negativo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_009",
+      "pregunta": "Según la Ley de Pouillet, ¿cómo afecta la longitud ($L$) de un conductor a su resistencia eléctrica ($R$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistencia es inversamente proporcional a la longitud.",
+        "B": "La resistencia no depende de la longitud.",
+        "C": "La resistencia es directamente proporcional a la longitud.",
+        "D": "La resistencia es directamente proporcional al cuadrado de la longitud.",
+        "E": "La resistencia es inversamente proporcional al cuadrado de la longitud."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley de Pouillet, expresada como $$R = \\rho \\frac{L}{A}$$, muestra que la resistencia ($R$) es directamente proporcional a la longitud ($L$). Esto significa que si la longitud del conductor aumenta, las cargas tienen que recorrer un camino más largo, encontrando más oposición, y por lo tanto, la resistencia aumenta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_010",
+      "pregunta": "De acuerdo con la Ley de Pouillet ($$R = \\rho \\frac{L}{A}$$), si se aumenta el área de la sección transversal ($A$) de un conductor, ¿qué sucede con su resistencia eléctrica ($R$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La resistencia aumenta.",
+        "B": "La resistencia no cambia.",
+        "C": "La resistencia disminuye.",
+        "D": "La resistencia se vuelve nula.",
+        "E": "El efecto depende de la resistividad ($ρ$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula de la Ley de Pouillet indica que la resistencia ($R$) es inversamente proporcional al área de la sección transversal ($A$). Esto significa que un conductor más grueso (con mayor área) ofrece más caminos para que fluyan las cargas, lo que reduce la oposición al flujo y, por lo tanto, disminuye la resistencia eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_011",
+      "pregunta": "¿Qué tipo de partículas son las portadoras de carga en conductores líquidos o electrolitos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente electrones libres.",
+        "B": "Únicamente iones positivos.",
+        "C": "Electrones e iones positivos.",
+        "D": "Iones, tanto positivos como negativos.",
+        "E": "Únicamente iones negativos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "A diferencia de los metales, donde los portadores son los electrones, en los conductores líquidos (electrolitos), como una solución de sal en agua, la corriente es transportada por el movimiento de iones. Los iones positivos (cationes) se mueven en una dirección y los iones negativos (aniones) se mueven en la dirección opuesta, constituyendo ambos el flujo de corriente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_012",
+      "pregunta": "¿Qué condición es necesaria para que los electrones libres en un alambre conductor inicien un movimiento ordenado y generen una corriente eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El conductor debe estar a una temperatura muy alta.",
+        "B": "Debe existir un campo magnético perpendicular al alambre.",
+        "C": "Se debe establecer un campo eléctrico en el interior del conductor.",
+        "D": "El alambre debe tener una resistividad eléctrica nula.",
+        "E": "Los electrones deben moverse a la velocidad de la luz."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que las cargas eléctricas (electrones libres en un metal) se muevan de forma ordenada, se necesita una fuerza que las impulse. Esta fuerza es proporcionada por un campo eléctrico que se establece a lo largo del conductor, generalmente debido a una diferencia de potencial (voltaje) entre sus extremos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_013",
+      "pregunta": "Un conductor tiene una resistencia eléctrica inicial $R$. Si su longitud ($L$) se triplica y el área de su sección transversal ($A$) se reduce a la mitad, ¿cuál será su nueva resistencia eléctrica ($R'$) en términos de $R$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$R' = 1.5 R$$",
+        "B": "$$R' = 3 R$$",
+        "C": "$$R' = 6 R$$",
+        "D": "$$R' = \\frac{R}{6}$$",
+        "E": "$$R' = R$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia se calcula con la Ley de Pouillet: $$R = \\rho \\frac{L}{A}$$. Las nuevas dimensiones son $$L' = 3L$$ y $$A' = \\frac{A}{2}$$. Sustituyendo en la fórmula, la nueva resistencia $R'$ es: $$R' = \\rho \\frac{L'}{A'} = \\rho \\frac{3L}{A/2} = \\rho \\frac{2 \\cdot 3L}{A} = 6 \\left(\\rho \\frac{L}{A}\\right) = 6R$$. Por lo tanto, la nueva resistencia es 6 veces la resistencia original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_014",
+      "pregunta": "¿Cuál es la principal diferencia entre los portadores de carga en los plasmas (conductores gaseosos) y los conductores metálicos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "En los metales son electrones y en los plasmas son iones positivos y negativos.",
+        "B": "No hay diferencia, en ambos casos son electrones libres.",
+        "C": "En los metales son iones positivos y en los plasmas son electrones.",
+        "D": "En los metales son solo electrones, mientras que en los plasmas son electrones e iones positivos.",
+        "E": "En los metales la corriente es real y en los plasmas es convencional."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En un conductor metálico, la estructura atómica es una red fija y solo los electrones libres pueden moverse. En un plasma, que es un gas ionizado, los átomos han perdido electrones, por lo que existen tanto electrones libres (con carga negativa) como iones positivos (átomos que perdieron electrones). Ambos tipos de partículas pueden moverse y contribuir a la corriente eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_116_015",
+      "pregunta": "Según el sentido convencional de la corriente eléctrica, ¿cómo es el movimiento de las cargas y con qué se relaciona?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las cargas negativas se mueven de mayor a menor potencial.",
+        "B": "Las cargas positivas se mueven de una región de menor potencial a una de mayor potencial.",
+        "C": "Las cargas negativas se mueven en el mismo sentido que el campo eléctrico.",
+        "D": "Las cargas positivas se mueven de una región de mayor potencial a una de menor potencial.",
+        "E": "El movimiento es aleatorio y no depende del potencial eléctrico."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La convención establece que el sentido de la corriente es el que seguirían las cargas positivas. Las cargas positivas, por naturaleza, son repelidas por regiones de alto potencial (positivas) y atraídas por regiones de bajo potencial (negativas). Por lo tanto, el sentido convencional de la corriente es desde un punto de mayor potencial (polo positivo) hacia uno de menor potencial (polo negativo).",
+      "imagen": null
+    }
+  ]
+}

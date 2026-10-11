@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 179,
+  "total_temas": 320,
+  "titulo_tema": "Vacunas",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_179_001",
+      "pregunta": "¿Qué tipo de inmunidad se induce mediante la aplicación de una vacuna?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inmunidad Natural Pasiva",
+        "B": "Inmunidad Artificial Pasiva",
+        "C": "Inmunidad Artificial Activa",
+        "D": "Inmunidad Innata",
+        "E": "Inmunidad Celular"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunidad artificial activa se consigue mediante la aplicación de una vacuna. Esta estimula al organismo a producir su propia respuesta inmunitaria y a generar células de memoria, proporcionando una protección activa y duradera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_002",
+      "pregunta": "¿Cuál es el contenido principal de un suero utilizado en la inmunidad artificial pasiva?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Gérmenes muertos o atenuados",
+        "B": "Anticuerpos contra un antígeno específico",
+        "C": "Células de memoria preexistentes",
+        "D": "Fragmentos de microorganismos",
+        "E": "Cultivos de células humanas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un suero es un preparado artificial que contiene anticuerpos específicos contra un antígeno. Estos anticuerpos se transfieren directamente al receptor para combatir una enfermedad ya presente, proporcionando una inmunidad pasiva e inmediata.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_003",
+      "pregunta": "¿Qué componentes de una vacuna son los responsables de desencadenar la respuesta inmunitaria en el receptor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anticuerpos sintetizados artificialmente",
+        "B": "Inmunoglobulinas de otro organismo",
+        "C": "Células de memoria atenuadas",
+        "D": "Gérmenes muertos o atenuados portadores de antígenos",
+        "E": "Sueros con capacidad inmunogénica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las vacunas contienen gérmenes muertos o atenuados que, aunque son incapaces de causar la enfermedad, portan los antígenos específicos. Son estos antígenos los que el sistema inmunitario del receptor reconoce, desencadenando una respuesta primaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_004",
+      "pregunta": "La inmunidad artificial pasiva, a través de sueros, se utiliza principalmente en una situación específica. ¿Cuál es?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como medida preventiva a largo plazo",
+        "B": "Para reducir la virulencia de los microorganismos",
+        "C": "Para emular una infección natural sin riesgo",
+        "D": "Cuando se busca generar células de memoria",
+        "E": "En presencia de una enfermedad ya desarrollada"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La inmunidad artificial pasiva mediante sueros se emplea cuando una persona ya está cursando una enfermedad. El objetivo es proporcionar una defensa inmediata mediante la transferencia directa de anticuerpos que combaten el agente patógeno o su toxina.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_005",
+      "pregunta": "¿Cuál es el resultado clave de la respuesta inmunitaria primaria inducida por una vacuna?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La neutralización inmediata de la enfermedad",
+        "B": "La transferencia de anticuerpos de otro organismo",
+        "C": "La producción de células de memoria",
+        "D": "La reducción de la virulencia del patógeno",
+        "E": "La obtención de inmunoglobulinas humanas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una vacuna es capaz de producir en el organismo receptor una respuesta inmunitaria primaria, cuyo resultado más importante es la generación de células de memoria. Estas células permitirán una respuesta secundaria mucho más rápida y eficaz en futuros encuentros con el patógeno real.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_006",
+      "pregunta": "¿Cuál es la diferencia fundamental en el mecanismo de acción entre un suero y una vacuna?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El suero proporciona inmunidad activa y la vacuna, pasiva.",
+        "B": "El suero contiene antígenos y la vacuna contiene anticuerpos.",
+        "C": "El suero proporciona anticuerpos directamente, mientras la vacuna estimula al cuerpo a producirlos.",
+        "D": "El suero genera células de memoria, mientras que la vacuna no lo hace.",
+        "E": "La vacuna se usa durante la enfermedad y el suero como método preventivo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia clave radica en cómo se logra la inmunidad. Un suero (inmunidad pasiva) entrega anticuerpos ya formados para una acción inmediata. En cambio, una vacuna (inmunidad activa) introduce antígenos para que el propio sistema inmunitario del receptor aprenda a producir sus propios anticuerpos y genere memoria inmunológica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_007",
+      "pregunta": "¿Por qué una persona vacunada responde de forma más eficaz ante una futura infección natural por el mismo agente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque los gérmenes atenuados de la vacuna destruyen al patógeno invasor.",
+        "B": "Porque los anticuerpos de la vacuna permanecen activos de por vida en la sangre.",
+        "C": "Porque se desencadena directamente una respuesta secundaria gracias a las células de memoria.",
+        "D": "Porque el cuerpo ya tiene anticuerpos transferidos por la vacuna.",
+        "E": "Porque la vacuna reduce la virulencia de cualquier patógeno que ingrese al cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La vacunación genera una respuesta primaria y crea células de memoria. Cuando el agente infeccioso real ingresa al organismo tiempo después, estas células de memoria se activan rápidamente, desencadenando una respuesta secundaria que es mucho más rápida, potente y eficaz para neutralizar al patógeno que la respuesta primaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_008",
+      "pregunta": "¿Qué ventaja ofrece el uso de cultivos de células humanas para producir sueros en comparación con el método anterior que usaba animales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Produce sueros que generan inmunidad activa en el receptor.",
+        "B": "Es un proceso más económico y no requiere antígenos.",
+        "C": "Genera vacunas de microorganismos atenuados más seguras.",
+        "D": "Permite obtener inmunoglobulinas mucho más parecidas a las del organismo receptor.",
+        "E": "Elimina la necesidad de dosis de refuerzo en los tratamientos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El avance de la biotecnología permite usar cultivos de células humanas para producir sueros. La principal ventaja es que las inmunoglobulinas (anticuerpos) producidas son mucho más similares a las humanas, lo que reduce el riesgo de reacciones adversas y mejora la compatibilidad con el organismo receptor en comparación con los sueros derivados de animales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_009",
+      "pregunta": "¿Cuál es el principal inconveniente de las vacunas que utilizan microorganismos vivos atenuados?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tienen una baja capacidad para generar inmunidad.",
+        "B": "Requieren dosis de refuerzo de forma constante.",
+        "C": "No son capaces de producir células de memoria.",
+        "D": "Conllevan cierto peligro de infección patológica.",
+        "E": "Solo proporcionan inmunidad pasiva a corto plazo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Aunque las vacunas de microorganismos vivos atenuados son muy eficaces, su principal desventaja es que existe un pequeño riesgo de que puedan causar una infección patológica, especialmente en individuos cuyo sistema inmunitario está debilitado o comprometido (inmunodeficientes).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_010",
+      "pregunta": "Las vacunas elaboradas a partir de microorganismos muertos o fragmentos de estos suelen necesitar dosis de refuerzo. ¿Cuál es la razón principal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque los fragmentos de microorganismos pueden ser rechazados por el cuerpo.",
+        "B": "Porque conllevan un riesgo de infección que debe ser controlado.",
+        "C": "Porque tienen menor capacidad inmunogénica y son menos eficaces.",
+        "D": "Porque los microorganismos muertos se reactivan con el tiempo.",
+        "E": "Porque solo inducen una respuesta inmunitaria pasiva."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este tipo de vacunas son más seguras, pero su capacidad para estimular el sistema inmunitario (capacidad inmunogénica) es menor que la de las vacunas con microorganismos vivos. Debido a esta menor eficacia, se requieren dosis de refuerzo para asegurar una respuesta inmunitaria robusta y duradera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_011",
+      "pregunta": "¿De qué manera la vacunación logra emular el proceso de inmunidad adquirida natural?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Introduciendo la enfermedad de forma leve para que el cuerpo se recupere solo.",
+        "B": "Transfiriendo anticuerpos de alguien que ya superó la enfermedad.",
+        "C": "Generando una respuesta primaria y memoria inmunológica sin padecer la enfermedad.",
+        "D": "Fortaleciendo el sistema inmunitario de manera inespecífica contra todos los gérmenes.",
+        "E": "Proporcionando una barrera física contra la entrada de patógenos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunidad adquirida natural se obtiene tras superar una infección, lo que genera memoria inmunológica. La vacunación emula este proceso al presentar antígenos al sistema inmunitario para que genere una respuesta primaria y células de memoria, pero lo hace sin los inconvenientes y peligros que supone padecer la enfermedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_012",
+      "pregunta": "Comparando la protección ofrecida por un suero y una vacuna, ¿cuál proporciona una defensa más duradera y por qué?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El suero, porque los anticuerpos que contiene son de alta calidad y permanentes.",
+        "B": "La vacuna, porque estimula al propio organismo a crear células de memoria.",
+        "C": "Ambos ofrecen la misma duración, pero el suero es de acción inmediata.",
+        "D": "El suero, porque se produce en cultivos celulares más avanzados.",
+        "E": "La vacuna, porque los gérmenes atenuados se quedan en el cuerpo para siempre."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna proporciona una protección mucho más duradera. Esto se debe a que induce una inmunidad activa, donde el propio cuerpo del individuo aprende a reconocer el patógeno y crea células de memoria. Los sueros, en cambio, ofrecen una inmunidad pasiva y temporal, ya que los anticuerpos transferidos se degradan y desaparecen con el tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_013",
+      "pregunta": "Ante una persona que ha sufrido una mordedura de un animal con rabia y no está vacunada, ¿cuál sería el tratamiento de inmunidad artificial más urgente y eficaz para evitar el desarrollo de la enfermedad?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Administrar una vacuna de virus atenuados para que genere defensas lentamente.",
+        "B": "Administrar un suero con anticuerpos específicos contra el virus de la rabia.",
+        "C": "Esperar a que el sistema inmunitario genere una respuesta primaria por sí solo.",
+        "D": "Administrar una vacuna de virus muertos, ya que es la opción más segura.",
+        "E": "Utilizar un cultivo de células humanas para crear una vacuna personalizada."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En esta situación, la enfermedad ya ha sido introducida y se necesita una acción inmediata. La vacunación (inmunidad activa) tardaría tiempo en generar una respuesta protectora. La opción más eficaz y urgente es la inmunidad artificial pasiva: administrar un suero con anticuerpos ya formados (inmunoglobulina antirrábica) que puedan neutralizar el virus de inmediato, antes de que cause la enfermedad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_014",
+      "pregunta": "Un paciente con una inmunodeficiencia severa necesita ser protegido contra una enfermedad bacteriana. ¿Qué tipo de vacuna sería la elección más segura para él?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una vacuna con microorganismos vivos atenuados, porque es la más eficaz.",
+        "B": "Una vacuna a partir de fragmentos de la bacteria con capacidad antigénica.",
+        "C": "No administrar ninguna vacuna, ya que todas son peligrosas para él.",
+        "D": "Una combinación de suero y vacuna viva atenuada.",
+        "E": "La que induzca la respuesta inmunitaria más fuerte y rápida posible."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para un individuo con un sistema inmunitario comprometido, las vacunas de microorganismos vivos atenuados representan un riesgo de infección patológica. La opción más segura es una vacuna hecha a partir de microorganismos muertos o, en este caso, fragmentos antigénicos. Este tipo de vacuna no puede causar la enfermedad, eliminando el riesgo de infección y siendo la elección adecuada para pacientes inmunodeficientes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_179_015",
+      "pregunta": "Si se describe una vacuna como de \"menor capacidad inmunogénica\" en comparación con otra, ¿qué se puede inferir sobre su probable composición y pauta de administración?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Está hecha con microorganismos vivos, por lo que una dosis será suficiente.",
+        "B": "Es un suero que proporciona anticuerpos, por lo que su efecto es temporal.",
+        "C": "Probablemente contiene microorganismos muertos o fragmentos y es probable que requiera dosis de refuerzo.",
+        "D": "Es una vacuna experimental y su seguridad aún no ha sido probada.",
+        "E": "Genera una inmunidad pasiva y no requiere la producción de células de memoria."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una \"menor capacidad inmunogénica\" significa que la vacuna estimula una respuesta inmunitaria menos intensa. Esta es una característica de las vacunas hechas con microorganismos muertos o fragmentos de estos. Debido a que la respuesta inicial es menos robusta, a menudo es necesario administrar dosis de refuerzo para asegurar la creación de una memoria inmunológica fuerte y duradera.",
+      "imagen": null
+    }
+  ]
+}

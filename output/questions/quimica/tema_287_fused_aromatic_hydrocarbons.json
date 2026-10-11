@@ -6,32 +6,32 @@
   "preguntas": [
     {
       "id_temporal": "quimica_287_001",
-      "pregunta": "¿Qué prefijo se utiliza para indicar que dos sustituyentes en un anillo de benceno se encuentran en las posiciones 1 y 4?",
+      "pregunta": "¿Cuál es la fórmula molecular del naftaleno?",
       "dificultad": 1,
       "opciones": {
-        "A": "orto (o)",
-        "B": "meta (m)",
-        "C": "para (p)",
-        "D": "iso",
-        "E": "trans"
+        "A": "$$C_{10}H_{10}$$",
+        "B": "$$C_{14}H_{10}$$",
+        "C": "$$C_6H_6$$",
+        "D": "$$C_{10}H_8$$",
+        "E": "$$C_{14}H_{12}$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Para indicar la posición relativa de dos sustituyentes en un anillo de benceno, el prefijo 'para (p)' se utiliza específicamente para las posiciones 1 y 4. El prefijo 'orto (o)' corresponde a las posiciones 1,2 y 'meta (m)' a las posiciones 1,3.",
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula molecular del naftaleno es $$C_{10}H_8$$. Este compuesto está formado por dos anillos de benceno fusionados, lo que resulta en 10 átomos de carbono y 8 átomos de hidrógeno en su estructura. La fórmula $$C_{14}H_{10}$$ corresponde al antraceno y al fenantreno, mientras que $$C_6H_6$$ es la fórmula del benceno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_002",
-      "pregunta": "¿Cuál es la fórmula molecular del naftaleno?",
+      "pregunta": "En la nomenclatura de derivados del benceno, ¿qué posiciones relativas indica el prefijo \"para (p)\"?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$C_6H_6$$",
-        "B": "$$C_{10}H_{10}$$",
-        "C": "$$C_{10}H_8$$",
-        "D": "$$C_{14}H_{10}$$",
-        "E": "$$C_{14}H_{12}$$"
+        "A": "Posiciones 1,2",
+        "B": "Posiciones 1,3",
+        "C": "Posiciones 1,4",
+        "D": "Posiciones 1,5",
+        "E": "Posiciones 1,6"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El naftaleno es el compuesto aromático fusionado más simple, formado por dos anillos de benceno fusionados. Su fórmula molecular es $$C_{10}H_8$$.",
+      "explicacion": "El prefijo \"para (p)\" se utiliza para indicar que dos sustituyentes en un anillo de benceno se encuentran en posiciones opuestas, correspondientes a las posiciones 1 y 4. El prefijo \"orto (o)\" se usa para las posiciones 1,2, y \"meta (m)\" para las posiciones 1,3.",
       "imagen": null
     },
     {
@@ -46,37 +46,37 @@
         "E": "Cinco"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El antraceno es un compuesto aromático policíclico que se caracteriza por tener tres anillos bencénicos fusionados en una disposición lineal.",
+      "explicacion": "El antraceno es un hidrocarburo aromático policíclico formado por la fusión lineal de tres anillos de benceno. El naftaleno, en comparación, está formado por dos anillos fusionados.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_004",
-      "pregunta": "El compuesto 1,2-dimetilbenceno también es conocido comúnmente como:",
+      "pregunta": "¿Cuál es el compuesto aromático fusionado más simple, formado por dos anillos de benceno?",
       "dificultad": 1,
       "opciones": {
-        "A": "p-xileno",
-        "B": "m-xileno",
-        "C": "o-xileno",
-        "D": "Catecol",
-        "E": "Resorcinol"
+        "A": "Antraceno",
+        "B": "Fenantreno",
+        "C": "Benceno",
+        "D": "Xileno",
+        "E": "Naftaleno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Las posiciones 1 y 2 en un anillo de benceno disustituido corresponden al prefijo 'orto (o)'. Dado que los sustituyentes son dos grupos metilo, el compuesto 1,2-dimetilbenceno es el o-xileno.",
+      "respuesta_correcta": "E",
+      "explicacion": "El naftaleno es considerado el hidrocarburo aromático fusionado más simple. Su estructura consiste en dos anillos de benceno que comparten un lado (dos átomos de carbono). El antraceno y el fenantreno están formados por tres anillos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_005",
-      "pregunta": "¿Cuál es el nombre común para el p-dihidroxibenceno?",
+      "pregunta": "El compuesto p-dihidroxibenceno, donde los grupos hidroxilo están en posiciones 1,4, también es conocido comúnmente como:",
       "dificultad": 1,
       "opciones": {
-        "A": "Resorcinol",
-        "B": "Catecol",
-        "C": "Fenol",
-        "D": "Xileno",
-        "E": "Hidroquinona"
+        "A": "Catecol",
+        "B": "Resorcinol",
+        "C": "Hidroquinona",
+        "D": "o-xileno",
+        "E": "Fenol"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El p-dihidroxibenceno, que tiene los grupos hidroxilo en las posiciones 1 y 4, es comúnmente conocido como Hidroquinona. El Catecol es o-dihidroxibenceno (posiciones 1,2) y el Resorcinol es m-dihidroxibenceno (posiciones 1,3).",
+      "respuesta_correcta": "C",
+      "explicacion": "El p-dihidroxibenceno tiene el nombre común de Hidroquinona. El Catecol es el nombre común para o-dihidroxibenceno (posiciones 1,2) y el Resorcinol es el nombre común para m-dihidroxibenceno (posiciones 1,3).",
       "imagen": null
     },
     {
@@ -84,149 +84,149 @@
       "pregunta": "¿Cuál es la principal diferencia estructural entre el antraceno y el fenantreno?",
       "dificultad": 2,
       "opciones": {
-        "A": "El antraceno tiene más electrones pi que el fenantreno.",
-        "B": "El fenantreno está formado por dos anillos y el antraceno por tres.",
-        "C": "El antraceno tiene una fusión lineal de tres anillos, mientras que el fenantreno la tiene angular.",
-        "D": "El antraceno tiene la fórmula $$C_{14}H_{12}$$ y el fenantreno $$C_{14}H_{10}$$.",
-        "E": "El fenantreno es un derivado del naftaleno y el antraceno no."
+        "A": "El número de átomos de carbono.",
+        "B": "El número de electrones pi.",
+        "C": "La forma en que los tres anillos de benceno están fusionados.",
+        "D": "El número de átomos de hidrógeno.",
+        "E": "Uno es aromático y el otro no."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Tanto el antraceno como el fenantreno son isómeros con la fórmula molecular $$C_{14}H_{10}$$ y poseen 14 electrones pi. La diferencia fundamental entre ellos es la topología de la fusión de los tres anillos: en el antraceno es lineal, mientras que en el fenantreno es angular.",
+      "explicacion": "Tanto el antraceno como el fenantreno tienen la misma fórmula molecular ($$C_{14}H_{10}$$) y, por lo tanto, el mismo número de átomos de carbono, hidrógeno y electrones pi (14). La diferencia fundamental radica en su estructura: el antraceno tiene sus tres anillos fusionados de forma lineal, mientras que el fenantreno los tiene fusionados de forma angular.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_007",
-      "pregunta": "¿Cuántos electrones pi contiene el sistema aromático del antraceno?",
+      "pregunta": "¿Qué nombre sistemático corresponde al isómero del xileno conocido como m-xileno?",
       "dificultad": 2,
       "opciones": {
-        "A": "10",
-        "B": "12",
-        "C": "14",
-        "D": "16",
-        "E": "8"
+        "A": "1,2-dimetilbenceno",
+        "B": "1,4-dimetilbenceno",
+        "C": "1,5-dimetilbenceno",
+        "D": "1,3-dimetilbenceno",
+        "E": "1,6-dimetilbenceno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El antraceno, al igual que el fenantreno, posee un sistema aromático formado por 14 electrones pi, que se deslocalizan a lo largo de los tres anillos fusionados, formando el equivalente a 7 dobles enlaces.",
+      "respuesta_correcta": "D",
+      "explicacion": "El prefijo \"meta (m)\" indica que los sustituyentes en el anillo de benceno están en las posiciones 1 y 3. Por lo tanto, el m-xileno, que tiene dos grupos metilo, se nombra sistemáticamente como 1,3-dimetilbenceno. El 1,2-dimetilbenceno es o-xileno y el 1,4-dimetilbenceno es p-xileno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_008",
-      "pregunta": "Un compuesto denominado m-dihidroxibenceno corresponde a la estructura donde los dos grupos hidroxilo están en las posiciones:",
+      "pregunta": "¿Cuántos electrones pi posee una molécula de antraceno?",
       "dificultad": 2,
       "opciones": {
-        "A": "1 y 2",
-        "B": "1 y 3",
-        "C": "1 y 4",
-        "D": "1 y 5",
-        "E": "2 y 4"
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14",
+        "E": "16"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El prefijo 'meta (m)' se utiliza para indicar una relación de posición 1,3 entre dos sustituyentes en un anillo de benceno. Por lo tanto, en el m-dihidroxibenceno (Resorcinol), los grupos hidroxilo ocupan estas posiciones.",
+      "respuesta_correcta": "D",
+      "explicacion": "El antraceno, al estar compuesto por tres anillos bencénicos fusionados, posee un sistema de 7 dobles enlaces deslocalizados. Cada doble enlace aporta 2 electrones pi, por lo que el total de electrones pi en la molécula es de 14.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_009",
-      "pregunta": "¿Cuál es la fórmula molecular que comparten tanto el antraceno como el fenantreno?",
+      "pregunta": "El o-dihidroxibenceno es un compuesto donde dos grupos hidroxilo se encuentran en posiciones adyacentes del anillo de benceno. ¿Cuál es su nombre común?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$C_{10}H_8$$",
-        "B": "$$C_{10}H_{10}$$",
-        "C": "$$C_{14}H_{14}$$",
-        "D": "$$C_{14}H_{12}$$",
-        "E": "$$C_{14}H_{10}$$"
+        "A": "Resorcinol",
+        "B": "Hidroquinona",
+        "C": "Catecol",
+        "D": "p-xileno",
+        "E": "Anilina"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Ambos, el antraceno (fusión lineal) y el fenantreno (fusión angular), están compuestos por tres anillos de benceno fusionados. Esto resulta en una idéntica composición atómica, con una fórmula molecular de $$C_{14}H_{10}$$. Son isómeros estructurales.",
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre común para el o-dihidroxibenceno es Catecol. Las posiciones adyacentes en el anillo corresponden a la numeración 1,2, que se designa con el prefijo \"orto (o)\". El Resorcinol es el isómero meta (1,3) y la Hidroquinona es el isómero para (1,4).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_010",
-      "pregunta": "El naftaleno, siendo el compuesto aromático fusionado más simple, contiene un total de:",
+      "pregunta": "¿Cuál es la diferencia en el número de electrones pi entre una molécula de antraceno y una de naftaleno?",
       "dificultad": 2,
       "opciones": {
-        "A": "8 electrones pi",
-        "B": "10 electrones pi",
-        "C": "12 electrones pi",
-        "D": "14 electrones pi",
-        "E": "6 electrones pi"
+        "A": "El antraceno tiene 2 electrones pi más.",
+        "B": "El antraceno tiene 4 electrones pi más.",
+        "C": "Tienen el mismo número de electrones pi.",
+        "D": "El naftaleno tiene 4 electrones pi más.",
+        "E": "El naftaleno tiene 2 electrones pi más."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El naftaleno ($$C_{10}H_8$$) está formado por dos anillos de benceno fusionados. Su sistema aromático estabilizado por resonancia contiene un total de 10 electrones pi deslocalizados.",
+      "explicacion": "El naftaleno (dos anillos fusionados) tiene 10 electrones pi. El antraceno (tres anillos fusionados) tiene 14 electrones pi. La diferencia es $$14 - 10 = 4$$ electrones pi. Por lo tanto, el antraceno tiene 4 electrones pi más que el naftaleno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_011",
-      "pregunta": "¿Qué describe correctamente la nomenclatura del 1,3-dimetilbenceno?",
+      "pregunta": "Tanto el antraceno como el fenantreno tienen la fórmula molecular $$C_{14}H_{10}$$. ¿Por qué tienen solo 10 átomos de hidrógeno a pesar de tener 14 átomos de carbono?",
       "dificultad": 2,
       "opciones": {
-        "A": "Es o-xileno, porque los sustituyentes están en carbonos adyacentes.",
-        "B": "Es p-xileno, con los grupos metilo en posiciones opuestas.",
-        "C": "Es m-xileno, ya que la relación de posición es 1,3.",
-        "D": "Es Catecol, un tipo de dihidroxibenceno.",
-        "E": "Es un hidrocarburo aromático fusionado como el naftaleno."
+        "A": "Porque son compuestos iónicos y han perdido protones.",
+        "B": "Debido a la fusión de los anillos, algunos carbonos ya cumplen su tetravalencia sin enlazarse a hidrógeno.",
+        "C": "La aromaticidad requiere la eliminación de átomos de hidrógeno.",
+        "D": "Es un error en la fórmula; deberían tener 14 hidrógenos.",
+        "E": "Porque forman puentes de hidrógeno intramoleculares."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Las posiciones 1 y 3 en un anillo de benceno disustituido se designan con el prefijo 'meta (m)'. Dado que los sustituyentes son dos grupos metilo (lo que define a los xilenos), el compuesto 1,3-dimetilbenceno es el m-xileno.",
+      "respuesta_correcta": "B",
+      "explicacion": "En los hidrocarburos aromáticos fusionados, los átomos de carbono en los puntos de fusión de los anillos ya forman tres enlaces carbono-carbono. Para cumplir la tetravalencia del carbono, solo necesitan un enlace más dentro del sistema aromático deslocalizado, por lo que no están enlazados a ningún átomo de hidrógeno. Esto reduce el número total de hidrógenos en la molécula.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_012",
-      "pregunta": "¿Cómo se determina la numeración de los sustituyentes en la nomenclatura del antraceno?",
+      "pregunta": "¿Qué describe correctamente la disposición de los sustituyentes en el compuesto 1,2-dimetilbenceno?",
       "dificultad": 2,
       "opciones": {
-        "A": "Empezando por el carbono central y avanzando hacia afuera.",
-        "B": "Aleatoriamente, para dar los números más bajos posibles.",
-        "C": "Siempre desde el anillo superior en sentido horario.",
-        "D": "Empezando en un anillo exterior y continuando alrededor del perímetro.",
-        "E": "La numeración es idéntica a la del fenantreno."
+        "A": "Disposición meta (m)",
+        "B": "Disposición para (p)",
+        "C": "Disposición orto (o)",
+        "D": "Disposición lineal",
+        "E": "Disposición angular"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La nomenclatura sistemática del antraceno sigue una convención específica donde la numeración de los carbonos se inicia en un anillo exterior y se continúa alrededor del perímetro de la molécula, asignando los números más altos a los carbonos centrales que forman parte de las fusiones de los anillos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La numeración 1,2 en un anillo de benceno disustituido indica que los sustituyentes se encuentran en carbonos adyacentes. Esta disposición relativa se denomina \"orto (o)\". La disposición \"meta (m)\" corresponde a 1,3 y \"para (p)\" a 1,4.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_013",
-      "pregunta": "El catecol, el resorcinol y la hidroquinona son isómeros del dihidroxibenceno. ¿Qué propiedad estructural es la que los diferencia?",
+      "pregunta": "Si se compara el 1,3-dimetilbenceno (m-xileno) con el 1,3-dihidroxibenceno (Resorcinol), ¿qué tienen en común estructuralmente?",
       "dificultad": 3,
       "opciones": {
-        "A": "Su fórmula molecular.",
-        "B": "La cantidad de electrones pi en el anillo.",
-        "C": "El número de grupos hidroxilo (-OH).",
-        "D": "La posición relativa de los grupos hidroxilo en el anillo de benceno.",
-        "E": "El número de átomos de carbono."
+        "A": "El tipo de grupo funcional sustituyente.",
+        "B": "La posición relativa de los sustituyentes en el anillo de benceno.",
+        "C": "Su fórmula molecular.",
+        "D": "Su punto de ebullición.",
+        "E": "Ambos son hidrocarburos aromáticos fusionados."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Estas tres moléculas son isómeros, lo que significa que comparten la misma fórmula molecular ($$C_6H_6O_2$$), el mismo número de átomos y el mismo número de electrones pi. La única diferencia estructural entre ellas, que determina sus nombres y propiedades químicas distintas, es la posición relativa de los dos grupos hidroxilo en el anillo de benceno: orto (1,2) para el catecol, meta (1,3) para el resorcinol y para (1,4) para la hidroquinona.",
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque los sustituyentes son diferentes (dos grupos metilo en el m-xileno y dos grupos hidroxilo en el Resorcinol), ambos compuestos comparten la misma disposición espacial de estos sustituyentes en el anillo de benceno. En ambos casos, los dos grupos están en las posiciones 1 y 3, lo que corresponde a una disposición \"meta (m)\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_014",
-      "pregunta": "¿Por qué el antraceno ($$C_{14}H_{10}$$) tiene solo 10 átomos de hidrógeno, a pesar de estar formado por tres unidades de benceno fusionadas?",
+      "pregunta": "El antraceno y el fenantreno son isómeros con la fórmula $$C_{14}H_{10}$$. ¿Cuál es la implicación directa de su diferente arreglo estructural (lineal vs. angular)?",
       "dificultad": 3,
       "opciones": {
-        "A": "Porque dos anillos son aromáticos y uno no lo es.",
-        "B": "Debido a la formación de dobles enlaces adicionales entre los anillos.",
-        "C": "Porque la tetravalencia del carbono en los puntos de fusión impide que haya átomos de hidrógeno unidos.",
-        "D": "Porque la molécula pierde 8 hidrógenos para aumentar su resonancia.",
-        "E": "Es un error en la fórmula; debería ser $$C_{14}H_{18}$$."
+        "A": "No tienen ninguna implicación; sus propiedades son idénticas.",
+        "B": "Tienen diferentes propiedades físicas y químicas a pesar de tener la misma fórmula molecular.",
+        "C": "Solo difieren en su estado de agregación a temperatura ambiente.",
+        "D": "El número de dobles enlaces deslocalizados es diferente en cada uno.",
+        "E": "Uno es una molécula plana y el otro no."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Cuando los anillos de benceno se fusionan, los átomos de carbono en las uniones ya forman tres enlaces sigma carbono-carbono. Para satisfacer la regla de la tetravalencia (cada carbono forma cuatro enlaces), el cuarto enlace participa en el sistema de electrones pi deslocalizados. Esto significa que estos carbonos de fusión no tienen enlaces disponibles para unirse a átomos de hidrógeno, reduciendo así el recuento total de hidrógenos en comparación con tres anillos de benceno separados.",
+      "respuesta_correcta": "B",
+      "explicacion": "Los compuestos que tienen la misma fórmula molecular pero diferente estructura se llaman isómeros. El antraceno (fusión lineal) y el fenantreno (fusión angular) son isómeros estructurales. Esta diferencia en la conectividad y forma de la molécula conduce a que tengan propiedades físicas (como punto de fusión, solubilidad) y químicas (reactividad) distintas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_287_015",
-      "pregunta": "Considerando la nomenclatura sistemática del antraceno, el compuesto 1,6-dimetilantraceno indica que los grupos metilo están ubicados:",
+      "pregunta": "En la nomenclatura del antraceno, la numeración sigue el perímetro de la molécula. Considerando el compuesto 1,6-dimetilantraceno, ¿cómo se describe la ubicación de los grupos metilo?",
       "dificultad": 3,
       "opciones": {
-        "A": "Ambos en el mismo anillo de benceno exterior.",
-        "B": "Uno en un anillo exterior y otro en el anillo central.",
-        "C": "En los dos anillos exteriores diferentes.",
-        "D": "En una molécula con estructura angular.",
-        "E": "En las posiciones de fusión de los anillos."
+        "A": "Ambos están en el mismo anillo de benceno exterior.",
+        "B": "Uno está en un anillo exterior y el otro en el anillo central.",
+        "C": "Están en los dos anillos exteriores opuestos.",
+        "D": "Ambos están en el anillo central.",
+        "E": "Están en posiciones adyacentes (orto)."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La numeración del antraceno sigue un recorrido perimetral. Comienza en un anillo exterior (posiciones 1, 2, 3, 4), continúa por el otro anillo exterior (posiciones 5, 6, 7, 8) y los números más altos se reservan para los carbonos centrales. Por lo tanto, una sustitución en las posiciones 1 y 6 significa que cada grupo metilo se encuentra en un anillo exterior distinto.",
+      "explicacion": "La numeración del antraceno comienza en una posición de un anillo exterior (posiciones 1, 2, 3, 4), continúa por el otro anillo exterior (posiciones 5, 6, 7, 8) y finalmente numera los carbonos centrales. Por lo tanto, la posición 1 está en un anillo exterior y la posición 6 está en el anillo exterior opuesto, no en el mismo anillo ni en el central.",
       "imagen": null
     }
   ]

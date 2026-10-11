@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 109,
+  "total_temas": 137,
+  "titulo_tema": "Potencial eléctrico",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_109_001",
+      "pregunta": "¿Cuál es la unidad del potencial eléctrico en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Joule (J)",
+        "B": "Coulomb (C)",
+        "C": "Newton (N)",
+        "D": "Volt (V)",
+        "E": "Ampere (A)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad del potencial eléctrico en el S.I. es el volt (V). Se define como la energía potencial por unidad de carga, donde un volt es igual a un joule por coulomb ($$1V = 1 J/C$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_002",
+      "pregunta": "Físicamente, ¿cómo se define el potencial eléctrico ($V$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fuerza eléctrica por unidad de distancia.",
+        "B": "La energía potencial eléctrica por unidad de carga.",
+        "C": "El trabajo total realizado para mover una carga.",
+        "D": "La carga total en un punto del espacio.",
+        "E": "La constante de proporcionalidad del campo eléctrico."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El potencial eléctrico ($V$) en un punto se define como la energía potencial eléctrica ($U$) por unidad de carga de prueba ($q_0$) en ese punto. La relación se expresa como $$V = U / q_0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_003",
+      "pregunta": "¿Qué tipo de cantidad física es el Potencial Eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vectorial",
+        "B": "Escalar",
+        "C": "Adimensional",
+        "D": "Tensorial",
+        "E": "Fundamental"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Potencial Eléctrico es una cantidad escalar. Se obtiene al dividir la energía potencial eléctrica (que es un escalar) entre la carga (que también es un escalar). Al ser escalar, no tiene dirección, solo magnitud y signo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_004",
+      "pregunta": "¿Cómo se denomina una superficie tridimensional sobre la cual el potencial eléctrico ($V$) es el mismo en todos sus puntos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Superficie de campo uniforme",
+        "B": "Superficie de Gauss",
+        "C": "Línea de campo",
+        "D": "Superficie equipotencial",
+        "E": "Plano de carga"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una superficie equipotencial es aquella en la que todos sus puntos se encuentran al mismo potencial eléctrico. Como consecuencia, no se realiza trabajo al mover una carga entre dos puntos de esta superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_005",
+      "pregunta": "¿Cuál es la unidad en el Sistema Internacional (S.I.) para la Energía Potencial Eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Volt (V)",
+        "B": "Coulomb (C)",
+        "C": "Joule (J)",
+        "D": "Newton (N)",
+        "E": "Farad (F)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Como cualquier forma de energía en el Sistema Internacional, la Energía Potencial Eléctrica se mide en joules (J). Un joule representa el trabajo realizado por una fuerza de un newton a lo largo de un metro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_006",
+      "pregunta": "¿Qué signo tiene el potencial eléctrico ($V$) generado por una carga puntual fuente positiva ($+Q$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre negativo",
+        "B": "Siempre positivo",
+        "C": "Cero en todos los puntos",
+        "D": "Positivo cerca de la carga y negativo lejos de ella",
+        "E": "Depende del signo de la carga de prueba"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una carga puntual positiva ($+Q$) genera un potencial eléctrico positivo en todos los puntos a su alrededor. Esto se deduce de la fórmula $$V_A = K(+Q) / d$$, donde $K$, $Q$ y $d$ son positivos, resultando en un potencial $V_A$ positivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_007",
+      "pregunta": "¿Cuál es la relación matemática correcta para calcular el potencial eléctrico ($V_A$) en un punto 'A' debido a una carga puntual ($Q$) a una distancia ($d$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_A = k \\frac{Q}{d^2}$$",
+        "B": "$$V_A = k \\frac{d}{Q}$$",
+        "C": "$$V_A = k \\cdot Q \\cdot d$$",
+        "D": "$$V_A = k \\frac{Q}{d}$$",
+        "E": "$$V_A = k \\frac{Q^2}{d}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula para el potencial eléctrico generado por una carga puntual $Q$ a una distancia $d$ es $$V_A = k \\frac{Q}{d}$$. La opción A, con $$d^2$$ en el denominador, corresponde a la magnitud del campo eléctrico, no al potencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_008",
+      "pregunta": "Si un sistema está compuesto por varias cargas puntuales ($Q_1, Q_2, Q_3$), ¿cómo se calcula el potencial eléctrico total ($V_A$) en un punto 'A'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Calculando el promedio de los potenciales individuales.",
+        "B": "Sumando vectorialmente los potenciales individuales.",
+        "C": "Multiplicando los potenciales individuales.",
+        "D": "Usando solo el potencial de la carga más cercana.",
+        "E": "Realizando la suma algebraica de los potenciales individuales."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El potencial eléctrico es una cantidad escalar. Por lo tanto, el potencial total en un punto debido a varias cargas es la suma algebraica (suma ordinaria) de los potenciales creados por cada carga de forma individual: $$V_A = V_1 + V_2 + V_3 + ... + V_n$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_009",
+      "pregunta": "¿Qué relación existe entre las líneas de campo eléctrico y las superficies equipotenciales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son siempre paralelas entre sí.",
+        "B": "Son siempre perpendiculares entre sí.",
+        "C": "No tienen ninguna relación fija.",
+        "D": "Se cruzan en ángulos de 45 grados.",
+        "E": "Son la misma entidad física."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una propiedad fundamental de los campos eléctricos es que las líneas de campo y las superficies equipotenciales son siempre perpendiculares en los puntos donde se cruzan. Las líneas de campo apuntan en la dirección de la máxima disminución del potencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_010",
+      "pregunta": "¿Qué le sucede a la energía potencial eléctrica ($U$) de una carga de prueba ($q_0$) si se mueve a lo largo de una superficie equipotencial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta proporcionalmente a la distancia recorrida.",
+        "B": "Disminuye hasta llegar a cero.",
+        "C": "Permanece constante.",
+        "D": "Se invierte su signo.",
+        "E": "Oscila entre un valor máximo y mínimo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Por definición, en una superficie equipotencial, el potencial eléctrico ($V$) es el mismo en todos los puntos. Dado que la energía potencial eléctrica es $$U = q_0 \\cdot V$$, si $V$ es constante y la carga de prueba $q_0$ no cambia, la energía potencial $U$ también permanece constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_011",
+      "pregunta": "La diferencia de potencial entre dos puntos 'A' y 'B' se define como $$V_{AB}$$. ¿Cuál es la expresión correcta para calcularla?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_{AB} = V_A + V_B$$",
+        "B": "$$V_{AB} = V_B - V_A$$",
+        "C": "$$V_{AB} = V_A - V_B$$",
+        "D": "$$V_{AB} = \\frac{V_A + V_B}{2}$$",
+        "E": "$$V_{AB} = V_A \\cdot V_B$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia de potencial entre un punto inicial 'A' y un punto final 'B', denotada como $V_{AB}$, se calcula restando el potencial del punto final del potencial del punto inicial. Sin embargo, la notación estándar para la diferencia de potencial *entre* A y B es la diferencia entre sus potenciales: $$V_{AB} = V_A - V_B$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_012",
+      "pregunta": "¿A qué distancia de una carga puntual fuente se considera que el potencial eléctrico es cero?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "A un metro de la carga.",
+        "B": "En el centro de la carga.",
+        "C": "A una distancia infinita.",
+        "D": "A una distancia igual al radio de la carga.",
+        "E": "El potencial nunca es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El potencial eléctrico generado por una carga puntual se calcula con la fórmula $$V = k \\frac{Q}{d}$$. A medida que la distancia $d$ tiende a infinito ($$d \\to \\infty$$), el valor de la fracción tiende a cero. Por convención, se establece que el potencial eléctrico es cero a una distancia infinita.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_013",
+      "pregunta": "Si los puntos A, B y C se encuentran sobre la misma superficie equipotencial en un campo eléctrico, ¿cuál es el valor de la diferencia de potencial $$V_{AB} = V_A - V_B$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Depende de la distancia entre A y B.",
+        "B": "Es un valor positivo.",
+        "C": "Es un valor negativo.",
+        "D": "Es cero.",
+        "E": "Es igual al valor del potencial en el punto C."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por la definición de una superficie equipotencial, el potencial eléctrico es el mismo en todos sus puntos. Por lo tanto, $$V_A = V_B = V_C$$. Al calcular la diferencia de potencial entre A y B, tenemos $$V_{AB} = V_A - V_B = V_A - V_A = 0$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_014",
+      "pregunta": "Dos cargas puntuales, $$Q_1 = +5 \\text{ nC}$$ y $$Q_2 = -5 \\text{ nC}$$, están separadas por una distancia de 10 cm. ¿Cuál es el potencial eléctrico total en el punto medio exacto del segmento que las une?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$900 \\text{ V}$$",
+        "B": "$$-900 \\text{ V}$$",
+        "C": "$$1800 \\text{ V}$$",
+        "D": "$$0 \\text{ V}$$",
+        "E": "$$-1800 \\text{ V}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El punto medio se encuentra a la misma distancia ($$d = 5 \\text{ cm} = 0.05 \\text{ m}$$) de ambas cargas. El potencial total es la suma algebraica de los potenciales individuales: $$V_{total} = V_1 + V_2$$. \\\\ $$V_1 = k \\frac{Q_1}{d} = (9 \\times 10^9) \\frac{+5 \\times 10^{-9}}{0.05} = +900 \\text{ V}$$ \\\\ $$V_2 = k \\frac{Q_2}{d} = (9 \\times 10^9) \\frac{-5 \\times 10^{-9}}{0.05} = -900 \\text{ V}$$ \\\\ $$V_{total} = +900 \\text{ V} + (-900 \\text{ V}) = 0 \\text{ V}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_109_015",
+      "pregunta": "En un campo eléctrico generado por una carga puntual negativa ($$-Q$$), se tienen dos puntos, 'A' y 'B'. El punto 'A' está más cerca de la carga que el punto 'B'. ¿Cómo es la diferencia de potencial $$V_{AB} = V_A - V_B$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Positiva",
+        "B": "Negativa",
+        "C": "Cero",
+        "D": "Infinita",
+        "E": "Depende del valor de la carga de prueba"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para una carga fuente negativa ($-Q$), el potencial es $$V = k \\frac{-Q}{d}$$. El potencial es siempre negativo y su valor se acerca a cero a medida que la distancia $d$ aumenta. Como 'A' está más cerca ($$d_A < d_B$$), su potencial $V_A$ será \"más negativo\" que $V_B$. Por ejemplo, si $$V_A = -10V$$ y $$V_B = -5V$$, la diferencia de potencial es $$V_{AB} = V_A - V_B = (-10V) - (-5V) = -5V$$. Por lo tanto, la diferencia de potencial es negativa.",
+      "imagen": null
+    }
+  ]
+}

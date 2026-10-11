@@ -9,224 +9,224 @@
       "pregunta": "¿Cuál es la definición de Afinidad Electrónica (AE)?",
       "dificultad": 1,
       "opciones": {
-        "A": "La energía necesaria para remover un electrón de un átomo gaseoso.",
-        "B": "La energía emitida o absorbida cuando un átomo en estado gaseoso gana un electrón.",
+        "A": "La energía necesaria para remover un electrón de un átomo en estado gaseoso.",
+        "B": "La energía emitida o absorbida cuando una especie química gana un electrón en estado gaseoso.",
         "C": "La capacidad de un átomo para atraer electrones en un enlace químico.",
-        "D": "La energía liberada cuando un átomo se convierte en un catión.",
-        "E": "El tamaño de la nube electrónica de un átomo."
+        "D": "La mitad de la distancia entre dos núcleos de un mismo elemento enlazados entre sí.",
+        "E": "La carga nuclear efectiva que experimenta un electrón."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La Afinidad Electrónica se define específicamente como el cambio de energía que ocurre cuando un átomo en estado gaseoso y fundamental acepta un electrón para formar un anión. Esta energía puede ser liberada (proceso exotérmico) o absorbida (proceso endotérmico). La opción A describe la Energía de Ionización.",
+      "explicacion": "La Afinidad Electrónica se define específicamente como el cambio de energía que ocurre cuando un átomo o molécula en estado gaseoso gana un electrón. Este proceso puede liberar energía (exotérmico) o requerir energía (endotérmico). La opción A define la Energía de Ionización, la C la electronegatividad y la D el radio atómico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_002",
-      "pregunta": "¿Qué tipo de elementos manifiestan una mayor tendencia a la afinidad electrónica?",
+      "pregunta": "¿Cuál es la relación correcta entre las sucesivas energías de ionización ($EI$) para un mismo átomo?",
       "dificultad": 1,
       "opciones": {
-        "A": "Los metales alcalinos.",
-        "B": "Los gases nobles.",
-        "C": "Los metales de transición.",
-        "D": "Los no metales.",
-        "E": "Los metales alcalinotérreos."
+        "A": "$$EI_1 > EI_2 > EI_3$$",
+        "B": "$$EI_1 = EI_2 = EI_3$$",
+        "C": "$$EI_1 < EI_2 < EI_3$$",
+        "D": "$$EI_2 < EI_1 < EI_3$$",
+        "E": "La relación varía aleatoriamente."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Los no metales, ubicados en la parte superior derecha de la tabla periódica, tienen una alta tendencia a ganar electrones para completar su capa de valencia, por lo que manifiestan una alta afinidad electrónica. Los metales tienden a perder electrones, y los gases nobles tienen una configuración electrónica estable, por lo que su afinidad electrónica es muy baja o incluso positiva (endotérmica).",
+      "respuesta_correcta": "C",
+      "explicacion": "Después de retirar un electrón, el núcleo (con la misma carga positiva) atrae con más fuerza a los electrones restantes. Por lo tanto, se necesita progresivamente más energía para quitar el segundo, tercer y subsiguientes electrones. Esto establece la relación $$EI_1 < EI_2 < EI_3 < ...$$",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_003",
-      "pregunta": "¿Cómo varía la afinidad electrónica al moverse de izquierda a derecha en un periodo de la tabla periódica?",
+      "pregunta": "En un proceso de afinidad electrónica exotérmico, el valor de la Afinidad Electrónica (AE) es:",
       "dificultad": 1,
       "opciones": {
-        "A": "Disminuye.",
-        "B": "Aumenta.",
-        "C": "Permanece constante.",
-        "D": "Aumenta y luego disminuye.",
-        "E": "No sigue una tendencia clara."
+        "A": "Positivo",
+        "B": "Negativo",
+        "C": "Cero",
+        "D": "Igual a la energía de ionización",
+        "E": "Siempre mayor que 100 kJ/mol"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Al avanzar hacia la derecha en un periodo, el radio atómico disminuye y la carga nuclear efectiva aumenta. Esto hace que el núcleo atraiga con más fuerza a los electrones externos, incluyendo a un electrón adicional, por lo que la afinidad electrónica generalmente aumenta.",
+      "explicacion": "Por convención, un proceso exotérmico es aquel que libera energía al entorno. En el contexto de la afinidad electrónica, la liberación de energía se representa con un valor de AE negativo, indicando que el sistema se ha estabilizado al ganar el electrón.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_004",
-      "pregunta": "Generalmente, ¿qué tipo de proceso energético es la primera afinidad electrónica para la mayoría de los átomos?",
+      "pregunta": "¿Qué tipo de elementos manifiestan de forma especial la tendencia a ganar electrones, descrita por la afinidad electrónica?",
       "dificultad": 1,
       "opciones": {
-        "A": "Endotérmico, absorbe energía.",
-        "B": "Exotérmico, libera energía.",
-        "C": "Isotérmico, no hay cambio de energía.",
-        "D": "Adiabático, no hay transferencia de calor.",
-        "E": "Isobárico, ocurre a presión constante."
+        "A": "Metales alcalinos",
+        "B": "Metales de transición",
+        "C": "Gases nobles",
+        "D": "No metales",
+        "E": "Metales alcalinotérreos"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para la mayoría de los átomos, la adición de un primer electrón es un proceso favorable que estabiliza el átomo, liberando energía. Por lo tanto, es un proceso exotérmico, y el valor de la afinidad electrónica ($$AE$$) es negativo.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los no metales, especialmente los que se encuentran en la parte superior derecha de la tabla periódica (como los halógenos y el oxígeno), tienen una alta tendencia a aceptar electrones para completar su capa de valencia y alcanzar una configuración electrónica más estable, lo que se refleja en altas afinidades electrónicas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_005",
-      "pregunta": "¿En qué unidades se expresa comúnmente la afinidad electrónica?",
+      "pregunta": "¿Cuáles son las unidades de medida comunes para la Afinidad Electrónica?",
       "dificultad": 1,
       "opciones": {
-        "A": "Joules por gramo (J/g).",
-        "B": "Pascales (Pa).",
-        "C": "Kilojoules por mol ($$kJ/mol$$) o kilocalorías por mol ($$kcal/mol$$).",
-        "D": "Voltios (V).",
-        "E": "Grados Celsius (°C)."
+        "A": "Newton por metro (N/m)",
+        "B": "Gramos por mol (g/mol)",
+        "C": "Pascales (Pa)",
+        "D": "kJ/mol o kcal/mol",
+        "E": "Amperios (A)"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La afinidad electrónica es una medida de energía por cantidad de sustancia, por lo que se expresa típicamente en unidades de energía por mol, como $$kJ/mol$$ o $$kcal/mol$$.",
+      "respuesta_correcta": "D",
+      "explicacion": "La Afinidad Electrónica representa una cantidad de energía por una cantidad de sustancia (moles de átomos), por lo que sus unidades son de energía por mol, comúnmente kilojulios por mol (kJ/mol) o kilocalorías por mol (kcal/mol).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_006",
-      "pregunta": "¿Por qué la segunda energía de ionización ($$EI_2$$) es siempre mayor que la primera ($$EI_1$$) para cualquier átomo?",
+      "pregunta": "¿Cómo varía la Afinidad Electrónica al moverse de izquierda a derecha a lo largo de un periodo en la tabla periódica?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque el segundo electrón está en un orbital de menor energía.",
-        "B": "Porque después de quitar un electrón, la atracción nuclear sobre los electrones restantes aumenta.",
-        "C": "Porque el radio del átomo aumenta después de perder un electrón.",
-        "D": "Porque el segundo electrón es siempre un electrón de valencia.",
-        "E": "Porque se requiere más energía para ionizar un gas noble."
+        "A": "Aumenta",
+        "B": "Disminuye",
+        "C": "Permanece constante",
+        "D": "Aumenta en los metales y disminuye en los no metales",
+        "E": "No sigue una tendencia definida"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Cuando se retira el primer electrón, se forma un ion positivo (catión). En este catión, el mismo número de protones en el núcleo atrae a un número menor de electrones. Esto aumenta la atracción efectiva del núcleo sobre cada electrón restante, haciendo que se necesite más energía para quitar el segundo electrón. Por eso se cumple que $$EI_1 < EI_2 < EI_3 < ...$$",
+      "respuesta_correcta": "A",
+      "explicacion": "Al avanzar hacia la derecha en un periodo, la carga nuclear efectiva aumenta y el radio atómico disminuye. Esto hace que el núcleo atraiga con más fuerza a los electrones, incluyendo un electrón adicional, por lo que la afinidad electrónica generalmente aumenta.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_007",
-      "pregunta": "¿Qué indica un valor positivo de afinidad electrónica ($$AE > 0$$)?",
+      "pregunta": "¿Cuál es la tendencia general de la Afinidad Electrónica al descender en un grupo de la tabla periódica?",
       "dificultad": 2,
       "opciones": {
-        "A": "Que el átomo libera una gran cantidad de energía al ganar un electrón.",
-        "B": "Que el proceso de ganar un electrón es espontáneo.",
-        "C": "Que se requiere suministrar energía para que el átomo acepte un electrón.",
-        "D": "Que el átomo es un no metal típico.",
-        "E": "Que el átomo forma un anión estable."
+        "A": "Permanece sin cambios",
+        "B": "Aumenta",
+        "C": "Disminuye y luego aumenta",
+        "D": "Disminuye",
+        "E": "Es siempre positiva"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un valor positivo de afinidad electrónica significa que el proceso es endotérmico. Esto indica que el anión resultante es menos estable que el átomo neutro y el electrón por separado, por lo que es necesario aportar energía desde el exterior para forzar al átomo a aceptar el electrón. Un valor negativo indica un proceso exotérmico (liberación de energía).",
+      "respuesta_correcta": "D",
+      "explicacion": "Al descender en un grupo, el tamaño del átomo (radio atómico) aumenta. Un electrón que se añade a un átomo más grande estará más lejos del núcleo y experimentará un mayor apantallamiento por parte de los electrones internos, lo que resulta en una menor atracción y, por lo tanto, una menor afinidad electrónica.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_008",
-      "pregunta": "¿Cuál es la relación entre la tendencia periódica de la Afinidad Electrónica (AE) y la Energía de Ionización (EI)?",
+      "pregunta": "¿Qué relación existe entre la Energía de Ionización y el radio atómico?",
       "dificultad": 2,
       "opciones": {
-        "A": "Son inversas; donde una aumenta, la otra disminuye.",
-        "B": "No tienen ninguna relación.",
-        "C": "Varían de la misma forma en la tabla periódica.",
-        "D": "La AE aumenta en los grupos y la EI disminuye.",
-        "E": "La EI aumenta en los periodos y la AE disminuye."
+        "A": "Son directamente proporcionales; a mayor radio, mayor EI.",
+        "B": "Varían inversamente; a mayor radio, menor EI.",
+        "C": "No existe una correlación clara entre ambas propiedades.",
+        "D": "Ambas propiedades aumentan al descender en un grupo.",
+        "E": "Su relación depende del número de isótopos del elemento."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Tanto la afinidad electrónica como la energía de ionización siguen la misma tendencia general en la tabla periódica: ambas aumentan al moverse hacia la derecha en un periodo y disminuyen al bajar en un grupo. Esto se debe a que ambos fenómenos están gobernados por la atracción del núcleo sobre los electrones de la capa más externa.",
+      "respuesta_correcta": "B",
+      "explicacion": "La energía de ionización y el radio atómico tienen una relación inversa. En átomos más pequeños, los electrones de valencia están más cerca del núcleo y son atraídos con más fuerza, por lo que se requiere más energía para removerlos (mayor EI). En átomos más grandes, los electrones están más lejos y apantallados, facilitando su remoción (menor EI).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_009",
-      "pregunta": "De acuerdo con las tendencias, ¿qué se puede decir de un elemento que pierde electrones con facilidad?",
+      "pregunta": "¿Por qué un átomo con baja energía de ionización tendría, en general, una baja afinidad electrónica?",
       "dificultad": 2,
       "opciones": {
-        "A": "Tiene una alta afinidad electrónica.",
-        "B": "Es probable que sea un gas noble.",
-        "C": "Tiene una baja tendencia a captar electrones (baja AE).",
-        "D": "Tiene un radio atómico muy pequeño.",
-        "E": "Se encuentra en la esquina superior derecha de la tabla periódica."
+        "A": "Porque ambas propiedades no están relacionadas.",
+        "B": "Porque los elementos que pierden electrones fácilmente no tienen una fuerte tendencia a captarlos.",
+        "C": "Porque la baja energía de ionización se debe a un núcleo muy grande.",
+        "D": "Porque todos los metales tienen afinidades electrónicas negativas.",
+        "E": "Porque la afinidad electrónica solo se aplica a los no metales."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los elementos que pierden electrones fácilmente (como los metales alcalinos) tienen baja energía de ionización. Esta misma baja atracción del núcleo por sus propios electrones se traduce en una baja capacidad para atraer un electrón adicional. Por lo tanto, tienen una baja afinidad electrónica.",
+      "respuesta_correcta": "B",
+      "explicacion": "Existe una correlación conceptual: un elemento que tiende a perder electrones (baja energía de ionización), como un metal alcalino, lo hace para alcanzar una configuración estable. Por la misma razón, tiene poca o ninguna tendencia a aceptar un electrón adicional, lo que se traduce en una baja afinidad electrónica.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_010",
-      "pregunta": "¿Qué grupos de elementos se mencionan como casos especiales que generalmente tienen un proceso de afinidad electrónica endotérmico?",
+      "pregunta": "¿Cómo se compara la tendencia de variación de la Afinidad Electrónica con la de la Energía de Ionización en la tabla periódica?",
       "dificultad": 2,
       "opciones": {
-        "A": "Grupo IA (alcalinos) y VIIA (halógenos).",
-        "B": "Grupo IVA (carbonoideos) y VA (nitrogenoideos).",
-        "C": "Grupo IIA (alcalinotérreos) y VIIIA (gases nobles).",
-        "D": "Grupo VIA (calcógenos) y VIIA (halógenos).",
-        "E": "Metales de transición y lantánidos."
+        "A": "Tienen tendencias opuestas en los periodos.",
+        "B": "Varían de la misma forma.",
+        "C": "No guardan ninguna relación en su variación.",
+        "D": "La AE aumenta hacia abajo y la EI disminuye.",
+        "E": "Tienen tendencias opuestas en los grupos."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los metales alcalinotérreos (Grupo IIA) tienen una subcapa $s$ completa, y los gases nobles (Grupo VIIIA) tienen una capa de valencia completa. Estas configuraciones son muy estables, por lo que añadir un electrón requiere que ocupe un subnivel de mayor energía, lo cual es un proceso desfavorable que requiere un aporte de energía (endotérmico).",
+      "respuesta_correcta": "B",
+      "explicacion": "Ambas propiedades periódicas, Afinidad Electrónica y Energía de Ionización, siguen la misma tendencia general en la tabla periódica: aumentan al moverse hacia la derecha en un periodo y disminuyen al bajar en un grupo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_011",
-      "pregunta": "La relación entre la energía de ionización y el radio atómico es:",
+      "pregunta": "El proceso de adición de un electrón a un átomo de un gas noble (Grupo VIIIA) es un caso especial. ¿Qué se espera que ocurra con la energía en este proceso?",
       "dificultad": 2,
       "opciones": {
-        "A": "Directamente proporcional; a mayor radio, mayor energía de ionización.",
-        "B": "Inversamente proporcional; a mayor radio, menor energía de ionización.",
-        "C": "Exponencial.",
-        "D": "Logarítmica.",
-        "E": "No existe una relación clara entre ambas propiedades."
+        "A": "Se liberará una gran cantidad de energía.",
+        "B": "No habrá cambio de energía.",
+        "C": "Se requerirá energía para que el proceso ocurra.",
+        "D": "La energía liberada será igual a su energía de ionización.",
+        "E": "El proceso es espontáneo y exotérmico."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La energía de ionización es la energía requerida para quitar un electrón. En un átomo con un radio más grande, el electrón más externo está más lejos del núcleo y siente una atracción más débil. Por lo tanto, se necesita menos energía para removerlo. Esto establece una relación inversamente proporcional: a menor radio atómico, mayor energía de ionización.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los gases nobles ya tienen una capa de valencia completa y son muy estables. Forzar a uno de estos átomos a aceptar un electrón adicional requiere un aporte de energía, ya que el electrón debe ocupar un nuevo nivel de energía más alto y menos estable. Por lo tanto, el proceso es endotérmico (AE positiva).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_012",
-      "pregunta": "Al considerar la adición sucesiva de electrones, ¿qué es la \"segunda afinidad electrónica\"?",
+      "pregunta": "La reacción $$O(g) + e^- \rightarrow O^-(g) + \text{energía}$$ representa la primera afinidad electrónica del oxígeno. ¿Qué se puede afirmar sobre este proceso?",
       "dificultad": 2,
       "opciones": {
-        "A": "La energía liberada al añadir dos electrones simultáneamente.",
-        "B": "La energía asociada a la adición de un electrón a un ion negativo.",
-        "C": "La energía necesaria para quitar el segundo electrón de un átomo.",
-        "D": "Es un sinónimo de la segunda energía de ionización.",
-        "E": "La afinidad electrónica de los elementos del segundo periodo."
+        "A": "Es un proceso endotérmico con AE positiva.",
+        "B": "Es un proceso exotérmico con AE negativa.",
+        "C": "Es un proceso neutro en energía.",
+        "D": "Requiere un catalizador para ocurrir.",
+        "E": "Solo ocurre a altas presiones."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Las afinidades electrónicas sucesivas se refieren a la adición de electrones uno por uno. La primera afinidad electrónica es la adición de un electrón a un átomo neutro para formar un ion con carga -1. La segunda afinidad electrónica es la energía del proceso en el que ese ion con carga -1 gana un segundo electrón para formar un ion con carga -2.",
+      "explicacion": "La ecuación muestra que se libera \"energía\" como un producto de la reacción. Esto indica que el sistema se estabiliza al ganar el electrón, liberando el exceso de energía. Un proceso que libera energía es exotérmico y, por convención, se le asigna un valor de Afinidad Electrónica negativo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_013",
-      "pregunta": "Se describe el proceso para el magnesio como endotérmico: $$Mg(g) + e^- + energia \\rightarrow Mg^-(g)$$. ¿Cuál es la mejor explicación para este fenómeno, considerando la posición del Mg en la tabla periódica?",
+      "pregunta": "Dado el proceso endotérmico $$Mg(g) + e^- + \text{energía} \rightarrow Mg^-(g)$$, ¿cuál es la mejor explicación para este comportamiento?",
       "dificultad": 3,
       "opciones": {
-        "A": "El magnesio es un no metal y prefiere perder electrones.",
-        "B": "El magnesio, como metal alcalinotérreo (Grupo IIA), tiene su subnivel de valencia $s$ completo, lo que le confiere estabilidad y hace que la adición de otro electrón sea energéticamente desfavorable.",
-        "C": "El radio atómico del magnesio es tan grande que no puede atraer un electrón adicional.",
-        "D": "Todos los metales tienen afinidades electrónicas positivas.",
-        "E": "El magnesio necesita energía para pasar al estado gaseoso antes de aceptar el electrón."
+        "A": "El magnesio es un no metal y no acepta electrones.",
+        "B": "El magnesio pertenece al Grupo IIA, con un subnivel s lleno, lo que lo hace estable. Aceptar un electrón desestabiliza el sistema.",
+        "C": "La energía de ionización del magnesio es muy alta.",
+        "D": "El electrón añadido se aloja en el núcleo del átomo.",
+        "E": "Todos los metales tienen afinidades electrónicas positivas."
       },
       "respuesta_correcta": "B",
-      "explicacion": "El magnesio pertenece al Grupo IIA, los metales alcalinotérreos. Su configuración electrónica termina en $$...3s^2$$. El subnivel $s$ está lleno, lo que proporciona una configuración electrónica relativamente estable. Para añadir un electrón extra, este tendría que ocupar un subnivel de mayor energía ($3p$), lo cual es un proceso energéticamente desfavorable (endotérmico). La opción E se refiere a la energía de sublimación, no a la afinidad electrónica que se define para átomos ya en estado gaseoso.",
+      "explicacion": "El magnesio (Mg) es un metal alcalinotérreo (Grupo IIA) con una configuración electrónica de valencia $3s^2$. Este subnivel 's' está completo, lo que le confiere una estabilidad particular. Añadir un electrón adicional requiere que éste ocupe un subnivel de mayor energía (el 3p), un proceso energéticamente desfavorable que necesita un aporte de energía (endotérmico), resultando en una AE positiva.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_014",
-      "pregunta": "Si un elemento exhibe una primera energía de ionización ($$EI_1$$) muy baja y una primera afinidad electrónica ($$AE_1$$) también muy baja (cercana a cero o positiva), ¿qué tipo de elemento es probablemente?",
+      "pregunta": "Si la primera afinidad electrónica de un átomo es exotérmica, ¿qué se puede predecir sobre la segunda afinidad electrónica (la adición de un electrón a un anión)?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un halógeno, como el flúor.",
-        "B": "Un gas noble, como el neón.",
-        "C": "Un metal, como los alcalinos.",
-        "D": "Un no metal del grupo del oxígeno.",
-        "E": "Un metaloide, como el silicio."
+        "A": "Será aún más exotérmica, liberando más energía.",
+        "B": "Será siempre un proceso endotérmico, requiriendo energía.",
+        "C": "Tendrá un valor de cero.",
+        "D": "Será exotérmica pero de menor magnitud que la primera.",
+        "E": "Será idéntica a la primera afinidad electrónica."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Una energía de ionización muy baja significa que el elemento pierde electrones con facilidad. Una afinidad electrónica muy baja (o positiva) significa que tiene poca o ninguna tendencia a ganar electrones. Estas dos características son distintivas de los metales, que tienden a formar cationes y rara vez forman aniones. Los no metales (halógenos, grupo del oxígeno) tienen alta EI y alta AE.",
+      "respuesta_correcta": "B",
+      "explicacion": "Añadir un electrón a un ion que ya es negativo (un anión) implica superar la repulsión electrostática entre dos cargas iguales (el anión y el electrón). Esta repulsión hace que el proceso sea energéticamente desfavorable, por lo que siempre se requerirá un aporte de energía. Por lo tanto, las segundas y sucesivas afinidades electrónicas son procesos endotérmicos (AE positiva).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_113_015",
-      "pregunta": "La primera afinidad electrónica de un átomo puede ser exotérmica, pero la segunda afinidad electrónica (añadir un electrón a un anión) es casi siempre endotérmica. ¿Por qué?",
+      "pregunta": "Considerando la tendencia de la Energía de Ionización ($EI_1 < EI_2 < EI_3$), ¿qué factor es el principal responsable de este aumento sucesivo?",
       "dificultad": 3,
       "opciones": {
-        "A": "Porque el segundo electrón es repelido por la carga negativa del anión ya formado.",
-        "B": "Porque el radio del anión es mucho menor que el del átomo neutro.",
-        "C": "Porque después de la primera adición, el átomo alcanza la configuración de gas noble.",
-        "D": "Porque el segundo electrón siempre entra en un orbital de tipo $d$ o $f$.",
-        "E": "Porque el núcleo atrae con menos fuerza a los electrones en un anión."
+        "A": "El aumento del radio atómico con cada electrón extraído.",
+        "B": "La disminución del número de protones en el núcleo.",
+        "C": "El aumento de la atracción efectiva del núcleo sobre un número menor de electrones.",
+        "D": "El cambio de estado del átomo de gaseoso a sólido.",
+        "E": "La repulsión entre los protones del núcleo."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Una vez que un átomo ha ganado un electrón para formar un anión (ion con carga negativa), existe una repulsión electrostática entre la carga negativa del anión y el electrón adicional que se intenta añadir. Para vencer esta fuerza de repulsión y forzar la entrada del segundo electrón se requiere un aporte de energía, lo que hace que el proceso sea endotérmico.",
+      "respuesta_correcta": "C",
+      "explicacion": "Al remover un electrón, se forma un ion positivo. La cantidad de protones en el núcleo permanece constante, pero ahora atraen a un número menor de electrones. Esto aumenta la carga nuclear efectiva que experimenta cada electrón restante, sujetándolos con más fuerza y requiriendo una cantidad de energía significativamente mayor para extraer el siguiente.",
       "imagen": null
     }
   ]

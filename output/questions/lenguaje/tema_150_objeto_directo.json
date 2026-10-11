@@ -1,0 +1,233 @@
+{
+  "materia": "lenguaje",
+  "numero_tema": 150,
+  "total_temas": 225,
+  "titulo_tema": "Objeto Directo",
+  "preguntas": [
+    {
+      "id_temporal": "lenguaje_150_001",
+      "pregunta": "¿Qué función sintáctica expresa el ser u objeto que recibe de manera inmediata la acción de un verbo transitivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sujeto",
+        "B": "Objeto Directo (OD)",
+        "C": "Objeto Indirecto (OI)",
+        "D": "Complemento Circunstancial",
+        "E": "Atributo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Objeto Directo es el complemento verbal que designa al ser u objeto sobre el cual recae directamente la acción del verbo. El sujeto realiza la acción, el Objeto Indirecto es el beneficiario o perjudicado, el Circunstancial indica las circunstancias y el Atributo califica al sujeto con verbos copulativos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_002",
+      "pregunta": "Para reconocer un Objeto Directo que no se refiere a un ser, ¿qué pregunta se aplica a la estructura de la oración?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "¿A quién + V + S?",
+        "B": "¿Qué es lo que + V + S?",
+        "C": "¿Cuándo + V?",
+        "D": "¿Para quién + V + OD?",
+        "E": "¿Dónde + V?"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La pregunta `¿Qué es lo que + Verbo + Sujeto?` se utiliza para identificar el Objeto Directo cuando este es una cosa o un objeto inanimado. La pregunta `¿A quién...?` se usa para seres, y las preguntas `¿Cuándo...?` y `¿Dónde...?` identifican complementos circunstanciales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_003",
+      "pregunta": "¿Cuál de los siguientes grupos de pronombres se utiliza principalmente para reemplazar y verificar la función de Objeto Directo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "le, les",
+        "B": "mío, tuyo, suyo",
+        "C": "la, lo, las, los",
+        "D": "cuyo, cuya, cuyos",
+        "E": "conmigo, contigo, consigo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los pronombres acusativos `la, lo, las, los` son los que reemplazan canónicamente al Objeto Directo. Este reemplazo es una prueba fundamental para su reconocimiento. Por su parte, `le, les` son pronombres dativos que reemplazan al Objeto Indirecto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_004",
+      "pregunta": "Al transformar una oración de voz activa a voz pasiva, ¿en qué se convierte el Objeto Directo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se mantiene como Objeto Directo",
+        "B": "Se convierte en Objeto Indirecto",
+        "C": "Se convierte en Sujeto pasivo",
+        "D": "Pasa a ser un Complemento Circunstancial",
+        "E": "Se elimina de la oración"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las pruebas fundamentales para identificar un Objeto Directo es su transformación a Sujeto pasivo cuando la oración se convierte a la voz pasiva. Por ejemplo, en \"Yo degusté la comida típica\" (OD), la voz pasiva es \"La comida típica (Sujeto pasivo) fue degustada por mí\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_005",
+      "pregunta": "¿Qué función cumple el complemento en oraciones con verbos copulativos como 'ser', 'estar' o 'parecer'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Objeto Directo",
+        "B": "Objeto Indirecto",
+        "C": "Atributo",
+        "D": "Sujeto",
+        "E": "Complemento Circunstancial"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las oraciones con verbos copulativos (ser, estar, parecer) no llevan Objeto Directo. El complemento que acompaña a estos verbos se denomina Atributo, ya que expresa una cualidad o estado del sujeto, como en \"Ella parece preocupada\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_006",
+      "pregunta": "En la oración \"Mariano Melgar amó a Silvia\", ¿cuál es el Objeto Directo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Mariano Melgar",
+        "B": "amó",
+        "C": "a Silvia",
+        "D": "Melgar amó",
+        "E": "La oración no tiene Objeto Directo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Objeto Directo es \"a Silvia\". Para encontrarlo, se aplica la pregunta para seres: ¿A quién amó Mariano Melgar? La respuesta es \"a Silvia\". Además, puede ser reemplazado por el pronombre \"la\": Mariano Melgar la amó.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_007",
+      "pregunta": "Identifica la oración que presenta un Objeto Directo duplicado.",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los niños tienen veinte dientes.",
+        "B": "Yo lo observé a tu profesor.",
+        "C": "Ella se arregló cuidadosamente.",
+        "D": "Mariano Melgar amó a Silvia.",
+        "E": "Ella regaló una flor a su mamá."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La duplicación del Objeto Directo ocurre cuando el pronombre acusativo (`lo`, `la`, `los`, `las`) y el sintagma al que se refiere (`a tu profesor`) aparecen juntos en la oración. En \"Yo lo observé a tu profesor\", tanto \"lo\" como \"a tu profesor\" se refieren al mismo ente que recibe la acción verbal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_008",
+      "pregunta": "En la oración \"Ella canta a su madre\", ¿por qué \"a su madre\" funciona como Objeto Indirecto y no como Objeto Directo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque se puede reemplazar por \"la\".",
+        "B": "Porque el verbo \"cantar\" no puede tener objeto.",
+        "C": "Porque al pasar a voz pasiva, \"su madre\" se convierte en sujeto.",
+        "D": "Porque indica la beneficiaria de la acción y se reemplaza por \"le\".",
+        "E": "Porque todos los complementos que empiezan con \"a\" son Objetos Indirectos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Aunque empieza con \"a\" y se refiere a un ser, \"a su madre\" es el Objeto Indirecto porque representa a la destinataria o beneficiaria de la acción de cantar. Se puede reemplazar por el pronombre dativo \"le\" (\"Ella le canta\") y no por \"la\". Además, al pasar a voz pasiva (\"Una balada es cantada a su madre por ella\"), \"a su madre\" mantiene su función de OI.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_009",
+      "pregunta": "¿Cuál es la diferencia clave en el comportamiento del Objeto Directo y el Objeto Indirecto al convertir una oración a la voz pasiva?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos se convierten en sujeto pasivo.",
+        "B": "El OD se convierte en sujeto pasivo, mientras que el OI mantiene su función.",
+        "C": "El OI se convierte en sujeto pasivo, mientras que el OD mantiene su función.",
+        "D": "Ambos mantienen su función original sin cambios.",
+        "E": "El OD se elimina y el OI se convierte en complemento agente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La transformación a voz pasiva es una prueba de reconocimiento que diferencia al OD del OI. El Objeto Directo de la voz activa se convierte en el Sujeto de la voz pasiva. En cambio, el Objeto Indirecto no cambia su función, permaneciendo como Objeto Indirecto en ambas voces.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_010",
+      "pregunta": "¿Por qué motivo la oración \"Los adultos pueden tener treinta y dos dientes\" no se puede transformar a la voz pasiva para verificar su Objeto Directo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque contiene una perífrasis verbal.",
+        "B": "Porque el Objeto Directo no se refiere a un ser animado.",
+        "C": "Porque el verbo 'tener' con OD no permite la transformación a voz pasiva.",
+        "D": "Porque la oración ya está en voz pasiva.",
+        "E": "Porque el sujeto \"Los adultos\" es plural."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los verbos de estado como 'tener' y 'haber', a pesar de llevar Objeto Directo, constituyen una excepción y no admiten la transformación a la voz pasiva. En estos casos, para confirmar el OD (\"treinta y dos dientes\"), se debe recurrir a la sustitución por los pronombres `lo(s)` o `la(s)`: \"Los adultos los pueden tener\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_011",
+      "pregunta": "En \"Ella regaló una flor a su mamá\", ¿qué pregunta permite identificar \"a su mamá\" como Objeto Indirecto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "¿A quién + V + S?",
+        "B": "¿Qué es lo que + V + S?",
+        "C": "¿A quién(es) + V + OD?",
+        "D": "¿Para qué + V?",
+        "E": "¿Dónde + V + OD?"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La pregunta para reconocer el Objeto Indirecto es `¿A quién(es) + Verbo + Objeto Directo?`. En este caso, primero identificamos el OD (\"una flor\") preguntando `¿Qué es lo que regaló ella?`. Luego, preguntamos `¿A quién regaló una flor?`, y la respuesta, \"a su mamá\", es el Objeto Indirecto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_012",
+      "pregunta": "¿Cuál es el método correcto para demostrar que \"problemas\" es el Objeto Directo en la oración \"¿Hay problemas?\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Transformar la oración a voz pasiva.",
+        "B": "Preguntar \"¿Qué es lo que hay?\".",
+        "C": "Sustituir \"problemas\" por el pronombre \"los\": \"¿Los hay?\".",
+        "D": "Preguntar \"¿A quién hay?\".",
+        "E": "Identificarlo como atributo porque 'haber' es un verbo de estado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El verbo 'haber' es un caso especial que no admite la transformación a voz pasiva. Por lo tanto, el método para demostrar que el sustantivo que lo acompaña es un Objeto Directo es la sustitución por los pronombres acusativos `lo(s)` o `la(s)`. La transformación \"¿Hay problemas?\" a \"¿Los hay?\" confirma que \"problemas\" es el OD.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_013",
+      "pregunta": "Dada la oración activa \"Ciro Alegría Bazán escribió La serpiente de oro\", ¿cuál es su correcta transformación a voz pasiva?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La serpiente de oro se escribió por Ciro Alegría Bazán.",
+        "B": "La serpiente de oro fue escrita por Ciro Alegría Bazán.",
+        "C": "Ciro Alegría Bazán fue escrito por La serpiente de oro.",
+        "D": "Fue escrita La serpiente de oro por Ciro Alegría Bazán.",
+        "E": "Escribió Ciro Alegría Bazán La serpiente de oro."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para formar la voz pasiva, el Objeto Directo de la activa (\"La serpiente de oro\") se convierte en el Sujeto pasivo. El verbo se transforma en una construcción con el verbo 'ser' en el tiempo del verbo original (fue) más el participio del verbo principal (escrita), concordando en género y número con el nuevo sujeto. El sujeto de la activa (\"Ciro Alegría Bazán\") se convierte en el complemento agente, introducido por \"por\". La opción B cumple todas estas reglas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_014",
+      "pregunta": "En la oración \"Ella se arregló\", ¿qué función sintáctica cumple el pronombre \"se\"?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Objeto Indirecto",
+        "B": "Sujeto de la oración",
+        "C": "Complemento Circunstancial de modo",
+        "D": "Objeto Directo",
+        "E": "Parte invariable del verbo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En este contexto, el pronombre reflexivo \"se\" indica que la acción del verbo recae sobre el mismo sujeto. Se puede analizar preguntando: ¿A quién arregló ella? A sí misma. Por lo tanto, \"se\" funciona como Objeto Directo. Es equivalente a decir \"Ella arregló a sí misma\", donde \"a sí misma\" sería el OD.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "lenguaje_150_015",
+      "pregunta": "Analiza la oración \"Él entrena mucho en el estadio de lunes a viernes\". ¿Qué complementos circunstanciales se encuentran presentes?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Lugar y Modo",
+        "B": "Cantidad y Tiempo",
+        "C": "Cantidad, Lugar y Tiempo",
+        "D": "Lugar y Tiempo",
+        "E": "Modo, Cantidad y Lugar"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para analizar los complementos circunstanciales, se hacen las siguientes preguntas al verbo: \n1. ¿Cuánto entrena? -> \"mucho\" (C. de Cantidad).\n2. ¿Dónde entrena? -> \"en el estadio\" (C. de Lugar).\n3. ¿Cuándo entrena? -> \"de lunes a viernes\" (C. de Tiempo).\nLa oración contiene los tres tipos de complementos.",
+      "imagen": null
+    }
+  ]
+}

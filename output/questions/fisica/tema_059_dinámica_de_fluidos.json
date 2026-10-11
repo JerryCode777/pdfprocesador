@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 59,
+  "total_temas": 137,
+  "titulo_tema": "Dinámica de Fluidos",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_059_001",
+      "pregunta": "¿Qué representa la variable $V_s$ en la fórmula de la fuerza de empuje $$E = \\rho_{líq} g V_s$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad del sonido en el líquido",
+        "B": "La viscosidad del fluido",
+        "C": "El volumen total del cuerpo",
+        "D": "El volumen sumergido del cuerpo",
+        "E": "La densidad del líquido"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la expresión para la fuerza de empuje, $$E = \\rho_{líq} g V_s$$, la variable $V_s$ representa específicamente el volumen de la parte del cuerpo que se encuentra sumergida en el líquido. No se refiere al volumen total del cuerpo (a menos que esté completamente sumergido), ni a otras propiedades como la velocidad, viscosidad o densidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_002",
+      "pregunta": "¿Cuál de las siguientes características define a un fluido con flujo incompresible?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Su velocidad es siempre baja",
+        "B": "Su densidad es constante",
+        "C": "No presenta fricción interna",
+        "D": "No posee velocidad angular neta",
+        "E": "Todas sus partículas siguen la misma trayectoria"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un flujo incompresible se define como aquel en el que la densidad del fluido se mantiene constante. Los líquidos generalmente se consideran incompresibles. Las otras opciones describen otras características de los fluidos ideales: la ausencia de fricción es ser no viscoso, la ausencia de velocidad angular es ser irrotacional, y que las partículas sigan la misma trayectoria se relaciona con el flujo laminar o constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_003",
+      "pregunta": "Según la descripción de un fluido ideal, ¿qué significa que un flujo sea no viscoso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La densidad del fluido no cambia",
+        "B": "La velocidad del fluido es la misma en todos los puntos",
+        "C": "La fricción interna o resistencia al flujo es insignificante",
+        "D": "El fluido no forma remolinos",
+        "E": "El flujo sigue líneas de corriente paralelas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un flujo no viscoso implica que la viscosidad del fluido es insignificante. La viscosidad es la medida de la fricción interna de un fluido. En un fluido ideal no viscoso, no hay pérdida de energía por esta fricción interna ni resistencia entre el fluido y las paredes que lo contienen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_004",
+      "pregunta": "¿Cómo se define el flujo aerodinámico o laminar?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es un flujo donde la densidad del fluido es variable",
+        "B": "Es un movimiento con alta velocidad que genera remolinos",
+        "C": "Es el movimiento donde cada partícula sigue la misma trayectoria que la partícula anterior",
+        "D": "Es un flujo donde la viscosidad es el factor dominante",
+        "E": "Es el flujo exclusivo de los gases compresibles"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo aerodinámico o laminar se caracteriza porque cada partícula del fluido sigue la misma trayectoria que la partícula que la precedió al pasar por un punto determinado. Esto resulta en un movimiento suave y ordenado, representado por líneas de corriente que no se cruzan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_005",
+      "pregunta": "Un flujo irrotacional es una característica de un fluido ideal. ¿Qué implica esta propiedad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que la velocidad del fluido es cero",
+        "B": "Que un pequeño volumen del fluido no posee velocidad angular neta",
+        "C": "Que la densidad del fluido es siempre constante",
+        "D": "Que el fluido no ejerce presión sobre las paredes del contenedor",
+        "E": "Que todas las partículas se mueven en línea recta"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un flujo irrotacional significa que un elemento de fluido (un pequeño volumen) no tiene una velocidad angular neta. Esto elimina la posibilidad de que se formen remolinos o vórtices, lo que es característico de un flujo no turbulento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_006",
+      "pregunta": "¿Qué condición se debe cumplir para que un cuerpo sumergido en un líquido descienda?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El empuje es mayor que el peso del cuerpo ($$E > P$$)",
+        "B": "El peso del cuerpo es mayor que el empuje ($$P > E$$)",
+        "C": "El peso del cuerpo es igual al empuje ($$P = E$$)",
+        "D": "La densidad del cuerpo es menor que la del líquido ($$\\rho_{cuerpo} < \\rho_{líq}$$)",
+        "E": "El volumen del cuerpo es igual al volumen del líquido desalojado"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que un cuerpo descienda (se hunda) en un líquido, la fuerza neta sobre él debe apuntar hacia abajo. Esto ocurre cuando su peso ($P$), que es la fuerza de gravedad hacia abajo, es mayor que la fuerza de empuje ($E$) que el líquido ejerce hacia arriba. Esta condición, $$P > E$$, es equivalente a que la densidad del cuerpo sea mayor que la del líquido, $$\\rho_{cuerpo} > \\rho_{líq}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_007",
+      "pregunta": "En la representación del flujo de un fluido mediante líneas de corriente, ¿qué indica una zona donde las líneas de corriente están más juntas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad del fluido es menor en esa zona",
+        "B": "La densidad del fluido es mayor en esa zona",
+        "C": "El flujo es turbulento en esa zona",
+        "D": "La velocidad del fluido es mayor en esa zona",
+        "E": "La presión del fluido es máxima en esa zona"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las líneas de corriente no solo muestran la trayectoria de las partículas del fluido, sino que también indican la magnitud relativa de la velocidad. Donde las líneas de corriente están más próximas entre sí, la velocidad del fluido es mayor. Donde están más separadas, la velocidad es menor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_008",
+      "pregunta": "¿Cuál es la relación de densidades que permite que un cuerpo flote en un líquido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\rho_{agua} < \\rho_{cuerpo}$$",
+        "B": "$$\\rho_{agua} = \\rho_{cuerpo}$$",
+        "C": "$$\\rho_{agua} > \\rho_{cuerpo}$$",
+        "D": "$$\\rho_{agua} = 0$$",
+        "E": "$$\\rho_{cuerpo} = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que un cuerpo flote, debe estar parcialmente sumergido y en equilibrio. Esto ocurre cuando la fuerza de empuje es igual a su peso ($$E = P$$), y la densidad del líquido es mayor que la densidad promedio del cuerpo ($$\\rho_{agua} > \\rho_{cuerpo}$$). Si las densidades fueran iguales, el cuerpo estaría en equilibrio pero completamente sumergido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_009",
+      "pregunta": "¿Bajo qué condición la velocidad de un fluido tiende a generar remolinos y volverse turbulento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando la velocidad del flujo es baja",
+        "B": "Cuando el fluido es no viscoso",
+        "C": "Cuando la velocidad del flujo es alta",
+        "D": "Cuando el fluido es incompresible",
+        "E": "Cuando el flujo es irrotacional"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un flujo constante, suave o liso se mantiene generalmente a velocidades bajas. Si la velocidad del flujo aumenta y se vuelve alta, tienden a aparecer remolinos, especialmente cerca de las fronteras del conducto, y el flujo se transforma de laminar a turbulento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_010",
+      "pregunta": "Si un cuerpo se encuentra en equilibrio mientras está completamente sumergido en un líquido, ¿cuál es la relación correcta entre su peso ($P$) y el empuje ($E$), y entre su densidad ($\rho_{cuerpo}$) y la del líquido ($\rho_{líq}$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P > E$$ y $$\\rho_{cuerpo} > \\rho_{líq}$$",
+        "B": "$$E > P$$ y $$\\rho_{líq} > \\rho_{cuerpo}$$",
+        "C": "$$P = E$$ y $$\\rho_{cuerpo} = \\rho_{líq}$$",
+        "D": "$$P = E$$ y $$\\rho_{líq} > \\rho_{cuerpo}$$",
+        "E": "$$P < E$$ y $$\\rho_{cuerpo} < \\rho_{líq}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La condición de equilibrio implica que las fuerzas netas son cero, por lo que el peso del cuerpo debe ser igual a la fuerza de empuje: $$P = E$$. Cuando este equilibrio ocurre con el cuerpo totalmente sumergido, significa que la densidad del cuerpo es exactamente igual a la densidad del líquido: $$\\rho_{cuerpo} = \\rho_{líq}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_011",
+      "pregunta": "¿Qué dos características de un fluido ideal están directamente relacionadas con la ausencia de remolinos y turbulencia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No viscoso e incompresible",
+        "B": "Constante e incompresible",
+        "C": "Irrotacional y no viscoso",
+        "D": "Constante e irrotacional",
+        "E": "Incompresible y aerodinámico"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ausencia de remolinos y turbulencia se describe mediante dos características clave. El flujo constante implica que el movimiento es suave, regular y sin remolinos a baja velocidad. El flujo irrotacional define explícitamente que un elemento de fluido no tiene velocidad angular neta, lo que elimina la posibilidad de remolinos y turbulencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_012",
+      "pregunta": "La fuerza de empuje ($E$) sobre un objeto depende de tres factores. ¿Cuáles son estos tres factores según la fórmula $$E = \\rho_{líq} g V_s$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Densidad del cuerpo, gravedad y volumen total",
+        "B": "Densidad del líquido, gravedad y volumen sumergido",
+        "C": "Peso del cuerpo, gravedad y viscosidad del líquido",
+        "D": "Densidad del líquido, velocidad del fluido y presión",
+        "E": "Masa del cuerpo, masa del líquido y aceleración"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula del empuje, $$E = \\rho_{líq} g V_s$$, muestra claramente las tres cantidades de las que depende: $\\rho_{líq}$ (la densidad del líquido en el que está sumergido el objeto), $g$ (la aceleración debida a la gravedad) y $V_s$ (el volumen de la parte del objeto que está bajo la superficie del líquido).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_013",
+      "pregunta": "Un submarino ajusta su densidad para permanecer completamente sumergido y en equilibrio a una profundidad constante. ¿Qué par de ecuaciones describe correctamente esta situación, relacionando peso ($P$), empuje ($E$), densidad del cuerpo ($\rho_{cuerpo}$) y densidad del agua ($\rho_{agua}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$P > E$$ ; $$\\rho_{cuerpo} > \\rho_{agua}$$",
+        "B": "$$P = E$$ ; $$\\rho_{agua} > \\rho_{cuerpo}$$",
+        "C": "$$E > P$$ ; $$\\rho_{agua} > \\rho_{cuerpo}$$",
+        "D": "$$P = E$$ ; $$\\rho_{cuerpo} = \\rho_{agua}$$",
+        "E": "$$P < E$$ ; $$\\rho_{cuerpo} < \\rho_{agua}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que un objeto permanezca en equilibrio (sin ascender ni descender) a una profundidad constante, la fuerza neta sobre él debe ser cero. Esto significa que su peso ($P$) debe ser exactamente igual a la fuerza de empuje ($E$). La condición específica para que este equilibrio ocurra con el objeto *completamente sumergido* es que la densidad del objeto sea igual a la densidad del fluido. Por lo tanto, las relaciones correctas son $$P = E$$ y $$\\rho_{cuerpo} = \\rho_{agua}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_014",
+      "pregunta": "Si un objeto es soltado dentro de un líquido y comienza a ascender hacia la superficie, ¿cuál de las siguientes afirmaciones describe correctamente las fuerzas y densidades involucradas en el momento inicial?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La fuerza de empuje es menor que el peso ($$E < P$$), y la densidad del líquido es menor que la del cuerpo ($$\\rho_{líq} < \\rho_{cuerpo}$$).",
+        "B": "La fuerza de empuje es igual al peso ($$E = P$$), y la densidad del líquido es mayor que la del cuerpo ($$\\rho_{líq} > \\rho_{cuerpo}$$).",
+        "C": "La fuerza de empuje es mayor que el peso ($$E > P$$), y la densidad del líquido es mayor que la del cuerpo ($$\\rho_{líq} > \\rho_{cuerpo}$$).",
+        "D": "La fuerza de empuje es mayor que el peso ($$E > P$$), y la densidad del líquido es igual a la del cuerpo ($$\\rho_{líq} = \\rho_{cuerpo}$$).",
+        "E": "La fuerza de empuje es igual al peso ($$E = P$$), y las densidades son iguales ($$\\rho_{líq} = \\rho_{cuerpo}$$)."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que un objeto ascienda, la fuerza neta debe estar dirigida hacia arriba. Esto sucede cuando la fuerza de empuje ($E$) es mayor que el peso del objeto ($P$). Esta condición física ($$E > P$$) se cumple cuando la densidad del líquido ($$\\rho_{líq}$$) es mayor que la densidad del cuerpo ($$\\rho_{cuerpo}$$). Ambas condiciones describen el fenómeno de ascenso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_059_015",
+      "pregunta": "Al comparar el flujo de agua a baja velocidad en una tubería ancha con el flujo de miel, ¿cuál de las características de un fluido ideal se ve más claramente violada por la miel?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Flujo incompresible",
+        "B": "Flujo constante",
+        "C": "Flujo no viscoso",
+        "D": "Flujo irrotacional",
+        "E": "Flujo laminar"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El modelo de fluido ideal asume que el fluido es no viscoso, es decir, que no tiene fricción interna. La miel es un ejemplo clásico de un fluido con alta viscosidad; su resistencia a fluir es muy alta. En comparación con el agua, la miel se desvía drásticamente de la suposición de ser no viscosa. Aunque otros aspectos del flujo ideal también podrían no cumplirse perfectamente, la alta viscosidad es la característica más evidente y significativa que distingue a la miel de un fluido ideal.",
+      "imagen": null
+    }
+  ]
+}

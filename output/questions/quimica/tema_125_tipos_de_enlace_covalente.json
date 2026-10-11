@@ -3,5 +3,231 @@
   "numero_tema": 125,
   "total_temas": 322,
   "titulo_tema": "Tipos de Enlace Covalente",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_125_001",
+      "pregunta": "¿Cuál es una característica general de los puntos de fusión y ebullición de las sustancias covalentes?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Extremadamente altos y definidos",
+        "B": "Siempre superiores a los de los compuestos iónicos",
+        "C": "Relativamente bajos",
+        "D": "Invariables y constantes para todas las sustancias",
+        "E": "Siempre por debajo de la temperatura ambiente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las sustancias covalentes suelen tener puntos de fusión y ebullición relativamente bajos. Esto se debe a que las fuerzas que mantienen unidas a las moléculas entre sí (fuerzas intermoleculares) son más débiles que las fuertes fuerzas electrostáticas que existen en los compuestos iónicos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_002",
+      "pregunta": "¿Por qué la mayoría de las sustancias covalentes no conducen la electricidad en estado sólido o en solución?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Porque sus electrones están fuertemente atraídos por el núcleo",
+        "B": "Porque no tienen iones móviles que puedan transportar carga",
+        "C": "Porque siempre se encuentran en estado gaseoso",
+        "D": "Porque sus moléculas son eléctricamente positivas",
+        "E": "Porque repelen los campos eléctricos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La conductividad eléctrica depende del movimiento de partículas cargadas. Las sustancias covalentes están compuestas por moléculas neutras y, a diferencia de los compuestos iónicos, no se disocian en iones móviles al disolverse o fundirse. Sin cargas libres para moverse, no pueden conducir la corriente eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_003",
+      "pregunta": "¿Cómo se denomina el enlace covalente que se forma cuando la diferencia de electronegatividad ($$\\Delta\\text{EN}$$) es igual a cero?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Covalente polar",
+        "B": "Iónico",
+        "C": "Covalente no polar puro",
+        "D": "Metálico",
+        "E": "Covalente coordinado"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando la diferencia de electronegatividad entre dos átomos es cero ($$\\Delta\\text{EN} = 0$$), significa que ambos átomos atraen a los electrones compartidos con exactamente la misma fuerza. Esto resulta en una compartición perfectamente equitativa, característica de un enlace covalente no polar puro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_004",
+      "pregunta": "Considerando las propiedades de las sustancias covalentes, ¿en qué estados de la materia pueden existir a temperatura ambiente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Únicamente en estado sólido",
+        "B": "Únicamente en estado líquido",
+        "C": "Pueden ser sólidos, líquidos o gases",
+        "D": "Solo en estado gaseoso",
+        "E": "Solamente en estado sólido y líquido"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las sustancias covalentes muestran una gran versatilidad en su estado físico a temperatura ambiente. Por ejemplo, el azúcar es un sólido, el agua es un líquido y el dióxido de carbono ($$\\text{CO}_2$$) es un gas, todos ellos compuestos covalentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_005",
+      "pregunta": "¿Qué teoría se utiliza para predecir la geometría molecular y la disposición espacial de los átomos en compuestos covalentes?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Teoría atómica de Dalton",
+        "B": "Teoría de la repulsión de pares de electrones de la capa de valencia (VSEPR)",
+        "C": "Ley de las proporciones múltiples",
+        "D": "Teoría del orbital molecular",
+        "E": "Principio de incertidumbre de Heisenberg"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La teoría VSEPR (Valence Shell Electron Pair Repulsion) es el modelo principal para determinar la geometría de las moléculas. Se basa en el principio de que los pares de electrones de valencia alrededor de un átomo central se repelen entre sí y se organizan para minimizar esta repulsión, dando lugar a formas como lineal, tetraédrica, etc.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_006",
+      "pregunta": "Si un enlace químico tiene una diferencia de electronegatividad ($$\\Delta\\text{EN}$$) de 1.1, ¿cómo se clasifica dicho enlace?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Iónico",
+        "B": "Covalente polar",
+        "C": "Principalmente covalente (no polar)",
+        "D": "Covalente no polar puro",
+        "E": "Metálico"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un valor de $$\\Delta\\text{EN}$$ de 1.1 se encuentra dentro del rango $$0.4 < \\Delta\\text{EN} \\leq 1.7$$. Este rango corresponde a un enlace covalente polar, donde los electrones se comparten de manera desigual, creando polos positivos y negativos parciales en la molécula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_007",
+      "pregunta": "Según el principio de solubilidad \"lo semejante disuelve a lo semejante\", ¿qué tipo de sustancia disolverá preferentemente a una molécula polar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un solvente no polar",
+        "B": "Un gas noble",
+        "C": "Un metal líquido",
+        "D": "Un solvente polar",
+        "E": "Cualquier sólido iónico"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este principio establece que las sustancias con polaridades similares son miscibles o solubles entre sí. Por lo tanto, una molécula polar, que tiene una distribución desigual de la carga eléctrica, se disolverá mejor en un solvente polar, como el agua, que también tiene cargas parciales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_008",
+      "pregunta": "¿Cuál es la principal razón por la que los puntos de fusión de las sustancias covalentes son generalmente más bajos que los de los compuestos iónicos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las moléculas covalentes tienen mayor masa",
+        "B": "Los átomos en los enlaces covalentes están más separados",
+        "C": "Las fuerzas intermoleculares son más débiles que las fuerzas electrostáticas",
+        "D": "Los compuestos covalentes no forman estructuras cristalinas",
+        "E": "Los enlaces covalentes son intrínsecamente más débiles que los iónicos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para fundir una sustancia, es necesario superar las fuerzas que mantienen unidas sus partículas. En los compuestos covalentes, estas son las fuerzas intermoleculares (entre moléculas), que son relativamente débiles. En contraste, los compuestos iónicos están unidos por fuerzas electrostáticas muy fuertes en una red cristalina, que requieren mucha más energía para romperse.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_009",
+      "pregunta": "Un enlace químico se clasifica como principalmente covalente (no polar) si su diferencia de electronegatividad ($$\\Delta\\text{EN}$$) se encuentra en el rango:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Delta\\text{EN} > 1.7$$",
+        "B": "$$\\Delta\\text{EN} = 0$$",
+        "C": "$$0.4 < \\Delta\\text{EN} \\leq 1.7$$",
+        "D": "$$0 < \\Delta\\text{EN} \\leq 0.4$$",
+        "E": "$$\\Delta\\text{EN} = 1.7$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un enlace se considera principalmente covalente o no polar cuando la diferencia en la electronegatividad de los átomos es muy pequeña, lo que lleva a una compartición de electrones casi equitativa. El rango definido para esta clasificación es $$0 < \\Delta\\text{EN} \\leq 0.4$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_010",
+      "pregunta": "¿Qué característica de un enlace covalente puro o apolar lo distingue de un enlace covalente polar?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La transferencia completa de un electrón",
+        "B": "La compartición equitativa de los electrones",
+        "C": "La formación de iones positivos y negativos",
+        "D": "La presencia de múltiples enlaces (dobles o triples)",
+        "E": "La participación de átomos metálicos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción fundamental radica en cómo se comparten los electrones. En un enlace covalente puro o apolar, los átomos tienen electronegatividades iguales o muy similares, lo que resulta en una compartición equitativa de los electrones. En un enlace polar, la diferencia de electronegatividad provoca una compartición desigual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_011",
+      "pregunta": "Geometrías moleculares como la lineal, trigonal plana y tetraédrica son el resultado directo de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La minimización de la repulsión entre los pares de electrones de valencia",
+        "B": "La maximización de la atracción entre los núcleos atómicos",
+        "C": "El número total de electrones en la molécula",
+        "D": "El estado de agregación de la sustancia",
+        "E": "La diferencia de electronegatividad entre los átomos"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La teoría VSEPR establece que la geometría adoptada por una molécula es aquella que minimiza la repulsión electrostática entre los pares de electrones (tanto enlazantes como no enlazantes) en la capa de valencia del átomo central. Esta minimización de la repulsión da lugar a geometrías específicas y predecibles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_012",
+      "pregunta": "Si una sustancia covalente como el azúcar (sólido) no conduce electricidad, y tampoco lo hace al disolverse en agua (solución), ¿qué se puede inferir sobre su comportamiento en solución?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se descompone en elementos puros",
+        "B": "Reacciona con el agua para formar un gas",
+        "C": "Permanece como moléculas neutras y no forma iones móviles",
+        "D": "Se convierte en un compuesto iónico al contacto con el agua",
+        "E": "Libera electrones libres en la solución"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La falta de conductividad eléctrica tanto en estado sólido como en solución indica que no hay partículas cargadas libres para moverse. Por lo tanto, cuando el azúcar se disuelve, sus moléculas se dispersan en el agua pero no se disocian en iones, manteniéndose como moléculas eléctricamente neutras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_013",
+      "pregunta": "Se determina que un enlace tiene una diferencia de electronegatividad ($$\\Delta\\text{EN}$$) de 0.2. ¿Cuál de las siguientes afirmaciones describe mejor la naturaleza de este enlace?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El enlace es fuertemente polar, con una clara separación de cargas",
+        "B": "Un átomo ha transferido un electrón al otro, formando un enlace iónico",
+        "C": "Los electrones se comparten de manera casi equitativa, siendo un enlace principalmente covalente no polar",
+        "D": "Es un enlace covalente no polar puro, con compartición perfectamente simétrica",
+        "E": "La diferencia es tan pequeña que el enlace no es estable"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un valor de $$\\Delta\\text{EN} = 0.2$$ cae dentro del rango de $$0 < \\Delta\\text{EN} \\leq 0.4$$. Esto significa que, aunque hay una diferencia mínima de electronegatividad, es lo suficientemente pequeña como para que los electrones se compartan de forma casi equitativa. Por lo tanto, el enlace se clasifica como principalmente covalente o no polar, no como polar fuerte ni como no polar puro ($$\\Delta\\text{EN} = 0$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_014",
+      "pregunta": "Una sustancia es gaseosa a temperatura ambiente, incolora, no conduce la electricidad y tiene un punto de ebullición de -78°C. Basándose en estas propiedades, ¿qué tipo de enlace es más probable que esté presente en esta sustancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Iónico, debido a su estado gaseoso",
+        "B": "Metálico, debido a su bajo punto de ebullición",
+        "C": "Covalente, ya que las propiedades coinciden con las de una sustancia molecular",
+        "D": "Iónico, porque no conduce la electricidad",
+        "E": "Covalente, porque todas las sustancias gaseosas son covalentes"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las propiedades descritas (estado gaseoso a temperatura ambiente, punto de ebullición muy bajo y no conductividad eléctrica) son características de las sustancias moleculares con enlaces covalentes. Los puntos de ebullición bajos son el resultado de fuerzas intermoleculares débiles, y la falta de conductividad se debe a la ausencia de iones móviles. Los compuestos iónicos y metálicos típicamente son sólidos con puntos de ebullición altos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_125_015",
+      "pregunta": "Si la diferencia de electronegatividad ($$\\Delta\\text{EN}$$) entre dos átomos es de 2.5, ¿qué se puede deducir principalmente sobre la interacción entre ellos según la clasificación proporcionada?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Formarán un enlace covalente polar, compartiendo electrones de forma desigual",
+        "B": "Formarán un enlace principalmente iónico, debido a una transferencia de electrones",
+        "C": "Formarán un enlace covalente no polar, compartiendo electrones equitativamente",
+        "D": "No formarán ningún enlace químico estable",
+        "E": "El enlace será metálico, formando una red de cationes y electrones"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una diferencia de electronegatividad de $$\\Delta\\text{EN} = 2.5$$ es un valor significativamente alto, que se encuentra en la región de $$\\Delta\\text{EN} > 1.7$$. Una diferencia tan grande indica que un átomo atrae a los electrones con mucha más fuerza que el otro, lo que resulta en una transferencia de electrones en lugar de una compartición. Este fenómeno es la característica definitoria de un enlace predominantemente iónico.",
+      "imagen": null
+    }
+  ]
 }

@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 226,
+  "total_temas": 320,
+  "titulo_tema": "Conceptos Básicos de Genética",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_226_001",
+      "pregunta": "¿Qué es un gen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La posición específica de un cromosoma.",
+        "B": "Un atributo heredable de un organismo, como el color de pelo.",
+        "C": "El conjunto completo de cromosomas de una especie.",
+        "D": "La unidad molecular de la herencia genética que contiene información en un segmento de ADN.",
+        "E": "La manifestación física de un rasgo influenciado por el ambiente."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un gen es la unidad fundamental de la herencia. Consiste en un segmento de ADN que contiene la información necesaria para codificar una proteína, la cual a su vez da origen a una característica específica. Las otras opciones definen otros conceptos: A se refiere a un locus, B a un carácter, C al genoma o cariotipo y E al fenotipo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_002",
+      "pregunta": "¿Cómo se define el locus en el contexto de la genética?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La variación de un carácter, como el color de ojos azul.",
+        "B": "La posición específica que un gen ocupa en un cromosoma.",
+        "C": "Un individuo con dos alelos idénticos para un gen.",
+        "D": "Toda la información genética contenida en los cromosomas.",
+        "E": "Una estructura filamentosa compuesta de ADN y proteínas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El locus es la \"dirección\" o ubicación física de un gen dentro de la estructura de un cromosoma. El plural es loci, que se refiere a las posiciones de varios genes. Las demás opciones definen: alelo (A), homocigoto (C), genotipo (D) y cromosoma (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_003",
+      "pregunta": "¿Qué término se utiliza para describir el conjunto de genes que presenta una población o especie?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Genotipo",
+        "B": "Fenotipo",
+        "C": "Genoma",
+        "D": "Loci",
+        "E": "Cariotipo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El genoma se define como el conjunto completo de genes de una especie o población. El genotipo es la información genética de un individuo, el fenotipo son sus rasgos observables, y los loci son las posiciones de los genes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_004",
+      "pregunta": "¿A qué se refiere el término genotipo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "A los rasgos observables de un individuo.",
+        "B": "A la influencia del medio ambiente en los genes.",
+        "C": "A la posición de un gen en un cromosoma.",
+        "D": "A toda la información genética contenida en los cromosomas de un individuo.",
+        "E": "A un par de alelos diferentes para un mismo carácter."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El genotipo es la constitución genética completa de un individuo, es decir, toda la información hereditaria contenida en sus cromosomas, se manifieste o no. En contraste, el fenotipo (A) son los rasgos que sí se manifiestan. Las otras opciones se refieren al locus (C) y a un heterocigoto (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_005",
+      "pregunta": "Según su constitución, ¿qué son los cromosomas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Variaciones o posibilidades de un carácter.",
+        "B": "Las unidades moleculares de la herencia genética.",
+        "C": "Estructuras de tipo filamentoso constituidas por ADN y proteínas.",
+        "D": "El conjunto de genes de una población.",
+        "E": "El resultado de la expresión de los genes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cromosomas son las estructuras físicas que contienen el material genético. Están formados por ADN densamente empaquetado junto con proteínas, lo que les da una apariencia filamentosa. Las otras opciones definen alelos (A), genes (B), genoma (D) y fenotipo (E).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_006",
+      "pregunta": "¿Cuál es la diferencia fundamental entre un individuo homocigoto y uno heterocigoto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El homocigoto tiene alelos dominantes y el heterocigoto tiene alelos recesivos.",
+        "B": "El homocigoto tiene dos alelos idénticos para un gen, mientras que el heterocigoto tiene dos alelos diferentes.",
+        "C": "El homocigoto muestra el fenotipo, pero el heterocigoto solo tiene el genotipo.",
+        "D": "El homocigoto es una característica de las plantas y el heterocigoto de los animales.",
+        "E": "El homocigoto no es afectado por el ambiente, mientras que el heterocigoto sí lo es."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción clave radica en los alelos que posee un individuo para un gen determinado. Si los dos alelos son iguales (por ejemplo, AA o aa), el individuo es homocigoto. Si los dos alelos son diferentes (por ejemplo, Aa), el individuo es heterocigoto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_007",
+      "pregunta": "¿Qué relación se establece entre el genotipo y el fenotipo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son términos sinónimos para la información genética.",
+        "B": "El fenotipo determina la composición del genotipo.",
+        "C": "El fenotipo es la expresión de una parte del genotipo, que puede ser influenciada por el ambiente.",
+        "D": "El genotipo es visible, mientras que el fenotipo es la información no observable.",
+        "E": "No existe ninguna relación directa entre ambos conceptos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El genotipo es el conjunto de genes de un individuo (su \"código\" genético), mientras que el fenotipo son los rasgos observables (apariencia, desarrollo, comportamiento). El fenotipo es el resultado de la interacción entre la información del genotipo y factores externos como el medio ambiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_008",
+      "pregunta": "¿Qué es un alelo recesivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un alelo que siempre se expresa, sin importar el otro alelo.",
+        "B": "Un alelo que solo se expresa cuando está en condición homocigótica.",
+        "C": "Un alelo que se representa siempre con una letra mayúscula.",
+        "D": "La combinación de dos alelos diferentes para un mismo gen.",
+        "E": "Un gen que determina varias características a la vez."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un alelo recesivo es aquel que necesita estar presente en dos copias (condición homocigótica, como 'aa') para que su característica se manifieste en el fenotipo. Si está junto a un alelo dominante (en un heterocigoto, como 'Aa'), el dominante lo enmascara y no se expresa. Los alelos dominantes (A) se expresan siempre y se representan con mayúsculas (C).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_009",
+      "pregunta": "En el ejemplo del carácter \"color de ojos\", ¿qué representan las variedades como \"marrón\", \"azul\" y \"verde\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Loci",
+        "B": "Genotipos",
+        "C": "Cromosomas",
+        "D": "Alelos",
+        "E": "Genomas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un \"carácter\" es un atributo general (color de ojos). Las diferentes versiones o posibilidades de ese carácter (marrón, azul, verde) son los alelos. Cada alelo es una variación específica del gen que codifica para ese carácter.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_010",
+      "pregunta": "Si 'A' representa el alelo para el color negro y 'a' para el color blanco, ¿cómo se denomina a un individuo con la combinación de alelos 'AA'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Heterocigoto",
+        "B": "Homocigoto recesivo",
+        "C": "Homocigoto dominante",
+        "D": "Fenotipo recesivo",
+        "E": "Genoma mixto"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un individuo con dos alelos idénticos (AA) es homocigoto. Como el alelo 'A' se representa con mayúscula, es el dominante. Por lo tanto, 'AA' corresponde a un homocigoto dominante. 'aa' sería homocigoto recesivo y 'Aa' sería heterocigoto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_011",
+      "pregunta": "¿Cuál es la dotación cromosómica normal en las células de la especie humana, a excepción de los gametos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "23 cromosomas",
+        "B": "46 pares de cromosomas",
+        "C": "Un número variable según el tejido",
+        "D": "46 cromosomas",
+        "E": "2 cromosomas (X e Y)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número cromosómico es un rasgo distintivo de cada especie. En los seres humanos, la mayoría de las células (células somáticas) poseen una dotación de 46 cromosomas en total, organizados en 23 pares. Los gametos (óvulos y espermatozoides) son la excepción, ya que tienen la mitad, es decir, 23 cromosomas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_012",
+      "pregunta": "¿Qué afirmación describe correctamente la relación entre un gen, un carácter y un alelo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un alelo es un conjunto de genes que determina un carácter.",
+        "B": "Un gen codifica para un carácter, y las diferentes versiones de ese gen son los alelos.",
+        "C": "Un carácter es la posición de un gen, y el alelo es su manifestación.",
+        "D": "Un alelo es sinónimo de carácter, y un gen es una parte del alelo.",
+        "E": "Un gen y un alelo son lo mismo, y juntos forman un carácter."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La jerarquía correcta es: un gen contiene la información para un carácter (atributo, ej. color de flor). Las diferentes formas o variaciones que puede tener ese gen se llaman alelos (ej. alelo para color rojo, alelo para color blanco).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_013",
+      "pregunta": "Un organismo posee un genotipo heterocigoto 'Aa' para un carácter, donde 'A' (negro) es dominante sobre 'a' (blanco). ¿Cuál será su fenotipo y por qué?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Blanco, porque el alelo recesivo se expresa en individuos heterocigotos.",
+        "B": "Negro, porque el alelo dominante se expresa y enmascara al recesivo.",
+        "C": "Gris, ya que los dos alelos se combinan para crear un color intermedio.",
+        "D": "Manchado de negro y blanco, porque ambos alelos se expresan por igual.",
+        "E": "No se puede determinar solo con el genotipo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un individuo heterocigoto ('Aa'), el alelo dominante ('A') es el que determina el fenotipo. Aunque el alelo recesivo ('a') está presente en el genotipo, su información queda oculta. Por lo tanto, el individuo expresará el rasgo dominante, que es el color negro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_014",
+      "pregunta": "Si observamos que un organismo presenta un rasgo determinado por un alelo recesivo (por ejemplo, ojos azules), ¿qué podemos concluir con total certeza sobre su genotipo para ese carácter?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que es heterocigoto (Aa).",
+        "B": "Que es homocigoto dominante (AA).",
+        "C": "Que es homocigoto recesivo (aa).",
+        "D": "Que sus padres también tenían los ojos azules.",
+        "E": "Que su genotipo no puede ser determinado a partir del fenotipo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La característica de los alelos recesivos es que solo se expresan en el fenotipo cuando no hay un alelo dominante que los enmascare. La única forma de que esto ocurra es que el individuo posea dos copias del alelo recesivo. Por lo tanto, su genotipo debe ser obligatoriamente homocigoto recesivo (aa).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_226_015",
+      "pregunta": "Considerando las definiciones proporcionadas, ¿cuál de los siguientes conceptos es directamente descrito como el resultado de la interacción entre la información genética, el medio ambiente y factores epigenéticos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El genotipo",
+        "B": "El genoma",
+        "C": "El fenotipo",
+        "D": "El locus",
+        "E": "El alelo dominante"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El fenotipo se define como la expresión de los genes que es directamente o indirectamente influenciada por el medio ambiente y factores epigenéticos. A diferencia del genotipo, que es la información genética pura, el fenotipo representa los rasgos observables que emergen de la compleja interacción entre los genes y su entorno.",
+      "imagen": null
+    }
+  ]
+}

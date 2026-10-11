@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 98,
+  "total_temas": 137,
+  "titulo_tema": "Conservación de la Carga Eléctrica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_098_001",
+      "pregunta": "¿Cuál es la unidad de la cantidad de carga eléctrica ($Q$) en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Volt (V)",
+        "B": "Ampere (A)",
+        "C": "Coulomb (C)",
+        "D": "Ohm (Ω)",
+        "E": "Watt (W)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad estándar para medir la cantidad de carga eléctrica en el Sistema Internacional de Unidades es el coulomb, representado por el símbolo C. Las otras opciones representan otras unidades físicas: el volt (diferencia de potencial), el ampere (corriente eléctrica), el ohm (resistencia eléctrica) y el watt (potencia).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_002",
+      "pregunta": "¿Qué característica define a un cuerpo macroscópico con una cantidad de carga eléctrica negativa ($-Q$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tiene más protones que electrones.",
+        "B": "Tiene más electrones que protones.",
+        "C": "Tiene igual número de protones y electrones.",
+        "D": "No tiene protones.",
+        "E": "Ha perdido todos sus electrones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un cuerpo adquiere una carga eléctrica negativa cuando posee un exceso de electrones. Esto significa que ha ganado electrones y, por lo tanto, tiene más electrones que protones. Una carga positiva corresponde a un defecto de electrones (más protones que electrones).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_003",
+      "pregunta": "¿Cuál es el valor numérico de la carga eléctrica del electrón ($e^-$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$+1.6 \\times 10^{-19} C$$",
+        "B": "$$-1.6 \\times 10^{19} C$$",
+        "C": "$$0 C$$",
+        "D": "$$-1.6 \\times 10^{-19} C$$",
+        "E": "$$+1.6 \\times 10^{19} C$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La carga fundamental del electrón es una constante física y su valor es de $$-1.6 \\times 10^{-19}$$ coulombs. El signo negativo indica que su carga es de naturaleza negativa. La opción A corresponde a la carga del protón, y las demás opciones tienen exponentes incorrectos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_004",
+      "pregunta": "Un cuerpo con una cantidad de carga eléctrica positiva ($+Q$) se caracteriza por tener:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un exceso de electrones.",
+        "B": "Un defecto de electrones.",
+        "C": "Un exceso de neutrones.",
+        "D": "Un defecto de protones.",
+        "E": "El mismo número de electrones y protones."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un cuerpo se carga positivamente cuando pierde electrones. Esta pérdida genera un 'defecto de electrones', lo que resulta en un número mayor de protones (cargas positivas) que de electrones (cargas negativas), dando al cuerpo una carga neta positiva.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_005",
+      "pregunta": "En el estudio de la cuantización de la carga, ¿qué representa la variable $n$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de neutrones en un átomo.",
+        "B": "La carga neta del sistema.",
+        "C": "El número de electrones transferidos.",
+        "D": "La constante de proporcionalidad.",
+        "E": "El número de protones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La variable $n$ representa el número entero de electrones que un cuerpo ha ganado o perdido. Dado que la carga se transfiere en múltiplos de la carga elemental del electrón, $n$ es fundamental para calcular la carga total $Q$ de un objeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_006",
+      "pregunta": "¿Cuál es el enunciado principal del principio de conservación de la carga eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga eléctrica siempre tiende a cero.",
+        "B": "La suma algebraica de las cargas en un sistema cerrado es constante.",
+        "C": "La carga eléctrica se puede crear a partir de la nada en un sistema abierto.",
+        "D": "Los electrones y protones se crean en pares.",
+        "E": "La carga eléctrica de un cuerpo nunca puede cambiar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de conservación de la carga establece que para cualquier sistema cerrado (o eléctricamente aislado), la suma algebraica total de las cargas eléctricas no cambia con el tiempo. La carga puede moverse y redistribuirse dentro del sistema, pero la cantidad neta total permanece igual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_007",
+      "pregunta": "Cuando una barra de vidrio es frotada con seda, la seda adquiere una carga negativa. Según el principio de conservación de la carga, ¿qué ocurre con la barra de vidrio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Permanece eléctricamente neutra.",
+        "B": "Adquiere una carga negativa de menor magnitud.",
+        "C": "Adquiere una carga positiva de igual magnitud a la de la seda.",
+        "D": "Adquiere una carga positiva de mayor magnitud a la de la seda.",
+        "E": "También adquiere una carga negativa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema completo (vidrio + seda) es inicialmente neutro. Si la seda gana una cierta cantidad de carga negativa (electrones), esos electrones deben haber sido transferidos desde la barra de vidrio. Para que la carga total del sistema se conserve (siga siendo cero), la barra de vidrio debe adquirir una carga positiva de exactamente la misma magnitud.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_008",
+      "pregunta": "La afirmación 'la carga no se crea ni se destruye, sólo se transfiere' implica que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El número total de partículas cargadas en el universo es constante.",
+        "B": "La carga neta de un sistema aislado permanece sin cambios.",
+        "C": "Los cuerpos no pueden ser neutralizados una vez cargados.",
+        "D": "La energía y la carga son intercambiables.",
+        "E": "Solo los electrones pueden moverse entre cuerpos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta afirmación es la esencia del principio de conservación de la carga. Significa que en un sistema aislado de su entorno, la cantidad total de carga eléctrica no puede aumentar ni disminuir. Cualquier cambio en la carga de una parte del sistema se compensa exactamente con un cambio opuesto en otra parte del mismo sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_009",
+      "pregunta": "¿Qué suceso a nivel microscópico explica que un cuerpo adquiera una carga eléctrica positiva ($+Q$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ganancia de protones desde otro cuerpo.",
+        "B": "La conversión de neutrones en protones.",
+        "C": "La pérdida de electrones hacia otro cuerpo.",
+        "D": "La destrucción de electrones dentro del cuerpo.",
+        "E": "La creación de nuevos protones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La carga de los cuerpos macroscópicos se produce por la transferencia de electrones, ya que los protones están fijos en el núcleo atómico. Para que un cuerpo quede con una carga neta positiva, debe perder electrones, dejando un exceso de protones que no han sido neutralizados.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_010",
+      "pregunta": "Para que el principio de conservación de la carga sea aplicable, se requiere que el sistema sea 'cerrado' o 'aislado eléctricamente'. ¿Qué significa esto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el sistema no intercambie calor con el entorno.",
+        "B": "Que el sistema no permita la entrada o salida de carga eléctrica.",
+        "C": "Que el sistema esté en un contenedor sellado al vacío.",
+        "D": "Que la masa total del sistema sea constante.",
+        "E": "Que las cargas dentro del sistema no puedan moverse."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un sistema eléctricamente aislado es aquel que no intercambia carga con su entorno. Esto es crucial para el principio de conservación, ya que si la carga pudiera entrar o salir, la suma total de las cargas dentro del sistema ya no sería necesariamente constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_011",
+      "pregunta": "Si un cuerpo eléctricamente neutro gana un gran número $n$ de electrones, ¿cuál será su estado de carga final?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo ($+Q$).",
+        "B": "Permanecerá neutro.",
+        "C": "Alternará entre positivo y negativo.",
+        "D": "Negativo ($-Q$).",
+        "E": "Dependerá de la temperatura."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al ser inicialmente neutro, el cuerpo tiene igual número de protones y electrones. Al ganar $n$ electrones, tendrá un exceso de estas partículas cargadas negativamente. Por lo tanto, su carga neta final será negativa ($-Q$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_012",
+      "pregunta": "En el proceso de frotamiento entre dos cuerpos, ¿cómo se asegura la conservación de la carga eléctrica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Parte de la carga se convierte en calor.",
+        "B": "Se crean nuevas cargas para equilibrar el sistema.",
+        "C": "La cantidad de electrones que un cuerpo pierde es igual a la que el otro gana.",
+        "D": "Ambos cuerpos terminan con la misma carga neta.",
+        "E": "La carga total de cada cuerpo permanece inalterada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El frotamiento facilita la transferencia de electrones de un cuerpo a otro. El principio de conservación se cumple porque no se crean ni destruyen electrones en el proceso; simplemente se mueven. Por cada electrón que un cuerpo pierde (quedando más positivo), el otro cuerpo lo gana (quedando más negativo), manteniendo la carga total del sistema constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_013",
+      "pregunta": "Un sistema cerrado y aislado consiste en dos esferas metálicas, A y B, ambas inicialmente neutras. Si se transfieren electrones de la esfera A a la esfera B, de modo que B adquiere una carga de $$-2.0 \\times 10^{-9} C$$. ¿Cuál será la carga de la esfera A?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$0 C$$",
+        "B": "$$-2.0 \\times 10^{-9} C$$",
+        "C": "$$+4.0 \\times 10^{-9} C$$",
+        "D": "$$-4.0 \\times 10^{-9} C$$",
+        "E": "$$+2.0 \\times 10^{-9} C$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El sistema total (esfera A + esfera B) es eléctricamente aislado. La carga inicial total es $0 + 0 = 0$. Según el principio de conservación de la carga, la carga total final también debe ser cero. Si $Q_B = -2.0 \\times 10^{-9} C$, entonces $Q_A + Q_B = 0$. Despejando $Q_A$, obtenemos $Q_A = -Q_B = -(-2.0 \\times 10^{-9} C) = +2.0 \\times 10^{-9} C$. La esfera A quedó con un defecto de electrones igual en magnitud al exceso de electrones de la esfera B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_014",
+      "pregunta": "En un sistema aislado, tres partículas tienen cargas iniciales $Q_1 = +5C$, $Q_2 = -8C$ y $Q_3 = +2C$. Después de interactuar, las cargas de las dos primeras partículas son $Q'_1 = -1C$ y $Q'_2 = +4C$. ¿Cuál es la carga final de la tercera partícula, $Q'_3$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$+2C$$",
+        "B": "$$-4C$$",
+        "C": "$$-1C$$",
+        "D": "$$0C$$",
+        "E": "$$-2C$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de conservación de la carga establece que la carga total inicial debe ser igual a la carga total final. \n1. Calcule la carga total inicial: $Q_{inicial} = Q_1 + Q_2 + Q_3 = (+5) + (-8) + (+2) = -1C$. \n2. La carga total final debe ser la misma: $Q_{final} = Q'_1 + Q'_2 + Q'_3 = -1C$. \n3. Sustituya los valores conocidos: $(-1) + (+4) + Q'_3 = -1C$. \n4. Simplifique y resuelva para $Q'_3$: $3 + Q'_3 = -1C \\implies Q'_3 = -1 - 3 = -4C$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_098_015",
+      "pregunta": "Un cuerpo pequeño adquiere una carga eléctrica positiva de $$+3.2 \\times 10^{-19} C$$. Sabiendo que la carga del electrón es $$e^- = -1.6 \\times 10^{-19} C$$, ¿qué ha sucedido a nivel de electrones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ha ganado 2 electrones.",
+        "B": "Ha perdido 1 electrón.",
+        "C": "Ha ganado 1 electrón.",
+        "D": "Ha perdido 2 electrones.",
+        "E": "Ha perdido 0.5 electrones."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Primero, una carga positiva indica un defecto de electrones, por lo que el cuerpo debe haber perdido electrones. Para determinar cuántos, dividimos la carga total adquirida por la magnitud de la carga de un solo electrón: \n$$n = \\frac{|Q|}{|e^-|} = \\frac{3.2 \\times 10^{-19} C}{1.6 \\times 10^{-19} C} = 2$$ \nEl resultado, $n=2$, significa que se transfirieron 2 electrones. Como la carga final es positiva, el cuerpo ha perdido esos 2 electrones.",
+      "imagen": null
+    }
+  ]
+}

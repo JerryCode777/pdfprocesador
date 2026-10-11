@@ -1,0 +1,233 @@
+{
+  "materia": "ingles",
+  "numero_tema": 12,
+  "total_temas": 34,
+  "titulo_tema": "Numbers",
+  "preguntas": [
+    {
+      "id_temporal": "ingles_012_001",
+      "pregunta": "¿Cómo se escribe el número cardinal para $80$ en inglés?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Eighteen",
+        "B": "Eighty",
+        "C": "Eight",
+        "D": "Ninety",
+        "E": "Seventy"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El número cardinal para $80$ se escribe 'Eighty'. 'Eighteen' es $18$, 'Eight' es $8$, 'Ninety' es $90$ y 'Seventy' es $70$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_002",
+      "pregunta": "¿Cuál de las siguientes palabras es un día de la semana?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "January",
+        "B": "Summer",
+        "C": "Monday",
+        "D": "Autumn",
+        "E": "Spring"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "'Monday' (lunes) es un día de la semana. 'January' es un mes, mientras que 'Summer', 'Autumn' y 'Spring' son estaciones del año.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_003",
+      "pregunta": "¿Qué palabra se utiliza para describir el cabello que no es liso?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Long",
+        "B": "Blonde",
+        "C": "Curly",
+        "D": "Dark",
+        "E": "Short"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La palabra 'curly' (rizado) describe un tipo de cabello que no es liso ('straight'). 'Wavy' (ondulado) también sería una descripción correcta. Las otras opciones describen la longitud ('long'/'short'), el color ('blonde'/'dark'), pero no la textura opuesta a liso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_004",
+      "pregunta": "¿Cuál es la forma correcta del número ordinal para $3$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Three",
+        "B": "Thirteen",
+        "C": "Thirty",
+        "D": "Third",
+        "E": "Thirtieth"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El número ordinal para $3$ es 'third' ($3^{rd}$). 'Three' es el número cardinal. 'Thirteen' es $13$ y 'Thirty' es $30$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_005",
+      "pregunta": "¿Cómo se dice la hora `$4:00$` en inglés?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "It's quarter past four",
+        "B": "It's half past four",
+        "C": "It's four o'clock",
+        "D": "It's quarter to four",
+        "E": "It's noon"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para las horas en punto, se utiliza la expresión 'o'clock'. Por lo tanto, `$4:00$` se dice 'It's four o'clock'. Las otras opciones corresponden a `$4:15$` (quarter past four), `$4:30$` (half past four) y `$3:45$` (quarter to four).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_006",
+      "pregunta": "Si son las `$4:45$`, ¿cuál es la forma correcta de decirlo en inglés?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "It's quarter past four",
+        "B": "It's quarter to four",
+        "C": "It's quarter to five",
+        "D": "It's half past four",
+        "E": "It's four forty-five o'clock"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La hora `$4:45$` significa que faltan $15$ minutos (un cuarto de hora) para las $5$. En inglés, esto se expresa como 'It's quarter to five'. 'Quarter to four' serían las `$3:45$`. 'Quarter past four' serían las `$4:15$`.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_007",
+      "pregunta": "¿Qué palabra para una estación del año se usa principalmente en inglés americano?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "autumn",
+        "B": "winter",
+        "C": "spring",
+        "D": "fall",
+        "E": "summer"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La palabra 'fall' se usa comúnmente en inglés americano para referirse al otoño. En inglés británico, la palabra más común para la misma estación es 'autumn'. 'Winter', 'spring' y 'summer' se usan en ambas variantes del inglés.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_008",
+      "pregunta": "¿Cuál de las siguientes palabras NO describe un tipo o característica del cabello?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Wavy",
+        "B": "Straight",
+        "C": "Freckles",
+        "D": "Blonde",
+        "E": "Long"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "'Freckles' (pecas) son una característica de la piel, no del cabello. 'Wavy' (ondulado), 'straight' (liso), 'blonde' (rubio) y 'long' (largo) son todas palabras utilizadas para describir la apariencia del cabello.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_009",
+      "pregunta": "¿Qué oración utiliza la capitalización correcta para los días y las estaciones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "My favorite season is Summer.",
+        "B": "We will have a meeting next tuesday.",
+        "C": "I like to go to the beach in summer.",
+        "D": "The course ends in december.",
+        "E": "His birthday is in Spring."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los días de la semana y los meses siempre se escriben con mayúscula inicial, pero las estaciones del año no. La oración 'I like to go to the beach in summer.' es correcta porque 'summer' (una estación) está en minúscula. Las otras opciones son incorrectas: 'Summer' y 'Spring' no deben llevar mayúscula, y 'tuesday' y 'december' sí deben llevarla.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_010",
+      "pregunta": "¿Cuál es la forma escrita correcta del número ordinal $12^{th}$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Twelveth",
+        "B": "Twelvth",
+        "C": "Twelfth",
+        "D": "Twelv",
+        "E": "Twoelfth"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ortografía correcta para el número ordinal $12^{th}$ es 'twelfth'. Es una de las formas irregulares que cambia la 've' de 'twelve' por una 'f' antes de añadir 'th'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_011",
+      "pregunta": "¿Cuál es otra forma de decir `$12:00$` durante el día?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Midnight",
+        "B": "Half past twelve",
+        "C": "Midday",
+        "D": "O'clock",
+        "E": "Quarter to one"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las `$12:00$` del mediodía se conocen como 'midday' o 'noon'. 'Midnight' se refiere a las `$00:00$` (doce de la noche). Las otras opciones representan horas diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_012",
+      "pregunta": "¿Qué par de palabras de la apariencia física son opuestos directos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "young / short",
+        "B": "tall / long",
+        "C": "old / brunette",
+        "D": "dark / wavy",
+        "E": "fat / slim"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Las palabras 'fat' (gordo) y 'slim' (delgado) son antónimos que describen la complexión de una persona. Los otros pares no son opuestos directos: 'young' (joven) se opone a 'old' (viejo), no a 'short' (bajo); 'tall' (alto) se opone a 'short'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_013",
+      "pregunta": "Si alguien dice que son las 'a quarter to six', ¿qué hora es en formato digital?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$6:15$",
+        "B": "$6:45$",
+        "C": "$5:15$",
+        "D": "$5:45$",
+        "E": "$6:25$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La expresión 'a quarter to six' significa 'un cuarto para las seis', lo que indica que faltan $15$ minutos para que sean las $6:00$. Por lo tanto, la hora es `$5:45$`. Es un error común pensar que se refiere a la hora de las $6$, como en `$6:45$`.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_014",
+      "pregunta": "Siguiendo el patrón de los números ordinales, ¿cuál es la forma correcta de escribir el ordinal de $22$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Twenty-twoth",
+        "B": "Twenty-second",
+        "C": "Twenty-two",
+        "D": "Twentieth-two",
+        "E": "Twenty-twoond"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para los números compuestos, la parte de las decenas se mantiene como un número cardinal ('twenty') y solo la última cifra se convierte en ordinal. Como el ordinal de $2$ es 'second', el ordinal de $22$ es 'twenty-second' ($22^{nd}$). El mismo patrón se aplica para $21^{st}$ ('twenty-first') y $23^{rd}$ ('twenty-third').",
+      "imagen": null
+    },
+    {
+      "id_temporal": "ingles_012_015",
+      "pregunta": "Una persona descrita como \"a tall, slim ginger\" tiene las siguientes características:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es baja, pelirroja y tiene pecas.",
+        "B": "Es alta, tiene el pelo oscuro y usa gafas.",
+        "C": "Es alta, delgada y pelirroja.",
+        "D": "Es baja, delgada y tiene el pelo rubio.",
+        "E": "Es alta, tiene pecas y el pelo liso."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta combina varios elementos del vocabulario de apariencia física. 'Tall' significa alta, 'slim' significa delgada, y 'ginger' es un término usado para describir a una persona con cabello rojo. Por lo tanto, la descripción correcta es 'alta, delgada y pelirroja'.",
+      "imagen": null
+    }
+  ]
+}

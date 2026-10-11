@@ -6,32 +6,32 @@
   "preguntas": [
     {
       "id_temporal": "quimica_269_001",
-      "pregunta": "¿Cuál es la fórmula general que describe a los cicloalcanos?",
+      "pregunta": "¿Cuál es la característica principal que define a los hidrocarburos cíclicos?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$C_nH_{2n+2}$$",
-        "B": "$$C_nH_{2n}$$",
-        "C": "$$C_nH_{2n-2}$$",
-        "D": "$$C_nH_n$$",
-        "E": "$$C_{2n}H_{2n}$$"
+        "A": "Estar compuestos únicamente por átomos de carbono.",
+        "B": "Presentar siempre enlaces dobles o triples.",
+        "C": "Tener una estructura de cadena abierta con extremos definidos.",
+        "D": "Poseer una cadena de átomos cerrada, formando un ciclo o anillo.",
+        "E": "Ser exclusivamente compuestos aromáticos."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La fórmula general para los cicloalcanos es $$C_nH_{2n}$$, donde 'n' representa el número de átomos de carbono en el anillo. Esta fórmula indica que tienen dos hidrógenos menos que el alcano de cadena abierta correspondiente ($$C_nH_{2n+2}$$), debido a la formación del enlace carbono-carbono que cierra el ciclo.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los hidrocarburos cíclicos se caracterizan fundamentalmente por tener una cadena cerrada, lo que significa que sus átomos de carbono se unen formando un anillo. A diferencia de los hidrocarburos de cadena abierta, no tienen un principio ni un fin.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_002",
-      "pregunta": "¿Qué característica principal define a un hidrocarburo como cíclico?",
+      "pregunta": "¿Cuál es la fórmula general que representa a los cicloalcanos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Contiene únicamente enlaces dobles y triples.",
-        "B": "Está formado solo por átomos de carbono.",
-        "C": "Presenta una cadena de átomos de carbono que es cerrada o forma un anillo.",
-        "D": "Es un compuesto gaseoso a temperatura ambiente.",
-        "E": "Su fórmula siempre es $$C_6H_6$$."
+        "A": "$$C_nH_{2n+2}$$",
+        "B": "$$C_nH_n$$",
+        "C": "$$C_nH_{2n}$$",
+        "D": "$$C_nH_{2n-2}$$",
+        "E": "$$C_{2n}H_{2n}$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los hidrocarburos cíclicos se definen por tener una cadena de átomos de carbono que no tiene un principio ni un fin, es decir, está cerrada formando un anillo o ciclo. Las otras opciones son incorrectas: pueden tener enlaces simples, dobles o triples; deben contener hidrógeno; su estado físico varía; y no todos tienen la fórmula del benceno.",
+      "explicacion": "La fórmula general para los cicloalcanos es $$C_nH_{2n}$$, donde '$n$' representa el número de átomos de carbono en el anillo. Esta fórmula indica que tienen dos hidrógenos menos que un alcano de cadena abierta con el mismo número de carbonos ($$C_nH_{2n+2}$$), debido a la formación del enlace carbono-carbono que cierra el ciclo.",
       "imagen": null
     },
     {
@@ -39,94 +39,94 @@
       "pregunta": "¿Cuál es el cicloalcano más sencillo que puede existir?",
       "dificultad": 1,
       "opciones": {
-        "A": "Cicloetano",
-        "B": "Ciclometano",
-        "C": "Ciclobutano",
-        "D": "Ciclopentano",
-        "E": "Ciclopropano"
+        "A": "Ciclobutano",
+        "B": "Ciclopentano",
+        "C": "Cicloetano",
+        "D": "Ciclopropano",
+        "E": "Ciclohexano"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El cicloalcano más sencillo es el ciclopropano, con la fórmula $$C_3H_6$$. Se necesita un mínimo de tres átomos de carbono para poder formar una cadena cerrada o un anillo. El ciclometano y el cicloetano no pueden existir porque con uno o dos carbonos es imposible formar un ciclo.",
+      "respuesta_correcta": "D",
+      "explicacion": "El ciclopropano ($$C_3H_6$$) es el cicloalcano más sencillo. Se necesita un mínimo de tres átomos de carbono para formar un anillo cerrado, por lo que no pueden existir cicloalcanos con uno o dos carbonos (como el cicloetano).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_004",
-      "pregunta": "¿Cómo se denominan específicamente los alcanos cuyos átomos de carbono se unen formando anillos?",
+      "pregunta": "El ángulo de enlace tetraédrico ideal, a partir del cual se mide la distorsión en algunos cicloalcanos, es de:",
       "dificultad": 1,
       "opciones": {
-        "A": "Alquenos",
-        "B": "Hidrocarburos aromáticos",
-        "C": "Cicloalcanos",
-        "D": "Alquinos",
-        "E": "Isómeros estructurales"
+        "A": "$$60^\\circ$$",
+        "B": "$$90^\\circ$$",
+        "C": "$$108^\\circ$$",
+        "D": "$$120^\\circ$$",
+        "E": "$$109.5^\\circ$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los alcanos (hidrocarburos con enlaces simples carbono-carbono) que tienen una estructura de cadena cerrada o anillo se conocen como cicloalcanos. Los alquenos tienen enlaces dobles, los alquinos tienen enlaces triples y los aromáticos tienen una estructura de anillo especial (como el benceno).",
+      "respuesta_correcta": "E",
+      "explicacion": "En la química del carbono, el ángulo de enlace ideal para un carbono con hibridación sp³ (como en los alcanos) es el ángulo tetraédrico de $$109.5^\\circ$$. Las desviaciones de este ángulo en los cicloalcanos pequeños generan tensión en el anillo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_005",
-      "pregunta": "Además de en hidrocarburos simples, ¿en qué tipo de compuestos orgánicos de importancia biológica se encuentran estructuras cíclicas?",
+      "pregunta": "¿Qué es un cicloalcano?",
       "dificultad": 1,
       "opciones": {
-        "A": "Solamente en lípidos.",
-        "B": "Exclusivamente en proteínas.",
-        "C": "En sales inorgánicas.",
-        "D": "Carbohidratos, nucleótidos y antibióticos.",
-        "E": "Únicamente en los gases nobles."
+        "A": "Un hidrocarburo con enlaces triples en un anillo.",
+        "B": "Un alcano cuyos átomos de carbono se unen formando un anillo.",
+        "C": "Un compuesto cíclico que contiene oxígeno.",
+        "D": "Un hidrocarburo aromático como el benceno.",
+        "E": "Un alcano de cadena lineal muy larga."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Muchos compuestos orgánicos de gran importancia biológica son cíclicos. Entre ellos se encuentran los carbohidratos (como la glucosa en su forma cíclica), los nucleótidos que forman el ADN y el ARN (que contienen bases nitrogenadas cíclicas), y numerosos antibióticos.",
+      "respuesta_correcta": "B",
+      "explicacion": "Por definición, los cicloalcanos son un tipo de hidrocarburos saturados (alcanos) en los que los átomos de carbono están dispuestos en una estructura de anillo en lugar de una cadena lineal o ramificada.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_006",
-      "pregunta": "¿Qué factor principal contribuye al fenómeno conocido como \"tensión de anillo\"?",
+      "pregunta": "¿Qué causa la \"tensión de anillo\" en moléculas como el ciclopropano y el ciclobutano?",
       "dificultad": 2,
       "opciones": {
-        "A": "La repulsión entre los átomos de hidrógeno.",
-        "B": "La distorsión de los ángulos de enlace con respecto al ángulo tetraédrico ideal de $$109.5^\\circ$$.",
-        "C": "El número total de átomos en la molécula.",
-        "D": "La presencia de enlaces dobles dentro del ciclo.",
-        "E": "La longitud de los enlaces carbono-carbono."
+        "A": "La presencia de un número impar de átomos de hidrógeno.",
+        "B": "La longitud excesiva de los enlaces carbono-carbono.",
+        "C": "La distorsión de los ángulos de enlace con respecto al ángulo tetraédrico ideal.",
+        "D": "La repulsión entre los átomos de hidrógeno de carbonos adyacentes.",
+        "E": "La ausencia de enlaces dobles en la estructura del anillo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La \"tensión de anillo\" en los cicloalcanos se debe principalmente a la desviación de los ángulos de enlace internos del anillo con respecto al ángulo tetraédrico ideal de $$109.5^\\circ$$, que es el ángulo más estable para un carbono con hibridación sp³. Cuanto mayor es la desviación, mayor es la tensión.",
+      "respuesta_correcta": "C",
+      "explicacion": "La tensión de anillo se origina porque los ángulos de enlace internos en anillos pequeños, como el ciclopropano ($$60^\\circ$$) y el ciclobutano ($$90^\\circ$$), están forzados a ser mucho menores que el ángulo tetraédrico ideal de $$109.5^\\circ$$. Esta desviación o distorsión genera una inestabilidad energética en la molécula.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_007",
-      "pregunta": "¿Por qué la molécula de ciclopentano se considera estable y su anillo casi plano?",
+      "pregunta": "¿Por qué el ciclopentano es considerado un anillo estable y casi plano?",
       "dificultad": 2,
       "opciones": {
-        "A": "Porque sus ángulos de enlace de $$60^\\circ$$ son muy pequeños y rígidos.",
-        "B": "Porque los ángulos de enlace de un pentágono regular ($$108^\\circ$$) están muy cerca del ángulo tetraédrico ideal ($$109.5^\\circ$$).",
-        "C": "Porque tiene un número par de átomos de carbono, lo que siempre confiere estabilidad.",
-        "D": "Porque carece de átomos de hidrógeno, evitando tensiones.",
-        "E": "Porque sus ángulos de enlace son de $$90^\\circ$$, coincidiendo con los ejes cartesianos."
+        "A": "Porque sus ángulos de enlace son de $$60^\\circ$$.",
+        "B": "Porque no contiene átomos de hidrógeno.",
+        "C": "Porque sus ángulos de enlace internos ($$108^\\circ$$) son muy cercanos al ángulo tetraédrico ideal.",
+        "D": "Porque es el cicloalcano más pequeño que existe.",
+        "E": "Porque posee una gran tensión de anillo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La estabilidad del ciclopentano se debe a que sus ángulos de enlace internos son de aproximadamente $$108^\\circ$$. Este valor es muy cercano al ángulo tetraédrico ideal de $$109.5^\\circ$$, lo que resulta en una mínima distorsión y, por lo tanto, una baja tensión de anillo.",
+      "respuesta_correcta": "C",
+      "explicacion": "La estabilidad del ciclopentano se debe a que los ángulos internos de un pentágono regular son de $$108^\\circ$$, un valor muy próximo al ángulo tetraédrico ideal de $$109.5^\\circ$$. Esta similitud minimiza la tensión de anillo, haciendo que la molécula sea relativamente estable y su estructura casi plana.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_008",
-      "pregunta": "¿Qué dos cicloalcanos se mencionan como ejemplos con las distorsiones de enlace más severas?",
+      "pregunta": "Además de los cicloalcanos, ¿en qué tipo de compuestos biológicos importantes se encuentran estructuras cíclicas?",
       "dificultad": 2,
       "opciones": {
-        "A": "Ciclopentano y Ciclohexano",
-        "B": "Ciclobutano y Ciclopentano",
-        "C": "Ciclopropano y Ciclobutano",
-        "D": "Ciclopropano y Ciclopentano",
-        "E": "Solo el Ciclopropano"
+        "A": "Únicamente en lípidos y grasas.",
+        "B": "Solamente en proteínas simples.",
+        "C": "En carbohidratos, nucleótidos del ADN y ARN, y antibióticos.",
+        "D": "Exclusivamente en los alcanos de cadena lineal.",
+        "E": "En gases nobles y metales de transición."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El ciclopropano y el ciclobutano son los ejemplos con las distorsiones más severas. El ciclopropano tiene ángulos de enlace de $$60^\\circ$$ y el ciclobutano de $$90^\\circ$$, ambos muy alejados del ángulo tetraédrico ideal de $$109.5^\\circ$$, lo que genera una alta tensión de anillo en estas moléculas.",
+      "explicacion": "Las estructuras cíclicas son fundamentales en la bioquímica. Se encuentran en los monosacáridos que forman los carbohidratos, en las bases nitrogenadas y los azúcares de los nucleótidos (componentes del ADN y ARN), y en la estructura de muchos antibióticos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_009",
-      "pregunta": "¿Cuál es el valor del ángulo de enlace interno en una molécula de ciclobutano?",
+      "pregunta": "El ángulo de enlace en la estructura del ciclobutano es de:",
       "dificultad": 2,
       "opciones": {
         "A": "$$60^\\circ$$",
@@ -136,97 +136,97 @@
         "E": "$$108^\\circ$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "En la estructura del ciclobutano, los cuatro átomos de carbono forman un cuadrado, lo que resulta en ángulos de enlace internos de $$90^\\circ$$. Este ángulo representa una distorsión significativa con respecto al ángulo tetraédrico ideal de $$109.5^\\circ$$ y causa tensión en el anillo.",
+      "explicacion": "El ciclobutano tiene una estructura de anillo de cuatro carbonos que se asemeja a un cuadrado. Los ángulos internos de un cuadrado son de $$90^\\circ$$, lo que representa una desviación significativa del ángulo tetraédrico ideal de $$109.5^\\circ$$ y causa tensión en el anillo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_010",
-      "pregunta": "¿Cuál es el ángulo tetraédrico ideal para los enlaces de un átomo de carbono en un alcano?",
+      "pregunta": "¿Cuál es la fórmula molecular del ciclopropano?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$90^\\circ$$",
-        "B": "$$108^\\circ$$",
-        "C": "$$60^\\circ$$",
-        "D": "$$180^\\circ$$",
-        "E": "$$109.5^\\circ$$"
+        "A": "$$C_3H_8$$",
+        "B": "$$C_3H_6$$",
+        "C": "$$C_4H_8$$",
+        "D": "$$C_3H_4$$",
+        "E": "$$C_2H_6$$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El ángulo tetraédrico ideal, que minimiza la repulsión entre los cuatro enlaces simples de un átomo de carbono (con hibridación sp³), es de $$109.5^\\circ$$. Los cicloalcanos que se desvían de este ángulo experimentan tensión de anillo.",
+      "respuesta_correcta": "B",
+      "explicacion": "El ciclopropano tiene 3 átomos de carbono ($n=3$). Aplicando la fórmula general de los cicloalcanos, $$C_nH_{2n}$$, se obtiene la fórmula molecular $$C_3H_{2 \times 3} = C_3H_6$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_011",
-      "pregunta": "Aplicando la fórmula general $$C_nH_{2n}$$, ¿cuál es la fórmula molecular del cicloalcano más simple, el ciclopropano?",
+      "pregunta": "Según las características estructurales descritas, ¿qué se afirma sobre la reactividad del ciclopropano y el ciclobutano?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$C_3H_8$$",
-        "B": "$$C_3H_4$$",
-        "C": "$$C_3H_6$$",
-        "D": "$$C_2H_4$$",
-        "E": "$$C_3H_3$$"
+        "A": "Son extremadamente reactivos debido a la ausencia de tensión.",
+        "B": "Su reactividad es idéntica a la del ciclopentano.",
+        "C": "Son usualmente poco reactivos en comparación con otros hidrocarburos saturados.",
+        "D": "Son más reactivos que los alquenos debido a sus ángulos planos.",
+        "E": "No pueden reaccionar bajo ninguna condición."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El ciclopropano tiene 3 átomos de carbono, por lo tanto, $$n=3$$. Sustituyendo este valor en la fórmula general de los cicloalcanos, $$C_nH_{2n}$$, obtenemos $$C_3H_{2(3)}$$, que resulta en la fórmula molecular $$C_3H_6$$.",
+      "explicacion": "Debido a la tensión de anillo causada por la distorsión de sus ángulos de enlace, se indica que el ciclopropano y el ciclobutano son compuestos \"tensionados\" y se caracterizan por ser usualmente poco reactivos si se les compara con otros hidrocarburos saturados.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_012",
-      "pregunta": "Como consecuencia de la severa distorsión en sus ángulos de enlace, se dice que los anillos de ciclopropano y ciclobutano están...",
+      "pregunta": "¿Cuál es el número mínimo de átomos de carbono, representado por $n$, para formar un cicloalcano?",
       "dificultad": 2,
       "opciones": {
-        "A": "ionizados",
-        "B": "aromatizados",
-        "C": "perfectamente estables",
-        "D": "tensionados",
-        "E": "linealizados"
+        "A": "$n = 1$",
+        "B": "$n = 2$",
+        "C": "$n = 5$",
+        "D": "$n = 4$",
+        "E": "$n = 3$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La gran diferencia entre los ángulos de enlace reales del ciclopropano ($$60^\\circ$$) y ciclobutano ($$90^\\circ$$) y el ángulo ideal ($$109.5^\\circ$$) genera una inestabilidad estructural. Esta inestabilidad se describe como \"tensión de anillo\", por lo que se dice que estos anillos están tensionados.",
+      "respuesta_correcta": "E",
+      "explicacion": "Para formar una cadena cerrada o un anillo, se requiere un mínimo de tres puntos (vértices). En química de hidrocarburos, esto se traduce en un mínimo de tres átomos de carbono. Por lo tanto, el valor más pequeño para $n$ en la fórmula $$C_nH_{2n}$$ para un cicloalcano es 3.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_013",
-      "pregunta": "Si un cicloalcano está compuesto por 4 átomos de carbono, ¿cuál es su fórmula molecular?",
+      "pregunta": "Si un cicloalcano tiene la fórmula molecular $$C_5H_{10}$$, ¿qué se puede inferir sobre su estabilidad basándose en la tensión de anillo?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$C_4H_{10}$$",
-        "B": "$$C_4H_8$$",
-        "C": "$$C_4H_6$$",
-        "D": "$$C_4H_4$$",
-        "E": "$$C_8H_{16}$$"
+        "A": "Es muy inestable debido a una severa distorsión de ángulo de $$60^\\circ$$.",
+        "B": "Presenta una tensión moderada con ángulos de $$90^\\circ$$.",
+        "C": "Es relativamente estable, ya que sus ángulos de enlace son cercanos a $$109.5^\\circ$$.",
+        "D": "Es inestable porque le faltan dos hidrógenos para ser un alcano.",
+        "E": "Es imposible determinar su estabilidad sin más información."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para resolver esto, se utiliza la fórmula general de los cicloalcanos, $$C_nH_{2n}$$. Dado que el compuesto tiene 4 átomos de carbono, $$n=4$$. Al sustituir este valor en la fórmula, obtenemos $$C_4H_{2(4)}$$, lo que da como resultado la fórmula molecular $$C_4H_8$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "Una fórmula de $$C_5H_{10}$$ corresponde al ciclopentano. Los ángulos internos de un pentágono regular son de $$108^\\circ$$, valor muy cercano al ángulo tetraédrico ideal de $$109.5^\\circ$$. Esta mínima desviación resulta en una baja tensión de anillo, lo que confiere al ciclopentano una estabilidad considerable en comparación con cicloalcanos más pequeños.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_014",
-      "pregunta": "¿Cuál es la relación entre el ángulo de enlace interno de un pentágono regular ($$108^\\circ$$) y la estabilidad del ciclopentano?",
+      "pregunta": "Al comparar el ciclopropano, ciclobutano y ciclopentano, ¿cuál de ellos presenta la mayor desviación o distorsión de su ángulo de enlace con respecto al valor tetraédrico ideal?",
       "dificultad": 3,
       "opciones": {
-        "A": "El ángulo de $$108^\\circ$$ es idéntico al del ciclopropano, lo que le da una tensión similar.",
-        "B": "La gran diferencia entre $$108^\\circ$$ y el ángulo ideal de $$109.5^\\circ$$ provoca una inestabilidad extrema.",
-        "C": "No existe relación entre la geometría del anillo y su estabilidad química.",
-        "D": "La cercanía del ángulo de $$108^\\circ$$ al ángulo tetraédrico ideal de $$109.5^\\circ$$ resulta en una baja tensión de anillo y una mayor estabilidad.",
-        "E": "Al ser un ángulo mayor a $$90^\\circ$$, garantiza que la molécula es más tensionada que el ciclobutano."
+        "A": "Ciclopentano",
+        "B": "Ciclobutano",
+        "C": "Ciclopropano",
+        "D": "Todos presentan la misma distorsión.",
+        "E": "Ninguno presenta distorsión."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La estabilidad de un cicloalcano está directamente relacionada con cuán cerca están sus ángulos de enlace del ángulo tetraédrico ideal de $$109.5^\\circ$$. El ángulo interno de un pentágono regular es $$108^\\circ$$, un valor muy próximo al ideal. Esta pequeña diferencia minimiza la tensión angular, haciendo del ciclopentano una molécula relativamente estable en comparación con el ciclopropano o el ciclobutano.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para encontrar la mayor distorsión, se compara la diferencia entre el ángulo real y el ideal ($$109.5^\\circ$$): \n- Ciclopropano: $|60^\\circ - 109.5^\\circ| = 49.5^\\circ$ \n- Ciclobutano: $|90^\\circ - 109.5^\\circ| = 19.5^\\circ$ \n- Ciclopentano: $|108^\\circ - 109.5^\\circ| = 1.5^\\circ$ \nLa mayor diferencia, y por lo tanto la distorsión más severa, corresponde al ciclopropano.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_269_015",
-      "pregunta": "Comparando las severas distorsiones angulares del ciclopropano ($$60^\\circ$$) y ciclobutano ($$90^\\circ$$), ¿qué se puede inferir sobre su reactividad según la información proporcionada?",
+      "pregunta": "Un hidrocarburo saturado y cíclico está formado por 4 átomos de carbono. ¿Cuál es su fórmula molecular?",
       "dificultad": 3,
       "opciones": {
-        "A": "Son extremadamente estables porque sus ángulos son números exactos.",
-        "B": "Son más reactivos que los alcanos de cadena abierta debido a la tensión.",
-        "C": "Su reactividad es idéntica a la del ciclopentano.",
-        "D": "Se consideran poco reactivos en comparación con otros hidrocarburos saturados debido a su estructura tensionada.",
-        "E": "La distorsión angular no tiene ningún efecto sobre la reactividad de la molécula."
+        "A": "$$C_4H_{10}$$",
+        "B": "$$C_4H_6$$",
+        "C": "$$C_4H_4$$",
+        "D": "$$C_4H_8$$",
+        "E": "$$C_3H_6$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La información indica que como consecuencia de que los anillos de ciclopropano y ciclobutano están \"tensionados\" por la distorsión de sus ángulos, estos compuestos son usualmente poco reactivos en comparación con otros hidrocarburos saturados. Aunque la tensión generalmente aumenta la reactividad, esta opción refleja directamente la conclusión presentada en el contenido educativo.",
+      "explicacion": "Un hidrocarburo saturado y cíclico es un cicloalcano. Si está formado por 4 átomos de carbono, entonces $n=4$. Aplicando la fórmula general para cicloalcanos, $$C_nH_{2n}$$, sustituimos $n$ por 4: $$C_4H_{2 \times 4} = C_4H_8$$. Este compuesto es el ciclobutano.",
       "imagen": null
     }
   ]

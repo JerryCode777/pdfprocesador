@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 12,
+  "total_temas": 137,
+  "titulo_tema": "Movimiento Circular",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_012_001",
+      "pregunta": "¿Qué característica define principalmente al Movimiento Circular Uniforme (M.C.U.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La velocidad es constante.",
+        "B": "La aceleración es nula.",
+        "C": "La rapidez es constante.",
+        "D": "El radio de giro es variable.",
+        "E": "La aceleración tangencial es variable."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Movimiento Circular Uniforme (M.C.U.) se caracteriza fundamentalmente porque la partícula se mueve con rapidez constante. Aunque la rapidez es constante, la velocidad no lo es, ya que su dirección cambia continuamente, lo que implica la existencia de una aceleración (la centrípeta).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_002",
+      "pregunta": "¿Qué representa el Periodo ($$T$$) en un movimiento circular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número de vueltas que da una partícula por segundo.",
+        "B": "El tiempo que emplea una partícula en realizar una vuelta completa.",
+        "C": "La distancia total recorrida por la partícula.",
+        "D": "El ángulo total barrido por el radio de giro.",
+        "E": "La rapidez con la que cambia la velocidad angular."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Periodo, representado por la letra $$T$$, es una magnitud temporal que se define como el tiempo que tarda un móvil en completar una vuelta, revolución o ciclo en su trayectoria circular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_003",
+      "pregunta": "¿Cuál es la definición de frecuencia ($$f$$) y cuál es su unidad en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El tiempo por cada vuelta; su unidad es el segundo ($$s$$).",
+        "B": "El ángulo barrido por segundo; su unidad es el radián por segundo ($$rad/s$$).",
+        "C": "El número de vueltas por unidad de tiempo; su unidad es el Hertz ($$Hz$$).",
+        "D": "La longitud de arco recorrida; su unidad es el metro ($$m$$).",
+        "E": "La rapidez del cambio de dirección; su unidad es $$m/s^2$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La frecuencia ($$f$$) se define como el número de vueltas, revoluciones o ciclos que una partícula realiza por cada unidad de tiempo. Su unidad oficial en el Sistema Internacional es el Hertz ($$Hz$$), que es equivalente a ciclos por segundo ($$s^{-1}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_004",
+      "pregunta": "¿Hacia dónde está dirigida siempre la aceleración centrípeta ($$a_c$$) en un movimiento circular?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tangente a la trayectoria, en el mismo sentido que la velocidad.",
+        "B": "Hacia el centro de la circunferencia.",
+        "C": "Hacia afuera de la circunferencia, en la dirección del radio.",
+        "D": "Perpendicular al plano del movimiento circular.",
+        "E": "En dirección opuesta a la velocidad tangencial."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La aceleración centrípeta, cuyo nombre significa 'que busca el centro', es la responsable del cambio en la dirección de la velocidad tangencial y siempre está dirigida hacia el centro de la trayectoria circular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_005",
+      "pregunta": "¿Qué es la aceleración tangencial ($$a_t$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La aceleración que apunta hacia el centro del círculo.",
+        "B": "La aceleración que mide los cambios en la dirección de la velocidad.",
+        "C": "La aceleración que mide los cambios en el módulo de la velocidad tangencial.",
+        "D": "La suma vectorial de todas las aceleraciones.",
+        "E": "Una aceleración que solo existe en el M.C.U."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración tangencial ($$a_t$$) es la componente de la aceleración que mide cómo cambia la rapidez del móvil, es decir, el cambio en el módulo (magnitud) de la velocidad tangencial. Es nula en un M.C.U. ya que la rapidez es constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_006",
+      "pregunta": "¿Cuál es la fórmula que relaciona correctamente la rapidez tangencial ($$v$$) con la rapidez angular ($$\\omega$$) y el radio de giro ($$R$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$v = \\frac{\\omega}{R}$$",
+        "B": "$$v = \\omega^2 R$$",
+        "C": "$$v = \\omega R$$",
+        "D": "$$\\omega = vR$$",
+        "E": "$$v = \\frac{R}{\\omega}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La rapidez tangencial ($$v$$) es directamente proporcional a la rapidez angular ($$\\omega$$) y al radio ($$R$$). La relación se expresa como $$v = \\omega R$$. Esto significa que a mayor distancia del centro (mayor $$R$$) o a mayor rapidez de giro (mayor $$\\omega$$), la rapidez lineal en ese punto será mayor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_007",
+      "pregunta": "¿Cómo se calcula la longitud de arco ($$S$$) a partir del desplazamiento angular ($$\\theta$$) y el radio de giro ($$R$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$S = \\theta + R$$",
+        "B": "$$S = \\frac{\\theta}{R}$$",
+        "C": "$$S = \\theta R$$",
+        "D": "$$S = \\theta^2 R$$",
+        "E": "$$S = \\frac{R}{\\theta}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La longitud de arco ($$S$$) es la distancia recorrida a lo largo de la trayectoria circular. Se calcula multiplicando el desplazamiento angular ($$\\theta$$), expresado en radianes, por el radio de la circunferencia ($$R$$). La fórmula es $$S = \\theta R$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_008",
+      "pregunta": "¿Qué relación matemática fundamental existe entre el periodo ($$T$$) y la frecuencia ($$f$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$T = f$$",
+        "B": "$$T = 2\\pi f$$",
+        "C": "$$f = \\frac{1}{T}$$",
+        "D": "$$T = f^2$$",
+        "E": "$$f = T + 2\\pi$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo ($$T$$) y la frecuencia ($$f$$) son magnitudes inversamente proporcionales. El periodo es el tiempo por vuelta, mientras que la frecuencia es el número de vueltas por unidad de tiempo. Por lo tanto, su relación es $$f = \\frac{1}{T}$$ o, equivalentemente, $$T = \\frac{1}{f}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_009",
+      "pregunta": "En un Movimiento Circular Uniforme (M.C.U.), ¿cuál es la relación geométrica entre el vector aceleración centrípeta ($$a_c$$) y el vector velocidad tangencial ($$v$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son paralelos y apuntan en la misma dirección.",
+        "B": "Son perpendiculares entre sí.",
+        "C": "Son paralelos y apuntan en direcciones opuestas.",
+        "D": "El ángulo entre ellos varía constantemente.",
+        "E": "Son el mismo vector."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una característica clave del M.C.U. es que el vector aceleración centrípeta ($$a_c$$), que apunta hacia el centro, es siempre perpendicular al vector velocidad tangencial ($$v$$), que es tangente a la trayectoria en cada punto. Esta perpendicularidad asegura que la aceleración solo cambie la dirección de la velocidad, pero no su magnitud (rapidez).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_010",
+      "pregunta": "Cuando dos poleas están unidas por una faja o dos ruedas están en contacto, ¿qué magnitud física es necesariamente la misma para los puntos en la periferia de ambas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La velocidad angular ($$\\omega$$).",
+        "B": "La aceleración centrípeta ($$a_c$$).",
+        "C": "El radio de giro ($$R$$).",
+        "D": "El periodo ($$T$$).",
+        "E": "La velocidad tangencial ($$v$$)."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En un sistema de transmisión con fajas o ruedas en contacto, la faja o el punto de contacto se mueve a una única rapidez. Por lo tanto, los puntos en la periferia de ambas poleas o ruedas deben tener la misma velocidad tangencial ($$v$$). Esto se expresa como $$v_A = v_B$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_011",
+      "pregunta": "Si dos poleas son solidarias, es decir, están unidas a un mismo eje de giro, ¿qué afirmación es correcta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas tienen la misma velocidad tangencial en sus bordes.",
+        "B": "Ambas giran con la misma velocidad angular.",
+        "C": "Ambas tienen el mismo radio.",
+        "D": "El periodo de la polea más grande es menor.",
+        "E": "La frecuencia de la polea más pequeña es mayor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando dos o más poleas comparten un eje común, giran como un solo cuerpo rígido. Esto significa que barren el mismo ángulo en el mismo intervalo de tiempo, por lo que su velocidad angular ($$\\omega$$) es idéntica. Se cumple que $$\\omega_A = \\omega_B$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_012",
+      "pregunta": "Sabiendo que la rapidez angular ($$\\omega$$) se calcula como $$\\omega = \\frac{\\theta}{t}$$ y la velocidad tangencial es $$v = \\frac{S}{t}$$, ¿cómo se deriva la relación $$v = \\omega R$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sustituyendo $$t = \\frac{\\theta}{\\omega}$$ en la fórmula de $$v$$.",
+        "B": "Igualando $$v = \\omega$$ y resolviendo para $$R$$.",
+        "C": "Sustituyendo $$S = \\theta R$$ en la fórmula de $$v$$.",
+        "D": "Multiplicando las fórmulas de $$v$$ y $$\\omega$$.",
+        "E": "Derivando la fórmula de $$S$$ con respecto al tiempo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La derivación es directa. Partimos de la definición de velocidad tangencial $$v = \\frac{S}{t}$$. Sabemos que la longitud de arco es $$S = \\theta R$$. Al sustituir $$S$$ en la primera ecuación, obtenemos $$v = \\frac{\\theta R}{t}$$. Reagrupando los términos, tenemos $$v = (\\frac{\\theta}{t})R$$. Como $$\\omega = \\frac{\\theta}{t}$$, finalmente llegamos a $$v = \\omega R$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_013",
+      "pregunta": "¿Por qué se considera que un cuerpo en Movimiento Circular Uniforme (M.C.U.) experimenta aceleración, a pesar de que su rapidez es constante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque su rapidez angular está cambiando.",
+        "B": "Porque la aceleración tangencial es constante y no nula.",
+        "C": "Porque la dirección del vector velocidad tangencial cambia continuamente.",
+        "D": "Porque la frecuencia del movimiento aumenta con el tiempo.",
+        "E": "Porque la energía cinética del cuerpo no es constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración se define como cualquier cambio en el vector velocidad, ya sea en su magnitud (rapidez) o en su dirección. En un M.C.U., aunque la rapidez es constante, la dirección de la velocidad tangencial está en cambio permanente para poder seguir la trayectoria circular. Este cambio en la dirección es producido por la aceleración centrípeta, por lo que el movimiento es acelerado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_014",
+      "pregunta": "En un movimiento circular donde la rapidez no es constante (M.C.U.V.), la aceleración total ($$a$$) es la suma vectorial de sus componentes. ¿Cómo se calcula la magnitud de esta aceleración total?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$a = a_c + a_t$$",
+        "B": "$$a = \\sqrt{a_c^2 + a_t^2}$$",
+        "C": "$$a = \\frac{a_c}{a_t}$$",
+        "D": "$$a = a_c - a_t$$",
+        "E": "$$a = (a_c + a_t)^2$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La aceleración centrípeta ($$a_c$$) y la aceleración tangencial ($$a_t$$) son vectores perpendiculares entre sí. Para encontrar la magnitud del vector resultante (aceleración total, $$a$$), se debe aplicar el Teorema de Pitágoras a este triángulo rectángulo de vectores, lo que resulta en la fórmula $$a = \\sqrt{a_c^2 + a_t^2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_012_015",
+      "pregunta": "Una partícula describe un M.C.U. con un radio ($$R$$) y un periodo ($$T$$) conocidos. ¿Cuál de las siguientes fórmulas permite calcular correctamente la magnitud de su aceleración centrípeta ($$a_c$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$a_c = \\frac{2\\pi R}{T^2}$$",
+        "B": "$$a_c = \\frac{4\\pi^2 R}{T}$$",
+        "C": "$$a_c = 4\\pi^2 T^2 R$$",
+        "D": "$$a_c = \\frac{4\\pi^2 R}{T^2}$$",
+        "E": "$$a_c = \\frac{v^2}{T}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Existen varias fórmulas equivalentes para la aceleración centrípeta. Partiendo de $$a_c = \\omega^2 R$$ y sabiendo que la relación entre la rapidez angular y el periodo es $$\\omega = \\frac{2\\pi}{T}$$, podemos sustituir $$\\omega$$ en la primera ecuación: $$a_c = (\\frac{2\\pi}{T})^2 R = \\frac{4\\pi^2}{T^2} R$$. Esto nos da la fórmula $$a_c = \\frac{4\\pi^2 R}{T^2}$$ que relaciona directamente la aceleración centrípeta con el radio y el periodo.",
+      "imagen": null
+    }
+  ]
+}

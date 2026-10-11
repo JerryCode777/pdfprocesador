@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_064_001",
-      "pregunta": "¿Qué establece el principio de máxima multiplicidad de Hund?",
+      "pregunta": "¿Quién estableció el principio que indica que en un átomo los electrones de un mismo nivel de energía se distribuyen para maximizar la cantidad de espines paralelos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Que los electrones deben llenar primero los orbitales de mayor energía.",
-        "B": "Que en un mismo átomo no pueden existir dos electrones con los cuatro números cuánticos iguales.",
-        "C": "Que los electrones de un mismo nivel energético se distribuyen para que exista la mayor cantidad posible de espines paralelos.",
-        "D": "Que cada orbital atómico solo puede contener un máximo de 2 electrones.",
-        "E": "Que la energía relativa se calcula restando el número cuántico $l$ del número cuántico $n$."
+        "A": "Wolfgang Pauli",
+        "B": "Friedrich Hund",
+        "C": "Aufbau",
+        "D": "Albert Einstein",
+        "E": "Niels Bohr"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El principio de máxima multiplicidad, establecido por Friedrich Hund en 1927, se enfoca en la distribución de electrones dentro de orbitales de la misma energía (degenerados). Sostiene que para alcanzar la máxima estabilidad, los electrones ocuparán orbitales distintos con espines paralelos antes de empezar a aparearse en el mismo orbital.",
+      "respuesta_correcta": "B",
+      "explicacion": "Friedrich Hund, en 1927, estableció el principio de máxima multiplicidad, conocido como Regla de Hund. Este principio dicta que para obtener la configuración más estable, los electrones deben ocupar orbitales de un mismo subnivel de forma individual y con espines paralelos antes de empezar a aparearse. Pauli formuló el principio de exclusión y Aufbau es un principio de construcción, no una persona.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_002",
-      "pregunta": "Según el principio de exclusión de Pauli, ¿cuál es el número máximo de electrones que se permiten en un solo orbital?",
+      "pregunta": "Según el principio de exclusión de Pauli, ¿cuál es el número máximo de electrones que pueden ocupar un mismo orbital?",
       "dificultad": 1,
       "opciones": {
         "A": "1",
         "B": "2",
-        "C": "4",
-        "D": "6",
-        "E": "8"
+        "C": "6",
+        "D": "8",
+        "E": "Indefinido"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Wolfgang Pauli afirmó en 1925 que cada orbital atómico puede albergar un máximo de dos electrones. Una condición fundamental de este principio es que, si un orbital contiene dos electrones, estos deben tener espines opuestos.",
+      "explicacion": "El principio de exclusión de Pauli afirma que en cada orbital solo se permiten como máximo 2 electrones, y estos deben tener espines opuestos. Esto se debe a que no pueden existir dos electrones en un mismo átomo con los cuatro números cuánticos idénticos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_003",
-      "pregunta": "¿Cuál es el objetivo principal al realizar la configuración electrónica de un átomo?",
+      "pregunta": "El principio de construcción “Aufbau” establece un método para llenar los orbitales atómicos. ¿En qué orden se llenan?",
       "dificultad": 1,
       "opciones": {
-        "A": "Obtener la distribución de mayor energía posible.",
-        "B": "Asegurar que todos los electrones tengan espines paralelos.",
-        "C": "Distribuir los electrones de forma completamente aleatoria.",
-        "D": "Encontrar la distribución más estable, es decir, la de menor energía.",
-        "E": "Llenar únicamente los niveles de energía más externos."
+        "A": "En orden alfabético de los subniveles",
+        "B": "Desde el nivel de energía más alto al más bajo",
+        "C": "En orden creciente de su energía relativa",
+        "D": "De forma aleatoria",
+        "E": "Llenando primero los orbitales con más electrones"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La configuración electrónica es la distribución de los electrones de un átomo en sus orbitales. El propósito es encontrar la disposición que resulte en la menor energía total para el átomo, lo cual corresponde a su estado más estable o estado fundamental.",
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de Aufbau (que significa 'construir' en alemán) establece que los electrones ocupan primero los orbitales de menor energía relativa antes de pasar a los de mayor energía. Esto asegura que el átomo se encuentre en su estado fundamental, que es el de mayor estabilidad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_004",
-      "pregunta": "¿Qué establece el principio de construcción “Aufbau”?",
+      "pregunta": "¿Cómo se determina la energía relativa ($ER$) de un orbital atómico?",
       "dificultad": 1,
       "opciones": {
-        "A": "Que los electrones se distribuyen para maximizar los espines paralelos.",
-        "B": "Que los electrones llenan los orbitales atómicos de menor energía relativa antes de llenar los de mayor energía.",
-        "C": "Que en un orbital solo pueden coexistir dos electrones con espines opuestos.",
-        "D": "Que la energía y la estabilidad son directamente proporcionales.",
-        "E": "Que no pueden existir dos electrones con los cuatro números cuánticos idénticos."
+        "A": "Multiplicando los números cuánticos $n$ y $l$",
+        "B": "Sumando los números cuánticos $n$ y $l$",
+        "C": "Restando el número cuántico $l$ del $n$",
+        "D": "Solo con el valor del número cuántico principal $n$",
+        "E": "Es un valor constante para todos los orbitales"
       },
       "respuesta_correcta": "B",
-      "explicacion": "El principio de Aufbau, que significa 'construir' en alemán, establece la regla para el llenado de orbitales. Indica que los electrones se van añadiendo progresivamente a los orbitales de menor energía disponible antes de ocupar los de energía superior, construyendo así la configuración electrónica del átomo.",
+      "explicacion": "La energía relativa ($ER$) de un orbital se calcula mediante la suma de los números cuánticos principal ($n$) y del momento angular o azimutal ($l$). La fórmula es $$ER = n + l$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_005",
-      "pregunta": "¿Quién formuló el principio que afirma que en un mismo átomo no pueden estar dos electrones con los cuatro números cuánticos iguales?",
+      "pregunta": "¿Cuál es el objetivo principal al realizar la configuración electrónica de un átomo?",
       "dificultad": 1,
       "opciones": {
-        "A": "Friedrich Hund",
-        "B": "Niels Bohr",
-        "C": "Albert Einstein",
-        "D": "El autor del principio Aufbau",
-        "E": "Wolfgang Pauli"
+        "A": "Distribuir los electrones para lograr la mayor energía posible",
+        "B": "Encontrar la distribución de electrones más estable y de menor energía",
+        "C": "Colocar todos los electrones en el último nivel de energía",
+        "D": "Maximizar el número de electrones con espines opuestos",
+        "E": "Asegurar que cada orbital tenga un solo electrón"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Wolfgang Pauli fue quien, en 1925, estableció el principio de exclusión. Este principio fundamental de la mecánica cuántica se puede enunciar de dos maneras: o bien que un orbital puede contener como máximo dos electrones con espines opuestos, o que no es posible que dos electrones en un mismo átomo tengan los cuatro números cuánticos ($n$, $l$, $m_l$, $m_s$) idénticos.",
+      "respuesta_correcta": "B",
+      "explicacion": "La configuración electrónica describe la distribución de los electrones de un átomo en sus orbitales de tal manera que esta sea la más estable posible, lo que corresponde a la configuración de menor energía total para el átomo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_006",
-      "pregunta": "¿Cómo se determina la energía relativa (ER) de un orbital para aplicar el principio de construcción?",
+      "pregunta": "¿Qué condición es indispensable para que dos electrones puedan compartir el mismo orbital?",
       "dificultad": 2,
       "opciones": {
-        "A": "Únicamente con el valor del número cuántico principal ($n$).",
-        "B": "Sumando los números cuánticos principal ($n$) y secundario ($l$).",
-        "C": "Restando el número cuántico secundario ($l$) del principal ($n$).",
-        "D": "Multiplicando los números cuánticos $n$ y $l$.",
-        "E": "Considerando solo el número cuántico de espín ($m_s$)."
+        "A": "Deben pertenecer a diferentes niveles de energía",
+        "B": "Deben tener espines paralelos",
+        "C": "Deben tener los cuatro números cuánticos iguales",
+        "D": "Deben tener espines opuestos",
+        "E": "Uno debe ser un protón y el otro un electrón"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El principio de Aufbau se basa en la energía relativa (ER) de los orbitales para determinar el orden de llenado. Esta energía se calcula mediante la suma del número cuántico principal ($n$) y el número cuántico del momento angular o secundario ($l$). La fórmula es $$ER = n + l$$. Los orbitales con menor valor de ER se llenan primero.",
+      "respuesta_correcta": "D",
+      "explicacion": "De acuerdo con el principio de exclusión de Pauli, si dos electrones ocupan el mismo orbital, deben tener espines opuestos. Esto asegura que sus cuatro números cuánticos no sean idénticos, ya que el número cuántico de espín ($m_s$) será diferente para cada uno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_007",
-      "pregunta": "La regla de Hund implica que al llenar un subnivel con varios orbitales (como el subnivel $p$ o $d$), los electrones primero...",
+      "pregunta": "La Regla de Hund, o principio de máxima multiplicidad, se aplica específicamente a la distribución de electrones en:",
       "dificultad": 2,
       "opciones": {
-        "A": "Se aparean en el primer orbital disponible para ahorrar espacio.",
-        "B": "Ocupan orbitales separados con espines paralelos antes de aparearse.",
-        "C": "Llenan completamente un orbital y luego pasan al siguiente.",
-        "D": "Se distribuyen aleatoriamente sin preferencia de espín.",
-        "E": "Ocupan orbitales separados pero con espines opuestos."
+        "A": "Orbitales de diferentes niveles de energía",
+        "B": "Todos los orbitales de un átomo simultáneamente",
+        "C": "El núcleo del átomo",
+        "D": "Orbitales que pertenecen al mismo subnivel de energía",
+        "E": "El primer nivel de energía únicamente"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla de máxima multiplicidad de Hund establece que, para un conjunto de orbitales con la misma energía (degenerados), la configuración de menor energía se logra cuando el número de electrones con el mismo espín es el mayor posible. Esto se traduce en que los electrones ocupan individualmente los orbitales con espines paralelos antes de que ocurra cualquier apareamiento.",
+      "respuesta_correcta": "D",
+      "explicacion": "La Regla de Hund se enfoca en cómo los electrones se distribuyen dentro de un conjunto de orbitales que tienen la misma energía (orbitales degenerados), como los tres orbitales $p$ o los cinco orbitales $d$ de un mismo subnivel. Establece que se debe maximizar el número de espines paralelos llenando cada orbital con un electrón antes de aparearlos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_008",
-      "pregunta": "¿Cuál es la condición fundamental que deben cumplir dos electrones para poder ocupar el mismo orbital, según el principio de exclusión de Pauli?",
+      "pregunta": "¿Cuál es la relación entre la energía de una configuración electrónica y su estabilidad?",
       "dificultad": 2,
       "opciones": {
-        "A": "Deben tener espines (giros) paralelos.",
-        "B": "Deben tener los cuatro números cuánticos idénticos.",
-        "C": "Deben pertenecer a diferentes niveles de energía.",
-        "D": "Deben tener espines (giros) opuestos.",
-        "E": "Deben tener la misma energía relativa."
+        "A": "Son directamente proporcionales: a mayor energía, mayor estabilidad",
+        "B": "No tienen ninguna relación",
+        "C": "Son inversamente proporcionales: a menor energía, mayor estabilidad",
+        "D": "La relación depende del número de protones en el núcleo",
+        "E": "Son iguales: energía y estabilidad son el mismo concepto"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El principio de exclusión de Pauli dicta que, si dos electrones ocupan el mismo orbital, deben diferir en al menos un número cuántico. Dado que para un mismo orbital los números cuánticos $n$, $l$ y $m_l$ son idénticos, la única forma de que se diferencien es en su número cuántico de espín ($m_s$). Por lo tanto, uno debe tener espín \"hacia arriba\" (+1/2) y el otro \"hacia abajo\" (-1/2), es decir, espines opuestos.",
+      "respuesta_correcta": "C",
+      "explicacion": "En química y física, los sistemas tienden a buscar su estado de mínima energía posible. Por lo tanto, una configuración electrónica con menor energía es más estable. La relación es inversa: cuanto más baja es la energía, más alta es la estabilidad del átomo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_009",
-      "pregunta": "¿Qué relación existe entre la energía de una configuración electrónica y su estabilidad?",
+      "pregunta": "El principio que afirma que \"en un mismo átomo no pueden estar dos electrones con los cuatro números cuánticos iguales\" es conocido como:",
       "dificultad": 2,
       "opciones": {
-        "A": "A mayor energía, mayor estabilidad.",
-        "B": "La energía y la estabilidad no tienen relación.",
-        "C": "La energía y la estabilidad guardan una relación inversa.",
-        "D": "Son directamente proporcionales, pero solo en el estado fundamental.",
-        "E": "La estabilidad depende solo del número de espines paralelos."
+        "A": "Principio de construcción Aufbau",
+        "B": "Principio de máxima multiplicidad de Hund",
+        "C": "Principio de exclusión de Pauli",
+        "D": "Ley de la conservación de la energía",
+        "E": "Teoría atómica de Dalton"
       },
       "respuesta_correcta": "C",
-      "explicacion": "En química y física, un sistema tiende naturalmente a su estado de menor energía posible, ya que este es el más estable. Por lo tanto, la energía y la estabilidad tienen una relación inversa: cuanto menor es la energía de la configuración electrónica de un átomo, mayor es su estabilidad.",
+      "explicacion": "Esta afirmación es la definición fundamental del principio de exclusión de Pauli. Implica que cada electrón en un átomo tiene un conjunto único de cuatro números cuánticos ($n, l, m_l, m_s$). La Regla de Hund se refiere a la distribución en orbitales degenerados y el principio de Aufbau al orden de llenado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_010",
-      "pregunta": "Mientras que el principio de exclusión de Pauli se enfoca en la ocupación de un orbital individual, la regla de Hund describe...",
+      "pregunta": "De acuerdo con el principio de construcción, ¿qué orbital se llenará primero, uno con números cuánticos $n=4, l=0$ u otro con $n=3, l=2$?",
       "dificultad": 2,
       "opciones": {
-        "A": "El orden de llenado de los niveles de energía completos.",
-        "B": "El cálculo de la energía relativa usando la suma de $n$ y $l$.",
-        "C": "La razón por la cual los electrones tienen espín.",
-        "D": "Cómo se distribuyen los electrones entre orbitales de la misma energía.",
-        "E": "El número máximo de electrones en un nivel de energía."
+        "A": "El orbital con $n=3, l=2$ porque tiene menor $n$",
+        "B": "El orbital con $n=4, l=0$ porque su energía relativa es menor",
+        "C": "Ambos se llenan al mismo tiempo",
+        "D": "El orbital con $n=4, l=0$ porque tiene menor $l$",
+        "E": "El orbital con $n=3, l=2$ porque su energía relativa es menor"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El principio de Pauli establece una regla estricta para un solo orbital (máximo 2 electrones con espines opuestos). En cambio, la regla de Hund se aplica a un conjunto de orbitales degenerados (con la misma energía), como los tres orbitales $p$ o los cinco orbitales $d$, y describe la forma más estable de distribuir electrones entre ellos.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para determinar el orden de llenado, se calcula la energía relativa ($$ER = n + l$$) para cada orbital.\n- Para el orbital con $n=4, l=0$: $$ER = 4 + 0 = 4$$\n- Para el orbital con $n=3, l=2$: $$ER = 3 + 2 = 5$$\nEl principio de Aufbau dicta que los electrones llenan primero los orbitales de menor energía relativa. Como $4 < 5$, el orbital con $n=4, l=0$ (orbital 4s) se llena antes que el orbital con $n=3, l=2$ (orbital 3d).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_011",
-      "pregunta": "Un átomo en su estado fundamental es aquel que tiene la configuración electrónica de...",
+      "pregunta": "¿Cuál de los siguientes enunciados describe correctamente el principio de máxima multiplicidad de Hund?",
       "dificultad": 2,
       "opciones": {
-        "A": "Máxima energía y mínima estabilidad.",
-        "B": "Mayor número de electrones apareados.",
-        "C": "Menor energía y máxima estabilidad.",
-        "D": "Todos sus electrones en el mismo nivel de energía.",
-        "E": "Mayor número de espines opuestos."
+        "A": "Los electrones deben aparearse siempre que sea posible para minimizar la energía",
+        "B": "En un mismo orbital solo caben dos electrones",
+        "C": "Los electrones se distribuyen en un subnivel de modo que exista la mayor cantidad posible de espines paralelos",
+        "D": "Los orbitales se llenan en orden decreciente de su número cuántico principal $n$",
+        "E": "Cada átomo busca tener la mayor cantidad de energía en su estado fundamental"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El estado fundamental de un átomo corresponde a la configuración electrónica más estable posible. De acuerdo con los principios de la termodinámica, el estado más estable es siempre el de menor energía. Por lo tanto, la configuración del estado fundamental sigue las reglas de Aufbau, Pauli y Hund para lograr esta mínima energía.",
+      "explicacion": "El principio de máxima multiplicidad de Hund establece que, al llenar orbitales de igual energía (degenerados), los electrones se colocan de uno en uno en cada orbital con el mismo espín (paralelo) antes de que se forme el primer par. Esto maximiza la multiplicidad de espín y resulta en una configuración más estable.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_012",
-      "pregunta": "¿Cuál de los siguientes enunciados es una consecuencia directa del principio de Aufbau?",
+      "pregunta": "¿Qué tres principios determinan conjuntamente la configuración electrónica de un átomo en su estado fundamental?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un subnivel $p$ debe tener tres electrones con espines paralelos antes de que el cuarto electrón se aparee.",
-        "B": "Un orbital $2p$ no puede contener tres electrones.",
-        "C": "El orbital $3d$ se llena después del orbital $4s$.",
-        "D": "Los electrones en el mismo orbital deben tener espines opuestos.",
-        "E": "No pueden existir dos electrones con los cuatro números cuánticos idénticos."
+        "A": "Solo la Regla de Hund",
+        "B": "El principio de Aufbau y el principio de exclusión de Pauli",
+        "C": "La Regla de Hund y el principio de exclusión de Pauli",
+        "D": "El principio de Aufbau y la Regla de Hund",
+        "E": "El principio de Aufbau, el principio de exclusión de Pauli y la Regla de Hund"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El principio de Aufbau dicta que los orbitales se llenan en orden creciente de su energía relativa ($ER = n+l$). Para el orbital $4s$, $n=4$ y $l=0$, entonces $ER = 4+0 = 4$. Para el orbital $3d$, $n=3$ y $l=2$, entonces $ER = 3+2 = 5$. Como el orbital $4s$ tiene menor energía relativa, se llena antes que el orbital $3d$, aunque su número cuántico principal sea mayor. Las otras opciones se explican por la regla de Hund (A) y el principio de Pauli (B, D, E).",
+      "respuesta_correcta": "E",
+      "explicacion": "La configuración electrónica se rige por los tres principios en conjunto. El principio de Aufbau determina el orden en que se llenan los orbitales (de menor a mayor energía). El principio de exclusión de Pauli limita a dos el número de electrones por orbital (con espines opuestos). La Regla de Hund especifica cómo se distribuyen los electrones dentro de los orbitales de un mismo subnivel para maximizar los espines paralelos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_013",
-      "pregunta": "¿Qué escenario representa una violación directa de la regla de Hund, pero no necesariamente del principio de Pauli o Aufbau?",
+      "pregunta": "Si un subnivel de energía $p$ contiene 4 electrones, ¿cuál de las siguientes afirmaciones describe la distribución correcta según la Regla de Hund y el Principio de Exclusión de Pauli?",
       "dificultad": 3,
       "opciones": {
-        "A": "Colocar tres electrones en un orbital $1s$.",
-        "B": "Llenar el orbital $3p$ antes que el orbital $3s$.",
-        "C": "En un subnivel $p$ con dos electrones, colocar ambos en el mismo orbital con espines opuestos, dejando los otros dos orbitales $p$ vacíos.",
-        "D": "Colocar dos electrones en un orbital $p$ con espines paralelos.",
-        "E": "Tener un átomo con todos sus electrones en estado fundamental."
+        "A": "Dos orbitales $p$ estarán llenos con dos electrones cada uno y un orbital estará vacío",
+        "B": "Un orbital $p$ contendrá dos electrones con espines opuestos y los otros dos orbitales tendrán un electrón cada uno con espines paralelos",
+        "C": "Cada uno de los tres orbitales $p$ tendrá un electrón, y el cuarto electrón estará en el siguiente nivel de energía",
+        "D": "Dos orbitales $p$ contendrán dos electrones cada uno con espines paralelos",
+        "E": "Los cuatro electrones se distribuirán en dos orbitales, ambos con espines paralelos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La opción C describe una violación de la regla de Hund, que exige maximizar los espines paralelos colocando los dos electrones en orbitales $p$ separados. Sin embargo, no viola el principio de Pauli (porque los dos electrones en el mismo orbital tienen espines opuestos) ni el principio de Aufbau (asumiendo que los niveles inferiores están llenos). La opción A viola Pauli (más de 2 electrones). La opción B viola Aufbau (orden incorrecto). La opción D viola Pauli (espines paralelos en el mismo orbital).",
+      "respuesta_correcta": "B",
+      "explicacion": "Un subnivel $p$ tiene 3 orbitales. Según la Regla de Hund, los primeros 3 electrones ocuparán cada uno de los orbitales con espines paralelos. El cuarto electrón debe entonces aparearse con uno de los electrones ya existentes, pero según el Principio de Exclusión de Pauli, debe hacerlo con un espín opuesto. Por lo tanto, la configuración más estable es tener un orbital lleno (2 electrones con espines opuestos) y los otros dos orbitales semi-llenos (1 electrón cada uno, con espines paralelos entre sí).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_014",
-      "pregunta": "Al distribuir electrones en un átomo en su estado fundamental, ¿cómo interactúan los principios de Aufbau y Hund para un subnivel $p$?",
+      "pregunta": "Un estudiante propone una configuración electrónica donde dos electrones en un orbital $2p$ tienen los siguientes números cuánticos: Electrón 1 ($n=2, l=1, m_l=0, m_s=+\\frac{1}{2}$) y Electrón 2 ($n=2, l=1, m_l=0, m_s=+\\frac{1}{2}$). ¿Qué principio fundamental se está violando?",
       "dificultad": 3,
       "opciones": {
-        "A": "Hund determina que el subnivel $p$ se llena antes que el $s$, y Aufbau dicta los espines.",
-        "B": "Aufbau establece el orden de llenado hasta llegar al subnivel $p$, y Hund dicta cómo distribuir los electrones entre los tres orbitales $p$.",
-        "C": "Ambos principios son mutuamente excluyentes; solo uno puede aplicarse a la vez.",
-        "D": "Aufbau solo se aplica a los niveles $s$, mientras que Hund se aplica a los $p$, $d$ y $f$.",
-        "E": "Hund y Aufbau se combinan para calcular la energía relativa como $$ER = n + l$$."
+        "A": "El principio de Aufbau, porque el orbital $1s$ no está lleno",
+        "B": "La Regla de Hund, porque no se maximiza la multiplicidad",
+        "C": "El principio de exclusión de Pauli, porque dos electrones tienen los cuatro números cuánticos idénticos",
+        "D": "El principio de construcción, porque $l$ no puede ser 1",
+        "E": "Ninguno, la configuración es válida"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los principios actúan de forma jerárquica y complementaria. El principio de Aufbau proporciona el mapa general del orden de llenado de los orbitales según su energía creciente. Una vez que se llega a un subnivel con orbitales degenerados (como los tres orbitales del subnivel $p$), la regla de Hund especifica la forma más estable de colocar los electrones dentro de ese subnivel (primero semi-llenando con espines paralelos).",
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de exclusión de Pauli establece que no pueden existir dos electrones en un mismo átomo con los cuatro números cuánticos iguales. En este caso, ambos electrones tienen los mismos valores para $n, l, m_l$ y $m_s$, lo cual es una violación directa de este principio. Para que dos electrones ocupen el mismo orbital (definido por $n, l, m_l$), sus espines ($m_s$) deben ser opuestos ($+\\frac{1}{2}$ y $-\\frac{1}{2}$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_064_015",
-      "pregunta": "La afirmación \"en un mismo átomo no pueden estar dos electrones con los cuatro números cuánticos iguales\" es la base del principio de...",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sintetiza correctamente la razón por la que la configuración electrónica busca la menor energía relativa?",
       "dificultad": 3,
       "opciones": {
-        "A": "Máxima multiplicidad de Hund, ya que define la multiplicidad del espín.",
-        "B": "Construcción de Aufbau, porque ordena los números cuánticos.",
-        "C": "Exclusión de Pauli, ya que implica que dos electrones en el mismo orbital deben diferir en su espín.",
-        "D": "Estabilidad energética, porque relaciona los números cuánticos con la energía.",
-        "E": "Energía relativa, que se define por la suma de los números cuánticos $n$ y $l$."
+        "A": "Porque la Regla de Hund obliga a los electrones a estar lo más cerca posible del núcleo",
+        "B": "Porque a menor energía, mayor estabilidad, lo cual es el estado preferido para cualquier sistema atómico",
+        "C": "Porque el principio de Pauli aumenta la energía total al forzar espines opuestos",
+        "D": "Porque la energía relativa es irrelevante; solo importa el número cuántico principal $n$",
+        "E": "Porque una mayor energía relativa conduce a enlaces químicos más fuertes"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Esta afirmación es la formulación más completa y fundamental del principio de exclusión de Pauli. Los cuatro números cuánticos ($n, l, m_l, m_s$) definen de manera única el estado de un electrón en un átomo. Si dos electrones ocupan el mismo orbital, sus tres primeros números cuánticos ($n, l, m_l$) son idénticos. Por lo tanto, para que no tengan los cuatro números iguales, su cuarto número, el de espín ($m_s$), debe ser diferente. Esto lleva a la conclusión más simple de que deben tener espines opuestos.",
+      "respuesta_correcta": "B",
+      "explicacion": "La base de los principios de configuración electrónica es la tendencia de los sistemas físicos, incluidos los átomos, a alcanzar el estado de mayor estabilidad posible. Existe una relación inversa entre energía y estabilidad. Por lo tanto, la distribución de electrones que resulta en la menor energía total para el átomo (calculada siguiendo el principio de Aufbau, la Regla de Hund y el principio de Pauli) es la configuración más estable y, por lo tanto, la correcta para el átomo en su estado fundamental.",
       "imagen": null
     }
   ]

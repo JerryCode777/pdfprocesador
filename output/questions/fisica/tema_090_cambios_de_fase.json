@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 90,
+  "total_temas": 137,
+  "titulo_tema": "Cambios de Fase",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_090_001",
+      "pregunta": "¿Qué término se utiliza para describir un estado específico de la materia, como sólido, líquido o gas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Condición",
+        "B": "Fase",
+        "C": "Estado latente",
+        "D": "Nivel energético",
+        "E": "Propiedad"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término 'fase' se utiliza para describir un estado específico en el que se encuentra la materia. Los estados más comunes son sólido, líquido y gaseoso. Las otras opciones son términos generales que no se usan con esta especificidad en el contexto de los estados de la materia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_002",
+      "pregunta": "¿Cómo se define la radiación como mecanismo de transferencia de calor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Transferencia de calor por el movimiento de fluidos",
+        "B": "Transferencia de calor por contacto directo entre cuerpos",
+        "C": "Transferencia de calor por ondas electromagnéticas",
+        "D": "Transferencia de calor únicamente a través del aire",
+        "E": "Transferencia de calor que siempre aumenta la temperatura"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La radiación es la transferencia de calor que ocurre mediante ondas electromagnéticas, como la luz visible o los rayos infrarrojos. Este mecanismo no requiere un medio material para propagarse, permitiendo que el calor viaje a través del vacío, como la energía que nos llega del Sol.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_003",
+      "pregunta": "En la ecuación para el cambio de fase, $$Q = \\pm mL$$, ¿qué representa la variable $L$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La longitud del material",
+        "B": "La temperatura del líquido",
+        "C": "El calor latente de la sustancia",
+        "D": "La cantidad de calor transferido",
+        "E": "La masa de la sustancia"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la fórmula $$Q = \\pm mL$$, la variable $L$ representa el calor latente de la sustancia. El calor latente es una propiedad específica de cada material que indica la cantidad de energía por unidad de masa necesaria para cambiar de fase a una temperatura constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_004",
+      "pregunta": "¿Cuál es el nombre del cambio de fase de sólido a líquido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ebullición",
+        "B": "Solidificación",
+        "C": "Condensación",
+        "D": "Vaporización",
+        "E": "Fusión"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El proceso de transición de la fase sólida a la fase líquida se denomina fusión. Por ejemplo, cuando el hielo se convierte en agua líquida. Los otros términos corresponden a otros cambios de fase: solidificación (líquido a sólido), ebullición/vaporización (líquido a gas) y condensación (gas a líquido).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_005",
+      "pregunta": "¿Qué significa la palabra 'latente' en el contexto de 'calor latente'?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Evidente",
+        "B": "Constante",
+        "C": "Variable",
+        "D": "Escondido",
+        "E": "Poderoso"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La palabra 'latente' significa 'escondido'. Se utiliza este término porque la energía transferida durante un cambio de fase no se manifiesta como un cambio de temperatura (que es visible en un termómetro), sino que está 'escondida' en el cambio de la estructura interna de la sustancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_006",
+      "pregunta": "¿Qué le ocurre a la temperatura de una sustancia pura mientras está experimentando un cambio de fase a una presión determinada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta proporcionalmente al calor agregado",
+        "B": "Disminuye lentamente",
+        "C": "Se mantiene constante",
+        "D": "Aumenta de forma exponencial",
+        "E": "Varía dependiendo de la sustancia"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica fundamental de los cambios de fase en sustancias puras es que ocurren a una temperatura definida y constante para una presión dada. Toda la energía que se transfiere durante el proceso se utiliza para cambiar la fase y no para alterar la temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_007",
+      "pregunta": "¿En qué se invierte la energía calorífica que se transfiere durante un cambio de fase?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En aumentar la velocidad de las moléculas",
+        "B": "En el reordenamiento molecular de la sustancia",
+        "C": "En aumentar la presión del sistema",
+        "D": "En disminuir el volumen de la sustancia",
+        "E": "En emitir radiación electromagnética"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Durante un cambio de fase, la energía transferida no aumenta la energía cinética de las moléculas (lo que elevaría la temperatura), sino que se invierte exclusivamente en el reordenamiento molecular. Esta energía se usa para romper o formar los enlaces que mantienen a las moléculas en una estructura de fase sólida, líquida o gaseosa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_008",
+      "pregunta": "¿Cuándo se elige el signo positivo en la fórmula del calor latente, $$Q = +mL$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando la energía se remueve de la sustancia",
+        "B": "Cuando la temperatura disminuye",
+        "C": "Cuando la energía es absorbida por la sustancia",
+        "D": "Cuando el proceso es de solidificación",
+        "E": "Cuando el cambio de fase es muy rápido"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El signo positivo en la ecuación $$Q = +mL$$ se utiliza cuando la sustancia absorbe energía de su entorno. Esto ocurre en procesos como la fusión (sólido a líquido) o la vaporización (líquido a gas), donde se requiere energía para romper los enlaces intermoleculares.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_009",
+      "pregunta": "¿Qué representa el calor transferido denominado $$Q_{VAPORIZACIÓN}$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El calor liberado al pasar de gas a líquido",
+        "B": "El calor absorbido para pasar de sólido a líquido",
+        "C": "El calor absorbido para pasar de líquido a gas",
+        "D": "El calor liberado al pasar de líquido a sólido",
+        "E": "El calor necesario para elevar la temperatura del vapor"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término $$Q_{VAPORIZACIÓN}$$ se refiere específicamente a la cantidad de calor que una sustancia en estado líquido debe absorber para transformarse completamente en gas a una temperatura y presión constantes. Es un proceso que requiere un aporte de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_010",
+      "pregunta": "¿Qué tienen en común los procesos de fusión y vaporización en términos de transferencia de energía?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos liberan energía al entorno.",
+        "B": "En ambos la temperatura disminuye.",
+        "C": "Ambos requieren que la sustancia absorba energía.",
+        "D": "Ambos ocurren sin transferencia de calor.",
+        "E": "Ambos transforman la sustancia a estado sólido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tanto la fusión (sólido a líquido) como la vaporización (líquido a gas) son procesos que requieren un aporte de energía desde el entorno. La sustancia debe absorber calor para que sus moléculas ganen la energía necesaria para cambiar su estructura y pasar a una fase de mayor energía interna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_011",
+      "pregunta": "¿Cuál es la principal diferencia entre una transferencia de energía que causa un cambio de temperatura y una que causa un cambio de fase?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No hay ninguna diferencia, siempre cambia la temperatura.",
+        "B": "En el cambio de fase la energía se transfiere como radiación, en el otro no.",
+        "C": "Un cambio de temperatura altera la energía interna, un cambio de fase no.",
+        "D": "En el cambio de fase, la temperatura permanece constante, mientras que en el otro caso, varía.",
+        "E": "El cambio de fase solo ocurre en sólidos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La diferencia fundamental es el efecto de la transferencia de energía sobre la temperatura. Cuando la energía transferida no provoca un cambio de fase, la temperatura de la sustancia cambia. Sin embargo, cuando la energía se transfiere durante un cambio de fase, la temperatura de la sustancia se mantiene constante hasta que toda la sustancia ha cambiado de fase.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_012",
+      "pregunta": "Según la fórmula $$Q = \\pm mL$$, ¿cuál de los siguientes procesos tendría un valor de $Q$ negativo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hervir agua para hacer té",
+        "B": "Derretir un cubo de hielo",
+        "C": "La condensación del vapor de agua en una ventana fría",
+        "D": "La evaporación de un charco de agua por el sol",
+        "E": "Subir la temperatura de agua líquida de 20°C a 50°C"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un valor de $Q$ negativo indica que la energía se remueve o libera de la sustancia. La condensación es el cambio de fase de gas a líquido, un proceso que libera energía al entorno. Derretir hielo y hervir/evaporar agua son procesos que absorben energía ($Q$ positivo). Elevar la temperatura no es un cambio de fase y se calcula con otra fórmula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_013",
+      "pregunta": "Si se está transfiriendo calor a una sustancia pura y se observa que su temperatura no cambia, ¿qué se puede concluir con certeza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La sustancia ha alcanzado su máxima temperatura posible.",
+        "B": "La sustancia está aislada térmicamente y no recibe calor.",
+        "C": "La sustancia está experimentando un cambio de fase.",
+        "D": "El termómetro utilizado para medir está defectuoso.",
+        "E": "La presión del sistema está disminuyendo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La transferencia de energía a una sustancia que no produce un cambio de temperatura es la característica distintiva de un cambio de fase. La energía absorbida se utiliza para alterar la estructura molecular (energía interna potencial) en lugar de aumentar la energía cinética promedio de las moléculas (temperatura).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_014",
+      "pregunta": "Un bloque de hielo está en proceso de fusión a temperatura constante. ¿Qué afirmación describe correctamente la energía interna del sistema?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La energía interna no cambia porque la temperatura es constante.",
+        "B": "La energía interna disminuye a medida que el hielo se derrite.",
+        "C": "La energía interna aumenta debido al reordenamiento molecular a una fase de mayor energía.",
+        "D": "La energía interna solo puede cambiar si cambia la presión.",
+        "E": "La energía interna se convierte completamente en calor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Aunque la temperatura (energía cinética promedio de las moléculas) permanece constante durante la fusión, la energía interna del sistema sí aumenta. El calor absorbido ($Q_{FUSIÓN}$) se convierte en energía potencial molecular a medida que las moléculas pasan de una estructura sólida y ordenada a una líquida y más desordenada, lo cual representa un estado de mayor energía interna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_090_015",
+      "pregunta": "En los procesos de solidificación y condensación, la sustancia libera energía al entorno. ¿Qué implica esto para el valor de $Q$ y la energía interna de la sustancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$Q$ es positivo y la energía interna aumenta.",
+        "B": "$Q$ es negativo y la energía interna aumenta.",
+        "C": "$Q$ es positivo y la energía interna disminuye.",
+        "D": "$Q$ es negativo y la energía interna disminuye.",
+        "E": "$Q$ es cero y la energía interna es constante."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La solidificación (líquido a sólido) y la condensación (gas a líquido) son procesos exotérmicos, lo que significa que liberan energía. Por convención, cuando se remueve energía de un sistema, el calor transferido $Q$ es negativo. Esta pérdida de energía resulta en una disminución de la energía interna de la sustancia, ya que sus moléculas se reordenan en una estructura de menor energía (más ordenada).",
+      "imagen": null
+    }
+  ]
+}

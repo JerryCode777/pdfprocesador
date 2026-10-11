@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 62,
+  "total_temas": 137,
+  "titulo_tema": "Flujo Turbulento",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_062_001",
+      "pregunta": "¿Cómo se denominan los torbellinos pequeños y erráticos que caracterizan al flujo turbulento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vórtices",
+        "B": "Corrientes",
+        "C": "Remolinos",
+        "D": "Ondas de choque",
+        "E": "Flujos laminares"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo turbulento se distingue por la presencia de torbellinos pequeños y erráticos. A estos torbellinos se les da el nombre específico de remolinos. Las otras opciones se refieren a otros fenómenos de fluidos que no corresponden a la definición dada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_002",
+      "pregunta": "¿Cuál es la definición de caudal o gasto ($Q$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa de fluido que atraviesa una sección en un segundo.",
+        "B": "El volumen de fluido que pasa a través de una sección transversal en una unidad de tiempo.",
+        "C": "La rapidez media con la que se mueve un fluido.",
+        "D": "La distancia total que recorre una partícula de fluido.",
+        "E": "La presión ejercida por el fluido sobre las paredes de un conducto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El caudal, también conocido como gasto o flujo volumétrico, se define como la cantidad de volumen de un fluido que fluye a través de una sección transversal determinada por cada unidad de tiempo. Las otras opciones describen conceptos diferentes como flujo másico, velocidad, distancia o presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_003",
+      "pregunta": "¿Qué condición principal provoca que un flujo de fluido se vuelva turbulento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una disminución en la temperatura.",
+        "B": "Una rapidez de flujo muy baja.",
+        "C": "Un aumento en la viscosidad.",
+        "D": "Superar una cierta rapidez de flujo.",
+        "E": "La ausencia de una tubería."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El flujo de un fluido transita de un régimen laminar a uno turbulento cuando su rapidez aumenta más allá de un cierto valor crítico. A altas velocidades, el movimiento ordenado se rompe y aparecen los remolinos característicos del flujo turbulento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_004",
+      "pregunta": "¿Cuál de los siguientes términos es sinónimo de gasto y caudal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Flujo volumétrico",
+        "B": "Rapidez media",
+        "C": "Flujo errático",
+        "D": "Distancia de flujo",
+        "E": "Presión de fluido"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El término 'flujo volumétrico' es otra forma de nombrar al gasto o caudal. Todos estos términos se refieren al mismo concepto: el volumen de fluido que pasa por una sección en una unidad de tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_005",
+      "pregunta": "En el contexto de la ecuación de continuidad, ¿qué representa la variable $Q$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La calidad del fluido",
+        "B": "El tiempo de flujo",
+        "C": "La sección transversal",
+        "D": "La rapidez del fluido",
+        "E": "El caudal o gasto"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "En la física de fluidos, la letra $Q$ se utiliza convencionalmente para representar el caudal, gasto o flujo volumétrico, que es el volumen de fluido que pasa por una sección por unidad de tiempo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_006",
+      "pregunta": "¿Qué fórmula representa correctamente la relación entre caudal ($Q$), volumen ($V$) y tiempo ($t$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Q = Vt$$",
+        "B": "$$Q = \\frac{t}{V}$$",
+        "C": "$$Q = V - t$$",
+        "D": "$$Q = \\frac{V}{t}$$",
+        "E": "$$Q = V + t$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La definición de caudal ($Q$) es el volumen ($V$) de fluido que fluye por unidad de tiempo ($t$). Matemáticamente, esta relación se expresa como una división: $$Q = \\frac{V}{t}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_007",
+      "pregunta": "La fórmula final que relaciona el caudal ($Q$) con el área de la sección transversal ($A$) y la rapidez media ($v$) es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Q = \\frac{A}{v}$$",
+        "B": "$$Q = A + v$$",
+        "C": "$$Q = Av$$",
+        "D": "$$Q = v - A$$",
+        "E": "$$Q = \\frac{v}{A}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El caudal ($Q$) se puede calcular multiplicando el área de la sección transversal ($A$) por la cual fluye el fluido, por la rapidez media ($v$) del fluido. Esta fórmula, $$Q = Av$$, se deriva de la definición fundamental de caudal ($$Q = V/t$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_008",
+      "pregunta": "En la expresión del volumen $$V = Avt$$, ¿qué representa físicamente el producto $vt$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El caudal del fluido.",
+        "B": "El área de la sección transversal.",
+        "C": "La distancia que recorre una partícula del fluido en el tiempo $t$.",
+        "D": "El volumen del recipiente.",
+        "E": "La aceleración del fluido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El producto de la rapidez media ($v$) por un intervalo de tiempo ($t$) da como resultado la distancia recorrida. En este contexto, $vt$ es la longitud del cilindro de fluido que pasa a través de la sección transversal $A$ durante el tiempo $t$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_009",
+      "pregunta": "Si un líquido fluye por una tubería con un área de sección transversal $A$ constante y su rapidez media $v$ se duplica, ¿cómo cambia el caudal $Q$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Permanece constante.",
+        "B": "Se reduce a la mitad.",
+        "C": "Se duplica.",
+        "D": "Se cuadruplica.",
+        "E": "Se reduce a un cuarto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación entre caudal, área y rapidez es $$Q = Av$$. Si el área $A$ es constante, el caudal $Q$ es directamente proporcional a la rapidez $v$. Por lo tanto, si la rapidez se duplica, el caudal también se duplica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_010",
+      "pregunta": "¿Qué ecuación se utiliza para calcular el volumen $V$ de un fluido que atraviesa una sección de área $A$ con rapidez media $v$ durante un tiempo $t$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V = \\frac{Av}{t}$$",
+        "B": "$$V = Avt$$",
+        "C": "$$V = \\frac{At}{v}$$",
+        "D": "$$V = \\frac{vt}{A}$$",
+        "E": "$$V = A^2vt$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El volumen de fluido que pasa por una sección es el producto del área de esa sección ($A$) y la longitud de la columna de fluido que la atraviesa. Esta longitud es la distancia recorrida por el fluido en el tiempo $t$, que es $vt$. Por lo tanto, el volumen es $$V = A(vt) = Avt$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_011",
+      "pregunta": "Al sustituir la expresión del volumen $$V = Avt$$ en la definición de caudal $$Q = \\frac{V}{t}$$, ¿qué paso intermedio se obtiene antes de la simplificación final?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Q = \\frac{t}{Avt}$$",
+        "B": "$$Q = \\frac{Avt}{t}$$",
+        "C": "$$Q = Avt^2$$",
+        "D": "$$Q = \\frac{Av}{t^2}$$",
+        "E": "$$Q = Av$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El proceso de derivación consiste en tomar la definición base de caudal, $$Q = \\frac{V}{t}$$, y reemplazar la variable $V$ por su equivalente, que es $$Avt$$. Esto resulta en la expresión intermedia $$Q = \\frac{Avt}{t}$$. La opción E es el resultado final después de la simplificación, no el paso intermedio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_012",
+      "pregunta": "Un fluido atraviesa una tubería con un área de sección transversal $A$ y una rapidez $v$. Si el área se reduce a $$A/3$$ y la rapidez aumenta al triple ($$3v$$), ¿cuál será el nuevo caudal $Q'$ en comparación con el original $Q$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Q' = 3Q$$",
+        "B": "$$Q' = Q/3$$",
+        "C": "$$Q' = 9Q$$",
+        "D": "$$Q' = Q$$",
+        "E": "$$Q' = Q/9$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El caudal original es $$Q = Av$$. El nuevo caudal $Q'$ se calcula con la nueva área ($$A' = A/3$$) y la nueva rapidez ($$v' = 3v$$). Sustituyendo estos valores en la fórmula: $$Q' = A'v' = (\\frac{A}{3})(3v) = Av$$. Por lo tanto, el nuevo caudal $Q'$ es igual al caudal original $Q$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_013",
+      "pregunta": "Combinando las ecuaciones $$Q = \\frac{V}{t}$$ y $$Q = Av$$, ¿cuál es la expresión correcta para despejar la rapidez media ($v$) en función del volumen ($V$), área ($A$) y tiempo ($t$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$v = VAt$$",
+        "B": "$$v = \\frac{VA}{t}$$",
+        "C": "$$v = \\frac{t}{VA}$$",
+        "D": "$$v = \\frac{At}{V}$$",
+        "E": "$$v = \\frac{V}{At}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para encontrar $v$, podemos igualar las dos expresiones para el caudal $Q$: $$\\frac{V}{t} = Av$$. Para despejar la rapidez $v$, dividimos ambos lados de la ecuación por el área $A$: $$v = \\frac{V}{At}$$. Esta fórmula permite calcular la rapidez media si se conocen el volumen que fluyó, el tiempo que tardó y el área de la sección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_014",
+      "pregunta": "Considerando la relación $$Q = Av$$, si se requiere que el caudal ($Q$) de un fluido sea constante a lo largo de una tubería, ¿qué relación debe existir entre la rapidez ($v$) y el área de la sección transversal ($A$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La rapidez $v$ es directamente proporcional al área $A$.",
+        "B": "La rapidez $v$ es independiente del área $A$.",
+        "C": "La rapidez $v$ es inversamente proporcional al área $A$.",
+        "D": "La rapidez $v$ es directamente proporcional al cuadrado del área $A$.",
+        "E": "La rapidez $v$ y el área $A$ deben ser siempre iguales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si el caudal $Q$ es una constante, podemos reescribir la ecuación $$Q = Av$$ como $$v = \\frac{Q}{A}$$. En esta forma, se puede ver que si el área $A$ (en el denominador) aumenta, la rapidez $v$ debe disminuir para mantener el producto constante, y viceversa. Esta es la definición de una relación inversamente proporcional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_062_015",
+      "pregunta": "¿Cuál de las siguientes secuencias lógicas describe correctamente la derivación de la fórmula de caudal $$Q=Av$$ a partir de su definición?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se parte de $Q=Av$, se sustituye $v=d/t$ y se llega a que el volumen es $V=Ad$.",
+        "B": "Se define $Q = Av$, luego se integra respecto al tiempo para obtener el volumen $V=Avt$.",
+        "C": "Se define $V=Avt$, se deriva respecto a la rapidez $v$ para obtener $dV/dv = At$, lo cual es el caudal.",
+        "D": "Se parte de $Q = V/t$, se expresa el volumen como el producto del área por la distancia ($V=Ad$), se reconoce que la distancia es $d=vt$, se sustituye para obtener $V=Avt$, y finalmente se reemplaza en la definición original $Q = Avt/t$, simplificando a $Q=Av$.",
+        "E": "Se parte de $Q = V/t$ y se asume que $V=A$ y $t=1/v$ para llegar a $Q=Av$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La derivación lógica y completa sigue una serie de pasos claros: 1) Empezar con la definición fundamental de caudal: volumen por unidad de tiempo ($$Q = V/t$$). 2) Expresar el volumen ($V$) como el área de la sección ($A$) multiplicada por la longitud ($d$) de la columna de fluido que la cruza. 3) Relacionar esa longitud con la rapidez media del fluido y el tiempo ($$d=vt$$). 4) Sustituir para obtener la fórmula del volumen en función de $A$, $v$ y $t$ ($$V = Avt$$). 5) Finalmente, insertar esta expresión del volumen en la definición original de caudal y simplificar, lo que resulta en $$Q = Av$$.",
+      "imagen": null
+    }
+  ]
+}

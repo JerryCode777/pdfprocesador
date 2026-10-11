@@ -6,6 +6,21 @@
   "preguntas": [
     {
       "id_temporal": "quimica_096_001",
+      "pregunta": "¿Cuál es la fórmula general que representa a los halógenos en su estado elemental?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$X$$",
+        "B": "$$X_2$$",
+        "C": "$$XO_2$$",
+        "D": "$$HX$$",
+        "E": "$$X^{-2}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Todos los halógenos son no metales que existen en la naturaleza como moléculas diatómicas. Su fórmula general se representa como $$X_2$$, donde X simboliza cualquier elemento halógeno (por ejemplo, $$F_2$$, $$Cl_2$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_096_002",
       "pregunta": "¿A qué grupo de la tabla periódica pertenecen los halógenos?",
       "dificultad": 1,
       "opciones": {
@@ -13,25 +28,10 @@
         "B": "Grupo VIA o 16",
         "C": "Grupo VIIA o 17",
         "D": "Grupo VIIIA o 18",
-        "E": "Grupos de transición (Bloque d)"
+        "E": "Grupo B"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los halógenos son los elementos que conforman el Grupo VIIA o 17 de la tabla periódica. El Grupo VA corresponde a los nitrogenoides, el VIA a los calcógenos, el VIIIA a los gases nobles y los grupos de transición se sitúan en el bloque d.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_096_002",
-      "pregunta": "¿Cuál es la fórmula general que representa a los halógenos en su estado elemental?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "$$X$$ (monoatómico)",
-        "B": "$$X_2$$ (diatómico)",
-        "C": "$$X_3$$ (triatómico)",
-        "D": "$$X_4$$ (tetraatómico)",
-        "E": "$$XO_2$$ (óxido)"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "Todos los halógenos son no metales que existen en su estado elemental como moléculas diatómicas, representadas por la fórmula general $$X_2$$, donde X es el símbolo de un elemento halógeno. Los gases nobles, por ejemplo, existen como especies monoatómicas ($$X$$).",
+      "explicacion": "Los halógenos son los elementos que constituyen el Grupo VIIA, también conocido como grupo 17 de la tabla periódica.",
       "imagen": null
     },
     {
@@ -43,190 +43,190 @@
         "B": "Metaloides",
         "C": "Gases nobles",
         "D": "No metales",
-        "E": "Metales de transición"
+        "E": "Elementos de transición"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El grupo de los halógenos está compuesto íntegramente por no metales. Otros grupos, como los nitrogenoides o los calcógenos, contienen una mezcla de no metales, metaloides y metales.",
+      "explicacion": "El Grupo VIIA está compuesto íntegramente por elementos clasificados como no metales, desde el flúor hasta el ástato.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_004",
-      "pregunta": "¿Cuál es la principal razón por la que los halógenos no se encuentran en estado elemental en la naturaleza?",
+      "pregunta": "¿Cuál es la razón principal por la que los halógenos nunca se encuentran en estado elemental en la naturaleza?",
       "dificultad": 1,
       "opciones": {
-        "A": "Son demasiado escasos",
+        "A": "Son elementos radiactivos",
         "B": "Tienen bajas energías de ionización",
-        "C": "Son todos radiactivos",
-        "D": "Debido a su gran reactividad",
+        "C": "Son demasiado escasos en la Tierra",
+        "D": "Tienen una gran reactividad",
         "E": "Existen solo como especies monoatómicas"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Los halógenos son extremadamente reactivos, lo que significa que tienden a combinarse rápidamente con otros elementos para formar compuestos. Esta alta reactividad impide que se encuentren en su forma pura o elemental ($$X_2$$) en la naturaleza.",
+      "explicacion": "Los halógenos son extremadamente reactivos. Esta alta reactividad hace que reaccionen fácilmente con otros elementos para formar compuestos, por lo que no permanecen en su forma elemental ($$X_2$$) en la naturaleza.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_005",
-      "pregunta": "Según sus propiedades, ¿qué miembro del grupo de los halógenos es un elemento radiactivo?",
+      "pregunta": "¿Qué miembro del grupo de los halógenos se caracteriza por ser un elemento radiactivo?",
       "dificultad": 1,
       "opciones": {
         "A": "Flúor",
-        "B": "Bismuto",
-        "C": "Polonio",
-        "D": "Antimonio",
+        "B": "Cloro",
+        "C": "Bismuto",
+        "D": "Polonio",
         "E": "Ástato"
       },
       "respuesta_correcta": "E",
-      "explicacion": "El ástato (At) es el último elemento del Grupo VIIA y se caracteriza por ser radiactivo. El polonio también es radiactivo, pero pertenece al Grupo VIA (calcógenos), mientras que el bismuto y el antimonio son del Grupo VA.",
+      "explicacion": "El ástato (At) es el último miembro del Grupo VIIA y se distingue de los otros halógenos por ser un elemento radiactivo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_006",
-      "pregunta": "¿Qué dos propiedades electrónicas son características de los halógenos?",
+      "pregunta": "¿Qué dos propiedades energéticas, mencionadas como altas o grandes, son características distintivas de los halógenos?",
       "dificultad": 2,
       "opciones": {
         "A": "Bajas energías de ionización y baja afinidad electrónica",
         "B": "Altas energías de ionización y gran afinidad electrónica",
-        "C": "Altas energías de ionización y nula afinidad electrónica",
-        "D": "Bajas energías de ionización y gran afinidad electrónica",
-        "E": "Subniveles $d$ incompletos y facilidad para formar cationes"
+        "C": "Bajas energías de ionización y gran afinidad electrónica",
+        "D": "Altas energías de ionización y baja afinidad electrónica",
+        "E": "Energía de ionización nula y afinidad electrónica variable"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Los halógenos se caracterizan por tener altas energías de ionización (requieren mucha energía para perder un electrón) y una gran afinidad electrónica (tienden a aceptar electrones). Esto explica su alta reactividad. Los gases nobles, por ejemplo, no tienden a aceptar electrones, y los elementos de transición tienen subniveles $d$ incompletos.",
+      "explicacion": "Los halógenos se caracterizan por tener altas energías de ionización (se requiere mucha energía para remover un electrón) y una gran afinidad electrónica (liberan mucha energía al aceptar un electrón), lo que explica su fuerte tendencia a ganar electrones y su alta reactividad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_007",
-      "pregunta": "La extrema reactividad del flúor se demuestra por su capacidad para reaccionar con agua. ¿Qué producto gaseoso se genera en esta reacción?",
+      "pregunta": "Como ejemplo de su extrema reactividad, ¿qué sustancia se genera cuando el flúor reacciona con el agua?",
       "dificultad": 2,
       "opciones": {
-        "A": "Nitrógeno ($$N_2$$)",
-        "B": "Hidrógeno ($$H_2$$)",
-        "C": "Dióxido de carbono ($$CO_2$$)",
-        "D": "Ozono ($$O_3$$)",
-        "E": "Oxígeno ($$O_2$$)"
+        "A": "Hidrógeno gaseoso",
+        "B": "Un ion óxido ($$O^{-2}$$)",
+        "C": "Oxígeno",
+        "D": "Un catión de flúor",
+        "E": "Ácido clorhídrico"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El flúor es tan reactivo que es capaz de oxidar el agua, desplazando al oxígeno y generándolo en su forma molecular, oxígeno gaseoso ($$O_2$$). Este es un ejemplo claro de su alto poder oxidante y reactividad.",
+      "respuesta_correcta": "C",
+      "explicacion": "La reactividad del flúor es tan elevada que es capaz de oxidar el agua, desplazando al oxígeno y generándolo como producto gaseoso ($$O_2$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_008",
-      "pregunta": "¿En qué se diferencia fundamentalmente la forma elemental de un halógeno de la de un gas noble?",
+      "pregunta": "A diferencia de los halógenos, que existen como moléculas diatómicas ($$X_2$$), ¿cómo se presentan los elementos del Grupo VIIIA (gases nobles) en su estado fundamental?",
       "dificultad": 2,
       "opciones": {
-        "A": "Los halógenos son gaseosos y los gases nobles son sólidos.",
-        "B": "Los halógenos son monoatómicos y los gases nobles son diatómicos.",
-        "C": "Los halógenos son diatómicos ($$X_2$$) y los gases nobles son monoatómicos.",
-        "D": "Los halógenos son no metales y los gases nobles son metaloides.",
-        "E": "Los halógenos tienen el subnivel $p$ incompleto y los gases nobles tienen el subnivel $d$ incompleto."
+        "A": "Como especies diatómicas",
+        "B": "Como redes cristalinas tridimensionales",
+        "C": "Como especies monoatómicas",
+        "D": "Formando cationes con subnivel d incompleto",
+        "E": "Siempre en estado líquido"
       },
       "respuesta_correcta": "C",
-      "explicacion": "En su estado elemental, los halógenos forman moléculas diatómicas (con fórmula $$X_2$$). En cambio, los gases nobles son tan estables que existen como especies monoatómicas, es decir, átomos individuales.",
+      "explicacion": "Debido a su gran estabilidad por tener sus capas electrónicas externas completas, los gases nobles no necesitan formar enlaces y existen como especies monoatómicas (átomos individuales). Los halógenos, en cambio, son diatómicos ($$X_2$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_009",
-      "pregunta": "De los siguientes elementos, ¿cuál pertenece al grupo de los halógenos?",
+      "pregunta": "¿Cuál de los siguientes grupos se describe como una mezcla que incluye no metales, metaloides y un metal?",
       "dificultad": 2,
       "opciones": {
-        "A": "Selenio (Se)",
-        "B": "Nitrógeno (N)",
-        "C": "Flúor (F)",
-        "D": "Bismuto (Bi)",
-        "E": "Telurio (Te)"
+        "A": "Halógenos (Grupo VIIA)",
+        "B": "Gases nobles (Grupo VIIIA)",
+        "C": "Oxigenoides (Grupo VIA)",
+        "D": "Nitrogenoides (Grupo VA)",
+        "E": "Elementos de transición (Grupos B)"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El flúor (F) es el primer elemento del Grupo VIIA, el grupo de los halógenos. El selenio y el telurio pertenecen al Grupo VIA (calcógenos), mientras que el nitrógeno y el bismuto pertenecen al Grupo VA (nitrogenoides).",
+      "respuesta_correcta": "D",
+      "explicacion": "El Grupo VA (Nitrogenoides) es el que se describe explícitamente con esta diversidad: nitrógeno y fósforo son no metales, arsénico y antimonio son metaloides, y el bismuto es un metal. Los halógenos, por el contrario, son todos no metales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_010",
-      "pregunta": "¿Qué característica de la configuración electrónica de los gases nobles les confiere su gran estabilidad, a diferencia de los halógenos?",
+      "pregunta": "La gran afinidad electrónica de los halógenos es una medida de su fuerte tendencia a:",
       "dificultad": 2,
       "opciones": {
-        "A": "Tener incompleto el subnivel $d$.",
-        "B": "La tendencia a aceptar dos electrones para formar iones.",
-        "C": "Tener llenos los subniveles externos $ns$ y $np$.",
-        "D": "Formar compuestos con estado de oxidación $+4$.",
-        "E": "Tener una estructura tridimensional extensa."
+        "A": "Perder electrones para formar cationes",
+        "B": "Permanecer como átomos neutros y aislados",
+        "C": "Formar compuestos con estados de oxidación $$+2$$ y $$+4$$",
+        "D": "Aceptar electrones para formar aniones",
+        "E": "Llenar el subnivel d de su configuración"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los gases nobles tienen sus subniveles de valencia $ns$ y $np$ completamente llenos, lo que les proporciona una configuración electrónica muy estable y baja reactividad. Los halógenos, en cambio, tienen 7 electrones de valencia ($ns^2np^5$) y son muy reactivos porque buscan ganar un electrón para alcanzar esta configuración estable.",
+      "respuesta_correcta": "D",
+      "explicacion": "Una gran afinidad electrónica indica que un átomo libera una cantidad significativa de energía al ganar un electrón. Esta propiedad refleja una fuerte tendencia a aceptar electrones, lo que resulta en la formación de iones negativos (aniones) y es una de las causas de su alta reactividad.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_011",
-      "pregunta": "Comparando los grupos VIA y VIIA, ¿cuál es una diferencia clave en su composición?",
+      "pregunta": "Comparando los halógenos con los elementos de transición del bloque d, una diferencia clave es que los elementos de transición...",
       "dificultad": 2,
       "opciones": {
-        "A": "El grupo VIA contiene solo no metales, mientras que el VIIA contiene metaloides.",
-        "B": "El grupo VIIA contiene solo no metales, mientras que el VIA incluye no metales y metaloides.",
-        "C": "Todos los elementos del grupo VIA son diatómicos, mientras que los del VIIA son monoatómicos.",
-        "D": "El grupo VIIA tiende a formar iones con carga $-2$, como el ion $$O^{-2}$$.",
-        "E": "El grupo VIA tiene mayores energías de ionización que el grupo VIIA."
+        "A": "son todos no metales.",
+        "B": "tienen llenos los subniveles ns y np.",
+        "C": "tienen incompleto el subnivel d.",
+        "D": "son especies monoatómicas como los gases nobles.",
+        "E": "nunca se encuentran en la naturaleza."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El Grupo VIIA (halógenos) está compuesto exclusivamente por no metales. Por otro lado, el Grupo VIA (calcógenos) es más diverso, ya que contiene no metales (oxígeno, azufre, selenio) y metaloides (telurio, polonio).",
+      "respuesta_correcta": "C",
+      "explicacion": "Los elementos de transición se definen por estar ubicados en el bloque d de la tabla periódica y tener incompleto su subnivel d. Los halógenos, por su parte, son elementos del bloque p y buscan completar su último subnivel p.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_012",
-      "pregunta": "Si un elemento del Grupo 17 (VIIA) reacciona, ¿cuál es el cambio más probable que ocurrirá en su configuración electrónica?",
+      "pregunta": "Un elemento que es un gas diatómico, tiende a aceptar dos electrones para formar un ion $$X^{-2}$$ y forma muchos compuestos moleculares con no metales, pertenece al grupo de los:",
       "dificultad": 2,
       "opciones": {
-        "A": "Perderá un electrón para parecerse a un calcógeno.",
-        "B": "Ganará un electrón para alcanzar la configuración de un gas noble.",
-        "C": "Ganará dos electrones para formar un ion como el $$O^{-2}$$.",
-        "D": "Perderá todos sus electrones de valencia.",
-        "E": "No reaccionará debido a su estabilidad inherente."
+        "A": "Halógenos",
+        "B": "Nitrogenoides",
+        "C": "Gases nobles",
+        "D": "Carbonoides",
+        "E": "Oxigenoides"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los halógenos tienen una alta afinidad electrónica, lo que significa que tienen una fuerte tendencia a ganar un electrón. Al hacerlo, completan su capa de valencia y adquieren la configuración electrónica estable de un gas noble, formando un anión con carga -1 (por ejemplo, $$F^-$$, $$Cl^-$$).",
+      "respuesta_correcta": "E",
+      "explicacion": "La descripción corresponde al grupo de los Oxigenoides (Grupo VIA). El oxígeno es un gas diatómico ($$O_2$$) y característicamente forma el ion óxido ($$O^{-2}$$) al aceptar dos electrones. Los halógenos forman iones $$X^{-1}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_013",
-      "pregunta": "Basándose en la propiedad de 'gran afinidad electrónica' de los halógenos, ¿qué tipo de ion es más probable que formen?",
+      "pregunta": "¿Qué diferencia fundamental en la configuración electrónica explica la alta reactividad de los halógenos en contraste con la gran estabilidad de los gases nobles?",
       "dificultad": 3,
       "opciones": {
-        "A": "Un catión con carga $+1$.",
-        "B": "Un anión con carga $-1$.",
-        "C": "Un catión con carga $+2$.",
-        "D": "Un anión con carga $-2$.",
-        "E": "No forman iones debido a sus altas energías de ionización."
+        "A": "Los halógenos tienen un subnivel d incompleto, mientras que los gases nobles lo tienen completo.",
+        "B": "Los halógenos tienen los subniveles externos ns y np casi llenos, mientras que los gases nobles los tienen completamente llenos.",
+        "C": "Los halógenos son diatómicos porque son sólidos, y los gases nobles son monoatómicos porque son gases.",
+        "D": "Los halógenos tienen bajas energías de ionización, y los gases nobles las tienen altas.",
+        "E": "Los halógenos son radiactivos, y los gases nobles no lo son."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La 'gran afinidad electrónica' se define como la tendencia de un átomo a aceptar electrones. Dado que los halógenos tienen una alta afinidad electrónica, es muy probable que acepten un electrón para completar su octeto. Al ganar un electrón (una partícula con carga negativa), se convierten en un anión con carga de -1 (por ejemplo, $$Cl^-$$).",
+      "explicacion": "La gran estabilidad de los gases nobles (Grupo VIIIA) proviene de tener sus subniveles externos ns y np completamente llenos. Los halógenos (Grupo VIIA), al estar justo un grupo antes, están a solo un electrón de alcanzar esta configuración tan estable. Esta proximidad a la estabilidad es la fuerza impulsora de su alta reactividad, ya que tienen una fuerte tendencia a capturar ese electrón que les falta.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_014",
-      "pregunta": "Al comparar el ástato con los otros halógenos, ¿qué característica única lo distingue fundamentalmente del resto del grupo?",
+      "pregunta": "Si un elemento es un no metal diatómico, tiene una reactividad tan alta que nunca se encuentra en su estado elemental y posee una elevada energía de ionización, ¿a qué grupo es más probable que pertenezca?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es el único halógeno que no es un no metal.",
-        "B": "Es el único halógeno que no es diatómico.",
-        "C": "Es el único halógeno que es radiactivo.",
-        "D": "Es el único halógeno que no reacciona con el agua.",
-        "E": "Es el único halógeno con baja afinidad electrónica."
+        "A": "Nitrogenoides, porque el nitrógeno es un gas diatómico ($$N_2$$).",
+        "B": "Oxigenoides, porque el oxígeno es un gas diatómico ($$O_2$$) y reactivo.",
+        "C": "Halógenos, porque todas las características mencionadas coinciden con la descripción completa de este grupo.",
+        "D": "Gases nobles, porque tienen las más altas energías de ionización.",
+        "E": "Carbonoides, porque forman compuestos con estado de oxidación +4."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Aunque comparte las propiedades químicas generales de los halógenos por pertenecer al Grupo VIIA, el ástato se diferencia de todos los demás miembros (flúor, cloro, bromo, yodo) por su naturaleza radiactiva. Todos los halógenos mencionados son no metales y forman moléculas diatómicas.",
+      "explicacion": "Aunque otros grupos tienen elementos diatómicos (como nitrógeno y oxígeno), la combinación de TODAS las propiedades (no metal, diatómico, alta energía de ionización y, crucialmente, una reactividad tan alta que NUNCA se encuentra en estado elemental) es la descripción distintiva y completa del grupo de los halógenos (Grupo VIIA).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_096_015",
-      "pregunta": "La afirmación de que el flúor reacciona con el agua para generar oxígeno implica que el flúor es un agente químico más fuerte que el oxígeno en cierto aspecto. ¿Qué propiedad del flúor se infiere de esta reacción?",
+      "pregunta": "Considerando las propiedades de alta energía de ionización y gran afinidad electrónica, ¿qué se puede inferir sobre el comportamiento químico más probable de un átomo de halógeno?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es un agente reductor más fuerte que el oxígeno.",
-        "B": "Tiene una energía de ionización más baja que el oxígeno.",
-        "C": "Es un agente oxidante más fuerte que el oxígeno.",
-        "D": "Forma cationes más fácilmente que el oxígeno.",
-        "E": "Es menos reactivo que el oxígeno."
+        "A": "Tiende a perder electrones con gran facilidad.",
+        "B": "Es químicamente inerte y no forma enlaces.",
+        "C": "Tiene una fuerte propensión a ganar un electrón.",
+        "D": "Prefiere formar cationes con el subnivel d incompleto.",
+        "E": "Forma principalmente compuestos con estado de oxidación +2."
       },
       "respuesta_correcta": "C",
-      "explicacion": "En la reacción con el agua ($$H_2O$$), el flúor toma electrones del oxígeno, cambiando el estado de oxidación del oxígeno de -2 a 0 (en $$O_2$$). Un agente oxidante es una sustancia que causa la oxidación de otra al aceptar sus electrones. Como el flúor le quita electrones al oxígeno, se demuestra que es un agente oxidante más potente. Esta capacidad se relaciona directamente con su altísima reactividad y afinidad electrónica.",
+      "explicacion": "La alta energía de ionización indica que es difícil quitarle un electrón a un halógeno. Por otro lado, la gran afinidad electrónica significa que el átomo se vuelve mucho más estable al ganar un electrón. La combinación de estas dos propiedades implica directamente que el comportamiento químico dominante de los halógenos es su fuerte tendencia a ganar un electrón para completar su capa de valencia.",
       "imagen": null
     }
   ]

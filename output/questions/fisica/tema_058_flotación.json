@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 58,
+  "total_temas": 137,
+  "titulo_tema": "Flotación",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_058_001",
+      "pregunta": "¿Cuál es la expresión matemática que define la fuerza de empuje ($E$) sobre un cuerpo sumergido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E = \\rho_{\\text{cuerpo}} g V_s$$",
+        "B": "$$E = m g$$",
+        "C": "$$E = \\rho_{\\text{líq}} g V_s$$",
+        "D": "$$P = \\rho_{\\text{líq}} g V_s$$",
+        "E": "$$E = \\frac{\\rho_{\\text{líq}}}{V_s}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de empuje ($E$) se calcula multiplicando la densidad del líquido ($\\rho_{\\text{líq}}$), la aceleración de la gravedad ($g$) y el volumen del cuerpo que se encuentra sumergido en el líquido ($V_s$). La fórmula correcta es $$E = \\rho_{\\text{líq}} g V_s$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_002",
+      "pregunta": "En la fórmula del empuje $$E = \\rho_{\\text{líq}} g V_s$$, ¿qué representa el término $\\rho_{\\text{líq}}$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presión del líquido.",
+        "B": "La densidad del cuerpo sumergido.",
+        "C": "La densidad del líquido.",
+        "D": "El peso del líquido.",
+        "E": "La viscosidad del líquido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término $\\rho_{\\text{líq}}$ en la fórmula de la fuerza de empuje representa específicamente la densidad del líquido en el cual el cuerpo está sumergido. Los otros términos son $E$ (empuje), $g$ (aceleración de la gravedad) y $V_s$ (volumen sumergido).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_003",
+      "pregunta": "¿A qué magnitud física corresponde el empuje ($E$) que experimenta un cuerpo sumergido en un fluido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Al peso del cuerpo ($P$).",
+        "B": "A la masa del líquido total.",
+        "C": "Al peso del líquido desalojado.",
+        "D": "Al volumen del cuerpo.",
+        "E": "A la densidad del cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio fundamental de la flotación establece que la fuerza de empuje ($E$) que actúa sobre un cuerpo sumergido es directamente igual al peso del volumen de líquido que el cuerpo desaloja ($W_{\\text{Líquido desalojado}}$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_004",
+      "pregunta": "¿Cuál de las siguientes es una de las características que definen a un fluido ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Viscoso",
+        "B": "Compresible",
+        "C": "Rotacional",
+        "D": "Incompresible",
+        "E": "Flujo turbulento"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un fluido ideal se define teóricamente por cuatro características principales: flujo constante, irrotacional, no viscoso e incompresible. Las otras opciones describen propiedades de fluidos reales que se omiten en el modelo de fluido ideal para simplificar el análisis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_005",
+      "pregunta": "En la dinámica de fluidos, ¿qué significa que un flujo sea \"constante\"?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que el fluido no se mueve.",
+        "B": "Que la densidad del fluido nunca cambia.",
+        "C": "Que todas las partículas del fluido tienen la misma velocidad al pasar por un punto dado.",
+        "D": "Que el fluido es altamente viscoso.",
+        "E": "Que la presión es la misma en todo el fluido."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un flujo constante, también descrito como suave, regular o liso, implica que la velocidad de las partículas del fluido es uniforme en cualquier punto específico del flujo; es decir, todas las partículas que pasan por ese punto lo hacen con la misma velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_006",
+      "pregunta": "¿Qué condición de fuerzas y densidades se debe cumplir para que un cuerpo sumergido descienda?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P < E$$ y $$\\rho_{\\text{cuerpo}} < \\rho_{\\text{líq}}$$",
+        "B": "$$P = E$$ y $$\\rho_{\\text{cuerpo}} = \\rho_{\\text{líq}}$$",
+        "C": "$$P > E$$ y $$\\rho_{\\text{cuerpo}} > \\rho_{\\text{líq}}$$",
+        "D": "$$E > P$$ y $$\\rho_{\\text{líq}} > \\rho_{\\text{cuerpo}}$$",
+        "E": "$$P = E$$ y $$\\rho_{\\text{cuerpo}} > \\rho_{\\text{líq}}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un cuerpo desciende cuando su peso ($P$) es mayor que la fuerza de empuje ($E$) que el líquido ejerce sobre él. Esta condición se da cuando la densidad del cuerpo ($\\rho_{\\text{cuerpo}}$) es mayor que la densidad del líquido ($\\rho_{\\text{líq}}$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_007",
+      "pregunta": "Para que un objeto se mantenga en equilibrio (suspendido) dentro de un fluido, ¿cuál es la relación correcta entre su peso ($P$) y el empuje ($E$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P > E$$",
+        "B": "$$P < E$$",
+        "C": "$$E = 0$$",
+        "D": "$$P = E$$",
+        "E": "$$P = 2E$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un cuerpo se encuentra en equilibrio dentro de un fluido cuando las fuerzas verticales se anulan. Esto ocurre cuando el peso del cuerpo ($P$), que actúa hacia abajo, es exactamente igual a la fuerza de empuje ($E$), que actúa hacia arriba. Esto también implica que sus densidades son iguales: $$\\rho_{\\text{cuerpo}} = \\rho_{\\text{líq}}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_008",
+      "pregunta": "Un objeto está flotando en la superficie de un líquido. ¿Qué relación entre las densidades del cuerpo y del líquido explica esta situación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\rho_{\\text{cuerpo}} = \\rho_{\\text{líq}}$$",
+        "B": "$$\\rho_{\\text{cuerpo}} > \\rho_{\\text{líq}}$$",
+        "C": "$$\\rho_{\\text{líq}} > \\rho_{\\text{cuerpo}}$$",
+        "D": "$$\\rho_{\\text{cuerpo}} = 0$$",
+        "E": "La densidad no afecta la flotación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La flotación ocurre cuando un cuerpo permanece en la superficie del líquido con solo una parte de su volumen sumergido. Esto sucede porque la densidad del líquido ($\\rho_{\\text{líq}}$) es mayor que la densidad promedio del cuerpo ($\\rho_{\\text{cuerpo}}$). En esta situación, la fuerza de empuje iguala al peso del cuerpo ($E=P$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_009",
+      "pregunta": "Si un cuerpo totalmente sumergido en un líquido experimenta una fuerza de empuje ($E$) mayor que su peso ($P$), ¿cuál será su movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Descenderá lentamente.",
+        "B": "Permanecerá en equilibrio en esa posición.",
+        "C": "Se disolverá en el líquido.",
+        "D": "Ascenderá hacia la superficie.",
+        "E": "Gira sobre su propio eje."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando la fuerza de empuje ($E$), que es la fuerza ascendente, es mayor que el peso del cuerpo ($P$), que es la fuerza descendente, la fuerza neta sobre el cuerpo está dirigida hacia arriba. Como resultado, el cuerpo acelerará y ascenderá hacia la superficie del líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_010",
+      "pregunta": "¿Por qué se utiliza el modelo de \"fluido ideal\" en el estudio de la dinámica de fluidos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque todos los fluidos en la naturaleza son ideales.",
+        "B": "Para analizar únicamente los fluidos en reposo.",
+        "C": "Para proporcionar un modelo simplificado que aproxima el comportamiento complejo de los fluidos reales en movimiento.",
+        "D": "Porque es un modelo más complejo y preciso que el de un fluido real.",
+        "E": "Para estudiar exclusivamente los efectos de la viscosidad y la compresibilidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El movimiento real de los fluidos es inherentemente complejo. El modelo de fluido ideal, que omite propiedades como la viscosidad y asume que es incompresible, se utiliza como una aproximación teórica para simplificar el análisis matemático y comprender los principios fundamentales de la dinámica de fluidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_011",
+      "pregunta": "Además de \"flujo constante\", ¿cuál de las siguientes NO es una característica de un fluido ideal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "No viscoso",
+        "B": "Irrotacional",
+        "C": "Regular",
+        "D": "Incompresible",
+        "E": "Laminar"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un fluido ideal se define como aquel con flujo constante (también descrito como suave, regular o liso), irrotacional, no viscoso e incompresible. Aunque el flujo laminar puede estar relacionado con un flujo suave, el término \"Laminar\" no se menciona como una de las cuatro definiciones fundamentales proporcionadas para un fluido ideal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_012",
+      "pregunta": "Un submarino ajusta su densidad para igualarla a la del agua de mar. ¿Qué condición de equilibrio se alcanza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Asciende ($E > P$)",
+        "B": "Flotación en superficie ($E = P$ y $\\rho_{\\text{agua}} > \\rho_{\\text{cuerpo}}$)",
+        "C": "Descenso ($P > E$)",
+        "D": "Equilibrio suspendido ($P = E$ y $\\rho_{\\text{cuerpo}} = \\rho_{\\text{agua}}$)",
+        "E": "El empuje se anula ($E = 0$)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando la densidad de un cuerpo se iguala a la del fluido que lo rodea ($\\rho_{\\text{cuerpo}} = \\rho_{\\text{agua}}$), el peso del cuerpo ($P$) se vuelve exactamente igual a la fuerza de empuje ($E$). Esto da como resultado un estado de equilibrio en el que el cuerpo queda suspendido, sin ascender ni descender.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_013",
+      "pregunta": "Un objeto está flotando en la superficie del agua. ¿Qué afirmación es correcta acerca de las fuerzas y densidades involucradas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$P > E$$ y por eso solo una parte se hunde.",
+        "B": "$$E = P$$ porque $$\\rho_{\\text{cuerpo}} = \\rho_{\\text{agua}}$$.",
+        "C": "$$P = E$$ y esto se logra porque $$\\rho_{\\text{agua}} > \\rho_{\\text{cuerpo}}$$, permitiendo que solo una fracción del volumen se sumerja.",
+        "D": "$$E > P$$ y por eso el objeto es empujado hacia la superficie.",
+        "E": "La flotación solo depende del volumen del objeto, no de las fuerzas ni de la densidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la flotación, el objeto está en equilibrio, por lo que su peso ($P$) debe ser igual a la fuerza de empuje ($E$). Esta condición se alcanza porque la densidad del cuerpo es menor que la del agua ($\\rho_{\\text{agua}} > \\rho_{\\text{cuerpo}}$). Debido a esta diferencia, no es necesario que todo el volumen del objeto se sumerja para generar un empuje igual a su peso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_014",
+      "pregunta": "Considerando la ecuación $$E = \\rho_{\\text{líq}} g V_s$$, si un mismo objeto se sumerge completamente primero en agua ($\\rho_{\\text{agua}}$) y luego en mercurio ($\\rho_{\\text{mercurio}}$), sabiendo que $$\\rho_{\\text{mercurio}} > \\rho_{\\text{agua}}$$, ¿cómo será el empuje en el mercurio comparado con el empuje en el agua?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Menor, porque el mercurio es más pesado.",
+        "B": "Igual, porque el objeto es el mismo.",
+        "C": "Mayor, porque la densidad del mercurio es mayor.",
+        "D": "Cero, porque el objeto flotará.",
+        "E": "No se puede saber sin conocer el peso del objeto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza de empuje ($E$) es directamente proporcional a la densidad del líquido ($\\rho_{\\text{líq}}$). Dado que el objeto es el mismo, su volumen sumergido ($V_s$) es constante, y la aceleración de la gravedad ($g$) también lo es. Al ser la densidad del mercurio mayor que la del agua, la fuerza de empuje que experimentará el objeto será mayor en el mercurio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_058_015",
+      "pregunta": "Un cuerpo de densidad $\\rho_{\\text{cuerpo}}$ se sumerge en un líquido de densidad $\\rho_{\\text{líq}}$. Si se observa que el cuerpo asciende, ¿cuál es la relación correcta entre las fuerzas y las densidades?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$E > P$$ porque $$\\rho_{\\text{líq}} > \\rho_{\\text{cuerpo}}$$.",
+        "B": "$$P > E$$ porque $$\\rho_{\\text{cuerpo}} > \\rho_{\\text{líq}}$$.",
+        "C": "$$E = P$$ porque $$\\rho_{\\text{cuerpo}} = \\rho_{\\text{líq}}$$.",
+        "D": "$$E > P$$ porque $$\\rho_{\\text{cuerpo}} > \\rho_{\\text{líq}}$$.",
+        "E": "$$P > E$$ porque $$\\rho_{\\text{líq}} > \\rho_{\\text{cuerpo}}$$. "
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El ascenso de un cuerpo sumergido ocurre cuando la fuerza de empuje ($E$) es mayor que su peso ($P$). Esta condición física se da cuando la densidad del líquido ($\\rho_{\\text{líq}}$) es superior a la densidad del cuerpo ($\\rho_{\\text{cuerpo}}$). La fuerza neta hacia arriba provoca que el objeto se mueva hacia la superficie.",
+      "imagen": null
+    }
+  ]
+}

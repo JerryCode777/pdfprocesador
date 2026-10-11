@@ -3,5 +3,231 @@
   "numero_tema": 265,
   "total_temas": 322,
   "titulo_tema": "Alkyne Nomenclature",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_265_001",
+      "pregunta": "¿Con qué otro nombre se conocen los hidrocarburos que contienen al menos un triple enlace carbono-carbono?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Hidrocarburos parafínicos",
+        "B": "Hidrocarburos olefínicos",
+        "C": "Hidrocarburos acetilénicos o etínicos",
+        "D": "Hidrocarburos aromáticos",
+        "E": "Hidrocarburos nafténicos"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los alquinos se denominan también hidrocarburos acetilénicos o etínicos, ya que el etino (comúnmente conocido como acetileno) es el primer y más simple compuesto de esta serie. Los otros términos se refieren a alcanos (parafínicos), alquenos (olefínicos) y otros tipos de hidrocarburos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_002",
+      "pregunta": "¿Cuál es la terminación que se utiliza en la nomenclatura de los alquinos para indicar la presencia de un triple enlace?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "-ano",
+        "B": "-eno",
+        "C": "-ilo",
+        "D": "-ol",
+        "E": "-ino"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para nombrar los alquinos, se siguen las mismas reglas que para los alquenos, pero se cambia la terminación \"-eno\" por \"-ino\" para señalar la presencia del característico triple enlace carbono-carbono.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_003",
+      "pregunta": "¿Qué tipo de hibridación presentan los átomos de carbono que forman un triple enlace (C≡C)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$sp^3$$",
+        "B": "$$sp^2$$",
+        "C": "$$sp$$",
+        "D": "$$d^2sp^3$$",
+        "E": "$$dsp^2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El triple enlace entre dos átomos de carbono en un alquino se forma a través de orbitales híbridos $sp$. Esta hibridación da lugar a una geometría lineal para esa porción de la molécula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_004",
+      "pregunta": "¿Cuál es la fórmula general para un alquino acíclico que contiene un único triple enlace?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$C_nH_{2n+2}$$",
+        "B": "$$C_nH_{2n}$$",
+        "C": "$$C_nH_{2n-2}$$",
+        "D": "$$C_nH_{2n-4}$$",
+        "E": "$$C_nH_n$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula general para un alquino con un solo triple enlace es $$C_nH_{2n-2}$$. Esta fórmula refleja la pérdida de cuatro átomos de hidrógeno en comparación con un alcano de la misma longitud de cadena ($$C_nH_{2n+2}$$) debido a la formación del triple enlace.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_005",
+      "pregunta": "¿Cuál es el estado de agregación de los tres primeros miembros de la serie de los alquinos en condiciones normales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Líquido",
+        "C": "Gaseoso",
+        "D": "Plasma",
+        "E": "Coloide"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los tres primeros alquinos (etino, propino y butino) son gaseosos a temperatura y presión estándar. A medida que aumenta la masa molecular, los siguientes miembros de la serie se presentan como líquidos y, finalmente, como sólidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_006",
+      "pregunta": "¿Por qué los alquinos son generalmente más reactivos y polares que los alquenos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Debido a la presencia de enlaces sigma ($$\\sigma$$) más fuertes.",
+        "B": "Debido a la hibridación $$sp^3$$ de sus carbonos.",
+        "C": "Debido a la ausencia de hidrógenos en el enlace.",
+        "D": "Debido a la presencia de 2 enlaces pi ($$\\pi$$) en el triple enlace.",
+        "E": "Debido a su mayor masa molecular."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La mayor reactividad y polaridad de los alquinos en comparación con los alquenos se atribuye a la presencia de dos enlaces pi ($$\\pi$$) en el triple enlace (un enlace $$\\sigma$$ y dos $$\\pi$$). Estos enlaces $$\\pi$$ son más débiles y sus electrones están más expuestos, lo que los hace más susceptibles al ataque de reactivos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_007",
+      "pregunta": "¿Qué tendencia general presentan propiedades físicas como la densidad, el punto de fusión y el punto de ebullición en los alquinos a medida que aumenta su masa molecular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuyen constantemente.",
+        "B": "Permanecen sin cambios.",
+        "C": "Aumentan.",
+        "D": "Aumentan y luego disminuyen.",
+        "E": "No siguen ninguna tendencia predecible."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al igual que en los alcanos y alquenos, las propiedades físicas de los alquinos, como la densidad, el punto de fusión y el punto de ebullición, aumentan a medida que aumenta su masa molecular. Esto se debe al incremento de las fuerzas de van der Waals entre las moléculas más grandes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_008",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para el compuesto `CH₃–C≡C–CH₂–CH₂–CH₂–CH₂–CH₃`?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "oct-6-ino",
+        "B": "oct-2-eno",
+        "C": "oct-2-ino",
+        "D": "metil-hept-1-ino",
+        "E": "2-octano"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cadena principal tiene 8 átomos de carbono, por lo que el prefijo es \"oct\". El triple enlace es la característica principal, por lo que el sufijo es \"-ino\". Se debe numerar la cadena desde el extremo más cercano al triple enlace, que en este caso es la izquierda. El triple enlace comienza en el carbono 2. Por lo tanto, el nombre correcto es oct-2-ino.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_009",
+      "pregunta": "Según la nomenclatura de hidrocarburos insaturados, ¿qué modificación especial se debe realizar en el prefijo de la cadena principal cuando la molécula contiene más de un doble o triple enlace?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se le añade el sufijo \"-il\".",
+        "B": "El prefijo debe terminar en la letra \"a\".",
+        "C": "Se duplica la primera sílaba del prefijo.",
+        "D": "Se omite el prefijo numérico de la cadena.",
+        "E": "El prefijo debe terminar en la letra \"o\"."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando un hidrocarburo insaturado posee más de un enlace múltiple (doble o triple), el prefijo que indica la longitud de la cadena principal debe terminar en la letra \"a\". Por ejemplo, una cadena de ocho carbonos con dos dobles enlaces se nombraría como \"octa-\" en lugar de \"oct-\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_010",
+      "pregunta": "¿Cuál es la fórmula general para un alquino que contiene 't' número de triples enlaces?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$C_nH_{2n+2+4t}$$",
+        "B": "$$C_nH_{2n-2t}$$",
+        "C": "$$C_nH_{2n-4t}$$",
+        "D": "$$C_nH_{2n+2-4t}$$",
+        "E": "$$C_nH_{2n+2-2t}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula general para un alcano es $$C_nH_{2n+2}$$. Cada triple enlace introduce una deficiencia de 4 hidrógenos. Por lo tanto, para un alquino con 't' triples enlaces, la fórmula general es $$C_nH_{2n+2-4t}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_011",
+      "pregunta": "¿A partir de qué miembro de la serie de los alquinos estos compuestos se presentan en estado líquido en condiciones normales?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Desde el etino ($$C_2$$)",
+        "B": "Desde el propino ($$C_3$$)",
+        "C": "Desde el pentino ($$C_5H_8$$)",
+        "D": "Desde el decino ($$C_{10}H_{18}$$)",
+        "E": "Desde el pentadecino ($$C_{15}H_{28}$$)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los tres primeros alquinos son gases. El estado líquido comienza con el pentino ($$C_5H_8$$) y se mantiene hasta el pentadecino ($$C_{15}H_{28}$$). Los alquinos con más de 15 átomos de carbono son sólidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_012",
+      "pregunta": "Comparando la reactividad química, ¿cómo se posicionan los alquinos con respecto a los alquenos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son menos activos químicamente.",
+        "B": "Tienen exactamente la misma reactividad.",
+        "C": "Son más activos químicamente.",
+        "D": "Su reactividad es inversamente proporcional a su masa molecular.",
+        "E": "Solo los alquinos terminales son reactivos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los alquinos son más activos químicamente que los alquenos. Esta mayor reactividad se debe a la presencia de dos enlaces pi ($$\\pi$$) en el triple enlace, que son más débiles y más accesibles para reacciones químicas en comparación con el único enlace $$\\pi$$ de los alquenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_013",
+      "pregunta": "Aplicando la fórmula general $$C_nH_{2n-2}$$, ¿cuál es la fórmula molecular del pentino?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$C_5H_{12}$$",
+        "B": "$$C_5H_{10}$$",
+        "C": "$$C_5H_8$$",
+        "D": "$$C_5H_6$$",
+        "E": "$$C_5H_5$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El prefijo \"pent-\" indica que hay 5 átomos de carbono, por lo que $n=5$. Sustituyendo este valor en la fórmula general para alquinos con un triple enlace, $$C_nH_{2n-2}$$, obtenemos: $$C_5H_{2(5)-2} = C_5H_{10-2} = C_5H_8$$. Por lo tanto, la fórmula molecular del pentino es $$C_5H_8$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_014",
+      "pregunta": "¿Cuál sería la fórmula molecular de un hidrocarburo acíclico que tiene 10 átomos de carbono y 2 triples enlaces?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$C_{10}H_{18}$$",
+        "B": "$$C_{10}H_{16}$$",
+        "C": "$$C_{10}H_{14}$$",
+        "D": "$$C_{10}H_{12}$$",
+        "E": "$$C_{10}H_{22}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para esta molécula, el número de carbonos es $n=10$ y el número de triples enlaces es $t=2$. Se debe utilizar la fórmula general para alquinos con 't' triples enlaces: $$C_nH_{2n+2-4t}$$. Sustituyendo los valores: $$C_{10}H_{2(10)+2-4(2)} = C_{10}H_{20+2-8} = C_{10}H_{14}$$. La fórmula molecular es $$C_{10}H_{14}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_265_015",
+      "pregunta": "Basándose en el ejemplo de nomenclatura `octa-1,6-dieno` para enlaces múltiples y las reglas de los alquinos, ¿cuál sería el nombre IUPAC más probable para una molécula con la estructura `CH≡C-CH₂-CH₂-C≡CH`?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "hex-1,5-diino",
+        "B": "diino-1,5-hexano",
+        "C": "hexa-1,5-diino",
+        "D": "hex-1,5-ino",
+        "E": "hexa-1-ino-5-ino"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cadena principal tiene 6 carbonos (prefijo 'hex-'). Hay dos triples enlaces (sufijo '-diino'), ubicados en las posiciones 1 y 5 (numerando desde el extremo derecho para dar los localizadores más bajos). Como hay más de un enlace múltiple, el prefijo de la cadena debe terminar en 'a', convirtiéndose en 'hexa-'. Combinando todas las partes, el nombre correcto es hexa-1,5-diino.",
+      "imagen": null
+    }
+  ]
 }

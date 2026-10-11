@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_073_001",
-      "pregunta": "¿Qué propiedad fundamental del electrón describe el número cuántico de espín ($m_s$)?",
+      "pregunta": "¿Qué describe fundamentalmente el número cuántico de espín ($$m_s$$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "Su nivel de energía principal",
-        "B": "La forma de su orbital",
-        "C": "El giro o movimiento de rotación sobre su propio eje",
-        "D": "La orientación del orbital en el espacio",
-        "E": "Su distancia promedio al núcleo"
+        "A": "La forma del orbital del electrón.",
+        "B": "La energía principal del electrón.",
+        "C": "El giro o rotación del electrón sobre su propio eje.",
+        "D": "La orientación del orbital en el espacio.",
+        "E": "La distancia promedio del electrón al núcleo."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El número cuántico de espín, representado como $m_s$ o $s$, se relaciona directamente con el momento angular intrínseco del electrón, que se visualiza como un giro o rotación que este efectúa sobre su propio eje. Las otras opciones se refieren a otros números cuánticos: el nivel de energía al número cuántico principal ($n$), la forma del orbital al azimutal ($l$), y la orientación al magnético ($m_l$).",
+      "explicacion": "El número cuántico de espín, representado como $$m_s$$ o $$s$$, se relaciona directamente con el movimiento de rotación que el electrón realiza sobre su propio eje. No describe la forma (determinada por $$l$$), la energía ($$n$$) ni la orientación espacial ($$m_l$$) del orbital.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_002",
-      "pregunta": "¿Cuáles son los únicos valores numéricos que puede tomar el número cuántico de espín ($m_s$)?",
+      "pregunta": "¿Cuáles son los únicos valores permitidos para el número cuántico de espín ($$m_s$$)?",
       "dificultad": 1,
       "opciones": {
         "A": "$$0, 1$$",
         "B": "$$-1, 0, +1$$",
-        "C": "$$+\\frac{1}{2}, -\\frac{1}{2}$$",
+        "C": "$$+1/2, -1/2$$",
         "D": "Cualquier número entero",
-        "E": "$$0$$"
+        "E": "$$0, 1, 2, 3$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El número cuántico de espín ($m_s$) tiene únicamente dos valores posibles para un electrón, que representan las dos posibles orientaciones de su giro. Estos valores son, por convención, $$+\\frac{1}{2}$$ y $$-\\frac{1}{2}$$.",
+      "explicacion": "El número cuántico de espín ($$m_s$$) tiene únicamente dos valores posibles, que representan las dos direcciones de giro del electrón. Estos valores son $$+1/2$$ y $$-1/2$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_003",
-      "pregunta": "El estado de un electrón conocido como \"spin up\" se representa con el valor de $m_s$ igual a:",
+      "pregunta": "¿Qué término y símbolo se asocian comúnmente con un valor de espín de $$m_s = +1/2$$?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$-\\frac{1}{2}$$",
-        "B": "$$0$$",
-        "C": "$$-1$$",
-        "D": "$$+\\frac{1}{2}$$",
-        "E": "$$+1$$"
+        "A": "Spin down (↓)",
+        "B": "Spin neutro (↔)",
+        "C": "Spin up (↑)",
+        "D": "Spin orbital (o)",
+        "E": "Spin magnético (m)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El estado \"spin up\", que también se representa con una flecha hacia arriba ($\\uparrow$), corresponde al valor positivo del número cuántico de espín, es decir, $$m_s = +\\frac{1}{2}$$. El valor $$-\\frac{1}{2}$$ corresponde al estado \"spin down\" ($\\downarrow$).",
+      "respuesta_correcta": "C",
+      "explicacion": "Un valor de $$m_s = +1/2$$ se conoce como \"spin up\" y se representa gráficamente con una flecha hacia arriba (↑), indicando una de las dos posibles direcciones de rotación del electrón.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_004",
-      "pregunta": "¿Con qué símbolo de flecha se representa convencionalmente el estado de \"spin down\" de un electrón?",
+      "pregunta": "¿Qué método empírico es fundamental para conocer la verdadera configuración electrónica de un elemento químico?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$\\uparrow$$",
-        "B": "$$\\rightarrow$$",
-        "C": "$$\\leftrightarrow$$",
-        "D": "$$\\leftarrow$$",
-        "E": "$$\\downarrow$$"
+        "A": "Cálculos teóricos basados en reglas",
+        "B": "Titulación ácido-base",
+        "C": "Cristalografía de rayos X",
+        "D": "Espectroscopía",
+        "E": "El modelo de Bohr"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El estado \"spin down\" de un electrón, que corresponde a un valor de $$m_s = -\\frac{1}{2}$$, se representa gráficamente con una flecha que apunta hacia abajo ($\\downarrow$). La flecha hacia arriba ($\\uparrow$) representa el estado \"spin up\".",
+      "respuesta_correcta": "D",
+      "explicacion": "La espectroscopía es la técnica experimental que permite medir las energías electrónicas reales de un átomo. Gracias a ella, se puede determinar la configuración electrónica empírica, que en ocasiones resulta ser una excepción a las reglas de llenado teóricas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_005",
-      "pregunta": "Además de $m_s$, ¿qué otra letra se utiliza para designar al número cuántico de espín?",
+      "pregunta": "La notación \"spin down\" se representa con el símbolo ↓ y corresponde a un valor de $$m_s$$ igual a:",
       "dificultad": 1,
       "opciones": {
-        "A": "$$l$$",
-        "B": "$$s$$",
-        "C": "$$p$$",
-        "D": "$$d$$",
-        "E": "$$m_l$$"
+        "A": "$$+1$$",
+        "B": "$$-1/2$$",
+        "C": "$$0$$",
+        "D": "$$+1/2$$",
+        "E": "$$-1$$"
       },
       "respuesta_correcta": "B",
-      "explicacion": "El número cuántico de espín es comúnmente simbolizado como $m_s$, pero también puede ser representado simplemente con la letra $s$. Los otros símbolos corresponden al número cuántico azimutal ($l$), al número cuántico magnético ($m_l$), o a tipos de subniveles ($p$ y $d$).",
+      "explicacion": "La notación \"spin down\" (↓) se utiliza para describir un electrón con un número cuántico de espín de $$-1/2$$. Esto representa la dirección de giro opuesta al \"spin up\" (↑), que tiene un valor de $$+1/2$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_006",
-      "pregunta": "¿Qué técnica experimental es fundamental para determinar la configuración electrónica real y descubrir excepciones a las reglas de llenado?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Titulación ácido-base",
-        "B": "Espectroscopía",
-        "C": "Destilación fraccionada",
-        "D": "Cristalografía",
-        "E": "Cromatografía de gases"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "La espectroscopía es la herramienta experimental que permite medir las energías electrónicas reales en un átomo. Estos datos empíricos son los que revelan la configuración electrónica verdadera, la cual puede diferir de las predicciones teóricas, dando lugar a las conocidas excepciones a las reglas de llenado.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_073_007",
-      "pregunta": "Para un subnivel $d$, donde el número cuántico azimutal es $l=2$, ¿cuántos orbitales existen?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "1",
-        "B": "3",
-        "C": "5",
-        "D": "7",
-        "E": "2"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "El número de orbitales en un subnivel está determinado por los posibles valores del número cuántico magnético ($m_l$), que van desde $-l$ hasta $+l$. Para un subnivel $d$, $l=2$, por lo que los valores de $m_l$ son $-2, -1, 0, +1, +2$. Al haber 5 valores posibles para $m_l$, existen 5 orbitales en el subnivel $d$.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_073_008",
-      "pregunta": "¿Qué conclusión importante se ha obtenido a partir de mediciones espectroscópicas de las energías electrónicas?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Las reglas de llenado de electrones son absolutas y no tienen fallas.",
-        "B": "Todos los electrones en un átomo giran en la misma dirección.",
-        "C": "La configuración electrónica no se puede conocer de ninguna manera.",
-        "D": "Existen excepciones a las reglas de llenado de electrones comúnmente enseñadas.",
-        "E": "El número de espín de un electrón puede cambiar de valor espontáneamente."
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "Los experimentos realizados mediante espectroscopía han demostrado que, aunque las reglas de llenado son una excelente guía, no son infalibles. Se ha concluido que existen elementos químicos cuyas configuraciones electrónicas en estado basal son excepciones a estas reglas, lo que solo puede ser verificado empíricamente.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_073_009",
-      "pregunta": "Si el número cuántico azimutal $l=1$, ¿cuál es el conjunto completo de valores para el número cuántico magnético ($m_l$)?",
+      "pregunta": "Para un subnivel 'p', donde el número cuántico azimutal es $$l=1$$, ¿cuáles son todos los valores posibles para el número cuántico magnético ($$m_l$$)?",
       "dificultad": 2,
       "opciones": {
         "A": "$$0$$",
         "B": "$$-1, 0, +1$$",
-        "C": "$$-2, -1, 0, +1, +2$$",
-        "D": "$$+\\frac{1}{2}, -\\frac{1}{2}$$",
-        "E": "Solo $$-1$$ y $$+1$$"
+        "C": "$$+1/2, -1/2$$",
+        "D": "$$-2, -1, 0, +1, +2$$",
+        "E": "Únicamente $$+1$$"
       },
       "respuesta_correcta": "B",
-      "explicacion": "El número cuántico magnético ($m_l$) puede tomar todos los valores enteros comprendidos entre $-l$ y $+l$, incluyendo el cero. Para $l=1$ (que corresponde a un subnivel $p$), los valores posibles para $m_l$ son $-1, 0, \text{ y } +1$.",
+      "explicacion": "El número cuántico magnético ($$m_l$$) puede tomar todos los valores enteros desde $$-l$$ hasta $$+l$$. Para un subnivel 'p', $$l=1$$, por lo tanto, los valores posibles para $$m_l$$ son $$-1, 0, +1$$, lo que corresponde a tres orbitales p.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_073_007",
+      "pregunta": "¿Cuántos orbitales existen en un subnivel 'd', sabiendo que para este subnivel el número cuántico azimutal es $$l=2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "1 orbital",
+        "B": "3 orbitales",
+        "C": "5 orbitales",
+        "D": "7 orbitales",
+        "E": "2 orbitales"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para un subnivel 'd', el número cuántico azimutal es $$l=2$$. Los valores permitidos para el número cuántico magnético ($$m_l$$) van desde $$-l$$ hasta $$+l$$, es decir: $$-2, -1, 0, +1, +2$$. Cada uno de estos cinco valores corresponde a un orbital 'd', por lo que hay un total de 5 orbitales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_073_008",
+      "pregunta": "¿Cuál es la razón principal por la que existen excepciones a las reglas generales de llenado de la configuración electrónica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los electrones prefieren estar en orbitales de mayor energía.",
+        "B": "Las reglas de llenado solo se aplican a los no metales.",
+        "C": "Mediciones experimentales (espectroscopía) han demostrado que estas excepciones son energéticamente más estables.",
+        "D": "El número cuántico de espín no tiene influencia en la configuración.",
+        "E": "Las reglas teóricas contienen errores matemáticos fundamentales."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La existencia de excepciones se debe a que la configuración electrónica real está determinada por la mínima energía posible del átomo. Experimentos de espectroscopía han demostrado que para ciertos elementos, una configuración electrónica que no sigue estrictamente las reglas teóricas resulta ser la de menor energía y, por lo tanto, la más estable y correcta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_073_009",
+      "pregunta": "Si un electrón se encuentra en un subnivel 's', ¿cuál es el único valor posible para su número cuántico magnético ($$m_l$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$m_l = 1$$",
+        "B": "$$m_l = -1$$",
+        "C": "$$m_l = +1/2$$",
+        "D": "$$m_l = 0$$",
+        "E": "$$m_l = -1/2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El subnivel 's' se define por un número cuántico azimutal $$l=0$$. El número cuántico magnético ($$m_l$$) toma valores de $$-l$$ a $$+l$$. Para $$l=0$$, el único valor entero posible es $$m_l = 0$$. Esto significa que el subnivel 's' contiene un solo orbital.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_010",
-      "pregunta": "Un electrón con un valor de $m_s = -\\frac{1}{2}$ se describe como teniendo un:",
+      "pregunta": "El número cuántico magnético ($$m_l$$) toma los valores $$-3, -2, -1, 0, +1, +2, +3$$ para el subnivel:",
       "dificultad": 2,
       "opciones": {
-        "A": "Spin up",
-        "B": "Spin nulo",
-        "C": "Spin down",
-        "D": "Spin positivo",
-        "E": "Spin entero"
+        "A": "s",
+        "B": "p",
+        "C": "d",
+        "D": "f",
+        "E": "g"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Por convención, el valor $$m_s = -\\frac{1}{2}$$ se asocia con el estado de rotación del electrón denominado \"spin down\". El estado \"spin up\" corresponde al valor $$m_s = +\\frac{1}{2}$$.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los valores de $$m_l$$ están determinados por el rango de $$-l$$ a $$+l$$. Un rango de $$-3$$ a $$+3$$ implica que el número cuántico azimutal es $$l=3$$. Por convención, el subnivel con $$l=3$$ se denomina subnivel 'f'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_011",
-      "pregunta": "¿Cuántos orbitales hay en un subnivel $s$ ($l=0$)?",
+      "pregunta": "¿Qué dos propiedades cuánticas se combinan para determinar que un orbital específico solo puede albergar un máximo de dos electrones?",
       "dificultad": 2,
       "opciones": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "0",
-        "E": "5"
+        "A": "Número cuántico principal ($$n$$) y azimutal ($$l$$).",
+        "B": "Número cuántico magnético ($$m_l$$) y de espín ($$m_s$$).",
+        "C": "Número cuántico principal ($$n$$) y de espín ($$m_s$$).",
+        "D": "Número cuántico azimutal ($$l$$) y magnético ($$m_l$$).",
+        "E": "La carga del electrón y su masa."
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Para un subnivel $s$, el número cuántico azimutal es $l=0$. Los valores posibles para el número cuántico magnético ($m_l$) van de $-l$ a $+l$. En este caso, el único valor posible es $m_l=0$. Como cada valor de $m_l$ representa un orbital, el subnivel $s$ contiene exactamente 1 orbital.",
+      "respuesta_correcta": "B",
+      "explicacion": "Un orbital específico se define por un único valor del número cuántico magnético ($$m_l$$). Dentro de ese orbital, solo pueden existir electrones con diferentes números cuánticos de espín ($$m_s$$). Como solo hay dos valores de espín posibles ($$+1/2$$ y $$-1/2$$), solo puede haber un máximo de dos electrones en cualquier orbital, cada uno con un espín opuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_012",
-      "pregunta": "El subnivel $f$ se caracteriza por un número cuántico azimutal $l=3$. ¿Cuál es el rango completo de valores enteros para $m_l$ en este subnivel?",
+      "pregunta": "La verdadera configuración electrónica de un elemento, determinada empíricamente, a veces contradice las reglas de llenado. Esto demuestra que:",
       "dificultad": 2,
       "opciones": {
-        "A": "$$-2, -1, 0, 1, 2$$",
-        "B": "$$-1, 0, 1$$",
-        "C": "$$0$$",
-        "D": "$$-3, -2, -1, 0, 1, 2, 3$$",
-        "E": "$$1, 2, 3$$"
+        "A": "El modelo cuántico del átomo es completamente incorrecto.",
+        "B": "La energía de los electrones no puede ser medida.",
+        "C": "Las reglas de llenado son una guía útil pero no infalible.",
+        "D": "Todos los elementos tienen configuraciones electrónicas irregulares.",
+        "E": "El espín del electrón no tiene relevancia en la energía."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para un subnivel con $l=3$, el número cuántico magnético ($m_l$) puede tomar todos los valores enteros desde $-l$ hasta $+l$. Por lo tanto, el rango completo de valores para $m_l$ es $-3, -2, -1, 0, +1, +2, +3$, lo que corresponde a 7 orbitales $f$.",
+      "respuesta_correcta": "C",
+      "explicacion": "El hecho de que existan excepciones confirmadas por espectroscopía indica que las reglas de llenado (como el principio de Aufbau) son modelos predictivos muy eficaces, pero no leyes absolutas. La configuración más estable, determinada por la energía real del sistema, es la que prevalece, incluso si no sigue el patrón esperado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_013",
-      "pregunta": "Un electrón se encuentra en un orbital del subnivel $f$ ($l=3$) con una orientación magnética $m_l = -2$. ¿Cuáles son los posibles valores para su número cuántico de espín ($m_s$)?",
+      "pregunta": "Un electrón se describe con un número cuántico azimutal $$l=3$$. ¿Cuál de los siguientes valores para su número cuántico magnético ($$m_l$$) es físicamente imposible?",
       "dificultad": 3,
       "opciones": {
-        "A": "Solo $$+\\frac{1}{2}$$",
-        "B": "Solo $$-\\frac{1}{2}$$",
-        "C": "$$-3, -2, -1, 0, 1, 2, 3$$",
-        "D": "$$+\\frac{1}{2}$$ y $$-\\frac{1}{2}$$",
-        "E": "Solo $$0$$"
+        "A": "$$m_l = -2$$",
+        "B": "$$m_l = 0$$",
+        "C": "$$m_l = +3$$",
+        "D": "$$m_l = +4$$",
+        "E": "$$m_l = -3$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "El número cuántico de espín ($m_s$) es una propiedad intrínseca del electrón y es independiente de los otros números cuánticos ($n, l, m_l$) que describen su orbital. Sin importar el nivel de energía, la forma o la orientación del orbital en el que se encuentre, un electrón siempre tendrá dos posibles estados de espín: $$m_s = +\\frac{1}{2}$$ o $$m_s = -\\frac{1}{2}$$. Los valores de $l$ y $m_l$ no restringen los posibles valores de $m_s$.",
+      "explicacion": "El número cuántico magnético, $$m_l$$, depende del número cuántico azimutal, $$l$$, y puede tomar cualquier valor entero en el rango de $$-l$$ a $$+l$$, incluyendo el cero. Si $$l=3$$, los valores permitidos para $$m_l$$ son $$-3, -2, -1, 0, +1, +2, +3$$. Un valor de $$m_l = +4$$ está fuera de este rango y, por lo tanto, es imposible para este electrón.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_014",
-      "pregunta": "Dado que el subnivel $s$ ($l=0$) tiene un único valor de $m_l=0$, ¿qué combinación de valores cuánticos describe correctamente las propiedades de un electrón en dicho subnivel?",
+      "pregunta": "Considerando los posibles valores del número cuántico de espín ($$m_s$$), ¿cuál es el número máximo de electrones que pueden ocupar el conjunto total de orbitales de un subnivel 'd' ($$l=2$$)?",
       "dificultad": 3,
       "opciones": {
-        "A": "$l=0, m_l=0, m_s=0$",
-        "B": "$l=1, m_l=0, m_s=\\pm\\frac{1}{2}$",
-        "C": "$l=0, m_l=\\pm 1, m_s=\\pm\\frac{1}{2}$",
-        "D": "$l=0, m_l=0, m_s=\\pm\\frac{1}{2}$",
-        "E": "$l=1, m_l=-1, m_s=0$"
+        "A": "2 electrones",
+        "B": "5 electrones",
+        "C": "6 electrones",
+        "D": "10 electrones",
+        "E": "14 electrones"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Esta pregunta requiere combinar la información sobre los diferentes números cuánticos. Para un subnivel $s$, se sabe que $l=0$. Esto a su vez restringe a $m_l$ a un único valor: $m_l=0$. Finalmente, el número cuántico de espín ($m_s$) para cualquier electrón es independiente y puede ser $$+\\frac{1}{2}$$ o $$-\\frac{1}{2}$$. Por lo tanto, la única combinación correcta que describe a un electrón en un subnivel $s$ es $l=0, m_l=0, m_s=\\pm\\frac{1}{2}$.",
+      "explicacion": "Para un subnivel 'd', el número cuántico azimutal es $$l=2$$. Esto da lugar a 5 valores posibles para $$m_l$$ ($$-2, -1, 0, +1, +2$$), lo que significa que hay 5 orbitales 'd'. Cada orbital individual puede albergar un máximo de 2 electrones con espines opuestos ($$m_s = +1/2$$ y $$m_s = -1/2$$). Por lo tanto, el número máximo de electrones en el subnivel 'd' es $$5 \text{ orbitales} \times 2 \text{ electrones/orbital} = 10 \text{ electrones}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_073_015",
-      "pregunta": "Si la configuración electrónica de un elemento, predicha por las reglas de llenado, no coincide con los resultados de la espectroscopía, ¿cuál es la interpretación correcta?",
+      "pregunta": "La afirmación de que la configuración electrónica real solo se conoce empíricamente mediante espectroscopía sugiere que las reglas teóricas de llenado son:",
       "dificultad": 3,
       "opciones": {
-        "A": "El experimento de espectroscopía tiene un error.",
-        "B": "Las reglas teóricas de llenado han fallado y el resultado experimental representa la configuración real.",
-        "C": "El electrón no tiene un número cuántico de espín definido en ese elemento.",
-        "D": "La teoría cuántica es completamente incorrecta para ese elemento.",
-        "E": "El átomo debe estar en un estado excitado, no en su estado basal."
+        "A": "Modelos predictivos que se validan o corrigen con datos experimentales.",
+        "B": "Leyes físicas inmutables que no admiten excepciones.",
+        "C": "Conceptos obsoletos que ya no se utilizan en química moderna.",
+        "D": "Fórmulas que solo se aplican a átomos en estado excitado.",
+        "E": "Inválidas, ya que la espectroscopía es la única fuente de información."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La información indica que la configuración electrónica real solo se puede conocer empíricamente y que existen excepciones a las reglas. Esto implica que las reglas teóricas son un modelo predictivo, pero la evidencia experimental (espectroscopía) es la que determina la realidad. Si hay una discrepancia, se considera que el elemento es una de las excepciones y que su configuración verdadera es la que se mide experimentalmente, no la predicha por el modelo simple.",
+      "respuesta_correcta": "A",
+      "explicacion": "Esta afirmación resalta la relación entre teoría y experimento en la ciencia. Las reglas de llenado (como el principio de Aufbau) son modelos teóricos extremadamente útiles para predecir la configuración electrónica. Sin embargo, la espectroscopía proporciona los datos experimentales que actúan como la prueba final. Si los datos contradicen el modelo, el modelo se corrige para ese caso específico, demostrando que los modelos sirven para predecir, pero el experimento tiene la última palabra sobre la realidad física.",
       "imagen": null
     }
   ]

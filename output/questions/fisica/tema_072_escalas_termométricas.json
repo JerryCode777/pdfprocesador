@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 72,
+  "total_temas": 137,
+  "titulo_tema": "Escalas Termométricas",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_072_001",
+      "pregunta": "¿Qué característica define a una escala de temperatura como absoluta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Utiliza el punto de congelación del agua como su punto cero.",
+        "B": "Su cero representa la ausencia total de energía térmica.",
+        "C": "Es la escala más utilizada en aplicaciones cotidianas.",
+        "D": "Fue definida por Daniel Gabriel Fahrenheit.",
+        "E": "Se basa en la radiación infrarroja emitida por un objeto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las escalas absolutas, como Kelvin y Rankine, se definen por tener un cero absoluto ($$0 \text{ K}$$ o $$0 \text{ R}$$). Este punto no es arbitrario, sino que representa la temperatura más baja teóricamente posible, donde las partículas cesan su movimiento térmico, indicando una ausencia total de energía térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_002",
+      "pregunta": "¿Cuáles son los puntos de referencia utilizados para definir la escala Celsius?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El cero absoluto y la temperatura corporal humana.",
+        "B": "La temperatura definida por una mezcla de hielo, agua y sal.",
+        "C": "El punto de congelación y el punto de ebullición del agua.",
+        "D": "La radiación emitida por el cuerpo humano.",
+        "E": "El punto de congelación del agua y el cero absoluto."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La escala Celsius es una escala relativa que establece sus puntos de referencia en función de las propiedades del agua. El punto de congelación del agua se define como $$0^\\circ C$$ y su punto de ebullición (a presión atmosférica estándar) se define como $$100^\\circ C$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_003",
+      "pregunta": "¿Según su definición, cuál de los siguientes pares de escalas son consideradas relativas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Kelvin y Rankine",
+        "B": "Celsius y Kelvin",
+        "C": "Fahrenheit y Rankine",
+        "D": "Celsius y Fahrenheit",
+        "E": "Kelvin y Fahrenheit"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las escalas relativas son aquellas en las que el cero no indica ausencia total de temperatura, sino un punto de referencia específico. Tanto la escala Celsius ($$0^\\circ C$$ es el punto de congelación del agua) como la Fahrenheit se ajustan a esta definición. Kelvin y Rankine son escalas absolutas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_004",
+      "pregunta": "¿Cómo operan los termómetros de infrarrojos para determinar la temperatura?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Midiendo la dilatación de un líquido como el mercurio.",
+        "B": "Analizando el cambio en la resistencia eléctrica de un metal.",
+        "C": "Detectando la radiación infrarroja que emite un objeto.",
+        "D": "Por contacto directo, esperando el equilibrio térmico.",
+        "E": "Observando el cambio de presión de un gas confinado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los termómetros de infrarrojos funcionan sin contacto, midiendo la energía térmica en forma de radiación infrarroja emitida por la superficie de un objeto. Todos los objetos con una temperatura por encima del cero absoluto emiten este tipo de radiación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_005",
+      "pregunta": "¿Qué es el cero absoluto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La temperatura a la que el agua se congela, definida como $$0^\\circ C$$.",
+        "B": "Un punto de referencia en la escala Fahrenheit.",
+        "C": "La temperatura más baja teóricamente posible, donde cesa el movimiento térmico de las partículas.",
+        "D": "El punto en el que las escalas Celsius y Fahrenheit coinciden.",
+        "E": "La temperatura promedio del universo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cero absoluto es el concepto fundamental de las escalas de temperatura absolutas (Kelvin y Rankine). Representa el estado de mínima energía de un sistema, donde teóricamente las partículas subatómicas no tendrían movimiento debido a la energía térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_006",
+      "pregunta": "¿Qué ecuación representa correctamente la conversión de una temperatura dada en grados Celsius ($$C$$) a Kelvin ($$K$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$K = C - 273$$",
+        "B": "$$K = \frac{5}{9}C$$",
+        "C": "$$K = C + 273$$",
+        "D": "$$K = C + 460$$",
+        "E": "$$K = \frac{9}{5}C + 32$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La escala Kelvin se basa en la escala Celsius pero desplaza su punto cero al cero absoluto. La relación de conversión directa es sumar 273 (una aproximación común de 273.15) a la temperatura en grados Celsius. Por lo tanto, la fórmula correcta es $$K = C + 273$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_007",
+      "pregunta": "La relación para las variaciones de temperatura $$\\Delta C = \\Delta K$$ implica que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura en Celsius siempre es igual a la temperatura en Kelvin.",
+        "B": "El punto cero de ambas escalas es idéntico.",
+        "C": "Un incremento o decremento de un grado Celsius es de la misma magnitud que un incremento o decremento de un Kelvin.",
+        "D": "Ambas escalas son relativas.",
+        "E": "La conversión entre escalas no es lineal."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación $$\\Delta C = \\Delta K$$ se refiere a cambios o intervalos de temperatura ($$\\Delta$$). Significa que la 'magnitud' o 'tamaño' de un grado Celsius es exactamente igual a la de un Kelvin. Por ejemplo, calentar un objeto de $$10^\\circ C$$ a $$11^\\circ C$$ (un cambio de $$1^\\circ C$$) es lo mismo que calentarlo de $$283 \text{ K}$$ a $$284 \text{ K}$$ (un cambio de $$1 \text{ K}$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_008",
+      "pregunta": "¿Cuál es la ecuación correcta para convertir una temperatura de grados Fahrenheit ($$F$$) a la escala Rankine ($$R$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$R = F$$",
+        "B": "$$R = F - 460$$",
+        "C": "$$R = F + 273$$",
+        "D": "$$R = F + 460$$",
+        "E": "$$R = \frac{5}{9}(F - 32)$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La escala Rankine es la escala absoluta correspondiente a la escala Fahrenheit, de la misma manera que Kelvin lo es para Celsius. Para convertir una temperatura de Fahrenheit a Rankine, se le suma 460 (una aproximación de 459.67). La fórmula es $$R = F + 460$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_009",
+      "pregunta": "¿Qué principio matemático se utiliza para establecer las proporciones de conversión entre las diferentes escalas termométricas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Teorema de Pitágoras",
+        "B": "El Teorema de Thales",
+        "C": "El binomio de Newton",
+        "D": "La Ley de los Senos",
+        "E": "El Cálculo Integral"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las relaciones de proporcionalidad entre las escalas termométricas se derivan utilizando el Teorema de Thales. Este teorema de la geometría permite establecer una relación entre segmentos paralelos cortados por líneas transversales, lo cual es análogo a relacionar los intervalos entre puntos fijos (congelación y ebullición del agua) en las diferentes escalas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_010",
+      "pregunta": "¿Por qué el valor $$0^\\circ C$$ en la escala Celsius no representa la ausencia total de temperatura?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque es posible alcanzar temperaturas más bajas.",
+        "B": "Porque es un punto de referencia basado en el punto de congelación del agua, donde aún existe energía térmica.",
+        "C": "Porque la escala Celsius es una escala absoluta.",
+        "D": "Porque $$0^\\circ C$$ es equivalente a $$0 \text{ K}$$.",
+        "E": "Porque es un valor utilizado solo en meteorología."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La escala Celsius es relativa, lo que significa que su punto cero es un punto de referencia conveniente. Se eligió el punto de congelación del agua como $$0^\\circ C$$. A esta temperatura, las moléculas de agua todavía tienen una cantidad significativa de energía térmica y movimiento. La ausencia total de energía térmica ocurre en el cero absoluto ($$-273^\\circ C$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_011",
+      "pregunta": "La relación de equivalencia entre escalas se puede expresar como $$\frac{C}{5} = \frac{F-32}{9}$$. ¿Qué representa esta ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una fórmula para convertir variaciones de temperatura.",
+        "B": "Una proporción matemática para convertir una temperatura específica de Celsius a Fahrenheit y viceversa.",
+        "C": "La definición del cero absoluto.",
+        "D": "La relación entre las escalas absolutas Kelvin y Rankine.",
+        "E": "Una simplificación incorrecta de la fórmula de conversión."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta ecuación es la proporción simplificada que relaciona un punto de temperatura en la escala Celsius ($$C$$) con su equivalente en la escala Fahrenheit ($$F$$). Se deriva de la relación general $$\frac{C-0}{100-0} = \frac{F-32}{212-32}$$, que al simplificar $$\frac{C}{100} = \frac{F-32}{180}$$ y dividir los denominadores por 20, resulta en $$\frac{C}{5} = \frac{F-32}{9}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_012",
+      "pregunta": "De acuerdo con la relación $$\\Delta F = \\Delta R$$, ¿qué se puede afirmar sobre el tamaño de un grado en la escala Fahrenheit y uno en la escala Rankine?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un grado Fahrenheit es más grande que un Rankine.",
+        "B": "Un grado Rankine es más grande que un Fahrenheit.",
+        "C": "El tamaño de un grado en ambas escalas es idéntico.",
+        "D": "La relación de tamaño depende de la temperatura.",
+        "E": "No hay una relación directa entre los tamaños de sus grados."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación $$\\Delta F = \\Delta R$$ indica que un cambio de temperatura ($$\\Delta$$) tiene el mismo valor numérico en ambas escalas. Esto significa que la magnitud de un grado Fahrenheit es exactamente la misma que la de un grado Rankine. La única diferencia entre las escalas es su punto de inicio o cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_013",
+      "pregunta": "Si la temperatura de un cuerpo aumenta en $$45^\\circ F$$, ¿cuál es la variación de temperatura equivalente en la escala Celsius ($$\\Delta C$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$45^\\circ C$$",
+        "B": "$$81^\\circ C$$",
+        "C": "$$7.2^\\circ C$$",
+        "D": "$$25^\\circ C$$",
+        "E": "$$13^\\circ C$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para convertir variaciones de temperatura entre Fahrenheit y Celsius, se usa la relación $$\frac{\\Delta C}{5} = \frac{\\Delta F}{9}$$. Se sustituye $$\\Delta F = 45$$ en la ecuación: $$\frac{\\Delta C}{5} = \frac{45}{9}$$. Simplificando, se obtiene $$\frac{\\Delta C}{5} = 5$$. Al despejar $$\\Delta C$$, se encuentra que $$\\Delta C = 5 \times 5 = 25^\\circ C$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_014",
+      "pregunta": "En la proporción general $$\frac{C}{100} = \frac{F-32}{180}$$, ¿qué significado físico tienen los denominadores 100 y 180?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Son los valores del punto de ebullición del agua en cada escala.",
+        "B": "Son factores de conversión a la escala Kelvin.",
+        "C": "Representan el número de divisiones o grados entre el punto de congelación y el punto de ebullición del agua para cada escala.",
+        "D": "Son constantes matemáticas arbitrarias para simplificar los cálculos.",
+        "E": "Indican los puntos de referencia más bajos de cada escala."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los denominadores en esta proporción representan el rango de temperaturas entre los dos puntos de referencia del agua. En la escala Celsius, el rango es de $$100^\\circ C$$ (ebullición) a $$0^\\circ C$$ (congelación), lo que da una diferencia de 100 divisiones. En la escala Fahrenheit, el rango es de $$212^\\circ F$$ (ebullición) a $$32^\\circ F$$ (congelación), lo que da una diferencia de 180 divisiones ($$212 - 32 = 180$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_072_015",
+      "pregunta": "Analizando la relación de variaciones $$\frac{\\Delta C}{5} = \frac{\\Delta F}{9}$$, ¿qué se puede concluir sobre la magnitud de un grado Celsius en comparación con un grado Fahrenheit?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un grado Celsius es más pequeño que un grado Fahrenheit.",
+        "B": "Un grado Celsius y un grado Fahrenheit tienen la misma magnitud.",
+        "C": "Un grado Celsius es más grande que un grado Fahrenheit.",
+        "D": "La relación de tamaño es inversa y depende de la temperatura inicial.",
+        "E": "Un grado Fahrenheit es 5/9 del tamaño de un grado Celsius."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación se puede reescribir como $$\\Delta F = \frac{9}{5} \\Delta C$$, o $$\\Delta F = 1.8 \\Delta C$$. Esto significa que un cambio de $$1^\\circ C$$ equivale a un cambio de $$1.8^\\circ F$$. Por lo tanto, el intervalo de temperatura que define a un grado Celsius es mayor que el que define a un grado Fahrenheit. Se necesitan 9 grados Fahrenheit para cubrir el mismo rango de temperatura que 5 grados Celsius.",
+      "imagen": null
+    }
+  ]
+}

@@ -6,21 +6,36 @@
   "preguntas": [
     {
       "id_temporal": "quimica_285_001",
-      "pregunta": "¿Qué prefijo se utiliza para indicar que dos sustituyentes en un anillo de benceno están en las posiciones 1 y 2?",
+      "pregunta": "¿Qué prefijo se utiliza para indicar que dos sustituyentes en un anillo de benceno se encuentran en las posiciones 1 y 2?",
       "dificultad": 1,
       "opciones": {
         "A": "meta (m)",
         "B": "para (p)",
         "C": "orto (o)",
-        "D": "iso",
-        "E": "sec"
+        "D": "iso (i)",
+        "E": "cis"
       },
       "respuesta_correcta": "C",
-      "explicacion": "En la nomenclatura de bencenos disustituidos, el prefijo 'orto (o)' se utiliza específicamente para denotar que los dos sustituyentes se encuentran en posiciones adyacentes en el anillo, correspondientes a los carbonos 1 y 2. Los prefijos 'meta (m)' y 'para (p)' se usan para las posiciones 1,3 y 1,4, respectivamente.",
+      "explicacion": "El prefijo 'orto' (o) se utiliza específicamente para describir la relación posicional 1,2 entre dos sustituyentes en un anillo de benceno. 'Meta' (m) corresponde a 1,3 y 'para' (p) a 1,4. Los otros términos no se usan para esta nomenclatura.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_002",
+      "pregunta": "La posición relativa 1,4 en un benceno disustituido se designa con el prefijo:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "orto (o)",
+        "B": "para (p)",
+        "C": "meta (m)",
+        "D": "trans",
+        "E": "sec"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El prefijo 'para' (p) se utiliza para indicar que los sustituyentes están en posiciones opuestas del anillo, correspondientes a los carbonos 1 y 4. 'Orto' es para 1,2 y 'meta' es para 1,3.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_285_003",
       "pregunta": "¿Cuál es la fórmula molecular del naftaleno?",
       "dificultad": 1,
       "opciones": {
@@ -31,12 +46,12 @@
         "E": "$$C_{12}H_{10}$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La fórmula molecular del naftaleno es $$C_{10}H_8$$. Este compuesto está formado por dos anillos de benceno que están fusionados, compartiendo dos átomos de carbono. La fórmula $$C_6H_6$$ corresponde al benceno.",
+      "explicacion": "El naftaleno es un hidrocarburo aromático policíclico formado por dos anillos de benceno fusionados, y su fórmula molecular es $$C_{10}H_8$$. La fórmula $$C_6H_6$$ corresponde al benceno simple.",
       "imagen": null
     },
     {
-      "id_temporal": "quimica_285_003",
-      "pregunta": "En la nomenclatura de bencenos disustituidos, ¿qué posiciones relativas indica el prefijo 'para (p)'?",
+      "id_temporal": "quimica_285_004",
+      "pregunta": "¿Qué posiciones relativas ocupan dos sustituyentes en un derivado de benceno con nomenclatura 'meta' (m)?",
       "dificultad": 1,
       "opciones": {
         "A": "1,2",
@@ -45,28 +60,13 @@
         "D": "1,5",
         "E": "1,6"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El prefijo 'para (p)' se utiliza para indicar que los dos sustituyentes en el anillo de benceno se encuentran en posiciones opuestas, lo que corresponde a la numeración 1,4. La posición 1,2 es 'orto (o)' y la 1,3 es 'meta (m)'.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_285_004",
-      "pregunta": "¿Qué nombre común recibe el compuesto p-dihidroxibenceno?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Catecol",
-        "B": "Resorcinol",
-        "C": "o-xileno",
-        "D": "Naftaleno",
-        "E": "Hidroquinona"
-      },
-      "respuesta_correcta": "E",
-      "explicacion": "El p-dihidroxibenceno, que tiene sus dos grupos hidroxilo en posiciones 1,4, es comúnmente conocido como Hidroquinona. Catecol es o-dihidroxibenceno (1,2) y Resorcinol es m-dihidroxibenceno (1,3).",
+      "respuesta_correcta": "B",
+      "explicacion": "El prefijo 'meta' (m) indica que los dos sustituyentes en el anillo de benceno se encuentran en las posiciones 1 y 3. Las posiciones 1,2 son 'orto' y las 1,4 son 'para'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_005",
-      "pregunta": "¿Cuántos electrones pi contiene el sistema aromático del naftaleno?",
+      "pregunta": "¿Cuántos electrones pi contiene la molécula de naftaleno?",
       "dificultad": 1,
       "opciones": {
         "A": "6",
@@ -76,157 +76,157 @@
         "E": "14"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El naftaleno, al estar formado por dos anillos de benceno fusionados, posee un sistema aromático que contiene un total de 10 electrones pi deslocalizados a través de su estructura de diez carbonos. Un anillo de benceno individual tiene 6 electrones pi.",
+      "explicacion": "El naftaleno, al estar formado por dos anillos aromáticos fusionados, posee un sistema de electrones pi deslocalizados que suma un total de 10 electrones pi, cumpliendo con la regla de aromaticidad de Hückel para n=2.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_006",
-      "pregunta": "El compuesto 1,3-dimetilbenceno es un isómero del xileno. ¿Qué prefijo se utiliza para designar esta disposición específica de los grupos metilo?",
+      "pregunta": "¿Cuál de los siguientes nombres corresponde a la molécula conocida como Hidroquinona?",
       "dificultad": 2,
       "opciones": {
-        "A": "orto (o)",
-        "B": "meta (m)",
-        "C": "para (p)",
-        "D": "cis",
-        "E": "trans"
+        "A": "o-dihidroxibenceno",
+        "B": "m-dihidroxibenceno",
+        "C": "p-dihidroxibenceno",
+        "D": "p-xileno",
+        "E": "m-xileno"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La numeración 1,3 en un anillo de benceno disustituido corresponde al prefijo 'meta (m)'. Por lo tanto, el 1,3-dimetilbenceno es correctamente nombrado como m-xileno. El prefijo 'orto' corresponde a 1,2 y 'para' a 1,4.",
+      "respuesta_correcta": "C",
+      "explicacion": "La Hidroquinona es el nombre común para el p-dihidroxibenceno, donde los dos grupos hidroxilo (-OH) están en una relación 'para', es decir, en las posiciones 1 y 4 del anillo de benceno. El o-dihidroxibenceno es Catecol y el m-dihidroxibenceno es Resorcinol.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_007",
-      "pregunta": "¿Cuál es la principal característica estructural del naftaleno?",
+      "pregunta": "El compuesto 1,3-dimetilbenceno es también conocido como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Es un único anillo de benceno con dos sustituyentes alquilo.",
-        "B": "Es una cadena alifática con dobles enlaces conjugados.",
-        "C": "Está formado por dos anillos de benceno fusionados.",
-        "D": "Contiene tres anillos de benceno en una estructura lineal.",
-        "E": "Es un anillo de ciclohexano con un grupo fenilo."
+        "A": "o-xileno",
+        "B": "p-xileno",
+        "C": "Catecol",
+        "D": "Resorcinol",
+        "E": "m-xileno"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El naftaleno es el hidrocarburo aromático policíclico más simple. Su estructura fundamental consiste en dos anillos de benceno que comparten dos átomos de carbono, es decir, están fusionados.",
+      "respuesta_correcta": "E",
+      "explicacion": "El nombre 1,3-dimetilbenceno indica que dos grupos metilo están en las posiciones 1 y 3 del anillo de benceno. Esta relación 1,3 corresponde al prefijo 'meta'. Por lo tanto, el compuesto es m-xileno. Los xilenos son dimetilbencenos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_008",
-      "pregunta": "El Catecol es el nombre común del o-dihidroxibenceno. ¿En qué posiciones del anillo de benceno se encuentran los dos grupos hidroxilo (-OH)?",
+      "pregunta": "¿Qué estructura describe al compuesto conocido como Catecol?",
       "dificultad": 2,
       "opciones": {
-        "A": "1 y 3",
-        "B": "1 y 4",
-        "C": "2 y 4",
-        "D": "3 y 5",
-        "E": "1 y 2"
+        "A": "1,3-dihidroxibenceno",
+        "B": "1,4-dihidroxibenceno",
+        "C": "1,2-dihidroxibenceno",
+        "D": "1,2-dimetilbenceno",
+        "E": "1,4-dimetilbenceno"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El nombre o-dihidroxibenceno indica la posición de los sustituyentes. El prefijo 'o-' (orto) se refiere a la disposición 1,2 en el anillo de benceno. Por lo tanto, en el Catecol, los dos grupos hidroxilo están en carbonos adyacentes.",
+      "respuesta_correcta": "C",
+      "explicacion": "Catecol es el nombre común para el o-dihidroxibenceno. El prefijo 'orto' (o) significa que los dos grupos hidroxilo se encuentran en posiciones adyacentes, es decir, en las posiciones 1 y 2 del anillo bencénico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_009",
-      "pregunta": "¿Cuál de los siguientes nombres sistemáticos corresponde a la molécula de Resorcinol?",
+      "pregunta": "El naftaleno es clasificado como el compuesto aromático fusionado más simple porque:",
       "dificultad": 2,
       "opciones": {
-        "A": "p-dihidroxibenceno",
-        "B": "o-dihidroxibenceno",
-        "C": "m-dihidroxibenceno",
-        "D": "p-xileno",
-        "E": "m-dimetilbenceno"
+        "A": "Tiene la menor cantidad de carbonos posible",
+        "B": "Está formado por un solo anillo de benceno",
+        "C": "Está formado por la fusión de solo dos anillos de benceno",
+        "D": "Es el único que contiene 10 electrones pi",
+        "E": "No tiene sustituyentes"
       },
       "respuesta_correcta": "C",
-      "explicacion": "El Resorcinol es el nombre común para el isómero meta de los dihidroxibencenos. La designación 'meta (m)' corresponde a una sustitución en las posiciones 1 y 3 del anillo de benceno. Por lo tanto, su nombre sistemático es m-dihidroxibenceno o 1,3-dihidroxibenceno.",
+      "explicacion": "Se considera el compuesto aromático fusionado más simple porque su estructura se basa en la unión de dos anillos de benceno compartiendo un lado. Compuestos más complejos, como el antraceno o el fenantreno, están formados por la fusión de tres o más anillos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_010",
-      "pregunta": "Si un compuesto tiene la nomenclatura sistemática 1,2-dimetilbenceno, ¿cuál es su nombre común utilizando la nomenclatura de prefijos?",
+      "pregunta": "¿Cuál es el nombre sistemático (usando números) para el p-xileno?",
       "dificultad": 2,
       "opciones": {
-        "A": "m-xileno",
-        "B": "p-xileno",
-        "C": "Catecol",
-        "D": "o-xileno",
-        "E": "Resorcinol"
+        "A": "1,2-dimetilbenceno",
+        "B": "1,3-dimetilbenceno",
+        "C": "1,4-dimetilbenceno",
+        "D": "1,3,5-trimetilbenceno",
+        "E": "1,4-dietilbenceno"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El nombre común para los isómeros del dimetilbenceno es xileno. La numeración 1,2 indica una disposición 'orto'. Por lo tanto, el 1,2-dimetilbenceno se conoce comúnmente como o-xileno.",
+      "respuesta_correcta": "C",
+      "explicacion": "El prefijo 'para' (p) en p-xileno indica una relación 1,4 entre los sustituyentes. Como 'xileno' se refiere a un dimetilbenceno, el nombre sistemático completo es 1,4-dimetilbenceno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_011",
-      "pregunta": "¿Qué tienen en común las moléculas de o-xileno, m-xileno y p-xileno desde el punto de vista de su composición?",
+      "pregunta": "El Resorcinol y la Hidroquinona son isómeros. ¿Qué tipo de isomería presentan entre sí?",
       "dificultad": 2,
       "opciones": {
-        "A": "Son la misma molécula con diferentes conformaciones.",
-        "B": "Tienen puntos de fusión y ebullición idénticos.",
-        "C": "Todas son isómeros posicionales del dimetilbenceno.",
-        "D": "Tienen diferentes fórmulas moleculares.",
-        "E": "Solo el p-xileno es aromático."
+        "A": "De cadena",
+        "B": "Funcional",
+        "C": "De posición",
+        "D": "Geométrica",
+        "E": "Óptica"
       },
       "respuesta_correcta": "C",
-      "explicacion": "o-xileno (1,2-dimetilbenceno), m-xileno (1,3-dimetilbenceno) y p-xileno (1,4-dimetilbenceno) comparten la misma fórmula molecular pero difieren en la posición de los grupos metilo en el anillo de benceno. Esto los define como isómeros posicionales.",
+      "explicacion": "El Resorcinol (m-dihidroxibenceno) y la Hidroquinona (p-dihidroxibenceno) tienen la misma fórmula molecular ($$C_6H_6O_2$$) y el mismo grupo funcional (dos grupos hidroxilo en un anillo de benceno). La única diferencia es la posición relativa de estos grupos (1,3 vs 1,4), lo que define la isomería de posición.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_012",
-      "pregunta": "La Hidroquinona es un isómero del Catecol. Sabiendo que su nombre sistemático es p-dihidroxibenceno, ¿qué describe correctamente el prefijo 'p'?",
+      "pregunta": "¿Qué tienen en común el o-xileno, m-xileno y p-xileno?",
       "dificultad": 2,
       "opciones": {
-        "A": "El prefijo 'p' indica que los grupos hidroxilo están en posiciones 1,2.",
-        "B": "El prefijo 'p' indica que los grupos hidroxilo están en posiciones opuestas (1,4).",
-        "C": "El prefijo 'p' indica que los grupos hidroxilo están en posiciones 1,3.",
-        "D": "El prefijo 'p' se refiere a la polaridad de la molécula.",
-        "E": "El prefijo 'p' es una abreviatura de 'polihidroxi'."
+        "A": "La misma reactividad química",
+        "B": "El mismo punto de ebullición",
+        "C": "La misma fórmula molecular y los mismos sustituyentes",
+        "D": "El mismo nombre común",
+        "E": "La misma estructura tridimensional"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura de derivados del benceno, el prefijo 'p' (para) especifica que los dos sustituyentes están en posiciones opuestas en el anillo, lo que corresponde a los carbonos 1 y 4. Esto distingue a la Hidroquinona (1,4) del Catecol (1,2, orto) y el Resorcinol (1,3, meta).",
+      "respuesta_correcta": "C",
+      "explicacion": "Los tres compuestos son isómeros de posición del dimetilbenceno. Todos comparten la misma fórmula molecular ($$C_8H_{10}$$) y los mismos sustituyentes (dos grupos metilo). Se diferencian únicamente en la posición relativa de estos grupos en el anillo de benceno, lo que les confiere propiedades físicas y reactividades distintas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_013",
-      "pregunta": "Al comparar el Catecol, el Resorcinol y la Hidroquinona, ¿cuál es el factor estructural fundamental que los diferencia como isómeros?",
+      "pregunta": "Si el compuesto A es 1,2-dihidroxibenceno y el compuesto B es 1,4-dimetilbenceno, ¿qué prefijos de nomenclatura se usarían para sus nombres comunes respectivamente?",
       "dificultad": 3,
       "opciones": {
-        "A": "El número total de átomos de hidrógeno.",
-        "B": "La presencia de diferentes grupos funcionales.",
-        "C": "La posición relativa de los dos grupos hidroxilo en el anillo.",
-        "D": "El número de anillos de benceno en cada molécula.",
-        "E": "El grado de aromaticidad del anillo."
+        "A": "meta y para",
+        "B": "orto y meta",
+        "C": "para y orto",
+        "D": "orto y para",
+        "E": "meta y orto"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los tres compuestos, Catecol (o-dihidroxibenceno), Resorcinol (m-dihidroxibenceno) e Hidroquinona (p-dihidroxibenceno), son isómeros posicionales. Todos tienen la misma fórmula molecular y los mismos grupos funcionales (dos grupos -OH en un anillo de benceno). La única diferencia estructural entre ellos es la posición relativa de estos dos grupos hidroxilo (1,2; 1,3; o 1,4), lo que determina sus propiedades químicas y físicas distintas.",
+      "respuesta_correcta": "D",
+      "explicacion": "El compuesto A, 1,2-dihidroxibenceno, tiene los sustituyentes en posiciones 1 y 2, lo que corresponde al prefijo 'orto' (o). Su nombre común es Catecol o o-dihidroxibenceno. El compuesto B, 1,4-dimetilbenceno, tiene los sustituyentes en posiciones 1 y 4, lo que corresponde al prefijo 'para' (p). Su nombre común es p-xileno. Por lo tanto, los prefijos son 'orto' y 'para', respectivamente.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_014",
-      "pregunta": "¿Cuál de las siguientes afirmaciones relaciona correctamente la nomenclatura numérica y la de prefijos para los bencenos disustituidos?",
+      "pregunta": "Un compuesto tiene dos grupos hidroxilo (-OH) en las posiciones 1 y 3 de un anillo de benceno. ¿Cuál de los siguientes nombres identifica correctamente a esta molécula?",
       "dificultad": 3,
       "opciones": {
-        "A": "Una disposición 1,4 corresponde al prefijo 'orto', y una 1,2 a 'meta'.",
-        "B": "El prefijo 'para' se usa para las posiciones 1,3, y 'meta' para 1,2.",
-        "C": "Una disposición 1,3 corresponde al prefijo 'meta', mientras que una 1,4 corresponde a 'para'.",
-        "D": "El prefijo 'orto' indica sustituyentes en carbonos opuestos (1,4).",
-        "E": "Los prefijos 'orto', 'meta' y 'para' son intercambiables y no dependen de la numeración."
+        "A": "Catecol",
+        "B": "Hidroquinona",
+        "C": "o-xileno",
+        "D": "p-dihidroxibenceno",
+        "E": "Resorcinol"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La correspondencia correcta entre la nomenclatura numérica y la de prefijos es la siguiente: 'orto (o)' para posiciones 1,2; 'meta (m)' para posiciones 1,3; y 'para (p)' para posiciones 1,4. La opción C es la única que presenta dos de estas relaciones de manera correcta.",
+      "respuesta_correcta": "E",
+      "explicacion": "Las posiciones 1 y 3 en un benceno disustituido se indican con el prefijo 'meta' (m). Un benceno con dos grupos hidroxilo en estas posiciones es el m-dihidroxibenceno. El nombre común para esta estructura específica es Resorcinol. Catecol es 1,2 (orto) e Hidroquinona es 1,4 (para).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_285_015",
-      "pregunta": "El o-xileno es el 1,2-dimetilbenceno. Si teóricamente uno de los grupos metilo se moviera a la posición 4, manteniendo el otro en la posición 1, ¿qué isómero se formaría?",
+      "pregunta": "Al comparar la nomenclatura de los xilenos y los dihidroxibencenos, ¿qué se puede inferir sobre el sistema de prefijos orto, meta y para?",
       "dificultad": 3,
       "opciones": {
-        "A": "m-xileno",
-        "B": "Catecol",
-        "C": "p-xileno",
-        "D": "Resorcinol",
-        "E": "Naftaleno"
+        "A": "Solo se aplica a sustituyentes de metilo.",
+        "B": "Solo se aplica a sustituyentes de hidroxilo.",
+        "C": "Depende del tamaño de los sustituyentes.",
+        "D": "Es un sistema general para indicar la posición relativa de dos sustituyentes, independientemente de su naturaleza química.",
+        "E": "Cambia su significado numérico (1,2, 1,3, 1,4) dependiendo de los grupos funcionales involucrados."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Esta pregunta evalúa la aplicación de las reglas de nomenclatura. El compuesto inicial es o-xileno, con grupos metilo en las posiciones 1 y 2. Si un grupo metilo se mueve a la posición 4, la nueva disposición de los sustituyentes sería 1,4. Esta disposición corresponde al isómero 'para', por lo tanto, el compuesto formado sería p-xileno (1,4-dimetilbenceno).",
+      "respuesta_correcta": "D",
+      "explicacion": "Los ejemplos de xilenos (con grupos metilo) y dihidroxibencenos (con grupos hidroxilo) demuestran que el sistema de nomenclatura orto, meta y para es un método general. No depende de la identidad química de los sustituyentes, sino únicamente de su posición relativa en el anillo de benceno (1,2 para orto, 1,3 para meta y 1,4 para para).",
       "imagen": null
     }
   ]

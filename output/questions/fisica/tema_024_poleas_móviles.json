@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 24,
+  "total_temas": 137,
+  "titulo_tema": "Poleas Móviles",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_024_001",
+      "pregunta": "En el contexto de una persona dentro de un ascensor, ¿qué magnitud física representa el peso aparente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa de la persona",
+        "B": "La aceleración del ascensor",
+        "C": "El módulo de la fuerza normal ($$F_N$$)",
+        "D": "El peso real de la persona ($$mg$$)",
+        "E": "La fuerza de fricción con el piso"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso aparente de una persona en un ascensor se define como el módulo de la fuerza normal ($$F_N$$) que ejerce el piso del ascensor sobre la persona. Esta fuerza es la que medimos con una balanza y puede variar dependiendo de la aceleración del ascensor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_002",
+      "pregunta": "¿Cuál es la fórmula correcta para calcular la aceleración $$a$$ en una Máquina de Atwood con masas $$m_1$$ y $$m_2$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$a = \\frac{(m_1 + m_2)g}{m_2 - m_1}$$",
+        "B": "$$a = \\frac{(m_2 - m_1)g}{m_1 + m_2}$$",
+        "C": "$$a = (m_2 - m_1)g$$",
+        "D": "$$a = \\frac{m_1 m_2 g}{m_1 + m_2}$$",
+        "E": "$$a = g$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La aceleración en una Máquina de Atwood está determinada por la diferencia de masas, que genera la fuerza neta, dividida por la masa total del sistema que se está acelerando. La fórmula es $$a = \\frac{(m_2 - m_1)g}{m_1 + m_2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_003",
+      "pregunta": "Para una polea móvil, si las aceleraciones $$a_1$$ y $$a_2$$ de los extremos de la cuerda tienen la misma dirección, ¿cuál es la relación para la aceleración de la polea $$a_3$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$a_3 = a_1 + a_2$$",
+        "B": "$$a_3 = a_1 - a_2$$",
+        "C": "$$a_3 = \\frac{a_1 \\cdot a_2}{2}$$",
+        "D": "$$a_3 = \\frac{a_1 - a_2}{2}$$",
+        "E": "$$a_3 = \\frac{a_1 + a_2}{2}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Cuando las aceleraciones de los extremos de la cuerda ($$a_1$$ y $$a_2$$) apuntan en la misma dirección, la aceleración de la polea móvil ($$a_3$$) es el promedio de estas dos aceleraciones. La relación correcta es $$a_3 = \\frac{a_1 + a_2}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_004",
+      "pregunta": "¿Qué sucede con el peso aparente de una persona dentro de un ascensor que se mueve con velocidad constante?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Aumenta proporcionalmente a la velocidad",
+        "B": "Disminuye proporcionalmente a la velocidad",
+        "C": "Es igual al módulo de su peso real",
+        "D": "Se vuelve cero",
+        "E": "Es el doble de su peso real"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando un ascensor sube o baja con velocidad constante, su aceleración es nula. En esta situación, la fuerza resultante sobre la persona es cero, lo que significa que la fuerza normal (peso aparente) es exactamente igual en módulo a su peso real ($$F_N = mg$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_005",
+      "pregunta": "En un sistema de polea móvil donde uno de los extremos de la cuerda está fijo a una pared, ¿cuál es el valor del módulo de la aceleración de dicho extremo fijo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$g$$",
+        "B": "$$0$$",
+        "C": "$$\\frac{g}{2}$$",
+        "D": "Depende de la masa del objeto colgante",
+        "E": "Es igual a la aceleración del otro extremo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por definición, un objeto que está fijo a una pared no puede moverse. Por lo tanto, su velocidad y su aceleración son nulas. En este caso, si el extremo 2 está fijo, su aceleración $$a_2$$ es igual a 0.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_006",
+      "pregunta": "Si en un sistema de polea móvil una cuerda está fija a la pared ($$a_2 = 0$$) y la otra se mueve con una aceleración $$a_1$$, ¿cuál es la aceleración de la polea $$a_3$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$a_3 = 2a_1$$",
+        "B": "$$a_3 = a_1$$",
+        "C": "$$a_3 = \\frac{a_1}{2}$$",
+        "D": "$$a_3 = a_1 + g$$",
+        "E": "$$a_3 = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este caso es una simplificación del caso general donde las aceleraciones tienen la misma dirección ($$a_3 = \\frac{a_1 + a_2}{2}$$). Al sustituir $$a_2 = 0$$ porque la cuerda está fija, la fórmula se reduce a $$a_3 = \\frac{a_1 + 0}{2} = \\frac{a_1}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_007",
+      "pregunta": "Considere una polea móvil donde los extremos de la cuerda se mueven con aceleraciones $$a_1$$ y $$a_2$$ en direcciones opuestas. ¿Qué fórmula representa la aceleración de la polea, $$a_3$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$a_3 = \\frac{a_1 + a_2}{2}$$",
+        "B": "$$a_3 = a_1 + a_2$$",
+        "C": "$$a_3 = 2(a_1 - a_2)$$",
+        "D": "$$a_3 = \\frac{a_1 - a_2}{2}$$",
+        "E": "$$a_3 = \\frac{a_2 - a_1}{g}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando las aceleraciones de los extremos de la cuerda tienen direcciones contrarias, sus efectos sobre la polea se contraponen. Por lo tanto, la aceleración de la polea ($$a_3$$) se calcula con la semidiferencia de los módulos de las aceleraciones de los extremos: $$a_3 = \\frac{a_1 - a_2}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_008",
+      "pregunta": "Bajo qué condición la fuerza resultante sobre una persona en un ascensor es nula, lo que provoca que su peso aparente sea igual a su peso real?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el ascensor acelera hacia arriba.",
+        "B": "Cuando el ascensor está en caída libre.",
+        "C": "Cuando el ascensor acelera hacia abajo.",
+        "D": "Cuando el ascensor sube o baja con velocidad constante.",
+        "E": "Únicamente cuando el ascensor está en reposo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza resultante nula implica una aceleración nula (Segunda Ley de Newton). Un objeto tiene aceleración nula cuando está en reposo o cuando se mueve con velocidad constante. Por lo tanto, tanto si el ascensor está quieto como si sube o baja a velocidad constante, la fuerza resultante es cero y el peso aparente es igual al peso real.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_009",
+      "pregunta": "En una Máquina de Atwood con masas $$m_1$$ y $$m_2$$, ¿qué se puede inferir a partir de la expresión del numerador, $$(m_2 - m_1)$$, en la fórmula de la aceleración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la aceleración es siempre positiva.",
+        "B": "Que la aceleración siempre es igual a $$g$$.",
+        "C": "Que la suma de las masas no afecta al sistema.",
+        "D": "Que la dirección de la aceleración depende de cuál masa es mayor.",
+        "E": "Que la aceleración es cero solo si las masas son cero."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término $$(m_2 - m_1)$$ en el numerador determina el signo de la aceleración. Si $$m_2 > m_1$$, la aceleración es positiva (el sistema se mueve en la dirección de $$m_2$$). Si $$m_1 > m_2$$, la aceleración es negativa (el sistema se mueve en la dirección de $$m_1$$). Por lo tanto, este término indica la dirección del movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_010",
+      "pregunta": "Si la aceleración de una polea móvil está dada por $$a_3 = \\frac{a_1 + a_2}{2}$$, ¿qué se puede inferir acerca de las direcciones de las aceleraciones $$a_1$$ y $$a_2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tienen direcciones contrarias.",
+        "B": "Tienen la misma dirección.",
+        "C": "Son perpendiculares entre sí.",
+        "D": "Una de ellas debe ser cero.",
+        "E": "Ambas deben ser iguales a la aceleración de la gravedad $$g$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula $$a_3 = \\frac{a_1 + a_2}{2}$$ corresponde al caso específico en que los módulos de las aceleraciones de los extremos de la cuerda ($$a_1$$ y $$a_2$$) se suman, lo que indica que ambos extremos se mueven en la misma dirección, contribuyendo de forma constructiva al movimiento de la polea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_011",
+      "pregunta": "¿Cuál es la diferencia fundamental en el cálculo de la aceleración de una polea móvil ($$a_3$$) cuando las aceleraciones de los extremos ($$a_1, a_2$$) tienen la misma dirección en comparación con cuando tienen direcciones contrarias?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En un caso se multiplica por 2 y en el otro se divide.",
+        "B": "No hay ninguna diferencia, la fórmula es idéntica.",
+        "C": "En un caso se consideran las masas y en el otro no.",
+        "D": "Se usa una suma ($$a_1 + a_2$$) en el primer caso y una resta ($$a_1 - a_2$$) en el segundo.",
+        "E": "Se elevan al cuadrado las aceleraciones en el caso de direcciones contrarias."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La diferencia clave radica en cómo se combinan las aceleraciones de los extremos. Cuando se mueven en la misma dirección, sus efectos se suman: $$a_3 = \\frac{a_1 + a_2}{2}$$. Cuando se mueven en direcciones opuestas, sus efectos se restan: $$a_3 = \\frac{a_1 - a_2}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_012",
+      "pregunta": "Si se observa que la aceleración de una polea móvil es la mitad de la aceleración de uno de los extremos de la cuerda, es decir, $$a_3 = \\frac{a_1}{2}$$, ¿qué situación física describe este escenario?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Las cuerdas se mueven en direcciones opuestas con igual magnitud.",
+        "B": "El sistema está en equilibrio estático.",
+        "C": "La polea está en caída libre.",
+        "D": "Ambas cuerdas se mueven con la misma aceleración $$a_1$$.",
+        "E": "Uno de los extremos de la cuerda está fijo."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula $$a_3 = \\frac{a_1}{2}$$ es un caso particular que se deriva de la relación general $$a_3 = \\frac{a_1 + a_2}{2}$$. Para que esto ocurra, la aceleración del otro extremo, $$a_2$$, debe ser cero. Una aceleración de cero corresponde a un extremo que está fijo, por ejemplo, atado a una pared.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_013",
+      "pregunta": "Analizando la fórmula de la Máquina de Atwood, $$a = \\frac{(m_2 - m_1)g}{m_1 + m_2}$$, ¿bajo qué condición el sistema de masas permanecerá en reposo o se moverá con velocidad constante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Cuando la suma de las masas $$m_1 + m_2$$ es muy grande.",
+        "B": "Cuando una de las masas es el doble de la otra.",
+        "C": "Cuando la cuerda no tiene masa.",
+        "D": "Cuando ambas masas son iguales, $$m_1 = m_2$$.",
+        "E": "Cuando la gravedad $$g$$ es cero."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que el sistema permanezca en reposo o se mueva con velocidad constante, su aceleración $$a$$ debe ser cero. Observando la fórmula, la única forma de que la fracción sea cero (asumiendo $$g \\neq 0$$ y $$m_1+m_2 \\neq 0$$) es que el numerador sea cero. Esto ocurre cuando $$(m_2 - m_1) = 0$$, lo que implica que $$m_1 = m_2$$. En este caso, las fuerzas de peso se equilibran.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_014",
+      "pregunta": "En un sistema de polea móvil, la polea misma permanece estacionaria ($$a_3 = 0$$). Si un extremo de la cuerda se mueve con una aceleración $$a_1$$, ¿qué se puede concluir sobre la aceleración $$a_2$$ del otro extremo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$a_2$$ también debe ser cero.",
+        "B": "La situación es físicamente imposible.",
+        "C": "$$a_2$$ debe tener la misma magnitud que $$a_1$$ pero en dirección opuesta.",
+        "D": "$$a_2$$ debe ser igual a $$a_1$$ y en la misma dirección.",
+        "E": "$$a_2$$ debe ser el doble de $$a_1$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si la polea está estacionaria ($$a_3=0$$), las aceleraciones de los extremos deben anularse. Si un extremo se mueve, el otro debe moverse de tal forma que el efecto neto sea nulo. Esto solo puede ocurrir si se mueven en direcciones opuestas. Usando la fórmula para direcciones opuestas: $$a_3 = \\frac{a_1 - a_2}{2}$$. Si $$a_3=0$$, entonces $$0 = \\frac{a_1 - a_2}{2}$$, lo que implica $$a_1 - a_2 = 0$$, y por tanto, $$a_1 = a_2$$. Esto significa que sus módulos son iguales, y como partimos del supuesto de direcciones opuestas, se concluye que una es la opuesta de la otra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_024_015",
+      "pregunta": "¿Qué concepto físico fundamental es común tanto para la situación de un ascensor que se mueve a velocidad constante como para una Máquina de Atwood con masas iguales?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El concepto de peso aparente.",
+        "B": "La presencia de una polea móvil.",
+        "C": "La dependencia directa de la aceleración de la gravedad $$g$$.",
+        "D": "Una aceleración nula ($$a=0$$) y una fuerza resultante nula.",
+        "E": "La conservación de la energía mecánica."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El punto en común entre ambos escenarios es el principio de inercia o la Primera Ley de Newton. En el ascensor a velocidad constante, la aceleración es cero, y por ende, la fuerza resultante es nula. En la Máquina de Atwood con masas iguales ($$m_1=m_2$$), la fórmula $$a = \\frac{(m_2 - m_1)g}{m_1 + m_2}$$ da como resultado una aceleración de cero, lo que también implica que la fuerza neta sobre el sistema es nula. Ambos son ejemplos de equilibrio dinámico o estático.",
+      "imagen": null
+    }
+  ]
+}

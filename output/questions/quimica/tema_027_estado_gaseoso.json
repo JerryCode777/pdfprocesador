@@ -3,5 +3,231 @@
   "numero_tema": 27,
   "total_temas": 322,
   "titulo_tema": "Estado Gaseoso",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_027_001",
+      "pregunta": "¿Cuál de los siguientes estados de la materia se caracteriza por tener un volumen definido pero una forma indefinida?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Gaseoso",
+        "C": "Líquido",
+        "D": "Plasmático",
+        "E": "Cristalino"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El estado líquido se define por tener un volumen constante y definido, pero su forma es indefinida, ya que se adapta al recipiente que lo contiene. El sólido tiene forma y volumen definidos, mientras que el gaseoso tiene ambos indefinidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_002",
+      "pregunta": "¿Qué estado de agregación se define por ser compresible y no tener forma ni volumen definidos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Gaseoso",
+        "C": "Líquido",
+        "D": "Plasmático",
+        "E": "Amorfo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El estado gaseoso se caracteriza porque sus partículas están muy separadas, lo que le confiere las propiedades de no tener forma ni volumen propios (se expanden para llenar el recipiente) y de ser compresible (su volumen puede reducirse aplicando presión).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_003",
+      "pregunta": "En el estado sólido, las moléculas se caracterizan principalmente por...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "moverse libremente a grandes distancias.",
+        "B": "tener un equilibrio entre cohesión y repulsión.",
+        "C": "estar ionizadas y conducir electricidad.",
+        "D": "mantenerse juntas de manera ordenada, con escasa libertad de movimiento.",
+        "E": "predominar las fuerzas de repulsión."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En el estado sólido, las fuerzas de cohesión son mucho mayores que las de repulsión, lo que obliga a las partículas a ocupar posiciones fijas en una estructura ordenada, permitiéndoles solo vibrar en su lugar con muy poca libertad de movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_004",
+      "pregunta": "¿Cómo se genera principalmente el estado plasmático?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Por congelación a temperaturas muy bajas.",
+        "B": "Por combustión a temperaturas muy altas.",
+        "C": "Por la mezcla de un sólido y un líquido.",
+        "D": "Por un aumento extremo de la presión.",
+        "E": "Por disolución en un solvente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El estado plasmático se forma cuando un gas es sometido a temperaturas extremadamente altas (entre 1,000 y 10,000 °C), lo que provoca que los átomos pierdan sus electrones y se conviertan en un gas ionizado de cationes y electrones libres.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_005",
+      "pregunta": "¿Cuál es la característica principal de la materia en estado sólido en cuanto a su forma y volumen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Forma indefinida, volumen definido.",
+        "B": "Forma y volumen definidos.",
+        "C": "Forma y volumen indefinidos.",
+        "D": "Forma definida, volumen indefinido.",
+        "E": "Forma y volumen variables según la presión."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los sólidos poseen una estructura rígida y ordenada debido a las fuertes fuerzas de cohesión entre sus partículas. Esto les confiere tanto una forma como un volumen definidos y constantes, a diferencia de los líquidos y gases.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_006",
+      "pregunta": "¿Qué relación matemática describe correctamente las fuerzas intermoleculares en el estado gaseoso, donde $$F_c$$ es la fuerza de cohesión y $$F_r$$ es la fuerza de repulsión?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_c > F_r$$",
+        "B": "$$F_c = F_r$$",
+        "C": "$$F_c < F_r$$",
+        "D": "$$F_c + F_r = 0$$",
+        "E": "$$F_c \\approx F_r$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el estado gaseoso, las fuerzas de repulsión ($$F_r$$) predominan sobre las fuerzas de cohesión ($$F_c$$). Esta dominancia de la repulsión es la razón por la cual las moléculas de gas se separan unas de otras por grandes distancias y ocupan todo el volumen disponible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_007",
+      "pregunta": "¿Cuál de los siguientes estados de la materia es capaz de conducir electricidad y ser influenciado por campos magnéticos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sólido",
+        "B": "Líquido",
+        "C": "Gaseoso",
+        "D": "Plasmático",
+        "E": "Coloidal"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El estado plasmático está compuesto por iones (cationes) y electrones libres. La presencia de estas partículas cargadas en movimiento le confiere la capacidad de conducir la corriente eléctrica y de ser afectado por campos magnéticos, a diferencia de los otros estados de agregación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_008",
+      "pregunta": "La propiedad de los gases de ser compresibles se debe fundamentalmente a que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "las fuerzas de cohesión son muy fuertes.",
+        "B": "sus moléculas tienen una forma perfectamente esférica.",
+        "C": "las moléculas están separadas entre sí por distancias grandes.",
+        "D": "su volumen es definido y constante.",
+        "E": "las fuerzas de cohesión y repulsión están en equilibrio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La compresibilidad de los gases es una consecuencia directa de la gran distancia que existe entre sus moléculas. Este espacio vacío permite que las partículas puedan ser forzadas a acercarse unas a otras cuando se aplica una presión externa, reduciendo el volumen total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_009",
+      "pregunta": "¿Qué determina principalmente el estado de agregación de la materia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa total de la sustancia.",
+        "B": "El color y el olor de la sustancia.",
+        "C": "El grado de movimiento de sus partículas (energía cinética molecular).",
+        "D": "La forma del recipiente que la contiene.",
+        "E": "Únicamente la presión atmosférica del entorno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El estado de agregación (sólido, líquido o gaseoso) depende directamente de la energía cinética de sus partículas. A mayor energía cinética, mayor movimiento y libertad de las partículas, lo que se traduce en pasar de sólido a líquido y luego a gas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_010",
+      "pregunta": "En el estado líquido, el balance entre las fuerzas intermoleculares se representa como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fuerzas de cohesión > Fuerzas de repulsión",
+        "B": "Fuerzas de cohesión < Fuerzas de repulsión",
+        "C": "Fuerzas de cohesión = Fuerzas de repulsión",
+        "D": "Únicamente existen fuerzas de cohesión",
+        "E": "Únicamente existen fuerzas de repulsión"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El estado líquido se caracteriza por un equilibrio entre las fuerzas de cohesión (que tienden a mantener unidas las moléculas) y las fuerzas de repulsión (que tienden a separarlas). Este balance permite que las moléculas se muevan y deslicen unas sobre otras, pero sin separarse completamente como en un gas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_011",
+      "pregunta": "¿Por qué se considera al estado plasmático el material más abundante del Universo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque se genera a temperatura ambiente en la Tierra.",
+        "B": "Porque forma la mayor parte del núcleo terrestre.",
+        "C": "Porque constituye las estrellas, nebulosas y otros cuerpos estelares.",
+        "D": "Porque es el principal componente de los océanos.",
+        "E": "Porque todos los gases se convierten en plasma fácilmente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El estado plasmático es el más abundante en el cosmos debido a que los objetos más masivos y numerosos del universo, como las estrellas (incluido el Sol) y las nebulosas gaseosas, están compuestos principalmente de plasma debido a sus altísimas temperaturas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_012",
+      "pregunta": "¿Cuál es la principal diferencia entre un gas y un sólido en términos de las fuerzas intermoleculares?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En el sólido predominan las fuerzas de repulsión y en el gas las de cohesión.",
+        "B": "En el sólido predominan las fuerzas de cohesión y en el gas las de repulsión.",
+        "C": "En ambos estados las fuerzas están en equilibrio.",
+        "D": "En el gas no existen fuerzas intermoleculares, solo en el sólido.",
+        "E": "En el sólido las fuerzas son iguales y en el gas son diferentes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia fundamental radica en el balance de fuerzas. En el estado sólido, las fuerzas de cohesión ($$F_c$$) son mucho mayores que las de repulsión ($$F_r$$), manteniendo las partículas en una estructura fija. En el estado gaseoso, ocurre lo contrario: las fuerzas de repulsión son mayores que las de cohesión ($$F_r > F_c$$), lo que provoca la expansión de las partículas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_013",
+      "pregunta": "Una sustancia es transferida de un recipiente pequeño a uno mucho más grande. Se observa que ocupa todo el volumen del nuevo recipiente y su forma se adapta a él. ¿Qué se puede inferir sobre las fuerzas intermoleculares de esta sustancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las fuerzas de cohesión son significativamente mayores que las de repulsión.",
+        "B": "Las fuerzas de cohesión y repulsión están perfectamente equilibradas.",
+        "C": "Las fuerzas de repulsión predominan sobre las de cohesión.",
+        "D": "Las fuerzas intermoleculares son inexistentes.",
+        "E": "Las partículas están en una estructura ordenada y rígida."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El comportamiento descrito (adaptar forma y volumen al recipiente) es la definición del estado gaseoso. Esta propiedad se debe a que en los gases, las fuerzas de repulsión entre las moléculas son mayores que las fuerzas de cohesión. Esto causa que las moléculas se separen lo más posible, ocupando todo el espacio disponible.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_014",
+      "pregunta": "Un gas es sometido a un proceso de combustión a una temperatura de $8,000 \\ ^\\circ C$. Como resultado, sus átomos pierden electrones y se convierten en cationes. ¿Qué cambio fundamental ocurre en las propiedades de la sustancia?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se vuelve incompresible y con forma definida.",
+        "B": "Pierde su capacidad de movimiento molecular.",
+        "C": "Se convierte en un sólido cristalino.",
+        "D": "Adquiere la capacidad de conducir electricidad.",
+        "E": "Sus fuerzas de cohesión se vuelven dominantes."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Al calentar un gas a una temperatura tan alta ($8,000 \\ ^\\circ C$), este se ioniza, transformándose en plasma. El plasma está compuesto por iones positivos (cationes) y electrones libres. La presencia de estas partículas cargadas eléctricamente y con libertad de movimiento permite que el plasma conduzca la electricidad, una propiedad que el gas neutro no posee.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_027_015",
+      "pregunta": "Al comparar los estados sólido, líquido y gaseoso, ¿cuál representa una condición intermedia en términos de libertad de movimiento molecular y equilibrio de fuerzas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Sólido, porque sus partículas vibran en un punto fijo.",
+        "B": "Gaseoso, porque sus partículas se mueven caóticamente.",
+        "C": "Plasmático, porque es un gas con propiedades eléctricas.",
+        "D": "Líquido, porque sus partículas pueden moverse pero permanecen juntas.",
+        "E": "Todos los estados tienen el mismo grado de libertad de movimiento."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El estado líquido es el estado intermedio entre el orden rígido del sólido y el caos del gas. Sus partículas tienen más libertad de movimiento que en un sólido (pueden fluir), pero menos que en un gas (no se separan indefinidamente). Este comportamiento se debe al equilibrio entre las fuerzas de cohesión y repulsión ($$F_c = F_r$$), que también es una condición intermedia entre el dominio de la cohesión (sólido) y el de la repulsión (gas).",
+      "imagen": null
+    }
+  ]
 }

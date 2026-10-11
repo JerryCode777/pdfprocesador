@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 94,
+  "total_temas": 137,
+  "titulo_tema": "Primera Ley de la Termodinámica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_094_001",
+      "pregunta": "¿Qué establece fundamentalmente la primera ley de la termodinámica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La relación entre la temperatura y la presión de un gas ideal.",
+        "B": "La relación entre los cambios en la energía interna, el calor y el trabajo.",
+        "C": "Que la energía no se puede transferir como calor.",
+        "D": "Que el trabajo realizado por un sistema es siempre positivo.",
+        "E": "La dirección en la que fluye el calor espontáneamente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La primera ley de la termodinámica es una declaración del principio de conservación de la energía, y específicamente relaciona cómo la energía interna de un sistema cambia debido a la transferencia de energía en forma de calor y el trabajo realizado sobre o por el sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_002",
+      "pregunta": "En la ecuación de la primera ley de la termodinámica, ¿qué representa la variable $Q$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El trabajo realizado por el sistema.",
+        "B": "La energía que se intercambia entre el sistema y el entorno.",
+        "C": "El cambio en la temperatura del sistema.",
+        "D": "La energía interna inicial del sistema.",
+        "E": "La capacidad calorífica del sistema."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La variable $Q$ en la primera ley de la termodinámica representa el calor, que es la energía intercambiada entre un sistema y su entorno debido a una diferencia de temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_003",
+      "pregunta": "¿Qué significa que el trabajo $W$ sea positivo ($W > 0$) en el contexto de la primera ley de la termodinámica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El sistema realiza trabajo sobre el entorno.",
+        "B": "Se realiza trabajo sobre el sistema.",
+        "C": "El sistema pierde energía en forma de trabajo.",
+        "D": "No hay intercambio de energía por trabajo.",
+        "E": "La energía interna del sistema disminuye."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una convención común en termodinámica, y la presentada en la fórmula, es que un valor de trabajo positivo ($W > 0$) significa que el entorno realiza trabajo sobre el sistema, transfiriéndole energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_004",
+      "pregunta": "¿Cómo se calcula el cambio en la energía interna, $\\Delta U$, de un sistema?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sumando la energía inicial y la final: $$U_i + U_f$$",
+        "B": "Multiplicando el calor por el trabajo: $$Q \\cdot W$$",
+        "C": "Restando la energía interna inicial de la final: $$U_f - U_i$$",
+        "D": "Dividiendo el calor entre el trabajo: $$\\frac{Q}{W}$$",
+        "E": "Restando la energía interna final de la inicial: $$U_i - U_f$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cambio en cualquier cantidad de estado, como la energía interna, se define como el valor final menos el valor inicial. Por lo tanto, el cambio en la energía interna $\\Delta U$ es igual a la energía interna final $U_f$ menos la energía interna inicial $U_i$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_005",
+      "pregunta": "¿Qué indica un valor de calor positivo ($Q > 0$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que el sistema libera calor hacia el entorno.",
+        "B": "Que la temperatura del sistema disminuye.",
+        "C": "Que se transfiere energía del entorno al sistema.",
+        "D": "Que el proceso es adiabático (sin intercambio de calor).",
+        "E": "Que el sistema se enfría."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un valor de $Q$ positivo significa que hay una transferencia neta de energía en forma de calor desde el entorno hacia el sistema. Esto generalmente resulta en un aumento de la energía interna del sistema, a menos que el sistema realice una cantidad equivalente de trabajo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_006",
+      "pregunta": "¿Cuál de las siguientes ecuaciones representa correctamente la primera ley de la termodinámica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Delta U = Q - W$$",
+        "B": "$$W = Q + \\Delta U$$",
+        "C": "$$\\Delta U = W - Q$$",
+        "D": "$$Q = W - \\Delta U$$",
+        "E": "$$\\Delta U = Q + W$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La primera ley de la termodinámica se expresa matemáticamente como $$\\Delta U = Q + W$$, donde $$\\Delta U$$ es el cambio en la energía interna, $Q$ es el calor añadido al sistema y $W$ es el trabajo realizado sobre el sistema. Las otras opciones representan reordenamientos incorrectos o convenciones de signos diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_007",
+      "pregunta": "Si un sistema experimenta un cambio de un estado inicial a uno final, la primera ley de la termodinámica conecta el cambio en su energía interna con:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente la temperatura final del sistema.",
+        "B": "La presión y el volumen del sistema.",
+        "C": "Las transferencias de energía debidas al calor y al trabajo.",
+        "D": "Únicamente el trabajo realizado sobre el sistema.",
+        "E": "La masa y la velocidad del sistema."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ley establece que el cambio en la energía interna ($$\\Delta U$$) es exactamente igual a la suma de la energía transferida al sistema como calor ($Q$) y la energía transferida al sistema como trabajo ($W$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_008",
+      "pregunta": "Si a un sistema se le suministra calor ($Q > 0$) y, al mismo tiempo, se realiza trabajo sobre él ($W > 0$), ¿qué le ocurre a su energía interna ($$\\Delta U$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye.",
+        "B": "Permanece constante.",
+        "C": "Aumenta.",
+        "D": "Se vuelve cero.",
+        "E": "Es imposible determinarlo sin conocer los valores."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la ecuación $$\\Delta U = Q + W$$, si tanto $Q$ como $W$ son positivos, la suma de dos números positivos dará como resultado un número positivo. Por lo tanto, el cambio en la energía interna $$\\Delta U$$ será positivo, lo que significa que la energía interna del sistema aumenta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_009",
+      "pregunta": "Si el cambio en la energía interna de un sistema es positivo ($$\\Delta U > 0$$), ¿cuál es la relación entre su energía interna final ($U_f$) y su energía interna inicial ($U_i$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$U_f < U_i$$",
+        "B": "$$U_f = U_i$$",
+        "C": "$$U_f > U_i$$",
+        "D": "$$U_f = 0$$",
+        "E": "$$U_i = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cambio en la energía interna se define como $$\\Delta U = U_f - U_i$$. Si $$\\Delta U$$ es positivo, significa que $$U_f - U_i > 0$$. Al sumar $U_i$ a ambos lados de la desigualdad, obtenemos que $$U_f > U_i$$, lo que indica que la energía interna final es mayor que la inicial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_010",
+      "pregunta": "La primera ley de la termodinámica, expresada como $$\\Delta U = Q + W$$, es una manifestación de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ley de la gravitación universal.",
+        "B": "El principio de conservación de la energía.",
+        "C": "La segunda ley de Newton.",
+        "D": "El principio de Arquímedes.",
+        "E": "La ley de los gases ideales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La primera ley de la termodinámica es esencialmente una reformulación del principio de conservación de la energía. Afirma que la energía no se crea ni se destruye, solo se transforma. El cambio en la energía interna de un sistema es igual a la energía neta que se le transfiere (como calor y trabajo).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_011",
+      "pregunta": "Un sistema pasa de un estado inicial con energía interna $U_i$ a un estado final con energía $U_f$. ¿Cuál es el significado físico de la cantidad $$\\Delta U = U_f - U_i$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es el calor total que el sistema puede almacenar.",
+        "B": "Es el trabajo máximo que el sistema puede realizar.",
+        "C": "Es el cambio neto en la energía interna del sistema durante el proceso.",
+        "D": "Es la energía transferida únicamente como calor.",
+        "E": "Es la temperatura promedio del sistema durante el proceso."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La expresión $$\\Delta U = U_f - U_i$$ representa por definición el cambio neto en la energía interna del sistema. La primera ley de la termodinámica luego relaciona este cambio con las interacciones energéticas con el entorno, es decir, el calor ($Q$) y el trabajo ($W$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_012",
+      "pregunta": "Si la energía interna de un sistema aumenta, ¿qué combinación de calor ($Q$) y trabajo ($W$) podría explicar este cambio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$Q < 0$ y $W < 0$",
+        "B": "$Q = 0$ y $W < 0$",
+        "C": "$Q > 0$ y $W > 0$",
+        "D": "$Q < 0$ y $W = 0$",
+        "E": "$Q$ es negativo y $W$ es positivo, con $|Q| > |W|$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que la energía interna aumente, el cambio $$\\Delta U$$ debe ser positivo. Según la ecuación $$\\Delta U = Q + W$$, esto ocurre si la suma de $Q$ y $W$ es positiva. La opción C, donde tanto el calor añadido como el trabajo realizado sobre el sistema son positivos ($Q > 0$ y $W > 0$), garantiza un $$\\Delta U$$ positivo. Las otras opciones resultarían en un $$\\Delta U$$ negativo o cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_013",
+      "pregunta": "En un proceso donde la energía interna de un sistema permanece constante ($$\\Delta U = 0$$), ¿cuál es la relación entre el calor intercambiado ($Q$) y el trabajo realizado ($W$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$Q = W$$",
+        "B": "$$Q = -W$$",
+        "C": "$$Q = 0$$ y $$W = 0$$",
+        "D": "$$Q > W$$",
+        "E": "$$W > Q$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si la energía interna no cambia, $$\\Delta U = 0$$. Sustituyendo esto en la primera ley de la termodinámica, obtenemos $$0 = Q + W$$. Al restar $W$ de ambos lados de la ecuación, encontramos que $$Q = -W$$. Esto significa que el calor añadido al sistema es igual en magnitud pero de signo opuesto al trabajo realizado sobre el sistema (o, de forma equivalente, el calor añadido es igual al trabajo realizado por el sistema).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_014",
+      "pregunta": "Un sistema experimenta un proceso en el que su energía interna disminuye ($$\\Delta U < 0$$). Si durante este proceso se le transfiere calor al sistema ($Q > 0$), ¿qué se puede concluir acerca del trabajo $W$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$W$ debe ser positivo y mayor que $Q$.",
+        "B": "$W$ debe ser cero.",
+        "C": "$W$ debe ser positivo pero menor que $Q$.",
+        "D": "$W$ debe ser negativo y su magnitud mayor que $Q$.",
+        "E": "$W$ debe ser negativo y su magnitud menor que $Q$."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La primera ley es $$\\Delta U = Q + W$$. Se nos dice que $$\\Delta U < 0$$ (es negativo) y $Q > 0$ (es positivo). Para que la suma de un número positivo ($Q$) y $W$ resulte en un número negativo ($$\\Delta U$$), $W$ debe ser necesariamente negativo. Además, la magnitud de $W$ debe ser mayor que la magnitud de $Q$ para que el resultado final sea negativo. Por lo tanto, $W < 0$ y $|W| > |Q|$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_094_015",
+      "pregunta": "Si el trabajo realizado sobre un sistema es $W > 0$ y el calor transferido al sistema es $Q > 0$, ¿cómo se compara el cambio en la energía interna ($$\\Delta U$$) con $Q$ y $W$ individualmente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$\\Delta U$$ es menor que $Q$ y menor que $W$.",
+        "B": "$$\\Delta U$$ es igual a $Q$ y mayor que $W$.",
+        "C": "$$\\Delta U$$ es mayor que $Q$ y mayor que $W$.",
+        "D": "$$\\Delta U$$ es igual a la diferencia entre $Q$ y $W$.",
+        "E": "$$\\Delta U$$ es menor que $Q$ pero mayor que $W$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación es $$\\Delta U = Q + W$$. Dado que tanto $Q$ como $W$ son cantidades positivas, su suma ($$\\Delta U$$) será necesariamente mayor que cada uno de los términos individuales. Por ejemplo, si $Q = 10$ J y $W = 5$ J, $$\\Delta U = 15$$ J, que es mayor que 10 J y mayor que 5 J. Por lo tanto, $$\\Delta U > Q$$ y $$\\Delta U > W$$.",
+      "imagen": null
+    }
+  ]
+}

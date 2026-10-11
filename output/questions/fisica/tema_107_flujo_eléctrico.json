@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 107,
+  "total_temas": 137,
+  "titulo_tema": "Flujo eléctrico",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_107_001",
+      "pregunta": "¿Cuál es la unidad del flujo eléctrico (ΦE) en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "newton/coulomb (N/C)",
+        "B": "metro cuadrado (m²)",
+        "C": "newton (N)",
+        "D": "N·m²/C",
+        "E": "coulomb (C)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La unidad del flujo eléctrico, denotado como $Φ_E$, en el Sistema Internacional es el Newton por metro cuadrado sobre Coulomb, expresado como N·m²/C. Esta unidad se deriva de la fórmula del flujo eléctrico, $$Φ_E = EA \\cos θ$$, donde $E$ se mide en N/C y $A$ en m².",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_002",
+      "pregunta": "En un campo eléctrico uniforme, ¿qué dirección tiene la fuerza eléctrica que actúa sobre una carga puntual negativa (-q)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La misma dirección que las líneas de campo.",
+        "B": "Dirección opuesta a las líneas de campo.",
+        "C": "Dirección perpendicular a las líneas de campo.",
+        "D": "La fuerza es siempre nula.",
+        "E": "En una dirección de 45° con respecto a las líneas de campo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una carga puntual negativa colocada en un campo eléctrico uniforme experimenta una fuerza eléctrica cuya dirección es opuesta a la dirección de las líneas de campo eléctrico. En contraste, una carga positiva experimentaría una fuerza en la misma dirección que el campo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_003",
+      "pregunta": "¿Qué tipo de cantidad física es el flujo del campo eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Escalar",
+        "B": "Vectorial",
+        "C": "Tensorial",
+        "D": "Adimensional",
+        "E": "Fundamental"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El flujo del campo eléctrico ($Φ_E$) es una cantidad física escalar. Aunque se calcula a partir de magnitudes vectoriales como el campo eléctrico y el vector normal a la superficie, el resultado del producto punto implícito en la fórmula ($$E A \\cos \theta$$) es un número (un escalar) que representa la cantidad de líneas de campo que atraviesan una superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_004",
+      "pregunta": "¿Cómo se define la energía potencial eléctrica ($U$) de una carga $q_0$ en un punto 'P' de un campo eléctrico externo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como el trabajo realizado para mover la carga desde 'P' hasta el infinito.",
+        "B": "Como la fuerza por unidad de carga en el punto 'P'.",
+        "C": "Como el trabajo realizado para traer dicha carga desde el infinito hasta el punto 'P'.",
+        "D": "Como el flujo eléctrico que atraviesa una superficie en 'P'.",
+        "E": "Como la energía cinética que adquiere la carga en el punto 'P'."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial eléctrica ($U$) en un punto 'P' se define como el trabajo ($W$) que debe realizar un agente externo para mover una carga de prueba $q_0$ desde una posición de referencia en el infinito hasta ese punto 'P', venciendo la fuerza del campo eléctrico. Se representa como $$U = W(∞→P)$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_005",
+      "pregunta": "En la fórmula del flujo eléctrico $$Φ_E = EA \\cos θ$$, ¿qué representa la variable $A$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La aceleración de la carga.",
+        "B": "El área de la superficie.",
+        "C": "La amplitud del campo eléctrico.",
+        "D": "El ángulo con la superficie.",
+        "E": "Una constante de proporcionalidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la expresión para el flujo eléctrico, $$Φ_E = EA \\cos θ$$, la variable $A$ representa el área de la superficie a través de la cual se calcula el flujo. Su unidad en el Sistema Internacional es el metro cuadrado ($m²$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_006",
+      "pregunta": "¿Bajo qué condición el flujo del campo eléctrico a través de una superficie se considera positivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Si las líneas de campo eléctrico ingresan a la superficie.",
+        "B": "Si las líneas de campo eléctrico son paralelas a la superficie.",
+        "C": "Si la superficie es cerrada.",
+        "D": "Si las líneas de campo eléctrico salen de la superficie.",
+        "E": "Si el ángulo $θ$ es mayor a 90°."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El signo del flujo eléctrico depende de la dirección relativa entre el campo eléctrico y la normal a la superficie. Por convención, el flujo es positivo cuando las líneas de campo eléctrico salen de la cara externa de la superficie. Es negativo cuando las líneas ingresan a la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_007",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa correctamente el cálculo del flujo eléctrico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Φ_E = EA \\sin θ$$",
+        "B": "$$Φ_E = E/A \\cos θ$$",
+        "C": "$$Φ_E = EA \\cos θ$$",
+        "D": "$$Φ_E = E A$$",
+        "E": "$$Φ_E = k \\frac{Q}{r^2}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula correcta para el flujo eléctrico ($Φ_E$) a través de una superficie plana en un campo uniforme es $$Φ_E = EA \\cos θ$$. Esta fórmula relaciona la intensidad del campo eléctrico ($E$), el área de la superficie ($A$) y el coseno del ángulo ($θ$) entre el vector del campo eléctrico y el vector normal a la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_008",
+      "pregunta": "¿Qué valor tiene el flujo del campo eléctrico a través de una superficie si las líneas de campo son paralelas a dicha superficie?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Máximo positivo",
+        "B": "Máximo negativo",
+        "C": "Nulo",
+        "D": "Infinito",
+        "E": "Depende del área de la superficie"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si las líneas de campo eléctrico son paralelas a la superficie, significa que son perpendiculares al vector normal de la superficie. En este caso, el ángulo $θ$ entre el campo y la normal es de 90°. Dado que $$ \\cos 90° = 0 $$, el flujo eléctrico, calculado como $$Φ_E = EA \\cos 90°$$, es nulo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_009",
+      "pregunta": "En un campo eléctrico uniforme, ¿cómo es la dirección de la fuerza eléctrica sobre una carga puntual positiva (+q) en relación con las líneas de campo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Opuesta a las líneas de campo.",
+        "B": "Perpendicular a las líneas de campo.",
+        "C": "No existe fuerza sobre la carga.",
+        "D": "La misma que las líneas de campo.",
+        "E": "Forma un ángulo de 45° con las líneas de campo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando una carga puntual positiva (+q) se encuentra en un campo eléctrico uniforme, la fuerza eléctrica que actúa sobre ella tiene la misma dirección y sentido que las líneas de campo eléctrico. Esto es una propiedad fundamental de la interacción entre cargas y campos eléctricos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_010",
+      "pregunta": "¿En qué situación el flujo del campo eléctrico a través de una superficie alcanza su valor máximo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cuando el ángulo $θ$ entre el campo y la normal es 90°.",
+        "B": "Cuando el campo eléctrico es paralelo a la superficie.",
+        "C": "Cuando el ángulo $θ$ entre el campo y la normal es 0°.",
+        "D": "Cuando la superficie es esférica.",
+        "E": "Cuando el campo eléctrico es nulo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo eléctrico se calcula con $$Φ_E = EA \\cos θ$$. La función coseno tiene su valor máximo, que es 1, cuando el ángulo es 0°. Por lo tanto, el flujo es máximo cuando el ángulo $θ$ entre el campo eléctrico y el vector normal a la superficie es 0°, lo que significa que el campo es perpendicular a la superficie. En este caso, $$Φ_E = EA$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_011",
+      "pregunta": "¿Cuál es el valor del flujo del campo eléctrico a través de una superficie cerrada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre positivo",
+        "B": "Siempre nulo",
+        "C": "Siempre negativo",
+        "D": "Máximo",
+        "E": "Depende de la forma de la superficie"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una propiedad fundamental del flujo eléctrico es que, para una superficie cerrada, el flujo total a través de ella es siempre nulo. Esto implica que la misma cantidad de líneas de campo que entran a la superficie también salen de ella.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_012",
+      "pregunta": "En el contexto de la energía potencial eléctrica, la expresión $$U = k \frac{Q q_0}{d}$$ relaciona la energía potencial con dos cargas. ¿Qué representa $U$ en esta fórmula?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El flujo eléctrico",
+        "B": "La fuerza eléctrica",
+        "C": "El campo eléctrico",
+        "D": "La energía potencial eléctrica",
+        "E": "La constante de Coulomb"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula $$U = k \frac{Q q_0}{d}$$ describe la energía potencial eléctrica ($U$) de un sistema de dos cargas puntuales, $Q$ y $q_0$, separadas por una distancia $d$. Esta energía representa el trabajo necesario para juntar estas cargas desde una separación infinita.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_013",
+      "pregunta": "Si un campo eléctrico uniforme es perfectamente perpendicular a una superficie plana, ¿cuál es el valor del ángulo $θ$ utilizado en la fórmula del flujo $$Φ_E = EA \\cos θ$$ y cuál es la magnitud del flujo resultante?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$θ = 90°$$, y el flujo es nulo ($$Φ_E = 0$$).",
+        "B": "$$θ = 0°$$, y el flujo es máximo ($$Φ_E = EA$$).",
+        "C": "$$θ = 90°$$, y el flujo es máximo ($$Φ_E = EA$$).",
+        "D": "$$θ = 0°$$, y el flujo es nulo ($$Φ_E = 0$$).",
+        "E": "$$θ = 180°$$, y el flujo es negativo ($$Φ_E = -EA$$)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El ángulo $θ$ en la fórmula del flujo es el ángulo entre el campo eléctrico ($E$) y la normal a la superficie. Si el campo es perpendicular a la superficie, entonces es paralelo a la normal. Por lo tanto, el ángulo $θ$ es 0°. Como $$ \\cos 0° = 1 $$, el flujo eléctrico es máximo, con un valor de $$Φ_E = EA(1) = EA$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_014",
+      "pregunta": "Una carga positiva $+q$ y una carga negativa $-q$ se colocan en el mismo campo eléctrico uniforme. ¿Cómo se comparan las direcciones de las fuerzas eléctricas que actúan sobre ellas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambas fuerzas tienen la misma dirección que el campo eléctrico.",
+        "B": "Ambas fuerzas tienen una dirección opuesta al campo eléctrico.",
+        "C": "Las fuerzas tienen direcciones opuestas entre sí.",
+        "D": "La fuerza sobre $+q$ es perpendicular a la fuerza sobre $-q$.",
+        "E": "La fuerza es nula para ambas cargas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza sobre una carga positiva ($+q$) tiene la misma dirección que el campo eléctrico. La fuerza sobre una carga negativa ($-q$) tiene la dirección opuesta al campo eléctrico. Por lo tanto, si ambas están en el mismo campo, las fuerzas que actúan sobre ellas tendrán direcciones exactamente opuestas una de la otra.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_107_015",
+      "pregunta": "Considerando la fórmula $$Φ_E = EA \\cos θ$$, ¿cuál es la razón matemática por la que el flujo eléctrico es nulo cuando el ángulo $θ$ entre el campo eléctrico y la normal a la superficie es de 90°?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el valor del área $A$ se considera cero en esa orientación.",
+        "B": "Porque el campo eléctrico $E$ se anula en esa configuración.",
+        "C": "Porque el coseno de 90° es igual a 1, lo que maximiza la fórmula.",
+        "D": "Porque el coseno de 90° es igual a 0.",
+        "E": "Porque el flujo solo puede ser cero para superficies cerradas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La anulación del flujo eléctrico en esta condición es una consecuencia directa de la propiedad matemática de la función coseno. El valor de $$ \\cos 90° $$ es exactamente 0. Al sustituir este valor en la fórmula del flujo, $$Φ_E = EA \\cos 90° = EA(0)$$, el resultado es 0, independientemente de los valores del campo eléctrico $E$ y del área $A$. Esto significa que ninguna línea de campo atraviesa la superficie.",
+      "imagen": null
+    }
+  ]
+}

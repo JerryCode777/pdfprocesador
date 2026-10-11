@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 35,
+  "total_temas": 137,
+  "titulo_tema": "Energía Potencial Elástica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_035_001",
+      "pregunta": "¿Cuál es la unidad de medida de la energía potencial elástica (EPE) en el Sistema Internacional de Unidades (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "newton por metro (N/m)",
+        "B": "metro (m)",
+        "C": "joule (J)",
+        "D": "kilogramo (kg)",
+        "E": "newton (N)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial elástica, como cualquier otra forma de energía, se mide en joules (J) en el Sistema Internacional. Las otras opciones representan unidades de otras magnitudes físicas: N/m es para la constante elástica, m para la deformación, kg para la masa y N para la fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_002",
+      "pregunta": "¿Qué tipo de medida es la energía potencial elástica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Vectorial",
+        "B": "Longitudinal",
+        "C": "Angular",
+        "D": "Escalar",
+        "E": "Dimensional"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía potencial elástica es una medida escalar, lo que significa que se describe completamente con un número y su unidad correspondiente (joules), sin necesidad de especificar una dirección. Las magnitudes vectoriales, en cambio, requieren tanto magnitud como dirección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_003",
+      "pregunta": "¿En qué situación la energía potencial elástica de un cuerpo es nula?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando está completamente estirado",
+        "B": "Cuando está completamente comprimido",
+        "C": "Cuando está por debajo de un nivel de referencia",
+        "D": "Cuando no está deformado",
+        "E": "Cuando su masa es cero"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía potencial elástica existe solo cuando un cuerpo elástico está deformado (estirado o comprimido). Si el cuerpo se encuentra en su estado de equilibrio, es decir, sin deformación, su energía potencial elástica es nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_004",
+      "pregunta": "Según la fórmula $$EPE = \\frac{1}{2}kx^2$$, ¿cuál es la unidad de la constante de elasticidad $k$ en el S.I.?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "joule (J)",
+        "B": "metro (m)",
+        "C": "kilogramo (kg)",
+        "D": "newton por metro (N/m)",
+        "E": "metro por segundo al cuadrado (m/s²)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La constante de elasticidad, representada por $k$, mide la rigidez de un cuerpo elástico. Su unidad en el Sistema Internacional es newton por metro (N/m), que indica cuánta fuerza se necesita para deformar el cuerpo una unidad de longitud.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_005",
+      "pregunta": "¿Qué acciones físicas sobre un cuerpo elástico le hacen acumular energía potencial elástica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Elevarlo a cierta altura",
+        "B": "Aumentar su velocidad",
+        "C": "Estirarlo o comprimirlo longitudinalmente",
+        "D": "Colocarlo en un nivel de referencia",
+        "E": "Disminuir su temperatura"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial elástica es la energía almacenada en un cuerpo elástico como resultado de su deformación. Esta deformación se produce al estirarlo o comprimirlo longitudinalmente desde su posición de equilibrio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_006",
+      "pregunta": "¿Cuál es la expresión matemática correcta para calcular la energía potencial elástica (EPE)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$EPE = kx$$",
+        "B": "$$EPE = kx^2$$",
+        "C": "$$EPE = \\frac{1}{2}kx$$",
+        "D": "$$EPE = \\frac{1}{2}kx^2$$",
+        "E": "$$EPE = \\frac{1}{2}mgh$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula para calcular la energía potencial elástica es $$EPE = \\frac{1}{2}kx^2$$, donde $k$ es la constante elástica del cuerpo y $x$ es la magnitud de la deformación (estiramiento o compresión) desde la posición de equilibrio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_007",
+      "pregunta": "A diferencia de la energía potencial gravitatoria, ¿qué se puede afirmar siempre sobre el valor de la energía potencial elástica cuando un cuerpo está deformado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Siempre es negativa",
+        "B": "Siempre es positiva",
+        "C": "Depende del nivel de referencia",
+        "D": "Puede ser positiva o negativa",
+        "E": "Siempre es nula"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial elástica siempre es positiva cuando el cuerpo está deformado, ya sea estirado o comprimido. Esto se debe a que en la fórmula $$EPE = \\frac{1}{2}kx^2$$, tanto la constante $k$ como el término de deformación al cuadrado $x^2$ son siempre positivos. En cambio, la energía potencial gravitatoria puede ser positiva, negativa o nula dependiendo del sistema de referencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_008",
+      "pregunta": "¿Qué representa la variable $x$ en la ecuación de la energía potencial elástica $$EPE = \\frac{1}{2}kx^2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La longitud total del cuerpo elástico",
+        "B": "La masa del cuerpo",
+        "C": "La deformación longitudinal (estiramiento o compresión)",
+        "D": "La constante de elasticidad",
+        "E": "La altura desde un nivel de referencia"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la fórmula de la energía potencial elástica, la variable $x$ representa la magnitud de la deformación del cuerpo elástico desde su posición de equilibrio. Se mide en metros (m) en el S.I. y puede ser un estiramiento o una compresión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_009",
+      "pregunta": "Si un cuerpo elástico no está deformado ($$x = 0$$), ¿cuál es el valor de su energía potencial elástica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo",
+        "B": "Negativo",
+        "C": "Infinito",
+        "D": "Depende de la constante $k$",
+        "E": "Nulo (cero)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La energía potencial elástica solo existe cuando hay deformación. Si la deformación $x$ es cero, la fórmula $$EPE = \\frac{1}{2}kx^2$$ se convierte en $$EPE = \\frac{1}{2}k(0)^2 = 0$$. Por lo tanto, la energía potencial elástica es nula.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_010",
+      "pregunta": "¿Cómo se compara el rango de valores posibles para la energía potencial elástica (EPE) y la energía potencial gravitatoria (EPG)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas pueden ser positivas, negativas o nulas.",
+        "B": "La EPE es siempre positiva o nula, mientras que la EPG puede ser positiva, negativa o nula.",
+        "C": "La EPG es siempre positiva o nula, mientras que la EPE puede ser positiva, negativa o nula.",
+        "D": "Ambas son siempre positivas.",
+        "E": "La EPE es siempre positiva y la EPG es siempre negativa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial elástica ($EPE$) solo puede tomar valores positivos (cuando hay deformación) o nulos (cuando no hay deformación). En contraste, la energía potencial gravitatoria ($EPG$) puede ser positiva, negativa o nula, dependiendo de si el objeto se encuentra por encima, por debajo o en el nivel de referencia establecido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_011",
+      "pregunta": "Si se comprime un resorte una distancia $x$ y luego se estira la misma distancia $x$, ¿cómo son las energías potenciales elásticas almacenadas en ambos casos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positiva al comprimir y negativa al estirar",
+        "B": "Nula en ambos casos",
+        "C": "Iguales y positivas en ambos casos",
+        "D": "Mayor al comprimir que al estirar",
+        "E": "Negativa al comprimir y positiva al estirar"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial elástica depende del cuadrado de la deformación ($x^2$). Como el cuadrado de un número (positivo o negativo) siempre es positivo, la energía será la misma y positiva tanto si el resorte se comprime una distancia $x$ como si se estira la misma distancia $x$. En ambos casos, el cálculo sería $$EPE = \\frac{1}{2}kx^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_012",
+      "pregunta": "Un resorte almacena una energía potencial elástica $E$ cuando se estira una distancia $x$. Si el mismo resorte se estira una distancia $2x$, ¿cuál será su nueva energía potencial elástica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$E$$",
+        "B": "$$2E$$",
+        "C": "$$4E$$",
+        "D": "$$\\frac{1}{2}E$$",
+        "E": "$$\\frac{1}{4}E$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía potencial elástica es proporcional al cuadrado de la deformación ($$EPE \\propto x^2$$). La energía inicial es $$E = \\frac{1}{2}kx^2$$. Si la deformación se duplica a $2x$, la nueva energía será $$EPE_{nueva} = \\frac{1}{2}k(2x)^2 = \\frac{1}{2}k(4x^2) = 4 \\left( \\frac{1}{2}kx^2 \\right) = 4E$$. Por lo tanto, la nueva energía es cuatro veces la energía original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_013",
+      "pregunta": "Si la energía potencial elástica almacenada en un arco es $E$ cuando su cuerda se tensa una distancia $x$, ¿cuál sería la energía almacenada si la cuerda se tensara solo hasta la mitad de esa distancia, es decir, $$\\frac{x}{2}$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$2E$$",
+        "B": "$$E$$",
+        "C": "$$\\frac{1}{2}E$$",
+        "D": "$$\\frac{1}{4}E$$",
+        "E": "$$4E$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía potencial elástica depende del cuadrado de la deformación ($$EPE = \\frac{1}{2}kx^2$$). La energía original es $E$. Si la deformación se reduce a la mitad, $$\\frac{x}{2}$$, la nueva energía se calcula como $$EPE_{nueva} = \\frac{1}{2}k\\left(\\frac{x}{2}\\right)^2 = \\frac{1}{2}k\\frac{x^2}{4} = \\frac{1}{4}\\left(\\frac{1}{2}kx^2\\right) = \\frac{1}{4}E$$. La energía se reduce a una cuarta parte de la original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_014",
+      "pregunta": "Se tienen dos resortes, A y B. La constante elástica del resorte A es el doble que la del resorte B ($$k_A = 2k_B$$). Si ambos resortes se estiran la misma distancia $x$, ¿cuál es la relación entre sus energías potenciales elásticas ($EPE_A$ y $EPE_B$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$EPE_A = EPE_B$$",
+        "B": "$$EPE_A = 2EPE_B$$",
+        "C": "$$EPE_A = \\frac{1}{2}EPE_B$$",
+        "D": "$$EPE_A = 4EPE_B$$",
+        "E": "$$EPE_A = \\frac{1}{4}EPE_B$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial elástica se calcula con $$EPE = \\frac{1}{2}kx^2$$. Para el resorte A, $$EPE_A = \\frac{1}{2}k_A x^2$$. Para el resorte B, $$EPE_B = \\frac{1}{2}k_B x^2$$. Dado que $$k_A = 2k_B$$, podemos sustituirlo en la ecuación de A: $$EPE_A = \\frac{1}{2}(2k_B)x^2 = 2\\left(\\frac{1}{2}k_B x^2\\right)$$. Como $$EPE_B = \\frac{1}{2}k_B x^2$$, entonces $$EPE_A = 2EPE_B$$. El resorte A almacena el doble de energía que el resorte B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_035_015",
+      "pregunta": "¿Qué afirmación se deduce correctamente de la fórmula $$EPE = \\frac{1}{2}kx^2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La EPE es directamente proporcional a la deformación $x$.",
+        "B": "La EPE es inversamente proporcional a la constante elástica $k$.",
+        "C": "La EPE es directamente proporcional al cuadrado de la deformación $x^2$.",
+        "D": "La EPE es nula solo si la constante elástica $k$ es cero.",
+        "E": "La EPE puede ser negativa si la deformación es una compresión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula $$EPE = \\frac{1}{2}kx^2$$ muestra que la energía potencial elástica ($EPE$) es directamente proporcional al cuadrado de la deformación ($x^2$). Esto significa que si $x^2$ se duplica, la $EPE$ se duplica. Las otras opciones son incorrectas: no es proporcional a $x$ (sino a $x^2$), es directamente proporcional a $k$, es nula si $x=0$ independientemente de $k$, y nunca es negativa.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 51,
+  "total_temas": 137,
+  "titulo_tema": "Vasos Comunicantes",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_051_001",
+      "pregunta": "¿Qué es el peso específico, representado por el símbolo $$\\gamma$$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa de un cuerpo por unidad de volumen.",
+        "B": "El peso que posee un cuerpo por cada unidad de volumen.",
+        "C": "La fuerza total que ejerce un líquido sobre una superficie.",
+        "D": "El volumen que ocupa un cuerpo por unidad de masa.",
+        "E": "La relación entre la densidad de un cuerpo y la del agua."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El peso específico ($$\\gamma$$) es una magnitud física que se define como el peso de un cuerpo por cada unidad de volumen que ocupa. La opción A describe la densidad ($$\\rho$$), no el peso específico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_002",
+      "pregunta": "¿Qué es un sistema de vasos comunicantes?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un conjunto de recipientes sellados y aislados entre sí.",
+        "B": "Un único recipiente de forma compleja.",
+        "C": "Un conjunto de recipientes comunicados inferiormente que contienen un líquido.",
+        "D": "Una serie de tuberías para transportar gases a alta presión.",
+        "E": "Recipientes apilados verticalmente sin conexión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de vasos comunicantes corresponde a un conjunto de dos o más recipientes que están conectados por su parte inferior, permitiendo que un líquido fluya libremente entre ellos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_003",
+      "pregunta": "Cuando un líquido se encuentra en reposo dentro de un sistema de vasos comunicantes, ¿qué ocurre con su nivel en los diferentes recipientes?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El nivel es más alto en el recipiente de mayor volumen.",
+        "B": "El nivel es más bajo en el recipiente más estrecho.",
+        "C": "El nivel varía dependiendo de la forma de cada recipiente.",
+        "D": "El líquido alcanza el mismo nivel en todos los recipientes.",
+        "E": "El nivel depende de la cantidad de líquido en cada recipiente individual."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El principio fundamental de los vasos comunicantes establece que, cuando un líquido está en equilibrio (en reposo), su superficie libre alcanza la misma altura en todos los recipientes, sin importar la forma o el volumen de estos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_004",
+      "pregunta": "¿Qué característica comparten todos los puntos ubicados sobre una misma línea isóbara dentro de un líquido en reposo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tienen la misma temperatura.",
+        "B": "Están a la misma profundidad desde el fondo.",
+        "C": "Soportan la misma presión absoluta.",
+        "D": "Pertenecen a la misma molécula de líquido.",
+        "E": "Tienen la misma velocidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una línea isóbara es una línea imaginaria que conecta puntos que tienen la misma presión. Por lo tanto, cualquier punto sobre una línea isóbara en un fluido en reposo soportará la misma presión absoluta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_005",
+      "pregunta": "¿Cuál es la fórmula que relaciona el peso específico ($$\\gamma$$) con la densidad ($$\\rho$$) y la aceleración de la gravedad ($$g$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\gamma = \\frac{\\rho}{g}$$",
+        "B": "$$\\gamma = \\rho + g$$",
+        "C": "$$\\gamma = \\rho \\cdot g$$",
+        "D": "$$\\gamma = \\frac{g}{\\rho}$$",
+        "E": "$$\\gamma = \\rho^2 \\cdot g$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso específico ($$\\gamma$$) se define como el peso por unidad de volumen. Dado que el peso es masa por gravedad ($$mg$$) y la densidad es masa por volumen ($$\\rho = m/V$$), se deduce que el peso específico es el producto de la densidad por la aceleración de la gravedad: $$\\gamma = \\rho \\cdot g$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_006",
+      "pregunta": "Según el principio fundamental de la hidrostática, ¿de qué depende la diferencia de presiones entre dos puntos A y B de un mismo líquido situados a diferentes niveles?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Del volumen total del líquido en el recipiente.",
+        "B": "Del peso específico del líquido y la altura que separa a los puntos.",
+        "C": "Únicamente de la presión atmosférica en la superficie.",
+        "D": "De la distancia horizontal entre los puntos A y B.",
+        "E": "De la forma del recipiente que contiene el líquido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio fundamental de la hidrostática establece que la diferencia de presiones ($$P_B - P_A$$) es igual al producto del peso específico del líquido ($$\\gamma = \\rho_{líq} g$$) por la diferencia de altura vertical ($$H$$) entre los dos puntos: $$P_B - P_A = \\rho_{líq} g H$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_007",
+      "pregunta": "¿Cuál de las siguientes fórmulas se utiliza para calcular el peso específico ($$\\gamma$$) a partir del peso de un cuerpo ($$mg$$) y su volumen ($$V$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\gamma = mg \\cdot V$$",
+        "B": "$$\\gamma = \\frac{V}{mg}$$",
+        "C": "$$\\gamma = mg - V$$",
+        "D": "$$\\gamma = \\frac{mg}{V}$$",
+        "E": "$$\\gamma = mg + V$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por definición, el peso específico ($$\\gamma$$) es la cantidad de peso por unidad de volumen. Matemáticamente, esto se expresa como el cociente del peso ($$mg$$) entre el volumen ($$V$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_008",
+      "pregunta": "En la ecuación del principio fundamental de la hidrostática, $$P_B - P_A = \\rho_{líq} g H$$, ¿qué representa la variable $$H$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La altura total del recipiente.",
+        "B": "La profundidad absoluta del punto B.",
+        "C": "La distancia horizontal entre A y B.",
+        "D": "La diferencia de profundidades o altura vertical entre A y B.",
+        "E": "La altura del líquido sobre el punto A."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula hidrostática, $$H$$ representa específicamente la diferencia de altura vertical (o diferencia de profundidades) entre los dos puntos de interés, A y B, dentro del fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_009",
+      "pregunta": "El hecho de que el nivel del líquido sea el mismo en vasos comunicantes sin importar su forma o volumen, es una consecuencia directa de que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El líquido tiene baja viscosidad.",
+        "B": "La temperatura es constante en todo el sistema.",
+        "C": "Los puntos a la misma altura en un líquido en reposo soportan la misma presión.",
+        "D": "El volumen de los recipientes es idéntico.",
+        "E": "La gravedad afecta a todos los recipientes por igual."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si los niveles fueran diferentes, un punto en la base de un recipiente estaría a mayor profundidad que un punto a la misma altura en otro, lo que crearía una diferencia de presión. Esta diferencia de presión provocaría un flujo de líquido hasta que las presiones se igualen, lo que ocurre cuando los niveles son los mismos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_010",
+      "pregunta": "¿Qué se puede afirmar sobre la diferencia de presiones ($$P_B - P_A$$) si la diferencia de profundidades ($$H$$) entre dos puntos de un líquido aumenta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La diferencia de presiones disminuye.",
+        "B": "La diferencia de presiones no cambia.",
+        "C": "La diferencia de presiones aumenta.",
+        "D": "La diferencia de presiones se vuelve negativa.",
+        "E": "La relación es impredecible."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "De acuerdo con la fórmula $$P_B - P_A = \\rho_{líq} g H$$, la diferencia de presiones es directamente proporcional a la diferencia de profundidades $$H$$. Por lo tanto, si $$H$$ aumenta, la diferencia de presiones también lo hará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_011",
+      "pregunta": "¿Cuál de las siguientes expresiones representa correctamente la diferencia de presiones entre dos puntos A y B utilizando el peso específico ($$\\gamma$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P_B - P_A = \\frac{\\gamma}{H}$$",
+        "B": "$$P_B - P_A = \\gamma \\cdot H$$",
+        "C": "$$P_B - P_A = \\gamma + H$$",
+        "D": "$$P_B - P_A = \\frac{H}{\\gamma}$$",
+        "E": "$$P_B - P_A = \\gamma^2 \\cdot H$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio fundamental de la hidrostática es $$P_B - P_A = \\rho_{líq} g H$$. Dado que el peso específico es $$\\gamma = \\rho_{líq} \\cdot g$$, podemos sustituir este término en la ecuación, resultando en $$P_B - P_A = \\gamma \\cdot H$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_012",
+      "pregunta": "Para que la ley de los vasos comunicantes se cumpla y el líquido alcance el mismo nivel, es fundamental que los recipientes estén:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sellados herméticamente en la parte superior.",
+        "B": "Fabricados con el mismo material.",
+        "C": "Sometidos a la misma presión en sus superficies libres.",
+        "D": "Llenos con líquidos de diferentes densidades.",
+        "E": "Completamente llenos hasta el borde."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio asume que la presión sobre la superficie libre del líquido es la misma en todos los recipientes (generalmente, la presión atmosférica). Si las presiones fueran diferentes, los niveles del líquido se ajustarían para compensar esa diferencia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_013",
+      "pregunta": "En un líquido en reposo, si el punto B está a una profundidad de $$h_B$$ y el punto A está a una profundidad de $$h_A$$, con $$h_B > h_A$$, ¿cuál es la conclusión correcta sobre sus presiones $$P_B$$ y $$P_A$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$P_B = P_A$$",
+        "B": "$$P_B < P_A$$",
+        "C": "$$P_B > P_A$$",
+        "D": "La relación depende del ancho del recipiente.",
+        "E": "La relación solo se puede determinar si el líquido es agua."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión en un fluido aumenta con la profundidad. Según el principio fundamental de la hidrostática, $$P_B - P_A = \\rho g H$$. Como el punto B es más profundo que el A, la diferencia de altura $$H$$ ($$h_B - h_A$$) es positiva. Por lo tanto, $$P_B - P_A$$ es un valor positivo, lo que implica que $$P_B$$ es mayor que $$P_A$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_014",
+      "pregunta": "Si en un sistema de vasos comunicantes uno de los recipientes tiene una forma de tubo muy delgado y el otro es un tanque muy ancho, ¿cómo serán los niveles del líquido en reposo en ambos recipientes?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El nivel será mayor en el tubo delgado.",
+        "B": "El nivel será mayor en el tanque ancho.",
+        "C": "Los niveles serán exactamente iguales.",
+        "D": "Dependerá de la cantidad total de líquido.",
+        "E": "Es imposible que alcancen un equilibrio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de los vasos comunicantes establece explícitamente que el nivel del líquido en reposo es el mismo en todos los recipientes conectados, sin importar su forma o volumen. Por lo tanto, tanto en el tubo delgado como en el tanque ancho, la altura del líquido será idéntica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_051_015",
+      "pregunta": "Si la diferencia de presiones entre dos puntos A y B en un líquido en reposo es cero ($$P_B - P_A = 0$$), ¿qué podemos concluir sobre su posición relativa según el principio fundamental de la hidrostática ($$P_B - P_A = \\rho_{líq} g H$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos puntos están en la superficie del líquido.",
+        "B": "Los puntos están en la misma línea vertical.",
+        "C": "La diferencia de profundidades $$H$$ entre los puntos es cero.",
+        "D": "El líquido no tiene densidad ($$\\rho_{líq} = 0$$).",
+        "E": "Los puntos están separados por una distancia infinita."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si $$P_B - P_A = 0$$, entonces la ecuación se convierte en $$0 = \\rho_{líq} g H$$. Asumiendo que el líquido tiene densidad ($$\\rho_{líq} \\neq 0$$) y existe gravedad ($$g \\neq 0$$), la única forma de que el producto sea cero es que la diferencia de profundidades $$H$$ sea cero. Esto significa que los puntos A y B se encuentran al mismo nivel horizontal.",
+      "imagen": null
+    }
+  ]
+}

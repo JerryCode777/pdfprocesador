@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 92,
+  "total_temas": 137,
+  "titulo_tema": "Calorimetría",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_092_001",
+      "pregunta": "¿A qué temperatura ocurre la fusión y la solidificación del agua?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$100^{\\circ}C$$",
+        "B": "$$0^{\\circ}C$$",
+        "C": "$$-10^{\\circ}C$$",
+        "D": "$$50^{\\circ}C$$",
+        "E": "$$273^{\\circ}C$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura a la cual el agua cambia de estado sólido (hielo) a líquido (fusión) y de líquido a sólido (solidificación) es de $$0^{\\circ}C$$ a presión atmosférica estándar. Es un punto fijo en la escala Celsius.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_002",
+      "pregunta": "¿Cuál es el valor aproximado del calor latente de fusión ($$L_f$$) del agua en calorías por gramo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$540 \\text{ cal/g}$$",
+        "B": "$$-80 \\text{ cal/g}$$",
+        "C": "$$100 \\text{ cal/g}$$",
+        "D": "$$80 \\text{ cal/g}$$",
+        "E": "$$-540 \\text{ cal/g}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El calor latente de fusión ($$L_f$$) es la cantidad de energía en forma de calor que se necesita para que una unidad de masa de una sustancia, en este caso agua, cambie de estado sólido a líquido sin cambiar su temperatura. Para el agua, este valor es aproximadamente $$80 \\text{ cal/g}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_003",
+      "pregunta": "¿Qué establece el principio fundamental de la calorimetría en un sistema aislado?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El calor siempre fluye de los cuerpos pequeños a los grandes.",
+        "B": "La cantidad de calor perdida por unos cuerpos es igual a la cantidad de calor ganada por otros.",
+        "C": "Todos los cuerpos alcanzan una temperatura final de $$100^{\\circ}C$$.",
+        "D": "La energía calorífica se destruye durante la transferencia.",
+        "E": "La temperatura de un sistema nunca cambia."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este principio es una consecuencia directa de la ley de conservación de la energía. En un sistema donde solo hay intercambio de calor entre sus componentes, la energía no se crea ni se destruye, solo se transfiere. Por lo tanto, todo el calor que ceden los cuerpos más calientes es absorbido por los cuerpos más fríos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_004",
+      "pregunta": "¿Cuál es la temperatura de vaporización y condensación del agua?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$0^{\\circ}C$$",
+        "B": "$$540^{\\circ}C$$",
+        "C": "$$100^{\\circ}C$$",
+        "D": "$$80^{\\circ}C$$",
+        "E": "$$212^{\\circ}C$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura a la cual el agua cambia de estado líquido a gaseoso (vaporización) y de gaseoso a líquido (condensación) es de $$100^{\\circ}C$$ a presión atmosférica estándar. Este es el punto de ebullición del agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_005",
+      "pregunta": "¿Cuándo cesa la transferencia de calor en un sistema de varios cuerpos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando la presión llega a cero.",
+        "B": "Cuando todos los cuerpos se han evaporado.",
+        "C": "Cuando el sistema alcanza la temperatura de equilibrio.",
+        "D": "Cuando el tiempo transcurrido es muy largo.",
+        "E": "Cuando se añade una fuente de calor externa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor es definido como energía en tránsito debido a una diferencia de temperaturas. Cuando todos los cuerpos en un sistema alcanzan la misma temperatura, llamada temperatura de equilibrio, ya no existe una diferencia de temperaturas que impulse el flujo de calor, y la transferencia neta de energía se detiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_006",
+      "pregunta": "¿Cuál es la relación matemática correcta que expresa el principio fundamental de la calorimetría?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Q_{ganado} > -Q_{perdido}$$",
+        "B": "$$Q_{ganado} = Q_{perdido}$$",
+        "C": "$$Q_{ganado} + Q_{perdido} > 0$$",
+        "D": "$$Q_{ganado} = -Q_{perdido}$$",
+        "E": "$$Q_{ganado} < Q_{perdido}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por convención, el calor absorbido (ganado) por un cuerpo es positivo, mientras que el calor cedido (perdido) es negativo. El principio de conservación de la energía implica que la suma de todos los calores intercambiados en un sistema aislado es cero ($$Q_{ganado} + Q_{perdido} = 0$$). Al despejar esta ecuación, obtenemos $$Q_{ganado} = -Q_{perdido}$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_007",
+      "pregunta": "¿Qué indica el signo negativo en el valor del calor latente de solidificación ($$L_s$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el proceso requiere energía.",
+        "B": "Que la temperatura aumenta durante la solidificación.",
+        "C": "Que se debe liberar o extraer calor para que ocurra la solidificación.",
+        "D": "Que la masa del cuerpo disminuye.",
+        "E": "Que el valor es una aproximación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El signo negativo significa que el proceso es exotérmico. Para que una sustancia pase del estado líquido al sólido, debe ceder energía calorífica al entorno. Por ejemplo, para congelar agua, se le debe quitar calor. El valor de $$L_s$$ para el agua es $$\\approx -80 \\text{ cal/g}$$, indicando que se liberan 80 calorías por cada gramo que se solidifica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_008",
+      "pregunta": "La ecuación $$Q_1 + Q_2 + Q_3 = 0$$ es una expresión matemática de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La suma de las temperaturas de tres sustancias.",
+        "B": "La capacidad calorífica total de un sistema.",
+        "C": "La ley de enfriamiento de Newton.",
+        "D": "El principio de conservación de la energía aplicado a un sistema calorimétrico de tres cuerpos.",
+        "E": "El calor necesario para fundir tres sustancias diferentes."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta ecuación representa el balance de energía en un sistema aislado compuesto por tres cuerpos. Afirma que la suma algebraica de las cantidades de calor intercambiadas (donde algunas serán positivas, ganadas, y otras negativas, perdidas) es cero. Esto es una formulación del principio fundamental de la calorimetría, que a su vez es una aplicación de la conservación de la energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_009",
+      "pregunta": "¿Cuál es la relación entre el calor latente de vaporización ($$L_v$$) y el calor latente de condensación ($$L_c$$) para el agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$L_v = L_c$$",
+        "B": "$$L_v = -L_c$$",
+        "C": "$$L_v > -L_c$$",
+        "D": "$$L_v < L_c$$",
+        "E": "No existe una relación directa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La vaporización es un proceso endotérmico (absorbe calor, $$L_v > 0$$), mientras que la condensación es un proceso exotérmico (libera calor, $$L_c < 0$$). La cantidad de energía requerida para vaporizar una masa de agua es exactamente la misma que la que se libera cuando esa misma masa de vapor se condensa. Por lo tanto, sus magnitudes son iguales, pero sus signos son opuestos: $$L_v = -L_c$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_010",
+      "pregunta": "Comparando los valores aproximados en cal/g, ¿cuántas veces mayor es el calor latente de vaporización ($$L_v$$) que el calor latente de fusión ($$L_f$$) del agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son aproximadamente iguales.",
+        "B": "Es casi 7 veces mayor.",
+        "C": "Es el doble.",
+        "D": "Es la mitad.",
+        "E": "Es 10 veces mayor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El calor latente de vaporización del agua es $$L_v \\approx 540 \\text{ cal/g}$$, y el calor latente de fusión es $$L_f \\approx 80 \\text{ cal/g}$$. Al dividir ambos valores ($$540 / 80$$), obtenemos $$6.75$$. Por lo tanto, se necesita casi 7 veces más energía para vaporizar una cantidad de agua que para fundir la misma cantidad de hielo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_011",
+      "pregunta": "¿Qué condición es indispensable para que exista el calor como transferencia de energía?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un cambio de estado.",
+        "B": "La presencia de agua.",
+        "C": "Una diferencia de temperaturas.",
+        "D": "Presión atmosférica estándar.",
+        "E": "Un volumen constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El calor no es algo que un cuerpo 'tiene', sino energía que se transfiere de un cuerpo a otro. Esta transferencia solo ocurre cuando hay una diferencia de temperaturas entre los cuerpos. El flujo de energía siempre va del cuerpo con mayor temperatura al de menor temperatura hasta que se alcanza el equilibrio térmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_012",
+      "pregunta": "Además de la diferencia de temperaturas, ¿qué otro factor se menciona que afecta la cantidad de calor absorbido o cedido por una sustancia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La densidad de la sustancia.",
+        "B": "La presión ejercida sobre la sustancia.",
+        "C": "El volumen del recipiente.",
+        "D": "El color de la sustancia.",
+        "E": "El tiempo de exposición."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La cantidad de calor involucrada en procesos como los cambios de fase no solo depende de la temperatura, sino también de la presión. Por ejemplo, la temperatura de ebullición del agua es de $$100^{\\circ}C$$ a nivel del mar (1 atmósfera de presión), pero disminuye a altitudes mayores donde la presión es menor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_013",
+      "pregunta": "Un sistema está compuesto por tres sustancias (1, 2 y 3) a diferentes temperaturas. La sustancia 1 pierde $$500 \\text{ J}$$ y la sustancia 2 pierde $$300 \\text{ J}$$. Según el principio fundamental de la calorimetría, ¿cuánto calor gana la sustancia 3 para que el sistema alcance el equilibrio?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$Q_3 = 200 \\text{ J}$$",
+        "B": "$$Q_3 = -800 \\text{ J}$$",
+        "C": "$$Q_3 = -200 \\text{ J}$$",
+        "D": "$$Q_3 = 800 \\text{ J}$$",
+        "E": "$$Q_3 = 0 \\text{ J}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El principio fundamental establece que $$Q_1 + Q_2 + Q_3 = 0$$. El calor perdido se representa con un signo negativo. Por lo tanto, $$Q_1 = -500 \\text{ J}$$ y $$Q_2 = -300 \\text{ J}$$. Sustituyendo en la ecuación: $$(-500 \\text{ J}) + (-300 \\text{ J}) + Q_3 = 0$$. Esto simplifica a $$-800 \\text{ J} + Q_3 = 0$$. Despejando $$Q_3$$, obtenemos $$Q_3 = 800 \\text{ J}$$. El signo positivo confirma que la sustancia 3 gana calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_014",
+      "pregunta": "Si el calor latente de vaporización del agua es $$L_v = 2,26 \\times 10^6 \\text{ J/kg}$$, ¿cuál es el valor del calor latente de condensación ($$L_c$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$L_c = 2,26 \\times 10^6 \\text{ J/kg}$$",
+        "B": "$$L_c = -2,26 \\times 10^6 \\text{ J/kg}$$",
+        "C": "$$L_c = 0$$",
+        "D": "$$L_c = 1 / (2,26 \\times 10^6) \\text{ J/kg}$$",
+        "E": "$$L_c = -3,33 \\times 10^5 \\text{ J/kg}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La condensación es el proceso inverso a la vaporización. Mientras que la vaporización requiere la absorción de energía (valor positivo), la condensación implica la liberación de la misma cantidad de energía (valor negativo). Por lo tanto, el calor latente de condensación tiene la misma magnitud que el de vaporización, pero con signo opuesto. $$L_c = -L_v$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_092_015",
+      "pregunta": "¿Por qué el calor se considera una transferencia de energía y no una propiedad intrínseca de un cuerpo?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el calor depende de la masa, que no es intrínseca.",
+        "B": "Porque el calor solo existe durante un cambio de fase.",
+        "C": "Porque el calor existe solamente cuando hay una diferencia de temperaturas, lo que implica un proceso de transferencia entre cuerpos, no un estado.",
+        "D": "Porque su valor en Joules es diferente a su valor en calorías.",
+        "E": "Porque todos los cuerpos tienen una temperatura de $$0^{\\circ}C$$ como referencia."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cuerpos poseen energía interna, que es la suma de las energías cinéticas y potenciales de sus partículas. El calor, sin embargo, no es algo que un cuerpo 'contiene'. Es el término que se usa para describir la energía que se transfiere de un sistema a otro debido a una diferencia de temperatura. Una vez que la transferencia se completa y se alcanza el equilibrio térmico, el concepto de 'calor' ya no aplica; la energía transferida se ha convertido en parte de la energía interna del cuerpo receptor.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 68,
+  "total_temas": 137,
+  "titulo_tema": "Temperatura",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_068_001",
+      "pregunta": "¿Qué magnitud física indica qué tan caliente o frío está un objeto con respecto a una referencia?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Energía interna",
+        "B": "Calor",
+        "C": "Temperatura",
+        "D": "Equilibrio térmico",
+        "E": "Presión"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura es la magnitud escalar utilizada para medir cuantitativamente el grado de calor o frío de un cuerpo o del ambiente. Las otras opciones son conceptos relacionados pero distintos: la energía interna es la suma de las energías de las partículas, el calor es la transferencia de esa energía y el equilibrio térmico es un estado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_002",
+      "pregunta": "¿Cómo se define la condición en la que dos cuerpos en contacto dejan de transferir energía al alcanzar la misma temperatura?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Contacto térmico",
+        "B": "Transferencia de calor",
+        "C": "Energía cinética nula",
+        "D": "Equilibrio térmico",
+        "E": "Estado estacionario"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El equilibrio térmico es, por definición, el estado que se alcanza cuando dos o más cuerpos en contacto igualan sus temperaturas. En este punto, el flujo neto de energía (calor) entre ellos se detiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_003",
+      "pregunta": "La temperatura de un objeto está íntimamente relacionada con:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El número total de sus moléculas",
+        "B": "El tamaño de sus moléculas",
+        "C": "La energía cinética promedio de sus moléculas",
+        "D": "La masa total del objeto",
+        "E": "La energía potencial de sus moléculas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura es una medida directa de la energía cinética promedio de las partículas (átomos o moléculas) que componen un objeto. Si las partículas se mueven más rápido, su energía cinética promedio es mayor y, por lo tanto, la temperatura del objeto es más alta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_004",
+      "pregunta": "Al poner en contacto un cuerpo caliente con uno frío, ¿qué sucede con sus temperaturas hasta que se alcanza el equilibrio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La temperatura del cuerpo caliente aumenta y la del frío disminuye",
+        "B": "Ambas temperaturas aumentan",
+        "C": "Ambas temperaturas disminuyen",
+        "D": "La temperatura del cuerpo caliente disminuye y la del frío aumenta",
+        "E": "Las temperaturas se mantienen constantes"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía interna se transfiere espontáneamente del cuerpo de mayor temperatura al de menor temperatura. Como resultado, el cuerpo caliente pierde energía y se enfría (su temperatura disminuye), mientras que el cuerpo frío gana energía y se calienta (su temperatura aumenta), hasta que ambas temperaturas se igualan.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_005",
+      "pregunta": "¿En qué tipo de unidades se expresa comúnmente la medida de la temperatura?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Joules",
+        "B": "Calorías",
+        "C": "Grados",
+        "D": "Watts",
+        "E": "Newtons"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La temperatura se mide y expresa en unidades llamadas grados, como los grados Celsius, Fahrenheit o Kelvin. Las otras opciones corresponden a unidades de energía (Joules, Calorías), potencia (Watts) o fuerza (Newtons).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_006",
+      "pregunta": "¿Cuál es la relación correcta entre la temperatura y la energía interna de un cuerpo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Si la temperatura aumenta, la energía interna siempre disminuye",
+        "B": "Si un cuerpo gana energía interna, su temperatura disminuye",
+        "C": "La temperatura y la energía interna son conceptos totalmente independientes",
+        "D": "Si un cuerpo aumenta su temperatura, entonces ha ganado energía interna",
+        "E": "La energía interna es siempre el doble de la temperatura en grados Celsius"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La temperatura está directamente relacionada con la energía interna. Un aumento en la temperatura de un cuerpo indica que la energía cinética promedio de sus partículas ha aumentado, lo cual es consecuencia de que el cuerpo ha ganado energía interna.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_007",
+      "pregunta": "La transferencia espontánea de energía interna entre dos cuerpos en contacto siempre ocurre:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Del cuerpo con más masa al de menos masa",
+        "B": "Del cuerpo más grande al más pequeño",
+        "C": "Del cuerpo de menor temperatura al de mayor temperatura",
+        "D": "Del cuerpo de mayor temperatura al de menor temperatura",
+        "E": "Únicamente si ambos cuerpos son del mismo material"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El flujo de energía en forma de calor ocurre de manera natural desde una región de mayor temperatura hacia una de menor temperatura. Este proceso continúa hasta que se alcanza el equilibrio térmico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_008",
+      "pregunta": "¿Por qué se describe la temperatura como una magnitud estadística?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque sus valores cambian de forma aleatoria y no se pueden predecir",
+        "B": "Porque describe el estado promedio de energía de un gran número de partículas",
+        "C": "Porque depende de la cantidad total de sustancia que se mide",
+        "D": "Porque solo se puede medir con instrumentos estadísticos",
+        "E": "Porque es una propiedad de partículas individuales"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura no describe la energía de una sola partícula, sino el promedio de la energía cinética de un sistema que contiene muchísimas partículas. Por esta razón, es una propiedad estadística del conjunto, no una propiedad mecánica individual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_009",
+      "pregunta": "Si se tienen dos volúmenes diferentes de una misma sustancia a la misma temperatura, se puede afirmar que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El de mayor volumen tiene necesariamente más energía interna",
+        "B": "La temperatura no depende de la cantidad de sustancia",
+        "C": "El de menor volumen alcanzará antes el equilibrio térmico",
+        "D": "Sus temperaturas son diferentes",
+        "E": "La energía cinética promedio de sus partículas es diferente"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una característica importante de la temperatura es que no depende de la cantidad de materia. Dos muestras de agua, una de un litro y otra de diez litros, pueden estar a la misma temperatura (por ejemplo, 20 grados Celsius), aunque la de diez litros posea más energía interna total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_010",
+      "pregunta": "Cuando el intercambio de energía interna entre dos objetos en contacto cesa, ¿qué se puede concluir con certeza?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que ambos objetos han perdido toda su energía interna",
+        "B": "Que la energía total del sistema ha desaparecido",
+        "C": "Que ambos objetos han alcanzado la misma temperatura",
+        "D": "Que uno de los objetos es un aislante térmico perfecto",
+        "E": "Que el objeto más frío ha ganado toda la energía del más caliente"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El cese del flujo neto de energía es la característica definitoria del equilibrio térmico. Este estado se alcanza precisamente cuando ambos cuerpos llegan a tener la misma temperatura, eliminando la diferencia que impulsa la transferencia de energía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_011",
+      "pregunta": "¿Cómo se interpreta físicamente la sensación fisiológica de que un objeto está 'frío'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El objeto no posee energía interna",
+        "B": "Las partículas del objeto tienen una baja energía cinética promedio",
+        "C": "El objeto absorbe la temperatura de la mano",
+        "D": "Las partículas del objeto están completamente inmóviles",
+        "E": "El objeto tiene una carga eléctrica negativa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La sensación de 'frío' ocurre cuando tocamos un objeto con una temperatura menor a la de nuestra piel. Físicamente, esto significa que las partículas del objeto se mueven o vibran con una energía cinética promedio más baja, y la energía fluye desde nuestra mano hacia el objeto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_012",
+      "pregunta": "Si un cuerpo disminuye su temperatura, se puede afirmar que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumentó su energía interna",
+        "B": "Perdió energía interna",
+        "C": "Su masa ha disminuido",
+        "D": "La energía cinética promedio de sus moléculas aumentó",
+        "E": "Ganó calor del entorno"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Existe una relación directa entre temperatura y energía interna. Una disminución en la temperatura indica que la energía cinética promedio de las partículas ha bajado, lo que significa que el cuerpo ha perdido (transferido) parte de su energía interna al entorno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_013",
+      "pregunta": "Se introduce una cuchara de metal a temperatura ambiente en una taza de café muy caliente. ¿Cuál de las siguientes afirmaciones describe correctamente el proceso de equilibrio térmico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La cuchara disminuirá su temperatura y el café la aumentará",
+        "B": "La energía se transferirá de la cuchara al café, enfriándolo aún más",
+        "C": "No habrá transferencia de energía porque los materiales son diferentes",
+        "D": "La energía se transferirá del café a la cuchara hasta que ambos alcancen una temperatura final idéntica",
+        "E": "La cuchara y el café aumentarán su temperatura hasta el punto de ebullición"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El café, al estar a mayor temperatura, posee partículas con mayor energía cinética promedio. Al entrar en contacto, la energía se transfiere del café a la cuchara. Como resultado, el café se enfría y la cuchara se calienta. Este proceso continúa hasta que ambos sistemas alcanzan una temperatura de equilibrio común, que será intermedia entre la inicial del café y la de la cuchara.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_014",
+      "pregunta": "Considerando que la temperatura es una magnitud estadística, ¿cuál es la diferencia fundamental con una magnitud mecánica como la velocidad de un proyectil?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La temperatura no se puede medir, mientras que la velocidad sí",
+        "B": "La velocidad es una magnitud escalar y la temperatura es vectorial",
+        "C": "La temperatura describe una propiedad promedio de un sistema de partículas, mientras que la velocidad puede describir el estado de un solo cuerpo",
+        "D": "La temperatura solo aplica a gases, y la velocidad solo a sólidos",
+        "E": "La única diferencia radica en las unidades de medida que utilizan"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La velocidad puede ser una propiedad bien definida para un único objeto macroscópico (el proyectil). En contraste, no se puede hablar de la 'temperatura' de una sola molécula; la temperatura es una propiedad emergente que describe el promedio de la energía cinética de un colectivo de millones de partículas. Esta es la diferencia clave entre una magnitud estadística y una mecánica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_068_015",
+      "pregunta": "Si un objeto A tiene una temperatura mayor que un objeto B, ¿qué se puede afirmar con total certeza sobre la energía cinética de sus partículas constituyentes?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Todas las partículas del objeto A tienen más energía cinética que cualquier partícula del objeto B",
+        "B": "La energía cinética promedio de las partículas del objeto A es mayor que la energía cinética promedio de las del objeto B",
+        "C": "El objeto A debe tener una masa mayor que el objeto B",
+        "D": "Las partículas del objeto B no poseen energía cinética",
+        "E": "El objeto A tiene más energía interna total que el objeto B"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura es una medida del promedio de la energía cinética. Que el promedio en A sea mayor que en B es la definición de que A está a mayor temperatura. Sin embargo, no se puede afirmar que *todas* las partículas de A son más energéticas que las de B, ya que puede haber partículas lentas en A y partículas rápidas en B. Tampoco se puede concluir sobre la energía interna total sin conocer la masa y composición de los objetos.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 64,
+  "total_temas": 137,
+  "titulo_tema": "Caudal",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_064_001",
+      "pregunta": "¿Cómo se define el caudal o gasto ($Q$) de un fluido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La masa de fluido que atraviesa una sección por unidad de área.",
+        "B": "La rapidez promedio de las partículas del fluido.",
+        "C": "El volumen de fluido que pasa a través de una sección transversal en una unidad de tiempo.",
+        "D": "La distancia total que recorre el fluido en una tubería.",
+        "E": "La fuerza que ejerce el fluido sobre las paredes del contenedor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El caudal, también conocido como gasto o flujo volumétrico, se define como el volumen ($V$) de un fluido que fluye a través de una sección transversal determinada por unidad de tiempo ($t$). Su fórmula fundamental es $$Q = V/t$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_002",
+      "pregunta": "¿Qué fenómeno caracteriza principalmente al flujo turbulento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un movimiento suave y ordenado en capas paralelas.",
+        "B": "La formación de torbellinos pequeños y erráticos llamados remolinos.",
+        "C": "Una velocidad de flujo constante en todos los puntos de la tubería.",
+        "D": "La ausencia de fricción entre el fluido y las paredes del tubo.",
+        "E": "Un aumento lineal y predecible de la presión."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo turbulento, que ocurre a partir de cierta rapidez, se distingue por ser caótico y desordenado. Su principal característica es la presencia de pequeños torbellinos erráticos, conocidos como remolinos, que alteran el flujo uniforme del fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_003",
+      "pregunta": "¿Cuál de las siguientes fórmulas se utiliza para calcular el caudal ($Q$) a partir del área de la sección transversal ($A$) y la rapidez media del fluido ($v$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$Q = A/v$$",
+        "B": "$$Q = v/A$$",
+        "C": "$$Q = A + v$$",
+        "D": "$$Q = Avt$$",
+        "E": "$$Q = Av$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El caudal ($Q$) se calcula multiplicando el área de la sección transversal ($A$) de la tubería por la rapidez media ($v$) del fluido que la atraviesa. La fórmula es $$Q = Av$$. Esto se deriva de que el volumen ($V$) que pasa en un tiempo ($t$) es $$V = Avt$$, y como $$Q = V/t$$, al sustituir se obtiene $$Q = Avt/t = Av$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_004",
+      "pregunta": "En el Sistema Internacional de Unidades (SI), ¿cuál es la unidad correcta para medir el caudal o gasto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$m/s$$",
+        "B": "$$m^2$$",
+        "C": "$$m^3/s$$",
+        "D": "$$s$$",
+        "E": "$$kg/m^3$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El caudal representa un volumen por unidad de tiempo. En el Sistema Internacional, el volumen se mide en metros cúbicos ($m^3$) y el tiempo en segundos ($s$). Por lo tanto, la unidad del caudal es metros cúbicos por segundo ($m^3/s$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_005",
+      "pregunta": "¿Cuál es la expresión matemática que representa la ecuación de continuidad para un fluido incompresible en dos puntos de una tubería?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$v_1/A_1 = v_2/A_2$$",
+        "B": "$$A_1 + v_1 = A_2 + v_2$$",
+        "C": "$$v_1A_1 = v_2A_2$$",
+        "D": "$$P_1V_1 = P_2V_2$$",
+        "E": "$$v_1A_2 = v_2A_1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación de continuidad establece que, para un fluido incompresible, el caudal es constante a lo largo de una tubería. Esto significa que el producto del área de la sección transversal ($A$) y la rapidez del fluido ($v$) en un punto es igual al producto en cualquier otro punto. Matemáticamente se expresa como $$v_1A_1 = v_2A_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_006",
+      "pregunta": "¿Qué principio fundamental de la física sustenta la ecuación de continuidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La conservación de la energía",
+        "B": "La segunda ley de Newton",
+        "C": "La conservación de la masa",
+        "D": "La ley de la termodinámica",
+        "E": "La conservación del momento angular"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación de continuidad es una consecuencia directa del principio de conservación de la masa. Este principio dicta que, si no hay fuentes ni sumideros, la masa de fluido que entra en una sección de una tubería en un intervalo de tiempo debe ser igual a la masa que sale en el mismo intervalo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_007",
+      "pregunta": "Si el caudal en una tubería se mantiene constante, ¿qué relación existe entre el área de la sección transversal ($A$) y la rapidez del fluido ($v$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son directamente proporcionales; si el área aumenta, la rapidez aumenta.",
+        "B": "Son inversamente proporcionales; si el área aumenta, la rapidez disminuye.",
+        "C": "No tienen ninguna relación entre sí.",
+        "D": "Su suma es siempre una constante.",
+        "E": "Su relación depende de la temperatura del fluido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación de continuidad ($$Av = constante$$) muestra que el área ($A$) y la rapidez ($v$) son inversamente proporcionales. Para que su producto se mantenga constante, si una de las variables aumenta, la otra debe disminuir en la misma proporción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_008",
+      "pregunta": "La expresión \"flujo volumétrico\" es un sinónimo utilizado para referirse a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La densidad del fluido.",
+        "B": "La presión del fluido.",
+        "C": "El flujo turbulento.",
+        "D": "El caudal o gasto.",
+        "E": "La viscosidad del fluido."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término \"flujo volumétrico\" describe exactamente lo que es el caudal: la cantidad de volumen que fluye por unidad de tiempo. Por lo tanto, es un sinónimo directo de caudal o gasto.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_009",
+      "pregunta": "Un fluido incompresible fluye por una tubería que cambia de un área $A_1$ a un área más pequeña $A_2$. ¿Cómo será la rapidez $v_2$ en comparación con $v_1$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$v_2 < v_1$$",
+        "B": "$$v_2 = v_1$$",
+        "C": "$$v_2 > v_1$$",
+        "D": "$$v_2 = 0$$",
+        "E": "La rapidez se vuelve negativa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la ecuación de continuidad $$v_1A_1 = v_2A_2$$. Para mantener la igualdad, si el área disminuye ($A_2 < A_1$), la rapidez del fluido debe aumentar ($v_2 > v_1$). Esto se observa comúnmente al apretar la boquilla de una manguera.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_010",
+      "pregunta": "En la deducción de la fórmula de caudal, el término $$vt$$ en la expresión de volumen $$V = Avt$$ representa:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El área de un círculo.",
+        "B": "La aceleración del fluido.",
+        "C": "El volumen total de la tubería.",
+        "D": "La distancia que recorre una partícula de fluido en el tiempo $t$.",
+        "E": "La presión ejercida por el fluido."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La rapidez ($v$) se define como distancia por unidad de tiempo ($v = d/t$). Por lo tanto, al multiplicar la rapidez por un intervalo de tiempo ($vt$), se obtiene la distancia ($d$) que una partícula de fluido recorre en ese tiempo. El volumen se calcula como el área de la sección ($A$) por esta distancia ($d=vt$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_011",
+      "pregunta": "¿Bajo qué condiciones principales la ecuación de continuidad $$v_1A_1 = v_2A_2$$ es válida para describir el flujo de un líquido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El fluido debe ser compresible y el flujo turbulento.",
+        "B": "El fluido debe ser viscoso y estar a alta temperatura.",
+        "C": "El fluido debe ser incompresible y no deben considerarse los efectos de la fricción.",
+        "D": "La tubería debe ser perfectamente horizontal y de diámetro constante.",
+        "E": "El flujo debe ser siempre lento y la presión constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La forma simple de la ecuación de continuidad ($$v_1A_1 = v_2A_2$$) se basa en dos supuestos clave: que el fluido es incompresible (su densidad no cambia) y que el caudal se mantiene constante, lo cual implica que no hay pérdidas de fluido debido a fugas o efectos significativos de fricción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_012",
+      "pregunta": "¿Qué afirmación describe correctamente lo que establece la ecuación de continuidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La rapidez del fluido es constante en todos los puntos de la tubería.",
+        "B": "El producto del área y la rapidez del fluido es constante a lo largo de la tubería.",
+        "C": "El volumen de la tubería es igual al caudal multiplicado por el tiempo.",
+        "D": "La presión del fluido aumenta cuando la rapidez aumenta.",
+        "E": "La masa del fluido varía proporcionalmente al área de la tubería."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación de continuidad, $$vA = constante$$, establece precisamente que para un fluido incompresible, el producto del área de la sección transversal ($A$) y la rapidez del fluido ($v$) en cualquier punto de una tubería cerrada es un valor constante. Esto significa que si $A$ cambia, $v$ debe ajustarse para mantener el producto igual.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_013",
+      "pregunta": "Al regar un jardín con una manguera, se coloca un dedo en la salida para reducir el área. El agua sale con mayor rapidez. ¿Qué principio físico se está aplicando?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El principio de Pascal.",
+        "B": "El principio de Arquímedes.",
+        "C": "La definición de flujo turbulento.",
+        "D": "La ecuación de continuidad.",
+        "E": "La ley de la conservación de la energía."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este es un ejemplo práctico de la ecuación de continuidad ($$v_1A_1 = v_2A_2$$). Al reducir el área de salida ($A_2 < A_1$) con el dedo, la rapidez del agua ($v_2$) debe aumentar para que el caudal (la cantidad de agua que sale por segundo) se mantenga constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_014",
+      "pregunta": "Un fluido incompresible fluye a través de una tubería. Si en un punto la rapidez se reduce a un tercio de su valor original ($$v_2 = v_1/3$$), ¿qué ha sucedido con el área de la sección transversal en ese punto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El área se redujo a un tercio ($$A_2 = A_1/3$$).",
+        "B": "El área se triplicó ($$A_2 = 3A_1$$).",
+        "C": "El área se mantuvo constante ($$A_2 = A_1$$).",
+        "D": "El área se redujo a un noveno ($$A_2 = A_1/9$$).",
+        "E": "El área se multiplicó por 9 ($$A_2 = 9A_1$$)."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "De acuerdo con la ecuación de continuidad $$A_1v_1 = A_2v_2$$. Si sustituimos $$v_2 = v_1/3$$, obtenemos $$A_1v_1 = A_2(v_1/3)$$. Al cancelar $v_1$ en ambos lados, nos queda $$A_1 = A_2/3$$. Despejando $A_2$, encontramos que $$A_2 = 3A_1$$. El área tuvo que triplicarse para que la velocidad se redujera a un tercio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_064_015",
+      "pregunta": "Considere dos secciones de un tubo, 1 y 2. Si el diámetro en la sección 2 es el doble del diámetro en la sección 1, ¿cuál es la relación entre la rapidez del fluido $v_2$ y $v_1$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$v_2 = 4v_1$$",
+        "B": "$$v_2 = 2v_1$$",
+        "C": "$$v_2 = v_1/2$$",
+        "D": "$$v_2 = v_1/4$$",
+        "E": "$$v_2 = v_1$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El área de una sección circular es $$A = \\pi r^2 = \\pi (d/2)^2 = (\\pi/4)d^2$$. Si el diámetro se duplica ($d_2 = 2d_1$), el área se cuadruplica, ya que $$A_2 = (\\pi/4)(2d_1)^2 = (\\pi/4)4d_1^2 = 4A_1$$. Usando la ecuación de continuidad $$A_1v_1 = A_2v_2$$, sustituimos $A_2$ y obtenemos $$A_1v_1 = (4A_1)v_2$$. Al cancelar $A_1$, queda $$v_1 = 4v_2$$, lo que significa que $$v_2 = v_1/4$$. La rapidez se reduce a una cuarta parte.",
+      "imagen": null
+    }
+  ]
+}

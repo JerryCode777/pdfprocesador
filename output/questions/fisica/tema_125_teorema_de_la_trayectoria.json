@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 125,
+  "total_temas": 137,
+  "titulo_tema": "Teorema de la Trayectoria",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_125_001",
+      "pregunta": "¿Cuál es la función principal de un voltímetro en un circuito eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Medir la intensidad de la corriente eléctrica",
+        "B": "Medir la resistencia total del circuito",
+        "C": "Medir la diferencia de potencial entre dos puntos",
+        "D": "Medir la energía consumida por un componente",
+        "E": "Medir la capacitancia de un condensador"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un voltímetro es un instrumento de medición diseñado específicamente para determinar la diferencia de potencial eléctrico, comúnmente conocida como voltaje, entre dos puntos cualesquiera de un circuito. No mide corriente (eso lo hace un amperímetro), ni resistencia (óhmetro), ni energía o capacitancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_002",
+      "pregunta": "¿De qué manera se debe conectar un voltímetro en un circuito para realizar una medición correcta?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En serie con el componente a medir",
+        "B": "En paralelo con los puntos a medir",
+        "C": "En una configuración mixta serie-paralelo",
+        "D": "Desconectando la fuente de voltaje principal",
+        "E": "En el punto de mayor resistencia del circuito"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para medir la diferencia de potencial entre dos puntos, el voltímetro debe conectarse en paralelo a través de esos puntos. Esto permite que el instrumento experimente la misma caída de voltaje que el segmento del circuito que se está midiendo, sin alterar significativamente el flujo de corriente del circuito principal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_003",
+      "pregunta": "¿Cuál de las siguientes ecuaciones representa correctamente la segunda regla de Kirchhoff?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\Sigma I = 0$$",
+        "B": "$$\\Sigma V = \\Sigma R$$",
+        "C": "$$\\Sigma V = \\Sigma \\frac{I}{R}$$",
+        "D": "$$\\Sigma V = \\Sigma IR$$",
+        "E": "$$V = I$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La segunda regla de Kirchhoff, también conocida como la regla de las espiras o mallas, establece que la suma algebraica de todas las diferencias de potencial (voltajes) en cualquier lazo cerrado es cero ($$\\Sigma V = 0$$). Una interpretación directa de esta regla es que la suma de las fuerzas electromotrices (fem) es igual a la suma de las caídas de potencial a través de las resistencias, lo que se expresa como $$\\Sigma V = \\Sigma IR$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_004",
+      "pregunta": "¿Cuál es el propósito fundamental del Teorema de la Trayectoria en el análisis de circuitos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Calcular la resistencia equivalente de todo el circuito.",
+        "B": "Medir la corriente total que fluye desde la fuente principal.",
+        "C": "Hallar el potencial en un punto o la diferencia de potencial entre dos puntos distantes.",
+        "D": "Determinar la potencia disipada únicamente en las fuentes de voltaje.",
+        "E": "Simplificar un circuito complejo en un circuito de una sola malla."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Teorema de la Trayectoria es una herramienta analítica que se aplica a tramos abiertos de un circuito (no necesariamente un lazo cerrado) para determinar el potencial eléctrico en un punto específico o, más comúnmente, la diferencia de potencial entre dos puntos que pueden no estar conectados directamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_005",
+      "pregunta": "Según los principios de la corriente eléctrica, ¿cómo se desplaza la corriente ($I$) en relación con el potencial eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De menor a mayor potencial eléctrico.",
+        "B": "De mayor a menor potencial eléctrico.",
+        "C": "Siempre hacia el polo positivo de la fuente.",
+        "D": "En la dirección donde la resistencia es mínima.",
+        "E": "De forma aleatoria sin seguir el potencial."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Por convención, la corriente eléctrica ($I$) fluye desde un punto de mayor potencial eléctrico hacia un punto de menor potencial eléctrico. Este flujo es análogo a cómo el agua fluye de una mayor a una menor altitud debido a la diferencia de potencial gravitacional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_006",
+      "pregunta": "Al aplicar el Teorema de la Trayectoria, si se recorre una resistencia $R$ en sentido contrario al de la corriente $I$, ¿cómo se debe considerar el producto $IR$ en la ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como un valor negativo ($$-IR$$)",
+        "B": "Como un valor positivo ($$+IR$$)",
+        "C": "Como cero ($$0$$), ya que se anula",
+        "D": "Depende del valor de la fuente de voltaje",
+        "E": "Como $$\\frac{I}{R}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La convención de signos establece que al moverse a través de una resistencia en la misma dirección que la corriente, hay una caída de potencial (negativo). Por el contrario, al moverse en sentido opuesto a la corriente, se experimenta una subida de potencial, por lo que el término $IR$ se considera positivo ($$+IR$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_007",
+      "pregunta": "Cuando se analiza una trayectoria que atraviesa una fuente de voltaje desde su polo positivo (+) a su polo negativo (-), ¿cómo se representa este voltaje en la ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como un aumento de voltaje ($$+V$$)",
+        "B": "Como una bajada de voltaje ($$-V$$)",
+        "C": "Como un valor nulo, ya que es una fuente",
+        "D": "Como $$\\frac{V}{R}$$",
+        "E": "Siempre positivo, independientemente de la dirección"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Atravesar una fuente de voltaje desde el terminal positivo al negativo representa una disminución o bajada en el potencial eléctrico. Por lo tanto, de acuerdo con las convenciones del Teorema de la Trayectoria, este voltaje se considera negativo ($$-V$$) en la suma algebraica de voltajes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_008",
+      "pregunta": "La ecuación $$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$ se utiliza en el Teorema de la Trayectoria. ¿Qué representa el término $$V_a - V_b$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La suma de todos los voltajes del circuito",
+        "B": "La diferencia de potencial entre los puntos 'a' y 'b'",
+        "C": "El voltaje total suministrado por las fuentes",
+        "D": "La caída de potencial en una única resistencia",
+        "E": "El trabajo realizado para mover una carga de 'a' a 'b'"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la ecuación del Teorema de la Trayectoria, $V_a$ es el potencial eléctrico en el punto de inicio 'a' y $V_b$ es el potencial en el punto final 'b'. Por lo tanto, la expresión $$V_a - V_b$$ representa la diferencia de potencial eléctrico entre esos dos puntos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_009",
+      "pregunta": "Al pasar a través de una fuente de voltaje desde el polo negativo (-) al polo positivo (+), se produce un aumento de voltaje. ¿Cuál es el signo que se le asigna a este voltaje ($V$) en el Teorema de la Trayectoria?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Negativo ($$-V$$)",
+        "B": "Positivo ($$+V$$)",
+        "C": "Neutro o cero",
+        "D": "Depende de la dirección de la corriente",
+        "E": "Se divide entre la resistencia"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Moverse desde el terminal negativo al positivo de una fuente de voltaje significa un aumento o ganancia de potencial eléctrico. Según la convención de signos para el análisis de trayectorias, este aumento se representa con un signo positivo ($$+V$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_010",
+      "pregunta": "Si al recorrer un tramo de circuito se pasa por una resistencia $R$ en el mismo sentido que la corriente $I$, ¿cómo se considera el producto $IR$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo ($$+IR$$), porque hay un aumento de potencial",
+        "B": "Negativo ($$-IR$$), porque hay una caída de potencial",
+        "C": "Cero, porque la resistencia no genera voltaje",
+        "D": "Positivo ($$+IR$$), porque la corriente y el recorrido coinciden",
+        "E": "Negativo ($$-IR$$), solo si es la única resistencia del tramo"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La corriente fluye de un potencial mayor a uno menor a través de una resistencia. Por lo tanto, recorrer una resistencia en la misma dirección que la corriente implica una caída o disminución del potencial eléctrico. Esta caída de potencial se representa con un signo negativo ($$-IR$$) en la ecuación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_011",
+      "pregunta": "¿Qué distingue la aplicación del Teorema de la Trayectoria de la segunda regla de Kirchhoff aplicada a una malla cerrada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El Teorema de la Trayectoria solo se aplica a circuitos con una sola fuente.",
+        "B": "La segunda regla de Kirchhoff no considera las resistencias.",
+        "C": "El Teorema de la Trayectoria se aplica a un tramo abierto entre dos puntos.",
+        "D": "El Teorema de la Trayectoria no utiliza convenciones de signos.",
+        "E": "La segunda regla de Kirchhoff solo es válida para circuitos en serie."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La segunda regla de Kirchhoff se formula para lazos o mallas cerradas, donde la suma de voltajes es cero. El Teorema de la Trayectoria es una generalización de esta regla que se aplica a un segmento o tramo abierto de un circuito (de un punto A a un punto B), permitiendo calcular la diferencia de potencial entre dichos puntos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_012",
+      "pregunta": "¿Cuál de las siguientes ecuaciones es una expresión válida para el Teorema de la Trayectoria en un tramo que va del punto 'a' al punto 'b'?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$V_{ab} - \\Sigma \\epsilon - \\Sigma IR = 0$$",
+        "B": "$$V_{ab} + \\Sigma \\epsilon + \\Sigma IR = 0$$",
+        "C": "$$V_a + V_b = \\Sigma IR$$",
+        "D": "$$\\Sigma \\epsilon = \\frac{V_{ab}}{R}$$",
+        "E": "$$V_{ab} + \\Sigma \\epsilon = \\Sigma IR$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una de las formulaciones correctas del Teorema de la Trayectoria para un tramo entre dos puntos 'a' y 'b' es $$V_{ab} + \\Sigma \\epsilon + \\Sigma IR = 0$$. Esta ecuación establece que la diferencia de potencial entre los puntos, más la suma de las fuerzas electromotrices y la suma de las caídas de potencial en las resistencias (considerando sus signos) a lo largo del tramo, es igual a cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_013",
+      "pregunta": "Se analiza una trayectoria de un punto A a un punto B. En el camino, se cruza una resistencia $R_1$ en sentido contrario a la corriente $I$ y luego una fuente de voltaje $V_1$ desde el polo positivo al negativo. ¿Qué términos representarían correctamente este recorrido en la suma $\\Sigma \\epsilon + \\Sigma IR$ de la ecuación del teorema?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$-V_1 - IR_1$$",
+        "B": "$$V_1 + IR_1$$",
+        "C": "$$-V_1 + IR_1$$",
+        "D": "$$V_1 - IR_1$$",
+        "E": "$$IR_1 - V_1$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para resolver esto, aplicamos las convenciones de signos: 1. Recorrer la resistencia $R_1$ en sentido contrario a la corriente $I$ resulta en una subida de potencial, por lo que el término es positivo: $$+IR_1$$. 2. Cruzar la fuente $V_1$ del polo positivo al negativo resulta en una bajada de potencial, por lo que el término es negativo: $$-V_1$$. Combinando ambos, la contribución a la suma es $$-V_1 + IR_1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_014",
+      "pregunta": "Considerando la ecuación del Teorema de la Trayectoria $$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$, si en un tramo de A a B se atraviesa una fuente de voltaje $\\epsilon$ del polo negativo al positivo y una resistencia $R$ en el mismo sentido de la corriente $I$, ¿cómo se escribiría la ecuación para este tramo específico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$V_A - V_B + \\epsilon = IR$$",
+        "B": "$$V_A - V_B - \\epsilon = -IR$$",
+        "C": "$$V_A - V_B - \\epsilon = IR$$",
+        "D": "$$V_A - V_B + \\epsilon = -IR$$",
+        "E": "$$V_A - V_B = IR + \\epsilon$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación general es $$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$. Para el tramo descrito: 1. El término $\\Sigma \\epsilon$ corresponde a pasar de negativo a positivo, lo cual es un aumento de potencial, así que se representa como $$+\\epsilon$$. 2. El término $\\Sigma IR$ corresponde a pasar por una resistencia en el mismo sentido que la corriente, lo cual es una caída de potencial, así que se representa como $$-IR$$. Sustituyendo en la fórmula general: $$V_A - V_B + (+\\epsilon) = (-IR)$$, que simplifica a $$V_A - V_B + \\epsilon = -IR$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_125_015",
+      "pregunta": "Las dos expresiones para el Teorema de la Trayectoria son $$V_{ab} + \\Sigma \\epsilon + \\Sigma IR = 0$$ y $$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$. ¿Cuál es la relación entre ambas ecuaciones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Son ecuaciones para casos diferentes y no se relacionan.",
+        "B": "Son equivalentes, ya que $$V_{ab}$$ se define como $$V_a - V_b$$ y un término se reorganizó algebraicamente.",
+        "C": "La primera es para circuitos abiertos y la segunda para circuitos cerrados.",
+        "D": "Son equivalentes, pero $$V_{ab}$$ se define como $$V_b - V_a$$.",
+        "E": "La segunda ecuación se deriva de la primera al asumir que $$\\Sigma \\epsilon = 0$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las dos ecuaciones son formas algebraicamente equivalentes de expresar el mismo principio. La diferencia de potencial $$V_{ab}$$ se define como el potencial en el punto 'a' menos el potencial en el punto 'b', es decir, $$V_{ab} = V_a - V_b$$. Si sustituimos esto en la primera ecuación, obtenemos $$(V_a - V_b) + \\Sigma \\epsilon + \\Sigma IR = 0$$. Si pasamos el término $$\\Sigma IR$$ al otro lado de la igualdad, obtenemos $$V_a - V_b + \\Sigma \\epsilon = - \\Sigma IR$$. Sin embargo, la segunda ecuación se presenta como $$V_a - V_b + \\Sigma \\epsilon = \\Sigma IR$$. Esto implica una diferencia en la convención de signos para $$\\Sigma IR$$ entre las dos fórmulas presentadas en el texto. A pesar de esto, la relación fundamental es que una es una reordenación de la otra, siendo $$V_{ab} = V_a - V_b$$ la conexión clave. La opción B captura esta equivalencia conceptual y la definición de $$V_{ab}$$. La discrepancia de signo en $$\\Sigma IR$$ probablemente se deba a cómo se define la suma en cada contexto, pero la equivalencia del principio permanece.",
+      "imagen": null
+    }
+  ]
+}

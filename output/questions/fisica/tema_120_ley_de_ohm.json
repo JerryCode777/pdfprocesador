@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 120,
+  "total_temas": 137,
+  "titulo_tema": "Ley de Ohm",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_120_001",
+      "pregunta": "¿Cuál es la relación matemática que expresa la Ley de Ohm?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\Delta V = IR$$",
+        "B": "$$I = \\frac{\\varepsilon}{R+r}$$",
+        "C": "$$V_{ab} = \\varepsilon - Ir$$",
+        "D": "$$E = P \\cdot t$$",
+        "E": "$$R = \\frac{\\Delta V}{I^2}$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La Ley de Ohm establece una relación de proporcionalidad directa entre la diferencia de potencial (voltaje) y la intensidad de corriente en un conductor. Esta relación se expresa matemáticamente como $$\\Delta V = IR$$, donde $$\\Delta V$$ es la diferencia de potencial, $$I$$ es la intensidad de corriente y $$R$$ es la resistencia eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_002",
+      "pregunta": "¿Qué unidad se utiliza para medir la resistencia eléctrica ($R$) en el Sistema Internacional?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Amperio (A)",
+        "B": "Voltio (V)",
+        "C": "Ohmio (Ω)",
+        "D": "Vatio (W)",
+        "E": "Julio (J)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La unidad de medida para la resistencia eléctrica en el Sistema Internacional de Unidades es el ohmio, representado por la letra griega omega ($$\\Omega$$). El amperio mide la intensidad de corriente y el voltio mide la diferencia de potencial.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_003",
+      "pregunta": "¿Qué representa el símbolo $I$ en la ecuación de la Ley de Ohm?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Resistencia eléctrica",
+        "B": "Diferencia de potencial",
+        "C": "Energía eléctrica",
+        "D": "Intensidad de corriente",
+        "E": "Fuerza electromotriz"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En la fórmula de la Ley de Ohm, $$\\Delta V = IR$$, el símbolo $I$ representa la intensidad de la corriente eléctrica, que es el flujo de carga eléctrica por unidad de tiempo y se mide en amperios (A).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_004",
+      "pregunta": "¿Qué característica principal tienen los materiales que obedecen la ley de Ohm?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Su resistencia $R$ varía con el voltaje",
+        "B": "Su resistencia $R$ es una constante",
+        "C": "No conducen electricidad",
+        "D": "Su gráfica (V – I) es una curva",
+        "E": "Solo funcionan con corriente alterna"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un material se considera óhmico, es decir, obedece la ley de Ohm, si su resistencia eléctrica $R$ es una constante que no depende de la diferencia de potencial $$\\Delta V$$ aplicada. Esto da como resultado una relación lineal entre voltaje y corriente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_005",
+      "pregunta": "¿Cómo se relacionan la energía eléctrica ($E$), la potencia ($P$) y el tiempo ($t$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$E = \\frac{P}{t}$$",
+        "B": "$$E = P \\cdot t$$",
+        "C": "$$E = P^2 \\cdot t$$",
+        "D": "$$P = E \\cdot t$$",
+        "E": "$$t = E \\cdot P$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía eléctrica ($E$) consumida o suministrada por un dispositivo es igual a la potencia eléctrica ($P$) del dispositivo multiplicada por el tiempo ($t$) durante el cual está en funcionamiento. La fórmula correcta es $$E = P \\cdot t$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_006",
+      "pregunta": "¿Qué establece la Ley de Ohm sobre la relación entre la diferencia de potencial y la intensidad de corriente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son inversamente proporcionales",
+        "B": "Son directamente proporcionales",
+        "C": "Su relación es cuadrática",
+        "D": "No tienen ninguna relación",
+        "E": "Son siempre iguales en magnitud"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de Ohm establece que, para un conductor a temperatura constante, la diferencia de potencial (voltaje) es directamente proporcional a la intensidad de corriente que lo atraviesa. Esto significa que si uno aumenta, el otro también lo hace en la misma proporción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_007",
+      "pregunta": "¿Cuál es la fórmula que determina la corriente $I$ en un circuito que incluye una fuente con fuerza electromotriz $\\varepsilon$ y resistencia interna $r$, conectada a una resistencia externa $R$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$I = \\frac{\\varepsilon}{R}$$",
+        "B": "$$I = \\frac{\\varepsilon}{r}$$",
+        "C": "$$I = \\varepsilon (R+r)$$",
+        "D": "$$I = \\frac{\\varepsilon}{R+r}$$",
+        "E": "$$I = \\frac{V_{ab}}{r}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para un circuito completo, la corriente total $I$ es igual a la fuerza electromotriz total $\\varepsilon$ dividida por la resistencia total del circuito. La resistencia total es la suma de la resistencia externa $R$ y la resistencia interna de la fuente $r$. Por lo tanto, la fórmula correcta es $$I = \\frac{\\varepsilon}{R+r}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_008",
+      "pregunta": "En un material óhmico, si la diferencia de potencial $$\\Delta V$$ se duplica, ¿qué le sucede a la intensidad de corriente $I$, asumiendo que la resistencia $R$ permanece constante?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad",
+        "B": "Permanece igual",
+        "C": "Se duplica",
+        "D": "Se cuadruplica",
+        "E": "Se vuelve cero"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la Ley de Ohm ($$\\Delta V = IR$$), el voltaje y la corriente son directamente proporcionales. Si la resistencia $R$ es constante y el voltaje $$\\Delta V$$ se duplica, la corriente $I$ también debe duplicarse para mantener la igualdad en la ecuación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_009",
+      "pregunta": "¿Qué describe la ecuación $$V_{ab} = \\varepsilon - Ir$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ley de Ohm para un resistor externo",
+        "B": "La energía consumida por un circuito",
+        "C": "La corriente total en un circuito complejo",
+        "D": "La diferencia de potencial en los terminales de una fuente con resistencia interna",
+        "E": "La potencia disipada en la resistencia interna"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta ecuación describe la tensión o diferencia de potencial ($$V_{ab}$$) disponible en los terminales de una fuente de alimentación real (como una batería). Es igual a la fuerza electromotriz ideal ($\\varepsilon$) menos la caída de voltaje ($Ir$) que se produce dentro de la propia fuente debido a su resistencia interna $r$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_010",
+      "pregunta": "¿Qué tipo de transformación de energía es característica de un generador en un circuito eléctrico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Eléctrica a mecánica",
+        "B": "Lumínosa a eléctrica",
+        "C": "Química a eléctrica",
+        "D": "Calórica a sonora",
+        "E": "Eléctrica a calórica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un generador es un dispositivo que suministra energía a un circuito. Lo hace transformando una forma de energía no eléctrica en energía eléctrica. Un ejemplo común, como el de una batería, es la transformación de energía química almacenada en energía eléctrica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_011",
+      "pregunta": "¿Qué distingue a un material no óhmico de uno óhmico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los materiales no óhmicos no tienen resistencia",
+        "B": "La resistencia de un material no óhmico no es constante",
+        "C": "Los materiales no óhmicos solo existen a bajas temperaturas",
+        "D": "La gráfica (V-I) de un material no óhmico es siempre vertical",
+        "E": "Los materiales no óhmicos transforman energía química en eléctrica"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La principal diferencia es que los materiales óhmicos tienen una resistencia constante, independientemente del voltaje aplicado. En cambio, en los materiales no óhmicos, la resistencia $R$ no es constante y varía con la diferencia de potencial o la corriente, lo que resulta en una gráfica (V-I) que no es una línea recta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_012",
+      "pregunta": "¿Qué se puede inferir si la gráfica de diferencia de potencial versus intensidad de corriente ($V-I$) de un componente es una línea recta que pasa por el origen?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El componente es un generador ideal",
+        "B": "El componente tiene una resistencia interna nula",
+        "C": "El componente es un material no óhmico",
+        "D": "El componente obedece la Ley de Ohm",
+        "E": "La resistencia del componente aumenta con la corriente"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una gráfica ($V-I$) que es una línea recta que pasa por el origen demuestra una relación de proporcionalidad directa entre el voltaje $V$ y la corriente $I$. Esta linealidad es la característica fundamental de un material o componente que obedece la Ley de Ohm, donde la resistencia $R$ (la pendiente de la gráfica) es constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_013",
+      "pregunta": "En una fuente con resistencia interna $r$, ¿por qué la diferencia de potencial en sus terminales, $$V_{ab}$$, es menor que su fuerza electromotriz $\\varepsilon$ cuando fluye una corriente $I$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la resistencia externa $R$ consume parte de la fuerza electromotriz",
+        "B": "Porque la corriente $I$ es demasiado alta",
+        "C": "Porque se produce una caída de potencial ($Ir$) debido a la resistencia interna de la fuente",
+        "D": "Porque la fuerza electromotriz $\\varepsilon$ disminuye con el tiempo",
+        "E": "Porque la energía se transforma únicamente en calor"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza electromotriz $\\varepsilon$ es la energía total por unidad de carga que la fuente puede suministrar. Sin embargo, al fluir una corriente $I$, una parte de este voltaje se pierde internamente al pasar por la propia resistencia $r$ de la fuente. Esta pérdida, o caída de potencial interna, es igual a $Ir$. Por lo tanto, el voltaje disponible en los terminales es $$V_{ab} = \\varepsilon - Ir$$, que es menor que $\\varepsilon$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_014",
+      "pregunta": "Considerando la ecuación $$I = \\frac{\\varepsilon}{R + r}$$, ¿qué sucede con la corriente $I$ si la resistencia externa $R$ aumenta, manteniendo $\\varepsilon$ y $r$ constantes?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La corriente $I$ aumenta",
+        "B": "La corriente $I$ disminuye",
+        "C": "La corriente $I$ no cambia",
+        "D": "La corriente $I$ se vuelve igual a $\\varepsilon$",
+        "E": "La corriente $I$ se vuelve negativa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la ecuación $$I = \\frac{\\varepsilon}{R + r}$$, la corriente $I$ es inversamente proporcional a la resistencia total del circuito, que es la suma $$R+r$$. Si la resistencia externa $R$ aumenta, el valor del denominador ($$R+r$$) también aumenta. Como resultado, el valor de la fracción, que representa la corriente $I$, disminuirá.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_120_015",
+      "pregunta": "¿Qué se puede concluir acerca de un material si, al aumentar la diferencia de potencial $$\\Delta V$$ aplicada sobre él, su resistencia $R$ también aumenta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El material es un conductor perfecto",
+        "B": "El material obedece la Ley de Ohm",
+        "C": "El material es un aislante perfecto",
+        "D": "El material es no óhmico",
+        "E": "La intensidad de corriente $I$ se mantiene constante"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Ohm es válida únicamente para materiales donde la resistencia $R$ es una constante, independiente de la diferencia de potencial $$\\Delta V$$. Si la resistencia $R$ de un material cambia (en este caso, aumenta) cuando se modifica el voltaje, significa que no cumple con la condición de constancia de $R$. Por lo tanto, se clasifica como un material no óhmico.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 65,
+  "total_temas": 137,
+  "titulo_tema": "Ecuación de Bernoulli",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_065_001",
+      "pregunta": "¿Quién dedujo por primera vez la ecuación que relaciona la rapidez del fluido, la presión y la altura en 1738?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Isaac Newton",
+        "B": "Paul E. Tippens",
+        "C": "Albert Einstein",
+        "D": "Daniel Bernoulli",
+        "E": "Galileo Galilei"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ecuación de Bernoulli fue deducida por primera vez en 1738 por el físico suizo Daniel Bernoulli. Esta ecuación establece una relación fundamental entre la presión, la rapidez y la altura de un fluido en movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_002",
+      "pregunta": "La ecuación de Bernoulli es aplicable a un tipo específico de fluido. ¿Cuáles son sus características?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un fluido real y compresible",
+        "B": "Un fluido ideal e incompresible",
+        "C": "Cualquier líquido, pero no gases",
+        "D": "Un fluido en estado estático",
+        "E": "Un fluido viscoso y turbulento"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación de Bernoulli es una herramienta de análisis para el flujo de fluidos que se describe como ideal e incompresible. Un fluido ideal no tiene viscosidad y un fluido incompresible tiene una densidad constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_003",
+      "pregunta": "En la ecuación de Bernoulli, $$P + \\rho gh + \\frac{1}{2}\\rho v^2 = \\text{constante}$$, ¿qué magnitud física representa el símbolo $P$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presión manométrica",
+        "B": "La potencia del fluido",
+        "C": "La presión absoluta",
+        "D": "El peso específico",
+        "E": "La presión hidrostática"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término $P$ en la ecuación de Bernoulli representa la presión absoluta del fluido. Se especifica que no se debe confundir con la presión manométrica, que es la presión medida en relación con la presión atmosférica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_004",
+      "pregunta": "¿Cuál de las siguientes fórmulas representa correctamente la ecuación de Bernoulli para un fluido ideal incompresible?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$P + \\rho gh + \\frac{1}{2}\\rho v^2 = \\text{constante}$$",
+        "B": "$$P - \\rho gh - \\frac{1}{2}\\rho v^2 = 0$$",
+        "C": "$$\\frac{P}{\\rho} + gh + v = \\text{constante}$$",
+        "D": "$$P = \\rho g h$$",
+        "E": "$$F = ma$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La forma correcta de la ecuación de Bernoulli para un fluido ideal e incompresible es $$P + \\rho gh + \\frac{1}{2}\\rho v^2 = \\text{constante}$$. Esta expresión indica que la suma de la presión, la energía potencial por unidad de volumen ($$\\rho gh$$) y la energía cinética por unidad de volumen ($$\\frac{1}{2}\\rho v^2$$) es constante a lo largo de una línea de corriente del fluido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_005",
+      "pregunta": "En el Sistema Internacional (S.I.), ¿cuál es la unidad de medida para la densidad ($\\rho$) en la ecuación de Bernoulli?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\text{g/cm}^3$$",
+        "B": "$$\\text{kg/L}$$",
+        "C": "$$\\text{N/m}^3$$",
+        "D": "$$\\text{kg/m}^3$$",
+        "E": "$$\\text{Pa/m}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Dentro del Sistema Internacional de Unidades (S.I.), la densidad ($\\rho$), que es la masa por unidad de volumen, se expresa en kilogramos por metro cúbico ($$\\text{kg/m}^3$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_006",
+      "pregunta": "Según la ecuación de Bernoulli, ¿qué sucede con la presión de un fluido cuando su rapidez aumenta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión aumenta proporcionalmente.",
+        "B": "La presión no cambia.",
+        "C": "La presión disminuye.",
+        "D": "La presión aumenta cuadráticamente.",
+        "E": "La relación depende de la temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación de Bernoulli muestra una relación inversa entre la rapidez y la presión de un fluido. Si la suma $$P + \\rho gh + \\frac{1}{2}\\rho v^2$$ debe permanecer constante, un aumento en la rapidez ($v$) resultará en una disminución de la presión ($P$), asumiendo que la altura ($h$) no cambia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_007",
+      "pregunta": "¿Cómo afecta un aumento en la elevación ($h$) a la presión ($P$) de un fluido, según lo describe la ecuación de Bernoulli?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión aumenta.",
+        "B": "La presión disminuye.",
+        "C": "La presión permanece constante si la rapidez no cambia.",
+        "D": "La presión se vuelve negativa.",
+        "E": "El efecto es nulo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación de Bernoulli indica que la presión también disminuye conforme aumenta la elevación. El término $$\\rho gh$$ representa la energía potencial por unidad de volumen. Si la altura ($h$) aumenta, y los otros factores se mantienen, la presión ($P$) debe disminuir para que la suma total permanezca constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_008",
+      "pregunta": "¿Cuál es la expresión completa de la ecuación de Bernoulli que compara dos puntos diferentes (1 y 2) en el flujo de un fluido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$P_1 + \\rho v_1^2 = P_2 + \\rho v_2^2$$",
+        "B": "$$\\rho gh_1 + \\frac{1}{2}\\rho v_1^2 = \\rho gh_2 + \\frac{1}{2}\\rho v_2^2$$",
+        "C": "$$P_1 + \\rho gh_1 + \\frac{1}{2}\\rho v_1^2 = P_2 + \\rho gh_2 + \\frac{1}{2}\\rho v_2^2$$",
+        "D": "$$P_1 v_1 = P_2 v_2$$",
+        "E": "$$P_1 / h_1 = P_2 / h_2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación de Bernoulli establece que la suma de la presión, la energía potencial por unidad de volumen y la energía cinética por unidad de volumen es constante a lo largo de una línea de flujo. Al comparar dos puntos, esta constancia se expresa como $$P_1 + \\rho gh_1 + \\frac{1}{2}\\rho v_1^2 = P_2 + \\rho gh_2 + \\frac{1}{2}\\rho v_2^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_009",
+      "pregunta": "La ecuación de Bernoulli es una herramienta indispensable para analizar el flujo de fluidos, pero se basa en otra relación crucial que afirma que la rapidez de flujo puede variar a lo largo de su trayectoria. ¿Cuál es esta relación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ley de la gravitación universal",
+        "B": "La segunda ley de Newton",
+        "C": "El principio de Arquímedes",
+        "D": "La ecuación de continuidad",
+        "E": "La ley de Pascal"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El contenido menciona que, según la ecuación de continuidad, la rapidez de flujo de un fluido puede variar a lo largo de sus trayectorias. Este principio es fundamental para entender cómo y por qué cambia la variable de rapidez ($v$) en la ecuación de Bernoulli.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_010",
+      "pregunta": "¿Qué tres magnitudes físicas fundamentales relaciona la ecuación de Bernoulli?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Presión, temperatura y volumen",
+        "B": "Masa, velocidad y aceleración",
+        "C": "Presión, rapidez de flujo y altura",
+        "D": "Densidad, viscosidad y temperatura",
+        "E": "Fuerza, área y presión"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación de Bernoulli establece la relación fundamental entre tres variables clave en el flujo de un fluido: la presión ($P$), la rapidez de flujo ($v$) y la altura o elevación ($h$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_011",
+      "pregunta": "En la ecuación $$P_1 + \\rho gh_1 + \\frac{1}{2}\\rho v_1^2 = P_2 + \\rho gh_2 + \\frac{1}{2}\\rho v_2^2$$, ¿qué representa el término $$\\frac{1}{2}\\rho v^2$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión estática",
+        "B": "La energía potencial por unidad de volumen",
+        "C": "La presión dinámica o energía cinética por unidad de volumen",
+        "D": "La densidad de energía total",
+        "E": "El trabajo realizado por la gravedad"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El término $$\\frac{1}{2}\\rho v^2$$ está directamente relacionado con la rapidez ($v$) del fluido. Representa la energía cinética del fluido por unidad de volumen, también conocida como presión dinámica. A mayor rapidez, mayor es este término.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_012",
+      "pregunta": "¿Cuál de las siguientes unidades del Sistema Internacional (S.I.) es correcta para la presión absoluta ($P$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Pascal (Pa)",
+        "C": "Joule (J)",
+        "D": "Kilogramo (kg)",
+        "E": "Metro por segundo (m/s)"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En el Sistema Internacional de Unidades (S.I.), la unidad para la presión, ya sea absoluta o manométrica, es el Pascal (Pa), que es equivalente a un Newton por metro cuadrado ($$\\text{N/m}^2$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_013",
+      "pregunta": "¿Por qué motivo la presión del agua en los grifos de los pisos superiores de un edificio alto tiende a ser más débil?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la rapidez del agua aumenta con la altura.",
+        "B": "Porque la densidad del agua disminuye en los pisos superiores.",
+        "C": "Porque la presión disminuye a medida que aumenta la elevación.",
+        "D": "Porque la tubería se estrecha y aumenta la fricción.",
+        "E": "Porque la temperatura del agua es menor en los pisos altos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este es un ejemplo práctico de la ecuación de Bernoulli. La ecuación muestra que la presión disminuye conforme aumenta la elevación ($h$). Por lo tanto, en un piso superior ($h$ mayor), la presión del agua ($P$) será naturalmente más baja en comparación con un piso inferior ($h$ menor), a menos que se instalen sistemas para aumentar la presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_014",
+      "pregunta": "Si un fluido ideal fluye horizontalmente ($h_1 = h_2$) y su rapidez aumenta al pasar de un punto 1 a un punto 2 ($v_2 > v_1$), ¿qué se puede concluir sobre la presión en esos puntos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La presión en el punto 2 es mayor que en el punto 1 ($P_2 > P_1$).",
+        "B": "La presión no cambia ($P_2 = P_1$).",
+        "C": "La presión en el punto 2 es menor que en el punto 1 ($P_2 < P_1$).",
+        "D": "La presión se duplica.",
+        "E": "La presión depende únicamente de la densidad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Partiendo de la ecuación $$P_1 + \\rho gh_1 + \\frac{1}{2}\\rho v_1^2 = P_2 + \\rho gh_2 + \\frac{1}{2}\\rho v_2^2$$. Si el flujo es horizontal, $h_1 = h_2$, los términos $\\rho gh$ se cancelan, quedando $$P_1 + \\frac{1}{2}\\rho v_1^2 = P_2 + \\frac{1}{2}\\rho v_2^2$$. Si la rapidez aumenta ($v_2 > v_1$), para que la igualdad se mantenga, la presión en el punto 2 ($P_2$) debe ser necesariamente menor que la presión en el punto 1 ($P_1$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_065_015",
+      "pregunta": "Al analizar el flujo de agua en una manguera, se observa que la rapidez del agua aumenta en la salida. Según el principio de Bernoulli, ¿cómo es la presión en la salida en comparación con la presión en una sección más ancha de la manguera?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Es significativamente mayor.",
+        "B": "Es ligeramente mayor.",
+        "C": "Es exactamente la misma.",
+        "D": "Es menor.",
+        "E": "No se puede determinar sin conocer la densidad."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El contenido explica que la rapidez del agua aumenta en la salida de la manguera. La ecuación de Bernoulli establece que cuando la rapidez ($v$) de un fluido aumenta, su presión ($P$) disminuye. Por lo tanto, en la salida de la manguera, donde la rapidez es mayor, la presión del fluido es menor en comparación con una parte más ancha y lenta de la manguera.",
+      "imagen": null
+    }
+  ]
+}

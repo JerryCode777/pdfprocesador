@@ -6,82 +6,112 @@
   "preguntas": [
     {
       "id_temporal": "quimica_019_001",
-      "pregunta": "¿Cuál es una característica fundamental de una mezcla?",
+      "pregunta": "¿Cuál es el principio fundamental en el que se basa el método de separación por decantación?",
       "dificultad": 1,
       "opciones": {
-        "A": "Sus componentes solo pueden separarse por métodos químicos.",
-        "B": "Tiene una composición fija y definida.",
-        "C": "Sus componentes se pueden separar por métodos físicos.",
-        "D": "Sus propiedades son totalmente diferentes a las de sus componentes.",
-        "E": "Siempre resulta en la formación de una nueva sustancia."
+        "A": "La diferencia en el tamaño de las partículas de los componentes.",
+        "B": "Las propiedades magnéticas de uno de los componentes.",
+        "C": "La diferencia de densidades entre los componentes.",
+        "D": "La diferencia en los puntos de ebullición de los líquidos.",
+        "E": "La capacidad de un sólido para disolverse en un líquido."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Una mezcla es una combinación de dos o más sustancias que no están unidas químicamente. Debido a esto, cada componente conserva su identidad y propiedades, lo que permite separarlos mediante métodos físicos que no alteran su naturaleza química, como la decantación, el tamizado o la imantación.",
+      "explicacion": "La decantación es un método de separación que se basa enteramente en la diferencia de densidades. Al dejar reposar una mezcla, el componente más denso se asienta en el fondo, mientras que el menos denso permanece en la parte superior, permitiendo su separación. Esto aplica tanto para mezclas de sólido-líquido (arena y agua) como para líquidos no miscibles (aceite y agua).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_002",
-      "pregunta": "El método de separación conocido como tamizado se basa principalmente en la diferencia de...",
+      "pregunta": "De acuerdo con sus características, ¿cómo se pueden separar los componentes de una mezcla?",
       "dificultad": 1,
       "opciones": {
-        "A": "densidades.",
-        "B": "propiedades magnéticas.",
-        "C": "tamaños de partícula.",
-        "D": "solubilidad en un disolvente.",
-        "E": "puntos de ebullición."
+        "A": "Únicamente por métodos químicos.",
+        "B": "Solo mediante reacciones de precipitación.",
+        "C": "Por métodos físicos.",
+        "D": "Exclusivamente por calentamiento a altas temperaturas.",
+        "E": "No se pueden separar una vez combinados."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El tamizado es un método mecánico que utiliza un tamiz o criba con una malla de aberturas de un tamaño específico. Al pasar la mezcla a través de él, las partículas más pequeñas que las aberturas pasan, mientras que las más grandes son retenidas. Por lo tanto, su principio de funcionamiento es la diferencia en el tamaño de las partículas.",
+      "explicacion": "Una característica fundamental de una mezcla es que sus componentes no están unidos químicamente, por lo que conservan sus propiedades individuales. Esto permite que puedan ser separados utilizando métodos físicos, como la decantación, el tamizado o la imantación, que no alteran la naturaleza química de las sustancias.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_003",
-      "pregunta": "¿Para qué tipo de mezclas se utiliza el método de imantación?",
+      "pregunta": "¿Qué método se utiliza para separar una mezcla de sólidos basándose en partículas de diferentes tamaños mediante una malla o tamiz?",
       "dificultad": 1,
       "opciones": {
-        "A": "Para separar líquidos con diferentes densidades.",
-        "B": "Para separar sólidos con diferentes tamaños de partícula.",
-        "C": "Para separar metales de no metales utilizando un campo magnético.",
-        "D": "Para separar un sólido suspendido en un líquido.",
-        "E": "Para separar sólidos basados en su densidad usando un disolvente."
+        "A": "Levigación",
+        "B": "Decantación",
+        "C": "Imantación",
+        "D": "Tamizado",
+        "E": "Evaporación"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La imantación aprovecha la propiedad del magnetismo que poseen algunos materiales, principalmente metales ferromagnéticos como el hierro. Se utiliza un imán para atraer y separar estos materiales de otros que no son magnéticos, como la arena o el plástico.",
+      "respuesta_correcta": "D",
+      "explicacion": "El tamizado es el método específico para separar mezclas de sólidos cuyas partículas tienen diferentes tamaños. Consiste en pasar la mezcla a través de un tamiz o malla que retiene las partículas más grandes y deja pasar las más pequeñas. Es comúnmente usado en la industria de las harinas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_004",
-      "pregunta": "La decantación es un método de separación que se fundamenta en la diferencia de...",
+      "pregunta": "¿En qué consiste el método de separación por imantación?",
       "dificultad": 1,
       "opciones": {
-        "A": "tamaño de las partículas.",
-        "B": "propiedades magnéticas.",
-        "C": "solubilidad.",
-        "D": "densidades de los componentes.",
-        "E": "reactividad química."
+        "A": "En separar líquidos de diferentes densidades.",
+        "B": "En separar sólidos de diferentes tamaños con una malla.",
+        "C": "En separar metales de no metales utilizando un campo magnético.",
+        "D": "En disolver un componente de una mezcla de sólidos.",
+        "E": "En dejar que el sólido más pesado se asiente en el fondo."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La decantación se basa en que, al dejar reposar una mezcla, el componente más denso se va al fondo por acción de la gravedad. Esto aplica tanto a un sólido en un líquido (como arena en agua) como a dos líquidos no miscibles (como aceite y agua), donde el más denso forma la capa inferior.",
+      "respuesta_correcta": "C",
+      "explicacion": "La imantación aprovecha las propiedades magnéticas de algunos materiales. Consiste en utilizar un imán (que genera un campo magnético) para atraer y separar los componentes metálicos y ferromagnéticos de una mezcla, dejando atrás los componentes no magnéticos, como en el caso de limaduras de hierro y arena.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_005",
-      "pregunta": "¿Qué característica principal diferencia a un compuesto de una mezcla en cuanto a su composición?",
+      "pregunta": "¿Cuál es una característica distintiva de un compuesto químico en cuanto a la separación de sus componentes?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un compuesto tiene una composición variable.",
-        "B": "Los componentes de un compuesto retienen sus propiedades originales.",
-        "C": "Un compuesto tiene una composición fija.",
-        "D": "Un compuesto puede ser separado por métodos físicos.",
-        "E": "La composición de un compuesto depende de su método de preparación."
+        "A": "Sus componentes se pueden separar por métodos físicos.",
+        "B": "Su composición es variable.",
+        "C": "Sus componentes solo se pueden separar por métodos químicos.",
+        "D": "Sus propiedades son una suma de las propiedades de sus componentes.",
+        "E": "Se pueden separar por decantación."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Un compuesto químico, como el agua (H₂O), siempre está formado por los mismos elementos en la misma proporción o composición fija. En cambio, en una mezcla, como agua con arena, la proporción de los componentes puede variar sin que cambie la naturaleza de la mezcla.",
+      "explicacion": "A diferencia de una mezcla, en un compuesto los componentes están unidos por enlaces químicos. Para separarlos, es necesario romper estos enlaces, lo cual solo se puede lograr mediante reacciones o métodos químicos. Los métodos físicos no son suficientes para descomponer un compuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_006",
-      "pregunta": "¿Cuál de las siguientes mezclas sería más apropiado separar utilizando el método de imantación?",
+      "pregunta": "¿Qué propiedad física es el principio fundamental tanto en la decantación como en la levigación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El tamaño de partícula.",
+        "B": "La densidad.",
+        "C": "El magnetismo.",
+        "D": "La solubilidad.",
+        "E": "El punto de fusión."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos métodos se basan en la diferencia de densidad. En la decantación, el componente más denso se asienta por gravedad. En la levigación, se usa un disolvente para que el sólido más denso precipite mientras el más liviano queda en suspensión, pero la separación final sigue dependiendo de la diferencia de densidad entre los sólidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_019_007",
+      "pregunta": "Para separar una mezcla de aceite y agua, dos líquidos que no se mezclan, ¿qué instrumento de laboratorio se utiliza comúnmente en el proceso de decantación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un tamiz.",
+        "B": "Un imán potente.",
+        "C": "Un embudo de separación.",
+        "D": "Un papel filtro.",
+        "E": "Un cristalizador."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La decantación de líquidos no miscibles (inmiscibles), como el aceite y el agua, se realiza utilizando un embudo de separación. Este instrumento permite que los líquidos formen capas según su densidad y tiene una llave en la parte inferior para drenar cuidadosamente la capa más densa, logrando la separación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_019_008",
+      "pregunta": "¿Cuál de los siguientes pares de sustancias se podría separar eficazmente mediante imantación?",
       "dificultad": 2,
       "opciones": {
         "A": "Arena y cemento.",
@@ -91,142 +121,112 @@
         "E": "Corcho y arena."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La imantación es efectiva para separar un componente magnético de uno no magnético. En la mezcla de arena y limaduras de hierro, el hierro es atraído por un imán, mientras que la arena no lo es. Esto permite una separación limpia y sencilla.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_019_007",
-      "pregunta": "La separación de una mezcla de aceite y agua utilizando un embudo de separación es un ejemplo clásico de:",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Tamizado.",
-        "B": "Levigación.",
-        "C": "Imantación.",
-        "D": "Decantación.",
-        "E": "Precipitación."
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "El aceite y el agua son líquidos no miscibles (no se mezclan) y tienen diferentes densidades. Al dejarlos reposar en un embudo de separación, forman dos capas distintas. Este proceso, que aprovecha la diferencia de densidad para separar líquidos, es la decantación.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_019_008",
-      "pregunta": "¿Cuál es el mecanismo principal por el cual la levigación separa los componentes de una mezcla de sólidos?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Atrae uno de los sólidos con un campo magnético.",
-        "B": "Disuelve completamente uno de los sólidos.",
-        "C": "Usa un disolvente para que las partículas más livianas queden suspendidas y las más pesadas precipiten.",
-        "D": "Filtra la mezcla a través de una malla para separar por tamaño.",
-        "E": "Calienta la mezcla hasta que uno de los componentes se evapore."
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "La levigación es un método que consiste en pulverizar una mezcla de sólidos y tratarla con un disolvente apropiado (como agua). Las partículas más densas y pesadas se asientan en el fondo (precipitan), mientras que las más livianas y menos densas quedan en suspensión y pueden ser arrastradas, permitiendo la separación.",
+      "explicacion": "La imantación es efectiva solo cuando uno de los componentes de la mezcla tiene propiedades magnéticas. En este caso, las limaduras de hierro son atraídas por un imán, mientras que la arena no lo es, permitiendo una separación limpia y sencilla.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_009",
-      "pregunta": "La separación de harina y afrecho, común en la industria de las harinas, es una aplicación práctica del método de:",
+      "pregunta": "¿Por qué el método de levigación es particularmente útil en la minería para la separación de metales preciosos como el oro y la plata?",
       "dificultad": 2,
       "opciones": {
-        "A": "Levigación.",
-        "B": "Decantación.",
-        "C": "Imantación.",
-        "D": "Tamizado.",
-        "E": "Separación por solvente."
+        "A": "Porque el oro y la plata son magnéticos.",
+        "B": "Porque el oro y la plata tienen partículas de mayor tamaño que la roca.",
+        "C": "Porque el oro y la plata son mucho más densos que los minerales circundantes (ganga).",
+        "D": "Porque se disuelven fácilmente en agua.",
+        "E": "Porque reaccionan químicamente con el disolvente utilizado."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La harina está compuesta por partículas muy finas, mientras que el afrecho (la cáscara del grano) tiene un tamaño de partícula considerablemente mayor. Esta diferencia de tamaño hace que el tamizado sea el método ideal y más utilizado para separarlos en la industria alimentaria.",
+      "respuesta_correcta": "C",
+      "explicacion": "La levigación se usa en minería porque los metales preciosos como el oro son extremadamente densos. Al tratar la mezcla de minerales con una corriente de agua u otro disolvente, los materiales más ligeros (ganga) son arrastrados, mientras que las partículas pesadas del metal precioso precipitan y se asientan en el fondo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_010",
-      "pregunta": "¿Cuál es la diferencia fundamental entre los métodos de separación para mezclas y para compuestos?",
+      "pregunta": "Al mezclar sal con agua se forma una mezcla homogénea, mientras que al mezclar arena con agua se forma una mezcla heterogénea. Basado en los métodos descritos, ¿qué se puede deducir sobre la separación de arena y agua?",
       "dificultad": 2,
       "opciones": {
-        "A": "Las mezclas se separan con calor y los compuestos con frío.",
-        "B": "Las mezclas requieren reacciones químicas para su separación, y los compuestos no.",
-        "C": "Las mezclas se separan por métodos físicos y los compuestos por métodos químicos.",
-        "D": "La separación de mezclas es siempre más lenta que la de compuestos.",
-        "E": "No existe una diferencia fundamental, se usan los mismos métodos."
+        "A": "Solo se puede separar por métodos químicos.",
+        "B": "Se puede separar por decantación, ya que la arena es más densa y no se disuelve.",
+        "C": "Se necesita un imán para separar la arena.",
+        "D": "No se pueden separar una vez mezclados.",
+        "E": "Se debe usar tamizado para separar la arena del agua."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "En una mezcla, los componentes no están enlazados químicamente, por lo que se pueden separar con métodos físicos que no alteran su estructura (decantación, tamizado). En un compuesto, los elementos están unidos por enlaces químicos, y para separarlos se necesita una reacción química que rompa dichos enlaces.",
+      "respuesta_correcta": "B",
+      "explicacion": "La mezcla de arena y agua es un ejemplo clásico de separación por decantación sólido-líquido. Como la arena es insoluble y más densa que el agua, al dejar reposar la mezcla, la arena se asienta en el fondo. Luego, el agua puede ser vertida cuidadosamente para separarla de la arena.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_011",
-      "pregunta": "En la minería, a menudo se usa una corriente de agua para separar partículas de oro (muy denso) de la arena y grava (menos densas). Este proceso es un ejemplo de:",
+      "pregunta": "Si las propiedades de un compuesto son distintas a las de sus componentes, ¿qué se puede esperar de las propiedades de una mezcla de arena y cemento?",
       "dificultad": 2,
       "opciones": {
-        "A": "Imantación.",
-        "B": "Tamizado.",
-        "C": "Levigación.",
-        "D": "Decantación de líquidos.",
-        "E": "Separación magnética."
+        "A": "Que sean completamente nuevas y diferentes a las de la arena y el cemento.",
+        "B": "Que la mezcla tenga propiedades magnéticas que no tenían antes.",
+        "C": "Que se relacione con las propiedades individuales de la arena y el cemento.",
+        "D": "Que la mezcla tenga una composición fija y definida.",
+        "E": "Que no se pueda separar por métodos físicos."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Este proceso describe perfectamente la levigación. Se utiliza un disolvente (agua) para tratar una mezcla de sólidos. Las partículas más pesadas y densas (oro) se asientan rápidamente, mientras que las más ligeras (arena, grava) son arrastradas por la corriente, logrando la separación.",
+      "explicacion": "Una característica clave de las mezclas es que sus propiedades son una combinación o reflejo de las propiedades de sus componentes individuales. En una mezcla de arena y cemento, se pueden seguir observando las características de ambos; no se forma una nueva sustancia con propiedades totalmente diferentes, como sí ocurre en un compuesto.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_012",
-      "pregunta": "Si se tiene una mezcla de arena y agua y se deja reposar hasta que toda la arena se asienta en el fondo, ¿qué método se debe aplicar para separar el agua de la arena?",
+      "pregunta": "El tamizado es un método útil para el análisis de suelos y en la industria de harinas. ¿Qué característica común de estas mezclas hace que el tamizado sea el método apropiado?",
       "dificultad": 2,
       "opciones": {
-        "A": "Imantación.",
-        "B": "Decantación.",
-        "C": "Tamizado.",
-        "D": "Levigación.",
-        "E": "Evaporación."
+        "A": "Están formadas por componentes de diferentes densidades.",
+        "B": "Contienen componentes metálicos y no metálicos.",
+        "C": "Son mezclas de sólidos con partículas de diferentes tamaños.",
+        "D": "Son mezclas de líquidos no miscibles.",
+        "E": "Todos sus componentes son solubles en agua."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Una vez que el sólido (arena), que es más denso, se ha sedimentado en el fondo del recipiente, el líquido más claro de la parte superior (agua) puede ser vertido cuidadosamente en otro recipiente. Este proceso de separar un líquido de un sólido sedimentado se llama decantación.",
+      "respuesta_correcta": "C",
+      "explicacion": "El tamizado se fundamenta en la diferencia del tamaño de las partículas. Tanto los suelos (compuestos por rocas, grava, arena, limo) como la harina sin refinar (con afrecho) son mezclas de sólidos con partículas de distintos tamaños, lo que permite separarlas eficientemente con mallas o tamices.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_013",
-      "pregunta": "Tanto la levigación como la decantación se basan en la diferencia de densidad. ¿Cuál es un aspecto clave que distingue a la levigación de la decantación simple de un sólido en un líquido?",
+      "pregunta": "Se tiene una muestra de laboratorio que contiene arena, virutas de hierro y pequeños trozos de corcho. ¿Cuál sería la secuencia de métodos más lógica y eficiente para separar completamente los tres componentes?",
       "dificultad": 3,
       "opciones": {
-        "A": "La levigación solo funciona con materiales magnéticos.",
-        "B": "La levigación es un proceso activo que usa un disolvente, a menudo en movimiento, para arrastrar partículas ligeras, mientras que la decantación es un proceso pasivo de sedimentación.",
-        "C": "La levigación separa por tamaño de partícula, no por densidad.",
-        "D": "La decantación es exclusiva para mezclas de sólidos, y la levigación para mezclas de líquidos.",
-        "E": "La levigación no requiere el uso de un líquido."
+        "A": "Primero tamizado para separar el corcho, luego decantación para la arena.",
+        "B": "Primero decantación en agua para separar la arena, y luego imantación para el hierro y el corcho.",
+        "C": "Aplicar levigación para todos los componentes al mismo tiempo.",
+        "D": "Primero imantación para retirar el hierro, luego añadir agua para que el corcho flote y la arena se hunda (decantación/levigación).",
+        "E": "Disolver toda la mezcla en un disolvente y luego evaporar."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La distinción principal radica en el proceso. La decantación de un sólido-líquido es pasiva: se espera a que el sólido se asiente y luego se vierte el líquido. La levigación es un proceso más activo: se añade un disolvente a una mezcla de sólidos con el propósito de que la corriente del líquido suspenda y arrastre las partículas menos densas, separándolas de las más densas que permanecen.",
+      "respuesta_correcta": "D",
+      "explicacion": "La secuencia más lógica es: 1. Usar un imán (imantación) para extraer las virutas de hierro, ya que es un método rápido y específico. 2. A la mezcla restante de arena y corcho, se le añade agua. Por diferencia de densidad, el corcho (menos denso) flotará y la arena (más densa) se irá al fondo. Este paso es una aplicación de decantación o levigación, permitiendo separar los dos componentes restantes.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_014",
-      "pregunta": "Se tiene una mezcla de corcho y arena. Al añadir agua, la arena se va al fondo y el corcho queda suspendido. La separación de estos dos sólidos aprovechando la acción del agua es un claro ejemplo de:",
+      "pregunta": "Al intentar separar una mezcla de dos sólidos pulverizados, se añade un líquido en el que ninguno de los dos se disuelve. Al agitar, las partículas de un sólido se van al fondo rápidamente, mientras que las del otro permanecen suspendidas por más tiempo antes de precipitar. Este procedimiento describe el principio de:",
       "dificultad": 3,
       "opciones": {
-        "A": "Tamizado, porque se separan dos sólidos.",
-        "B": "Imantación, porque se usa un medio externo.",
-        "C": "Levigación, porque se usa un disolvente para separar sólidos de diferente densidad.",
-        "D": "Decantación, porque se separan dos líquidos no miscibles.",
-        "E": "Únicamente sedimentación."
+        "A": "Tamizado, porque el líquido filtra las partículas.",
+        "B": "Imantación, asumiendo que el sólido del fondo es un metal.",
+        "C": "Levigación, al usar un disolvente para separar sólidos por diferencia de densidad.",
+        "D": "Decantación de líquidos, porque hay una fase líquida presente.",
+        "E": "Separación química, porque el líquido causa una reacción."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Este escenario es un ejemplo directo de levigación. Se está utilizando un disolvente (agua) para tratar una mezcla de sólidos (corcho y arena). Debido a la diferencia de densidad, el componente más pesado (arena) precipita, mientras que el más liviano (corcho) queda suspendido o flota, permitiendo su separación.",
+      "explicacion": "Este escenario es la descripción exacta del método de levigación. Se utiliza un disolvente (líquido) no para disolver, sino como medio para separar una mezcla de sólidos basándose en su diferente densidad. Las partículas más pesadas (más densas) precipitan, mientras que las más livianas quedan suspendidas y pueden ser arrastradas.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_019_015",
-      "pregunta": "Para separar una mezcla que contiene arena, limaduras de hierro y cemento en polvo, ¿cuál sería la secuencia más lógica de métodos de separación a aplicar?",
+      "pregunta": "Si se afirma que una sustancia X solo puede ser descompuesta en sus elementos constituyentes mediante métodos químicos, ¿qué conclusión es correcta sobre la naturaleza de X y su composición?",
       "dificultad": 3,
       "opciones": {
-        "A": "Primero Tamizado y luego Decantación.",
-        "B": "Primero Levigación y luego Imantación.",
-        "C": "Primero Decantación y luego Tamizado.",
-        "D": "Primero Imantación y luego Tamizado.",
-        "E": "Únicamente Tamizado."
+        "A": "X es una mezcla heterogénea y su composición es variable.",
+        "B": "X es un compuesto y su composición es fija.",
+        "C": "X es una mezcla homogénea y sus componentes se pueden separar por decantación.",
+        "D": "X es una mezcla y sus propiedades se relacionan con las de sus componentes.",
+        "E": "X puede ser separado por tamizado y su composición es variable."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Esta pregunta requiere ordenar los procesos de manera lógica. Primero, se debe usar la imantación para retirar las limaduras de hierro, que son el único componente magnético. Una vez retirado el hierro, queda una mezcla de arena y cemento en polvo. Dado que la arena y el cemento tienen diferentes tamaños de partícula, el tamizado sería el método apropiado para separarlos. Por lo tanto, la secuencia más eficaz es imantación seguida de tamizado.",
+      "respuesta_correcta": "B",
+      "explicacion": "La necesidad de usar métodos químicos para la separación es la característica que define a un compuesto. En un compuesto, los elementos están unidos por enlaces químicos que no pueden romperse con métodos físicos. Además, los compuestos tienen una composición fija y definida por una fórmula química (por ejemplo, el agua siempre es H₂O). Las mezclas, en cambio, se separan por métodos físicos y tienen composición variable.",
       "imagen": null
     }
   ]

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 55,
+  "total_temas": 137,
+  "titulo_tema": "Prensa Hidráulica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_055_001",
+      "pregunta": "¿Qué establece fundamentalmente el Principio de Pascal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La presión ejercida sobre un líquido en un recipiente se transmite con la misma intensidad en todas las direcciones.",
+        "B": "Los cuerpos sumergidos en un líquido experimentan una fuerza de empuje hacia arriba.",
+        "C": "Las fuerzas en una prensa hidráulica son inversamente proporcionales a las áreas de los émbolos.",
+        "D": "Los líquidos menos densos siempre se mezclan completamente con los más densos.",
+        "E": "La presión en un fluido aumenta con la profundidad."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El Principio de Pascal establece que cualquier cambio de presión aplicado a un fluido incompresible y en reposo dentro de un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones y en todos los puntos del fluido. La opción B describe el Principio de Arquímedes. Las opciones C y D son incorrectas, y la E, aunque cierta, define la presión hidrostática, no el Principio de Pascal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_002",
+      "pregunta": "¿Cómo se definen los líquidos inmiscibles?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Líquidos que tienen la misma densidad y color.",
+        "B": "Líquidos que, al juntarse, no llegan a mezclarse.",
+        "C": "Líquidos que solo se mezclan a altas temperaturas.",
+        "D": "Líquidos que son altamente compresibles.",
+        "E": "Líquidos que transmiten la presión de manera desigual."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los líquidos inmiscibles son aquellos que no forman una mezcla homogénea cuando se juntan, como el agua y el aceite. En su lugar, tienden a separarse en capas, con el líquido menos denso ubicándose sobre el más denso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_003",
+      "pregunta": "¿Cuál es la función principal de una prensa hidráulica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Reducir la presión de un fluido.",
+        "B": "Mezclar líquidos inmiscibles.",
+        "C": "Amplificar las fuerzas aplicadas.",
+        "D": "Medir la densidad de un líquido.",
+        "E": "Disminuir la ventaja mecánica de un sistema."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La prensa hidráulica es una máquina que utiliza el Principio de Pascal para amplificar una fuerza. Al aplicar una fuerza pequeña en un émbolo de área pequeña, se genera una fuerza mucho mayor en un émbolo de área grande, lo que permite levantar objetos pesados o ejercer grandes presiones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_004",
+      "pregunta": "Según el Principio de Arquímedes, ¿qué es la fuerza de empuje?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una fuerza horizontal que depende del volumen del cuerpo.",
+        "B": "Una fuerza vertical hacia abajo igual al peso del cuerpo.",
+        "C": "Una fuerza vertical hacia arriba igual al peso del líquido desalojado.",
+        "D": "Una fuerza que solo actúa en la superficie del líquido.",
+        "E": "Una fuerza que causa que los líquidos se mezclen."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Principio de Arquímedes establece que todo cuerpo total o parcialmente sumergido en un fluido experimenta una fuerza vertical ascendente, llamada empuje, cuyo valor es exactamente igual al peso del volumen de fluido que el cuerpo desaloja.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_005",
+      "pregunta": "En una prensa hidráulica, ¿cómo son las fuerzas de los émbolos con respecto a sus áreas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Directamente proporcionales a sus áreas.",
+        "B": "Inversamente proporcionales a sus áreas.",
+        "C": "Iguales, sin importar el área.",
+        "D": "Directamente proporcionales al cuadrado de sus áreas.",
+        "E": "No tienen ninguna relación."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La relación fundamental en una prensa hidráulica es $$F_1/A_1 = F_2/A_2$$. De esta ecuación se deduce que la fuerza en cada émbolo ($F$) es directamente proporcional a su área ($A$). Esto significa que a mayor área, mayor es la fuerza resultante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_006",
+      "pregunta": "En un tubo en U que contiene dos líquidos inmiscibles en equilibrio, ¿cuál es la relación correcta entre las alturas de sus superficies libres ($h_A$, $h_B$) y sus densidades ($\rho_A$, $\rho_B$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$h_A / h_B = \\rho_A / \\rho_B$$",
+        "B": "$$h_A \\cdot h_B = \\rho_A \\cdot \\rho_B$$",
+        "C": "$$h_A / h_B = \\rho_B / \\rho_A$$",
+        "D": "$$h_A + \\rho_A = h_B + \\rho_B$$",
+        "E": "$$h_A \\rho_A g = h_B \\rho_B$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que las presiones en la superficie de separación sean iguales, se debe cumplir que $$P_A = P_B$$. Dado que la presión hidrostática es $$P = \\rho g h$$, la ecuación es $$\\rho_A g h_A = \\rho_B g h_B$$. Al simplificar la aceleración de la gravedad ($g$), se obtiene $$\\rho_A h_A = \\rho_B h_B$$, que al reordenarse da la relación de proporcionalidad inversa $$h_A / h_B = \\rho_B / \\rho_A$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_007",
+      "pregunta": "La fórmula que representa la igualdad de presiones en los dos cilindros de una prensa hidráulica es:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_1 A_1 = F_2 A_2$$",
+        "B": "$$F_1 / A_2 = F_2 / A_1$$",
+        "C": "$$F_1 / A_1 = F_2 / A_2$$",
+        "D": "$$A_1 / F_1 = F_2 / A_2$$",
+        "E": "$$F_1 + A_1 = F_2 + A_2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según el Principio de Pascal, el cambio de presión en el émbolo 1 ($$\\Delta P_1$$) es igual al cambio de presión en el émbolo 2 ($$\\Delta P_2$$). Como la presión se define como fuerza sobre área ($$P = F/A$$), la ecuación que modela este principio en la prensa hidráulica es $$F_1 / A_1 = F_2 / A_2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_008",
+      "pregunta": "¿Cómo se define la Ventaja Mecánica ($VM$) de una prensa hidráulica?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La diferencia entre las áreas, $$VM = A_2 - A_1$$",
+        "B": "La relación entre el área de entrada y el área de salida, $$VM = A_1 / A_2$$",
+        "C": "El producto de las fuerzas, $$VM = F_1 \\cdot F_2$$",
+        "D": "La relación entre el área de salida y el área de entrada, $$VM = A_2 / A_1$$",
+        "E": "La suma de las fuerzas, $$VM = F_1 + F_2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ventaja Mecánica ($VM$) es un factor que indica cuánto se amplifica la fuerza de entrada. Se define como la relación entre la fuerza de salida ($F_2$) y la fuerza de entrada ($F_1$). Debido a la relación $$F_1/A_1 = F_2/A_2$$, esta ventaja también es igual a la relación entre el área del émbolo de salida y el área del émbolo de entrada: $$VM = F_2/F_1 = A_2/A_1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_009",
+      "pregunta": "En un elevador hidráulico, si el émbolo de salida ($A_2$) tiene un área mayor que el émbolo de entrada ($A_1$), ¿qué se puede afirmar sobre las fuerzas ($F_1$, $F_2$) y los desplazamientos ($h_1$, $h_2$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_2 < F_1$$ y $$h_2 > h_1$$",
+        "B": "$$F_2 > F_1$$ y $$h_2 < h_1$$",
+        "C": "$$F_2 = F_1$$ y $$h_2 = h_1$$",
+        "D": "$$F_2 > F_1$$ y $$h_2 > h_1$$",
+        "E": "$$F_2 < F_1$$ y $$h_2 < h_1$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En una prensa hidráulica, la fuerza es directamente proporcional al área, por lo que si $$A_2 > A_1$$, entonces la fuerza de salida es mayor que la de entrada, $$F_2 > F_1$$. Por conservación de la energía (o el volumen de líquido desplazado), el desplazamiento es inversamente proporcional al área. Por lo tanto, el émbolo menor ($A_1$) debe recorrer una distancia mayor ($h_1$) para mover al émbolo mayor ($A_2$) una distancia menor ($h_2$), cumpliéndose que $$h_2 < h_1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_010",
+      "pregunta": "Si al juntar dos líquidos inmiscibles uno tiende a subir y otro a quedarse en el fondo, ¿qué propiedad física determina este comportamiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura",
+        "B": "La presión",
+        "C": "El color",
+        "D": "La densidad",
+        "E": "La viscosidad"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando dos líquidos inmiscibles se juntan, se ordenan según su densidad. El líquido con menor densidad es más 'ligero' por unidad de volumen y flotará sobre el líquido de mayor densidad, que se asentará en el fondo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_011",
+      "pregunta": "Si la ventaja mecánica de una prensa hidráulica es $VM = 10$, ¿qué significa esto en términos de las fuerzas aplicadas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza de salida es 10 veces menor que la fuerza de entrada.",
+        "B": "La fuerza de entrada es 10 veces mayor que la fuerza de salida.",
+        "C": "La diferencia entre la fuerza de salida y la de entrada es 10 N.",
+        "D": "La fuerza de salida es 10 veces mayor que la fuerza de entrada.",
+        "E": "La suma de las fuerzas es igual a 10 N."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La ventaja mecánica se define como la relación $$VM = F_2/F_1$$, donde $$F_2$$ es la fuerza de salida y $$F_1$$ es la de entrada. Si $$VM = 10$$, entonces $$10 = F_2/F_1$$, lo que implica que $$F_2 = 10 \\cdot F_1$$. Esto significa que el sistema amplifica la fuerza de entrada por un factor de 10.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_012",
+      "pregunta": "¿Por qué un freno hidráulico es una aplicación del Principio de Pascal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque utiliza la fuerza de empuje para detener el vehículo.",
+        "B": "Porque la presión ejercida por el pie en el pedal se transmite por el líquido de frenos para accionar las pastillas en las ruedas.",
+        "C": "Porque depende de la diferencia de densidades entre el aire y el líquido de frenos.",
+        "D": "Porque el líquido de frenos se comprime para reducir la velocidad.",
+        "E": "Porque el desplazamiento del pedal es igual al desplazamiento de las pastillas de freno."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los frenos hidráulicos son una aplicación directa del Principio de Pascal. Una pequeña fuerza aplicada por el pie en el pedal se transmite a través de un pistón pequeño, generando una presión en el líquido de frenos. Esta presión se transmite con la misma intensidad a pistones más grandes en las ruedas, que generan una fuerza mucho mayor para presionar las pastillas contra los discos y detener el vehículo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_013",
+      "pregunta": "La afirmación \"las alturas de sus superficies libres con relación a las superficies de separación son inversamente proporcionales a sus densidades\" para líquidos inmiscibles implica que:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El líquido con mayor densidad alcanzará una mayor altura.",
+        "B": "Ambos líquidos alcanzarán siempre la misma altura.",
+        "C": "El líquido con menor densidad alcanzará una mayor altura.",
+        "D": "La altura es directamente proporcional a la densidad.",
+        "E": "Las alturas solo dependen del ancho del tubo en U."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La relación es $$h_A / h_B = \\rho_B / \\rho_A$$. Esta proporcionalidad inversa significa que si un líquido tiene una densidad menor (por ejemplo, $$\\rho_A$$ es pequeño), su altura ($$h_A$$) deberá ser mayor para equilibrar la presión de la columna del otro líquido, que tiene una densidad mayor ($$\\rho_B$$) y una altura menor ($$h_B$$). Por lo tanto, el líquido menos denso se eleva más.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_014",
+      "pregunta": "En el diseño de una prensa hidráulica para levantar un coche de 1500 kg, ¿qué característica es esencial para minimizar la fuerza que debe aplicar el operador?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que el área del émbolo de entrada ($A_1$) sea mucho mayor que el área del émbolo de salida ($A_2$).",
+        "B": "Que ambas áreas ($A_1$ y $A_2$) sean exactamente iguales.",
+        "C": "Que el área del émbolo de salida ($A_2$) sea mucho mayor que el área del émbolo de entrada ($A_1$).",
+        "D": "Utilizar un líquido altamente compresible en el sistema.",
+        "E": "Asegurar que el desplazamiento del émbolo de entrada ($h_1$) sea muy pequeño."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para minimizar la fuerza de entrada ($F_1$) y poder levantar un objeto pesado (fuerza de salida $F_2$ grande), se necesita una alta ventaja mecánica ($VM$). La ventaja mecánica es $$VM = A_2/A_1 = F_2/F_1$$. Para que $VM$ sea grande, el área del émbolo de salida ($A_2$), donde se coloca el coche, debe ser significativamente mayor que el área del émbolo de entrada ($A_1$), donde se aplica la fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_055_015",
+      "pregunta": "¿Cuál de las siguientes combinaciones de relaciones describe correctamente el funcionamiento de una prensa hidráulica diseñada para amplificar la fuerza?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$A_2 > A_1$$, $$F_1 > F_2$$, $$h_1 > h_2$$",
+        "B": "$$A_1 > A_2$$, $$F_2 > F_1$$, $$h_2 > h_1$$",
+        "C": "$$A_2 = A_1$$, $$F_2 = F_1$$, $$h_1 = h_2$$",
+        "D": "$$A_2 > A_1$$, $$F_2 > F_1$$, $$h_2 > h_1$$",
+        "E": "$$A_2 > A_1$$, $$F_2 > F_1$$, $$h_1 > h_2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para amplificar la fuerza, la fuerza de salida ($F_2$) debe ser mayor que la de entrada ($F_1$). Esto se logra haciendo que el área de salida ($A_2$) sea mayor que el área de entrada ($A_1$). La consecuencia de esta amplificación de fuerza es un \"sacrificio\" en la distancia: el émbolo de entrada debe moverse una distancia mayor ($h_1$) para que el émbolo de salida se mueva una distancia menor ($h_2$). Por tanto, las relaciones correctas son $$A_2 > A_1$$, $$F_2 > F_1$$ y $$h_1 > h_2$$.",
+      "imagen": null
+    }
+  ]
+}

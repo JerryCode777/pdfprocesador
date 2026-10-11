@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 106,
+  "total_temas": 137,
+  "titulo_tema": "Fuerza eléctrica en campo uniforme",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_106_001",
+      "pregunta": "¿Qué dirección tiene la fuerza eléctrica que actúa sobre una carga puntual positiva ($+q$) cuando se encuentra en un campo eléctrico uniforme?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Tiene la misma dirección que las líneas de campo.",
+        "B": "Tiene dirección opuesta a las líneas de campo.",
+        "C": "Es perpendicular a las líneas de campo.",
+        "D": "Forma un ángulo de $$45^\\circ$$ con las líneas de campo.",
+        "E": "No actúa ninguna fuerza sobre la carga."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Por convención, la dirección de la fuerza eléctrica sobre una carga de prueba positiva es la misma que la dirección del campo eléctrico. Por lo tanto, una carga puntual positiva ($+q$) experimentará una fuerza en la misma dirección que las líneas del campo eléctrico uniforme.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_002",
+      "pregunta": "¿Cuál es la dirección de la fuerza eléctrica que actúa sobre una carga puntual negativa ($-q$) dentro de un campo eléctrico uniforme?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En la misma dirección y sentido que el campo eléctrico.",
+        "B": "En dirección opuesta a las líneas de campo eléctrico.",
+        "C": "Formando un ángulo agudo con el campo.",
+        "D": "Perpendicular a la dirección del campo.",
+        "E": "La fuerza siempre es cero para cargas negativas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una carga puntual negativa ($-q$) experimenta una fuerza eléctrica en dirección opuesta a las líneas de campo eléctrico. Mientras que el campo apunta en una dirección, la fuerza sobre la carga negativa apuntará exactamente en la dirección contraria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_003",
+      "pregunta": "El flujo del campo eléctrico, representado como $\\Phi_E$, se define como el producto de la intensidad del campo, el área de la superficie y ¿qué otro factor?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El seno del ángulo entre el campo y la normal a la superficie.",
+        "B": "La tangente del ángulo entre el campo y la superficie.",
+        "C": "El coseno del ángulo que forman el campo con la normal a la superficie.",
+        "D": "La magnitud de la carga eléctrica.",
+        "E": "La distancia desde la fuente del campo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición de flujo eléctrico ($\\Phi_E$) a través de una superficie elemental es el producto de tres componentes: la intensidad del campo eléctrico ($E$), el área de la superficie ($A$) y el coseno del ángulo ($\\theta$) que forman el vector del campo eléctrico y el vector normal (perpendicular) a la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_004",
+      "pregunta": "¿Cuál es la fórmula matemática que representa el flujo del campo eléctrico ($\\Phi_E$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\Phi_E = EA \\sin \\theta$$",
+        "B": "$$\\Phi_E = E/A \\cos \\theta$$",
+        "C": "$$\\Phi_E = EA \\tan \\theta$$",
+        "D": "$$\\Phi_E = EA \\cos \\theta$$",
+        "E": "$$\\Phi_E = E + A + \\cos \\theta$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula correcta para calcular el flujo del campo eléctrico es $$\\Phi_E = EA \\cos \\theta$$. Esta ecuación relaciona la intensidad del campo ($E$), el área ($A$) de la superficie a través de la cual pasa el campo y el coseno del ángulo ($\\theta$) entre la dirección del campo y la normal a la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_005",
+      "pregunta": "En la fórmula del flujo eléctrico, $$\\Phi_E = EA \\cos \\theta$$, ¿qué representa el ángulo $\\theta$?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El ángulo entre el campo y la superficie misma.",
+        "B": "El ángulo que forman el campo con la normal a la superficie.",
+        "C": "El ángulo de inclinación de la fuente del campo.",
+        "D": "El ángulo entre el vector de área y la superficie.",
+        "E": "Siempre es un valor constante de $$90^\\circ$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En la expresión para el flujo eléctrico, $$\\Phi_E = EA \\cos \\theta$$, el ángulo $\\theta$ es específicamente el ángulo medido entre el vector de campo eléctrico ($E$) y el vector normal (perpendicular) a la superficie ($A$). Este ángulo es crucial para determinar cuántas líneas de campo atraviesan efectivamente la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_006",
+      "pregunta": "Si una partícula con carga desconocida experimenta una fuerza en la misma dirección que un campo eléctrico uniforme, ¿qué se puede concluir sobre el signo de su carga?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La carga es negativa.",
+        "B": "La carga es positiva.",
+        "C": "La carga es neutra.",
+        "D": "No se puede determinar el signo.",
+        "E": "La carga debe ser cero."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza eléctrica sobre una carga en un campo eléctrico tiene una dirección que depende del signo de la carga. Si la fuerza tiene la misma dirección que el campo, la carga debe ser positiva. Si fuera negativa, la fuerza tendría la dirección opuesta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_007",
+      "pregunta": "¿Cómo se compara la dirección de la fuerza eléctrica sobre una carga positiva ($+q$) con la de una carga negativa ($-q$) si ambas se colocan en el mismo campo eléctrico uniforme?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambas fuerzas tienen la misma dirección.",
+        "B": "Las direcciones de las fuerzas son opuestas.",
+        "C": "Las direcciones son perpendiculares entre sí.",
+        "D": "La fuerza sobre la carga positiva es cero y sobre la negativa no.",
+        "E": "La dirección depende de la masa de las cargas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "En un mismo campo eléctrico uniforme, una carga positiva ($+q$) siente una fuerza en la misma dirección que el campo, mientras que una carga negativa ($-q$) siente una fuerza en la dirección exactamente opuesta. Por lo tanto, las direcciones de las fuerzas sobre ellas son opuestas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_008",
+      "pregunta": "Si el campo eléctrico es paralelo a una superficie plana, ¿cuál es el valor del flujo eléctrico a través de esa superficie?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\Phi_E = EA$$",
+        "B": "$$\\Phi_E = -EA$$",
+        "C": "$$\\Phi_E = 0$$",
+        "D": "$$\\Phi_E = EA/2$$",
+        "E": "Es infinito."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Si el campo eléctrico es paralelo a la superficie, las líneas de campo no la atraviesan. En términos matemáticos, el vector normal a la superficie es perpendicular al campo, por lo que el ángulo $\\theta$ es $$90^\\circ$$. Como $$\\cos(90^\\circ) = 0$$, el flujo eléctrico $$\\Phi_E = EA \\cos(90^\\circ)$$ es igual a cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_009",
+      "pregunta": "¿Qué sucede con el flujo eléctrico ($\\Phi_E$) si la intensidad del campo eléctrico ($E$) se duplica, manteniendo el área ($A$) y el ángulo ($\\theta$) constantes?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad.",
+        "B": "Permanece igual.",
+        "C": "Se duplica.",
+        "D": "Se cuadruplica.",
+        "E": "Se vuelve cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula del flujo eléctrico es $$\\Phi_E = EA \\cos \\theta$$. Dado que el flujo ($\\Phi_E$) es directamente proporcional a la intensidad del campo ($E$), si $E$ se duplica y los demás factores ($A$ y $\\cos \\theta$) no cambian, el flujo eléctrico también se duplicará.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_010",
+      "pregunta": "Si un electrón (carga negativa) se libera en un campo eléctrico uniforme que apunta hacia la derecha, ¿en qué dirección actuará la fuerza eléctrica sobre él?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Hacia la derecha.",
+        "B": "Hacia la izquierda.",
+        "C": "Hacia arriba.",
+        "D": "Hacia abajo.",
+        "E": "No habrá fuerza."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un electrón tiene carga negativa ($-q$). La fuerza eléctrica sobre una carga negativa tiene una dirección opuesta a la del campo eléctrico. Si el campo apunta hacia la derecha, la fuerza sobre el electrón apuntará hacia la izquierda.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_011",
+      "pregunta": "En la expresión $$\\Phi_E = EA \\cos \\theta$$, ¿para qué valor de $\\theta$ el flujo eléctrico es igual a $$\\Phi_E = EA$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$90^\\circ$$",
+        "B": "$$45^\\circ$$",
+        "C": "$$180^\\circ$$",
+        "D": "$$0^\\circ$$",
+        "E": "$$270^\\circ$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para que el flujo eléctrico $$\\Phi_E$$ sea igual a $EA$, el término $$\\cos \\theta$$ debe ser igual a 1. La función coseno vale 1 cuando el ángulo es $$0^\\circ$$. Esto corresponde a una situación donde el campo eléctrico es perpendicular a la superficie (paralelo al vector normal).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_012",
+      "pregunta": "¿Qué representa la variable $E$ en la fórmula del flujo eléctrico $$\\Phi_E = EA \\cos \\theta$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía total del sistema.",
+        "B": "El área de la superficie.",
+        "C": "La intensidad del campo eléctrico.",
+        "D": "La carga eléctrica encerrada.",
+        "E": "La constante dieléctrica del medio."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la ecuación del flujo eléctrico, la variable $E$ representa la magnitud o intensidad del campo eléctrico uniforme. Las otras variables son $A$ para el área y $\\theta$ para el ángulo entre el campo y la normal a la superficie.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_013",
+      "pregunta": "¿Bajo qué condición angular se maximiza el valor absoluto del flujo eléctrico a través de una superficie de área $A$ en un campo uniforme $E$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Cuando el campo es paralelo a la superficie ($\\theta = 90^\\circ$).",
+        "B": "Cuando el campo forma un ángulo de $$45^\\circ$$ con la normal a la superficie.",
+        "C": "Cuando el campo es perpendicular a la superficie ($\\theta = 0^\\circ$).",
+        "D": "El flujo es constante e independiente del ángulo.",
+        "E": "Cuando el campo forma un ángulo de $$60^\\circ$$ con la normal a la superficie."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo eléctrico se calcula con $$\\Phi_E = EA \\cos \\theta$$. Para un campo $E$ y área $A$ fijos, el flujo se maximiza cuando el valor absoluto de $$\\cos \\theta$$ es máximo, lo cual es 1. Esto ocurre cuando $\\theta = 0^\\circ$ (campo saliendo perpendicularmente) o $\\theta = 180^\\circ$ (campo entrando perpendicularmente). La opción C describe el caso $\\theta = 0^\\circ$, donde el campo es perpendicular a la superficie y, por tanto, paralelo al vector normal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_014",
+      "pregunta": "Un protón (carga positiva) y un electrón (carga negativa) se colocan en reposo en el mismo campo eléctrico uniforme. ¿Qué afirmación describe correctamente la dirección de las fuerzas eléctricas iniciales sobre ellos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambos experimentan fuerzas en la misma dirección que el campo.",
+        "B": "Ambos experimentan fuerzas en dirección opuesta al campo.",
+        "C": "La fuerza sobre el protón está en la dirección del campo y sobre el electrón en dirección opuesta.",
+        "D": "La fuerza sobre el electrón está en la dirección del campo y sobre el protón en dirección opuesta.",
+        "E": "Ninguno experimenta fuerza a menos que estén en movimiento."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La dirección de la fuerza eléctrica depende del signo de la carga. El protón, con su carga positiva, experimentará una fuerza en la misma dirección que las líneas del campo eléctrico. El electrón, con su carga negativa, experimentará una fuerza en la dirección exactamente opuesta a las líneas del campo eléctrico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_106_015",
+      "pregunta": "Considerando la fórmula $$\\Phi_E = EA \\cos \\theta$$, si el campo eléctrico es perpendicular al vector normal de una superficie, ¿qué se puede afirmar sobre el flujo eléctrico?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El flujo es máximo y positivo, igual a $$EA$$.",
+        "B": "El flujo es máximo y negativo, igual a $$-EA$$.",
+        "C": "El flujo es nulo.",
+        "D": "El flujo es la mitad de su valor máximo.",
+        "E": "El flujo no se puede calcular sin conocer $E$ y $A$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Que el campo eléctrico sea perpendicular al vector normal significa que el ángulo $\\theta$ entre ellos es de $$90^\\circ$$. Esto también implica que el campo es paralelo a la superficie. Al sustituir este ángulo en la fórmula, obtenemos $$\\Phi_E = EA \\cos(90^\\circ)$$. Dado que $$\\cos(90^\\circ) = 0$$, el flujo eléctrico total a través de la superficie es cero, independientemente de los valores de $E$ y $A$.",
+      "imagen": null
+    }
+  ]
+}

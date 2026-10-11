@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 1,
+  "total_temas": 137,
+  "titulo_tema": "Portada",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_001_001",
+      "pregunta": "¿Qué es la Física?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La ciencia que estudia la composición y estructura de la materia.",
+        "B": "La ciencia que estudia los seres vivos y sus procesos vitales.",
+        "C": "La ciencia que estudia la materia, la energía, el espacio, el tiempo y sus interacciones.",
+        "D": "La ciencia que estudia los fenómenos sociales y el comportamiento humano.",
+        "E": "La ciencia que se encarga de la clasificación de los elementos químicos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Física es la ciencia natural fundamental que estudia los componentes básicos del universo, como la materia, la energía, el espacio y el tiempo, así como las interacciones fundamentales entre ellos. La opción A describe la Química, la B la Biología y la D las ciencias sociales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_002",
+      "pregunta": "¿Cuál es la unidad de la Fuerza en el Sistema Internacional (SI)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Joule (J)",
+        "B": "Watt (W)",
+        "C": "Pascal (Pa)",
+        "D": "Newton (N)",
+        "E": "Kilogramo (kg)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En el Sistema Internacional de Unidades (SI), la unidad de medida para la fuerza es el Newton (N). Un Newton se define como la fuerza necesaria para proporcionar una aceleración de $$1 \\frac{m}{s^2}$$ a un objeto de 1 kg de masa. El Joule es la unidad de energía, el Watt es la unidad de potencia, el Pascal es la unidad de presión y el Kilogramo es la unidad de masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_003",
+      "pregunta": "Una magnitud escalar es aquella que queda completamente definida por:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un número y una dirección.",
+        "B": "Un número, una unidad y una dirección.",
+        "C": "Un número y una unidad.",
+        "D": "Una dirección y un sentido.",
+        "E": "Únicamente un vector."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las magnitudes escalares son aquellas que se definen completamente con un valor numérico y su correspondiente unidad de medida. Ejemplos de magnitudes escalares son la masa (5 kg), la temperatura (25 °C) o el tiempo (10 s). Las magnitudes que además requieren una dirección y un sentido para ser definidas se llaman magnitudes vectoriales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_004",
+      "pregunta": "¿Qué rama de la física se encarga de estudiar el movimiento de los cuerpos sin atender a las causas que lo producen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Dinámica",
+        "B": "Estática",
+        "C": "Cinemática",
+        "D": "Termodinámica",
+        "E": "Óptica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Cinemática es la rama de la mecánica que describe el movimiento de los objetos sólidos sin considerar las causas (fuerzas) que lo originan. Se enfoca en conceptos como la posición, velocidad y aceleración. La Dinámica, en cambio, sí estudia la relación entre las fuerzas y el movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_005",
+      "pregunta": "¿Cuál de las siguientes es una magnitud vectorial?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Masa",
+        "B": "Temperatura",
+        "C": "Tiempo",
+        "D": "Velocidad",
+        "E": "Energía"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Una magnitud vectorial necesita un valor numérico (módulo), una dirección y un sentido para ser descrita completamente. La velocidad es un ejemplo claro, ya que no es lo mismo moverse a 80 km/h hacia el norte que hacia el sur. La masa, la temperatura, el tiempo y la energía son magnitudes escalares, ya que quedan definidas solo con un número y una unidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_006",
+      "pregunta": "¿Cuál es la principal diferencia entre masa y peso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son sinónimos y no hay diferencia.",
+        "B": "La masa es una fuerza y el peso es la cantidad de materia.",
+        "C": "La masa es una propiedad intrínseca de la materia, mientras que el peso es la fuerza de la gravedad actuando sobre esa masa.",
+        "D": "La masa se mide en Newtons y el peso en Kilogramos.",
+        "E": "La masa varía con la ubicación, pero el peso es constante."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa es una magnitud escalar que representa la cantidad de materia de un cuerpo y es una propiedad intrínseca y constante. El peso, en cambio, es una magnitud vectorial que representa la fuerza con la que la gravedad atrae a un cuerpo. El peso se calcula como $$P = m \\cdot g$$, donde $m$ es la masa y $g$ es la aceleración de la gravedad, por lo que el peso varía dependiendo del lugar del universo donde se mida.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_007",
+      "pregunta": "La Segunda Ley de Newton establece que la fuerza neta aplicada sobre un cuerpo es directamente proporcional a la aceleración que adquiere. ¿Cuál es su expresión matemática?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F = \\frac{m}{a}$$",
+        "B": "$$F = m \\cdot a$$",
+        "C": "$$a = F \\cdot m$$",
+        "D": "$$F = m \\cdot v$$",
+        "E": "$$P = m \\cdot g$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Segunda Ley de Newton, o Ley Fundamental de la Dinámica, se expresa matemáticamente como $$F = m \\cdot a$$. Esta fórmula indica que la fuerza neta ($F$) es igual al producto de la masa del objeto ($m$) por la aceleración ($a$) que experimenta. La opción E, $$P=m \\cdot g$$, es un caso particular de esta ley para la fuerza peso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_008",
+      "pregunta": "¿Cuál es la diferencia fundamental entre rapidez y velocidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La rapidez es una magnitud vectorial y la velocidad es escalar.",
+        "B": "La rapidez es el módulo de la velocidad, siendo la rapidez escalar y la velocidad vectorial.",
+        "C": "Ambas son magnitudes escalares pero se miden en unidades diferentes.",
+        "D": "La velocidad se refiere a la distancia total, mientras que la rapidez se refiere al desplazamiento.",
+        "E": "No existe diferencia, son términos intercambiables en física."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La rapidez es una magnitud escalar que indica qué tan deprisa se mueve un objeto (por ejemplo, 80 km/h). La velocidad, en cambio, es una magnitud vectorial que incluye tanto la rapidez (su módulo) como la dirección y el sentido del movimiento (por ejemplo, 80 km/h hacia el norte). Por lo tanto, la rapidez es el módulo del vector velocidad.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_009",
+      "pregunta": "El principio de conservación de la energía mecánica establece que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía cinética siempre es igual a la energía potencial.",
+        "B": "La energía total de un sistema siempre disminuye con el tiempo.",
+        "C": "En un sistema aislado donde solo actúan fuerzas conservativas, la suma de la energía cinética y potencial permanece constante.",
+        "D": "La energía puede crearse a partir de la nada si las fuerzas son no conservativas.",
+        "E": "La energía potencial de un sistema siempre se convierte completamente en energía cinética."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de conservación de la energía mecánica afirma que, si en un sistema aislado solo actúan fuerzas conservativas (como la gravedad o la fuerza elástica), la energía mecánica total ($$E_m = E_c + E_p$$) no cambia, es decir, se mantiene constante. La energía puede transformarse de cinética a potencial y viceversa, pero la suma total no varía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_010",
+      "pregunta": "En física, el trabajo realizado por una fuerza constante se define como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La energía que posee un cuerpo debido a su movimiento.",
+        "B": "El producto de la fuerza por el tiempo durante el cual actúa.",
+        "C": "La capacidad de un sistema para realizar un trabajo.",
+        "D": "El producto de la componente de la fuerza en la dirección del desplazamiento por la magnitud del desplazamiento.",
+        "E": "La rapidez con la que se consume la energía."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El trabajo ($W$) es una medida de la transferencia de energía por la acción de una fuerza a lo largo de un desplazamiento. Se calcula como el producto escalar del vector fuerza ($$\\vec{F}$$) y el vector desplazamiento ($$\\vec{d}$$), es decir, $$W = F \\cdot d \\cdot \\cos(\\theta)$$, donde $$\\theta$$ es el ángulo entre la fuerza y el desplazamiento. Esto es equivalente al producto de la componente de la fuerza en la dirección del desplazamiento por la magnitud de dicho desplazamiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_011",
+      "pregunta": "¿Qué magnitud física mide la rapidez con la que se realiza un trabajo o se transfiere energía?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Energía",
+        "B": "Fuerza",
+        "C": "Impulso",
+        "D": "Trabajo",
+        "E": "Potencia"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La potencia ($P$) es la magnitud que describe la cantidad de trabajo ($W$) realizado o energía transferida por unidad de tiempo ($t$). Su fórmula es $$P = \\frac{W}{t}$$. Su unidad en el Sistema Internacional es el Watt (W), que equivale a un Joule por segundo (J/s).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_012",
+      "pregunta": "La energía potencial gravitatoria de un objeto depende de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Su velocidad y su masa.",
+        "B": "Su masa, la aceleración de la gravedad y su altura respecto a un punto de referencia.",
+        "C": "Únicamente de su altura.",
+        "D": "Su velocidad al cuadrado y su masa.",
+        "E": "La fuerza aplicada y la distancia recorrida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía potencial gravitatoria ($E_p$) es la energía que un objeto posee debido a su posición en un campo gravitatorio. Se calcula con la fórmula $$E_p = m \\cdot g \\cdot h$$, donde $m$ es la masa del objeto, $g$ es la aceleración de la gravedad y $h$ es la altura relativa a un nivel de referencia. Por lo tanto, depende de estos tres factores.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_013",
+      "pregunta": "Un objeto de 5 kg de masa se encuentra en reposo. Si se le aplica una fuerza neta constante de 20 N, ¿qué aceleración experimenta el objeto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$100 \\frac{m}{s^2}$$",
+        "B": "$$0.25 \\frac{m}{s^2}$$",
+        "C": "$$4 \\frac{m}{s^2}$$",
+        "D": "$$25 \\frac{m}{s^2}$$",
+        "E": "$$5 \\frac{m}{s^2}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para resolver este problema, se utiliza la Segunda Ley de Newton, cuya fórmula es $$F = m \\cdot a$$. Se nos dan los valores de la fuerza neta ($$F = 20 \\text{ N}$$) y la masa ($$m = 5 \\text{ kg}$$). Despejamos la aceleración ($a$): $$a = \\frac{F}{m}$$. Sustituyendo los valores: $$a = \\frac{20 \\text{ N}}{5 \\text{ kg}} = 4 \\frac{m}{s^2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_014",
+      "pregunta": "¿Cuál es la energía cinética de un automóvil de 1000 kg que se desplaza a una velocidad de 20 m/s?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "20,000 J",
+        "B": "400,000 J",
+        "C": "10,000 J",
+        "D": "200,000 J",
+        "E": "40,000 J"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La energía cinética ($E_c$) se calcula con la fórmula $$E_c = \\frac{1}{2} m v^2$$, donde $m$ es la masa y $v$ es la velocidad. En este caso, la masa $$m = 1000 \\text{ kg}$$ y la velocidad $$v = 20 \\frac{m}{s}$$. Sustituyendo los valores en la fórmula: $$E_c = \\frac{1}{2} (1000 \\text{ kg}) (20 \\frac{m}{s})^2 = \\frac{1}{2} (1000 \\text{ kg}) (400 \\frac{m^2}{s^2}) = 500 \\cdot 400 \\text{ J} = 200,000 \\text{ J}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_001_015",
+      "pregunta": "Una fuerza de 50 N se aplica a una caja para desplazarla una distancia de 10 metros sobre una superficie horizontal. Si la fuerza se aplica con un ángulo de 60° con respecto a la horizontal, ¿cuál es el trabajo realizado por dicha fuerza? (Considera $$\\cos(60^{\\circ}) = 0.5$$).",
+      "dificultad": 3,
+      "opciones": {
+        "A": "500 J",
+        "B": "1000 J",
+        "C": "250 J",
+        "D": "433 J",
+        "E": "50 J"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo ($W$) realizado por una fuerza constante se calcula con la fórmula $$W = F \\cdot d \\cdot \\cos(\\theta)$$, donde $F$ es la magnitud de la fuerza, $d$ es la magnitud del desplazamiento y $\\theta$ es el ángulo entre la fuerza y el desplazamiento. Los datos son: $$F = 50 \\text{ N}$$, $$d = 10 \\text{ m}$$ y $$\\theta = 60^{\\circ}$$. Sustituyendo los valores: $$W = (50 \\text{ N}) \\cdot (10 \\text{ m}) \\cdot \\cos(60^{\\circ})$$. Sabiendo que $$\\cos(60^{\\circ}) = 0.5$$, el cálculo es: $$W = 500 \\cdot 0.5 \\text{ J} = 250 \\text{ J}$$.",
+      "imagen": null
+    }
+  ]
+}

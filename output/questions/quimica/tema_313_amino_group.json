@@ -6,32 +6,32 @@
   "preguntas": [
     {
       "id_temporal": "quimica_313_001",
-      "pregunta": "¿De qué compuesto inorgánico se consideran derivados orgánicos las aminas?",
+      "pregunta": "¿Cuál es la fórmula general para las aminas primarias?",
       "dificultad": 1,
       "opciones": {
-        "A": "Ácido nítrico",
-        "B": "Agua",
-        "C": "Amoniaco",
-        "D": "Dióxido de carbono",
-        "E": "Ácido clorhídrico"
+        "A": "$$R-\\text{OH}$$",
+        "B": "$$R-\\text{COOH}$$",
+        "C": "$$R-\\text{NH}_2$$",
+        "D": "$$R-\\text{O}-R'$$",
+        "E": "$$R-\\text{COOR'}$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Las aminas son compuestos orgánicos que se consideran derivados del amoniaco ($$NH_3$$), donde uno o más de los átomos de hidrógeno han sido reemplazados por grupos alquilo o arilo.",
+      "explicacion": "La fórmula general que representa a las aminas primarias es $$R-\\text{NH}_2$$, donde 'R' es un grupo alquilo o arilo y $$-\\text{NH}_2$$ es el grupo amino característico. Las otras opciones representan alcoholes ($$R-\\text{OH}$$), ácidos carboxílicos ($$R-\\text{COOH}$$), éteres ($$R-\\text{O}-R'$$) y ésteres ($$R-\\text{COOR'}$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_002",
-      "pregunta": "¿Cuál es la fórmula general que representa a las aminas primarias?",
+      "pregunta": "¿De qué compuesto inorgánico se consideran derivados orgánicos las aminas?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$R-OH$$",
-        "B": "$$R-COOH$$",
-        "C": "$$R-NH_2$$",
-        "D": "$$R-CO-R'$$",
-        "E": "$$R-O-R'$$"
+        "A": "Ácido nítrico",
+        "B": "Amoniaco",
+        "C": "Agua",
+        "D": "Dióxido de carbono",
+        "E": "Ácido clorhídrico"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La fórmula general para una amina primaria es $$R-NH_2$$, donde 'R' representa un grupo alquilo o arilo y $$-NH_2$$ es el grupo funcional amino. Las otras opciones representan alcoholes ($$R-OH$$), ácidos carboxílicos ($$R-COOH$$), cetonas ($$R-CO-R'$$) y éteres ($$R-O-R'$$).",
+      "respuesta_correcta": "B",
+      "explicacion": "Las aminas son compuestos orgánicos que se consideran derivados del amoniaco ($$\\text{NH}_3$$), donde uno o más de los átomos de hidrógeno han sido reemplazados por grupos alquilo o arilo.",
       "imagen": null
     },
     {
@@ -40,193 +40,193 @@
       "dificultad": 1,
       "opciones": {
         "A": "-ilo",
-        "B": "-ato",
-        "C": "-ol",
-        "D": "-al",
-        "E": "-ona"
+        "B": "-al",
+        "C": "-ona",
+        "D": "-ato",
+        "E": "-ol"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para nombrar un éster según la IUPAC, la terminación \"-ico\" del ácido carboxílico del cual proviene se cambia por \"-ato\". Por ejemplo, el ácido etanoico forma ésteres llamados etanoatos.",
+      "respuesta_correcta": "D",
+      "explicacion": "Para nombrar un éster según las reglas de la IUPAC, la terminación \"-ico\" del ácido carboxílico del cual proviene se cambia por \"-ato\". Por ejemplo, el ácido etanoico forma el éster etanoato.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_004",
-      "pregunta": "¿Qué nombre recibe el grupo funcional característico de las aminas, cuya fórmula es $$-NH_2$$?",
+      "pregunta": "¿Cuál es el grupo funcional característico de las aminas?",
       "dificultad": 1,
       "opciones": {
-        "A": "Grupo hidroxilo",
-        "B": "Grupo carboxilo",
-        "C": "Grupo carbonilo",
-        "D": "Grupo amino",
-        "E": "Grupo éster"
+        "A": "Grupo hidroxilo ($$-\\text{OH}$$)",
+        "B": "Grupo carbonilo ($$C=O$$)",
+        "C": "Grupo carboxilo ($$-\\text{COOH}$$)",
+        "D": "Grupo éster ($$-\\text{COO}-$$)",
+        "E": "Grupo amino ($$-\\text{NH}_2$$)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El grupo funcional $$-NH_2$$, que consiste en un átomo de nitrógeno unido a dos átomos de hidrógeno, se conoce como grupo amino. Este grupo es el que define a la familia de compuestos orgánicos llamados aminas.",
+      "respuesta_correcta": "E",
+      "explicacion": "El grupo funcional que define a una amina es el grupo amino, cuya fórmula es $$-\\text{NH}_2$$. Este grupo consiste en un átomo de nitrógeno unido a dos átomos de hidrógeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_005",
-      "pregunta": "Según el sistema de nomenclatura de ésteres, ¿qué terminación se le asigna al nombre del grupo alquílico que proviene del alcohol?",
+      "pregunta": "Según los ejemplos de nomenclatura, ¿cuál es otro nombre común para el hexadecanoato de fenilo?",
       "dificultad": 1,
       "opciones": {
-        "A": "-ato",
-        "B": "-ico",
-        "C": "-ilo",
-        "D": "-ano",
-        "E": "-ol"
+        "A": "Butirato de fenilo",
+        "B": "Palmitato de fenilo",
+        "C": "Estearato de fenilo",
+        "D": "Acetato de fenilo",
+        "E": "Formiato de fenilo"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "En la nomenclatura de ésteres, el nombre del grupo alquilo que se originó del alcohol se escribe después de la preposición \"de\" y se le añade la terminación \"-ilo\". Por ejemplo, del metanol se deriva el grupo metilo.",
+      "respuesta_correcta": "B",
+      "explicacion": "El contenido proporciona un ejemplo específico donde se indica que el nombre común del hexadecanoato de fenilo es palmitato de fenilo, ya que el ácido hexadecanoico también es conocido como ácido palmítico.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_006",
-      "pregunta": "¿Qué tipo de grupos, además de los alquilo, pueden estar enlazados al átomo de nitrógeno en una amina?",
+      "pregunta": "En el nombre de un éster como \"butanoato de isopropilo\", ¿qué parte del nombre proviene del alcohol?",
       "dificultad": 2,
       "opciones": {
-        "A": "Grupos carbonilo",
-        "B": "Grupos arilo",
-        "C": "Grupos hidroxilo",
-        "D": "Grupos carboxilo",
-        "E": "Grupos halógeno"
+        "A": "Butanoato",
+        "B": "Butano",
+        "C": "Isopropilo",
+        "D": "ato",
+        "E": "de"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Las aminas son derivados del amoniaco donde los hidrógenos son sustituidos por uno o más grupos orgánicos. Estos grupos pueden ser tanto alquilo (cadenas de carbono) como arilo (anillos aromáticos).",
+      "respuesta_correcta": "C",
+      "explicacion": "En la nomenclatura de ésteres, la primera parte del nombre (butanoato) deriva del ácido carboxílico, y la segunda parte después de \"de\" (isopropilo) nombra al grupo alquílico que proviene del alcohol, terminado en \"-ilo\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_007",
-      "pregunta": "En el nombre \"Butanoato de isopropilo\", ¿qué parte del nombre indica el componente derivado del alcohol?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Butanoato",
-        "B": "de",
-        "C": "isopropilo",
-        "D": "Butan-",
-        "E": "-ato"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "Siguiendo la regla de nomenclatura de ésteres ([nombre del ácido sin \"-ico\" + -ato] de [nombre del grupo R' + -ilo]), la parte que sigue a la preposición \"de\" y termina en \"-ilo\" corresponde al grupo alquilo proveniente del alcohol. En este caso, \"isopropilo\" proviene del alcohol isopropílico.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_313_008",
-      "pregunta": "¿Cuál de las siguientes es una función biológica de las aminas en los organismos vivos?",
+      "pregunta": "¿Cuál de las siguientes es una de las funciones biológicas de las aminas mencionadas?",
       "dificultad": 2,
       "opciones": {
         "A": "Almacenamiento de energía a largo plazo",
         "B": "Transporte de oxígeno en la sangre",
         "C": "Neurotransmisión",
-        "D": "Aislamiento térmico",
-        "E": "Componente estructural de las paredes celulares de las plantas"
+        "D": "Catálisis de reacciones metabólicas",
+        "E": "Formación de la membrana celular"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Las aminas desempeñan roles vitales en los seres vivos, incluyendo la biorregulación, la defensa contra depredadores y la neurotransmisión. Muchas moléculas que actúan como neurotransmisores, como la dopamina y la serotonina, son aminas.",
+      "explicacion": "Las aminas desempeñan múltiples roles en los organismos vivos. Entre las funciones enumeradas se encuentra la neurotransmisión, junto con la biorregulación y la defensa contra depredadores. Otras opciones describen funciones de lípidos, proteínas como la hemoglobina, enzimas o fosfolípidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_313_008",
+      "pregunta": "La estructura de una amina se define por la unión de uno o más grupos alquilo o arilo a un átomo de:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Carbono",
+        "B": "Oxígeno",
+        "C": "Azufre",
+        "D": "Nitrógeno",
+        "E": "Fósforo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La característica fundamental en la estructura de una amina es la presencia de un átomo de nitrógeno al cual están enlazados uno o más grupos orgánicos (alquilo o arilo), además de átomos de hidrógeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_009",
-      "pregunta": "El nombre \"Hexadecanoato de fenilo\" es un ejemplo de la nomenclatura de un éster. ¿Cuál es otro nombre común para este compuesto?",
+      "pregunta": "¿Cuál es la estructura del grupo alquilo en el éster \"2-metilpropanoato de etilo\"?",
       "dificultad": 2,
       "opciones": {
-        "A": "Acetato de bencilo",
-        "B": "Estearato de fenilo",
-        "C": "Oleato de fenilo",
-        "D": "Laurato de fenilo",
-        "E": "Palmitato de fenilo"
+        "A": "Propilo",
+        "B": "Metilo",
+        "C": "Isopropilo",
+        "D": "Etilo",
+        "E": "2-metilpropano"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El ácido hexadecanoico es comúnmente conocido como ácido palmítico. Por lo tanto, un éster derivado de este ácido, como el hexadecanoato de fenilo, también puede ser nombrado usando el nombre común, resultando en \"Palmitato de fenilo\".",
+      "respuesta_correcta": "D",
+      "explicacion": "El nombre de un éster se divide en dos partes. La primera, \"2-metilpropanoato\", viene del ácido. La segunda, \"de etilo\", indica el grupo alquilo proveniente del alcohol. Por lo tanto, el grupo alquilo es etilo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_010",
-      "pregunta": "Si un éster se forma a partir del ácido 2-metilpropanoico y etanol, ¿cuál sería su nombre IUPAC correcto?",
+      "pregunta": "Considerando el formato de nomenclatura para ésteres, ¿qué moléculas se combinan para formar el \"butanoato de isopropilo\"?",
       "dificultad": 2,
       "opciones": {
-        "A": "Etanoato de 2-metilpropilo",
-        "B": "2-metilpropanoato de etilo",
-        "C": "Propanoato de 2-metiletilo",
-        "D": "Etilo de 2-metilpropanoato",
-        "E": "Isobutirato de etano"
+        "A": "Ácido isopropílico y butanol",
+        "B": "Ácido butanoico y propanol",
+        "C": "Ácido butírico y metanol",
+        "D": "Ácido butanoico e isopropanol",
+        "E": "Butanal e isopropanol"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para nombrar el éster, se toma el nombre del ácido (2-metilpropanoico), se cambia la terminación \"-ico\" por \"-ato\" (2-metilpropanoato), y se añade \"de\" seguido del nombre del grupo alquilo del alcohol (etanol) con terminación \"-ilo\" (etilo). El nombre correcto es 2-metilpropanoato de etilo.",
+      "respuesta_correcta": "D",
+      "explicacion": "El nombre \"butanoato de isopropilo\" indica que el éster se forma a partir del ácido butanoico (que da origen a la parte \"butanoato\") y el alcohol isopropílico o isopropanol (que da origen al grupo \"isopropilo\").",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_011",
-      "pregunta": "¿Qué describe la relación estructural fundamental entre el amoniaco y una amina primaria?",
+      "pregunta": "La diferencia estructural fundamental entre el amoniaco ($$\\text{NH}_3$$) y una amina primaria es:",
       "dificultad": 2,
       "opciones": {
-        "A": "Una amina primaria es amoniaco con un grupo alquilo adicional, sin perder hidrógenos.",
-        "B": "Una amina primaria resulta de la sustitución de un átomo de hidrógeno del amoniaco por un grupo alquilo o arilo.",
-        "C": "El amoniaco se forma cuando una amina primaria pierde su grupo alquilo.",
-        "D": "Son isómeros estructurales con diferentes propiedades.",
-        "E": "No tienen ninguna relación estructural, solo comparten el átomo de nitrógeno."
+        "A": "La presencia de un átomo de oxígeno en la amina.",
+        "B": "La sustitución de un hidrógeno del amoniaco por un grupo R.",
+        "C": "La ausencia de nitrógeno en la amina primaria.",
+        "D": "El tipo de enlace, que es iónico en las aminas.",
+        "E": "La sustitución de todos los hidrógenos del amoniaco."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La definición estructural de las aminas es que son derivados del amoniaco ($$NH_3$$). Específicamente, una amina primaria se forma cuando un grupo alquilo o arilo (R) reemplaza a uno de los tres átomos de hidrógeno del amoniaco, resultando en la fórmula $$R-NH_2$$.",
+      "explicacion": "Una amina primaria se forma cuando un átomo de hidrógeno del amoniaco ($$\\text{NH}_3$$) es reemplazado por un grupo orgánico alquilo o arilo (representado por R). Esto da lugar a la fórmula general $$R-\\text{NH}_2$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_012",
-      "pregunta": "En la estructura de una amina, ¿a qué átomo se enlazan directamente los grupos alquilo o arilo?",
+      "pregunta": "El formato general para nombrar ésteres es \"[Nombre del ácido sin '-ico' + -ato] de [nombre del grupo R' + -ilo]\". ¿Qué representa el grupo R' en esta estructura?",
       "dificultad": 2,
       "opciones": {
-        "A": "A un átomo de carbono del grupo amino.",
-        "B": "A un átomo de hidrógeno del amoniaco.",
-        "C": "Al átomo de nitrógeno.",
-        "D": "A un átomo de oxígeno.",
-        "E": "A otro grupo alquilo mediante un puente de hidrógeno."
+        "A": "La cadena de carbono del ácido carboxílico",
+        "B": "Un grupo funcional adicional",
+        "C": "El grupo alquilo o arilo proveniente del alcohol",
+        "D": "El grupo amino",
+        "E": "Un átomo de halógeno"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Por definición, las aminas tienen uno o más grupos alquilo o arilo enlazados directamente al átomo de nitrógeno del grupo funcional. El nitrógeno es el átomo central del grupo funcional amino.",
+      "explicacion": "En la nomenclatura de ésteres, el grupo R' corresponde a la porción de la molécula que se originó a partir del alcohol durante la reacción de esterificación. Se nombra como un grupo alquilo (o arilo) con la terminación \"-ilo\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_013",
-      "pregunta": "Un éster tiene el nombre \"Propanoato de metilo\". ¿Qué ácido carboxílico y qué alcohol reaccionaron para formarlo?",
+      "pregunta": "Aplicando las reglas de nomenclatura IUPAC, ¿cuál sería el nombre del éster formado por la reacción entre el ácido propanoico y el etanol?",
       "dificultad": 3,
       "opciones": {
-        "A": "Ácido acético y propanol",
-        "B": "Ácido propanoico y metanol",
-        "C": "Ácido metanoico y propanol",
-        "D": "Ácido butanoico y metanol",
-        "E": "Ácido propanoico y etanol"
+        "A": "Etanoato de propilo",
+        "B": "Propanoato de etilo",
+        "C": "Etanoato de etilo",
+        "D": "Propanoato de propilo",
+        "E": "Propil etil éster"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Para deducir los reactivos, se analiza el nombre del éster en dos partes. La parte \"Propanoato\" proviene del ácido carboxílico cambiando \"-ato\" por \"-oico\", lo que nos da ácido propanoico. La parte \"de metilo\" proviene del alcohol, cambiando \"-ilo\" por \"-anol\", lo que nos da metanol.",
+      "explicacion": "Para nombrar el éster, se toma el nombre del ácido (ácido propanoico), se cambia la terminación \"-ico\" por \"-ato\", resultando en \"propanoato\". Luego, se nombra el grupo alquilo del alcohol (etanol), que es \"etilo\". Al unirlos, el nombre correcto es \"propanoato de etilo\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_014",
-      "pregunta": "Considerando la definición general de que las aminas son derivados del amoniaco con \"uno o más\" grupos alquilo, ¿cómo se clasificaría una molécula donde dos grupos alquilo han sustituido a dos hidrógenos del amoniaco?",
+      "pregunta": "En la fórmula general de una amina primaria, $$R-\\text{NH}_2$$, ¿qué tipo de grupo puede ser 'R' según la definición de aminas?",
       "dificultad": 3,
       "opciones": {
-        "A": "No sería una amina, sería un amonio.",
-        "B": "Sería un éster nitrogenado.",
-        "C": "Seguiría siendo clasificada como una amina.",
-        "D": "Sería una amida.",
-        "E": "Sería un compuesto nitro."
+        "A": "Únicamente un átomo de hidrógeno",
+        "B": "Un grupo hidroxilo o un halógeno",
+        "C": "Un grupo alquilo o un grupo arilo",
+        "D": "Solo una cadena alifática simple",
+        "E": "Un grupo carbonilo"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La definición establece que las aminas tienen \"uno o más\" grupos alquilo o arilo enlazados al nitrógeno. Una amina con un grupo es primaria ($$R-NH_2$$). Si tiene dos grupos alquilo, se clasifica como una amina secundaria ($$R_2NH$$), y con tres, una amina terciaria ($$R_3N$$). Todas ellas pertenecen a la familia de las aminas.",
+      "explicacion": "La definición de aminas establece que son derivados del amoniaco con uno o más grupos alquilo o arilos enlazados al nitrógeno. Por lo tanto, en la fórmula $$R-\\text{NH}_2$$, 'R' representa un grupo alquilo (como metilo, etilo) o un grupo arilo (como fenilo).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_313_015",
-      "pregunta": "Si se desea sintetizar el éster \"Acetato de fenilo\", ¿cuál de los siguientes pares de reactivos sería el más apropiado, basándose en las reglas de nomenclatura IUPAC?",
+      "pregunta": "Si un éster se denomina \"benzoato de metilo\", ¿cuáles son el ácido carboxílico y el alcohol que reaccionaron para formarlo?",
       "dificultad": 3,
       "opciones": {
-        "A": "Ácido benzoico y etanol",
-        "B": "Ácido acético y fenol",
-        "C": "Ácido fórmico y benceno",
-        "D": "Ácido fenílico y metanol",
-        "E": "Acetona y fenol"
+        "A": "Ácido acético y fenol",
+        "B": "Ácido metanoico y benceno",
+        "C": "Ácido benzoico y metanol",
+        "D": "Ácido benzílico y metanal",
+        "E": "Ácido fórmico y tolueno"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El nombre \"Acetato de fenilo\" se descompone en dos partes. \"Acetato\" es el nombre común para el \"etanoato\", que se deriva del ácido acético (ácido etanoico). \"Fenilo\" es el grupo derivado del fenol (un alcohol aromático). Por lo tanto, se necesita ácido acético y fenol para su síntesis.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para deducir los reactivos a partir del nombre del éster, se analiza cada parte. La parte \"benzoato\" proviene del ácido benzoico (al cambiar \"-ico\" por \"-ato\"). La parte \"de metilo\" indica que el alcohol utilizado fue el metanol. Por lo tanto, el éster se formó a partir de ácido benzoico y metanol.",
       "imagen": null
     }
   ]

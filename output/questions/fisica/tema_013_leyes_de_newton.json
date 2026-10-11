@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 13,
+  "total_temas": 137,
+  "titulo_tema": "Leyes de Newton",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_013_001",
+      "pregunta": "¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Joule (J)",
+        "B": "Watt (W)",
+        "C": "Pascal (Pa)",
+        "D": "Kilogramo (kg)",
+        "E": "Newton (N)"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fuerza es una magnitud física vectorial y su unidad de medida en el Sistema Internacional (SI) es el newton, representado por el símbolo N. El Joule es la unidad de energía, el Watt de potencia, el Pascal de presión y el Kilogramo de masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_002",
+      "pregunta": "¿Qué rama de la mecánica tiene como objetivo estudiar las condiciones para que un cuerpo se encuentre en equilibrio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cinemática",
+        "B": "Dinámica",
+        "C": "Estática",
+        "D": "Termodinámica",
+        "E": "Óptica"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La estática es la rama de la mecánica que se enfoca en el estudio de las condiciones que un conjunto de fuerzas debe cumplir para que un cuerpo o sistema rígido permanezca en equilibrio mecánico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_003",
+      "pregunta": "¿Cómo se conoce también a la Primera Ley de Newton?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ley de Acción y Reacción",
+        "B": "Principio Fundamental de la Mecánica",
+        "C": "Ley de Equilibrio",
+        "D": "Ley de la Inercia",
+        "E": "Ley de Gravitación"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Primera Ley de Newton es comúnmente conocida como la Ley de la Inercia, ya que describe la tendencia de un cuerpo a mantener su estado de reposo o de movimiento rectilíneo uniforme en ausencia de fuerzas externas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_004",
+      "pregunta": "Según la Tercera Ley de Newton, si un cuerpo A ejerce una fuerza $$F_{AB}$$ sobre un cuerpo B, ¿qué fuerza ejerce el cuerpo B sobre A?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una fuerza $$F_{BA}$$ de mayor magnitud",
+        "B": "Una fuerza $$F_{BA}$$ de menor magnitud",
+        "C": "Ninguna fuerza",
+        "D": "Una fuerza $$-F_{BA}$$ de igual magnitud y en la misma dirección",
+        "E": "Una fuerza $$-F_{BA}$$ de igual magnitud y en dirección contraria"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El Principio de Acción y Reacción establece que las fuerzas siempre ocurren en pares. Si un cuerpo A ejerce una acción sobre B, el cuerpo B ejerce una reacción sobre A que es de igual magnitud pero de dirección opuesta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_005",
+      "pregunta": "¿Cómo se define fundamentalmente una fuerza en mecánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como la velocidad que adquiere un cuerpo",
+        "B": "Como una propiedad intrínseca de la materia",
+        "C": "Como el resultado de la interacción entre dos cuerpos",
+        "D": "Como la cantidad de energía de un sistema",
+        "E": "Como la capacidad de un objeto para permanecer en reposo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una fuerza es una magnitud física vectorial que surge como resultado de la interacción entre dos cuerpos, ya sea por contacto directo o a distancia. Esta interacción puede manifestarse como un empujón, un tirón, una atracción, etc.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_006",
+      "pregunta": "¿Cuál es la condición matemática fundamental para el equilibrio de traslación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_{r} > 0$$",
+        "B": "$$a > 0$$",
+        "C": "$$F_{r} = 0$$",
+        "D": "$$v = 0$$",
+        "E": "$$m = 0$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un cuerpo está en equilibrio de traslación cuando la fuerza resultante ($$F_r$$) o fuerza neta que actúa sobre él es cero. Esto implica que su aceleración ($$a$$) también es cero, lo que significa que el cuerpo está en reposo o se mueve a velocidad constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_007",
+      "pregunta": "De acuerdo con la Segunda Ley de Newton, la aceleración de un cuerpo es...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "directamente proporcional a su masa.",
+        "B": "inversamente proporcional a la fuerza neta.",
+        "C": "directamente proporcional a la fuerza neta e inversamente proporcional a su masa.",
+        "D": "inversamente proporcional a la fuerza neta y directamente proporcional a su masa.",
+        "E": "independiente de la fuerza neta aplicada."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Segunda Ley de Newton, expresada como $$a = \frac{\\Sigma F}{m}$$, establece que la aceleración ($$a$$) es directamente proporcional a la suma de fuerzas o fuerza neta ($$\\Sigma F$$) e inversamente proporcional a la masa ($$m$$) del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_008",
+      "pregunta": "Un objeto se encuentra en equilibrio cinético. ¿Qué describe su estado de movimiento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se encuentra en reposo absoluto.",
+        "B": "Se mueve con aceleración constante.",
+        "C": "Se mueve en círculo a rapidez constante.",
+        "D": "Se mueve con velocidad constante.",
+        "E": "Su velocidad está disminuyendo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El equilibrio traslacional tiene dos casos: el equilibrio estático, donde el cuerpo está en reposo (velocidad cero), y el equilibrio cinético, donde el cuerpo se mueve con velocidad constante. En ambos casos, la fuerza neta y la aceleración son cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_009",
+      "pregunta": "Si un automóvil se mueve en una carretera recta a una velocidad constante de 90 km/h, ¿qué se puede afirmar sobre la fuerza neta que actúa sobre él?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza neta es igual a su peso.",
+        "B": "Hay una fuerza neta constante en la dirección del movimiento.",
+        "C": "La fuerza neta es cero.",
+        "D": "La fuerza neta es negativa, oponiéndose al movimiento.",
+        "E": "No se puede determinar sin conocer la masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la Primera Ley de Newton (Ley de la Inercia), si un cuerpo se mueve con velocidad constante, significa que su aceleración es nula. Por la Segunda Ley de Newton ($$F = ma$$), si la aceleración es cero, la fuerza neta que actúa sobre el cuerpo también debe ser cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_010",
+      "pregunta": "¿Qué establece la relación $$|F_{AB}| = |-F_{BA}|$$ en el contexto de la Tercera Ley de Newton?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza de acción es siempre mayor que la reacción.",
+        "B": "Las fuerzas de acción y reacción actúan en la misma dirección.",
+        "C": "La magnitud de la fuerza de acción es igual a la magnitud de la fuerza de reacción.",
+        "D": "Un cuerpo no puede ejercer una fuerza sobre otro sin moverse.",
+        "E": "Las fuerzas de acción y reacción se anulan entre sí."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La expresión $$|F_{AB}| = |-F_{BA}|$$ indica que las magnitudes (valor absoluto) de la fuerza que el cuerpo A ejerce sobre B ($$F_{AB}$$) y la fuerza que B ejerce sobre A ($$F_{BA}$$) son exactamente iguales. El signo negativo en $$-F_{BA}$$ indica que sus direcciones son opuestas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_011",
+      "pregunta": "Según la Segunda Ley de Newton, si se duplica la fuerza neta aplicada a un objeto de masa constante, ¿qué le ocurre a su aceleración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a la mitad.",
+        "B": "Permanece igual.",
+        "C": "Se duplica.",
+        "D": "Se cuadruplica.",
+        "E": "Se vuelve cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La aceleración es directamente proporcional a la fuerza neta ($$a \\propto \\Sigma F$$). Por lo tanto, si la masa se mantiene constante y la fuerza neta se duplica, la aceleración también se duplicará para mantener la relación $$a = \frac{\\Sigma F}{m}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_012",
+      "pregunta": "¿Qué condición general debe cumplirse para que un sistema se encuentre en equilibrio mecánico?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que la velocidad del sistema sea cero.",
+        "B": "Que la aceleración del sistema sea positiva.",
+        "C": "Que se cumplan simultáneamente el equilibrio de traslación y de rotación.",
+        "D": "Que únicamente se cumpla el equilibrio de traslación.",
+        "E": "Que la energía cinética del sistema sea máxima."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que un cuerpo o sistema esté en equilibrio mecánico total, no basta con que no se traslade (o lo haga a velocidad constante). También es necesario que no rote. Por ello, deben cumplirse tanto el equilibrio de traslación (suma de fuerzas igual a cero) como el de rotación (suma de torques igual a cero).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_013",
+      "pregunta": "Un objeto de masa $$m$$ se encuentra inicialmente en reposo. Si se le aplican dos fuerzas de igual magnitud pero en direcciones opuestas, ¿cuál será el estado del objeto según la Primera y Segunda Ley de Newton?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Acelerará en la dirección de una de las fuerzas.",
+        "B": "Permanecerá en reposo.",
+        "C": "Comenzará a moverse con velocidad constante.",
+        "D": "Su masa disminuirá.",
+        "E": "Rotará sin trasladarse."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Si las dos fuerzas tienen igual magnitud y direcciones opuestas, la fuerza neta o resultante ($$\\Sigma F$$) sobre el objeto es cero. Según la Segunda Ley ($$a = \frac{\\Sigma F}{m}$$), si la fuerza neta es cero, la aceleración es cero. De acuerdo con la Primera Ley (Inercia), un objeto en reposo con aceleración cero permanecerá en reposo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_014",
+      "pregunta": "La Tercera Ley de Newton establece que el par de fuerzas acción-reacción tiene igual magnitud y dirección opuesta. ¿Por qué estas fuerzas no se cancelan mutuamente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque una es real y la otra es una pseudofuerza.",
+        "B": "Porque actúan sobre cuerpos diferentes.",
+        "C": "Porque su efecto no es simultáneo.",
+        "D": "Porque solo se aplica a objetos sin masa.",
+        "E": "Porque la fuerza de reacción es siempre ligeramente menor."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las fuerzas de acción y reacción nunca se anulan porque actúan sobre objetos distintos. La fuerza de acción es ejercida por el cuerpo A sobre el cuerpo B, mientras que la fuerza de reacción es ejercida por el cuerpo B sobre el cuerpo A. Para analizar el movimiento de un solo cuerpo, solo se consideran las fuerzas que actúan sobre él.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_013_015",
+      "pregunta": "Si un cuerpo A tiene el doble de masa que un cuerpo B ($$m_A = 2m_B$$) y a ambos se les aplica la misma fuerza neta, ¿cómo es la aceleración de A ($$a_A$$) en comparación con la de B ($$a_B$$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$a_A = 2a_B$$",
+        "B": "$$a_A = a_B$$",
+        "C": "$$a_A = \frac{1}{2}a_B$$",
+        "D": "$$a_A = 4a_B$$",
+        "E": "$$a_A = \frac{1}{4}a_B$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según la Segunda Ley de Newton, la aceleración es inversamente proporcional a la masa ($$a = \frac{F}{m}$$). Si la fuerza $$F$$ es la misma para ambos cuerpos, tenemos que $$a_A = \frac{F}{m_A}$$ y $$a_B = \frac{F}{m_B}$$. Sustituyendo $$m_A = 2m_B$$, obtenemos $$a_A = \frac{F}{2m_B} = \frac{1}{2} (\frac{F}{m_B}) = \frac{1}{2}a_B$$. Por lo tanto, el cuerpo con el doble de masa experimentará la mitad de la aceleración.",
+      "imagen": null
+    }
+  ]
+}

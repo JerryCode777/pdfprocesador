@@ -6,7 +6,7 @@
   "preguntas": [
     {
       "id_temporal": "quimica_081_001",
-      "pregunta": "¿Cómo se denominan las filas horizontales en las que se distribuyen los elementos en la tabla periódica?",
+      "pregunta": "¿Cómo se denominan las filas horizontales en la tabla periódica?",
       "dificultad": 1,
       "opciones": {
         "A": "Grupos",
@@ -16,12 +16,27 @@
         "E": "Series"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Las filas horizontales de la tabla periódica se conocen como periodos. Existen 7 periodos en total. Las columnas verticales se denominan grupos o familias.",
+      "explicacion": "Las filas horizontales de la tabla periódica se denominan periodos. Las columnas verticales se conocen como grupos o familias. En total, la tabla periódica consta de 7 periodos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_002",
-      "pregunta": "¿Cuántos periodos en total conforman la tabla periódica?",
+      "pregunta": "¿Qué nombre reciben los elementos que pertenecen a los grupos IA a VIIA?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Metales de transición",
+        "B": "Gases nobles",
+        "C": "Lantánidos",
+        "D": "Elementos representativos",
+        "E": "Actínidos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los elementos de los grupos IA a VIIA son conocidos como elementos representativos o del grupo principal. Se caracterizan por tener incompletos los subniveles s o p del máximo número cuántico principal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_081_003",
+      "pregunta": "¿Cuántos periodos en total componen la tabla periódica?",
       "dificultad": 1,
       "opciones": {
         "A": "18",
@@ -31,202 +46,187 @@
         "E": "12"
       },
       "respuesta_correcta": "D",
-      "explicacion": "La tabla periódica está organizada en 7 filas horizontales, y cada una de estas filas es un periodo. El número 18 corresponde al número total de columnas o grupos según la IUPAC.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_081_003",
-      "pregunta": "¿Cuál es la recomendación de la IUPAC para numerar las columnas o grupos de la tabla periódica?",
-      "dificultad": 1,
-      "opciones": {
-        "A": "Con números romanos del I al VIII y letras A y B",
-        "B": "Con letras del alfabeto de la A a la R",
-        "C": "Con números arábigos del 1 al 18 de forma secuencial",
-        "D": "Con números romanos del I al XVIII",
-        "E": "Con un sistema combinado de letras y números"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "La INTERNATIONAL UNION OF PURE AND APPLIED CHEMISTRY (IUPAC) recomienda numerar las columnas de manera secuencial con números arábigos, desde 1 hasta 18, para estandarizar la nomenclatura y evitar confusiones con los sistemas A/B.",
+      "explicacion": "La tabla periódica está organizada en 7 filas horizontales, y cada una de estas filas es un periodo. Hay 18 columnas verticales, que son los grupos o familias.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_004",
-      "pregunta": "¿Cómo se denominan los elementos con números atómicos comprendidos entre $Z=57$ y $Z=71$?",
+      "pregunta": "Según la recomendación de la IUPAC, ¿cómo deben numerarse las columnas de la tabla periódica?",
       "dificultad": 1,
       "opciones": {
-        "A": "Actínidos",
-        "B": "Metales de transición",
-        "C": "Gases nobles",
-        "D": "Lantánidos",
-        "E": "Transuránicos"
+        "A": "Con números romanos y la letra A",
+        "B": "Con números romanos y la letra B",
+        "C": "Con letras del alfabeto griego",
+        "D": "De forma secuencial con números arábigos del 1 al 18",
+        "E": "Combinando letras y números romanos"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Los elementos con números atómicos desde $Z=57$ (Lantano, La) hasta $Z=71$ (Lutecio, Lu) se llaman Lantánidos. Forman parte de las Tierras Raras.",
+      "explicacion": "La INTERNATIONAL UNION OF PURE AND APPLIED CHEMISTRY (IUPAC) recomienda numerar las columnas (grupos) de manera secuencial utilizando números arábigos, desde el 1 hasta el 18, para estandarizar la notación y evitar confusiones como las que existen con el sistema A/B.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_005",
-      "pregunta": "Los elementos que se han obtenido de forma artificial y tienen un número atómico mayor que el del uranio ($Z=92$) se conocen como:",
+      "pregunta": "¿Cómo se conocen las columnas verticales de la tabla periódica?",
       "dificultad": 1,
       "opciones": {
-        "A": "Lantánidos",
-        "B": "Actínidos",
-        "C": "Isótopos",
-        "D": "Metales representativos",
-        "E": "Transuránicos"
+        "A": "Periodos o series",
+        "B": "Niveles de energía",
+        "C": "Grupos o familias",
+        "D": "Subniveles electrónicos",
+        "E": "Bloques"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Los elementos transuránicos son aquellos que tienen un número atómico superior a 92, que es el número atómico del uranio. Estos elementos no se encuentran de forma natural en cantidades significativas y se producen artificialmente en laboratorios.",
+      "respuesta_correcta": "C",
+      "explicacion": "Las columnas verticales de la tabla periódica son conocidas como grupos o familias. Hay 18 en total y agrupan a elementos con propiedades químicas similares.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_006",
-      "pregunta": "¿Cuál es la característica electrónica fundamental que tienen en común los elementos de un mismo grupo?",
+      "pregunta": "¿Cuál es la razón fundamental por la que los elementos de un mismo grupo poseen propiedades químicas similares?",
       "dificultad": 2,
       "opciones": {
-        "A": "El mismo número de protones",
-        "B": "El mismo número de niveles de energía",
-        "C": "El mismo número de electrones en el nivel de energía más externo",
-        "D": "Tener el subnivel d completamente lleno",
-        "E": "El mismo número atómico"
+        "A": "Tienen el mismo número de protones.",
+        "B": "Pertenecen al mismo periodo.",
+        "C": "Tienen una masa atómica similar.",
+        "D": "Tienen el mismo número de electrones en el nivel más externo.",
+        "E": "Comparten el mismo número cuántico principal."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los elementos de un mismo grupo o familia comparten propiedades químicas similares porque tienen el mismo número de electrones en su nivel de energía más externo, también conocido como capa de valencia. Estos son los electrones que participan en los enlaces químicos.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los elementos de un mismo grupo comparten propiedades químicas similares porque tienen la misma configuración electrónica en su nivel de energía más externo. Estos electrones, conocidos como electrones de valencia, son los que participan en los enlaces químicos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_007",
-      "pregunta": "¿Qué tipo de elementos se caracterizan por tener incompleto el subnivel $d$?",
+      "pregunta": "¿Qué característica en la configuración electrónica define a los gases nobles del grupo VIIIA?",
       "dificultad": 2,
       "opciones": {
-        "A": "Gases nobles",
-        "B": "Metales de transición",
-        "C": "Elementos representativos",
-        "D": "Lantánidos",
-        "E": "Actínidos"
+        "A": "Tienen incompleto el subnivel d.",
+        "B": "Tienen completamente lleno el subnivel p.",
+        "C": "Tienen incompleto el subnivel s.",
+        "D": "Tienen completamente lleno el subnivel f.",
+        "E": "Carecen de electrones en el subnivel p."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Los metales de transición son los elementos que se caracterizan por tener un subnivel $d$ incompleto en su configuración electrónica. Esto les confiere propiedades distintivas como la formación de iones con diferentes estados de oxidación.",
+      "explicacion": "Los gases nobles, que conforman el grupo VIIIA (o grupo 18), se caracterizan por tener su subnivel p del máximo nivel de energía completamente lleno, lo que les confiere una gran estabilidad química.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_008",
-      "pregunta": "Según su longitud, ¿cómo se clasifican los periodos 4° y 5° de la tabla periódica?",
+      "pregunta": "En la distribución electrónica de un elemento, ¿qué dato determina el periodo en el que se ubica?",
       "dificultad": 2,
       "opciones": {
-        "A": "Periodos cortos",
-        "B": "Periodos estándar",
-        "C": "Periodos extra largos",
-        "D": "Periodos de transición",
-        "E": "Periodos largos"
+        "A": "El número total de electrones.",
+        "B": "Los electrones del subnivel d.",
+        "C": "El mayor nivel de energía o número cuántico principal.",
+        "D": "El número de electrones en el último subnivel.",
+        "E": "La suma de protones y neutrones."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Los periodos 4° y 5° se clasifican como periodos largos, ya que cada uno contiene 18 elementos. Los periodos cortos son el 1°, 2° y 3°, mientras que los extra largos son el 6° y 7°.",
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo de un elemento está determinado por su nivel de energía más externo, es decir, el mayor número cuántico principal ($n$) alcanzado en su configuración electrónica.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_009",
-      "pregunta": "¿Qué información de la configuración electrónica de un elemento determina el periodo en el que se ubica?",
+      "pregunta": "¿Qué nombre reciben los periodos 4° y 5°, cada uno de los cuales contiene 18 elementos?",
       "dificultad": 2,
       "opciones": {
-        "A": "El número de electrones en el subnivel p",
-        "B": "El número total de electrones",
-        "C": "El número de electrones de valencia",
-        "D": "El nivel externo o mayor nivel de energía",
-        "E": "El número de orbitales llenos"
+        "A": "Periodos cortos",
+        "B": "Periodos de transición",
+        "C": "Periodos largos",
+        "D": "Periodos extra largos",
+        "E": "Periodos representativos"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El periodo de un elemento está determinado por su nivel de energía más externo, también conocido como el mayor número cuántico principal ($n$) en su configuración electrónica. Por ejemplo, un elemento cuyo electrón más externo esté en el nivel 3 pertenecerá al periodo 3.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los periodos se clasifican por su longitud. Los periodos 4° y 5° se denominan periodos largos porque cada uno de ellos contiene 18 elementos. Los periodos 1°, 2° y 3° son cortos, y los 6° y 7° son extra largos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_010",
-      "pregunta": "¿Cuál es la característica distintiva en la configuración electrónica de los gases nobles (grupo VIIIA)?",
+      "pregunta": "¿Cómo se denominan los elementos con números atómicos comprendidos entre $Z=89$ (Ac) y $Z=103$ (Lr)?",
       "dificultad": 2,
       "opciones": {
-        "A": "Tienen el subnivel s incompleto",
-        "B": "Tienen el subnivel d completamente lleno",
-        "C": "Tienen el subnivel p completamente lleno",
-        "D": "Tienen el subnivel f incompleto",
-        "E": "Solo tienen un electrón en su última capa"
+        "A": "Lantánidos",
+        "B": "Metales de transición",
+        "C": "Gases nobles",
+        "D": "Tierras Raras",
+        "E": "Actínidos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los gases nobles, que pertenecen al grupo VIIIA (o grupo 18), se caracterizan por tener su subnivel $p$ completamente lleno (configuración $ns^2np^6$, excepto para el Helio que es $1s^2$). Esta configuración estable es la razón de su baja reactividad química.",
+      "respuesta_correcta": "E",
+      "explicacion": "El grupo de elementos cuyos números atómicos van desde $Z=89$ (Actinio) hasta $Z=103$ (Lawrencio) se conoce como los Actínidos. Junto con los Lantánidos, forman el bloque de las Tierras Raras.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_011",
-      "pregunta": "Los grupos de elementos conocidos como Lantánidos y Actínidos, que se disponen en dos filas separadas de la tabla, también reciben el nombre de:",
+      "pregunta": "¿Cuál es la característica electrónica distintiva de los metales de transición?",
       "dificultad": 2,
       "opciones": {
-        "A": "Metales alcalinos",
-        "B": "Tierras Raras",
-        "C": "Gases nobles",
-        "D": "Elementos representativos",
-        "E": "Metales de transición"
+        "A": "Tienen el subnivel p completamente lleno.",
+        "B": "Tienen incompleto el subnivel f.",
+        "C": "Tienen completo el subnivel s.",
+        "D": "Tienen incompleto el subnivel d.",
+        "E": "Pertenecen exclusivamente a los grupos A."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los Lantánidos y Actínidos, que tienen incompleto el subnivel $f$, se colocan en dos filas debajo del cuerpo principal de la tabla periódica. A este conjunto de elementos se le conoce como Tierras Raras.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los metales de transición se definen por tener su subnivel d incompleto en su configuración electrónica. Esto les confiere propiedades químicas y físicas características, como la capacidad de formar compuestos coloreados y tener múltiples estados de oxidación.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_012",
-      "pregunta": "Los elementos representativos o del grupo principal abarcan los grupos IA a VIIA. ¿Qué caracteriza su configuración electrónica?",
+      "pregunta": "Los elementos que se han obtenido en forma artificial y tienen un número atómico mayor que el del uranio ($_{92}U$) se conocen como:",
       "dificultad": 2,
       "opciones": {
-        "A": "Tienen incompletos los subniveles s o p del máximo número cuántico principal.",
-        "B": "Tienen el subnivel d completamente lleno.",
-        "C": "Su último electrón se encuentra en el subnivel f.",
-        "D": "Tienen todos sus subniveles de energía completos.",
-        "E": "Su configuración siempre termina en el subnivel d."
+        "A": "Isótopos radioactivos",
+        "B": "Elementos transuránicos",
+        "C": "Actínidos superiores",
+        "D": "Metales pesados",
+        "E": "Elementos sintéticos"
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Los elementos representativos se definen porque sus electrones de valencia se encuentran en orbitales $s$ o $p$ del nivel de energía más alto. Específicamente, tienen incompletos estos subniveles $s$ o $p$.",
+      "respuesta_correcta": "B",
+      "explicacion": "Los elementos con un número atómico superior a 92 (el del uranio) son denominados transuránicos. Estos elementos no se encuentran de forma natural en cantidades significativas y han sido sintetizados en laboratorios.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_013",
-      "pregunta": "Si la configuración electrónica de un átomo neutro indica que su nivel de energía más externo es el 5, ¿en qué periodo de la tabla periódica se ubicará este elemento?",
+      "pregunta": "Si un elemento se ubica en el 6° periodo de la tabla periódica, ¿a qué clasificación de periodo pertenece y cuántos elementos contiene dicho periodo?",
       "dificultad": 3,
       "opciones": {
-        "A": "Periodo 4, porque es un periodo largo.",
-        "B": "Periodo 7, porque es el último.",
-        "C": "Periodo 5, porque el mayor nivel determina el periodo.",
-        "D": "No se puede determinar sin saber el grupo.",
-        "E": "Periodo 3, porque es un periodo corto."
+        "A": "Periodo largo, con 18 elementos",
+        "B": "Periodo corto, con 8 elementos",
+        "C": "Periodo extra largo, con 32 elementos",
+        "D": "Periodo de transición, con 10 elementos",
+        "E": "Periodo lantánido, con 14 elementos"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La regla para ubicar un elemento en un periodo es que el nivel de energía más externo (el mayor número cuántico principal, $n$) determina el número del periodo. Si el mayor nivel es 5, el elemento pertenece al periodo 5, independientemente de su grupo o del número de electrones que tenga en esa capa.",
+      "explicacion": "Los periodos se clasifican según el número de elementos que contienen. El 6° periodo, al igual que el 7°, se clasifica como un periodo extra largo y está compuesto por 32 elementos, incluyendo la serie de los Lantánidos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_014",
-      "pregunta": "¿Cuál es la razón fundamental por la que los elementos de un mismo grupo tienen propiedades químicas similares?",
+      "pregunta": "Al analizar la configuración electrónica de un átomo neutro para ubicarlo en la tabla periódica, ¿qué información es esencial para determinar su periodo y su grupo, respectivamente?",
       "dificultad": 3,
       "opciones": {
-        "A": "Porque tienen un número atómico similar.",
-        "B": "Porque tienen la misma configuración electrónica en su nivel más externo, y estos electrones participan en los enlaces.",
-        "C": "Porque pertenecen al mismo periodo y comparten el mismo nivel de energía.",
-        "D": "Porque todos son metales o no metales.",
-        "E": "Porque Moseley los ordenó de esa manera según su masa atómica."
+        "A": "Número total de electrones y número de protones.",
+        "B": "El último subnivel llenado para el periodo y el número cuántico principal para el grupo.",
+        "C": "El mayor nivel de energía para el periodo y los electrones de la última capa para el grupo.",
+        "D": "La cantidad de subniveles completos para el periodo y el número atómico para el grupo.",
+        "E": "El número de orbitales llenos para el periodo y la masa atómica para el grupo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La similitud en las propiedades químicas de los elementos de un mismo grupo se debe a que poseen la misma configuración electrónica en su capa más externa (capa de valencia). Estos electrones de valencia son los que determinan cómo un átomo interactúa con otros, es decir, cómo forma enlaces químicos. Al tener la misma cantidad de electrones de valencia, reaccionan de manera parecida.",
+      "respuesta_correcta": "C",
+      "explicacion": "La ubicación de un elemento se deduce de su configuración electrónica. El mayor nivel de energía (el número cuántico principal más alto) indica el periodo. Los electrones en esa última capa de energía (electrones de valencia) determinan el grupo al que pertenece el elemento.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_081_015",
-      "pregunta": "Un elemento tiene un número atómico $Z$ y, al realizar su distribución electrónica, se observa que su electrón de mayor energía se encuentra en el subnivel $4p$. Con esta información, ¿qué se puede deducir sobre su ubicación en la tabla periódica?",
+      "pregunta": "¿Cuál es la diferencia fundamental en la configuración electrónica entre los lantánidos/actínidos y los metales de transición?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es un actínido porque el número cuántico principal es 4.",
-        "B": "Pertenece al periodo 4 y es un elemento representativo.",
-        "C": "Es un metal de transición del periodo 4.",
-        "D": "Pertenece al grupo VIIIA (gas noble) del periodo 4.",
-        "E": "Es un lantánido porque está en un subnivel p."
+        "A": "Los lantánidos y actínidos tienen incompleto el subnivel s, mientras que los de transición tienen incompleto el subnivel p.",
+        "B": "Los lantánidos y actínidos tienen incompleto el subnivel d, mientras que los de transición tienen incompleto el subnivel f.",
+        "C": "Ambos grupos tienen incompleto el subnivel d, pero en diferentes niveles de energía.",
+        "D": "Los lantánidos y actínidos tienen incompleto el subnivel f, mientras que los de transición tienen incompleto el subnivel d.",
+        "E": "No hay una diferencia fundamental, ya que ambos son metales."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El mayor nivel de energía es 4, por lo tanto, el elemento se encuentra en el periodo 4. Como su último subnivel en llenarse es el $p$, se clasifica como un elemento representativo (o del grupo principal), ya que estos tienen incompletos los subniveles $s$ o $p$. No puede ser un metal de transición (subnivel $d$) ni un lantánido/actínido (subnivel $f$). No se puede asegurar que sea un gas noble sin saber si el subnivel $p$ está completo.",
+      "respuesta_correcta": "D",
+      "explicacion": "La principal distinción a nivel de configuración electrónica es el subnivel que se está llenando. En los metales de transición, el subnivel d está incompleto. En los lantánidos y actínidos (también conocidos como metales de transición interna), es el subnivel f el que se encuentra incompleto.",
       "imagen": null
     }
   ]

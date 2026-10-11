@@ -3,5 +3,231 @@
   "numero_tema": 185,
   "total_temas": 322,
   "titulo_tema": "Reglas de Solubilidad",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_185_001",
+      "pregunta": "¿Qué es un precipitado en el contexto de una disolución química?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un líquido miscible que se añade a la disolución.",
+        "B": "Un sólido insoluble que se forma en el seno de una disolución.",
+        "C": "Un gas que se libera durante una reacción.",
+        "D": "Un catalizador que acelera la reacción.",
+        "E": "La disolución transparente resultante tras una reacción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un precipitado se define como un sólido que no se disuelve y que se forma a partir de una reacción en una disolución. Las otras opciones describen otros componentes o resultados de reacciones químicas, pero no la formación de un sólido insoluble.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_002",
+      "pregunta": "Según las reglas generales de solubilidad, los compuestos que contienen el anión nitrato ($$NO_3^-$$) son típicamente:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Siempre insolubles.",
+        "B": "Solubles, con algunas excepciones.",
+        "C": "Siempre solubles, sin excepciones.",
+        "D": "Insolubles, excepto con metales alcalinos.",
+        "E": "Solubles solo en ácidos fuertes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una de las reglas de solubilidad más consistentes es que todos los nitratos son solubles en agua. No hay excepciones comunes a esta regla, lo que los hace una fuente fiable de iones en disolución.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_003",
+      "pregunta": "¿Cuál de los siguientes iones es una excepción conocida que hace que los compuestos con cloruro ($$Cl^-$$) sean insolubles?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$Na^+$$",
+        "B": "$$K^+$$",
+        "C": "$$NH_4^+$$",
+        "D": "$$Ag^+$$",
+        "E": "$$Ca^{2+}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de solubilidad para los haluros ($$Cl^-, Br^-, I^-$$) indica que son mayormente solubles. Sin embargo, existen excepciones importantes, y una de ellas es la plata ($$Ag^+$$), que forma el compuesto insoluble cloruro de plata ($$AgCl$$). Los iones $$Na^+$$, $$K^+$$ y $$NH_4^+$$ forman compuestos muy solubles, y el $$Ca^{2+}$$ no es una de las excepciones listadas para los cloruros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_004",
+      "pregunta": "Los compuestos que contienen los aniones carbonato ($$CO_3^{2-}$$) y fosfato ($$PO_4^{3-}$$) son generalmente:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Solubles, excepto los de $$Ag^+$$ y $$Pb^{2+}$$.",
+        "B": "Siempre solubles.",
+        "C": "Insolubles, excepto los del grupo IA y $$NH_4^+$$",
+        "D": "Solubles, excepto los del grupo IIA.",
+        "E": "Siempre insolubles, sin excepciones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla general para carbonatos y fosfatos es que son compuestos insolubles en agua. Las únicas excepciones comunes a esta regla son los compuestos que forman con cationes del grupo IA (como $$Na^+$$ o $$K^+$$) y el ion amonio ($$NH_4^+$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_005",
+      "pregunta": "Los hidróxidos ($$(OH)^-$$) son en su mayoría insolubles. ¿Cuál de los siguientes cationes forma un hidróxido soluble?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$Fe^{3+}$$",
+        "B": "$$Cu^{2+}$$",
+        "C": "$$Pb^{2+}$$",
+        "D": "$$Al^{3+}$$",
+        "E": "$$Ba^{2+}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Según la regla para hidróxidos, son insolubles excepto con cationes del grupo IA, $$NH_4^+$$ y algunos del grupo IIA como el estroncio ($$Sr^{2+}$$) y el bario ($$Ba^{2+}$$). Por lo tanto, el hidróxido de bario ($$Ba(OH)_2$$) es soluble. Los otros cationes listados forman hidróxidos insolubles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_006",
+      "pregunta": "¿Cuál de los siguientes compuestos iónicos se espera que sea insoluble en agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$KNO_3$$",
+        "B": "$$NaCl$$",
+        "C": "$$PbSO_4$$",
+        "D": "$$(NH_4)_2S$$",
+        "E": "$$Ba(OH)_2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para determinar la solubilidad, aplicamos las reglas: A) $$KNO_3$$ es un nitrato, por lo tanto, soluble. B) $$NaCl$$ es un cloruro de un metal del grupo IA, soluble. C) $$PbSO_4$$ es un sulfato de plomo ($$Pb^{2+}$$), una de las excepciones a la solubilidad de los sulfatos, por lo que es insoluble. D) $$(NH_4)_2S$$ es un sulfuro de amonio, una excepción a la insolubilidad de los sulfuros, por lo que es soluble. E) $$Ba(OH)_2$$ es un hidróxido de bario, una excepción a la insolubilidad de los hidróxidos, por lo que es soluble.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_007",
+      "pregunta": "¿Cuál de las siguientes sales de sulfato ($$SO_4^{2-}$$) es soluble en agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$CaSO_4$$",
+        "B": "$$SrSO_4$$",
+        "C": "$$BaSO_4$$",
+        "D": "$$PbSO_4$$",
+        "E": "$$MgSO_4$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La regla para los sulfatos ($$SO_4^{2-}$$) es que son solubles, con excepciones notables como $$Ca^{2+}$$, $$Sr^{2+}$$, $$Ba^{2+}$$ y $$Pb^{2+}$$. Las opciones A, B, C y D corresponden a estas excepciones y, por lo tanto, son insolubles. El magnesio ($$Mg^{2+}$$) no está en la lista de excepciones, por lo que el sulfato de magnesio ($$MgSO_4$$) es soluble.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_008",
+      "pregunta": "Todos los siguientes compuestos son insolubles EXCEPTO:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$AgI$$",
+        "B": "$$CaCO_3$$",
+        "C": "$$BaSO_4$$",
+        "D": "$$Li_3PO_4$$",
+        "E": "$$Pb(OH)_2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "A) $$AgI$$ es un yoduro de plata, una excepción a la solubilidad de los haluros (insoluble). B) $$CaCO_3$$ es un carbonato del grupo IIA (insoluble). C) $$BaSO_4$$ es un sulfato de bario, una excepción a la solubilidad de los sulfatos (insoluble). D) $$Li_3PO_4$$ es un fosfato de litio. Como el litio ($$Li$$) pertenece al grupo IA, es una excepción a la insolubilidad de los fosfatos, por lo tanto, es soluble. E) $$Pb(OH)_2$$ es un hidróxido de plomo, que es insoluble.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_009",
+      "pregunta": "Un compuesto contiene el anión sulfuro ($$S^{2-}$$). ¿Con cuál de los siguientes cationes formaría un compuesto soluble en agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Pb^{2+}$$",
+        "B": "$$Ag^+$$",
+        "C": "$$K^+$$",
+        "D": "$$Cu^{2+}$$",
+        "E": "$$Hg_2^{2+}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los sulfuros ($$S^{2-}$$) son generalmente insolubles. Las excepciones son los compuestos formados con cationes de los grupos IA y IIA, y con el ion amonio ($$NH_4^+$$). El potasio ($$K^+$$) es un catión del grupo IA, por lo que el sulfuro de potasio ($$K_2S$$) es soluble. Los otros cationes listados no pertenecen a estos grupos de excepción y formarían sulfuros insolubles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_010",
+      "pregunta": "¿Cuál de los siguientes pares de iones formará un precipitado al combinarse en una disolución acuosa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$Na^+$$ y $$NO_3^-$$",
+        "B": "$$K^+$$ y $$Cl^-$$",
+        "C": "$$NH_4^+$$ y $$SO_4^{2-}$$",
+        "D": "$$Ag^+$$ y $$Br^-$$",
+        "E": "$$Ca^{2+}$$ y $$NO_3^-$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Para formar un precipitado, la combinación de iones debe resultar en un compuesto insoluble. A) $$NaNO_3$$ es soluble (nitratos y grupo IA). B) $$KCl$$ es soluble (grupo IA). C) $$(NH_4)_2SO_4$$ es soluble (amonio). D) $$AgBr$$ es insoluble, ya que $$Ag^+$$ es una excepción a la regla de solubilidad de los bromuros. E) $$Ca(NO_3)_2$$ es soluble (nitratos).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_011",
+      "pregunta": "¿Cuál de los siguientes carbonatos ($$CO_3^{2-}$$) es soluble en agua?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$CaCO_3$$",
+        "B": "$$BaCO_3$$",
+        "C": "$$Ag_2CO_3$$",
+        "D": "$$(NH_4)_2CO_3$$",
+        "E": "$$PbCO_3$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los carbonatos son generalmente insolubles. Las excepciones son los compuestos con cationes del Grupo IA y el ion amonio ($$NH_4^+$$). De las opciones, solo el carbonato de amonio ($$(NH_4)_2CO_3$$) cumple con esta condición de excepción, haciéndolo soluble. Todos los demás carbonatos listados son insolubles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_012",
+      "pregunta": "Si se compara la solubilidad del hidróxido de estroncio ($$Sr(OH)_2$$) y el hidróxido de magnesio ($$Mg(OH)_2$$), ¿cuál es la predicción correcta según las reglas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos son insolubles.",
+        "B": "Ambos son solubles.",
+        "C": "$$Sr(OH)_2$$ es soluble, mientras que $$Mg(OH)_2$$ es insoluble.",
+        "D": "$$Mg(OH)_2$$ es soluble, mientras que $$Sr(OH)_2$$ es insoluble.",
+        "E": "La solubilidad es idéntica para ambos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La regla para los hidróxidos ($$(OH)^-$$) es que son mayormente insolubles. Sin embargo, hay excepciones, incluyendo los cationes $$Sr^{2+}$$ y $$Ba^{2+}$$. Por lo tanto, $$Sr(OH)_2$$ es soluble. El magnesio ($$Mg^{2+}$$) no está listado como una excepción, lo que implica que $$Mg(OH)_2$$ sigue la regla general y es insoluble.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_013",
+      "pregunta": "Si se mezcla una disolución de nitrato de plomo (II) ($$Pb(NO_3)_2$$) con una disolución de cloruro de sodio ($$NaCl$$), ¿cuál será el resultado?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "No se produce ninguna reacción visible.",
+        "B": "Se forma un precipitado de nitrato de sodio ($$NaNO_3$$).",
+        "C": "Se forma un precipitado de cloruro de plomo (II) ($$PbCl_2$$).",
+        "D": "La disolución se vuelve ácida.",
+        "E": "Se forma un precipitado de ambos, $$NaNO_3$$ y $$PbCl_2$$."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Al mezclar las disoluciones, los iones presentes son $$Pb^{2+}$$, $$NO_3^-$$, $$Na^+$$ y $$Cl^-$$. Se deben considerar las nuevas combinaciones posibles: $$Na^+$$ con $$NO_3^-$$ y $$Pb^{2+}$$ con $$Cl^-$$. Según las reglas, el nitrato de sodio ($$NaNO_3$$) es soluble (nitratos y grupo IA). Sin embargo, el cloruro de plomo (II) ($$PbCl_2$$) es insoluble, ya que el ion $$Pb^{2+}$$ es una de las excepciones para los cloruros. Por lo tanto, se formará un precipitado de $$PbCl_2$$",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_014",
+      "pregunta": "¿Cuál de los siguientes grupos contiene únicamente compuestos que son insolubles en agua?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$AgCl$$, $$BaSO_4$$, $$CaCO_3$$",
+        "B": "$$K_2CO_3$$, $$NaBr$$, $$Ba(OH)_2$$",
+        "C": "$$Pb(NO_3)_2$$, $$KCl$$, $$(NH_4)_2S$$",
+        "D": "$$AgNO_3$$, $$SrCl_2$$, $$NaOH$$",
+        "E": "$$PbI_2$$, $$NH_4Cl$$, $$Sr(OH)_2$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Se debe analizar cada compuesto de cada grupo: A) $$AgCl$$ (insoluble, excepción de haluros), $$BaSO_4$$ (insoluble, excepción de sulfatos), $$CaCO_3$$ (insoluble, regla de carbonatos). Todos son insolubles. B) $$K_2CO_3$$ es soluble (grupo IA). C) $$Pb(NO_3)_2$$ es soluble (nitratos). D) $$AgNO_3$$ es soluble (nitratos). E) $$NH_4Cl$$ es soluble (amonio). Por lo tanto, solo el grupo A está compuesto exclusivamente por compuestos insolubles.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_185_015",
+      "pregunta": "Se mezclan disoluciones acuosas de sulfato de amonio ($$(NH_4)_2SO_4$$) y cloruro de bario ($$BaCl_2$$). ¿Qué ocurrirá en la mezcla?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se forma un precipitado de cloruro de amonio ($$NH_4Cl$$).",
+        "B": "Se forman dos precipitados: $$BaSO_4$$ y $$NH_4Cl$$.",
+        "C": "No se observa ninguna reacción porque todos los productos son solubles.",
+        "D": "Se forma un precipitado de sulfato de bario ($$BaSO_4$$).",
+        "E": "Se libera gas de amoniaco."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los iones en la disolución son $$NH_4^+$$, $$SO_4^{2-}$$, $$Ba^{2+}$$ y $$Cl^-$$. Los productos potenciales de la reacción de doble desplazamiento son cloruro de amonio ($$NH_4Cl$$) y sulfato de bario ($$BaSO_4$$). Aplicando las reglas de solubilidad: 1) $$NH_4Cl$$ es soluble, ya que los compuestos de amonio ($$NH_4^+$$) y los cloruros son generalmente solubles. 2) $$BaSO_4$$ es insoluble, porque el bario ($$Ba^{2+}$$) es una de las excepciones a la regla de solubilidad de los sulfatos. Por consiguiente, se formará un único precipitado de sulfato de bario.",
+      "imagen": null
+    }
+  ]
 }

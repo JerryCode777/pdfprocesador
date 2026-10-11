@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 99,
+  "total_temas": 137,
+  "titulo_tema": "Leyes de la Electrostática",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_099_001",
+      "pregunta": "¿Qué establece la Ley Cualitativa de la electrostática sobre la interacción entre dos cargas de signo positivo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se atraen",
+        "B": "Se repelen",
+        "C": "Se neutralizan",
+        "D": "No interactúan",
+        "E": "Giran una alrededor de la otra"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley Cualitativa de la electrostática establece que las cargas de un mismo signo se repelen. Dado que ambas cargas son de signo positivo (mismo signo), ejercerán una fuerza de repulsión entre sí.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_002",
+      "pregunta": "¿Cuál es la interacción entre una carga positiva y una carga negativa, según la Ley Cualitativa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una fuerza de repulsión.",
+        "B": "Una fuerza de atracción.",
+        "C": "No hay ninguna fuerza entre ellas.",
+        "D": "La fuerza es nula.",
+        "E": "Se anulan mutuamente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "De acuerdo con la Ley Cualitativa, \"cargas de signos opuestos se atraen\". Una carga positiva y una negativa tienen signos opuestos, por lo que la fuerza entre ellas es de atracción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_003",
+      "pregunta": "¿Qué otro nombre recibe la Ley Cuantitativa de la electrostática?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Ley de Ohm",
+        "B": "Ley de Faraday",
+        "C": "Ley de Coulomb",
+        "D": "Ley de Ampere",
+        "E": "Ley de la Gravitación Universal"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley Cuantitativa de la electrostática, que describe la magnitud de la fuerza entre cargas, fue establecida por Charles Agustín Coulomb y es conocida como la Ley de Coulomb.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_004",
+      "pregunta": "El científico que estudió en detalle las fuerzas entre partículas cargadas y estableció la ley cuantitativa en 1784 fue:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Isaac Newton",
+        "B": "Michael Faraday",
+        "C": "Galileo Galilei",
+        "D": "Charles Agustín Coulomb",
+        "E": "André-Marie Ampère"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Charles Agustín Coulomb fue quien, en 1784, realizó los estudios detallados sobre las fuerzas de atracción y repulsión entre partículas cargadas, lo que condujo a la formulación de la ley que lleva su nombre.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_005",
+      "pregunta": "Según la Ley Cualitativa, ¿en qué situación ocurre una fuerza de atracción entre dos cargas puntuales?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cuando ambas cargas son positivas.",
+        "B": "Cuando ambas cargas son negativas.",
+        "C": "Cuando las cargas tienen signos diferentes.",
+        "D": "Cuando las cargas son de igual magnitud.",
+        "E": "Cuando las cargas están muy cerca."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley Cualitativa indica que \"cargas de signos opuestos se atraen\". Por lo tanto, para que exista una fuerza de atracción, una carga debe ser positiva y la otra negativa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_006",
+      "pregunta": "De acuerdo con la Ley de Coulomb, ¿cuál es la relación entre la magnitud de la fuerza eléctrica y el producto de las cargas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Inversamente proporcional.",
+        "B": "Directamente proporcional.",
+        "C": "Directamente proporcional al cuadrado.",
+        "D": "Inversamente proporcional al cuadrado.",
+        "E": "No tienen relación."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de Coulomb establece que \"La magnitud de la fuerza eléctrica [...] es directamente proporcional al producto de las cargas\". Esto significa que si el producto de las magnitudes de las cargas aumenta, la fuerza también aumenta en la misma proporción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_007",
+      "pregunta": "La Ley de Coulomb establece que la magnitud de la fuerza eléctrica es inversamente proporcional a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La distancia que separa las cargas.",
+        "B": "El producto de las cargas.",
+        "C": "La suma de las cargas.",
+        "D": "El cuadrado de la distancia que las separa.",
+        "E": "El cuadrado del producto de las cargas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Coulomb indica que la fuerza es \"inversamente proporcional al cuadrado de la distancia que las separa\". Esto implica que a medida que la distancia aumenta, la fuerza disminuye drásticamente, siguiendo una relación de cuadrado inverso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_008",
+      "pregunta": "Si la distancia entre dos cargas puntuales se duplica, ¿cómo cambia la magnitud de la fuerza eléctrica entre ellas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se duplica.",
+        "B": "Se reduce a la mitad.",
+        "C": "Se cuadruplica.",
+        "D": "Se reduce a la cuarta parte.",
+        "E": "No cambia."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza es inversamente proporcional al cuadrado de la distancia ($$d$$). Si la nueva distancia es $$2d$$, la nueva fuerza será proporcional a $$\frac{1}{(2d)^2} = \frac{1}{4d^2}$$. Por lo tanto, la fuerza se reduce a una cuarta parte de su valor original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_009",
+      "pregunta": "¿Qué principio físico se deduce de la expresión $$q₀' + q₀'' = q₁' + q₁''$$ en el contexto de un sistema de cargas interactuando?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La ley de atracción y repulsión.",
+        "B": "La cuantificación de la carga.",
+        "C": "La conservación de la carga eléctrica total.",
+        "D": "La ley de Coulomb.",
+        "E": "La proporcionalidad inversa de la fuerza."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación $$q₀' + q₀'' = q₁' + q₁''$$ representa que la suma total de las cargas antes de un proceso (lado izquierdo) es igual a la suma total de las cargas después del proceso (lado derecho). Esto es una manifestación del principio de conservación de la carga eléctrica en un sistema aislado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_010",
+      "pregunta": "Si la magnitud de una de dos cargas puntuales se triplica, manteniendo la otra carga y la distancia constantes, la fuerza eléctrica entre ellas:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se reduce a un tercio.",
+        "B": "Se triplica.",
+        "C": "Aumenta nueve veces.",
+        "D": "Permanece igual.",
+        "E": "Se reduce a la novena parte."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza eléctrica es directamente proporcional al producto de las cargas ($$q_1 \\cdot q_2$$). Si una de las cargas, digamos $$q_1$$, se convierte en $$3q_1$$, el nuevo producto será $$3q_1 \\cdot q_2$$, que es tres veces el producto original. Por lo tanto, la fuerza se triplica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_011",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la Ley Cuantitativa de la electrostática?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza es directamente proporcional a la distancia e inversamente proporcional al producto de las cargas.",
+        "B": "La fuerza es directamente proporcional al cuadrado de la distancia e inversamente proporcional al producto de las cargas.",
+        "C": "La fuerza es directamente proporcional al producto de las cargas e inversamente proporcional a la distancia.",
+        "D": "La fuerza es directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia.",
+        "E": "La fuerza es directamente proporcional a la suma de las cargas e inversamente proporcional a la distancia."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La definición precisa de la Ley de Coulomb o Ley Cuantitativa es que la magnitud de la fuerza eléctrica entre dos cargas puntuales es directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa. Las otras opciones confunden estas relaciones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_012",
+      "pregunta": "Dos cargas de signos opuestos se atraen con una fuerza $F$. Si la distancia entre ellas se reduce a la mitad, ¿cuál será la nueva fuerza de atracción $F'$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F' = 4F$$",
+        "B": "$$F' = 2F$$",
+        "C": "$$F' = \frac{F}{2}$$",
+        "D": "$$F' = \frac{F}{4}$$",
+        "E": "$$F' = F$$"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La fuerza es inversamente proporcional al cuadrado de la distancia ($$d$$). Si la nueva distancia es $$\frac{d}{2}$$, la nueva fuerza será proporcional a $$\frac{1}{(\frac{d}{2})^2} = \frac{1}{\frac{d^2}{4}} = \frac{4}{d^2}$$. Esto significa que la nueva fuerza es 4 veces la fuerza original.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_013",
+      "pregunta": "Dos cargas puntuales $q_1$ y $q_2$ separadas una distancia $d$ experimentan una fuerza $F$. Si la magnitud de $q_1$ se duplica y la distancia $d$ también se duplica, ¿cuál es la nueva fuerza $F'$ en términos de $F$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$F' = F$$",
+        "B": "$$F' = 2F$$",
+        "C": "$$F' = \frac{F}{2}$$",
+        "D": "$$F' = 4F$$",
+        "E": "$$F' = \frac{F}{4}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza original $F$ es proporcional a $$\frac{q_1 q_2}{d^2}$$. La nueva fuerza $F'$ tendrá la carga $q_1$ duplicada ($$2q_1$$) y la distancia $d$ duplicada ($$2d$$). Entonces, $F'$ es proporcional a $$\frac{(2q_1) q_2}{(2d)^2} = \frac{2 q_1 q_2}{4d^2} = \frac{1}{2} \\left( \frac{q_1 q_2}{d^2} \right)$$. Por lo tanto, la nueva fuerza es la mitad de la original: $$F' = \frac{F}{2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_014",
+      "pregunta": "Dos cargas puntuales positivas se repelen con una fuerza $F$. Si el producto de sus cargas se cuadruplica y la distancia entre ellas se duplica, ¿cuál será la nueva fuerza de repulsión $F'$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$F' = \frac{F}{2}$$",
+        "B": "$$F' = 2F$$",
+        "C": "$$F' = F$$",
+        "D": "$$F' = 4F$$",
+        "E": "$$F' = \frac{F}{4}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza $F$ es proporcional a $$\frac{q_1 q_2}{d^2}$$. El producto de las cargas ($$q_1 q_2$$) ahora es 4 veces mayor, y la distancia ($$d$$) ahora es 2 veces mayor. La nueva fuerza $F'$ será proporcional a $$\frac{4(q_1 q_2)}{(2d)^2} = \frac{4(q_1 q_2)}{4d^2} = \frac{q_1 q_2}{d^2}$$. La relación de proporcionalidad es la misma que la original, por lo tanto, la nueva fuerza es igual a la fuerza original: $$F' = F$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_099_015",
+      "pregunta": "Para que la fuerza eléctrica entre dos cargas puntuales fijas se cuadruplique, ¿qué modificación se debe hacer únicamente en la distancia que las separa?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Duplicarla.",
+        "B": "Cuadruplicarla.",
+        "C": "Reducirla a la cuarta parte.",
+        "D": "Reducirla a la mitad.",
+        "E": "No es posible modificar la fuerza cambiando solo la distancia."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza es inversamente proporcional al cuadrado de la distancia ($$F \\propto \frac{1}{d^2}$$). Para que la fuerza se cuadruplique ($$4F$$), necesitamos que el denominador $$d^2$$ se haga 4 veces más pequeño. Es decir, el nuevo denominador debe ser $$\frac{d^2}{4}$$. Para obtener este valor, la nueva distancia $d'$ debe ser tal que $$(d')^2 = \frac{d^2}{4}$$. Sacando la raíz cuadrada, obtenemos $$d' = \frac{d}{2}$$. Por lo tanto, la distancia debe reducirse a la mitad.",
+      "imagen": null
+    }
+  ]
+}

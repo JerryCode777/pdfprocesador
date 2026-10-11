@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 14,
+  "total_temas": 137,
+  "titulo_tema": "Estática y Equilibrio",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_014_001",
+      "pregunta": "¿Cuál es el objetivo de estudio de la estática como rama de la mecánica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Analizar el movimiento de los cuerpos con aceleración constante.",
+        "B": "Estudiar las condiciones que deben cumplir las fuerzas para que un cuerpo esté en equilibrio mecánico.",
+        "C": "Calcular la energía cinética y potencial de los sistemas en movimiento.",
+        "D": "Describir la trayectoria de los proyectiles en un campo gravitatorio.",
+        "E": "Determinar la causa del movimiento rotacional de los cuerpos rígidos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La estática es la parte de la mecánica que se enfoca en analizar el conjunto de fuerzas que actúan sobre un cuerpo o sistema para determinar las condiciones bajo las cuales este permanece en equilibrio mecánico, es decir, sin cambiar su estado de reposo o de movimiento uniforme.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_002",
+      "pregunta": "¿Qué es un Diagrama de Cuerpo Libre (D.C.L.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un gráfico que muestra la velocidad de un cuerpo en función del tiempo.",
+        "B": "Un procedimiento para representar gráficamente las fuerzas externas que actúan sobre un cuerpo aislado.",
+        "C": "Un esquema de las fuerzas internas que mantienen unido a un cuerpo rígido.",
+        "D": "Un diagrama de la energía potencial de un sistema en equilibrio.",
+        "E": "Un mapa que indica la trayectoria que seguirá un cuerpo bajo la acción de una fuerza."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un Diagrama de Cuerpo Libre (D.C.L.) es una herramienta fundamental en física que consiste en aislar imaginariamente un cuerpo del sistema en estudio y representar mediante vectores todas las fuerzas externas que actúan sobre él, como el peso, la tensión, la normal, etc.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_003",
+      "pregunta": "Según la Ley de Hooke, ¿qué relación existe entre el módulo de la fuerza elástica ($$F_e$$) y la deformación ($$x$$) de un resorte ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es una relación inversamente proporcional.",
+        "B": "Es una relación cuadrática, donde $$F_e$$ es proporcional a $$x^2$$.",
+        "C": "No existe ninguna relación entre ellas.",
+        "D": "Es una relación directamente proporcional.",
+        "E": "Es una relación exponencial."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Hooke establece que el módulo de la fuerza elástica ($$F_e$$) que ejerce un resorte es directamente proporcional a su deformación ($$x$$). Esta relación se expresa con la fórmula $$F_e = kx$$, donde $$k$$ es la constante de elasticidad del resorte.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_004",
+      "pregunta": "¿Cuál es la condición fundamental, expresada como una ecuación, para que un cuerpo esté en equilibrio de traslación?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$F_r = ma$$",
+        "B": "$$a > 0$$",
+        "C": "$$F_r = 0$$",
+        "D": "$$v = 0$$",
+        "E": "$$k = Fx$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un cuerpo se encuentra en equilibrio traslacional cuando la fuerza resultante ($$F_r$$) que actúa sobre él es nula. Esto implica que su aceleración ($$a$$) también es cero, lo que significa que el cuerpo está en reposo o se mueve con velocidad constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_005",
+      "pregunta": "En un sistema con una sola polea fija ideal, ¿cuál es la relación entre la fuerza aplicada ($$F$$) y la resistencia ($$F_g$$) para que el sistema esté en equilibrio?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$F = 2F_g$$",
+        "B": "$$F = F_g / 2$$",
+        "C": "$$F < F_g$$",
+        "D": "$$F > F_g$$",
+        "E": "$$F = F_g$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Una polea fija es una máquina simple que principalmente cambia la dirección de una fuerza. No proporciona ventaja mecánica, lo que significa que, para mantener el equilibrio, la magnitud de la fuerza aplicada debe ser igual a la magnitud de la resistencia o peso que se quiere sostener. Por lo tanto, $$F = F_g$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_006",
+      "pregunta": "Para que un sistema se encuentre en equilibrio mecánico completo, ¿qué dos tipos de equilibrio deben cumplirse simultáneamente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Equilibrio estático y equilibrio cinético.",
+        "B": "Equilibrio de fuerzas y equilibrio de masas.",
+        "C": "Equilibrio de traslación y equilibrio de rotación.",
+        "D": "Equilibrio elástico y equilibrio plástico.",
+        "E": "Equilibrio térmico y equilibrio químico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El equilibrio mecánico es un estado en el que un cuerpo no experimenta ni aceleración lineal ni aceleración angular. Para lograrlo, se deben cumplir dos condiciones: el equilibrio de traslación (la suma de fuerzas es cero) y el equilibrio de rotación (la suma de momentos o torques es cero).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_007",
+      "pregunta": "Al realizar un Diagrama de Cuerpo Libre, ¿cómo se representa correctamente el vector de la fuerza normal ($$F_n$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Paralelo a la superficie de contacto y en sentido del movimiento.",
+        "B": "Siempre dirigido verticalmente hacia abajo.",
+        "C": "Perpendicular a la superficie de contacto y entrando al cuerpo.",
+        "D": "Saliendo del cuerpo en la dirección de la tensión.",
+        "E": "Perpendicular a la superficie de contacto y saliendo del cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La fuerza normal es una fuerza de contacto que ejerce una superficie sobre un cuerpo. Por definición, este vector es siempre perpendicular (normal) a la superficie de contacto y está dirigido hacia el cuerpo sobre el que actúa, representando la resistencia de la superficie a ser penetrada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_008",
+      "pregunta": "¿Cuál es la relación entre la fuerza de reacción total ($$R$$) y la fuerza normal ($$F_n$$) cuando un cuerpo está sobre una superficie perfectamente lisa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$R$$ es siempre mayor que $$F_n$$.",
+        "B": "$$R = F_n$$.",
+        "C": "$$R = 0$$.",
+        "D": "$$R$$ es la suma del peso y $$F_n$$.",
+        "E": "$$R = \\sqrt{f^2 + F_n^2}$$ donde $$f > 0$$."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fuerza de reacción total es la resultante vectorial de la fuerza normal y la fuerza de rozamiento. En una superficie lisa, la fuerza de rozamiento es nula ($$f=0$$). Por lo tanto, la única componente de la reacción es la fuerza normal, lo que implica que sus módulos son iguales: $$R = F_n$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_009",
+      "pregunta": "El Teorema de Lamy se aplica a un cuerpo en equilibrio bajo la acción de tres fuerzas. ¿Cuál de las siguientes es la expresión matemática correcta de este teorema?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F_1 + F_2 + F_3 = 0$$",
+        "B": "$$F_1 \\sin \\alpha = F_2 \\sin \beta = F_3 \\sin \theta$$",
+        "C": "$$F_1 / \\cos \\alpha = F_2 / \\cos \beta = F_3 / \\cos \theta$$",
+        "D": "$$F_1 / \\sin \\alpha = F_2 / \\sin \beta = F_3 / \\sin \theta$$",
+        "E": "$$F_1 F_2 \\sin \\alpha = F_3$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Teorema de Lamy establece que si tres fuerzas no paralelas mantienen a un cuerpo en equilibrio, el módulo de cada fuerza es directamente proporcional al seno del ángulo opuesto formado por las otras dos fuerzas. La fórmula correcta que representa esta relación es $$F_1 / \\sin \\alpha = F_2 / \\sin \beta = F_3 / \\sin \theta$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_010",
+      "pregunta": "¿Qué instrumento de medición de fuerzas basa su funcionamiento en la Ley de Hooke?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una balanza de platillos.",
+        "B": "Un barómetro.",
+        "C": "Un dinamómetro.",
+        "D": "Un manómetro.",
+        "E": "Un vernier."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El dinamómetro es un instrumento diseñado para medir la magnitud de una fuerza. Su principio de funcionamiento se basa en la Ley de Hooke, ya que contiene un resorte calibrado que se estira o comprime de forma proporcional a la fuerza aplicada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_011",
+      "pregunta": "La Primera Condición de Equilibrio establece que $$\\Sigma F_x = 0$$ y $$\\Sigma F_y = 0$$. ¿Qué significa gráficamente que un sistema de fuerzas cumpla esta condición?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que todos los vectores de fuerza son paralelos.",
+        "B": "Que el polígono formado por los vectores de fuerza es cerrado.",
+        "C": "Que todos los vectores de fuerza son perpendiculares entre sí.",
+        "D": "Que el polígono formado por los vectores de fuerza es una figura abierta.",
+        "E": "Que la magnitud de todos los vectores es la misma."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La condición vectorial $$\\Sigma F = 0$$ significa que la suma de todos los vectores de fuerza da como resultado el vector nulo. Gráficamente, esto se consigue cuando los vectores, colocados uno a continuación del otro (método del polígono), forman una figura cerrada, donde el extremo del último vector coincide con el origen del primero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_012",
+      "pregunta": "¿Cuál es la principal ventaja de utilizar un plano inclinado para elevar una carga?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Aumenta la fuerza de gravedad sobre el objeto.",
+        "B": "Reduce la masa del objeto que se va a levantar.",
+        "C": "Cambia la dirección del peso para que apunte hacia arriba.",
+        "D": "Reduce la magnitud de la fuerza necesaria para levantar la carga en comparación con levantarla verticalmente.",
+        "E": "Elimina por completo la fuerza de fricción."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un plano inclinado es una máquina simple que permite elevar objetos aplicando una fuerza menor que el peso del objeto. Esto se logra al descomponer el vector peso en una componente perpendicular al plano y otra paralela. La fuerza necesaria para mover el objeto a lo largo del plano solo necesita superar la componente paralela del peso y la fricción, que es menor que el peso total.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_013",
+      "pregunta": "Si sobre un cuerpo en equilibrio actúan tres fuerzas no paralelas, ¿qué dos condiciones geométricas y espaciales deben cumplir dichas fuerzas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Deben ser de igual magnitud y equidistantes.",
+        "B": "Deben ser paralelas entre sí y de distinto sentido.",
+        "C": "Deben ser coplanares y concurrentes.",
+        "D": "Deben actuar en planos diferentes y ser perpendiculares.",
+        "E": "Una debe ser la suma de las otras dos y actuar en el centro de masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para que la suma vectorial de tres fuerzas no paralelas sea cero, es indispensable que sus líneas de acción se encuentren en un mismo plano (coplanares) y que se intersecten en un único punto (concurrentes). Si no fueran concurrentes, producirían un torque neto que rompería el equilibrio rotacional. Si no fueran coplanares, no podrían anularse mutuamente en el espacio tridimensional.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_014",
+      "pregunta": "En un cuerpo apoyado sobre una superficie rugosa, la fuerza de reacción ($$R$$) es el resultado de la composición de la fuerza normal ($$F_n$$) y la fuerza de rozamiento ($$f$$). ¿Cuál es la fórmula correcta para calcular el módulo de $$R$$?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$R = F_n + f$$",
+        "B": "$$R = |F_n - f|$$",
+        "C": "$$R = \\sqrt{F_n^2 - f^2}$$",
+        "D": "$$R = \frac{F_n + f}{2}$$",
+        "E": "$$R = \\sqrt{f^2 + F_n^2}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La fuerza normal ($$F_n$$) es perpendicular a la superficie de contacto, mientras que la fuerza de rozamiento ($$f$$) es tangente a ella. Como estos dos vectores son perpendiculares, la magnitud de su vector resultante (la reacción total, $$R$$) se calcula utilizando el Teorema de Pitágoras. Así, el módulo de la reacción es la raíz cuadrada de la suma de los cuadrados de sus componentes: $$R = \\sqrt{f^2 + F_n^2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_014_015",
+      "pregunta": "La Primera Ley de Newton establece que un cuerpo permanecerá en reposo o en movimiento rectilíneo uniforme si no hay una fuerza neta actuando sobre él. Si un cuerpo se encuentra en equilibrio traslacional, ¿qué podemos concluir sobre su estado de movimiento?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El cuerpo está obligatoriamente en reposo ($$v = 0$$).",
+        "B": "El cuerpo se mueve con una aceleración constante y distinta de cero.",
+        "C": "El cuerpo está en reposo ($$v = 0$$) o se mueve con velocidad constante ($$v = cte$$).",
+        "D": "El cuerpo está necesariamente describiendo una trayectoria circular.",
+        "E": "La velocidad del cuerpo está aumentando linealmente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El equilibrio traslacional se define por la condición de que la fuerza resultante es cero ($$F_r = 0$$). Según la Primera Ley de Newton, esto implica que la aceleración es cero ($$a=0$$). Un objeto con aceleración nula puede estar en dos posibles estados: en reposo (equilibrio estático, $$v=0$$) o moviéndose en línea recta con velocidad constante (equilibrio cinético, $$v=cte$$). Ambas son situaciones de equilibrio traslacional.",
+      "imagen": null
+    }
+  ]
+}

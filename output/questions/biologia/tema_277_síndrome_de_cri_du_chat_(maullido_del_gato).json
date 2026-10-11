@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 277,
+  "total_temas": 320,
+  "titulo_tema": "Síndrome de Cri du Chat (Maullido del gato)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_277_001",
+      "pregunta": "¿Qué es una trisomía desde el punto de vista cromosómico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La falta de un par cromosómico completo, resultando en $$2N - 2$$ cromosomas.",
+        "B": "La presencia de un cromosoma extra en un par cromosómico, resultando en $$2N + 1$$ cromosomas.",
+        "C": "La deleción del brazo corto de un cromosoma.",
+        "D": "La presencia de dos cromosomas extra en un par cromosómico, resultando en $$2N + 2$$ cromosomas.",
+        "E": "La duplicación de un segmento cromosómico sin alterar el número total."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una trisomía es una aneuploidía numérica que se caracteriza por la presencia de un cromosoma adicional en uno de los pares homólogos. Esto resulta en un total de tres cromosomas para ese par en lugar de los dos habituales, y un recuento cromosómico total de 47 en humanos, representado por la fórmula $$2N + 1 = 47$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_002",
+      "pregunta": "¿Cuál es el signo clínico más significativo y característico del Síndrome de Lejeune?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Polidactilia y pies en mecedora.",
+        "B": "El pliegue simiesco en la palma de la mano.",
+        "C": "Un llanto de carácter agudo que recuerda el maullido de un gato.",
+        "D": "Occipucio prominente y micrognatia.",
+        "E": "Cara redonda y aplanada con pliegues epicánticos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El signo más distintivo y que da nombre al Síndrome de Lejeune, también conocido como 'Maullido del gato' (Cri du Chat), es el llanto agudo y peculiar del niño, que se asemeja al maullido de un gato. Las otras opciones corresponden a características de otros síndromes como Patau, Down y Edwards.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_003",
+      "pregunta": "¿Qué alteración cromosómica específica causa el Síndrome de Down?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Trisomía del par 13",
+        "B": "Trisomía del par 18",
+        "C": "Monosomía parcial del par 5",
+        "D": "Trisomía del par 21",
+        "E": "Nulosomía del par 21"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Síndrome de Down es una aneuploidía causada por la presencia de una copia extra del cromosoma 21. Por lo tanto, se clasifica como una trisomía del par 21. Los cariotipos correspondientes son $$47, XX, +21$$ para mujeres y $$47, XY, +21$$ para varones.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_004",
+      "pregunta": "¿Qué fórmula general representa una nulosomía en un organismo diploide?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$2N + 1 = 47$$",
+        "B": "$$2N + 2 = 48$$",
+        "C": "$$2N - 2 = 44$$",
+        "D": "$$2N - 1 = 45$$",
+        "E": "$$N = 23$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una nulosomía es una aneuploidía que se caracteriza por la ausencia de un par cromosómico homólogo completo. En un organismo diploide como el ser humano, donde el número normal es $$2N=46$$, la pérdida de dos cromosomas resulta en un total de 44, lo que se expresa con la fórmula $$2N - 2 = 44$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_005",
+      "pregunta": "Una condición en la que un individuo presenta dos cromosomas extra en un par cromosómico, resultando en un total de 48 cromosomas, se denomina:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Trisomía",
+        "B": "Nulosomía",
+        "C": "Monosomía",
+        "D": "Tetrasomía",
+        "E": "Deleción"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La tetrasomía es una aneuploidía numérica donde existen cuatro copias de un cromosoma particular en lugar de las dos habituales. Esto lleva a un recuento cromosómico total de $$2N + 2$$, que en humanos es $$48$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_006",
+      "pregunta": "¿Cuál es la diferencia fundamental en la naturaleza de la alteración cromosómica entre el Síndrome de Cri du Chat y los síndromes de Down, Edwards y Patau?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Cri du Chat es una aneuploidía numérica, mientras que los otros son alteraciones estructurales.",
+        "B": "Cri du Chat es una alteración estructural (deleción), mientras que los otros son aneuploidías numéricas (trisomías).",
+        "C": "Cri du Chat afecta exclusivamente a los cromosomas sexuales, y los otros a los cromosomas somáticos.",
+        "D": "Cri du Chat es una nulosomía, y los otros son tetrasomías.",
+        "E": "No hay diferencia fundamental, todos son causados por un cromosoma extra."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia clave radica en el tipo de alteración. Los síndromes de Down, Edwards y Patau son aneuploidías numéricas, específicamente trisomías, ya que implican un cromosoma extra completo ($$+21$$, $$+18$$, $$+13$$). En cambio, el Síndrome de Cri du Chat es una alteración estructural, una deleción de un segmento (el brazo corto) del cromosoma 5, sin cambiar el número total de cromosomas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_007",
+      "pregunta": "¿Qué característica fenotípica es compartida tanto por el Síndrome de Edwards (trisomía 18) como por el Síndrome de Patau (trisomía 13)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Pliegue simiesco en la palma.",
+        "B": "Llanto agudo similar al maullido de un gato.",
+        "C": "Labio leporino y paladar hendido.",
+        "D": "Pies en mecedora.",
+        "E": "Marcada hipotonía muscular."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Tanto el fenotipo del Síndrome de Edwards como el del Síndrome de Patau incluyen la característica de 'pies en mecedora', que se refiere a un desarrollo prominente del hueso calcáneo (talón). Las otras características son más específicas de otros síndromes: el pliegue simiesco y la hipotonía del Síndrome de Down, el llanto del Cri du Chat, y el labio leporino más prominentemente del Síndrome de Patau.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_008",
+      "pregunta": "¿Cuál es la alteración citogenética precisa que origina el Síndrome de Cri du Chat?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una trisomía completa del cromosoma 5.",
+        "B": "Una deleción del brazo largo del cromosoma 5.",
+        "C": "Una monosomía completa del cromosoma 5.",
+        "D": "Una deleción del brazo corto del cromosoma 5.",
+        "E": "Una translocación entre el cromosoma 5 y el 13."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El Síndrome de Cri du Chat, o Síndrome de Lejeune, es causado por una monosomía parcial. Específicamente, se debe a una deleción de una porción del brazo corto (brazo 'p') del cromosoma número 5.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_009",
+      "pregunta": "Un cariotipo que muestra la fórmula $$47, XY, +18$$ corresponde a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un varón con Síndrome de Down.",
+        "B": "Una mujer con Síndrome de Edwards.",
+        "C": "Un varón con Síndrome de Edwards.",
+        "D": "Una mujer con Síndrome de Patau.",
+        "E": "Un varón con Síndrome de Cri du Chat."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La notación del cariotipo se desglosa así: $$47$$ es el número total de cromosomas. $$XY$$ indica los cromosomas sexuales de un varón. $$+18$$ indica que hay un cromosoma 18 extra. Esta combinación (trisomía del par 18 en un varón) corresponde al Síndrome de Edwards.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_010",
+      "pregunta": "¿Cuál de las siguientes características NO es parte del fenotipo típico del Síndrome de Down (trisomía 21)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Marcada hipotonía muscular.",
+        "B": "Pliegue simiesco en la palma de la mano.",
+        "C": "Microcefalia y microftalmia.",
+        "D": "Cara redonda y aplanada.",
+        "E": "Cardiopatía congénita."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La microcefalia (cabeza pequeña) y la microftalmia (ojos pequeños) son rasgos característicos del Síndrome de Patau (trisomía 13). Las demás opciones, como la hipotonía muscular, el pliegue simiesco, la cara redonda y la cardiopatía congénita, son todas características comunes en individuos con Síndrome de Down.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_011",
+      "pregunta": "¿Qué condición genética se caracteriza por una marcada microcefalia, micrognatia e hipertelorismo que se atenúa con la edad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Síndrome de Patau",
+        "B": "Síndrome de Down",
+        "C": "Síndrome de Edwards",
+        "D": "Tetrasomía del par 21",
+        "E": "Síndrome de Lejeune"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El Síndrome de Lejeune, o Cri du Chat, presenta un fenotipo facial característico que incluye una marcada microcefalia (cabeza pequeña), micrognatia (mandíbula pequeña) e hipertelorismo (ojos muy separados). Es distintivo que el hipertelorismo tiende a atenuarse a medida que el individuo crece.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_012",
+      "pregunta": "Un paciente con Síndrome de Down tiene un riesgo elevado de desarrollar ciertas condiciones secundarias. ¿Cuál de las siguientes es mencionada como un alto riesgo para estos individuos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Malformaciones renales.",
+        "B": "Labio leporino y paladar hendido.",
+        "C": "Leucemia.",
+        "D": "Superposición de dedos.",
+        "E": "Pies en mecedora."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Además de las malformaciones congénitas como las cardiopatías, los individuos con Síndrome de Down presentan una sensibilidad elevada a las infecciones y un alto riesgo a desarrollar leucemia. Las otras opciones están más asociadas con los síndromes de Edwards o Patau.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_013",
+      "pregunta": "Si un diagnóstico prenatal revela un cariotipo $$47, XX, +13$$, ¿cuál de los siguientes conjuntos de malformaciones es más probable encontrar en el feto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Hipotonía muscular, pliegue simiesco y lengua grande.",
+        "B": "Microcefalia, polidactilia y labio leporino.",
+        "C": "Occipucio prominente, superposición de dedos y cuello corto.",
+        "D": "Llanto agudo, hipertelorismo y un C.I. inferior a 20.",
+        "E": "Cara redonda, pliegues epicánticos y desarrollo sexual normal."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un cariotipo $$47, XX, +13$$ corresponde a una mujer con Síndrome de Patau. El fenotipo de este síndrome se caracteriza por graves malformaciones, entre las que destacan la microcefalia (cabeza pequeña), la polidactilia (dedos extra) y el labio leporino con paladar hendido. La opción A describe el Síndrome de Down, la C el Síndrome de Edwards y la D el Síndrome de Cri du Chat.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_014",
+      "pregunta": "¿Por qué el número total de cromosomas en el Síndrome de Cri du Chat es 46, a diferencia de los síndromes de Down, Edwards o Patau?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque la alteración afecta a un cromosoma sexual, no a uno somático.",
+        "B": "Porque es una mutación puntual y no una alteración cromosómica.",
+        "C": "Porque la causa es una pérdida de material genético (deleción), no la ganancia de un cromosoma completo.",
+        "D": "Porque el cromosoma 5 es muy pequeño y su pérdida no altera el conteo total.",
+        "E": "Porque es una nulosomía balanceada que mantiene el número 46."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Síndrome de Cri du Chat es una alteración cromosómica estructural, no numérica. Se origina por la deleción (pérdida) de un fragmento del cromosoma 5. Aunque se pierde información genética, el número total de cromosomas en la célula sigue siendo 46. En contraste, los síndromes de Down, Edwards y Patau son trisomías, lo que implica la presencia de un cromosoma extra completo, elevando el conteo total a 47.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_277_015",
+      "pregunta": "A pesar de que el Síndrome de Cri du Chat se asocia a un retraso mental profundo (C.I. < 20), su letalidad es baja. ¿Qué explica esta mayor supervivencia en comparación con síndromes como el de Edwards o Patau?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El retraso mental en Cri du Chat se manifiesta más tarde en la vida.",
+        "B": "Las malformaciones físicas en los síndromes de Edwards y Patau suelen ser incompatibles con una vida prolongada.",
+        "C": "Existe un tratamiento curativo para el Cri du Chat que no está disponible para las trisomías.",
+        "D": "La deleción en el cromosoma 5 es genéticamente menos dañina que tener un cromosoma 13 o 18 extra.",
+        "E": "Los pacientes con Cri du Chat no presentan cardiopatías ni malformaciones renales."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La principal razón de la baja supervivencia en los síndromes de Edwards (trisomía 18) y Patau (trisomía 13) es la presencia de malformaciones congénitas extremadamente graves, como cardiopatías severas y defectos renales, que a menudo son incompatibles con la vida más allá de la infancia. Aunque los individuos con Cri du Chat tienen un severo compromiso intelectual, las malformaciones físicas asociadas no suelen ser tan letales, permitiendo que muchos lleguen a la edad adulta.",
+      "imagen": null
+    }
+  ]
+}

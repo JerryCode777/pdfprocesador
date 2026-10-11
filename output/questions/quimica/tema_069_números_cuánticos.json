@@ -6,17 +6,17 @@
   "preguntas": [
     {
       "id_temporal": "quimica_069_001",
-      "pregunta": "¿Qué describe fundamentalmente el número cuántico principal ($n$)?",
+      "pregunta": "¿Qué describe el número cuántico principal ($n$)?",
       "dificultad": 1,
       "opciones": {
         "A": "La forma del orbital",
         "B": "El nivel principal de energía o capa que ocupa el electrón",
-        "C": "La orientación del orbital en un campo magnético",
+        "C": "La orientación del orbital en el espacio",
         "D": "El sentido del giro del electrón sobre su propio eje",
-        "E": "El subnivel de energía y la cantidad de orbitales"
+        "E": "El subnivel de energía específico"
       },
       "respuesta_correcta": "B",
-      "explicacion": "El número cuántico principal ($n$) se utiliza para describir el nivel principal de energía, también conocido como capa, que un electrón ocupa. Este número se relaciona con la distancia promedio entre el electrón y el núcleo, y puede tomar valores enteros positivos como 1, 2, 3, etc.",
+      "explicacion": "El número cuántico principal, representado por la letra $n$, describe el nivel principal de energía o capa en la que se encuentra un electrón. Se relaciona con la distancia promedio del electrón al núcleo y puede tomar valores enteros como 1, 2, 3, etc. Los otros números cuánticos describen la forma ($l$), la orientación ($m_l$) y el espín ($m_s$).",
       "imagen": null
     },
     {
@@ -24,209 +24,209 @@
       "pregunta": "¿Cuáles son los únicos valores posibles para el número cuántico de espín ($m_s$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$0, 1$$",
-        "B": "$$+1, -1$$",
-        "C": "$$-1, 0, +1$$",
-        "D": "$$+1/2, -1/2$$",
-        "E": "Únicamente $$+1/2$$"
+        "A": "0 y 1",
+        "B": "-1, 0, +1",
+        "C": "Cualquier número entero positivo",
+        "D": "0",
+        "E": "$$+\\frac{1}{2}$$ y $$-\\frac{1}{2}$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El número cuántico de espín ($m_s$) describe el momento angular intrínseco de un electrón, análogo a su giro sobre su propio eje. Este giro puede tener dos orientaciones, representadas por los valores $+1/2$ (spin up) y $-1/2$ (spin down).",
+      "respuesta_correcta": "E",
+      "explicacion": "El número cuántico de espín ($m_s$) describe el giro intrínseco de un electrón sobre su propio eje. Solo puede tomar dos valores: $$+\\frac{1}{2}$$ (representado como ↑) y $$-\\frac{1}{2}$$ (representado como ↓). Estos valores indican las dos posibles orientaciones del momento angular de espín del electrón.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_003",
-      "pregunta": "¿Qué valor del número cuántico secundario ($l$) corresponde al subnivel $s$ de forma esférica?",
+      "pregunta": "El número cuántico secundario ($l$) también es conocido como:",
       "dificultad": 1,
       "opciones": {
-        "A": "$$l=1$$",
-        "B": "$$l=2$$",
-        "C": "$$l=3$$",
-        "D": "$$l=0$$",
-        "E": "$$l=n-1$$"
+        "A": "Número cuántico principal",
+        "B": "Número cuántico de Rydberg",
+        "C": "Número cuántico azimutal o de momento angular",
+        "D": "Número cuántico magnético",
+        "E": "Número cuántico de espín"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El número cuántico secundario o azimutal ($l$) determina la forma del orbital y el subnivel de energía. El valor $l=0$ se designa con la letra 's' y corresponde a un orbital con forma esférica.",
+      "respuesta_correcta": "C",
+      "explicacion": "El número cuántico secundario, representado por $l$, también se denomina número cuántico azimutal o de momento angular. Este número cuántico indica el subnivel de energía y determina la forma del orbital.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_004",
-      "pregunta": "El número cuántico magnético ($m_l$) ¿qué propiedad del electrón define?",
+      "pregunta": "¿Cuál es el número máximo de electrones que puede contener un subnivel 'p'?",
       "dificultad": 1,
       "opciones": {
-        "A": "La distancia promedio al núcleo",
-        "B": "El giro del electrón",
-        "C": "La forma del orbital",
-        "D": "La orientación del orbital en el espacio",
-        "E": "El nivel principal de energía"
+        "A": "2",
+        "B": "6",
+        "C": "8",
+        "D": "10",
+        "E": "14"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El número cuántico magnético ($m_l$) especifica la orientación espacial que un orbital puede adoptar cuando está sujeto a un campo magnético externo. Para un subnivel dado, indica en cuál de los orbitales disponibles se encuentra un electrón.",
+      "respuesta_correcta": "B",
+      "explicacion": "El subnivel 'p' (principal) tiene una forma bilobular y corresponde a un valor de $l=1$. Este subnivel contiene 3 orbitales ($m_l = -1, 0, +1$). Dado que cada orbital puede albergar un máximo de 2 electrones, el subnivel 'p' puede contener un total de $3 \\times 2 = 6$ electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_005",
-      "pregunta": "¿Cuál es la forma característica de los orbitales pertenecientes al subnivel $p$?",
+      "pregunta": "¿Qué número cuántico define la orientación que pueden presentar los orbitales de un mismo subnivel en relación con un campo magnético externo?",
       "dificultad": 1,
       "opciones": {
-        "A": "Esférica",
-        "B": "Bilobular",
-        "C": "Tetralobular",
-        "D": "Indeterminada",
-        "E": "Circular"
+        "A": "El número cuántico principal ($n$)",
+        "B": "El número cuántico secundario ($l$)",
+        "C": "El número cuántico magnético ($m_l$)",
+        "D": "El número cuántico de espín ($m_s$)",
+        "E": "El número de Avogadro"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Los orbitales del subnivel $p$ (que corresponde a $l=1$) se describen como bilobulares, comúnmente visualizados como dos lóbulos de densidad electrónica situados en lados opuestos del núcleo a lo largo de un eje.",
+      "respuesta_correcta": "C",
+      "explicacion": "El número cuántico magnético ($m_l$) define la orientación espacial de un orbital dentro de un subnivel específico cuando se somete a un campo magnético externo. Para un valor dado de $l$, $m_l$ puede tomar valores enteros desde $-l$ hasta $+l$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_006",
-      "pregunta": "Utilizando la fórmula de Rydberg ($2n^2$), ¿cuál es la cantidad máxima de electrones que puede albergar el tercer nivel de energía ($n=3$)?",
+      "pregunta": "¿Qué fórmula determina el número máximo de electrones que puede contener un nivel principal de energía $n$?",
       "dificultad": 2,
       "opciones": {
-        "A": "2 electrones",
-        "B": "8 electrones",
-        "C": "18 electrones",
-        "D": "32 electrones",
-        "E": "10 electrones"
+        "A": "$$n^2$$",
+        "B": "$$2n+1$$",
+        "C": "$$n-1$$",
+        "D": "$$2l+1$$",
+        "E": "$$2n^2$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La capacidad máxima de electrones de un nivel de energía principal se calcula con la fórmula $2n^2$. Para el nivel $n=3$, el cálculo es: $$2(3)^2 = 2(9) = 18$$ electrones.",
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula de Rydberg, $$2n^2$$, se utiliza para calcular la cantidad máxima de electrones que puede albergar un nivel de energía principal $n$. Por ejemplo, para el nivel $n=2$, el máximo de electrones es $2(2)^2 = 8$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_007",
-      "pregunta": "Si un electrón se encuentra en el cuarto nivel de energía ($n=4$), ¿cuáles son todos los valores posibles para su número cuántico secundario ($l$)?",
+      "pregunta": "Si el número cuántico principal es $n=3$, ¿cuáles son los valores permitidos para el número cuántico secundario $l$?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$0, 1, 2, 3, 4$$",
-        "B": "$$1, 2, 3$$",
-        "C": "$$0, 1$$",
-        "D": "$$-3, -2, -1, 0, 1, 2, 3$$",
-        "E": "$$0, 1, 2, 3$$"
+        "A": "0, 1, 2",
+        "B": "1, 2, 3",
+        "C": "-2, -1, 0, 1, 2",
+        "D": "0, 1",
+        "E": "Solo 3"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El número cuántico secundario ($l$) puede tomar valores enteros que van desde 0 hasta $n-1$. Para un nivel principal $n=4$, los valores permitidos para $l$ son 0, 1, 2 y 3, que corresponden a los subniveles $s, p, d$ y $f$ respectivamente.",
+      "respuesta_correcta": "A",
+      "explicacion": "El número cuántico secundario ($l$) puede tomar valores enteros desde 0 hasta $n-1$. Si $n=3$, entonces $l$ puede tomar los valores desde 0 hasta $(3-1)$, lo que resulta en $l=0$, $l=1$ y $l=2$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_008",
-      "pregunta": "Considerando que el subnivel $d$ corresponde a $l=2$, ¿cuántos orbitales contiene?",
+      "pregunta": "Para un subnivel de energía con un número cuántico secundario $l=2$, ¿qué valores puede tomar el número cuántico magnético $m_l$?",
       "dificultad": 2,
       "opciones": {
-        "A": "1 orbital",
-        "B": "3 orbitales",
-        "C": "5 orbitales",
-        "D": "7 orbitales",
-        "E": "10 orbitales"
+        "A": "0, 1, 2",
+        "B": "-1, 0, +1",
+        "C": "-2, -1, 0, +1, +2",
+        "D": "Solo 0",
+        "E": "-3, -2, -1, 0, +1, +2, +3"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La cantidad de orbitales en un subnivel se determina por la fórmula $2l+1$. Para el subnivel $d$, donde $l=2$, el número de orbitales es $$2(2)+1 = 5$$. Estos 5 orbitales tienen diferentes orientaciones espaciales.",
+      "explicacion": "El número cuántico magnético ($m_l$) puede tomar todos los valores enteros comprendidos entre $-l$ y $+l$. Si $l=2$ (que corresponde al subnivel 'd'), entonces $m_l$ puede ser -2, -1, 0, +1, y +2. Esto indica que el subnivel 'd' tiene 5 orbitales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_009",
-      "pregunta": "Para un electrón en un subnivel $p$ ($l=1$), ¿qué valores puede tomar su número cuántico magnético ($m_l$)?",
+      "pregunta": "¿Qué letra simboliza al subnivel de energía asociado con el número cuántico secundario $l=1$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Solamente $$0$$",
-        "B": "$$0, 1$$",
-        "C": "$$-1, 0, +1$$",
-        "D": "$$-2, -1, 0, +1, +2$$",
-        "E": "Solamente $$+1/2$$ y $$-1/2$$"
+        "A": "s",
+        "B": "p",
+        "C": "d",
+        "D": "f",
+        "E": "g"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El número cuántico magnético ($m_l$) toma valores enteros desde $-l$ hasta $+l$. Para el subnivel $p$, donde $l=1$, los valores posibles de $m_l$ son -1, 0 y +1, lo que representa los tres orbitales $p$ ($p_x, p_y, p_z$).",
+      "respuesta_correcta": "B",
+      "explicacion": "Los subniveles de energía se simbolizan con letras según el valor del número cuántico secundario ($l$): $l=0$ es 's', $l=1$ es 'p', $l=2$ es 'd', y $l=3$ es 'f'. Por lo tanto, $l=1$ corresponde al subnivel 'p'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_010",
-      "pregunta": "¿Cuál de los siguientes conjuntos de números cuánticos ($n, l, m_l, m_s$) no es permitido para un electrón?",
+      "pregunta": "De acuerdo con la configuración electrónica del Argón (₁₈Ar), ¿cuál es el nivel de energía principal ($n$) más alto que ocupan sus electrones?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$(3, 2, -1, +1/2)$$",
-        "B": "$$(3, 0, 1, -1/2)$$",
-        "C": "$$(2, 1, 0, -1/2)$$",
-        "D": "$$(4, 3, -2, +1/2)$$",
-        "E": "$$(1, 0, 0, +1/2)$$"
+        "A": "$n=1$",
+        "B": "$n=2$",
+        "C": "$n=3$",
+        "D": "$n=4$",
+        "E": "$n=18$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Este conjunto no es válido debido a la regla que rige al número cuántico magnético ($m_l$). El valor de $m_l$ depende de $l$ y solo puede tomar valores enteros desde $-l$ hasta $+l$. En la opción B, $l=0$, por lo que $m_l$ solo puede ser 0. Un valor de $m_l=1$ es imposible para $l=0$.",
+      "respuesta_correcta": "C",
+      "explicacion": "La configuración electrónica del Argón (₁₈Ar) es $1s^2 2s^2 2p^6 3s^2 3p^6$. El número más grande que precede a las letras de los subniveles indica el nivel de energía principal más alto ocupado. En este caso, es el 3, correspondiente a los orbitales $3s$ y $3p$. Por lo tanto, el nivel de energía principal más alto es $n=3$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_011",
-      "pregunta": "El subnivel $f$ puede alojar un máximo de 14 electrones. ¿Cuántos orbitales debe contener para ello?",
+      "pregunta": "¿Cuántos orbitales existen en un subnivel 'f'?",
       "dificultad": 2,
       "opciones": {
-        "A": "3",
-        "B": "5",
-        "C": "14",
+        "A": "1",
+        "B": "3",
+        "C": "5",
         "D": "7",
-        "E": "10"
+        "E": "14"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Cada orbital atómico puede contener un máximo de dos electrones, cada uno con espín opuesto. Si el subnivel $f$ tiene una capacidad máxima de 14 electrones, el número de orbitales es la mitad de ese valor: $$14 \\text{ electrones} / 2 \\text{ electrones por orbital} = 7 \\text{ orbitales}$$. Esto concuerda con la fórmula $2l+1$ para $l=3$ ($2(3)+1=7$).",
+      "explicacion": "El subnivel 'f' corresponde a $l=3$. El número de orbitales en un subnivel se calcula con la fórmula $2l+1$. Sustituyendo $l=3$, obtenemos $2(3)+1=7$. Alternativamente, los valores de $m_l$ para $l=3$ son -3, -2, -1, 0, +1, +2, +3, lo que da un total de 7 orbitales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_012",
-      "pregunta": "Según la configuración electrónica proporcionada para el Kriptón ($_{36}$Kr), ¿cuál es el nivel cuántico principal ($n$) más alto ocupado por un electrón?",
+      "pregunta": "¿Cuál es la forma característica de un orbital atómico del tipo 's'?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$n=2$$",
-        "B": "$$n=3$$",
-        "C": "$$n=4$$",
-        "D": "$$n=5$$",
-        "E": "$$n=1$$"
+        "A": "Bilobular",
+        "B": "Tetralobular",
+        "C": "Esférica",
+        "D": "Indeterminada",
+        "E": "Anular"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La configuración electrónica del Kriptón ($_{36}$Kr) es $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6$. El número cuántico principal ($n$) es el número que precede a cada subnivel. El valor más alto de $n$ en esta configuración es 4, que aparece en los subniveles $4s^2$ y $4p^6$.",
+      "explicacion": "El subnivel 's' corresponde a $l=0$. Los orbitales de este subnivel tienen una forma esférica, lo que significa que la probabilidad de encontrar al electrón es la misma en todas las direcciones a una distancia dada del núcleo. La forma bilobular corresponde a los orbitales 'p' y la tetralobular a los 'd'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_013",
-      "pregunta": "Considerando la configuración del Argón ($_{18}$Ar) que finaliza en $3p^6$, ¿cuál de los siguientes conjuntos de números cuánticos ($n, l, m_l, m_s$) podría describir al último electrón que se añade?",
+      "pregunta": "¿Cuál es la capacidad máxima de electrones para el nivel de energía principal $n=4$?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$(3, 1, 0, +1/2)$$",
-        "B": "$$(3, 2, 2, -1/2)$$",
-        "C": "$$(3, 0, 0, -1/2)$$",
-        "D": "$$(3, 1, -1, +1/2)$$",
-        "E": "$$(3, 1, +1, -1/2)$$"
+        "A": "8",
+        "B": "16",
+        "C": "18",
+        "D": "32",
+        "E": "50"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "La configuración del Argón es $1s^2 2s^2 2p^6 3s^2 3p^6$. El último electrón se añade al subnivel $3p$. Para este subnivel, $n=3$ y $l=1$. Los orbitales $p$ corresponden a $m_l = -1, 0, +1$. Siguiendo la regla de Hund, los electrones llenan primero cada orbital con espín hacia arriba y luego se aparean con espín hacia abajo. El sexto y último electrón del subnivel $3p$ ocupará el orbital $m_l=+1$ con un espín hacia abajo, $m_s=-1/2$. Por lo tanto, el conjunto es $(3, 1, +1, -1/2)$.",
+      "respuesta_correcta": "D",
+      "explicacion": "Para calcular el número máximo de electrones en un nivel de energía principal, se utiliza la fórmula de Rydberg $$2n^2$$. Para el nivel $n=4$, el cálculo es $$2(4)^2 = 2(16) = 32$$. Por lo tanto, el cuarto nivel de energía puede albergar un máximo de 32 electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_014",
-      "pregunta": "¿Cuál es el número total de orbitales que existen en el nivel de energía principal donde $n=3$?",
+      "pregunta": "De acuerdo con las configuraciones electrónicas proporcionadas, ¿cuál es el primer gas noble que presenta electrones en un subnivel 'd'?",
       "dificultad": 3,
       "opciones": {
-        "A": "3",
-        "B": "18",
-        "C": "9",
-        "D": "5",
-        "E": "1"
+        "A": "Neón (Ne)",
+        "B": "Argón (Ar)",
+        "C": "Kriptón (Kr)",
+        "D": "Xenón (Xe)",
+        "E": "Radón (Rn)"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Para el nivel principal $n=3$, los valores permitidos para el número cuántico secundario son $l=0, 1, 2$. El número de orbitales para cada subnivel es:\n- Subnivel $s$ ($l=0$): $2(0)+1 = 1$ orbital.\n- Subnivel $p$ ($l=1$): $2(1)+1 = 3$ orbitales.\n- Subnivel $d$ ($l=2$): $2(2)+1 = 5$ orbitales.\nEl número total de orbitales es la suma: $1 + 3 + 5 = 9$ orbitales. Este resultado también se puede obtener con la fórmula $n^2$, donde para $n=3$, $3^2=9$.",
+      "explicacion": "Al revisar las configuraciones electrónicas de los gases nobles: He (solo 1s), Ne (llena hasta 2p), Ar (llena hasta 3p). El Kriptón (Kr) tiene la configuración $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6$. Es el primer gas noble en la lista que incluye electrones en un subnivel 'd', específicamente en el $3d$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_069_015",
-      "pregunta": "¿Cuál de los gases nobles listados completa su configuración en un nivel de energía principal ($n$) que, teóricamente, puede contener un máximo de 8 electrones según la fórmula $2n^2$?",
+      "pregunta": "Un electrón se describe por el siguiente conjunto de números cuánticos: $n=3$, $l=2$, $m_l=-1$, $m_s=+\\frac{1}{2}$. ¿En qué tipo de subnivel se encuentra este electrón?",
       "dificultad": 3,
       "opciones": {
-        "A": "Helio ($_{2}$He)",
-        "B": "Neón ($_{10}$Ne)",
-        "C": "Argón ($_{18}$Ar)",
-        "D": "Kriptón ($_{36}$Kr)",
-        "E": "Xenón ($_{54}$Xe)"
+        "A": "Subnivel s",
+        "B": "Subnivel p",
+        "C": "Subnivel d",
+        "D": "Subnivel f",
+        "E": "El conjunto de números es imposible"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Se busca el nivel de energía ($n$) que cumple con la ecuación $2n^2=8$. Al resolver, se obtiene $n^2=4$, lo que significa que $n=2$. El gas noble que completa el segundo nivel de energía es el Neón ($_{10}$Ne), cuya configuración electrónica es $1s^2 2s^2 2p^6$. Su capa más externa es la capa 2, la cual está completamente llena con 8 electrones.",
+      "respuesta_correcta": "C",
+      "explicacion": "El tipo de subnivel está determinado por el número cuántico secundario o azimutal ($l$). Un valor de $l=0$ corresponde a 's', $l=1$ a 'p', $l=2$ a 'd', y $l=3$ a 'f'. Dado que en este caso $l=2$, el electrón se encuentra en un subnivel 'd'. Los otros números cuánticos ($n=3$, $m_l=-1$, $m_s=+\\frac{1}{2}$) son consistentes con esta descripción, indicando un electrón en un orbital del subnivel $3d$.",
       "imagen": null
     }
   ]

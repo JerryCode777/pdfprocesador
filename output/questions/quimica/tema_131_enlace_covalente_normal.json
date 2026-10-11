@@ -9,29 +9,29 @@
       "pregunta": "¿Cómo se define un enlace covalente normal?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un átomo aporta los dos electrones para formar el par enlazante.",
-        "B": "Se comparten tres pares de electrones entre los átomos.",
-        "C": "Cada átomo aporta un electrón para formar el par electrónico enlazante.",
-        "D": "Un átomo aporta un orbital vacío para aceptar electrones.",
-        "E": "Hay una transferencia completa de electrones de un átomo a otro."
+        "A": "Cuando un átomo aporta los dos electrones para formar el par enlazante.",
+        "B": "Cuando cada átomo aporta un electrón para formar el par electrónico enlazante.",
+        "C": "Cuando se comparten tres pares de electrones entre los átomos.",
+        "D": "Cuando los electrones son transferidos completamente de un átomo a otro.",
+        "E": "Cuando un átomo aporta un orbital vacío para recibir electrones."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Un enlace covalente normal se define por la contribución equitativa de los átomos involucrados. Específicamente, cada átomo que participa en el enlace aporta un electrón, y juntos forman el par electrónico que los une. Las otras opciones describen otros tipos de enlaces: la opción A describe un enlace dativo, la B un enlace triple, la D el rol del átomo aceptor en un enlace dativo y la E un enlace iónico.",
+      "respuesta_correcta": "B",
+      "explicacion": "Un enlace covalente normal se define por la contribución equitativa de los átomos involucrados. Específicamente, cada átomo que participa en el enlace aporta un electrón para constituir el par electrónico que los unirá. La opción A describe un enlace dativo, la C un enlace triple, la D un enlace iónico y la E describe el rol del átomo aceptor en un enlace dativo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_131_002",
-      "pregunta": "¿Cuántos pares de electrones se comparten en un enlace covalente triple?",
+      "pregunta": "¿Cuántos pares de electrones se comparten en un enlace covalente sencillo?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un par",
-        "B": "Dos pares",
-        "C": "Tres pares",
-        "D": "Cuatro pares",
-        "E": "Un par y un orbital vacío"
+        "A": "Dos pares de electrones.",
+        "B": "Tres pares de electrones.",
+        "C": "Un par de electrones.",
+        "D": "Cuatro pares de electrones.",
+        "E": "Ningún par de electrones."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Por definición, un enlace covalente triple implica que los dos átomos unidos comparten tres pares de electrones, lo que suma un total de seis electrones de enlace. Esto lo diferencia del enlace simple (un par) y del enlace doble (dos pares).",
+      "explicacion": "Por definición, un enlace covalente sencillo se forma cuando los átomos comparten un único par de electrones. Los enlaces dobles comparten dos pares y los triples comparten tres pares.",
       "imagen": null
     },
     {
@@ -39,155 +39,35 @@
       "pregunta": "¿Qué caracteriza a un enlace covalente dativo o coordinado?",
       "dificultad": 1,
       "opciones": {
-        "A": "Cada átomo aporta un electrón de manera simétrica.",
-        "B": "Se forma por la compartición de tres pares de electrones.",
-        "C": "Un átomo aporta los dos electrones del par enlazante y el otro un orbital vacío.",
-        "D": "Se compone de un enlace sigma ($σ$) y dos enlaces pi ($π$).",
-        "E": "Siempre ocurre entre metales y no metales."
+        "A": "Cada átomo aporta un electrón al enlace.",
+        "B": "Se comparten dos pares de electrones por igual.",
+        "C": "Un solo átomo aporta los dos electrones del par enlazante.",
+        "D": "Está compuesto por un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$).",
+        "E": "Es exclusivo de moléculas diatómicas como $$H_2$$."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El enlace covalente dativo o coordinado es un caso especial donde la formación del par enlazante no es equitativa. Un átomo (la base de Lewis) aporta el par completo de electrones, mientras que el otro átomo (el ácido de Lewis) aporta un orbital vacío para alojar ese par. La opción A describe un enlace normal, y las opciones B y D describen un enlace triple.",
+      "explicacion": "La característica distintiva de un enlace dativo o coordinado es que uno de los átomos proporciona el par completo de electrones para formar el enlace, mientras que el otro átomo solo aporta un orbital vacío para alojar dicho par. La opción A describe un enlace normal y la D un enlace triple.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_131_004",
-      "pregunta": "Según su composición, ¿de qué se constituye un enlace covalente triple?",
+      "pregunta": "¿De qué tipos de enlace se compone un enlace covalente doble?",
       "dificultad": 1,
       "opciones": {
-        "A": "Tres enlaces sigma ($σ$)",
-        "B": "Tres enlaces pi ($π$)",
-        "C": "Dos enlaces sigma ($σ$) y un enlace pi ($π$)",
-        "D": "Un enlace sigma ($σ$) y dos enlaces pi ($π$)",
-        "E": "Un enlace dativo y dos enlaces normales"
+        "A": "Dos enlaces sigma ($$\\sigma$$).",
+        "B": "Dos enlaces pi ($$\\pi$$).",
+        "C": "Un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$).",
+        "D": "Un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$).",
+        "E": "Únicamente un enlace pi ($$\\pi$$)."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Un enlace covalente triple está formado por la superposición de orbitales que resulta en dos tipos de enlaces. Siempre hay un enlace sigma ($σ$) que se forma por la superposición frontal de orbitales y constituye el primer enlace. Los dos enlaces adicionales son enlaces pi ($π$), formados por la superposición lateral de orbitales p.",
+      "respuesta_correcta": "C",
+      "explicacion": "Un enlace covalente doble, formado por la compartición de dos pares de electrones, siempre está constituido por la combinación de un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_131_005",
-      "pregunta": "En un enlace dativo, ¿qué debe proporcionar el átomo que NO aporta el par de electrones?",
+      "pregunta": "En un enlace covalente triple, ¿cuántos pares de electrones se comparten en total?",
       "dificultad": 1,
-      "opciones": {
-        "A": "Un electrón desapareado",
-        "B": "Un orbital vacío",
-        "C": "Una carga negativa",
-        "D": "Otro par de electrones",
-        "E": "Un enlace sigma ($σ$)"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "Para que se forme un enlace dativo, se requiere un átomo donador que aporte el par de electrones y un átomo aceptor que pueda recibirlo. La condición para el átomo aceptor es que debe tener un orbital desocupado (vacío) donde pueda alojarse el par de electrones donado.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_006",
-      "pregunta": "¿Cuál es la diferencia fundamental en la contribución de electrones entre un enlace covalente normal y uno dativo?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "El número total de electrones compartidos es siempre mayor en el enlace dativo.",
-        "B": "En el normal, cada átomo aporta un electrón; en el dativo, solo un átomo aporta los dos.",
-        "C": "El enlace normal involucra enlaces pi ($π$) y el dativo solo enlaces sigma ($σ$).",
-        "D": "El enlace normal es siempre apolar y el dativo es siempre polar.",
-        "E": "No hay diferencia en la contribución, solo en el tipo de átomos involucrados."
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "La distinción clave radica en el origen del par de electrones enlazante. En un enlace covalente normal, la contribución es simétrica: cada átomo da un electrón. En un enlace dativo o coordinado, la contribución es asimétrica: un átomo dona el par completo y el otro solo lo recibe en un orbital vacío.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_007",
-      "pregunta": "Considerando un enlace covalente triple como el de la molécula N₂, ¿cuántos enlaces de tipo pi ($π$) están presentes?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Cero",
-        "B": "Uno",
-        "C": "Dos",
-        "D": "Tres",
-        "E": "Depende de los átomos involucrados"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "Un enlace triple siempre consiste en un enlace sigma ($σ$) y dos enlaces pi ($π$). El enlace sigma es el primer enlace que se forma entre los átomos, y los dos enlaces subsiguientes, que completan el enlace triple, son de tipo pi ($π$).",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_008",
-      "pregunta": "¿Cuál es el número total de electrones compartidos en un enlace triple?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "6",
-        "E": "8"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "Un enlace triple está formado por la compartición de tres pares de electrones. Dado que cada par consta de dos electrones, el número total de electrones compartidos es $$3 \\text{ pares} \\times 2 \\frac{\\text{electrones}}{\\text{par}} = 6 \\text{ electrones}$$.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_009",
-      "pregunta": "La molécula de nitrógeno diatómico (N₂) se presenta como un ejemplo de una estructura con un:",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Enlace iónico",
-        "B": "Enlace covalente dativo",
-        "C": "Enlace covalente triple",
-        "D": "Enlace covalente normal simple",
-        "E": "Enlace metálico"
-      },
-      "respuesta_correcta": "C",
-      "explicacion": "La molécula de N₂ es un ejemplo clásico de un enlace covalente triple. Los dos átomos de nitrógeno comparten tres pares de electrones para alcanzar la configuración de octeto, lo que resulta en un enlace muy fuerte y estable compuesto por un enlace $σ$ y dos enlaces $π$.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_010",
-      "pregunta": "Si la formación de un enlace covalente implica que un átomo aporta un par de electrones y el otro un orbital desocupado, el enlace es de tipo:",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Normal",
-        "B": "Triple",
-        "C": "Sigma ($σ$)",
-        "D": "Pi ($π$)",
-        "E": "Dativo o coordinado"
-      },
-      "respuesta_correcta": "E",
-      "explicacion": "Esta descripción corresponde precisamente a la definición de un enlace covalente dativo o coordinado. Se caracteriza por la donación de un par de electrones por parte de un átomo (donador) a un orbital vacío de otro átomo (aceptor), formando así el enlace.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_011",
-      "pregunta": "¿Cuántos enlaces de tipo sigma ($σ$) se encuentran en un enlace covalente triple?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Cero",
-        "B": "Uno",
-        "C": "Dos",
-        "D": "Tres",
-        "E": "Cuatro"
-      },
-      "respuesta_correcta": "B",
-      "explicacion": "Independientemente de si el enlace entre dos átomos es simple, doble o triple, siempre existirá un único enlace sigma ($σ$). Este enlace es el primero en formarse y define el eje internuclear. Los enlaces adicionales (en el caso de dobles y triples) son de tipo pi ($π$). Por lo tanto, un enlace triple contiene exactamente un enlace $σ$.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_012",
-      "pregunta": "Cuando dos átomos forman un enlace covalente al contribuir cada uno con un electrón para el par compartido, ¿cómo se clasifica este enlace según el aporte de electrones?",
-      "dificultad": 2,
-      "opciones": {
-        "A": "Dativo",
-        "B": "Coordinado",
-        "C": "Triple",
-        "D": "Normal",
-        "E": "Iónico"
-      },
-      "respuesta_correcta": "D",
-      "explicacion": "La clasificación del enlace covalente según el aporte de electrones distingue entre normal y dativo. El escenario descrito, donde cada átomo aporta un electrón para formar el par enlazante, corresponde a la definición exacta de un enlace covalente normal.",
-      "imagen": null
-    },
-    {
-      "id_temporal": "quimica_131_013",
-      "pregunta": "Sabiendo que un enlace triple consiste en una combinación de un enlace $σ$ y dos enlaces $π$, ¿cuál es el número total de PARES de electrones que lo constituyen?",
-      "dificultad": 3,
       "opciones": {
         "A": "Uno",
         "B": "Dos",
@@ -196,37 +76,157 @@
         "E": "Seis"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Cada tipo de enlace covalente (sea $σ$ o $π$) representa un par de electrones compartidos. Si un enlace triple se compone de un enlace $σ$ y dos enlaces $π$, el número total de enlaces es $1 + 2 = 3$. Por lo tanto, el número total de pares de electrones compartidos es tres. La opción E (seis) corresponde al número total de electrones, no de pares.",
+      "explicacion": "La definición de un enlace covalente triple establece que se forman cuando los átomos involucrados comparten un total de tres pares de electrones entre ellos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_006",
+      "pregunta": "Considerando la molécula de nitrógeno diatómico ($$N_2$$), ¿cuál es la composición de su enlace covalente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$).",
+        "B": "Únicamente un enlace sigma ($$\\sigma$$).",
+        "C": "Tres enlaces sigma ($$\\sigma$$).",
+        "D": "Un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$).",
+        "E": "Tres enlaces pi ($$\\pi$$)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La molécula de $$N_2$$ es el ejemplo proporcionado para un enlace triple. Un enlace covalente triple se caracteriza por estar formado por un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_007",
+      "pregunta": "¿Cuál es la diferencia fundamental en la aportación de electrones entre un enlace covalente normal y uno dativo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En el normal se comparten 2 electrones y en el dativo solo 1.",
+        "B": "En el normal cada átomo aporta un electrón, mientras que en el dativo un solo átomo aporta el par.",
+        "C": "El enlace normal es siempre sencillo y el dativo es siempre doble.",
+        "D": "No hay diferencia en la aportación de electrones, solo en la energía del enlace.",
+        "E": "En el normal un átomo aporta el par y en el dativo cada átomo aporta un electrón."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La clasificación de los enlaces covalentes según la aportación de electrones se centra en el origen de los mismos. En un enlace normal, la aportación es simétrica: cada átomo da un electrón. En un enlace dativo, la aportación es asimétrica: un átomo (donador) da el par de electrones a otro átomo (aceptor) que dispone de un orbital vacío.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_008",
+      "pregunta": "La molécula de oxígeno diatómico ($$O_2$$) es un ejemplo de un enlace covalente doble. ¿Cuántos pares de electrones comparten los átomos de oxígeno?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Un par.",
+        "B": "Dos pares.",
+        "C": "Tres pares.",
+        "D": "Un electrón.",
+        "E": "Cuatro pares."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La molécula de $$O_2$$ se utiliza como ejemplo de un enlace covalente doble. Este tipo de enlace se define por la compartición de dos pares de electrones entre los átomos que lo forman.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_009",
+      "pregunta": "¿Qué requisito debe cumplir un átomo para poder aceptar un par de electrones en un enlace covalente coordinado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Debe aportar también un electrón.",
+        "B": "Debe tener una alta electronegatividad.",
+        "C": "Debe poseer un orbital vacío.",
+        "D": "Debe formar un enlace sigma ($$\\sigma$$) previamente.",
+        "E": "Debe ser un átomo metálico."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En un enlace dativo o coordinado, un átomo dona el par de electrones. Para que el otro átomo pueda recibir y alojar ese par de electrones, es indispensable que disponga de un orbital atómico vacío.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_010",
+      "pregunta": "Si una molécula presenta un enlace covalente sencillo, ¿de qué tipo de enlace está compuesto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Únicamente un enlace pi ($$\\pi$$).",
+        "B": "Un enlace sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$).",
+        "C": "Únicamente un enlace sigma ($$\\sigma$$).",
+        "D": "Dos enlaces sigma ($$\\sigma$$).",
+        "E": "Un enlace dativo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un enlace covalente sencillo, como el que se encuentra en la molécula de hidrógeno ($$H_2$$), consiste fundamentalmente en un solo enlace de tipo sigma ($$\\sigma$$). Los enlaces pi ($$\\pi$$) solo aparecen en enlaces múltiples (dobles o triples).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_011",
+      "pregunta": "¿Cómo se distingue un enlace triple de uno doble en cuanto a su composición de enlaces pi ($$\\pi$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El triple tiene dos enlaces $$\\pi$$ y el doble tiene uno.",
+        "B": "El triple tiene un enlace $$\\pi$$ y el doble tiene dos.",
+        "C": "El triple no tiene enlaces $$\\pi$$, solo el doble los tiene.",
+        "D": "Ambos tienen el mismo número de enlaces $$\\pi$$.",
+        "E": "El triple tiene tres enlaces $$\\pi$$ y el doble tiene dos."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Ambos enlaces, doble y triple, contienen un enlace sigma ($$\\sigma$$). La diferencia radica en los enlaces pi ($$\\pi$$). Un enlace doble contiene un enlace $$\\pi$$, mientras que un enlace triple contiene dos enlaces $$\\pi$$, además del enlace $$\\sigma$$ compartido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_012",
+      "pregunta": "El enlace en la molécula de hidrógeno ($$H_2$$) se clasifica como:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Doble y dativo.",
+        "B": "Sencillo y normal.",
+        "C": "Triple y normal.",
+        "D": "Sencillo y dativo.",
+        "E": "Doble y normal."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La molécula de $$H_2$$ es el ejemplo de un enlace sencillo, ya que se comparte un solo par de electrones. Además, es un enlace normal porque cada átomo de hidrógeno aporta un electrón para formar dicho par.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_131_013",
+      "pregunta": "Si un enlace covalente se forma al compartir tres pares de electrones, ¿cuál de las siguientes afirmaciones sobre su estructura es correcta?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Contiene tres enlaces sigma ($$\\sigma$$) y ningún enlace pi ($$\\pi$$).",
+        "B": "Contiene dos enlaces sigma ($$\\sigma$$) y un enlace pi ($$\\pi$$).",
+        "C": "Es un enlace dativo, donde un átomo aporta los 6 electrones.",
+        "D": "Contiene un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$).",
+        "E": "Contiene únicamente tres enlaces pi ($$\\pi$$)."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un enlace formado por la compartición de tres pares de electrones es un enlace triple. La estructura fundamental de todo enlace triple consiste en un enlace sigma ($$\\sigma$$) y dos enlaces pi ($$\\pi$$). Los enlaces múltiples siempre conservan un único enlace $$\\sigma$$ como eje principal.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_131_014",
-      "pregunta": "En la formación de un enlace covalente dativo, ¿cuál es la función específica del átomo que actúa como aceptor?",
+      "pregunta": "Un átomo X, que tiene un par de electrones libres, se une a un átomo Y, que tiene un orbital desocupado. Si X aporta ambos electrones para formar el enlace, ¿qué tipo de enlace se ha formado?",
       "dificultad": 3,
       "opciones": {
-        "A": "Donar un par de electrones solitario.",
-        "B": "Compartir equitativamente un electrón.",
-        "C": "Proporcionar un orbital vacío para alojar el par electrónico.",
-        "D": "Formar dos enlaces pi ($π$) adicionales.",
-        "E": "Ceder completamente un electrón para formar un catión."
+        "A": "Un enlace covalente normal sencillo.",
+        "B": "Un enlace covalente doble.",
+        "C": "Un enlace covalente dativo o coordinado.",
+        "D": "Un enlace covalente triple.",
+        "E": "Un enlace iónico por transferencia de electrones."
       },
       "respuesta_correcta": "C",
-      "explicacion": "En un enlace dativo, los roles están bien definidos. Hay un átomo donador, que aporta el par de electrones, y un átomo aceptor. La función esencial del aceptor es tener y ofrecer un orbital atómico desocupado (vacío) que pueda superponerse con el orbital lleno del donador, permitiendo así que el par de electrones se comparta y forme el enlace.",
+      "explicacion": "Este escenario describe perfectamente la formación de un enlace dativo o coordinado. La clave es que un átomo (X) actúa como donador del par electrónico completo, y el otro átomo (Y) actúa como aceptor al proporcionar un orbital vacío. Esta aportación desigual de electrones es la definición de un enlace coordinado.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_131_015",
-      "pregunta": "Para la molécula N₂, que posee un enlace triple, ¿cuál es la descripción precisa de la estructura de enlace entre los dos átomos de nitrógeno?",
+      "pregunta": "¿Cuál de las siguientes reglas describe correctamente la composición de enlaces sigma ($$\\sigma$$) en los enlaces covalentes múltiples (doble y triple)?",
       "dificultad": 3,
       "opciones": {
-        "A": "Dos enlaces $σ$ y un enlace $π$.",
-        "B": "Un enlace $σ$ y dos enlaces $π$.",
-        "C": "Tres enlaces de tipo $σ$.",
-        "D": "Un enlace normal y dos enlaces dativos.",
-        "E": "Tres enlaces de tipo $π$."
+        "A": "El número de enlaces $$\\sigma$$ aumenta con el número de pares compartidos.",
+        "B": "Tanto el enlace doble como el triple contienen exactamente un enlace $$\\sigma$$ cada uno.",
+        "C": "Un enlace doble tiene dos enlaces $$\\sigma$$ y un triple tiene tres.",
+        "D": "Los enlaces $$\\sigma$$ solo existen en los enlaces sencillos.",
+        "E": "Los enlaces múltiples están formados exclusivamente por enlaces pi ($$\\pi$$)."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Un enlace triple, como el presente en la molécula de nitrógeno (N₂), se forma a partir de una estructura fundamental y dos adicionales. El primer enlace, que se forma a lo largo del eje internuclear, es siempre un enlace sigma ($σ$). Los otros dos pares de electrones se comparten a través de enlaces pi ($π$), que resultan de la superposición lateral de orbitales p. Por lo tanto, la composición correcta es un enlace $σ$ y dos enlaces $π$.",
+      "explicacion": "Una regla fundamental de los enlaces covalentes es que el primer enlace que se forma entre dos átomos es siempre de tipo sigma ($$\\sigma$$). Los enlaces adicionales que forman un enlace doble o triple son de tipo pi ($$\\pi$$). Por lo tanto, cualquier enlace covalente, ya sea sencillo, doble o triple, contendrá siempre un y solo un enlace $$\\sigma$$.",
       "imagen": null
     }
   ]

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 16,
+  "total_temas": 137,
+  "titulo_tema": "Dinámica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_016_001",
+      "pregunta": "¿Qué rama de la mecánica estudia las causas que modifican el movimiento de los cuerpos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Cinemática",
+        "B": "Estática",
+        "C": "Termodinámica",
+        "D": "Dinámica",
+        "E": "Óptica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Dinámica es la parte de la mecánica que se enfoca en analizar las causas que alteran el estado de movimiento o reposo de los cuerpos, estableciendo una relación entre las fuerzas aplicadas y el movimiento resultante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_002",
+      "pregunta": "¿Cómo se denomina la propiedad de los objetos materiales de conservar su estado de reposo o de movimiento rectilíneo uniforme?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Masa",
+        "B": "Fuerza",
+        "C": "Inercia",
+        "D": "Peso",
+        "E": "Aceleración"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inercia es la propiedad fundamental de la materia que describe su tendencia a resistir cambios en su estado de movimiento. Un objeto en reposo tiende a permanecer en reposo, y uno en movimiento tiende a seguir moviéndose con velocidad constante, a menos que una fuerza externa actúe sobre él.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_003",
+      "pregunta": "Según la Primera Ley de Newton, ¿qué tiende a hacer un cuerpo que se encuentra en movimiento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Detenerse gradualmente por sí mismo",
+        "B": "Aumentar su velocidad de forma espontánea",
+        "C": "Seguir en movimiento mientras no haya una fuerza que modifique dicho estado",
+        "D": "Cambiar de dirección aleatoriamente",
+        "E": "Disminuir su masa con el tiempo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Primera Ley de Newton, o ley de la inercia, establece que un objeto en movimiento continuará en movimiento con velocidad constante (en línea recta) a menos que una fuerza resultante externa actúe sobre él para cambiar su velocidad o dirección.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_004",
+      "pregunta": "¿Qué es el peso de un objeto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La cantidad de materia que contiene",
+        "B": "La fuerza de atracción gravitatoria que la Tierra ejerce sobre él",
+        "C": "La resistencia del objeto a ser acelerado",
+        "D": "La energía almacenada en el objeto",
+        "E": "Una propiedad intrínseca que no depende de la ubicación"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El peso se define específicamente como la fuerza con la que un cuerpo masivo, como la Tierra, atrae a otro objeto. A diferencia de la masa, que es una medida de la inercia, el peso es una fuerza y depende de la aceleración de la gravedad del lugar.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_005",
+      "pregunta": "¿Cuál es la unidad del peso en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Kilogramo (kg)",
+        "B": "Metro (m)",
+        "C": "Segundo (s)",
+        "D": "Newton (N)",
+        "E": "Julio (J)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Dado que el peso es una fuerza, su unidad en el Sistema Internacional es el newton (N). El kilogramo es la unidad de masa, no de peso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_006",
+      "pregunta": "¿Qué relación existe entre la masa de un cuerpo y su inercia?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son inversamente proporcionales",
+        "B": "No tienen ninguna relación",
+        "C": "A mayor masa, mayor es la inercia del cuerpo",
+        "D": "A menor masa, mayor es la inercia del cuerpo",
+        "E": "La relación depende de la velocidad del cuerpo"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa inercial es la medida cuantitativa de la inercia de un cuerpo. Esto significa que un cuerpo con más masa presentará una mayor resistencia a cambiar su estado de movimiento (ya sea para empezar a moverse, detenerse o cambiar de dirección) que un cuerpo con menos masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_007",
+      "pregunta": "¿Cuál de las siguientes ecuaciones permite calcular el módulo del peso de un objeto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\text{Peso} = \\frac{\\text{masa}}{\\text{gravedad}}$$",
+        "B": "$$\\text{Peso} = \\text{masa} \\times \\text{aceleración}$$",
+        "C": "$$\\text{Peso} = \\text{masa} \\times \\text{gravedad}$$",
+        "D": "$$\\text{Peso} = \\text{fuerza} \\times \\text{distancia}$$",
+        "E": "$$\\text{Peso} = \\frac{1}{2} \\times \\text{masa} \\times \\text{velocidad}^2$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El módulo del peso ($$F_g$$) de un objeto se calcula como el producto de su masa ($$m$$) y la aceleración de la gravedad ($$g$$) del lugar donde se encuentra. La ecuación correcta es $$F_g = m \\times g$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_008",
+      "pregunta": "¿Cómo se define conceptualmente la masa gravitacional ($$m_g$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Como la relación entre la fuerza aplicada a un cuerpo y la aceleración que produce.",
+        "B": "Como la propiedad de un cuerpo de resistirse al cambio de movimiento.",
+        "C": "Como la relación entre el peso de un cuerpo y la aceleración de la gravedad.",
+        "D": "Como la cantidad de materia que posee un cuerpo.",
+        "E": "Como el producto del peso y la aceleración de la gravedad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa gravitacional se define a partir de la interacción gravitatoria. Específicamente, es el cociente entre la fuerza gravitatoria que actúa sobre el cuerpo (su peso, $$F_g$$) y la aceleración de la gravedad ($$g$$) en ese lugar. Su fórmula es $$m_g = \\frac{F_g}{g}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_009",
+      "pregunta": "Según su definición, una fuerza es una magnitud que surge de la interacción entre dos cuerpos. ¿Qué cuatro elementos la caracterizan?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Masa, velocidad, tiempo y posición",
+        "B": "Valor, dirección, sentido y punto de aplicación",
+        "C": "Inercia, peso, masa y aceleración",
+        "D": "Energía, trabajo, potencia y calor",
+        "E": "Módulo, origen, trayectoria y desplazamiento"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una fuerza es una magnitud vectorial, y para estar completamente definida, requiere cuatro elementos: su valor o módulo (la intensidad de la fuerza), la dirección (la línea sobre la que actúa), el sentido (hacia dónde apunta sobre esa línea) y el punto de aplicación (dónde se ejerce la fuerza).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_010",
+      "pregunta": "La masa inercial ($$m_i$$) se define como la constante de proporcionalidad en la relación $$m_i = \\frac{\\text{Fuerza}}{\\text{aceleración}}$$. ¿Qué representa esta relación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza necesaria para mantener un cuerpo en movimiento.",
+        "B": "La resistencia de un cuerpo a cambiar su estado de movimiento.",
+        "C": "La atracción gravitacional entre dos cuerpos.",
+        "D": "La energía cinética de un objeto.",
+        "E": "La velocidad máxima que un cuerpo puede alcanzar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta fórmula cuantifica la inercia. Indica que para una fuerza dada, un cuerpo con mayor masa inercial ($$m_i$$) adquirirá una menor aceleración. Por lo tanto, la masa inercial es una medida de la resistencia del cuerpo a ser acelerado, es decir, a cambiar su estado de movimiento.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_011",
+      "pregunta": "Si un cuerpo de masa $$m$$ se deja caer y la única fuerza que actúa sobre él es su peso, ¿qué aceleración adquiere?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una aceleración nula",
+        "B": "Una aceleración dependiente de su masa",
+        "C": "La aceleración de la gravedad, $$g$$",
+        "D": "Una aceleración que disminuye con el tiempo",
+        "E": "Una aceleración proporcional a su volumen"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando un objeto está en caída libre, la fuerza neta que actúa sobre él es su propio peso ($$F_g = m \\times g$$). Según la segunda ley de Newton ($$F = m \\times a$$), si igualamos las fuerzas, tenemos $$m \\times g = m \\times a$$, lo que implica que la aceleración ($$a$$) del cuerpo es igual a la aceleración de la gravedad ($$g$$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_012",
+      "pregunta": "¿Qué es necesario para alterar el estado de reposo de un cuerpo, de acuerdo con la Primera Ley de Newton?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que pase suficiente tiempo",
+        "B": "Una fuerza resultante distinta de cero",
+        "C": "Un cambio en su masa",
+        "D": "Una disminución de su inercia",
+        "E": "Que el cuerpo tenga peso"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Primera Ley de Newton establece que un cuerpo permanecerá en su estado (de reposo o de movimiento rectilíneo uniforme) a menos que una fuerza externa neta o resultante actúe sobre él. Por lo tanto, para que un cuerpo en reposo comience a moverse, es indispensable la acción de una fuerza resultante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_013",
+      "pregunta": "Comparando las definiciones de masa inercial ($$m_i = \\frac{\\text{Fuerza}}{\\text{aceleración}}$$) y masa gravitacional ($$m_g = \\frac{F_g}{g}$$), ¿cuál es la distinción fundamental en su concepción?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La masa inercial se mide en kilogramos y la gravitacional en newtons.",
+        "B": "$$m_i$$ se define por la resistencia a la aceleración, mientras que $$m_g$$ se define por la interacción con un campo gravitatorio.",
+        "C": "La masa inercial es una propiedad de objetos en movimiento y la gravitacional de objetos en reposo.",
+        "D": "No existe diferencia fundamental; son dos fórmulas para la misma cantidad.",
+        "E": "$$m_i$$ es una constante universal, mientras que $$m_g$$ depende de la ubicación del objeto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La distinción conceptual es clave: la masa inercial se define a través de la respuesta de un cuerpo a cualquier tipo de fuerza (su resistencia a acelerar). En cambio, la masa gravitacional se define específicamente a través de la fuerza que experimenta en un campo gravitatorio (su peso). Aunque experimentalmente se ha demostrado que son equivalentes, sus definiciones conceptuales parten de fenómenos diferentes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_014",
+      "pregunta": "Un satélite se desplaza en el espacio profundo, lejos de cualquier influencia gravitatoria significativa, con movimiento rectilíneo uniforme. ¿Qué se puede concluir sobre la fuerza resultante que actúa sobre él según la Primera Ley de Newton?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Una fuerza constante lo está impulsando.",
+        "B": "La fuerza resultante sobre él es cero.",
+        "C": "La fuerza de su peso es la que lo mantiene en movimiento.",
+        "D": "Una fuerza está actuando para vencer la inercia.",
+        "E": "La fuerza neta es igual a su masa por su velocidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Primera Ley de Newton establece que si un cuerpo se mueve con movimiento rectilíneo uniforme (velocidad constante), la fuerza resultante sobre él es nula. El estado de movimiento rectilíneo uniforme es dinámicamente equivalente al estado de reposo. El satélite continuará moviéndose por su propia inercia, sin necesidad de un impulso continuo, siempre que la suma de todas las fuerzas que actúan sobre él sea cero.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_016_015",
+      "pregunta": "La definición de masa inercial es $$m_i = \\frac{\\text{Fuerza}}{\\text{aceleración}} = \\text{cte}$$. ¿Qué significa que esta relación sea constante ($\\text{cte}$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Que la fuerza aplicada a un cuerpo siempre es constante.",
+        "B": "Que la aceleración de cualquier cuerpo es siempre la misma.",
+        "C": "Que esta constante es la misma para todos los cuerpos del universo.",
+        "D": "Que para un cuerpo dado, el cociente entre la fuerza y la aceleración producida es siempre el mismo, independientemente de la magnitud de la fuerza.",
+        "E": "Que la masa de un cuerpo solo es constante cuando está en reposo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El hecho de que la relación sea constante significa que para un objeto específico, su masa inercial es una propiedad intrínseca y no cambia. Si se duplica la fuerza neta aplicada sobre el objeto, su aceleración también se duplicará, manteniendo el cociente $$F/a$$ constante. Este valor constante es lo que definimos como la masa inercial del cuerpo.",
+      "imagen": null
+    }
+  ]
+}

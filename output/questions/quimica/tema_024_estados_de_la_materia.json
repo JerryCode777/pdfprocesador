@@ -3,5 +3,231 @@
   "numero_tema": 24,
   "total_temas": 322,
   "titulo_tema": "Estados de la Materia",
-  "preguntas": []
+  "preguntas": [
+    {
+      "id_temporal": "quimica_024_001",
+      "pregunta": "¿Qué método de separación de mezclas consiste en pasar una mezcla a través de un material poroso para retener el sólido y dejar pasar el líquido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Centrifugación",
+        "B": "Cristalización",
+        "C": "Destilación",
+        "D": "Filtración",
+        "E": "Licuación"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La filtración es un método de separación que utiliza un filtro, un material poroso, para separar un sólido insoluble de un líquido. El líquido pasa a través del filtro mientras que el sólido es retenido. La centrifugación usa la fuerza centrífuga, la cristalización se basa en la evaporación y la destilación en los puntos de ebullición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_002",
+      "pregunta": "¿Cuál es la característica principal del estado sólido en cuanto a su forma y volumen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Forma indefinida y volumen definido",
+        "B": "Forma y volumen definidos",
+        "C": "Forma y volumen indefinidos",
+        "D": "Forma definida y volumen indefinido",
+        "E": "Forma y volumen variables según la presión"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El estado sólido se caracteriza por tener tanto una forma como un volumen definidos. Esto se debe a que las fuerzas de cohesión entre sus moléculas son muy fuertes, manteniéndolas en posiciones fijas y ordenadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_003",
+      "pregunta": "El cambio de estado de líquido a gaseoso, que ocurre por un aumento de calor, se conoce como:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fusión",
+        "B": "Solidificación",
+        "C": "Vaporización",
+        "D": "Condensación",
+        "E": "Cristalización"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La vaporización es el proceso físico en el que una sustancia en estado líquido pasa al estado gaseoso. Es un cambio de estado progresivo, ya que requiere un aumento de calor o energía. La fusión es de sólido a líquido, la solidificación de líquido a sólido y la condensación de gas a líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_004",
+      "pregunta": "¿Qué estado de la materia se describe como un gas ionizado que se genera a temperaturas muy altas, como en las estrellas?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Gaseoso",
+        "B": "Líquido",
+        "C": "Sólido",
+        "D": "Plasmático",
+        "E": "Condensado Bose-Einstein"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El estado plasmático es un gas ionizado, lo que significa que sus átomos han perdido electrones debido a temperaturas extremadamente altas (entre $$1,000$$ y $$10,000 \\ ^\\circ C$$). Este estado es el más abundante en el universo y se encuentra en las estrellas y nebulosas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_005",
+      "pregunta": "En el estado gaseoso, ¿cuál es la relación entre las fuerzas intermoleculares de cohesión ($$F_c$$) y de repulsión ($$F_r$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$F_c > F_r$$",
+        "B": "$$F_c = F_r$$",
+        "C": "$$F_c < F_r$$",
+        "D": "$$F_c$$ y $$F_r$$ son inexistentes",
+        "E": "$$F_c$$ es mucho mayor que $$F_r$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el estado gaseoso, las fuerzas de repulsión ($$F_r$$) predominan sobre las fuerzas de cohesión ($$F_c$$). Esta es la razón por la cual las moléculas de un gas están muy separadas, se mueven libremente y ocupan todo el volumen del recipiente que las contiene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_006",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la destilación simple y la destilación fraccionada?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La destilación simple separa sólidos de líquidos y la fraccionada solo líquidos entre sí.",
+        "B": "La destilación simple se basa en la densidad y la fraccionada en la solubilidad.",
+        "C": "La destilación simple usa calor, mientras que la fraccionada utiliza fuerza centrífuga.",
+        "D": "La destilación fraccionada se usa para líquidos con puntos de ebullición muy próximos, a diferencia de la simple.",
+        "E": "La destilación fraccionada es un proceso químico y la simple es un proceso físico."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Ambos métodos se basan en la diferencia de puntos de ebullición. La destilación simple es efectiva cuando los puntos de ebullición son muy diferentes (ej. agua y sal) o para separar un líquido de un sólido disuelto. La destilación fraccionada es una técnica más precisa, empleada cuando se necesita separar varios líquidos con puntos de ebullición cercanos, como en la refinación del petróleo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_007",
+      "pregunta": "El estado Condensado Bose-Einstein se alcanza bajo condiciones muy específicas de temperatura. ¿Cuál es esta condición?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Temperaturas superiores a $$1,000 \\ ^\\circ C$$",
+        "B": "Temperaturas cercanas al punto de congelación del agua",
+        "C": "Temperaturas muy bajas, cercanas al cero absoluto ($$-273,15 \\ K$$)",
+        "D": "Temperaturas generadas por combustión",
+        "E": "Temperaturas ambiente pero con presiones muy altas"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El Condensado Bose-Einstein es un estado de la materia que se presenta a temperaturas extremadamente bajas, cercanas al cero absoluto. A esta temperatura, los átomos pierden su identidad individual y se comportan como una única onda de materia o 'superátomo'.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_008",
+      "pregunta": "En el estado líquido, las fuerzas de cohesión y repulsión se encuentran en un estado de equilibrio ($$F_c = F_r$$). ¿Qué propiedad de los líquidos se explica por esta relación de fuerzas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Tienen forma y volumen definidos.",
+        "B": "Son fácilmente compresibles.",
+        "C": "Tienen un volumen definido pero adoptan la forma del recipiente.",
+        "D": "Sus moléculas están en posiciones fijas y ordenadas.",
+        "E": "Tienen forma y volumen indefinidos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El equilibrio entre las fuerzas de cohesión y repulsión en los líquidos permite que las moléculas estén juntas (lo que les da un volumen definido), pero al mismo tiempo tengan la libertad de moverse y deslizarse unas sobre otras, lo que hace que adopten la forma del recipiente que los contiene (forma indefinida).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_009",
+      "pregunta": "¿Cuál de los siguientes procesos se clasifica como un cambio de estado regresivo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fusión",
+        "B": "Vaporización",
+        "C": "Solidificación",
+        "D": "Formación de plasma",
+        "E": "Pasar de sólido a líquido"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los cambios de estado regresivos son aquellos que ocurren por una disminución de calor o energía. La solidificación (de líquido a sólido) y la condensación (de gas a líquido) son ejemplos de cambios regresivos. La fusión y la vaporización son cambios progresivos, ya que requieren un aumento de calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_010",
+      "pregunta": "Para obtener cristales de azúcar a partir de una solución saturada de agua y azúcar, se utiliza la cristalización. ¿Cuál es el principio fundamental de este método en este caso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Girar la solución a alta velocidad para separar el azúcar.",
+        "B": "Filtrar la solución para retener las moléculas de azúcar.",
+        "C": "Evaporar el componente líquido (agua) para dejar que el sólido (azúcar) forme cristales.",
+        "D": "Calentar la mezcla para que el azúcar hierva primero.",
+        "E": "Enfriar la mezcla bruscamente para que el azúcar se solidifique."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La cristalización consiste en separar un soluto sólido de una disolución. En una solución saturada, se provoca la evaporación del disolvente (el líquido). A medida que el líquido se evapora, la concentración del sólido aumenta hasta que este ya no puede permanecer disuelto y comienza a formar cristales puros.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_011",
+      "pregunta": "La capacidad del plasma para conducir electricidad y ser influenciado por campos magnéticos se debe a que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sus átomos están fuertemente unidos en una red cristalina.",
+        "B": "Está compuesto por átomos neutros a muy baja temperatura.",
+        "C": "Sus moléculas están en perfecto equilibrio de cohesión y repulsión.",
+        "D": "Es un gas compuesto por cationes y electrones libres.",
+        "E": "Forma una onda de materia gigante que fluye como una roca."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El plasma es un gas ionizado. Esto significa que la alta temperatura ha provocado que los átomos pierdan sus electrones. El resultado es una mezcla de iones con carga positiva (cationes) y electrones con carga negativa. La presencia de estas partículas cargadas y libres es lo que le confiere la capacidad de conducir la electricidad y reaccionar ante campos magnéticos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_012",
+      "pregunta": "El método de centrifugación, utilizado para separar los componentes de la sangre, se basa en la acción de la fuerza centrífuga. ¿Qué logra esta fuerza en la mezcla?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Evapora el componente líquido (plasma).",
+        "B": "Hace que el componente sólido (células) se deposite en el fondo del recipiente.",
+        "C": "Filtra los componentes a través de una membrana porosa.",
+        "D": "Cristaliza las plaquetas para su fácil extracción.",
+        "E": "Hierve los glóbulos rojos para separarlos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La centrifugación somete a la mezcla a una rotación de alta velocidad, generando una fuerza centrífuga. Esta fuerza acelera la sedimentación de las partículas más densas. En el caso de la sangre, los componentes sólidos como los glóbulos rojos y blancos se depositan en el fondo, mientras que el líquido menos denso (plasma) queda en la parte superior como sobrenadante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_013",
+      "pregunta": "Para separar los diversos hidrocarburos y derivados que componen el petróleo crudo, ¿qué método es el más adecuado y por qué?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Centrifugación, porque los hidrocarburos tienen diferentes densidades.",
+        "B": "Cristalización, para obtener cada derivado en forma de cristal puro.",
+        "C": "Destilación simple, porque solo hay un componente líquido que se necesita separar.",
+        "D": "Filtración, para separar los hidrocarburos sólidos de los líquidos.",
+        "E": "Destilación fraccionada, porque los componentes tienen puntos de ebullición diferentes pero muy próximos entre sí."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El petróleo es una mezcla compleja de muchos hidrocarburos con puntos de ebullición diferentes, pero a menudo muy cercanos. La destilación fraccionada es el proceso industrial diseñado específicamente para este tipo de mezclas, permitiendo separar eficientemente los componentes en diferentes 'fracciones' (como gasolina, queroseno, diésel) según sus rangos de ebullición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_014",
+      "pregunta": "El Condensado Bose-Einstein es a veces llamado 'hielo cuántico'. ¿Qué comportamiento de este estado de la materia justifica esta denominación, a pesar de originarse a partir de un gas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se forma a $$0 \\ ^\\circ C$$, la misma temperatura que el hielo.",
+        "B": "Tiene una estructura cristalina idéntica a la del hielo de agua.",
+        "C": "Es capaz de conducir electricidad de manera similar a un sólido.",
+        "D": "Los átomos agrupados en un superátomo se comportan como un sólido, cayendo como una roca al fondo del recipiente.",
+        "E": "Es completamente incompresible, una característica típica de los sólidos como el hielo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Aunque se forma a partir de un gas a temperaturas ultrafrías, el término 'hielo cuántico' se debe a su comportamiento colectivo. Los millones de átomos que se fusionan en una sola onda de materia (un superátomo) actúan como una única entidad. A escala atómica, este superátomo cae al fondo de su contenedor como una roca, exhibiendo un comportamiento similar al de un sólido, lo que inspira la analogía con el hielo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "quimica_024_015",
+      "pregunta": "Analizando la relación entre las fuerzas intermoleculares y las propiedades de la materia, ¿por qué un gas es compresible mientras que un sólido es prácticamente incompresible?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque las moléculas del gas no tienen fuerzas de cohesión, mientras que las del sólido sí.",
+        "B": "Porque en el gas las moléculas están muy separadas, dejando grandes espacios vacíos que pueden reducirse, mientras que en el sólido las moléculas ya están muy juntas y ordenadas.",
+        "C": "Porque el estado gaseoso tiene mayor energía cinética, lo que lo hace más fácil de comprimir.",
+        "D": "Porque los sólidos tienen forma y volumen definidos, lo que impide la compresión, a diferencia de los gases.",
+        "E": "Porque la fuerza de repulsión en los sólidos es casi nula ($$F_r \\approx 0$$), impidiendo que las moléculas se acerquen más."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La compresibilidad está directamente relacionada con la distancia entre las partículas. En un gas, las fuerzas de repulsión dominan ($$F_c < F_r$$), y las moléculas están separadas por grandes distancias. Esto crea un gran volumen 'vacío' que permite que las moléculas se acerquen cuando se aplica presión. En un sólido, las fuerzas de cohesión dominan ($$F_c > F_r$$), manteniendo a las moléculas muy juntas en una estructura ordenada, por lo que hay muy poco espacio para reducir y son prácticamente incompresibles.",
+      "imagen": null
+    }
+  ]
 }

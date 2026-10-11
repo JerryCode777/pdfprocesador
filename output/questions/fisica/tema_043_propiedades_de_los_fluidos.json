@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 43,
+  "total_temas": 137,
+  "titulo_tema": "Propiedades de los Fluidos",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_043_001",
+      "pregunta": "¿Cuál es la definición de un fluido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una sustancia con forma y volumen fijos.",
+        "B": "Un conjunto de moléculas ordenadas en una estructura cristalina.",
+        "C": "Una sustancia que puede escurrir y cambiar de forma fácilmente.",
+        "D": "Únicamente las sustancias en estado gaseoso.",
+        "E": "Un material cuyas moléculas se mantienen unidas por fuerzas muy fuertes."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un fluido se define como una sustancia que puede escurrir (fluir) y que cambia de forma bajo la acción de fuerzas, incluso si son pequeñas. Esta característica es compartida por líquidos y gases. Las opciones A, B y E describen propiedades de los sólidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_002",
+      "pregunta": "¿Qué estados de la materia son considerados fluidos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sólidos y líquidos",
+        "B": "Líquidos y gases",
+        "C": "Gases y plasmas",
+        "D": "Solamente los líquidos",
+        "E": "Solamente los gases"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Tanto los líquidos como los gases se clasifican como fluidos porque comparten la capacidad fundamental de fluir y de adoptar la forma del recipiente que los contiene. Los sólidos, por otro lado, tienen una forma fija.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_003",
+      "pregunta": "¿Qué propiedad, presente en los fluidos de la naturaleza, complica el estudio de su movimiento?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La densidad",
+        "B": "La presión",
+        "C": "La temperatura",
+        "D": "La fricción interna o viscosidad",
+        "E": "La conductividad eléctrica"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los fluidos reales siempre presentan una especie de fricción interna, conocida como viscosidad. Esta propiedad se opone al movimiento del fluido y complica su análisis matemático, por lo que a menudo se estudia un modelo simplificado llamado fluido ideal.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_004",
+      "pregunta": "Según la descripción molecular, ¿qué tipo de fuerzas mantienen unidas a las moléculas de un fluido?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Fuerzas cohesivas débiles",
+        "B": "Enlaces iónicos fuertes",
+        "C": "Enlaces covalentes rígidos",
+        "D": "Fuerzas nucleares intensas",
+        "E": "Fuerzas gravitacionales moleculares"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las moléculas en un fluido se mantienen juntas gracias a fuerzas cohesivas débiles. Estas fuerzas no son lo suficientemente fuertes como para fijar las moléculas en posiciones rígidas (como en un sólido), permitiéndoles moverse y deslizarse unas sobre otras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_005",
+      "pregunta": "Para simplificar el estudio del movimiento de los fluidos, ¿qué modelo se utiliza comúnmente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El modelo de fluido real",
+        "B": "El modelo de fluido viscoso",
+        "C": "El modelo de fluido ideal",
+        "D": "El modelo de sólido deformable",
+        "E": "El modelo de gas perfecto"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Debido a que la viscosidad (fricción interna) de los fluidos reales complica su análisis, se utiliza el modelo del 'fluido ideal'. Este modelo es una simplificación que ignora la viscosidad, facilitando el estudio de los principios básicos del movimiento de los fluidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_006",
+      "pregunta": "¿Cuál es la principal razón por la que tanto un vaso de agua (líquido) como el aire (gas) son clasificados como fluidos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Ambos tienen la misma densidad.",
+        "B": "Ambos son transparentes.",
+        "C": "Ambos carecen de forma propia y pueden escurrir.",
+        "D": "Sus moléculas están completamente inmóviles.",
+        "E": "Ambos ejercen la misma presión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La característica definitoria de un fluido es su capacidad para fluir (escurrir) y adoptar la forma de su contenedor. Tanto los líquidos como los gases exhiben esta propiedad, a diferencia de los sólidos que tienen una forma fija. Las otras opciones son incorrectas ya que la densidad, transparencia o presión no son las razones de su clasificación como fluidos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_007",
+      "pregunta": "¿Qué describe la disposición de las moléculas en un fluido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Están ordenadas en una estructura cristalina rígida.",
+        "B": "Se encuentran ordenadas aleatoriamente.",
+        "C": "Forman largas cadenas poliméricas.",
+        "D": "Vibran en posiciones fijas sin desplazarse.",
+        "E": "Se mueven en órbitas predecibles y constantes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "A nivel molecular, un fluido se caracteriza por tener sus moléculas ordenadas de forma aleatoria o desordenada. Esta falta de una estructura fija y rígida es lo que les permite fluir y cambiar de forma. Las opciones A y D describen un sólido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_008",
+      "pregunta": "Además de las fuerzas cohesivas, ¿qué otro elemento es fundamental para mantener contenido un fluido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Una alta presión atmosférica.",
+        "B": "Una temperatura bajo cero.",
+        "C": "Las fuerzas que ejercen las paredes de un contenedor.",
+        "D": "La ausencia de gravedad.",
+        "E": "La presencia de un campo magnético."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un fluido se mantiene cohesionado por fuerzas cohesivas débiles entre sus moléculas y por las fuerzas que las paredes de un contenedor ejercen sobre él. Sin un contenedor, la mayoría de los fluidos (especialmente los gases) se expandirían o escurrirían libremente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_009",
+      "pregunta": "El ejemplo del globo de Cantoya ilustra el concepto de empuje hidrostático. ¿Qué condición permite que el globo flote?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que el aire interior sea más denso que el exterior.",
+        "B": "Que el aire caliente interior esté rodeado de aire exterior más denso y frío.",
+        "C": "Que el globo esté lleno de un gas más pesado que el aire.",
+        "D": "Que la temperatura dentro y fuera del globo sea la misma.",
+        "E": "Que el material del globo sea extremadamente grueso y resistente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El globo de Cantoya flota porque contiene aire caliente, que es menos denso que el aire frío que lo rodea. Esta diferencia de densidades genera una fuerza de empuje hacia arriba (empuje hidrostático) que es mayor que el peso del globo, permitiéndole ascender.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_010",
+      "pregunta": "¿Por qué se elige estudiar un 'fluido ideal' como primera aproximación en física?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque todos los fluidos en la naturaleza son ideales.",
+        "B": "Porque el modelo ideal es más complejo y preciso que el real.",
+        "C": "Porque simplifica los cálculos al ignorar la complicación de la fricción interna.",
+        "D": "Porque los fluidos ideales no existen y es un ejercicio teórico.",
+        "E": "Porque solo el modelo ideal se aplica a los líquidos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El propósito de usar el modelo de fluido ideal es pedagógico y práctico. Al eliminar la variable de la viscosidad (fricción interna), que complica significativamente las ecuaciones de movimiento, es más fácil comprender los principios fundamentales del comportamiento de los fluidos, como la presión y el empuje.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_011",
+      "pregunta": "¿Qué característica distingue a un fluido en términos de su respuesta a las fuerzas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Resiste grandes fuerzas sin cambiar de forma.",
+        "B": "Se fractura al aplicarle una fuerza pequeña.",
+        "C": "Cambia de forma debido a la acción de pequeñas fuerzas.",
+        "D": "Aumenta su temperatura al aplicarle cualquier fuerza.",
+        "E": "Solo cambia de forma bajo fuerzas de compresión."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Una característica fundamental de un fluido es su incapacidad para resistir fuerzas de corte o tangenciales. Esto significa que incluso una fuerza pequeña hará que el fluido se deforme y fluya, a diferencia de un sólido, que puede resistir dichas fuerzas hasta cierto límite sin cambiar su forma permanentemente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_012",
+      "pregunta": "La viscosidad es el término técnico para la fricción interna en un fluido. ¿Qué efecto tiene esta propiedad en el movimiento del fluido?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Facilita el movimiento, haciéndolo más rápido.",
+        "B": "No tiene ningún efecto sobre el movimiento.",
+        "C": "Aumenta la energía cinética del fluido.",
+        "D": "Se opone al movimiento, complicando su estudio.",
+        "E": "Solo aparece cuando el fluido está en reposo."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La viscosidad actúa como una fuerza de resistencia al flujo. Es la propiedad que hace que fluidos como la miel fluyan más lentamente que el agua. Esta oposición al movimiento complica el análisis matemático del comportamiento de los fluidos reales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_013",
+      "pregunta": "A partir de la distinción entre fluidos reales e ideales, ¿qué propiedad fundamental se puede inferir que está ausente en un fluido ideal?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La densidad.",
+        "B": "La presión.",
+        "C": "La viscosidad.",
+        "D": "La masa.",
+        "E": "La capacidad de fluir."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El texto establece que los fluidos reales tienen 'fricción interna o viscosidad' que complica su estudio, y por esa razón se estudian los 'fluidos ideales'. De esto se infiere lógicamente que el modelo de fluido ideal es una simplificación que carece de viscosidad. La densidad, la presión y la masa son propiedades que un fluido ideal sí posee.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_014",
+      "pregunta": "Si un fluido se define como una sustancia que 'puede escurrir fácilmente', ¿qué implica esto sobre las fuerzas entre sus moléculas en comparación con un sólido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Las fuerzas intermoleculares son mucho más fuertes en el fluido.",
+        "B": "Las fuerzas intermoleculares son lo suficientemente débiles para permitir que las moléculas se deslicen unas sobre otras.",
+        "C": "No existen fuerzas intermoleculares en los fluidos.",
+        "D": "Las fuerzas son idénticas en magnitud y naturaleza a las de un sólido.",
+        "E": "Las fuerzas en un fluido son exclusivamente de repulsión."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La capacidad de un fluido para escurrir es una consecuencia directa de la naturaleza de sus fuerzas intermoleculares. A diferencia de un sólido, donde las moléculas están atrapadas en una red por fuerzas fuertes, en un fluido las fuerzas cohesivas son más débiles, permitiendo a las moléculas moverse y deslizarse, lo que macroscópicamente se observa como flujo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_043_015",
+      "pregunta": "El texto introduce el 'empuje hidrostático' para explicar por qué flotan los globos de Cantoya. ¿Qué principio general se puede deducir sobre la flotación de un cuerpo en un fluido?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La flotación solo ocurre en líquidos, no en gases como el aire.",
+        "B": "Cualquier objeto, sin importar su densidad, flotará si se le aplica calor.",
+        "C": "Un cuerpo flota en un fluido si existe una fuerza ascendente que contrarresta su peso, a menudo relacionada con diferencias de densidad.",
+        "D": "La flotación depende únicamente de la forma del objeto y no del fluido circundante.",
+        "E": "El empuje hidrostático es una fuerza que siempre empuja a los objetos hacia el fondo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El ejemplo del globo, que flota porque su aire caliente interior es menos denso que el aire frío exterior, ilustra un principio fundamental. La flotación ocurre cuando un cuerpo inmerso en un fluido experimenta una fuerza de empuje hacia arriba. Esta fuerza (el empuje hidrostático) está directamente relacionada con el fluido desplazado y la diferencia de densidades. Si el empuje es igual o mayor que el peso del cuerpo, este flotará.",
+      "imagen": null
+    }
+  ]
+}

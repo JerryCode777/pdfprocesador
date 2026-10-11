@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_072_001",
-      "pregunta": "¿Qué información fundamental proporciona el número cuántico magnético ($mₗ$)?",
+      "pregunta": "¿Qué define principalmente el número cuántico magnético ($m_l$)?",
       "dificultad": 1,
       "opciones": {
         "A": "El nivel principal de energía del electrón.",
-        "B": "La forma del subnivel de energía donde se encuentra el electrón.",
-        "C": "La orientación espacial de un orbital dentro de un subnivel.",
+        "B": "La forma geométrica del orbital.",
+        "C": "La orientación espacial que puede presentar un orbital.",
         "D": "El sentido de giro del electrón sobre su propio eje.",
-        "E": "La cantidad máxima de electrones en un nivel de energía."
+        "E": "La cantidad máxima de electrones en un subnivel."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El número cuántico magnético, representado como $mₗ$, define la orientación que pueden presentar los orbitales de un mismo subnivel en relación con un campo magnético externo. Las otras opciones se refieren al número cuántico principal ($n$), secundario ($l$) o de espín ($m_s$).",
+      "explicacion": "El número cuántico magnético ($m_l$) define la orientación que pueden presentar los orbitales de un mismo subnivel en relación con un campo magnético externo. El nivel de energía lo define $n$, la forma del orbital la define $l$, y el giro del electrón lo define $m_s$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_002",
-      "pregunta": "Para un subnivel $s$, donde el número cuántico secundario es $l=0$, ¿cuál es el único valor posible para el número cuántico magnético $mₗ$?",
+      "pregunta": "Para un subnivel $s$, donde $l=0$, ¿cuál es el único valor posible para el número cuántico magnético ($m_l$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "-1",
-        "B": "1",
-        "C": "$$+\\frac{1}{2}$$",
-        "D": "0",
-        "E": "-1, 0, +1"
+        "A": "$$m_l = +1$$",
+        "B": "$$m_l = -1$$",
+        "C": "$$m_l = 0$$",
+        "D": "$$m_l = +1/2$$",
+        "E": "$$m_l = -1/2$$"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Los valores de $mₗ$ están definidos por el rango de $-l$ a $+l$. Para un subnivel $s$, el valor de $l$ es 0. Por lo tanto, el único valor posible para $mₗ$ es 0. Esto indica que el subnivel $s$ tiene un solo orbital.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los valores de $m_l$ van desde $-l$ hasta $+l$. Para un subnivel $s$, el número cuántico secundario $l$ es 0. Por lo tanto, el único valor posible para $m_l$ es 0. Esto indica que el subnivel $s$ tiene un solo orbital.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_003",
-      "pregunta": "¿Qué fórmula se utiliza para determinar la cantidad de orbitales en un subnivel de energía específico, dado el número cuántico secundario $l$?",
+      "pregunta": "¿Qué información proporciona el número cuántico secundario ($l$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$2n^2$$",
-        "B": "$$n-1$$",
-        "C": "$$2l+1$$",
-        "D": "$$l+1$$",
-        "E": "$$l^2$$"
+        "A": "El orbital específico donde gira un electrón.",
+        "B": "El movimiento de rotación del electrón.",
+        "C": "El subnivel de energía y la forma del orbital.",
+        "D": "El nivel principal de energía.",
+        "E": "La cantidad total de orbitales en un átomo."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La cantidad de orbitales en un subnivel está dada por la fórmula $$2l+1$$. Por ejemplo, para un subnivel $p$ ($l=1$), hay $$2(1)+1 = 3$$ orbitales. La fórmula $$2n^2$$ calcula el número máximo de electrones en un nivel de energía principal $n$.",
+      "explicacion": "El número cuántico secundario ($l$), también llamado azimutal, indica el subnivel de energía al que pertenece un electrón y determina la forma del orbital (esférica para $l=0$, bilobular para $l=1$, etc.).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_004",
-      "pregunta": "¿Cuáles son los valores enteros que puede tomar el número cuántico magnético ($mₗ$) para un orbital de tipo $p$?",
+      "pregunta": "¿Qué letra se utiliza para simbolizar el subnivel de energía cuando el número cuántico secundario es $l=2$?",
       "dificultad": 1,
       "opciones": {
-        "A": "0",
-        "B": "-1, 0, +1",
-        "C": "-2, -1, 0, +1, +2",
-        "D": "0, 1, 2",
-        "E": "$$+\\frac{1}{2}, -\\frac{1}{2}$$"
+        "A": "s",
+        "B": "p",
+        "C": "d",
+        "D": "f",
+        "E": "g"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para un subnivel $p$, el número cuántico secundario es $l=1$. Los valores permitidos para $mₗ$ van desde $-l$ hasta $+l$, lo que resulta en el conjunto de valores -1, 0 y +1. Esto corresponde a los tres orbitales del subnivel $p$.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los subniveles se simbolizan con letras específicas según el valor de $l$. Para $l=0$ es 's', para $l=1$ es 'p', para $l=2$ es 'd', y para $l=3$ es 'f'. La letra 'g' correspondería a $l=4$, pero no se menciona en el contenido.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_005",
-      "pregunta": "¿Qué número cuántico se relaciona directamente con el giro o movimiento de rotación que un electrón efectúa sobre su propio eje?",
+      "pregunta": "¿Qué fórmula se utiliza para determinar la cantidad de orbitales en un subnivel, conociendo su número cuántico secundario ($l$)?",
       "dificultad": 1,
       "opciones": {
-        "A": "Número cuántico principal ($n$)",
-        "B": "Número cuántico magnético ($mₗ$)",
-        "C": "Número cuántico secundario ($l$)",
-        "D": "Número cuántico azimutal ($l$)",
-        "E": "Número cuántico de espín ($m_s$)"
+        "A": "$$2n^2$$",
+        "B": "$$n-1$$",
+        "C": "$$l+1$$",
+        "D": "$$2l+1$$",
+        "E": "$$m_s = \\pm 1/2$$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El número cuántico de espín ($m_s$) describe el momento angular intrínseco del electrón, que se visualiza como el giro sobre su propio eje. Puede tomar dos valores: $$+\\frac{1}{2}$$ (spin up) o $$-\\frac{1}{2}$$ (spin down). Los otros números cuánticos describen la energía, forma y orientación del orbital.",
+      "respuesta_correcta": "D",
+      "explicacion": "La cantidad de orbitales en un subnivel de energía está dada por la fórmula $$2l+1$$. Por ejemplo, para un subnivel $p$ ($l=1$), la cantidad de orbitales es $$2(1)+1 = 3$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_006",
-      "pregunta": "Si el número cuántico secundario ($l$) de un electrón es 3, ¿cuántos valores posibles puede tomar el número cuántico magnético ($mₗ$)?",
+      "pregunta": "Si el número cuántico secundario ($l$) de un electrón es 2, ¿qué conjunto de valores puede tomar su número cuántico magnético ($m_l$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "3",
-        "B": "5",
-        "C": "1",
-        "D": "14",
-        "E": "7"
+        "A": "$$-1, 0, +1$$",
+        "B": "$$0, +1, +2$$",
+        "C": "$$0$$",
+        "D": "$$-2, -1, 0, +1, +2$$",
+        "E": "$$-3, -2, -1, 0, +1, +2, +3$$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Cuando $l=3$ (correspondiente a un subnivel $f$), los valores de $mₗ$ pueden ser todos los enteros desde $-l$ hasta $+l$. Esto es: -3, -2, -1, 0, +1, +2, +3. Contando estos valores, obtenemos un total de 7 posibles orientaciones orbitales.",
+      "respuesta_correcta": "D",
+      "explicacion": "El número cuántico magnético ($m_l$) puede tomar todos los valores enteros comprendidos entre $-l$ y $+l$. Si $l=2$, entonces $m_l$ puede tomar los valores -2, -1, 0, +1, y +2.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_007",
-      "pregunta": "¿Qué conjunto de valores para el número cuántico magnético ($mₗ$) corresponde a un subnivel de tipo $d$?",
+      "pregunta": "¿Cuántos orbitales existen en un subnivel $p$?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$-1, 0, +1$$",
-        "B": "$$-2, -1, 0, +1, +2$$",
-        "C": "$$-3, -2, -1, 0, +1, +2, +3$$",
-        "D": "0",
-        "E": "$$0, 1, 2$$"
+        "A": "1 orbital",
+        "B": "3 orbitales",
+        "C": "5 orbitales",
+        "D": "6 orbitales",
+        "E": "2 orbitales"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Un subnivel de tipo $d$ se caracteriza por un número cuántico secundario $l=2$. Los valores permitidos para $mₗ$ son los enteros de $-l$ a $+l$, que en este caso son -2, -1, 0, +1, +2, correspondiendo a los 5 orbitales $d$.",
+      "explicacion": "El subnivel $p$ corresponde a un número cuántico secundario $l=1$. La cantidad de orbitales se calcula con la fórmula $$2l+1$$, que resulta en $$2(1)+1 = 3$$. Estos 3 orbitales corresponden a los valores de $m_l = -1, 0, +1$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_008",
-      "pregunta": "Un electrón se encuentra en un subnivel que presenta 5 orientaciones orbitales posibles. ¿Cuál es el valor del número cuántico secundario ($l$) para este subnivel?",
+      "pregunta": "Un electrón se encuentra en un subnivel $f$. ¿Cuántos valores posibles tiene el número cuántico magnético ($m_l$) para este electrón?",
       "dificultad": 2,
       "opciones": {
-        "A": "$l=1$",
-        "B": "$l=5$",
-        "C": "$l=3$",
-        "D": "$l=2$",
-        "E": "$l=0$"
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "10",
+        "E": "14"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El número de orbitales en un subnivel se calcula con la fórmula $$2l+1$$. Si hay 5 orbitales, entonces $$2l+1 = 5$$. Resolviendo para $l$, tenemos $$2l = 4$$, lo que da $l=2$. Esto corresponde a un subnivel $d$.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para un subnivel $f$, el número cuántico secundario es $l=3$. Los valores posibles para $m_l$ van desde $-l$ hasta $+l$, lo que incluye -3, -2, -1, 0, +1, +2, +3. Contando estos valores, obtenemos un total de 7 posibles valores, lo que corresponde a 7 orbitales.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_009",
-      "pregunta": "¿Cuál es la regla que define el rango de valores permitidos para el número cuántico magnético ($mₗ$) en función del número cuántico azimutal ($l$)?",
+      "pregunta": "¿Cuál es la relación matemática correcta que define los valores permitidos para el número cuántico magnético ($m_l$) en función del número cuántico secundario ($l$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "$mₗ$ puede tomar cualquier valor entero desde 0 hasta $n-1$.",
-        "B": "$mₗ$ puede tomar cualquier valor entero desde $-l$ hasta $+l$, incluyendo el cero.",
-        "C": "$mₗ$ es siempre igual al valor de $l$.",
-        "D": "$mₗ$ solo puede ser 0 o 1.",
-        "E": "$mₗ$ es igual a $2l+1$."
+        "A": "$$m_l = 0, 1, 2, ..., n-1$$",
+        "B": "$$m_l = -l, -l+1, ..., 0, ..., l-1, +l$$",
+        "C": "$$m_l = l, l+1, l+2, ...$$",
+        "D": "$$m_l = \\pm 1/2$$",
+        "E": "$$m_l = 2l+1$$"
       },
       "respuesta_correcta": "B",
-      "explicacion": "La regla fundamental que conecta $l$ y $mₗ$ es que para un valor dado de $l$, el número cuántico magnético $mₗ$ puede tomar todos los valores enteros comprendidos en el intervalo $[-l, +l]$. Por ejemplo, si $l=2$, $mₗ$ puede ser -2, -1, 0, +1, +2.",
+      "explicacion": "La regla establece que para cada valor de $l$, el número cuántico magnético ($m_l$) puede tomar todos los valores enteros comprendidos entre $-l$ y $+l$, incluyendo el cero. La opción B describe correctamente este rango de valores.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_010",
-      "pregunta": "En un subnivel que contiene exactamente 3 orbitales, ¿cuál es el valor de $l$ y cuáles son los posibles valores de $mₗ$?",
+      "pregunta": "¿Cuál de los siguientes conjuntos de valores de $m_l$ corresponde a un subnivel $d$?",
       "dificultad": 2,
       "opciones": {
-        "A": "$l=3$ y $mₗ$ son -1, 0, +1.",
-        "B": "$l=2$ y $mₗ$ son -2, -1, 0, +1, +2.",
-        "C": "$l=1$ y $mₗ$ son -1, 0, +1.",
-        "D": "$l=0$ y $mₗ$ es 0.",
-        "E": "$l=1$ y $mₗ$ son 0, 1, 2."
+        "A": "$$0$$",
+        "B": "$$-1, 0, +1$$",
+        "C": "$$-2, -1, 0, +1, +2$$",
+        "D": "$$-3, -2, -1, 0, +1, +2, +3$$",
+        "E": "$$0, 1, 2$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Si un subnivel tiene 3 orbitales, usamos la fórmula $$2l+1 = 3$$, lo que nos da $l=1$. Este valor de $l$ corresponde a un subnivel $p$. Los valores permitidos para $mₗ$ cuando $l=1$ son los enteros de -1 a +1, es decir, -1, 0, +1.",
+      "explicacion": "Un subnivel $d$ se caracteriza por tener un número cuántico secundario $l=2$. Según la regla, los valores de $m_l$ van de $-l$ a $+l$. Por lo tanto, para $l=2$, los valores de $m_l$ son -2, -1, 0, +1, +2.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_011",
-      "pregunta": "La capacidad máxima de un subnivel $f$ es de 14 electrones. ¿Cómo se relaciona el número cuántico magnético ($mₗ$) con esta capacidad?",
+      "pregunta": "¿Cuántos electrones como máximo puede contener un subnivel $f$?",
       "dificultad": 2,
       "opciones": {
-        "A": "Para el subnivel $f$ ($l=3$), existen 7 valores de $mₗ$, lo que significa que hay 7 orbitales, y cada uno puede albergar 2 electrones.",
-        "B": "Para el subnivel $f$ ($l=4$), existen 14 valores de $mₗ$, lo que significa que hay 14 orbitales con 1 electrón cada uno.",
-        "C": "El número $mₗ$ puede tomar 14 valores diferentes, desde -7 hasta +7.",
-        "D": "El valor de $mₗ$ es 14, lo que indica directamente la capacidad de electrones.",
-        "E": "La suma de todos los valores de $mₗ$ para un subnivel $f$ es 14."
+        "A": "2 electrones",
+        "B": "6 electrones",
+        "C": "10 electrones",
+        "D": "14 electrones",
+        "E": "7 electrones"
       },
-      "respuesta_correcta": "A",
-      "explicacion": "Un subnivel $f$ tiene $l=3$. Esto permite que $mₗ$ tome 7 valores distintos (-3, -2, -1, 0, 1, 2, 3), lo que indica la existencia de 7 orbitales. Según el principio de exclusión de Pauli, cada orbital puede contener un máximo de 2 electrones (con espines opuestos). Por lo tanto, la capacidad máxima es $7 \\text{ orbitales} \\times 2 \\text{ e}^- / \\text{orbital} = 14 \\text{ e}^-$.",
+      "respuesta_correcta": "D",
+      "explicacion": "El subnivel $f$ corresponde a $l=3$. Tiene $$2(3)+1=7$$ orbitales. Como cada orbital puede albergar un máximo de 2 electrones (con espines opuestos), la capacidad máxima del subnivel $f$ es de $7 \\times 2 = 14$ electrones.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_012",
-      "pregunta": "Para un electrón en el nivel de energía principal $n=2$, ¿cuál de los siguientes valores de $mₗ$ es imposible?",
+      "pregunta": "¿Con qué propiedad del electrón se relaciona el número cuántico de spin ($m_s$)?",
       "dificultad": 2,
       "opciones": {
-        "A": "-1",
-        "B": "0",
-        "C": "+1",
-        "D": "+2",
-        "E": "Cualquiera de los anteriores es posible."
+        "A": "La forma del orbital",
+        "B": "La orientación del orbital en el espacio",
+        "C": "El nivel de energía principal",
+        "D": "El giro del electrón sobre su propio eje",
+        "E": "La distancia del electrón al núcleo"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Si $n=2$, los valores posibles para $l$ son 0 y 1. Si $l=0$, el único valor de $mₗ$ es 0. Si $l=1$, los valores de $mₗ$ son -1, 0, +1. En ningún caso un electrón en el nivel $n=2$ puede tener un $mₗ$ de +2, ya que para ello se requeriría $l=2$, lo cual no es posible si $n=2$ (ya que $l$ va hasta $n-1$).",
+      "explicacion": "El número cuántico de spin ($m_s$) se relaciona con el movimiento de rotación que el electrón efectúa sobre su propio eje. Este giro puede tener dos sentidos, representados por los valores $$+1/2$$ (spin up) y $$-1/2$$ (spin down).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_013",
-      "pregunta": "Si un electrón se encuentra en el nivel de energía principal $n=3$, ¿cuántos valores totales posibles existen para su número cuántico magnético ($mₗ$) considerando todos los subniveles permitidos?",
+      "pregunta": "Un electrón se encuentra en un subnivel con $l=1$. ¿Cuál de los siguientes valores para su número cuántico magnético ($m_l$) es IMPOSIBLE?",
       "dificultad": 3,
       "opciones": {
-        "A": "3",
-        "B": "5",
-        "C": "18",
-        "D": "9",
-        "E": "7"
+        "A": "$$m_l = -1$$",
+        "B": "$$m_l = 0$$",
+        "C": "$$m_l = +1$$",
+        "D": "$$m_l = -2$$",
+        "E": "Todos son posibles"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Para el nivel $n=3$, los valores permitidos para $l$ son 0, 1 y 2.\n- Para $l=0$ (subnivel $s$), $mₗ$ puede ser 0 (1 valor).\n- Para $l=1$ (subnivel $p$), $mₗ$ puede ser -1, 0, +1 (3 valores).\n- Para $l=2$ (subnivel $d$), $mₗ$ puede ser -2, -1, 0, +1, +2 (5 valores).\nEl número total de valores posibles para $mₗ$ (que es igual al número total de orbitales) es la suma: $1 + 3 + 5 = 9$.",
+      "explicacion": "Si el número cuántico secundario es $l=1$ (correspondiente a un subnivel $p$), los valores permitidos para $m_l$ son todos los enteros desde $-l$ hasta $+l$. En este caso, los únicos valores posibles son -1, 0, y +1. Un valor de $m_l = -2$ no está dentro de este rango y, por lo tanto, es imposible.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_014",
-      "pregunta": "Considerando un electrón ubicado en un subnivel $f$, ¿cuál de los siguientes valores para el número cuántico magnético ($mₗ$) sería imposible?",
+      "pregunta": "Si un subnivel de energía contiene un total de 7 orbitales, ¿cuál es el valor del número cuántico secundario ($l$) y qué letra designa a dicho subnivel?",
       "dificultad": 3,
       "opciones": {
-        "A": "-3",
-        "B": "0",
-        "C": "+4",
-        "D": "-2",
-        "E": "+1"
+        "A": "$l=1$, subnivel $p$",
+        "B": "$l=2$, subnivel $d$",
+        "C": "$l=3$, subnivel $f$",
+        "D": "$l=0$, subnivel $s$",
+        "E": "$l=4$, subnivel $g$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Un subnivel $f$ se define por tener un número cuántico secundario $l=3$. Los valores permitidos para $mₗ$ deben estar en el rango de $-l$ a $+l$. Por lo tanto, para un subnivel $f$, $mₗ$ puede ser cualquier entero desde -3 hasta +3. Un valor de +4 está fuera de este rango y, por lo tanto, es imposible.",
+      "explicacion": "La cantidad de orbitales en un subnivel se calcula con la fórmula $$2l+1$$. Si hay 7 orbitales, podemos plantear la ecuación $$2l+1 = 7$$. Resolviendo para $l$, obtenemos $2l = 6$, y por lo tanto, $l=3$. El valor $l=3$ corresponde al subnivel $f$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_072_015",
-      "pregunta": "Un subnivel de energía tiene una capacidad máxima para alojar 10 electrones. ¿Cuáles son los valores enteros que puede tomar el número cuántico magnético ($mₗ$) para los orbitales de este subnivel?",
+      "pregunta": "¿Cuál es el número total de orbitales presentes en el nivel de energía principal $n=3$?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$-1, 0, +1$$",
-        "B": "$$-4, -3, -2, -1, 0, +1, +2, +3, +4$$",
-        "C": "$$-2, -1, 0, +1, +2$$",
-        "D": "$$0, 1, 2, 3, 4$$",
-        "E": "$$-3, -2, -1, 0, +1, +2, +3$$"
+        "A": "3",
+        "B": "5",
+        "C": "9",
+        "D": "16",
+        "E": "18"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Si un subnivel aloja un máximo de 10 electrones, y cada orbital puede contener 2 electrones, entonces el subnivel debe tener $10/2 = 5$ orbitales. Usando la fórmula para el número de orbitales, $$2l+1 = 5$$, resolvemos para $l$ y obtenemos $l=2$. Esto corresponde a un subnivel $d$. Para $l=2$, los valores permitidos de $mₗ$ son todos los enteros desde -2 hasta +2, es decir: -2, -1, 0, +1, +2.",
+      "explicacion": "Para el nivel principal $n=3$, los valores posibles del número cuántico secundario ($l$) van desde 0 hasta $n-1$, es decir, $l$ puede ser 0, 1 y 2.\n- Para $l=0$ (subnivel s), hay $2(0)+1 = 1$ orbital.\n- Para $l=1$ (subnivel p), hay $2(1)+1 = 3$ orbitales.\n- Para $l=2$ (subnivel d), hay $2(2)+1 = 5$ orbitales.\nEl número total de orbitales en el nivel $n=3$ es la suma de los orbitales de sus subniveles: $1 + 3 + 5 = 9$ orbitales.",
       "imagen": null
     }
   ]

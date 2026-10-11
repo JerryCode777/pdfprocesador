@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 93,
+  "total_temas": 137,
+  "titulo_tema": "Termodinámica",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_093_001",
+      "pregunta": "¿Qué establece fundamentalmente la primera ley de la termodinámica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que la energía de un gas ideal solo depende de su temperatura.",
+        "B": "Que la energía no se crea ni se destruye, solo se transforma.",
+        "C": "Relaciona los cambios en la energía interna con la transferencia de calor y el trabajo.",
+        "D": "Define la dirección espontánea del flujo de calor.",
+        "E": "Establece la relación entre presión, volumen y temperatura de un gas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La primera ley de la termodinámica es un principio de conservación de la energía que se aplica a los sistemas termodinámicos. Específicamente, relaciona cómo la energía interna de un sistema cambia en respuesta a la energía que se le añade en forma de calor y al trabajo realizado sobre o por el sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_002",
+      "pregunta": "¿Cuál es la expresión matemática que representa la primera ley de la termodinámica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$ΔU = nC_vΔT$$",
+        "B": "$$ΔU = Q - W$$",
+        "C": "$$Q = W$$",
+        "D": "$$ΔU = U_f − U_i = Q + W$$",
+        "E": "$$U = Q + PΔV$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula de la primera ley de la termodinámica es $$ΔU = Q + W$$. Esta ecuación indica que el cambio en la energía interna ($ΔU$) de un sistema es igual a la suma del calor neto ($Q$) intercambiado con el entorno y el trabajo neto ($W$) realizado sobre el sistema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_003",
+      "pregunta": "En el marco de la termodinámica, ¿qué significa un valor de calor positivo ($Q > 0$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Que el sistema cede calor al entorno.",
+        "B": "Que la temperatura del sistema disminuye.",
+        "C": "Que se realiza trabajo sobre el sistema.",
+        "D": "Que el sistema recibe o consume calor del entorno.",
+        "E": "Que no hay intercambio de energía."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Por convención de signos, un valor positivo para el calor ($Q > 0$) significa que la energía fluye desde el entorno hacia el sistema en forma de calor. En otras palabras, el sistema absorbe, recibe o consume calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_004",
+      "pregunta": "¿Cómo se define la energía interna de un sistema?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Como la suma de las energías cinéticas de sus partículas más la suma de las energías potenciales de interacción entre ellas.",
+        "B": "Únicamente como la energía total debida al movimiento de sus partículas.",
+        "C": "Como la energía transferida en forma de calor.",
+        "D": "Como la capacidad del sistema para realizar trabajo.",
+        "E": "Únicamente como la energía almacenada en los enlaces químicos."
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La energía interna ($U$) de un sistema es la energía total contenida dentro de él. Es la suma de todas las formas de energía microscópica, principalmente la energía cinética (asociada al movimiento de las partículas) y la energía potencial (asociada a las fuerzas de interacción entre las partículas).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_005",
+      "pregunta": "¿De qué única variable depende la energía interna de un gas ideal?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "De su presión.",
+        "B": "De su volumen.",
+        "C": "De la presión y el volumen conjuntamente.",
+        "D": "Del número de moles.",
+        "E": "De su temperatura."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Para un gas ideal, se asume que no existen fuerzas de interacción entre sus partículas, por lo que su energía potencial de interacción es cero. Por lo tanto, su energía interna consiste únicamente en la energía cinética total de sus partículas, la cual es directamente proporcional a su temperatura absoluta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_006",
+      "pregunta": "En la ecuación $$ΔU = nC_vΔT$$, ¿qué representa el término $$C_v$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La constante de los gases ideales.",
+        "B": "El calor específico a volumen constante.",
+        "C": "La capacidad calorífica a presión constante.",
+        "D": "El cambio de volumen del gas.",
+        "E": "El número de partículas del gas."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El término $$C_v$$ corresponde al calor específico molar a volumen constante. Físicamente, representa la cantidad de calor que se debe suministrar a un mol de un gas para elevar su temperatura en un Kelvin, manteniendo el volumen del sistema sin cambios.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_007",
+      "pregunta": "Si un gas cede o pierde calor durante un proceso, ¿qué signo se le asigna a la cantidad de calor ($Q$) según la convención?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Positivo ($+Q$).",
+        "B": "Negativo ($-Q$).",
+        "C": "Cero ($Q=0$).",
+        "D": "Depende de si el proceso es reversible.",
+        "E": "Depende del cambio de volumen."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La convención de signos establece que si la energía en forma de calor sale del sistema hacia el entorno (el sistema cede, libera o pierde calor), el valor de $Q$ es negativo. Si el calor entra al sistema, $Q$ es positivo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_008",
+      "pregunta": "De acuerdo con la convención de signos, ¿qué significa que el trabajo ($W$) tenga un valor negativo ($W < 0$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que se efectúa trabajo sobre el sistema.",
+        "B": "Que el sistema absorbe calor.",
+        "C": "Que el sistema realiza, desarrolla o efectúa trabajo.",
+        "D": "Que la energía interna del sistema aumenta.",
+        "E": "Que no hay transferencia de energía por trabajo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un valor de trabajo negativo ($W < 0$) indica que el sistema utiliza su energía para actuar sobre el entorno, es decir, el sistema realiza trabajo. Un ejemplo es la expansión de un gas que empuja un pistón. Por el contrario, si el trabajo se realiza sobre el sistema, su valor es positivo ($W > 0$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_009",
+      "pregunta": "¿Cuál es la relación entre el cambio de energía interna ($ΔU$) y el cambio de temperatura ($ΔT$) para una cantidad fija de un gas ideal?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Son inversamente proporcionales.",
+        "B": "No están relacionados.",
+        "C": "Son directamente proporcionales.",
+        "D": "$ΔU$ es proporcional al cuadrado de $ΔT$.",
+        "E": "Su suma siempre es cero."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La ecuación $$ΔU = nC_vΔT$$ muestra claramente que, para una cantidad de gas ($n$) y un calor específico ($C_v$) constantes, el cambio en la energía interna ($ΔU$) es directamente proporcional al cambio en la temperatura ($ΔT$). Esto significa que si la temperatura aumenta, la energía interna también aumenta, y viceversa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_010",
+      "pregunta": "En la primera ley de la termodinámica, $$ΔU = Q + W$$, ¿qué representa el término $W$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El calor absorbido por el sistema.",
+        "B": "La temperatura final del sistema.",
+        "C": "El trabajo realizado por un agente externo sobre el sistema.",
+        "D": "El trabajo que el sistema realiza sobre su entorno.",
+        "E": "La energía total del sistema."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la formulación $$ΔU = Q + W$$, el término $W$ representa la energía transferida al sistema por medios mecánicos, es decir, el trabajo realizado sobre el sistema. El calor ($Q$) es la energía transferida debido a una diferencia de temperatura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_011",
+      "pregunta": "Si se efectúa trabajo sobre un gas, ¿cuál es el signo del trabajo ($W$) y qué palabra clave lo describe mejor según la convención?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Negativo ($-W$), \"realiza\".",
+        "B": "Negativo ($-W$), \"cede\".",
+        "C": "Positivo ($+W$), \"desarrolla\".",
+        "D": "Positivo ($+W$), \"se hace sobre\".",
+        "E": "Cero ($W=0$), \"libera\"."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La convención de signos establece que cuando un trabajo es realizado por una fuerza externa sobre el sistema, este recibe energía en forma de trabajo, por lo que su signo es positivo ($+W$). La frase clave que lo describe es \"se hace sobre\" o \"se efectúa sobre\".",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_012",
+      "pregunta": "¿Cuál es la razón física por la que la energía interna de un gas ideal no depende de su volumen?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el volumen de un gas ideal es siempre constante.",
+        "B": "Porque no se considera la existencia de energía potencial de interacción entre sus partículas.",
+        "C": "Porque la energía cinética de las partículas es independiente de la temperatura.",
+        "D": "Porque la presión compensa cualquier cambio de volumen.",
+        "E": "Porque la primera ley de la termodinámica solo se aplica a sistemas de volumen fijo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La energía interna total de un sistema es la suma de las energías cinéticas y potenciales de sus partículas. En un gas ideal, se postula que las partículas están tan separadas que no interactúan entre sí, por lo que la energía potencial de interacción es nula. Por lo tanto, la energía interna depende solo de la energía cinética, que está directamente relacionada con la temperatura, no con el espacio (volumen) que ocupan las partículas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_013",
+      "pregunta": "Un gas ideal se somete a un proceso a temperatura constante (isotérmico), de modo que $$ΔT = 0$$. ¿Cuál es el cambio resultante en su energía interna ($ΔU$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$ΔU > 0$$",
+        "B": "$$ΔU < 0$$",
+        "C": "$$ΔU = 0$$",
+        "D": "$$ΔU = Q$$",
+        "E": "$$ΔU = W$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La energía interna de un gas ideal depende exclusivamente de su temperatura, según la relación $$ΔU = nC_vΔT$$. Si el proceso es isotérmico, el cambio de temperatura es cero ($ΔT = 0$). Al sustituir este valor en la ecuación, se obtiene que el cambio en la energía interna también es cero ($ΔU = 0$).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_014",
+      "pregunta": "Un sistema cerrado experimenta un proceso adiabático ($Q = 0$) donde se realiza un trabajo de 75 J sobre él. ¿Cuál es el cambio en la energía interna ($ΔU$) del sistema?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$ΔU = -75\\ J$$",
+        "B": "$$ΔU = 0\\ J$$",
+        "C": "$$ΔU = +75\\ J$$",
+        "D": "$$ΔU = +150\\ J$$",
+        "E": "No se puede determinar sin conocer la temperatura."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La primera ley de la termodinámica es $$ΔU = Q + W$$. Un proceso adiabático se define como aquel en el que no hay intercambio de calor con el entorno, por lo que $Q = 0$. Se nos dice que se realiza trabajo sobre el sistema, por lo tanto, el trabajo es positivo: $W = +75$ J. Sustituyendo en la ecuación: $$ΔU = 0 + (+75\\ J)$$, lo que resulta en $$ΔU = +75\\ J$$. La energía interna del sistema aumenta en 75 J.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_093_015",
+      "pregunta": "Durante un proceso, un sistema absorbe 200 J de calor ($Q = +200$ J) y, al mismo tiempo, su energía interna aumenta en 120 J ($ΔU = +120$ J). Según la primera ley de la termodinámica ($ΔU = Q + W$), ¿qué se puede concluir sobre el trabajo ($W$)?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$W = +80$ J; se realizó trabajo sobre el sistema.",
+        "B": "$W = -80$ J; el sistema realizó trabajo.",
+        "C": "$W = +320$ J; se realizó trabajo sobre el sistema.",
+        "D": "$W = -320$ J; el sistema realizó trabajo.",
+        "E": "$W = 0$ J; no hubo trabajo realizado."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Usamos la primera ley de la termodinámica: $$ΔU = Q + W$$. Sustituimos los valores dados: $$+120\\ J = +200\\ J + W$$. Para despejar $W$, restamos 200 J de ambos lados: $$W = 120\\ J - 200\\ J = -80\\ J$$. Un valor de trabajo negativo ($W = -80$ J) significa que el sistema realizó trabajo sobre su entorno. De los 200 J de calor que absorbió, 120 J se usaron para aumentar su energía interna y los 80 J restantes se usaron para realizar trabajo.",
+      "imagen": null
+    }
+  ]
+}

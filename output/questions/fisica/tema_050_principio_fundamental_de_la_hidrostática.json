@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 50,
+  "total_temas": 137,
+  "titulo_tema": "Principio Fundamental de la Hidrostática",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_050_001",
+      "pregunta": "¿Qué magnitud física se define como el peso que posee un cuerpo por cada unidad de volumen?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Densidad",
+        "B": "Presión",
+        "C": "Peso específico",
+        "D": "Masa volumétrica",
+        "E": "Gravedad"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso específico, representado por la letra griega gamma ($$\\gamma$$), es la magnitud que relaciona el peso de un cuerpo con el volumen que ocupa. Su fórmula es $$\\gamma = \\frac{mg}{V}$$, donde $$mg$$ es el peso y $$V$$ es el volumen.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_002",
+      "pregunta": "¿Cuál de las siguientes fórmulas expresa correctamente la relación entre el peso específico ($$\\gamma$$), la densidad ($$\\rho$$) y la aceleración de la gravedad ($$g$$)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$\\gamma = \\frac{\\rho}{g}$$",
+        "B": "$$\\gamma = \\rho + g$$",
+        "C": "$$\\gamma = \\rho \\cdot g^2$$",
+        "D": "$$\\gamma = \\rho \\cdot g$$",
+        "E": "$$\\gamma = \\frac{g}{\\rho}$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El peso específico ($$\\gamma$$) es el producto de la densidad ($$\\rho$$) del material y la aceleración de la gravedad ($$g$$). Esta relación se deriva de la definición $$\\gamma = \\frac{mg}{V}$$ y sabiendo que la densidad es $$\\rho = \\frac{m}{V}$$. Al sustituir, se obtiene $$\\gamma = \\rho \\cdot g$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_003",
+      "pregunta": "¿Qué establece el principio de los vasos comunicantes para un líquido en reposo contenido en ellos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El nivel del líquido es mayor en el recipiente de mayor volumen.",
+        "B": "El líquido alcanza el mismo nivel en todos los recipientes, sin importar su forma.",
+        "C": "La presión es la misma solo en el fondo de cada recipiente.",
+        "D": "El nivel del líquido depende de la forma de la base de cada recipiente.",
+        "E": "El líquido se distribuye en volúmenes iguales en cada recipiente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de los vasos comunicantes establece que, sin importar la forma o el volumen de los recipientes interconectados, un líquido homogéneo en reposo alcanzará siempre la misma altura o nivel en todos ellos. Esto se debe a que la presión a una misma profundidad debe ser igual en todo el fluido para que exista equilibrio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_004",
+      "pregunta": "En el contexto de la hidrostática, ¿qué es una línea isóbara?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una línea que conecta puntos de igual temperatura.",
+        "B": "Una línea que conecta puntos que soportan la misma presión absoluta.",
+        "C": "Una línea que indica el flujo del líquido.",
+        "D": "Una línea que une puntos de igual densidad.",
+        "E": "Una línea que representa la superficie del líquido."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una línea isóbara es una línea imaginaria que conecta todos los puntos dentro de un fluido que se encuentran a la misma presión. En un líquido en reposo, todos los puntos a la misma profundidad horizontal se encuentran en la misma línea isóbara.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_005",
+      "pregunta": "La fórmula $$P_B - P_A = \\rho_{\\text{líq}}gH$$ corresponde a:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La ley de los gases ideales.",
+        "B": "El principio de Arquímedes.",
+        "C": "La definición de peso específico.",
+        "D": "El principio de Pascal.",
+        "E": "El Principio Fundamental de la Hidrostática."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Esta ecuación es la expresión matemática del Principio Fundamental de la Hidrostática. Establece que la diferencia de presiones ($$P_B - P_A$$) entre dos puntos de un líquido es directamente proporcional a la densidad del líquido ($$\\rho_{\\text{líq}}$$), la gravedad ($$g$$) y la diferencia de profundidades ($$H$$) entre los puntos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_006",
+      "pregunta": "¿Qué factores determinan directamente la diferencia de presión entre dos puntos a distintas profundidades dentro de un mismo líquido en reposo?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El volumen total del líquido y la forma del recipiente.",
+        "B": "La presión atmosférica y la temperatura del líquido.",
+        "C": "El peso específico del líquido y la diferencia de profundidades.",
+        "D": "La masa del líquido y el área de la superficie.",
+        "E": "La viscosidad del líquido y la distancia horizontal entre los puntos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Según el Principio Fundamental de la Hidrostática, la diferencia de presiones es $$P_B - P_A = \\rho_{\\text{líq}}gH$$. El término $$\\rho_{\\text{líq}}g$$ es el peso específico ($$\\gamma$$), y $$H$$ es la diferencia de profundidades. Por lo tanto, los únicos factores que determinan esta diferencia son el peso específico del líquido y la separación vertical entre los puntos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_007",
+      "pregunta": "Si dos puntos, A y B, se encuentran a la misma profundidad dentro de un líquido en equilibrio, ¿cuál es la diferencia de presiones $$P_B - P_A$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Es igual al peso específico del líquido.",
+        "B": "Depende de la distancia horizontal que los separa.",
+        "C": "Es positiva, ya que la presión siempre aumenta.",
+        "D": "Es cero.",
+        "E": "Es igual a la presión en la superficie."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La diferencia de presiones se calcula con $$P_B - P_A = \\rho gH$$. Si los puntos están a la misma profundidad, la diferencia de profundidades $$H$$ es cero. Por lo tanto, $$P_B - P_A = \\rho g(0) = 0$$. Esto confirma que todos los puntos en la misma línea isóbara (misma profundidad) tienen la misma presión.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_008",
+      "pregunta": "En la fórmula del Principio Fundamental de la Hidrostática, $$P_B - P_A = \\rho_{\\text{líq}}gH$$, ¿qué representa físicamente el término $$H$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La altura total del líquido en el recipiente.",
+        "B": "La distancia horizontal entre el punto A y el punto B.",
+        "C": "La profundidad absoluta del punto más bajo, B.",
+        "D": "La diferencia de altura vertical entre los niveles de los puntos A y B.",
+        "E": "La altura promedio de los dos puntos."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El término $$H$$ en la ecuación del Principio Fundamental de la Hidrostática representa específicamente la diferencia de profundidades o la distancia vertical que separa los dos puntos, A y B, cuya diferencia de presión se está calculando.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_009",
+      "pregunta": "Manteniendo constante la diferencia de profundidad $$H$$ entre dos puntos, ¿qué sucede con la diferencia de presión $$P_B - P_A$$ si se utiliza un líquido con mayor densidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuye, porque hay más masa.",
+        "B": "Aumenta, porque el peso específico del líquido es mayor.",
+        "C": "No cambia, porque H es constante.",
+        "D": "Se vuelve cero.",
+        "E": "Depende de la forma del recipiente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La diferencia de presión se calcula como $$P_B - P_A = \\rho_{\\text{líq}}gH$$. Si la densidad ($$\\rho_{\\text{líq}}$$) aumenta, y los demás factores ($$g$$ y $$H$$) permanecen constantes, el producto total también aumentará. Una mayor densidad implica un mayor peso específico ($$\\gamma = \\rho g$$), lo que resulta en una mayor diferencia de presión para la misma diferencia de altura.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_010",
+      "pregunta": "La razón por la cual el nivel del líquido es el mismo en los vasos comunicantes, independientemente de su forma, es porque:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El volumen se distribuye equitativamente.",
+        "B": "La presión en cualquier punto a una misma profundidad horizontal debe ser la misma para que el sistema esté en equilibrio.",
+        "C": "La tensión superficial del líquido iguala las alturas.",
+        "D": "El peso total del líquido es el mismo en cada recipiente.",
+        "E": "La gravedad afecta de manera diferente a cada forma de recipiente."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que un líquido esté en reposo (en equilibrio), no debe haber un flujo neto. Si la presión en dos puntos a la misma altura fuera diferente, existiría una fuerza neta que movería el líquido. Por lo tanto, la presión debe ser la misma en todos los puntos de un plano horizontal. Como la presión en la superficie libre es la misma (atmosférica), el nivel del líquido debe ser el mismo en todas partes para mantener este equilibrio.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_011",
+      "pregunta": "¿Qué implicación tiene el Principio Fundamental de la Hidrostática sobre cómo varía la presión con la profundidad en un fluido de densidad constante?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La presión disminuye linealmente con la profundidad.",
+        "B": "La presión aumenta linealmente con la profundidad.",
+        "C": "La presión es constante en cualquier punto del fluido.",
+        "D": "La presión aumenta de forma cuadrática con la profundidad.",
+        "E": "La presión es inversamente proporcional a la profundidad."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula $$P_B - P_A = \\rho gH$$ muestra que la diferencia de presión es directamente proporcional a la diferencia de profundidad $$H$$. Si consideramos el punto A en la superficie ($$P_A$$ es la presión atmosférica) y el punto B a una profundidad $$H$$, la presión $$P_B$$ será $$P_A + \\rho gH$$. Esto indica que la presión aumenta de forma lineal a medida que la profundidad $$H$$ aumenta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_012",
+      "pregunta": "¿Cuál es la expresión correcta para el peso específico ($$\\gamma$$) en términos del peso de un objeto ($$mg$$) y su volumen ($$V$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$\\gamma = mg \\cdot V$$",
+        "B": "$$\\gamma = \\frac{V}{mg}$$",
+        "C": "$$\\gamma = \\frac{m}{V}$$",
+        "D": "$$\\gamma = mg - V$$",
+        "E": "$$\\gamma = \\frac{mg}{V}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La definición de peso específico ($$\\gamma$$) es el peso de una sustancia por unidad de volumen. El peso se representa como el producto de la masa y la gravedad ($$mg$$), y el volumen se representa con $$V$$. Por lo tanto, la fórmula correcta que expresa esta definición es $$\\gamma = \\frac{mg}{V}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_013",
+      "pregunta": "Combinando el Principio Fundamental de la Hidrostática con la definición de peso específico, ¿cuál es una expresión alternativa válida para la diferencia de presiones?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$P_B - P_A = \\frac{\\gamma}{H}$$",
+        "B": "$$P_B - P_A = \\gamma H$$",
+        "C": "$$P_B - P_A = \\gamma + H$$",
+        "D": "$$P_B - P_A = \\frac{H}{\\gamma}$$",
+        "E": "$$P_B - P_A = \\gamma^2 H$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El Principio Fundamental de la Hidrostática es $$P_B - P_A = \\rho_{\\text{líq}}gH$$. La definición de peso específico es $$\\gamma = \\rho_{\\text{líq}}g$$. Si sustituimos el término $$\\rho_{\\text{líq}}g$$ en la primera ecuación por su equivalente, $$\\gamma$$, obtenemos la expresión alternativa $$P_B - P_A = \\gamma H$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_014",
+      "pregunta": "Si la diferencia de presiones $$P_B - P_A$$ entre dos puntos en un líquido es positiva, ¿qué se puede concluir sobre la posición relativa de los puntos A y B?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El punto A está a mayor profundidad que el punto B.",
+        "B": "Los puntos A y B se encuentran en el mismo nivel horizontal.",
+        "C": "El punto B está a mayor profundidad que el punto A.",
+        "D": "El líquido no está en reposo.",
+        "E": "La densidad en el punto A es menor que en el punto B."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La presión en un líquido en reposo aumenta con la profundidad. La expresión $$P_B - P_A$$ indica la diferencia de presión en B respecto a A. Si este valor es positivo, significa que la presión en el punto B ($$P_B$$) es mayor que la presión en el punto A ($$P_A$$). Para que esto ocurra, el punto B debe estar situado a una mayor profundidad que el punto A.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_050_015",
+      "pregunta": "En un sistema de vasos comunicantes de formas muy distintas (uno delgado, uno ancho y uno inclinado), todos abiertos a la atmósfera, ¿por qué la altura final del líquido es la misma en todos?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque el peso del líquido en cada recipiente debe ser idéntico.",
+        "B": "Porque el volumen de líquido se ajusta para igualar las alturas.",
+        "C": "Porque la presión en la superficie libre es la misma (atmosférica) y para que haya equilibrio, la presión en cualquier plano horizontal inferior debe ser también la misma.",
+        "D": "Porque la fuerza ejercida por el líquido en el fondo de cada recipiente es la misma.",
+        "E": "Porque los efectos de la capilaridad y la tensión superficial dominan sobre la gravedad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este fenómeno, conocido como la paradoja hidrostática, se explica por el Principio Fundamental. La superficie libre del líquido en todos los recipientes está expuesta a la misma presión atmosférica. Para que el líquido esté en equilibrio, la presión en cualquier punto de un mismo plano horizontal debe ser constante. La única forma de lograr esto es que la columna de líquido por encima de ese plano tenga la misma altura ($$H$$) en todos los recipientes, ya que la presión debida al líquido ($$\\rho gH$$) depende solo de la altura, no de la forma ni del volumen.",
+      "imagen": null
+    }
+  ]
+}

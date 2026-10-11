@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 82,
+  "total_temas": 137,
+  "titulo_tema": "Equivalente Mecánico del Calor",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_082_001",
+      "pregunta": "¿Qué símbolo se utiliza comúnmente para representar el calor al ser considerado una energía en tránsito?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$T$",
+        "B": "$J$",
+        "C": "$C$",
+        "D": "$Q$",
+        "E": "$E$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "En física, el símbolo $Q$ se utiliza para designar el calor. Es importante recordar que el calor es una forma de energía que se transfiere de un sistema a otro debido a una diferencia de temperatura, y no es algo que un objeto posea o almacene.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_002",
+      "pregunta": "¿Cuál es la unidad de medida para el calor en el Sistema Internacional (SI)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Caloría (cal)",
+        "B": "Grado Celsius (°C)",
+        "C": "Joule (J)",
+        "D": "Watt (W)",
+        "E": "Newton (N)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que el calor es una forma de energía, su unidad en el Sistema Internacional (SI) es el joule, simbolizado como $J$. Aunque la caloría (cal) también se usa, no es una unidad del SI.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_003",
+      "pregunta": "De acuerdo con su definición original, una caloría (cal) es la cantidad de calor necesaria para...",
+      "dificultad": 1,
+      "opciones": {
+        "A": "calentar 1 kg de agua en 10 °C",
+        "B": "evaporar 1 g de agua",
+        "C": "calentar 1 g de agua en 1 °C",
+        "D": "fundir 1 g de hielo",
+        "E": "realizar un trabajo de 4,186 J"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La definición original de la caloría se estableció en términos de las propiedades del agua. Específicamente, una caloría es la cantidad de calor requerida para elevar la temperatura de 1 gramo de agua en 1 grado Celsius.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_004",
+      "pregunta": "¿Cuál es la equivalencia numérica aceptada actualmente entre una caloría y joules?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1 \\text{ cal} = 0,24 \\text{ J}$$",
+        "B": "$$1 \\text{ cal} = 1 \\text{ J}$$",
+        "C": "$$1 \\text{ cal} = 9,8 \\text{ J}$$",
+        "D": "$$1 \\text{ cal} = 1000 \\text{ J}$$",
+        "E": "$$1 \\text{ cal} = 4,186 \\text{ J}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La relación que define el equivalente mecánico del calor establece que una caloría es igual a 4,186 joules. Esta conversión es fundamental para relacionar la energía térmica medida en calorías con la energía mecánica medida en joules.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_005",
+      "pregunta": "¿Cuál es la conversión correcta de 1 joule (J) a calorías (cal)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "$$1 \\text{ J} = 4,186 \\text{ cal}$$",
+        "B": "$$1 \\text{ J} = 1 \\text{ cal}$$",
+        "C": "$$1 \\text{ J} = 0,24 \\text{ cal}$$",
+        "D": "$$1 \\text{ J} = 100 \\text{ cal}$$",
+        "E": "$$1 \\text{ J} = 4186 \\text{ cal}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Sabiendo que $$1 \\text{ cal} = 4,186 \\text{ J}$$, podemos encontrar el valor de 1 joule en calorías dividiendo 1 entre 4,186: $$1 \\text{ J} = \\frac{1}{4,186} \\text{ cal} \\approx 0,24 \\text{ cal}$$. Por lo tanto, un joule es aproximadamente un cuarto de caloría.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_006",
+      "pregunta": "Considerando la naturaleza del calor, ¿por qué es conceptualmente incorrecto afirmar que un objeto \"contiene calor\"?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el calor es lo mismo que la temperatura.",
+        "B": "Porque el calor es una energía en tránsito y no algo que se pueda almacenar.",
+        "C": "Porque solo los gases pueden contener calor.",
+        "D": "Porque el calor se mide en joules, que es una unidad de trabajo.",
+        "E": "Porque el calor es una propiedad química, no física."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El calor ($Q$) no es una propiedad intrínseca de un objeto ni una forma de energía que se pueda almacenar. Se define como energía en tránsito, es decir, energía que se transfiere de un cuerpo a otro debido a una diferencia de temperatura. Lo que un cuerpo almacena es energía interna, no calor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_007",
+      "pregunta": "En el experimento de James Joule sobre el equivalente mecánico del calor, ¿qué transformación de energía fundamental se demuestra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Energía química en energía térmica.",
+        "B": "Energía cinética en energía potencial.",
+        "C": "Energía potencial gravitatoria en energía térmica.",
+        "D": "Energía térmica en energía mecánica.",
+        "E": "Energía eléctrica en energía térmica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El aparato de Joule fue diseñado para mostrar que la energía mecánica podía convertirse en energía térmica. Al caer, las pesas pierden energía potencial gravitatoria, la cual se transfiere a las paletas que agitan el agua. Esta agitación aumenta la energía interna del agua, manifestándose como un incremento en su temperatura. Por lo tanto, demuestra la conversión de energía potencial gravitatoria en energía térmica.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_008",
+      "pregunta": "¿Cuál es el efecto directo del giro de las paletas dentro del agua en el aparato de Joule?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Disminuir la presión del agua.",
+        "B": "Aumentar la energía potencial del agua.",
+        "C": "Causar un incremento en la temperatura del agua.",
+        "D": "Enfriar el recipiente por convección.",
+        "E": "Generar una corriente eléctrica."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el experimento, la caída de la pesa hace que las paletas giren. El movimiento de las paletas agita el agua, realizando un trabajo sobre ella. Esta agitación aumenta la energía cinética de las moléculas de agua, lo que se traduce macroscópicamente en un aumento de la temperatura del agua.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_009",
+      "pregunta": "El concepto de \"equivalente mecánico del calor\" se refiere a:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La temperatura a la que hierve el agua.",
+        "B": "La idea de que el calor y el trabajo son conceptos idénticos.",
+        "C": "La cantidad de energía mecánica que debe transformarse para generar una unidad de calor.",
+        "D": "La eficiencia máxima de un motor.",
+        "E": "La capacidad de un material para conducir el calor."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El \"equivalente mecánico del calor\" es el factor de conversión que relaciona la unidad de energía mecánica (joule) con la unidad de energía térmica (caloría). Específicamente, establece cuánta energía mecánica (trabajo) se necesita para producir una cantidad definida de calor, cuantificado en la relación $$1 \\text{ cal} = 4,186 \\text{ J}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_010",
+      "pregunta": "En el experimento de Joule, ¿qué le sucede a la energía potencial de la pesa a medida que cae?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se convierte en energía química.",
+        "B": "Se destruye completamente.",
+        "C": "Aumenta a medida que cae.",
+        "D": "Se transforma en energía para agitar el agua.",
+        "E": "Se almacena en las paletas."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "A medida que la pesa cae, su energía potencial gravitatoria disminuye. Esta energía no se pierde, sino que se transforma. El mecanismo del aparato transfiere esta energía al eje de las paletas, haciéndolas girar y agitar el agua, lo que finalmente incrementa la temperatura del líquido.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_011",
+      "pregunta": "¿Qué demostración cuantitativa logró James Joule con su experimento?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que 1 kg de agua necesita 1000 calorías para hervir.",
+        "B": "Que la energía no se crea ni se destruye.",
+        "C": "Que $$4,186 \\text{ J}$$ de trabajo mecánico elevan la temperatura de 1 g de agua en 1 °C.",
+        "D": "Que la temperatura es proporcional a la presión.",
+        "E": "Que el calor específico del agua es $$1 \\frac{\\text{cal}}{\\text{g °C}}$$. "
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El experimento de Joule no solo demostró cualitativamente la conversión de trabajo en calor, sino que también la cuantificó. Sus mediciones establecieron que una cantidad específica de trabajo mecánico, aproximadamente $$4,186 \\text{ J}$$, produce la misma elevación de temperatura en 1 gramo de agua que 1 caloría de calor, estableciendo así el equivalente mecánico.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_012",
+      "pregunta": "Si el calor es una forma de energía, ¿por qué existen dos unidades comunes como el joule ($J$) y la caloría ($cal$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque el joule mide trabajo y la caloría mide calor, y no son lo mismo.",
+        "B": "Porque la caloría es la unidad del SI y el joule es una unidad antigua.",
+        "C": "Por razones históricas; la caloría se definió en el contexto de la termodinámica del agua, mientras que el joule se definió en el de la mecánica.",
+        "D": "Porque el joule se usa para energía eléctrica y la caloría para energía térmica.",
+        "E": "Porque no hay una equivalencia fija entre ellas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La existencia de ambas unidades se debe a su desarrollo histórico en diferentes campos de la física. La caloría surgió de estudios sobre el calor y la termodinámica, ligada a las propiedades del agua. El joule surgió de la mecánica, como unidad de trabajo y energía. El trabajo de Joule demostró que ambos conceptos estaban relacionados y que representaban la misma magnitud física (energía), estableciendo una equivalencia entre ambas unidades.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_013",
+      "pregunta": "Si un sistema mecánico realiza un trabajo de agitación sobre el agua equivalente a $$8,372 \\text{ J}$$, ¿a cuántas calorías corresponde esta energía transferida?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$0,5 \\text{ cal}$$",
+        "B": "$$1 \\text{ cal}$$",
+        "C": "$$2 \\text{ cal}$$",
+        "D": "$$4,186 \\text{ cal}$$",
+        "E": "$$35,01 \\text{ cal}$$"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Para convertir joules a calorías, se utiliza la relación del equivalente mecánico del calor: $$1 \\text{ cal} = 4,186 \\text{ J}$$. Por lo tanto, para encontrar el número de calorías, dividimos la cantidad de energía en joules por el factor de conversión: $$\\text{Calorías} = \\frac{8,372 \\text{ J}}{4,186 \\frac{\\text{J}}{\\text{cal}}} = 2 \\text{ cal}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_014",
+      "pregunta": "El experimento de Joule, que establece una equivalencia entre la energía potencial perdida por una pesa y el aumento de la temperatura del agua, es una demostración experimental del principio de:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Principio de Arquímedes",
+        "B": "Conservación de la energía",
+        "C": "Segunda ley de Newton",
+        "D": "Ley de enfriamiento de Newton",
+        "E": "Conservación de la masa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El experimento es una de las demostraciones clave del principio de conservación de la energía. Muestra que la energía no se crea ni se destruye, sino que se transforma de una forma a otra. En este caso, la energía potencial gravitatoria de la pesa se convierte en trabajo mecánico de las paletas, que a su vez se convierte en energía interna del agua, manifestada como un aumento de temperatura (calor).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_082_015",
+      "pregunta": "¿Qué implicación fundamental tiene el concepto del equivalente mecánico del calor sobre la naturaleza del trabajo y el calor?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El trabajo es una forma de energía más organizada que el calor.",
+        "B": "El calor solo puede generarse a partir de trabajo mecánico.",
+        "C": "El trabajo mecánico y el calor son formas distintas e interconvertibles de energía.",
+        "D": "La energía siempre se degrada en forma de calor.",
+        "E": "El calor y el trabajo no pueden existir en el mismo sistema simultáneamente."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El descubrimiento del equivalente mecánico del calor fue revolucionario porque demostró que el trabajo (un concepto de la mecánica) y el calor (un concepto de la termodinámica) no eran fenómenos fundamentalmente diferentes, sino dos manifestaciones de la misma entidad física: la energía. Estableció que una cantidad de trabajo puede convertirse en una cantidad equivalente de calor, y viceversa, unificando así la mecánica y la termodinámica bajo el principio más amplio de la conservación de la energía.",
+      "imagen": null
+    }
+  ]
+}

@@ -6,227 +6,227 @@
   "preguntas": [
     {
       "id_temporal": "quimica_166_001",
-      "pregunta": "¿Qué productos se generan fundamentalmente en una reacción de neutralización?",
+      "pregunta": "¿Qué productos se obtienen de una reacción de neutralización entre un ácido y una base?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un ácido y una base",
+        "A": "Sal y un hidróxido",
         "B": "Sal y agua",
-        "C": "Un anhídrido y agua",
-        "D": "Solo una sal",
-        "E": "Solo agua"
+        "C": "Ácido y agua",
+        "D": "Solamente una sal",
+        "E": "Un anhídrido y agua"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Una reacción de neutralización es un proceso químico en el que un ácido y una base (específicamente un hidróxido) reaccionan entre sí. Los productos característicos de esta reacción son siempre una sal y agua. Las otras opciones describen reactivos o productos incompletos.",
+      "explicacion": "Una reacción de neutralización es un proceso químico en el que un ácido y una base (como un hidróxido) reaccionan para formar dos productos neutros: una sal y agua. Esta es la base de la formación de la función sal.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_002",
-      "pregunta": "¿Cómo se define una sal desde el punto de vista de su formación química?",
+      "pregunta": "¿Cómo se define la \"Función Sal\" en términos de su origen químico?",
       "dificultad": 1,
       "opciones": {
-        "A": "Como la combinación de un no metal con oxígeno.",
-        "B": "Como un compuesto que contiene exclusivamente hidrógeno y un no metal.",
+        "A": "Como el producto de la reacción de dos ácidos.",
+        "B": "Como el resultado de combinar un óxido con agua.",
         "C": "Como el producto de la reacción entre un ácido y una base.",
-        "D": "Como la sustancia resultante de combinar un anhídrido con agua.",
-        "E": "Como cualquier compuesto iónico disuelto en agua."
+        "D": "Como una sustancia que libera iones de hidrógeno en agua.",
+        "E": "Como una mezcla de un metal y un no metal."
       },
       "respuesta_correcta": "C",
-      "explicacion": "Las sales son compuestos iónicos que resultan de la reacción de neutralización entre un ácido (ya sea oxácido o hidrácido) y una base (hidróxido). Las demás opciones describen otros tipos de compuestos: un óxido ácido (A), un hidrácido (B) o un ácido oxácido (D).",
+      "explicacion": "Las sales son compuestos que resultan de una reacción específica llamada neutralización. Esta reacción ocurre cuando un ácido (ya sea oxácido o hidrácido) se combina con una base (un hidróxido), produciendo sal y agua.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_003",
-      "pregunta": "¿Cuál es la fórmula general para la formación de un ácido polihidratado de tipo 'meta'?",
+      "pregunta": "Según su composición, ¿en qué dos grandes grupos se dividen las sales?",
       "dificultad": 1,
       "opciones": {
-        "A": "2 Anhídridos + 1 $$H_2O$$",
-        "B": "1 Anhídrido + 2 $$H_2O$$",
-        "C": "1 Anhídrido + 3 $$H_2O$$",
-        "D": "1 Anhídrido + 1 $$H_2O$$",
-        "E": "2 Anhídridos + 2 $$H_2O$$"
+        "A": "Ácidas y básicas",
+        "B": "Metálicas y no metálicas",
+        "C": "Orgánicas e inorgánicas",
+        "D": "Simples y complejas",
+        "E": "Binarias (haloideas) y ternarias (oxisales)"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Los ácidos 'meta' son el tipo más simple de ácido polihidratado y se forman por la adición de una sola molécula de agua a una sola molécula de anhídrido. Las otras combinaciones corresponden a la formación de ácidos 'piro' u 'orto' dependiendo del estado de oxidación del elemento central.",
+      "respuesta_correcta": "E",
+      "explicacion": "Las sales se clasifican en dos tipos principales: las sales binarias o haloideas, formadas por la reacción con un hidrácido (ácido sin oxígeno), y las sales ternarias u oxisales, que se forman a partir de la reacción con un oxácido (ácido que contiene oxígeno).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_004",
-      "pregunta": "Según su composición, las sales se dividen principalmente en dos categorías, que son:",
+      "pregunta": "¿Cuál es la fórmula general para la formación de un ácido de tipo \"meta\"?",
       "dificultad": 1,
       "opciones": {
-        "A": "Ácidas y básicas",
-        "B": "Orgánicas e inorgánicas",
-        "C": "Simples y compuestas",
-        "D": "Neutras y dobles",
-        "E": "Binarias (haloideas) y ternarias (oxisales)"
+        "A": "$$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$",
+        "B": "$$2 \\text{ Anhídridos} + 1 \\text{ H}_2\\text{O}$$",
+        "C": "$$1 \\text{ Anhídrido} + 1 \\text{ H}_2\\text{O}$$",
+        "D": "$$1 \\text{ Anhídrido} + 3 \\text{ H}_2\\text{O}$$",
+        "E": "$$2 \\text{ Anhídridos} + 2 \\text{ H}_2\\text{O}$$"
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Las sales se clasifican en dos grupos principales: las sales binarias o haloideas, que provienen de hidrácidos y no contienen oxígeno; y las sales ternarias u oxisales, que provienen de ácidos oxácidos y sí contienen oxígeno en su estructura.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los ácidos polihidratados que llevan el prefijo \"meta\" se caracterizan por tener el menor grado de hidratación. Se forman por la reacción de una molécula de anhídrido con una sola molécula de agua, representada por la fórmula: $$1 \\text{ Anhídrido} + 1 \\text{ H}_2\\text{O}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_005",
-      "pregunta": "¿Cómo se nombra correctamente un ácido polihidratado para diferenciarlo de un ácido oxácido 'normal'?",
+      "pregunta": "¿Qué elemento se añade al nombre de un ácido oxácido para indicar que es un ácido polihidratado de tipo meta, piro u orto?",
       "dificultad": 1,
       "opciones": {
-        "A": "Añadiendo el sufijo '-hídrico' al final.",
-        "B": "Cambiando la terminación '-ico' por '-oso'.",
-        "C": "Anteponiendo el prefijo 'meta', 'piro' u 'orto' al nombre del ácido.",
-        "D": "Usando números romanos para indicar la hidratación.",
-        "E": "Añadiendo la palabra 'polihidratado' después del nombre."
+        "A": "Un sufijo numérico",
+        "B": "El nombre del metal",
+        "C": "Un prefijo correspondiente ('meta', 'piro' u 'orto')",
+        "D": "El estado de oxidación en números romanos",
+        "E": "La palabra \"polihidratado\""
       },
       "respuesta_correcta": "C",
-      "explicacion": "La nomenclatura específica para los ácidos polihidratados consiste en anteponer el prefijo correspondiente ('meta', 'piro' u 'orto') al nombre del ácido oxácido del que derivan. Esto indica el grado de hidratación del anhídrido original.",
+      "explicacion": "La nomenclatura de los ácidos polihidratados se basa en el nombre del ácido oxácido convencional, al cual se le antepone un prefijo que especifica su grado de hidratación. Estos prefijos son 'meta', 'piro' u 'orto'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_006",
-      "pregunta": "Para un elemento cuyo estado de oxidación (E.O.) es par, ¿cuál es la combinación de reactivos para formar un ácido 'orto'?",
+      "pregunta": "Un ácido polihidratado se forma a partir de $$1 \\text{ Anhídrido} + 3 \\text{ H}_2\\text{O}$$. ¿Qué tipo de ácido es y qué característica debe tener el estado de oxidación (E.O.) del elemento central?",
       "dificultad": 2,
       "opciones": {
-        "A": "1 Anhídrido + 1 $$H_2O$$",
-        "B": "2 Anhídridos + 1 $$H_2O$$",
-        "C": "1 Anhídrido + 3 $$H_2O$$",
-        "D": "1 Anhídrido + 2 $$H_2O$$",
-        "E": "2 Anhídridos + 3 $$H_2O$$"
+        "A": "Ácido Piro, con E.O. par.",
+        "B": "Ácido Meta, con E.O. impar.",
+        "C": "Ácido Orto, con E.O. impar.",
+        "D": "Ácido Orto, con E.O. par.",
+        "E": "Ácido Piro, con E.O. impar."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La regla para formar un ácido 'orto' depende del estado de oxidación (E.O.) del elemento central. Específicamente, cuando el E.O. es par, se requiere la combinación de 1 molécula de anhídrido con 2 moléculas de agua. La opción C (1 Anhídrido + 3 $$H_2O$$) corresponde a un ácido 'orto' con E.O. impar.",
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula de formación $$1 \\text{ Anhídrido} + 3 \\text{ H}_2\\text{O}$$ corresponde a un ácido de tipo \"Orto\". Específicamente, esta combinación de máxima hidratación se utiliza cuando el estado de oxidación (E.O.) del elemento no metálico central es impar.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_007",
-      "pregunta": "¿Qué tipo de ácido se requiere, además de un hidróxido, para formar una sal ternaria u oxisal?",
+      "pregunta": "Una reacción de neutralización, que da como productos una sal y agua, se caracteriza por la interacción entre:",
       "dificultad": 2,
       "opciones": {
-        "A": "Un hidrácido",
-        "B": "Un ácido 'meta'",
-        "C": "Un ácido oxácido",
-        "D": "Un ácido 'piro'",
-        "E": "Un peróxido"
+        "A": "Un anhídrido y un hidróxido.",
+        "B": "Un ácido (oxácido o hidrácido) y un hidróxido.",
+        "C": "Un óxido básico y un óxido ácido.",
+        "D": "Dos ácidos de diferente tipo.",
+        "E": "Un metal y agua."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Las sales se forman por la reacción de un ácido y una base. Las sales ternarias, también llamadas oxisales, se caracterizan por contener oxígeno. Este oxígeno proviene del ácido original, que debe ser un ácido oxácido. Los hidrácidos, por su parte, forman sales binarias o haloideas.",
+      "respuesta_correcta": "B",
+      "explicacion": "La reacción de neutralización es la reacción fundamental para la formación de sales. Involucra un reactivo con propiedades ácidas, que puede ser tanto un oxácido como un hidrácido, y un reactivo con propiedades básicas, que es un hidróxido.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_008",
-      "pregunta": "Si un elemento tiene un estado de oxidación (E.O.) impar, ¿cuál es la fórmula de formación para su correspondiente ácido 'piro'?",
+      "pregunta": "¿Cuál es la diferencia fundamental en la cantidad de moléculas de agua necesarias para formar un ácido \"orto\" si el estado de oxidación (E.O.) del elemento central es par en comparación con si es impar?",
       "dificultad": 2,
       "opciones": {
-        "A": "2 Anhídridos + 1 $$H_2O$$",
-        "B": "1 Anhídrido + 1 $$H_2O$$",
-        "C": "1 Anhídrido + 2 $$H_2O$$",
-        "D": "1 Anhídrido + 3 $$H_2O$$",
-        "E": "2 Anhídridos + 3 $$H_2O$$"
+        "A": "Se usa $$1 \\text{ H}_2\\text{O}$$ para E.O. par y $$2 \\text{ H}_2\\text{O}$$ para E.O. impar.",
+        "B": "Se usa $$2 \\text{ H}_2\\text{O}$$ para E.O. par y $$3 \\text{ H}_2\\text{O}$$ para E.O. impar.",
+        "C": "No hay diferencia, siempre se usa $$1 \\text{ H}_2\\text{O}$$.",
+        "D": "Se usa $$3 \\text{ H}_2\\text{O}$$ para E.O. par y $$2 \\text{ H}_2\\text{O}$$ para E.O. impar.",
+        "E": "Se usa $$1 \\text{ Anhídrido}$$ para E.O. par y $$2 \\text{ Anhídridos}$$ para E.O. impar."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La formación de los ácidos 'piro' tiene reglas distintas según la paridad del estado de oxidación. Para un E.O. impar, la regla específica es combinar 1 molécula de anhídrido con 2 moléculas de agua. La opción A corresponde a la formación de un ácido 'piro' con E.O. par.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para los ácidos \"orto\", la cantidad de agua depende de la paridad del estado de oxidación del elemento central. Se combinan $$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$ si el E.O. es par, mientras que se combinan $$1 \\text{ Anhídrido} + 3 \\text{ H}_2\\text{O}$$ si el E.O. es impar.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_009",
-      "pregunta": "¿Cuál es la principal diferencia en los reactivos necesarios para formar un ácido 'orto' a partir de un anhídrido con E.O. par frente a uno con E.O. impar?",
+      "pregunta": "¿Qué propiedad del anhídrido inicial determina las dos posibles vías de formación para un ácido de tipo \"piro\"?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se usan 2 anhídridos para E.O. par y 1 para E.O. impar.",
-        "B": "Se usa 1 molécula de $$H_2O$$ para E.O. par y 2 para E.O. impar.",
-        "C": "No hay diferencia en los reactivos.",
-        "D": "Se usan 2 moléculas de $$H_2O$$ para E.O. par y 3 para E.O. impar.",
-        "E": "Se usa 1 anhídrido para E.O. par y 2 para E.O. impar."
+        "A": "Su masa molecular.",
+        "B": "Su estado de agregación (sólido, líquido o gas).",
+        "C": "La paridad de su estado de oxidación (par o impar).",
+        "D": "Si es un óxido metálico o no metálico.",
+        "E": "Su punto de ebullición."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "En ambos casos se utiliza 1 molécula de anhídrido, pero la cantidad de agua varía. Para un ácido 'orto' con E.O. par se necesitan 2 moléculas de $$H_2O$$, mientras que para un ácido 'orto' con E.O. impar se necesitan 3 moléculas de $$H_2O$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "La formación de un ácido \"piro\" sigue dos reglas distintas que dependen directamente de si el estado de oxidación (E.O.) del elemento central en el anhídrido es par o impar. Para E.O. par se usan $$2 \\text{ Anhídridos} + 1 \\text{ H}_2\\text{O}$$, y para E.O. impar se usa $$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_010",
-      "pregunta": "Considerando las reglas de formación, ¿qué tipo de ácido polihidratado se forma siempre con una sola molécula de anhídrido y una sola de agua?",
+      "pregunta": "Si un compuesto se clasifica como una sal ternaria u oxisal, se puede deducir que se formó a partir de la reacción entre un hidróxido y un:",
       "dificultad": 2,
       "opciones": {
-        "A": "Piro con E.O. par",
-        "B": "Orto con E.O. impar",
-        "C": "Piro con E.O. impar",
-        "D": "Meta",
-        "E": "Orto con E.O. par"
+        "A": "Hidrácido.",
+        "B": "Oxácido.",
+        "C": "Óxido básico.",
+        "D": "Anhídrido.",
+        "E": "No metal."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La formación del ácido 'meta' es la única que tiene una regla constante e independiente del estado de oxidación del elemento central: siempre es la reacción de 1 anhídrido con 1 molécula de agua. Las formaciones de 'piro' y 'orto' dependen de si el E.O. es par o impar.",
+      "respuesta_correcta": "B",
+      "explicacion": "Las sales se dividen en binarias (haloideas) y ternarias (oxisales). Las sales ternarias, que contienen oxígeno en su anión, provienen necesariamente de la neutralización de un hidróxido con un oxácido (un ácido que contiene oxígeno). Las sales binarias, en cambio, provienen de hidrácidos (ácidos sin oxígeno).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_011",
-      "pregunta": "Una sal binaria o haloidea es el resultado de la reacción de neutralización entre un hidróxido y un:",
+      "pregunta": "Para un elemento que forma un anhídrido con un estado de oxidación par, ¿cuál es la combinación correcta de reactivos para formar el ácido \"piro\" correspondiente?",
       "dificultad": 2,
       "opciones": {
-        "A": "Anhídrido",
-        "B": "Ácido oxácido",
-        "C": "Óxido básico",
-        "D": "Hidrácido",
-        "E": "Ácido polihidratado"
+        "A": "$$1 \\text{ Anhídrido} + 1 \\text{ H}_2\\text{O}$$",
+        "B": "$$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$",
+        "C": "$$1 \\text{ Anhídrido} + 3 \\text{ H}_2\\text{O}$$",
+        "D": "$$2 \\text{ Anhídridos} + 1 \\text{ H}_2\\text{O}$$",
+        "E": "$$2 \\text{ Anhídridos} + 3 \\text{ H}_2\\text{O}$$"
       },
       "respuesta_correcta": "D",
-      "explicacion": "Las sales se clasifican según el ácido del que provienen. Las sales binarias o haloideas, que no contienen oxígeno, se forman cuando la base (hidróxido) neutraliza a un hidrácido (un ácido binario compuesto de hidrógeno y un no metal). Los ácidos oxácidos forman sales ternarias (oxisales).",
+      "explicacion": "La regla específica para la formación de ácidos piro cuando el estado de oxidación del elemento central es par indica que se deben combinar dos moléculas de anhídrido con una molécula de agua. La fórmula de esta reacción es $$2 \\text{ Anhídridos} + 1 \\text{ H}_2\\text{O}$$.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_012",
-      "pregunta": "¿En qué situación específica se utiliza la misma cantidad de moléculas de agua ($$H_2O$$) para formar un ácido 'orto' y un ácido 'piro'?",
+      "pregunta": "Comparando un ácido \"meta\" y un ácido \"orto\" derivados de un mismo anhídrido con estado de oxidación impar, ¿cuál es la diferencia en el número de moléculas de agua utilizadas?",
       "dificultad": 2,
       "opciones": {
-        "A": "Cuando ambos tienen E.O. par.",
-        "B": "Cuando el 'orto' tiene E.O. par y el 'piro' tiene E.O. impar.",
-        "C": "Cuando ambos tienen E.O. impar.",
-        "D": "Cuando el 'orto' tiene E.O. impar y el 'piro' tiene E.O. par.",
-        "E": "Esta situación nunca ocurre."
+        "A": "El ácido \"orto\" usa una molécula de agua más que el \"meta\".",
+        "B": "El ácido \"orto\" usa dos moléculas de agua más que el \"meta\".",
+        "C": "El ácido \"meta\" usa una molécula de agua más que el \"orto\".",
+        "D": "Usan la misma cantidad de moléculas de agua.",
+        "E": "El ácido \"orto\" usa el doble de moléculas de anhídrido."
       },
       "respuesta_correcta": "B",
-      "explicacion": "Esta pregunta requiere comparar las reglas de formación. Un ácido 'orto' con E.O. par se forma con 1 Anhídrido + 2 $$H_2O$$. Un ácido 'piro' con E.O. impar se forma con 1 Anhídrido + 2 $$H_2O$$. En ambos casos se utilizan 2 moléculas de agua.",
+      "explicacion": "Para un anhídrido con estado de oxidación (E.O.) impar, las fórmulas son:\n- Ácido Meta: $$1 \\text{ Anhídrido} + 1 \\text{ H}_2\\text{O}$$\n- Ácido Orto: $$1 \\text{ Anhídrido} + 3 \\text{ H}_2\\text{O}$$\nLa diferencia en el número de moléculas de agua es $$3 - 1 = 2$$. Por lo tanto, el ácido \"orto\" utiliza dos moléculas de agua más que el ácido \"meta\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_013",
-      "pregunta": "Si un ácido polihidratado se forma por la reacción de 2 moléculas de anhídrido con 1 molécula de agua, ¿qué se puede concluir sobre el tipo de ácido y el estado de oxidación (E.O.) del elemento?",
+      "pregunta": "Si se sabe que un ácido polihidratado se formó siguiendo la reacción $$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$, y que el estado de oxidación del elemento central es impar, ¿de qué tipo de ácido se trata?",
       "dificultad": 3,
       "opciones": {
-        "A": "Es un ácido 'orto' con E.O. par.",
-        "B": "Es un ácido 'piro' con E.O. par.",
-        "C": "Es un ácido 'piro' con E.O. impar.",
-        "D": "Es un ácido 'meta' con cualquier E.O.",
-        "E": "Es un ácido 'orto' con E.O. impar."
+        "A": "Ácido Meta",
+        "B": "Ácido Orto",
+        "C": "Ácido Piro",
+        "D": "Es una combinación imposible según las reglas.",
+        "E": "Ácido Dihidratado"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Analizando las reglas de formación, la única que corresponde a la combinación de 2 moléculas de anhídrido con 1 molécula de agua es la del ácido 'piro' cuando el elemento central tiene un estado de oxidación par. Las demás opciones corresponden a otras combinaciones de reactivos.",
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta requiere una aplicación cuidadosa de las reglas. La fórmula $$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$ se asocia a dos casos posibles: un ácido \"orto\" si el estado de oxidación (E.O.) es par, o un ácido \"piro\" si el E.O. es impar. Dado que se especifica que el estado de oxidación es impar, la única opción correcta es que se trata de un ácido \"piro\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_014",
-      "pregunta": "Se observa que un ácido se forma al reaccionar 1 molécula de anhídrido con 2 moléculas de $$H_2O$$. ¿Qué dos posibilidades existen para el tipo de ácido y el estado de oxidación (E.O.) del elemento central?",
+      "pregunta": "Se observa la formación de un ácido polihidratado a partir de la combinación de una molécula de anhídrido y dos moléculas de agua ($$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$). ¿Qué dos posibilidades existen para la clasificación de este ácido, dependiendo de la paridad del estado de oxidación (E.O.) del elemento central?",
       "dificultad": 3,
       "opciones": {
-        "A": "Ácido 'meta' con E.O. par, o ácido 'piro' con E.O. impar.",
-        "B": "Ácido 'piro' con E.O. par, o ácido 'orto' con E.O. impar.",
-        "C": "Ácido 'orto' con E.O. impar, o ácido 'meta' con cualquier E.O.",
-        "D": "Ácido 'piro' con E.O. impar, o ácido 'orto' con E.O. par.",
-        "E": "Solo es posible que sea un ácido 'orto' con E.O. par."
+        "A": "Podría ser Meta (E.O. par) o Piro (E.O. impar).",
+        "B": "Podría ser Piro (E.O. par) o Meta (E.O. impar).",
+        "C": "Solo puede ser un ácido Orto, sin importar el E.O.",
+        "D": "Podría ser Orto (E.O. par) o Piro (E.O. impar).",
+        "E": "Podría ser Orto (E.O. impar) o Piro (E.O. par)."
       },
       "respuesta_correcta": "D",
-      "explicacion": "Esta pregunta requiere identificar todas las reglas que coinciden con la fórmula '1 Anhídrido + 2 $$H_2O$$'. Hay dos casos: 1) La formación de un ácido 'piro' cuando el elemento central tiene un E.O. impar. 2) La formación de un ácido 'orto' cuando el elemento central tiene un E.O. par. Por lo tanto, ambas son posibilidades válidas para esa combinación de reactivos.",
+      "explicacion": "Analizando las reglas de formación para los ácidos polihidratados:\n- La fórmula $$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$ se utiliza para formar ácidos \"orto\" cuando el estado de oxidación (E.O.) del elemento central es par.\n- La misma fórmula, $$1 \\text{ Anhídrido} + 2 \\text{ H}_2\\text{O}$$, se utiliza también para formar ácidos \"piro\" cuando el estado de oxidación (E.O.) del elemento central es impar.\nPor lo tanto, sin conocer la paridad del E.O., el ácido resultante podría ser \"orto\" o \"piro\".",
       "imagen": null
     },
     {
       "id_temporal": "quimica_166_015",
-      "pregunta": "¿Qué tipo de ácido polihidratado ('meta', 'piro' u 'orto') muestra la mayor variación en su estequiometría de formación (número de moléculas de anhídrido y agua) dependiendo de si el E.O. del elemento es par o impar?",
+      "pregunta": "¿Qué tipo(s) de ácido(s) polihidratado(s) se forman siempre a partir de una única molécula de anhídrido, sin importar si el estado de oxidación del elemento central es par o impar?",
       "dificultad": 3,
       "opciones": {
-        "A": "Meta",
-        "B": "Piro",
-        "C": "Orto",
-        "D": "Meta y Orto por igual",
-        "E": "Todos varían de la misma manera"
+        "A": "Solo el ácido Piro.",
+        "B": "Solo el ácido Meta.",
+        "C": "Los ácidos Meta y Orto.",
+        "D": "Los ácidos Piro y Orto.",
+        "E": "Ninguno, todos dependen de la paridad del E.O."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para analizar la variación, comparamos las fórmulas para E.O. par e impar:\n- Meta: Siempre es 1 Anhídrido + 1 $$H_2O$$. (Sin variación)\n- Orto: 1 Anhídrido + 2 $$H_2O$$ (par) vs 1 Anhídrido + 3 $$H_2O$$ (impar). (Varía la cantidad de agua)\n- Piro: 2 Anhídridos + 1 $$H_2O$$ (par) vs 1 Anhídrido + 2 $$H_2O$$ (impar). (Varía tanto la cantidad de anhídrido como la de agua).\nPor lo tanto, el ácido 'piro' es el que presenta la mayor diferencia estructural en su formación al cambiar la paridad del E.O.",
+      "respuesta_correcta": "C",
+      "explicacion": "Para analizar esto, revisemos las fórmulas de cada tipo de ácido:\n- Meta: Siempre se forma a partir de $$1 \\text{ Anhídrido}$$.\n- Orto: Siempre se forma a partir de $$1 \\text{ Anhídrido}$$ (aunque varía la cantidad de agua según la paridad del E.O.).\n- Piro: Se forma a partir de $$2 \\text{ Anhídridos}$$ para E.O. par y $$1 \\text{ Anhídrido}$$ para E.O. impar.\nPor lo tanto, los ácidos Meta y Orto son los únicos que consistentemente parten de una sola molécula de anhídrido, independientemente de la paridad del E.O. del elemento central. El ácido Piro es el único que puede requerir dos moléculas de anhídrido.",
       "imagen": null
     }
   ]

@@ -6,17 +6,17 @@
   "preguntas": [
     {
       "id_temporal": "quimica_257_001",
-      "pregunta": "¿Cuál es el primer paso a seguir en la nomenclatura de hidrocarburos ramificados?",
+      "pregunta": "¿Cuál es el primer paso fundamental para nombrar un hidrocarburo ramificado?",
       "dificultad": 1,
       "opciones": {
-        "A": "Enumerar los carbonos de la cadena principal.",
-        "B": "Nombrar los radicales en orden alfabético.",
-        "C": "Seleccionar la cadena continua más larga de átomos de carbono.",
-        "D": "Utilizar la terminación \"ano\" para la cadena principal.",
-        "E": "Identificar todos los grupos sustituyentes."
+        "A": "Enumerar los radicales en orden alfabético.",
+        "B": "Identificar los grupos alquilo.",
+        "C": "Seleccionar la cadena continua de carbonos más larga.",
+        "D": "Añadir la terminación '-ano' al final del nombre.",
+        "E": "Contar el número total de dobles enlaces."
       },
       "respuesta_correcta": "C",
-      "explicacion": "El primer paso fundamental en la nomenclatura de alcanos ramificados es identificar la cadena principal, que se define como la cadena continua con el mayor número de átomos de carbono. Todos los demás pasos, como la numeración y el nombramiento de sustituyentes, dependen de esta selección inicial.",
+      "explicacion": "El primer paso en la nomenclatura de hidrocarburos ramificados es siempre identificar la cadena principal, que se define como la cadena continua con el mayor número de átomos de carbono. Los demás pasos, como identificar y enumerar los radicales, dependen de esta selección inicial.",
       "imagen": null
     },
     {
@@ -24,209 +24,209 @@
       "pregunta": "¿Cómo se denominan los grupos que se encuentran insertados en la cadena principal de un hidrocarburo?",
       "dificultad": 1,
       "opciones": {
-        "A": "Cadenas principales secundarias.",
-        "B": "Grupos funcionales.",
-        "C": "Cadenas laterales, ramificaciones o radicales.",
-        "D": "Enlaces dobles o triples.",
-        "E": "Hidrocarburos insaturados."
+        "A": "Cadenas principales",
+        "B": "Hidrocarburos insaturados",
+        "C": "Olefinas",
+        "D": "Cadenas laterales, ramificaciones o radicales",
+        "E": "Enlaces covalentes"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los grupos que no forman parte de la cadena principal y están unidos a ella se conocen como cadenas laterales, ramificaciones, radicales o grupos sustituyentes. Estos son los que le dan al alcano su característica de 'ramificado'.",
+      "respuesta_correcta": "D",
+      "explicacion": "Los grupos de átomos que no forman parte de la cadena principal y están unidos a ella se conocen como cadenas laterales, ramificaciones, radicales o grupos sustituyentes. Estos son los elementos que dan al hidrocarburo su característica de 'ramificado'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_003",
-      "pregunta": "Según las reglas de nomenclatura para alcanos, ¿qué terminación se utiliza para nombrar la cadena principal?",
+      "pregunta": "¿Qué característica estructural define a los alquenos?",
       "dificultad": 1,
       "opciones": {
-        "A": "ino",
-        "B": "eno",
-        "C": "ol",
-        "D": "al",
-        "E": "ano"
+        "A": "La presencia de al menos un triple enlace carbono-carbono.",
+        "B": "Una estructura formada únicamente por enlaces simples.",
+        "C": "La presencia de al menos un doble enlace carbono-carbono.",
+        "D": "Ser hidrocarburos de cadena cerrada o cíclicos.",
+        "E": "Tener un aspecto aceitoso en todos los casos."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "Para los alcanos, que son hidrocarburos saturados (solo enlaces simples), el nombre de la cadena principal siempre termina en \"ano\". Esta terminación indica la naturaleza del hidrocarburo.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los alquenos son una clase de hidrocarburos insaturados que se caracterizan por tener en su molécula como mínimo un doble enlace covalente entre dos átomos de carbono. Los hidrocarburos con solo enlaces simples son alcanos y los que tienen triples enlaces son alquinos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_004",
-      "pregunta": "¿Qué característica define a los hidrocarburos insaturados?",
+      "pregunta": "¿Cuál es la fórmula general para un alqueno que contiene un único doble enlace?",
       "dificultad": 1,
       "opciones": {
-        "A": "Poseen únicamente enlaces covalentes simples.",
-        "B": "Son de aspecto aceitoso.",
-        "C": "Tienen en su molécula átomos de carbono unidos por enlace doble o triple.",
-        "D": "Su fórmula general es siempre $$C_nH_{2n}$$.",
-        "E": "Son siempre cadenas lineales sin ramificaciones."
+        "A": "$$C_nH_{2n+2}$$",
+        "B": "$$C_nH_{2n}$$",
+        "C": "$$C_nH_{2n-2}$$",
+        "D": "$$C_nH_{2n+2-2d}$$",
+        "E": "$$C_nH_n$$"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La característica fundamental de los hidrocarburos insaturados es la presencia de al menos un enlace covalente múltiple, ya sea doble (alquenos) o triple (alquinos), entre sus átomos de carbono. Esto los diferencia de los alcanos, que son saturados.",
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula general para los alquenos con un solo doble enlace es $$C_nH_{2n}$$, donde $n$ es el número de átomos de carbono. Esta fórmula refleja que tienen dos hidrógenos menos que el alcano correspondiente ($$C_nH_{2n+2}$$) debido a la formación del doble enlace.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_005",
-      "pregunta": "¿Cuál es la fórmula general para los alquenos que contienen un solo doble enlace?",
+      "pregunta": "Al nombrar un alcano, ¿qué terminación se utiliza para la cadena principal?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$C_nH_{2n+2}$$",
-        "B": "$$C_nH_{2n-2}$$",
-        "C": "$$C_nH_{2n}$$",
-        "D": "$$C_nH_{2n+2-2d}$$",
-        "E": "$$C_nH_{n}$$"
+        "A": "-eno",
+        "B": "-ilo",
+        "C": "-ino",
+        "D": "-ano",
+        "E": "-ol"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "La fórmula general para un alqueno con un único doble enlace es $$C_nH_{2n}$$, donde $n$ es el número de átomos de carbono. Esta fórmula refleja que, en comparación con un alcano ($$C_nH_{2n+2}$$), un alqueno ha perdido dos átomos de hidrógeno para formar el doble enlace.",
+      "respuesta_correcta": "D",
+      "explicacion": "La terminación '-ano' es característica de los alcanos, que son hidrocarburos saturados (solo tienen enlaces simples). El nombre de la cadena principal se forma con un prefijo que indica el número de carbonos seguido de esta terminación. Por ejemplo, una cadena de 7 carbonos se llama heptano.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_006",
-      "pregunta": "¿Qué criterio se utiliza para decidir por cuál extremo se empieza a enumerar la cadena principal de un hidrocarburo ramificado?",
+      "pregunta": "¿Cuál es el criterio para decidir por qué extremo se empieza a enumerar la cadena principal de un alcano ramificado?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se empieza por el extremo que tenga el radical de mayor tamaño.",
-        "B": "Se elige el extremo que está a la izquierda en la representación gráfica.",
-        "C": "Se comienza por el extremo donde se encuentran más cerca los radicales.",
-        "D": "Se numera de forma que el radical que va primero en el alfabeto tenga el número más bajo.",
-        "E": "La numeración es arbitraria y no sigue una regla específica."
+        "A": "Se empieza siempre por el extremo izquierdo de la estructura dibujada.",
+        "B": "Se elige el extremo que dé la numeración más alta posible a los radicales.",
+        "C": "Se inicia por el extremo donde se encuentran más cerca los radicales.",
+        "D": "El extremo se elige para que el radical de mayor tamaño tenga el número más bajo.",
+        "E": "Se empieza por el carbono unido al mayor número de hidrógenos."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La regla establece que la cadena principal debe ser numerada comenzando por el extremo que resulte en los localizadores (números de posición) más bajos para los radicales. En otras palabras, se busca que el primer sustituyente se encuentre en el carbono con el número más pequeño posible.",
+      "explicacion": "La regla de nomenclatura establece que la cadena principal debe enumerarse comenzando por el extremo que resulte en los localizadores (números de posición) más bajos posibles para los radicales o sustituyentes. El objetivo es dar la combinación de números más baja al primer punto de diferencia.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_007",
-      "pregunta": "Si un alcano ramificado contiene tres grupos metilo idénticos como sustituyentes, ¿qué prefijo se debe usar al nombrarlos?",
+      "pregunta": "Si un hidrocarburo presenta tres grupos sustituyentes idénticos, ¿qué prefijo numérico debe utilizarse al nombrarlos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Met",
-        "B": "Tri",
-        "C": "Di",
-        "D": "Prop",
-        "E": "Multi"
+        "A": "Bi-",
+        "B": "Tri-",
+        "C": "Di-",
+        "D": "Iso-",
+        "E": "Ter-"
       },
       "respuesta_correcta": "B",
-      "explicacion": "Cuando hay dos o más radicales idénticos, se utilizan prefijos numéricos para indicar su cantidad. Para tres sustituyentes iguales, como tres grupos metilo, se utiliza el prefijo \"tri\", resultando en el nombre \"trimetil\".",
+      "explicacion": "Cuando hay múltiples sustituyentes idénticos, se utilizan prefijos numéricos para indicar cuántos hay. Para dos sustituyentes iguales se usa 'di-', para tres se usa 'tri-', para cuatro 'tetra-', y así sucesivamente. Por ejemplo, tres grupos metilo se nombrarían como 'trimetil'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_008",
-      "pregunta": "Al nombrar un hidrocarburo con un grupo etil y un grupo metil, ¿en qué orden deben aparecer en el nombre final?",
+      "pregunta": "Al nombrar un compuesto como 4-etil-3,4-dimetilheptano, ¿por qué se nombra 'etil' antes que 'dimetil'?",
       "dificultad": 2,
       "opciones": {
-        "A": "Primero el metil, porque es más pequeño.",
-        "B": "Primero el etil, por orden alfabético (e antes que m).",
-        "C": "El orden depende de sus posiciones en la cadena.",
-        "D": "Primero el que tenga el número de posición más bajo.",
-        "E": "El orden es indiferente."
+        "A": "Porque 'etil' está en una posición con un número de carbono menor.",
+        "B": "Porque los prefijos como 'di-' se consideran para el orden alfabético ('d' antes de 'e').",
+        "C": "Porque 'etil' es un radical más grande que 'metil'.",
+        "D": "Porque los prefijos numéricos como 'di-' no se consideran para el orden alfabético ('e' de etil va antes de 'm' de metil).",
+        "E": "Porque es una regla arbitraria de la IUPAC sin fundamento alfabético."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla de nomenclatura indica que los radicales o sustituyentes se deben nombrar en estricto orden alfabético, independientemente de su posición en la cadena principal. Como \"etil\" comienza con \"e\" y \"metil\" con \"m\", el etil siempre se nombra antes que el metil.",
+      "respuesta_correcta": "D",
+      "explicacion": "La regla de nomenclatura indica que los radicales se nombran en orden alfabético. Sin embargo, los prefijos numéricos como 'di-', 'tri-', 'tetra-', etc., no se toman en cuenta para establecer este orden. Por lo tanto, se compara 'etil' con 'metil', y como la 'e' va antes que la 'm' en el alfabeto, 'etil' se nombra primero.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_009",
-      "pregunta": "Los alquenos son también conocidos como \"olefinas\" o \"hidrocarburos etilénicos\". ¿A qué se debe la denominación \"olefinas\"?",
+      "pregunta": "¿Cómo se clasifican los hidrocarburos que contienen enlaces covalentes dobles o triples en su molécula?",
       "dificultad": 2,
       "opciones": {
-        "A": "A su alta reactividad química.",
-        "B": "A su estructura similar al etileno.",
-        "C": "A su olor característico.",
-        "D": "Al aspecto aceitoso de algunos de ellos.",
-        "E": "A su capacidad de formar polímeros."
+        "A": "Hidrocarburos saturados",
+        "B": "Alcanos",
+        "C": "Hidrocarburos insaturados",
+        "D": "Radicales alquilo",
+        "E": "Parafinas"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El término \"olefina\", que significa \"formador de aceite\", se asignó históricamente a los alquenos debido a que algunos de los primeros compuestos de esta familia que se estudiaron presentaban un aspecto aceitoso al reaccionar.",
+      "respuesta_correcta": "C",
+      "explicacion": "Los hidrocarburos se clasifican como 'insaturados' si contienen uno o más enlaces dobles o triples entre sus átomos de carbono. Esto significa que no tienen el número máximo posible de átomos de hidrógeno que podrían enlazar, a diferencia de los 'saturados' (alcanos), que solo tienen enlaces simples.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_010",
-      "pregunta": "En el nombre **4-etil-3,4-dimetilheptano**, ¿qué representa la palabra \"heptano\"?",
+      "pregunta": "Además de 'hidrocarburos etilénicos', ¿qué otro nombre reciben los alquenos debido al aspecto de algunos de ellos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un radical con siete carbonos.",
-        "B": "El número total de carbonos en la molécula.",
-        "C": "La presencia de siete sustituyentes.",
-        "D": "La cadena principal, que contiene siete átomos de carbono.",
-        "E": "Un compuesto con siete dobles enlaces."
+        "A": "Parafinas",
+        "B": "Acetilenos",
+        "C": "Olefinas",
+        "D": "Aromáticos",
+        "E": "Naftenos"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El nombre base del hidrocarburo corresponde a la cadena principal. El prefijo \"hept-\" indica siete átomos de carbono, y la terminación \"-ano\" indica que es un alcano (solo enlaces simples). Por lo tanto, \"heptano\" se refiere a la cadena principal de siete carbonos.",
+      "respuesta_correcta": "C",
+      "explicacion": "A los alquenos también se les conoce como 'olefinas'. Este nombre proviene del latín 'oleum' (aceite) y 'facere' (hacer), ya que los primeros alquenos estudiados, como el etileno, reaccionaban con halógenos para formar compuestos de aspecto aceitoso.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_011",
-      "pregunta": "¿Qué indica la fórmula general $$C_nH_{2n+2-2d}$$ para un hidrocarburo?",
+      "pregunta": "En la fórmula general $$C_nH_{2n+2-2d}$$, ¿qué representa la variable $d$?",
       "dificultad": 2,
       "opciones": {
-        "A": "La fórmula de cualquier alcano ramificado.",
-        "B": "La fórmula de un alqueno con un número $d$ de dobles enlaces.",
-        "C": "La fórmula para un alcano cíclico.",
-        "D": "La fórmula de cualquier hidrocarburo con $d$ radicales.",
-        "E": "La fórmula para un alquino con $d$ triples enlaces."
+        "A": "El número de átomos de carbono.",
+        "B": "La cantidad de ramificaciones.",
+        "C": "El número de dobles enlaces.",
+        "D": "La densidad del compuesto.",
+        "E": "El número de enlaces triples."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Esta es la fórmula general para un alqueno (o polieno) acíclico, donde $n$ es el número de átomos de carbono y $d$ es el número de dobles enlaces. Cada doble enlace reduce en dos el número de hidrógenos en comparación con el alcano correspondiente ($$C_nH_{2n+2}$$).",
+      "respuesta_correcta": "C",
+      "explicacion": "Esta fórmula general permite calcular el número de hidrógenos para un hidrocarburo acíclico. La variable $n$ es el número de carbonos y la variable $d$ representa el número de dobles enlaces presentes en la molécula. Cada doble enlace reduce en dos el número de hidrógenos en comparación con un alcano.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_012",
-      "pregunta": "¿Cómo se aplica la regla de ordenación alfabética si un compuesto tiene un sustituyente etil y dos sustituyentes metil (dimetil)?",
+      "pregunta": "En un hidrocarburo ramificado, los grupos sustituyentes se nombran en orden alfabético. Si un compuesto tiene un radical 'propil' y un radical 'metil', ¿cuál se mencionaría primero en el nombre completo?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se ordena por el prefijo, así que \"dimetil\" va antes que \"etil\".",
-        "B": "Se ignora el prefijo \"di-\" y se compara la \"e\" de etil con la \"m\" de metil.",
-        "C": "Se ordena por el tamaño del grupo, así que \"etil\" va antes que \"metil\".",
-        "D": "Se ordena por la posición en la cadena, el que tenga el número más bajo va primero.",
-        "E": "El grupo \"dimetil\" siempre se nombra al final por ser múltiple."
+        "A": "Propil, porque es una cadena más larga.",
+        "B": "Depende de cuál tenga el número de posición más bajo.",
+        "C": "Metil, porque la 'm' va antes que la 'p' en el alfabeto.",
+        "D": "Se nombran en el orden en que aparecen en la cadena.",
+        "E": "Propil, porque la 'p' va después que la 'm' en el alfabeto."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla de nomenclatura establece que los prefijos numéricos como \"di-\", \"tri-\", \"tetra-\", etc., no se toman en cuenta para determinar el orden alfabético. Por lo tanto, se compara la primera letra del nombre del radical base. En este caso, la \"e\" de \"etil\" va antes que la \"m\" de \"metil\", por lo que \"etil\" se nombra primero.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla de nomenclatura es clara: los sustituyentes se listan en orden alfabético estricto, sin importar su tamaño o posición en la cadena. Al comparar 'metil' y 'propil', la 'm' precede a la 'p' en el alfabeto, por lo que 'metil' se nombraría primero.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_013",
-      "pregunta": "Analizando el nombre **4-etil-3,4-dimetilheptano**, ¿cuántos átomos de carbono en total tiene la molécula?",
+      "pregunta": "Un hidrocarburo tiene una cadena principal de 9 carbonos. Contiene un grupo etil en la posición 4 y dos grupos metil en las posiciones 3 y 6. ¿Cuál es el nombre correcto para este compuesto?",
       "dificultad": 3,
       "opciones": {
-        "A": "7",
-        "B": "9",
-        "C": "10",
-        "D": "11",
-        "E": "12"
+        "A": "3,6-dimetil-4-etilnonano",
+        "B": "4-etil-3,6-dimetilnonano",
+        "C": "4-etil-3-metil-6-metilnonano",
+        "D": "3,6-dietil-4-metilnonano",
+        "E": "Nonano-4-etil-3,6-dimetil"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para encontrar el número total de carbonos, debemos sumar los de la cadena principal y los de todos los sustituyentes. La cadena principal es \"heptano\", que tiene 7 carbonos. El sustituyente \"etil\" ($$-CH_2CH_3$$) tiene 2 carbonos. El sustituyente \"dimetil\" indica dos grupos metilo ($$-CH_3$$), cada uno con 1 carbono, sumando 2 carbonos en total. Por lo tanto, el total es $$7 + 2 + 1 + 1 = 11$$ carbonos.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para nombrar este compuesto, seguimos las reglas: 1) La cadena principal es de 9 carbonos, por lo que es un 'nonano'. 2) Los sustituyentes son 'etil' y dos 'metil' (dimetil). 3) Se ordenan alfabéticamente: 'etil' antes que 'metil' (la 'e' antes de la 'm'). 4) Se colocan los localizadores: el etil está en la posición 4, y los metil en las 3 y 6. Uniendo todo, el nombre correcto es 4-etil-3,6-dimetilnonano.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_014",
-      "pregunta": "Un hidrocarburo tiene una cadena principal de 9 carbonos. Se le añaden un grupo metil en la posición 3, otro grupo metil en la posición 5, y un grupo etil en la posición 4. ¿Cuál es el nombre correcto de este compuesto?",
+      "pregunta": "Al analizar el nombre 4-etil-3,4-dimetilheptano, ¿qué se puede deducir sobre la estructura de la molécula?",
       "dificultad": 3,
       "opciones": {
-        "A": "3,5-dimetil-4-etilnonano",
-        "B": "4-etil-3,5-dimetilnonano",
-        "C": "3,5-metil-4-etilnonano",
-        "D": "4-etil-3-metil-5-metilnonano",
-        "E": "Nonano-4-etil-3,5-dimetil"
+        "A": "La cadena principal tiene 4 carbonos y los sustituyentes suman 3.",
+        "B": "Hay un total de 7 carbonos en toda la molécula.",
+        "C": "El carbono 4 de la cadena principal está unido a un grupo etil y a un grupo metil.",
+        "D": "La molécula es un alqueno con un doble enlace en la posición 4.",
+        "E": "Hay dos grupos etilo y un grupo metilo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Primero, se identifica la cadena principal: 9 carbonos es \"nonano\". Luego, se identifican los sustituyentes: dos grupos metilo (dimetil) y un grupo etilo (etil). Se deben ordenar alfabéticamente, ignorando el prefijo \"di-\". Por lo tanto, \"etil\" va antes que \"metil\". Finalmente, se colocan los localizadores correspondientes: el etil está en la posición 4 y los metilos en las posiciones 3 y 5. El nombre correcto es 4-etil-3,5-dimetilnonano.",
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre se descompone así: 'heptano' indica una cadena principal de 7 carbonos. '4-etil' significa que hay un grupo etilo en el carbono 4. '3,4-dimetil' indica que hay dos grupos metilo, uno en el carbono 3 y otro en el carbono 4. Por lo tanto, el carbono 4 de la cadena principal tiene enlazados dos sustituyentes diferentes: un etil y un metil.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_257_015",
-      "pregunta": "Usando la fórmula general $$C_nH_{2n+2-2d}$$, ¿cuál es la fórmula molecular de un hidrocarburo acíclico con 10 átomos de carbono y 4 dobles enlaces?",
+      "pregunta": "Utilizando la fórmula general para alquenos con un solo doble enlace ($$C_nH_{2n}$$), ¿cuántos átomos de hidrógeno tiene el octeno, un alqueno con 8 átomos de carbono ($n=8$)?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$C_{10}H_{22}$$",
-        "B": "$$C_{10}H_{20}$$",
-        "C": "$$C_{10}H_{16}$$",
-        "D": "$$C_{10}H_{14}$$",
-        "E": "$$C_{10}H_{12}$$"
+        "A": "8",
+        "B": "18",
+        "C": "14",
+        "D": "10",
+        "E": "16"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "La fórmula general para un alqueno con múltiples dobles enlaces es $$C_nH_{2n+2-2d}$$. En este caso, el número de carbonos ($n$) es 10 y el número de dobles enlaces ($d$) es 4. Sustituyendo los valores en la fórmula se obtiene: $$C_{10}H_{2(10)+2-2(4)} = C_{10}H_{20+2-8} = C_{10}H_{14}$$.",
+      "respuesta_correcta": "E",
+      "explicacion": "La fórmula general para un alqueno con un solo doble enlace es $$C_nH_{2n}$$. Si el número de átomos de carbono ($n$) es 8, entonces el número de átomos de hidrógeno se calcula como $2 \times n$. Sustituyendo el valor de $n$: $2 \times 8 = 16$. Por lo tanto, la fórmula molecular del octeno es $$C_8H_{16}$$, y tiene 16 átomos de hidrógeno.",
       "imagen": null
     }
   ]

@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 158,
+  "total_temas": 320,
+  "titulo_tema": "Linfocitos T citotóxicos (CD8+)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_158_001",
+      "pregunta": "¿En qué órgano ocurre el proceso de maduración de los linfocitos T?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Médula ósea roja",
+        "B": "Bazo",
+        "C": "Timo",
+        "D": "Ganglios linfáticos",
+        "E": "Hígado"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos T se originan en la médula ósea roja, pero migran al timo para completar su proceso de maduración. En el timo, adquieren sus receptores específicos (TCR) y se diferencian en subtipos como los CD4+ y CD8+.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_002",
+      "pregunta": "¿Qué tipo de molécula de superficie caracteriza a los linfocitos T citotóxicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "CD4+",
+        "B": "CD8+",
+        "C": "MHC de clase I",
+        "D": "MHC de clase II",
+        "E": "Anticuerpos"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los linfocitos T citotóxicos se identifican por la presencia de la proteína de superficie CD8, por lo que se denominan linfocitos T CD8+. Esta molécula co-receptora es crucial para su interacción con las células diana.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_003",
+      "pregunta": "¿Cuál es la función principal de las perforinas liberadas por los linfocitos T citotóxicos?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Inducir la apoptosis",
+        "B": "Activar el receptor FAS",
+        "C": "Estimular la proliferación de otros linfocitos",
+        "D": "Abrir poros en la membrana de la célula diana",
+        "E": "Presentar antígenos a otras células"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las perforinas son enzimas citotóxicas que, al ser inyectadas en una célula diana, se polimerizan para formar poros o canales en su membrana plasmática. Esto altera el equilibrio osmótico de la célula y facilita la entrada de otras enzimas como las fragmentinas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_004",
+      "pregunta": "La inmunidad celular es una forma de inmunidad específica que se caracteriza por no involucrar la participación de:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Linfocitos T",
+        "B": "Anticuerpos",
+        "C": "Macrófagos",
+        "D": "Células Natural Killer",
+        "E": "Citoquinas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La inmunidad celular está mediada directamente por células, como los linfocitos T, y no por anticuerpos. La inmunidad que depende de anticuerpos se denomina inmunidad humoral y es mediada por los linfocitos B.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_005",
+      "pregunta": "¿Qué tipo de células son el blanco principal de los linfocitos T citotóxicos (CD8+)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Bacterias extracelulares",
+        "B": "Células presentadoras de antígenos profesionales",
+        "C": "Linfocitos B",
+        "D": "Células infectadas por virus o malignizadas",
+        "E": "Parásitos helmintos"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos T citotóxicos se especializan en reconocer y eliminar células del propio organismo que han sido alteradas, como aquellas infectadas por patógenos intracelulares (virus) o que han sufrido una transformación cancerosa (malignizadas).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_006",
+      "pregunta": "¿A través de qué tipo de molécula presentan antígenos las células infectadas a los linfocitos T citotóxicos (CD8+)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Proteínas MHC de clase II",
+        "B": "Proteínas MHC de clase I",
+        "C": "Receptores de Células B (BCR)",
+        "D": "Anticuerpos de superficie",
+        "E": "Receptores de tipo Toll"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las células infectadas o malignizadas procesan antígenos internos (virales o tumorales) y los presentan en su superficie a través de las proteínas del Complejo Mayor de Histocompatibilidad (MHC) de clase I. Los linfocitos T CD8+ reconocen específicamente este complejo antígeno-MHC I.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_007",
+      "pregunta": "¿Cuál es la función de las interleucinas secretadas por un linfocito T CD8+ activado?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Inducir la apoptosis directamente en la célula diana",
+        "B": "Crear poros en la membrana de la célula infectada",
+        "C": "Inducir la proliferación de linfocitos T con la misma especificidad",
+        "D": "Neutralizar toxinas bacterianas en la sangre",
+        "E": "Activar la producción de anticuerpos por los linfocitos B"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Tras el reconocimiento del antígeno, una de las respuestas del linfocito T CD8+ es secretar citoquinas, como las interleucinas. Estas moléculas actúan como señales para inducir la expansión clonal, es decir, la proliferación de otros linfocitos T que reconocen el mismo antígeno, amplificando así la respuesta inmunitaria.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_008",
+      "pregunta": "¿De qué manera las fragmentinas contribuyen a la destrucción de una célula diana?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Se unen a la superficie celular para marcarla para fagocitosis.",
+        "B": "Forman un complejo de ataque a la membrana junto con las perforinas.",
+        "C": "Neutralizan el material genético del virus dentro de la célula.",
+        "D": "Desencadenan los mecanismos de muerte celular programada (apoptosis).",
+        "E": "Actúan como citoquinas para atraer a más células inmunes."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Las fragmentinas son una familia de enzimas (proteasas) que, una vez que ingresan a la célula diana a través de los poros creados por las perforinas, activan una cascada de eventos moleculares que culminan en la apoptosis, un proceso de suicidio celular controlado y ordenado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_009",
+      "pregunta": "La respuesta de un linfocito T citotóxico al reconocer un antígeno es doble. ¿En qué consisten estas dos acciones?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Fagocitar la célula y presentar sus antígenos.",
+        "B": "Secretar citoquinas para la proliferación y matar a la célula diana.",
+        "C": "Diferenciarse en célula de memoria y secretar anticuerpos.",
+        "D": "Activar macrófagos y neutralizar virus extracelulares.",
+        "E": "Migrar al timo y madurar en un linfocito T auxiliar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Al reconocer su antígeno específico en una célula diana, el linfocito T CD8+ ejecuta dos funciones clave simultáneamente: por un lado, libera enzimas citotóxicas (perforinas, fragmentinas) para matar a la célula infectada; por otro lado, secreta citoquinas (interleucinas) para promover la proliferación de más linfocitos T específicos, amplificando la respuesta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_010",
+      "pregunta": "¿Cuál es una diferencia clave en el reconocimiento de antígenos entre los linfocitos T auxiliares (CD4+) y los citotóxicos (CD8+)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Los CD4+ reconocen antígenos en MHC I, mientras que los CD8+ en MHC II.",
+        "B": "Los CD4+ reconocen antígenos en MHC II, mientras que los CD8+ en MHC I.",
+        "C": "Los CD8+ reconocen antígenos directamente, sin necesidad de MHC.",
+        "D": "Los CD4+ matan células diana, mientras que los CD8+ activan otras células.",
+        "E": "Los CD8+ maduran en la médula ósea y los CD4+ en el timo."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La principal distinción funcional radica en el tipo de molécula MHC que reconocen. Los linfocitos T auxiliares (CD4+) reconocen antígenos presentados por células presentadoras de antígenos profesionales en moléculas MHC de clase II. En cambio, los linfocitos T citotóxicos (CD8+) reconocen antígenos presentados por casi cualquier célula nucleada infectada en moléculas MHC de clase I.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_011",
+      "pregunta": "Además de la eliminación de microorganismos intracelulares, ¿en qué otro proceso fundamental participa la inmunidad celular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La producción de anticuerpos contra alérgenos",
+        "B": "La neutralización de toxinas en el torrente sanguíneo",
+        "C": "La respuesta alérgica inmediata tipo I",
+        "D": "El rechazo primario de trasplantes",
+        "E": "La inmunidad transferida de madre a feto"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La inmunidad celular es crucial en el reconocimiento y destrucción de células que son percibidas como extrañas, lo cual incluye no solo células infectadas por virus, sino también células de un órgano trasplantado que presentan moléculas MHC diferentes, llevando al rechazo primario del trasplante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_012",
+      "pregunta": "Además de inyectar perforinas y fragmentinas, ¿qué otro mecanismo se menciona que utilizan los linfocitos T CD8+ para inducir la muerte celular?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La secreción de anticuerpos líticos",
+        "B": "La fagocitosis directa de la célula diana",
+        "C": "La activación del receptor FAS en la célula diana",
+        "D": "El bloqueo de la síntesis de proteínas virales",
+        "E": "La liberación de radicales libres de oxígeno"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos T citotóxicos pueden inducir la apoptosis en la célula diana a través de varias vías. Una es la vía de las perforinas/fragmentinas. Otra vía importante implica la interacción de la proteína FasL en la superficie del linfocito T con el receptor FAS (también conocido como CD95) en la superficie de la célula diana, lo que desencadena directamente la cascada de la apoptosis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_013",
+      "pregunta": "Un paciente presenta una infección viral donde el virus se replica exclusivamente dentro de sus células epiteliales. ¿Qué tipo de linfocito será el efector principal para erradicar la infección eliminando estas células?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Linfocitos T auxiliares (CD4+)",
+        "B": "Linfocitos B productores de anticuerpos",
+        "C": "Linfocitos T citotóxicos (CD8+)",
+        "D": "Macrófagos no activados",
+        "E": "Células Natural Killer sin activación previa"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Dado que el virus está dentro de las células (patógeno intracelular), los anticuerpos (que actúan en el exterior) son ineficaces contra las células ya infectadas. Las células epiteliales infectadas presentarán antígenos virales en sus moléculas MHC de clase I, lo que las convierte en el blanco perfecto para ser reconocidas y destruidas por los linfocitos T citotóxicos (CD8+), que son los especialistas en eliminar células del propio cuerpo que albergan patógenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_014",
+      "pregunta": "Si un defecto genético impidiera la expresión de proteínas MHC de clase I funcionales en las células de un individuo, ¿cuál sería la consecuencia más directa para su sistema inmunitario?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los linfocitos T auxiliares (CD4+) no podrían ser activados por macrófagos.",
+        "B": "Los linfocitos B no podrían reconocer antígenos y producir anticuerpos.",
+        "C": "Los linfocitos T citotóxicos (CD8+) serían incapaces de reconocer y eliminar células infectadas por virus.",
+        "D": "El timo no podría producir ningún tipo de linfocito T.",
+        "E": "Los macrófagos perderían su capacidad de fagocitar patógenos."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La función de los linfocitos T citotóxicos (CD8+) depende críticamente del reconocimiento de péptidos antigénicos presentados por las moléculas MHC de clase I en la superficie de las células diana. Sin MHC de clase I, las células infectadas no tienen forma de \"mostrar\" que están comprometidas, volviéndose invisibles para los linfocitos T CD8+. Esto resultaría en una grave inmunodeficiencia frente a infecciones virales y cáncer.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_158_015",
+      "pregunta": "¿Cuál es la secuencia de eventos más precisa que ocurre desde que un linfocito T CD8+ encuentra una célula tumoral hasta que esta última es destruida?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Secreción de anticuerpos -> Opsonización -> Fagocitosis por el linfocito T",
+        "B": "Reconocimiento de antígeno en MHC II -> Liberación de citoquinas -> Activación de macrófagos",
+        "C": "Fagocitosis de la célula tumoral -> Procesamiento del antígeno -> Maduración del linfocito",
+        "D": "Reconocimiento de antígeno en MHC I -> Liberación de perforinas/fragmentinas -> Inducción de apoptosis",
+        "E": "Activación por un linfocito B -> Proliferación clonal -> Secreción masiva de interleucinas"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El proceso de eliminación de una célula tumoral por un linfocito T citotóxico sigue un orden específico: primero, el TCR del linfocito T CD8+ debe reconocer un antígeno tumoral presentado en una molécula MHC de clase I en la superficie de la célula malignizada. Este reconocimiento desencadena la respuesta efectora, que consiste en la liberación dirigida de gránulos que contienen perforinas y fragmentinas. Las perforinas forman poros en la membrana de la célula tumoral, permitiendo la entrada de las fragmentinas, que activan la cascada de la apoptosis, llevando a la muerte celular programada.",
+      "imagen": null
+    }
+  ]
+}

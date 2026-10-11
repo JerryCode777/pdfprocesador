@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 100,
+  "total_temas": 137,
+  "titulo_tema": "Ley de Coulomb",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_100_001",
+      "pregunta": "¿Qué establece la Ley Cualitativa de la electrostática sobre la interacción entre dos cargas eléctricas del mismo signo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se atraen mutuamente.",
+        "B": "Se repelen mutuamente.",
+        "C": "No interactúan entre sí.",
+        "D": "Una atrae y la otra repele.",
+        "E": "Se anulan entre sí."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley Cualitativa de la electrostática establece que las cargas del mismo signo (ambas positivas o ambas negativas) se repelen. La atracción ocurre únicamente entre cargas de signos opuestos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_002",
+      "pregunta": "Según el Sistema Internacional de Unidades (S.I.), ¿cuál es la unidad para medir la cantidad de carga eléctrica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Newton (N)",
+        "B": "Metro (m)",
+        "C": "Coulomb (C)",
+        "D": "Faraday (F)",
+        "E": "Voltio (V)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En el Sistema Internacional de Unidades (S.I.), la unidad de medida para la cantidad de carga eléctrica es el coulomb, representado por el símbolo C. El newton es la unidad de fuerza, y el metro es la unidad de distancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_003",
+      "pregunta": "¿Cuál es la unidad de medida para la magnitud de la fuerza eléctrica en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Coulomb (C)",
+        "B": "Newton (N)",
+        "C": "Metro (m)",
+        "D": "Joule (J)",
+        "E": "$$\\text{N·m²/C²}$$"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La magnitud de la fuerza eléctrica, al igual que cualquier otra fuerza, se mide en newtons (N) en el Sistema Internacional de Unidades. El coulomb es la unidad de carga y el metro es la unidad de distancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_004",
+      "pregunta": "¿A qué científico se le atribuye el desarrollo del concepto de campo eléctrico?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Charles Agustín Coulomb",
+        "B": "Isaac Newton",
+        "C": "Michael Faraday",
+        "D": "Albert Einstein",
+        "E": "James Clerk Maxwell"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El concepto de campo eléctrico fue desarrollado por Michael Faraday (1791-1867) para explicar cómo las fuerzas eléctricas actúan a distancia.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_005",
+      "pregunta": "De acuerdo con la Ley Cualitativa, ¿qué tipo de interacción ocurre entre una carga positiva y una carga negativa?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Una fuerza de repulsión.",
+        "B": "Una fuerza de atracción.",
+        "C": "No existe interacción alguna.",
+        "D": "La interacción es nula.",
+        "E": "Una fuerza de repulsión seguida de una de atracción."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley Cualitativa de la electrostática postula que las cargas de signos opuestos (una positiva y una negativa) se atraen mutuamente. La repulsión ocurre solo entre cargas del mismo signo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_006",
+      "pregunta": "¿Cuál es la expresión matemática que representa la magnitud de la fuerza eléctrica según la Ley de Coulomb?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$F = k \\frac{|q_1||q_2|}{d}$$",
+        "B": "$$F = k \\frac{|q_1| + |q_2|}{d^2}$$",
+        "C": "$$F = k \\frac{d^2}{|q_1||q_2|}$$",
+        "D": "$$F = k \\frac{|q_1||q_2|}{d^2}$$",
+        "E": "$$F = k |q_1||q_2| d^2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley de Coulomb establece que la magnitud de la fuerza eléctrica ($$F$$) es directamente proporcional al producto de las magnitudes de las cargas ($$|q_1||q_2|$$) e inversamente proporcional al cuadrado de la distancia ($$d^2$$) que las separa. La fórmula correcta es $$F = k \\frac{|q_1||q_2|}{d^2}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_007",
+      "pregunta": "Según la Ley de Coulomb, ¿cuál es la relación entre la magnitud de la fuerza eléctrica y el producto de las cargas?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Inversamente proporcional.",
+        "B": "Directamente proporcional.",
+        "C": "Inversamente proporcional al cuadrado.",
+        "D": "Directamente proporcional al cuadrado.",
+        "E": "No tienen relación."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley de Coulomb, expresada como $$F = k \\frac{|q_1||q_2|}{d^2}$$, muestra que la magnitud de la fuerza ($$F$$) es directamente proporcional al producto de las magnitudes de las cargas ($$|q_1||q_2|$$). Esto significa que si el producto de las cargas aumenta, la fuerza también aumenta en la misma proporción.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_008",
+      "pregunta": "¿Cuál es el valor y las unidades de la constante de Coulomb ($$k$$) en el Sistema Internacional?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$9 \\times 10^9 \\text{ C²/N·m²}$$",
+        "B": "$$9 \\times 10^{-9} \\text{ N·m²/C²}$$",
+        "C": "$$9 \\times 10^9 \\text{ N·m/C}$$",
+        "D": "$$9 \\times 10^9 \\text{ N/C}$$",
+        "E": "$$9 \\times 10^9 \\text{ N·m²/C²}$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "El valor de la constante de proporcionalidad electrostática, conocida como constante de Coulomb ($$k$$), es aproximadamente $$9 \\times 10^9$$, y sus unidades en el Sistema Internacional son newton por metro cuadrado sobre coulomb al cuadrado ($$\\text{N·m²/C²}$$), para que la ecuación de la fuerza sea dimensionalmente correcta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_009",
+      "pregunta": "Dos cargas puntuales, $$q_1$$ y $$q_2$$, interactúan entre sí. ¿En qué dirección actúan las fuerzas eléctricas que se ejercen mutuamente?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "En direcciones perpendiculares a la línea que las une.",
+        "B": "Siempre en la dirección vertical.",
+        "C": "A lo largo de la línea recta que las une.",
+        "D": "En direcciones paralelas a la línea que las une.",
+        "E": "En una dirección aleatoria."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Las fuerzas eléctricas entre dos cargas puntuales son fuerzas centrales, lo que significa que siempre actúan a lo largo de la línea recta que conecta los centros de las dos cargas. Si las cargas se atraen, las fuerzas apuntan una hacia la otra; si se repelen, apuntan en sentidos opuestos a lo largo de esa misma línea.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_010",
+      "pregunta": "Si la carga $$q_1$$ es mucho mayor que la carga $$q_2$$, ¿cómo se compara la magnitud de la fuerza que $$q_1$$ ejerce sobre $$q_2$$ con la magnitud de la fuerza que $$q_2$$ ejerce sobre $$q_1$$?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fuerza de $$q_1$$ sobre $$q_2$$ es mayor.",
+        "B": "La fuerza de $$q_2$$ sobre $$q_1$$ es mayor.",
+        "C": "Las magnitudes de las fuerzas son iguales.",
+        "D": "La fuerza de $$q_2$$ sobre $$q_1$$ es cero.",
+        "E": "Depende de la distancia entre ellas."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "De acuerdo con la tercera ley de Newton, las fuerzas de interacción entre dos partículas son siempre iguales en magnitud y opuestas en dirección. Por lo tanto, aunque las cargas sean de diferente magnitud, la fuerza que $$q_1$$ ejerce sobre $$q_2$$ tiene exactamente la misma magnitud que la fuerza que $$q_2$$ ejerce sobre $$q_1$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_011",
+      "pregunta": "La Ley de Coulomb describe la fuerza entre dos cargas como inversamente proporcional al cuadrado de la distancia. ¿Qué significa esto?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Si la distancia aumenta, la fuerza aumenta al cuadrado.",
+        "B": "Si la distancia aumenta, la fuerza disminuye linealmente.",
+        "C": "Si la distancia disminuye, la fuerza disminuye.",
+        "D": "Si la distancia se duplica, la fuerza se reduce a la mitad.",
+        "E": "Si la distancia aumenta, la fuerza disminuye significativamente."
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Una relación inversamente proporcional al cuadrado ($$F \\propto \\frac{1}{d^2}$$) significa que al aumentar la distancia ($$d$$), la fuerza ($$F$$) disminuye de manera cuadrática. Por ejemplo, si la distancia se duplica, la fuerza se reduce a una cuarta parte ($$1/2^2$$). Por lo tanto, un aumento en la distancia provoca una disminución significativa en la fuerza.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_012",
+      "pregunta": "Para aplicar correctamente la Ley de Coulomb $$F = k \\frac{|q_1||q_2|}{d^2}$$, ¿en qué unidades del S.I. deben estar la carga ($$q$$) y la distancia ($$d$$)?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$q$$ en microcoulombs, $$d$$ en centímetros.",
+        "B": "$$q$$ en coulombs, $$d$$ en metros.",
+        "C": "$$q$$ en coulombs, $$d$$ en centímetros.",
+        "D": "$$q$$ en nanocoulombs, $$d$$ en milímetros.",
+        "E": "$$q$$ en coulombs, $$d$$ en kilómetros."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Para que el resultado de la fuerza esté en Newtons (N) usando la constante $$k = 9 \\times 10^9 \\text{ N·m²/C²}$$, las unidades de las variables deben ser consistentes con las del S.I. La cantidad de carga eléctrica ($$q$$) debe estar en coulombs (C) y la distancia de separación ($$d$$) debe estar en metros (m).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_013",
+      "pregunta": "Si la distancia de separación entre dos cargas puntuales se duplica, ¿cómo cambia la magnitud de la fuerza eléctrica entre ellas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Se duplica.",
+        "B": "Se reduce a la mitad.",
+        "C": "Se cuadruplica.",
+        "D": "Se reduce a la cuarta parte.",
+        "E": "No cambia."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza eléctrica es inversamente proporcional al cuadrado de la distancia ($$F \\propto \\frac{1}{d^2}$$). Si la distancia original es $$d$$ y la nueva distancia es $$2d$$, la nueva fuerza $$F'$$ será proporcional a $$\\frac{1}{(2d)^2} = \\frac{1}{4d^2}$$. Por lo tanto, la nueva fuerza es $$1/4$$ de la fuerza original; se reduce a la cuarta parte.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_014",
+      "pregunta": "Se observa que dos cargas puntuales, $$q_1$$ y $$q_2$$, ejercen una fuerza de repulsión entre sí. ¿Qué se puede concluir con certeza sobre los signos de estas cargas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Ambas cargas son positivas.",
+        "B": "Ambas cargas son negativas.",
+        "C": "Una carga es positiva y la otra es negativa.",
+        "D": "Ambas cargas tienen el mismo signo.",
+        "E": "Una de las cargas debe ser neutra."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Ley Cualitativa de la electrostática establece que las cargas del mismo signo se repelen. Una fuerza de repulsión indica que las dos cargas tienen el mismo signo, pero no podemos determinar si ambas son positivas o si ambas son negativas sin más información. Por lo tanto, la única conclusión certera es que ambas tienen el mismo signo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_100_015",
+      "pregunta": "Dos cargas eléctricas, $$q_1$$ y $$q_2$$, separadas una distancia $$d$$, experimentan una fuerza de magnitud $$F$$. Si la magnitud de $$q_1$$ se duplica y la distancia de separación se reduce a la mitad ($$d/2$$), ¿cuál será la nueva magnitud de la fuerza eléctrica?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "$$F$$",
+        "B": "$$2F$$",
+        "C": "$$4F$$",
+        "D": "$$8F$$",
+        "E": "$$F/2$$"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La fuerza original es $$F = k \\frac{|q_1||q_2|}{d^2}$$. Las nuevas condiciones son una carga $$q_1' = 2q_1$$ y una distancia $$d' = d/2$$. La nueva fuerza $$F'$$ será: $$F' = k \\frac{|(2q_1)||q_2|}{(d/2)^2} = k \\frac{2|q_1||q_2|}{d^2/4} = (2 \\times 4) \\left( k \\frac{|q_1||q_2|}{d^2} \\right) = 8F$$. La nueva magnitud de la fuerza es 8 veces la magnitud original.",
+      "imagen": null
+    }
+  ]
+}

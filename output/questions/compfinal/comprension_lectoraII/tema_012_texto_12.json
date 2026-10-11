@@ -1,0 +1,54 @@
+{
+  "materia": "comprension_lectoraII",
+  "numero_tema": 12,
+  "total_temas": 20,
+  "titulo_tema": "Texto 12",
+  "texto": "La paradoja del ahorro, un concepto central en la economía keynesiana, postula una contradicción fundamental entre la racionalidad individual y el bienestar macroeconómico. A nivel microeconómico, un aumento en el ahorro personal se considera una virtud, un acto prudente que asegura la estabilidad financiera futura. Sin embargo, cuando esta conducta se generaliza en toda una sociedad, especialmente durante periodos de incertidumbre, sus efectos pueden ser contraproducentes.\n\nEl mecanismo es el siguiente: un incremento masivo del ahorro implica, por definición, una disminución del consumo. Esta caída en la demanda agregada envía una señal negativa a las empresas, que responden reduciendo su producción y, consecuentemente, despidiendo trabajadores o recortando salarios. El resultado es una contracción económica o una recesión. Irónicamente, el desempleo y la reducción de ingresos resultantes hacen que la capacidad total de ahorro de la sociedad disminuya, frustrando el objetivo inicial de los individuos. Este fenómeno ilustra la falacia de composición: lo que es beneficioso para una parte (el individuo) no lo es necesariamente para el todo (la economía). La paradoja sugiere que la frugalidad, aunque loable a escala personal, puede convertirse en un lastre para el crecimiento colectivo si no es contrarrestada por otras fuentes de demanda.",
+  "preguntas": [
+    {
+      "id_temporal": "comp_ii_012_001",
+      "pregunta": "¿Cuál es la afirmación principal del texto?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El ahorro individual es la única vía para asegurar la estabilidad financiera de una nación.",
+        "B": "Las empresas son las principales responsables de las recesiones al reducir su producción deliberadamente.",
+        "C": "Una conducta de ahorro generalizada, aunque racional para el individuo, puede provocar una contracción económica a nivel agregado.",
+        "D": "La frugalidad es una virtud que siempre debe ser promovida por los gobiernos para fomentar el crecimiento económico.",
+        "E": "La demanda agregada depende exclusivamente de las políticas de inversión del sector privado."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La respuesta correcta es C porque resume de manera precisa el núcleo del texto: la paradoja consiste en que el ahorro, beneficioso a nivel individual, puede ser perjudicial a nivel macroeconómico al reducir la demanda y generar una recesión. La opción A contradice la idea central del texto. La B atribuye una intencionalidad a las empresas que el texto describe como una respuesta a la caída de la demanda. La D ignora el efecto contraproducente de la frugalidad masiva que el texto expone. La E es incorrecta porque el texto menciona que la demanda proviene del consumo y puede ser contrarrestada por otras fuentes, no solo la inversión privada.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "comp_ii_012_002",
+      "pregunta": "Del texto se infiere que...",
+      "dificultad": 2,
+      "opciones": {
+        "A": "los principios que rigen las finanzas personales son directamente aplicables a la gestión económica de un país.",
+        "B": "la intervención del Estado a través del gasto público podría ser un mecanismo para mitigar los efectos de la paradoja del ahorro.",
+        "C": "cualquier incremento en el ahorro individual conduce inevitablemente a una crisis económica profunda y duradera.",
+        "D": "la incertidumbre económica no tiene un impacto significativo en las decisiones de consumo de la población.",
+        "E": "el objetivo final de toda política económica es maximizar la tasa de ahorro de sus ciudadanos."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La inferencia correcta es B. El texto concluye afirmando que el efecto negativo del ahorro masivo puede ser \"contrarrestada por otras fuentes de demanda\". Aunque no lo especifica, el gasto gubernamental es una de esas fuentes, lo que permite deducir que la intervención estatal es una posible solución. La opción A es precisamente la \"falacia de composición\" que el texto refuta. La C es una exageración, ya que el texto no afirma que el resultado sea \"inevitablemente\" una crisis \"profunda y duradera\". La D es falsa; el texto menciona que la paradoja ocurre \"especialmente durante periodos de incertidumbre\". La E contradice la lógica del texto, que advierte sobre los peligros de un ahorro excesivo a nivel agregado.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "comp_ii_012_003",
+      "pregunta": "Si, en un escenario de incertidumbre, se negara la premisa de un aumento masivo del ahorro y, en su lugar, la población decidiera *aumentar* su consumo, ¿cuál sería la consecuencia más probable según la lógica del texto?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "La recesión se agravaría debido al agotamiento de los recursos financieros de las familias.",
+        "B": "Se generaría una espiral inflacionaria incontrolable de forma inmediata.",
+        "C": "El estímulo a la demanda agregada podría contribuir a reactivar la producción y el empleo.",
+        "D": "No se produciría ningún efecto notable en el ciclo económico a corto plazo.",
+        "E": "Las empresas reaccionarían acumulando inventarios en lugar de aumentar la producción."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Esta pregunta de extrapolación por negación invierte la lógica del texto. Si el aumento del ahorro causa una caída en la demanda que lleva a la recesión, entonces lo contrario (un aumento del consumo) provocaría un aumento en la demanda agregada. Según el mecanismo descrito, esta señal positiva incentivaría a las empresas a aumentar la producción y el empleo para satisfacerla, por lo que C es la respuesta correcta. La opción A presenta una consecuencia posible a largo plazo (endeudamiento), pero no el efecto macroeconómico inmediato descrito. La B (inflación) es una posibilidad si el aumento de la demanda es excesivo, pero no es la consecuencia directa e inicial según la lógica del texto. La D es improbable, ya que un cambio masivo en el consumo tendría efectos. La E es ilógica, pues las empresas buscarían satisfacer la demanda creciente, no acumular productos.",
+      "imagen": null
+    }
+  ]
+}

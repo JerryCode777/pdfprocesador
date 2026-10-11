@@ -6,52 +6,52 @@
   "preguntas": [
     {
       "id_temporal": "quimica_264_001",
-      "pregunta": "¿Qué tipo de enlace es característico de los hidrocarburos alquinos?",
+      "pregunta": "¿Con qué otro nombre se conocen los hidrocarburos alquinos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Un enlace simple entre carbonos (C-C)",
-        "B": "Un enlace doble entre carbonos (C=C)",
-        "C": "Un enlace triple entre carbonos (C≡C)",
-        "D": "Un enlace iónico",
-        "E": "Un enlace cuádruple entre carbonos"
+        "A": "Etilénicos",
+        "B": "Acetilénicos o etínicos",
+        "C": "Parafínicos",
+        "D": "Olefínicos",
+        "E": "Aromáticos"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Los alquinos se definen por la presencia de al menos un triple enlace entre dos átomos de carbono (C≡C) en su estructura. Los enlaces simples caracterizan a los alcanos y los dobles a los alquenos.",
+      "respuesta_correcta": "B",
+      "explicacion": "Los alquinos son también denominados hidrocarburos acetilénicos o etínicos. Estos nombres derivan del primer y más simple compuesto de su serie, el acetileno, cuyo nombre sistemático es etino.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_002",
-      "pregunta": "Los alquinos también son conocidos como hidrocarburos acetilénicos o etínicos debido a que el primer compuesto de su serie es el:",
+      "pregunta": "¿Qué tipo de enlace covalente es la característica distintiva de los alquinos?",
       "dificultad": 1,
       "opciones": {
-        "A": "Propeno",
-        "B": "Butano",
-        "C": "Etano",
-        "D": "Etino",
-        "E": "Metano"
+        "A": "Un enlace simple C-C",
+        "B": "Un enlace doble C=C",
+        "C": "Un enlace triple C≡C",
+        "D": "Un enlace cuádruple C≡≡C",
+        "E": "Enlaces de hidrógeno"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El etino, comúnmente llamado acetileno, es el alquino más simple (dos átomos de carbono unidos por un triple enlace). Su importancia y posición como primer miembro de la serie da nombre a la familia de hidrocarburos acetilénicos o etínicos.",
+      "respuesta_correcta": "C",
+      "explicacion": "La característica fundamental que define a un alquino es la presencia de al menos un triple enlace entre dos átomos de carbono (C≡C) en su estructura molecular.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_003",
-      "pregunta": "¿Cuál es la hibridación de los átomos de carbono que participan en un triple enlace (C≡C)?",
+      "pregunta": "¿Cuál es la hibridación de los átomos de carbono que participan en un triple enlace?",
       "dificultad": 1,
       "opciones": {
         "A": "$$sp^3$$",
         "B": "$$sp^2$$",
         "C": "$$sp$$",
-        "D": "$$s^2p^2$$",
-        "E": "$$p^3$$"
+        "D": "$$d^2sp^3$$",
+        "E": "$$s^2p^2$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "Los átomos de carbono que forman un triple enlace tienen una hibridación $$sp$$. Esta hibridación permite la formación de los dos enlaces pi (π) y un enlace sigma (σ) que componen el triple enlace, resultando en una geometría lineal.",
+      "explicacion": "Los dos átomos de carbono que están unidos por un triple enlace presentan una hibridación de tipo $$sp$$. Esta hibridación da como resultado una geometría lineal para el segmento C≡C de la molécula.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_004",
-      "pregunta": "La fórmula global para un alquino que posee un único triple enlace es:",
+      "pregunta": "¿Cuál es la fórmula general para un alquino acíclico que contiene un único triple enlace?",
       "dificultad": 1,
       "opciones": {
         "A": "$$C_nH_{2n+2}$$",
@@ -61,172 +61,172 @@
         "E": "$$C_nH_n$$"
       },
       "respuesta_correcta": "C",
-      "explicacion": "La fórmula general para los alquinos con un solo triple enlace es $$C_nH_{2n-2}$$. Esta fórmula refleja la pérdida de cuatro átomos de hidrógeno en comparación con un alcano ($$C_nH_{2n+2}$$) para formar el triple enlace.",
+      "explicacion": "La fórmula general para un alquino con un solo triple enlace es $$C_nH_{2n-2}$$, donde $n$ representa el número de átomos de carbono. Esta fórmula refleja que un alquino tiene cuatro hidrógenos menos que el alcano correspondiente con el mismo número de carbonos.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_005",
-      "pregunta": "¿Cuál es el uso principal del acetileno (etino), la molécula más simple de los alquinos?",
+      "pregunta": "¿Cuál es una de las aplicaciones mencionadas para el acetileno (etino)?",
       "dificultad": 1,
       "opciones": {
-        "A": "Fabricación de plásticos",
-        "B": "Combustible para automóviles",
-        "C": "Solvente industrial",
-        "D": "Aplicaciones en soldaduras",
-        "E": "Aditivo alimentario"
+        "A": "Fabricación de polímeros",
+        "B": "Como disolvente orgánico",
+        "C": "Uso en soldaduras",
+        "D": "Aditivo para gasolinas",
+        "E": "Producción de fármacos"
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El acetileno es ampliamente utilizado en sopletes de soldadura oxicorte debido a la alta temperatura que alcanza su llama al combinarse con oxígeno, lo que permite cortar y soldar metales.",
+      "respuesta_correcta": "C",
+      "explicacion": "El acetileno, o etino, es el alquino más simple y se menciona específicamente que se emplea en soldaduras. Su combustión con oxígeno produce una llama de muy alta temperatura, ideal para este propósito.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_006",
-      "pregunta": "Al nombrar un hidrocarburo con más de un enlace doble o triple, como en el caso del octa-1,6-dieno, ¿qué modificación se realiza en el prefijo de la cadena principal?",
+      "pregunta": "Al nombrar un hidrocarburo con más de un doble o triple enlace, ¿qué modificación se le hace al prefijo de la cadena principal?",
       "dificultad": 2,
       "opciones": {
-        "A": "Se le añade el sufijo '-il'",
-        "B": "Se le añade la letra 'a' al final",
-        "C": "Se duplica la primera letra",
-        "D": "Se elimina la última vocal",
-        "E": "No se realiza ninguna modificación"
+        "A": "Se añade el sufijo \"-ilo\".",
+        "B": "No se realiza ninguna modificación.",
+        "C": "Se elimina la última vocal del prefijo.",
+        "D": "Se añade la letra \"a\" al final del prefijo.",
+        "E": "Se duplica la primera sílaba."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla de nomenclatura indica que cuando hay múltiples insaturaciones (dos o más dobles o triples enlaces), el prefijo que indica el número de carbonos de la cadena principal debe terminar en 'a'. Por ejemplo, se usa 'buta-', 'penta-', 'hexa-', 'octa-', etc., en lugar de 'but-', 'pent-', 'hex-', 'oct-'.",
+      "respuesta_correcta": "D",
+      "explicacion": "Cuando un hidrocarburo insaturado tiene múltiples enlaces dobles o triples, el prefijo que indica el número de carbonos de la cadena principal debe terminar en la letra \"a\". Por ejemplo, se usa \"buta-\" en lugar de \"but-\" para un dieno de cuatro carbonos, como en buta-1,3-dieno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_007",
-      "pregunta": "En la nomenclatura de un alquenino (compuesto con enlaces dobles y triples), ¿qué criterio tiene prioridad al numerar la cadena principal si un doble y un triple enlace están a la misma distancia de los extremos opuestos?",
+      "pregunta": "¿Cuál es la fórmula global correcta para un hidrocarburo acíclico que contiene un número $t$ de triples enlaces?",
       "dificultad": 2,
       "opciones": {
-        "A": "El triple enlace tiene preferencia",
-        "B": "El doble enlace tiene preferencia",
-        "C": "Se elige la numeración que de el número más bajo al radical más cercano",
-        "D": "Se numera en orden alfabético de las insaturaciones",
-        "E": "Cualquiera de las dos numeraciones es aceptable"
+        "A": "$$C_nH_{2n+2-2t}$$",
+        "B": "$$C_nH_{2n-2t}$$",
+        "C": "$$C_nH_{2n-4t}$$",
+        "D": "$$C_nH_{2n+2-4t}$$",
+        "E": "$$C_nH_{2n+2+4t}$$"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla establece que se debe numerar desde el extremo más cercano a cualquier insaturación. Sin embargo, en caso de empate en la distancia, el doble enlace tiene prioridad sobre el triple enlace y se le asigna el localizador más bajo.",
+      "respuesta_correcta": "D",
+      "explicacion": "La fórmula general para un alcano es $$C_nH_{2n+2}$$. Cada triple enlace introduce dos grados de insaturación, lo que equivale a la pérdida de cuatro átomos de hidrógeno. Por lo tanto, para un hidrocarburo con $t$ triples enlaces, la fórmula es $$C_nH_{2n+2-4t}$$",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_008",
-      "pregunta": "¿Cuál es la fórmula general para un hidrocarburo acíclico que contiene 't' triples enlaces?",
+      "pregunta": "En la nomenclatura de alqueninos (compuestos con dobles y triples enlaces), ¿cuál es el criterio fundamental para seleccionar la cadena principal?",
       "dificultad": 2,
       "opciones": {
-        "A": "$$C_nH_{2n-2t}$$",
-        "B": "$$C_nH_{2n+2-2t}$$",
-        "C": "$$C_nH_{2n+2-4t}$$",
-        "D": "$$C_nH_{2n-4t}$$",
-        "E": "$$C_nH_{2n+2+4t}$$"
+        "A": "Debe ser la cadena más larga.",
+        "B": "Debe contener el mayor número de sustituyentes.",
+        "C": "Debe contener tanto el doble como el triple enlace.",
+        "D": "Debe ser la cadena con menos ramificaciones.",
+        "E": "Debe contener únicamente carbonos con hibridación $$sp^2$$."
       },
       "respuesta_correcta": "C",
-      "explicacion": "La fórmula general para un alcano es $$C_nH_{2n+2}$$. Cada triple enlace introduce una deficiencia de 4 hidrógenos. Por lo tanto, para 't' triples enlaces, se restan $$4t$$ hidrógenos de la fórmula del alcano, resultando en $$C_nH_{2n+2-4t}$$.",
+      "explicacion": "El primer paso y el más importante al nombrar un alquenino es elegir la cadena principal. Esta debe ser la que contenga ambas insaturaciones, es decir, tanto el doble enlace como el triple enlace, incluso si existe otra cadena carbonada más larga en la molécula.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_009",
-      "pregunta": "¿Cuál es el primer paso crucial al nombrar un alquenino, un compuesto que contiene tanto dobles como triples enlaces?",
+      "pregunta": "Al numerar la cadena de un alquenino, si un doble enlace y un triple enlace se encuentran a la misma distancia de los extremos opuestos, ¿cuál de ellos tiene preferencia para recibir el localizador más bajo?",
       "dificultad": 2,
       "opciones": {
-        "A": "Identificar y nombrar todos los radicales en orden alfabético",
-        "B": "Numerar la cadena desde el extremo más cercano al triple enlace",
-        "C": "Escoger la cadena principal, que debe contener tanto el doble como el triple enlace",
-        "D": "Contar el número total de átomos de carbono para determinar el prefijo",
-        "E": "Dar prioridad al doble enlace sobre cualquier otro criterio"
+        "A": "El triple enlace, por tener mayor insaturación.",
+        "B": "El doble enlace.",
+        "C": "Se da preferencia alfabética (\"en\" antes de \"ino\").",
+        "D": "No hay preferencia, se puede empezar por cualquier extremo.",
+        "E": "El enlace que esté más cerca del sustituyente más complejo."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "El primer paso fundamental en la nomenclatura de alqueninos es seleccionar la cadena principal. Esta cadena no es necesariamente la más larga, sino aquella que contenga la máxima cantidad de insaturaciones, específicamente incluyendo tanto el doble como el triple enlace.",
+      "respuesta_correcta": "B",
+      "explicacion": "Las reglas de nomenclatura indican que, en caso de empate en la posición de las insaturaciones al numerar desde extremos opuestos, el doble enlace tiene prioridad sobre el triple enlace y debe recibir el número localizador más bajo.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_010",
-      "pregunta": "En un compuesto con múltiples sustituyentes (radicales), como el '3-hexil-3,7-dimetil-6-pentilnon-6-en-1-ino', ¿cómo se determina el orden en que se nombran dichos radicales?",
+      "pregunta": "El nombre \"octa-1,6-dieno\" describe un hidrocarburo que tiene:",
       "dificultad": 2,
       "opciones": {
-        "A": "Por tamaño, del más pequeño al más grande",
-        "B": "Por su posición en la cadena principal, en orden ascendente",
-        "C": "Por orden alfabético",
-        "D": "Por complejidad de su estructura",
-        "E": "No siguen un orden específico"
+        "A": "6 carbonos y dos dobles enlaces en las posiciones 1 y 8.",
+        "B": "8 carbonos, un doble enlace en la posición 1 y un triple enlace en la 6.",
+        "C": "16 carbonos y un solo doble enlace.",
+        "D": "8 carbonos y dos triples enlaces en las posiciones 1 y 6.",
+        "E": "8 carbonos y dos dobles enlaces en las posiciones 1 y 6."
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Las reglas de nomenclatura de la IUPAC establecen que los radicales o sustituyentes deben ser nombrados en estricto orden alfabético, ignorando los prefijos como 'di-', 'tri-', etc. En el ejemplo, 'hexil' va antes que 'metil' y 'pentil'.",
+      "respuesta_correcta": "E",
+      "explicacion": "Analizando el nombre: \"octa-\" indica una cadena de 8 carbonos; \"-di-\" indica que hay dos enlaces del mismo tipo; \"-en-\" especifica que son dobles enlaces; y los números \"1,6\" son los localizadores que indican las posiciones de inicio de estos dos dobles enlaces.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_011",
-      "pregunta": "En el nombre de un compuesto, las terminaciones \"-en\" e \"-ino\" indican respectivamente la presencia de:",
+      "pregunta": "¿Qué información estructural se deduce del sufijo \"-en-ino\" en el nombre de un hidrocarburo?",
       "dificultad": 2,
       "opciones": {
-        "A": "Un enlace simple y un enlace triple",
-        "B": "Un enlace doble y un enlace triple",
-        "C": "Un enlace triple y un enlace doble",
-        "D": "Dos enlaces dobles y tres enlaces triples",
-        "E": "Un radical y un enlace doble"
+        "A": "La presencia de dos dobles enlaces y un triple enlace.",
+        "B": "La presencia de al menos un doble enlace y al menos un triple enlace.",
+        "C": "La presencia de un triple enlace en una estructura cíclica.",
+        "D": "La presencia de un doble enlace y un radical etilo.",
+        "E": "La presencia de dos triples enlaces."
       },
       "respuesta_correcta": "B",
-      "explicacion": "La terminación \"-en\" se utiliza para designar la presencia de un doble enlace (C=C), característico de los alquenos. La terminación \"-ino\" se usa para designar la presencia de un triple enlace (C≡C), característico de los alquinos.",
+      "explicacion": "El sufijo \"-en-ino\" es una combinación utilizada para nombrar compuestos que contienen ambas funcionalidades. La parte \"-en\" indica la presencia de un doble enlace y la parte \"-ino\" indica la presencia de un triple enlace dentro de la misma cadena principal.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_012",
-      "pregunta": "El nombre 'octa-1,6-dieno' indica una molécula con:",
+      "pregunta": "¿Cómo se deben nombrar y ordenar los radicales o sustituyentes en la nomenclatura de los alqueninos?",
       "dificultad": 2,
       "opciones": {
-        "A": "Ocho carbonos y dos triples enlaces",
-        "B": "Seis carbonos y dos dobles enlaces",
-        "C": "Ocho carbonos y un doble enlace en la posición 6",
-        "D": "Ocho carbonos y dos dobles enlaces en las posiciones 1 y 6",
-        "E": "Seis carbonos y dos triples enlaces en las posiciones 1 y 8"
+        "A": "En orden de complejidad, del más simple al más complejo.",
+        "B": "En orden numérico según su posición en la cadena.",
+        "C": "Se nombran después de la cadena principal.",
+        "D": "En orden alfabético.",
+        "E": "En orden de tamaño, del más grande al más pequeño."
       },
       "respuesta_correcta": "D",
-      "explicacion": "El nombre se descompone de la siguiente manera: 'octa-' indica una cadena de ocho carbonos, '-di-' significa que hay dos, '-en-' indica que son dobles enlaces, y '1,6-' son los localizadores que indican que los dobles enlaces comienzan en los carbonos 1 y 6.",
+      "explicacion": "De acuerdo con las reglas de la IUPAC, todos los grupos sustituyentes o radicales se nombran como prefijos de la cadena principal y se listan en estricto orden alfabético, sin importar su posición numérica en la cadena.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_013",
-      "pregunta": "Un hidrocarburo lineal de 8 carbonos presenta un doble enlace en la posición 2 y un triple enlace en la posición 6. ¿Cómo se debe numerar la cadena para obtener el nombre IUPAC correcto?",
+      "pregunta": "Un hidrocarburo acíclico presenta la fórmula molecular $$C_8H_{10}$$. Utilizando la fórmula general, ¿cuántos triples enlaces contiene?",
       "dificultad": 3,
       "opciones": {
-        "A": "De derecha a izquierda para dar al triple enlace la posición 2",
-        "B": "De izquierda a derecha para dar al doble enlace la posición 2",
-        "C": "De derecha a izquierda para dar al doble enlace la posición 6",
-        "D": "La numeración es ambigua y ambas son correctas",
-        "E": "Se debe priorizar el orden alfabético, así que se empieza por la 'e' de 'en'"
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La regla de numeración establece que se debe empezar por el extremo más cercano a CUALQUIER insaturación. Numerando de izquierda a derecha, la primera insaturación (el doble enlace) está en la posición 2. Numerando de derecha a izquierda, la primera insaturación (el triple enlace) también estaría en la posición 2. En este caso de empate, la regla de desempate da prioridad al doble enlace, pero aquí no hay empate, la posición 2 es la más baja posible. Por lo tanto, se numera de izquierda a derecha (2-eno, 6-ino) ya que el 2 es el localizador más bajo posible para la primera insaturación.",
+      "respuesta_correcta": "C",
+      "explicacion": "Se utiliza la fórmula general para hidrocarburos con $t$ triples enlaces: $$C_nH_{2n+2-4t}$$. Para este caso, $n=8$ y el número de hidrógenos es 10. Sustituyendo en la fórmula: $$10 = 2(8) + 2 - 4t$$. Se simplifica a $$10 = 16 + 2 - 4t$$, es decir, $$10 = 18 - 4t$$. Despejando $t$, se obtiene $$4t = 18 - 10$$, lo que da $$4t = 8$$. Por lo tanto, $t = 2$. La molécula contiene dos triples enlaces.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_014",
-      "pregunta": "Utilizando la fórmula general $$C_nH_{2n+2-4t}$$, ¿cuál sería la fórmula molecular de un decadiino, un hidrocarburo con 10 átomos de carbono y dos triples enlaces?",
+      "pregunta": "En el compuesto **3-hexil-3,7-dimetil-6-pentilnon-6-en-1-ino**, ¿cuál es la razón principal para que el localizador del triple enlace sea \"1\"?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$C_{10}H_{20}$$",
-        "B": "$$C_{10}H_{18}$$",
-        "C": "$$C_{10}H_{16}$$",
-        "D": "$$C_{10}H_{14}$$",
-        "E": "$$C_{10}H_{12}$$"
+        "A": "Porque el triple enlace tiene prioridad alfabética sobre el doble enlace.",
+        "B": "Porque el nombre del compuesto debe terminar siempre con el número más bajo posible.",
+        "C": "Porque la numeración de la cadena comenzó por el extremo más cercano a una insaturación, que en este caso fue el triple enlace.",
+        "D": "Porque los triples enlaces siempre deben tener la posición 1.",
+        "E": "Porque la cadena principal tiene un número impar de carbonos."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "Para resolver esto, aplicamos la fórmula $$C_nH_{2n+2-4t}$$. Sabemos que el número de carbonos ($n$) es 10 y el número de triples enlaces ($t$) es 2. Sustituyendo los valores en la fórmula: \n\nNúmero de Hidrógenos = $$2(10) + 2 - 4(2)$$\nNúmero de Hidrógenos = $$20 + 2 - 8$$\nNúmero de Hidrógenos = $$22 - 8 = 14$$\n\nPor lo tanto, la fórmula molecular es $$C_{10}H_{14}$$.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla para numerar la cadena de un alquenino es empezar por el extremo que asigne el localizador más bajo a la primera insaturación, sin importar si es doble o triple. El nombre \"1-ino\" indica que el triple enlace se encuentra en la posición 1. Esto significa que dicho triple enlace era la insaturación más próxima a un extremo de la cadena principal, fijando así el sentido de la numeración.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_264_015",
-      "pregunta": "En el nombre 3-hexil-3,7-dimetil-6-pentilnon-6-en-1-ino, ¿cuál de las siguientes afirmaciones sobre la numeración de la cadena principal es correcta?",
+      "pregunta": "Considere una cadena de 9 carbonos con un triple enlace que comienza en el carbono 2 y un doble enlace que comienza en el carbono 7. ¿Desde qué extremo se debe numerar la cadena y por qué?",
       "dificultad": 3,
       "opciones": {
-        "A": "La numeración comenzó por el extremo más cercano al doble enlace, ya que tiene prioridad.",
-        "B": "La numeración se determinó para dar los números más bajos a los radicales.",
-        "C": "La numeración comenzó por el extremo derecho para que el doble enlace tenga el número 6.",
-        "D": "La numeración comenzó por el extremo más cercano al triple enlace, ya que este está en la posición 1.",
-        "E": "La cadena se numeró desde el extremo con el radical de mayor tamaño."
+        "A": "Desde el extremo más cercano al doble enlace, porque tiene preferencia en caso de empate.",
+        "B": "Desde el extremo más cercano al triple enlace, ya que su localizador (2) es menor que el del doble enlace (7).",
+        "C": "Es indiferente, ya que ambas son insaturaciones.",
+        "D": "Desde el extremo más cercano al doble enlace, porque \"en\" va antes que \"ino\" alfabéticamente.",
+        "E": "Desde el extremo que dé la suma de localizadores más baja, que sería 2+7=9."
       },
-      "respuesta_correcta": "D",
-      "explicacion": "El nombre indica un triple enlace en la posición 1 (...-1-ino) y un doble enlace en la posición 6 (...-6-en-...). La regla de nomenclatura dicta que la cadena debe numerarse desde el extremo más cercano a una insaturación (doble o triple). Dado que el triple enlace está en la posición 1, este es el localizador más bajo posible para una insaturación, lo que indica que la numeración obligatoriamente comenzó desde ese extremo de la cadena.",
+      "respuesta_correcta": "B",
+      "explicacion": "La regla fundamental para numerar alqueninos es iniciar por el extremo más cercano a la primera insaturación. En este escenario, una insaturación se encuentra en la posición 2 (el triple enlace) y la otra en la posición 7 (el doble enlace). Como el localizador 2 es menor que el 7, la numeración debe comenzar obligatoriamente por el extremo más cercano al triple enlace. La regla de preferencia del doble enlace solo se aplica en caso de empate, es decir, si ambas insaturaciones estuvieran a la misma distancia de los extremos opuestos.",
       "imagen": null
     }
   ]

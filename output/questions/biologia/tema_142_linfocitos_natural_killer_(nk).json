@@ -1,0 +1,233 @@
+{
+  "materia": "biologia",
+  "numero_tema": 142,
+  "total_temas": 320,
+  "titulo_tema": "Linfocitos Natural Killer (NK)",
+  "preguntas": [
+    {
+      "id_temporal": "biologia_142_001",
+      "pregunta": "¿A qué parte del sistema inmune pertenecen los linfocitos Natural Killer (NK)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Sistema inmune adaptativo",
+        "B": "Sistema inmune humoral",
+        "C": "Sistema inmune innato",
+        "D": "Sistema inmune pasivo",
+        "E": "Sistema inmune adquirido"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos Natural Killer (NK) son componentes del sistema inmune innato. A diferencia de los linfocitos B y T que pertenecen al sistema adaptativo, los NK no requieren una exposición previa para activarse y actúan como una primera línea de defensa contra células anormales.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_002",
+      "pregunta": "¿Qué sustancias específicas contienen los gránulos de los linfocitos NK para ejercer su actividad citolítica?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Anticuerpos y antígenos",
+        "B": "Histaminas y heparinas",
+        "C": "Linfocinas y monocinas",
+        "D": "Perforinas y granzimas",
+        "E": "Colágeno y elastina"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Los linfocitos NK producen gránulos que contienen perforinas y granzimas. Las perforinas crean poros en la membrana de la célula diana, permitiendo que las granzimas entren e inicien el proceso de muerte celular programada o apoptosis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_003",
+      "pregunta": "¿Dónde se lleva a cabo la maduración de los linfocitos T, donde aprenden a reconocer lo propio de lo ajeno?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En la médula ósea roja",
+        "B": "En el bazo",
+        "C": "En los ganglios linfáticos",
+        "D": "En las placas de Peyer",
+        "E": "En el timo"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Aunque los linfocitos T se originan en la médula ósea roja, migran al timo para madurar. Este proceso, conocido como maduración tímica, es crucial para que aprendan a diferenciar las células del propio cuerpo de los agentes extraños, evitando así respuestas autoinmunes.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_004",
+      "pregunta": "¿Cuál es la función principal de los linfocitos B en la inmunidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Destruir células infectadas directamente",
+        "B": "Producir anticuerpos",
+        "C": "Regular la respuesta inflamatoria",
+        "D": "Fagocitar patógenos",
+        "E": "Participar en la inmunidad innata"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Los linfocitos B son los responsables de la inmunidad humoral. Su función principal es reconocer antígenos específicos y, una vez activados, diferenciarse en células plasmáticas que producen grandes cantidades de anticuerpos para neutralizar a los patógenos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_005",
+      "pregunta": "¿Qué es la inflamación en el contexto de la respuesta inmune innata?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La producción de anticuerpos específicos",
+        "B": "La maduración de los linfocitos T en el timo",
+        "C": "La acumulación de leucocitos y proteínas plasmáticas en un sitio de infección o lesión",
+        "D": "La creación de memoria inmunológica",
+        "E": "La liberación de perforinas y granzimas por los linfocitos B"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inflamación es una reacción clave de la inmunidad innata que consiste en la acumulación y activación de leucocitos y proteínas del plasma en el lugar donde ha ocurrido una infección o una lesión tisular, con el fin de combatir a los microorganismos y reparar el daño.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_006",
+      "pregunta": "Una característica fundamental de la respuesta inmune innata es que:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Genera una memoria duradera contra patógenos específicos.",
+        "B": "Es más lenta que la respuesta adaptativa.",
+        "C": "Responde de la misma manera ante exposiciones repetidas al mismo microorganismo.",
+        "D": "Depende exclusivamente de la producción de anticuerpos.",
+        "E": "Es altamente específica para cada tipo de antígeno."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema inmune innato no posee memoria inmunológica. Esto significa que, a diferencia del sistema adaptativo, su respuesta ante una segunda o posterior infección por el mismo agente será idéntica en magnitud y rapidez a la primera, ya que no guarda información sobre el encuentro previo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_007",
+      "pregunta": "¿Qué tipo de células son reconocidas y eliminadas preferentemente por los linfocitos Natural Killer?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Bacterias extracelulares",
+        "B": "Linfocitos B inactivos",
+        "C": "Células estresadas y dañadas",
+        "D": "Patógenos con antígenos específicos ya conocidos",
+        "E": "Células presentadoras de antígeno"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos NK tienen la capacidad de patrullar el cuerpo y reconocer células que muestran signos de estrés o daño, como las células infectadas por virus o las células tumorales. No necesitan un antígeno específico, sino que detectan cambios en la superficie celular que indican un problema.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_008",
+      "pregunta": "¿Cuál es el resultado final del mecanismo de citotoxicidad ejercido por los linfocitos NK sobre una célula diana?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La fagocitosis de la célula diana",
+        "B": "La neutralización de la célula mediante anticuerpos",
+        "C": "La activación de la célula para que combata una infección",
+        "D": "La inducción de apoptosis en la célula diana",
+        "E": "La lisis celular por choque osmótico"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La actividad citolítica de los linfocitos NK, mediada por perforinas y granzimas, no causa una explosión celular (lisis) inmediata. En su lugar, inicia una cascada de señales internas en la célula diana que la lleva a una muerte celular programada y controlada, conocida como apoptosis.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_009",
+      "pregunta": "¿Qué proceso transforma a un linfocito B en una célula productora de anticuerpos?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La maduración tímica",
+        "B": "El reconocimiento de una célula estresada",
+        "C": "El reconocimiento de un antígeno específico y su posterior activación",
+        "D": "La exposición a perforinas y granzimas",
+        "E": "La participación en la respuesta inflamatoria"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un linfocito B se activa cuando su receptor de superficie reconoce a un antígeno para el cual es específico. Esta activación desencadena su proliferación y diferenciación en células plasmáticas, que son las fábricas especializadas en producir y secretar grandes cantidades de anticuerpos contra ese antígeno.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_010",
+      "pregunta": "Los linfocitos B y T son componentes clave del sistema inmune adaptativo, mientras que los linfocitos NK lo son del sistema inmune innato. ¿Cuál es el origen común de estos tres tipos de células?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El timo",
+        "B": "Los ganglios linfáticos",
+        "C": "El tejido epitelial",
+        "D": "La médula ósea roja",
+        "E": "El bazo"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "A pesar de sus diferentes funciones y lugares de maduración, tanto los linfocitos B, como los T y los Natural Killer (NK), se originan a partir de células madre hematopoyéticas en la médula ósea roja.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_011",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente una diferencia clave entre la inmunidad innata y la adaptativa?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La innata es específica y la adaptativa es inespecífica.",
+        "B": "La innata es la segunda línea de defensa y la adaptativa es la primera.",
+        "C": "La innata es inmediata, mientras que la adaptativa tarda más en desarrollarse.",
+        "D": "La innata utiliza anticuerpos y la adaptativa, barreras físicas.",
+        "E": "La innata genera memoria, pero la adaptativa no."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunidad innata se considera una defensa temprana porque se activa inmediatamente después de una infección. Por otro lado, la inmunidad adaptativa, que involucra a los linfocitos B y T, requiere tiempo para reconocer el antígeno, activar las células correctas y montar una respuesta específica, por lo que es más tardía.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_012",
+      "pregunta": "La inmunidad humoral es una rama de la inmunidad adaptativa. ¿Qué célula es la principal efectora de este tipo de inmunidad?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Linfocito T",
+        "B": "Linfocito Natural Killer",
+        "C": "Macrófago",
+        "D": "Célula epitelial",
+        "E": "Linfocito B"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "La inmunidad humoral se basa en la acción de los anticuerpos, que circulan por los fluidos corporales (humores). Los linfocitos B son las células que, al activarse, se convierten en células plasmáticas y producen estos anticuerpos, siendo por tanto las protagonistas de la inmunidad humoral.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_013",
+      "pregunta": "Si un individuo se infecta con un virus que causa estrés en las células epiteliales, ¿qué respuesta inmunitaria se activaría de forma más inmediata y directa para eliminar estas células afectadas?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Los linfocitos B producirían anticuerpos específicos contra el virus.",
+        "B": "Los linfocitos T madurarían en el timo para reconocer el virus.",
+        "C": "Los linfocitos NK reconocerían las células estresadas e inducirían su apoptosis.",
+        "D": "Se formaría memoria inmunológica para prevenir futuras infecciones.",
+        "E": "Las células plasmáticas liberarían granzimas para destruir el virus."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La respuesta más inmediata sería la del sistema inmune innato. Los linfocitos NK están especializados en detectar señales de estrés en las células, como las causadas por una infección viral. Actuarían rápidamente para eliminar estas células infectadas mediante citotoxicidad, antes de que la respuesta adaptativa (linfocitos B y T) se desarrolle completamente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_014",
+      "pregunta": "Compara el mecanismo de reconocimiento de un linfocito B con el de un linfocito NK. ¿Cuál es la diferencia fundamental?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "El linfocito B reconoce células dañadas, mientras que el NK reconoce antígenos específicos.",
+        "B": "Ambos reconocen antígenos, pero el B lo hace en el timo y el NK en la médula ósea.",
+        "C": "El linfocito B reconoce un único antígeno específico para fabricar anticuerpos, mientras que el NK reconoce patrones generales de estrés celular.",
+        "D": "El linfocito NK produce anticuerpos, mientras que el linfocito B induce apoptosis.",
+        "E": "No hay diferencia, ambos forman parte de la inmunidad innata y actúan de forma similar."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia clave radica en la especificidad. El linfocito B es parte de la inmunidad adaptativa y está programado para reconocer una estructura molecular muy concreta (un antígeno). En cambio, el linfocito NK, de la inmunidad innata, no busca antígenos específicos, sino que detecta señales más generales que indican que una célula no está sana (estresada o dañada).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "biologia_142_015",
+      "pregunta": "Un paciente sufre una infección por un patógeno por primera vez. Semanas después, su sistema inmune adaptativo ha generado una respuesta. Si un año después se reinfecta con el mismo patógeno, ¿qué papel jugarían los linfocitos NK en comparación con su rol en la primera infección?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Su respuesta sería mucho más rápida y potente gracias a la memoria inmunológica.",
+        "B": "No actuarían, ya que la respuesta adaptativa se encargaría de todo.",
+        "C": "Su respuesta sería similar en rapidez y mecanismo a la de la primera infección, actuando como primera línea de defensa.",
+        "D": "Se transformarían en células plasmáticas para ayudar a producir anticuerpos.",
+        "E": "Actuarían de forma más lenta, esperando la activación de los linfocitos T."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Los linfocitos NK pertenecen al sistema inmune innato, el cual no genera memoria. Por lo tanto, su respuesta a la segunda infección sería idéntica a la primera: una activación inmediata al detectar células estresadas por el patógeno. Aunque la respuesta adaptativa (con memoria) sería mucho más eficaz en la segunda exposición, la función de los NK como primera defensa innata se mantendría sin cambios.",
+      "imagen": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "materia": "fisica",
+  "numero_tema": 18,
+  "total_temas": 137,
+  "titulo_tema": "Sistemas de Referencia",
+  "preguntas": [
+    {
+      "id_temporal": "fisica_018_001",
+      "pregunta": "¿Cuál es la definición de masa de un cuerpo?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "La fuerza con que es atraído hacia el centro de la Tierra.",
+        "B": "La cantidad de materia que contiene un cuerpo.",
+        "C": "Una cantidad vectorial que se mide en Newtons.",
+        "D": "Una propiedad que varía dependiendo de la gravedad local.",
+        "E": "El espacio que ocupa un objeto."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa es una magnitud escalar que representa la cantidad de materia que posee un cuerpo y es una medida de su inercia. A diferencia del peso, la masa es una propiedad intrínseca que no varía con la ubicación del cuerpo.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_002",
+      "pregunta": "¿En qué unidad se mide el peso de un cuerpo en el Sistema Internacional (S.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Kilogramo (kg)",
+        "B": "Metro (m)",
+        "C": "Segundo (s)",
+        "D": "Newton (N)",
+        "E": "Gramo (g)"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El peso es una fuerza, y la unidad de medida para la fuerza en el Sistema Internacional es el Newton (N). El kilogramo (kg) es la unidad de masa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_003",
+      "pregunta": "¿Qué es un sistema de referencia en el contexto de la física?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Un conjunto de leyes universales sobre el movimiento.",
+        "B": "Un instrumento para medir la masa y el peso.",
+        "C": "El punto exacto donde ocurre un fenómeno físico.",
+        "D": "Un lugar del espacio en el cual se sitúa un observador para analizar un fenómeno.",
+        "E": "La velocidad constante de un objeto en el vacío."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Un sistema de referencia es el lugar o marco desde el cual un observador realiza mediciones y analiza un fenómeno físico, como el movimiento mecánico. Es fundamental para describir cómo se mueven los objetos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_004",
+      "pregunta": "¿Qué característica define a un sistema de referencia inercial (S.R.I.)?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es un sistema que siempre está en reposo.",
+        "B": "Es un sistema en el que es válida la primera ley de Newton.",
+        "C": "Es un sistema que se mueve con aceleración constante.",
+        "D": "Es un sistema donde los objetos no tienen peso.",
+        "E": "Es un sistema que rota sobre su propio eje."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un sistema de referencia inercial se define fundamentalmente como aquel en el que se cumplen las leyes de Newton, en especial la primera ley o ley de la inercia. Estos sistemas están en reposo o se mueven con velocidad constante.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_005",
+      "pregunta": "La unidad de masa en el Sistema Internacional (S.I.) es una magnitud fundamental. ¿Cuál es esta unidad?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "El Newton (N)",
+        "B": "La libra (lb)",
+        "C": "El kilogramo (kg)",
+        "D": "El gramo (g)",
+        "E": "El metro cúbico (m³)"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La masa es una de las siete magnitudes fundamentales del Sistema Internacional de Unidades, y su unidad estándar es el kilogramo (kg).",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_006",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la relación entre masa y peso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa es una fuerza y el peso es la cantidad de materia.",
+        "B": "La masa es una cantidad vectorial y el peso es una cantidad escalar.",
+        "C": "La masa de un cuerpo es constante, mientras que su peso puede variar según la gravedad del lugar.",
+        "D": "El peso y la masa se miden en las mismas unidades (kg).",
+        "E": "Un cuerpo sin peso tampoco tiene masa."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La diferencia clave es que la masa es una propiedad intrínseca y constante de un cuerpo, mientras que el peso es la fuerza gravitacional que actúa sobre esa masa, la cual depende de la aceleración de la gravedad local ($$F_g = mg$$). Por ello, el peso cambia de un lugar a otro, pero la masa no.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_007",
+      "pregunta": "¿Qué define a un sistema de referencia como no inercial?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que se mueve con velocidad constante respecto a un sistema inercial.",
+        "B": "Que se encuentra en reposo con respecto a las estrellas distantes.",
+        "C": "Que se encuentra acelerado con respecto a un observador en un marco inercial.",
+        "D": "Que las leyes de la física son idénticas a las de un sistema inercial.",
+        "E": "Que no existe fuerza de gravedad en su interior."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Un sistema de referencia no inercial es, por definición, aquel que experimenta una aceleración con respecto a un sistema de referencia inercial. En estos sistemas, las leyes de Newton no se cumplen de forma simple.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_008",
+      "pregunta": "¿Por qué la Tierra, a pesar de ser usada comúnmente como un sistema de referencia inercial, no lo es de forma estricta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque su campo magnético varía.",
+        "B": "Debido a su movimiento orbital y de rotación, que implican aceleraciones.",
+        "C": "Porque su masa no es suficientemente grande.",
+        "D": "Porque no es una esfera perfecta.",
+        "E": "Porque tiene una atmósfera."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un sistema inercial se mueve con velocidad constante (aceleración cero). La Tierra está en constante rotación sobre su eje y en traslación alrededor del Sol, ambos movimientos son acelerados. Sin embargo, para muchos experimentos, estas aceleraciones son lo suficientemente pequeñas como para ser despreciadas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_009",
+      "pregunta": "¿Cómo se define un Newton (N) en términos de las unidades fundamentales de masa y aceleración?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "$$1 N = 1 \\text{ kg} / 1 \\text{ m/s}^2$$",
+        "B": "$$1 N = 1 \\text{ g} \\times 1 \\text{ cm/s}^2$$",
+        "C": "$$1 N = 1 \\text{ kg} \\times 9.8 \\text{ m/s}^2$$",
+        "D": "$$1 N = 1 \\text{ kg} \\times 1 \\text{ m/s}$$",
+        "E": "$$1 N = 1 \\text{ kg} \\times 1 \\text{ m/s}^2$$"
+      },
+      "respuesta_correcta": "E",
+      "explicacion": "Un Newton es la fuerza resultante que, al ser aplicada a un cuerpo con una masa de un kilogramo, le provoca una aceleración de un metro por segundo al cuadrado. Esto se expresa matemáticamente como $$1 \\text{ N} = 1 \\text{ kg} \\cdot \\text{m/s}^2$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_010",
+      "pregunta": "Si un astronauta está en una nave espacial que se mueve con velocidad constante lejos de cualquier planeta, ¿en qué tipo de sistema de referencia se encuentra?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Sistema de referencia no inercial",
+        "B": "Sistema de referencia acelerado",
+        "C": "Sistema de referencia rotacional",
+        "D": "Sistema de referencia inercial",
+        "E": "Sistema de referencia gravitacional"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Cualquier marco de referencia que se mueva con velocidad constante respecto a otro marco inercial (como el de las estrellas distantes) es también un sistema de referencia inercial. En él, las leyes de Newton son válidas.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_011",
+      "pregunta": "¿Dónde presenta un cuerpo su peso máximo y mínimo en la superficie terrestre?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Máximo en el Ecuador, mínimo en los polos.",
+        "B": "Máximo en los polos, mínimo en el Ecuador.",
+        "C": "El peso es constante en toda la superficie.",
+        "D": "Máximo en las montañas altas, mínimo a nivel del mar.",
+        "E": "Mínimo en las montañas altas, máximo a nivel del mar."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El peso depende de la gravedad local. Un cuerpo presenta su peso máximo en los polos terrestres y su peso mínimo en el Ecuador. Esto se debe a variaciones en la aceleración gravitacional en la superficie del planeta.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_012",
+      "pregunta": "La fórmula que relaciona el peso ($$F_g$$) con la masa ($$m$$) es $$F_g = mg$$. ¿Qué representa la variable $$g$$ en esta ecuación?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La masa del planeta.",
+        "B": "Una constante universal sin unidades.",
+        "C": "La aceleración de la gravedad local.",
+        "D": "El gradiente de la fuerza.",
+        "E": "La densidad del cuerpo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "En la ecuación del peso $$F_g = mg$$, la variable $$g$$ representa la magnitud de la aceleración debida a la gravedad en un lugar específico. Es esta dependencia de $$g$$ la que hace que el peso de un objeto varíe de un lugar a otro.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_013",
+      "pregunta": "Un objeto tiene una masa de 60 kg en la Tierra. Si este objeto es llevado a la Luna, donde la gravedad es aproximadamente 1/6 de la terrestre, ¿cuál será su masa en la Luna?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "10 kg",
+        "B": "60 kg",
+        "C": "360 kg",
+        "D": "10 N",
+        "E": "0 kg"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La masa es una propiedad intrínseca de la materia y no depende de la gravedad. Por lo tanto, la masa del objeto seguirá siendo de 60 kg sin importar si está en la Tierra, en la Luna o en cualquier otro lugar del universo. Lo que cambiará es su peso.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_014",
+      "pregunta": "Un cuerpo pesa 490 N en la superficie de la Tierra. Si se traslada a la Luna, donde la gravedad es la sexta parte de la gravedad terrestre, ¿cuál será su peso aproximado en la Luna?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "490 N",
+        "B": "2940 N",
+        "C": "81.7 N",
+        "D": "49 N",
+        "E": "8.17 N"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "El peso es directamente proporcional a la aceleración de la gravedad ($$F_g = mg$$). Si la gravedad en la Luna es 1/6 de la terrestre, el peso del cuerpo en la Luna también será 1/6 de su peso en la Tierra. Por lo tanto, el nuevo peso será: $$F_{g, Luna} = \\frac{490 \\text{ N}}{6} \\approx 81.7 \\text{ N}$$.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "fisica_018_015",
+      "pregunta": "Un observador se encuentra dentro de un ascensor que está acelerando hacia arriba. Para este observador, el ascensor constituye:",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Un sistema de referencia inercial porque se mueve en línea recta.",
+        "B": "Un sistema de referencia no inercial porque está acelerado.",
+        "C": "Un sistema de referencia inercial solo si la velocidad es muy alta.",
+        "D": "Un sistema de referencia donde las leyes de Newton se aplican sin modificaciones.",
+        "E": "Un sistema de referencia equivalente al de la superficie de la Tierra."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Un sistema de referencia es no inercial si está acelerado con respecto a un sistema inercial (como la Tierra, en aproximación). Un ascensor que acelera hacia arriba está cambiando su velocidad, por lo tanto, es un sistema de referencia no inercial. En él, un observador sentiría que su peso aparente aumenta, lo que evidencia que las leyes de Newton no se aplican de la forma habitual.",
+      "imagen": null
+    }
+  ]
+}

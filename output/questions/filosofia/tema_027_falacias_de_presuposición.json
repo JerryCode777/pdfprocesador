@@ -1,0 +1,233 @@
+{
+  "materia": "filosofia",
+  "numero_tema": 27,
+  "total_temas": 94,
+  "titulo_tema": "Falacias de Presuposición",
+  "preguntas": [
+    {
+      "id_temporal": "filosofi_027_001",
+      "pregunta": "¿Cuál es la característica principal de las falacias de presuposición?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Se basan en apelar a las emociones del interlocutor.",
+        "B": "Son consecuencia de hacer una suposición injustificada en el argumento.",
+        "C": "Utilizan un lenguaje ambiguo para confundir.",
+        "D": "Atacan a la persona que presenta el argumento en lugar del argumento mismo.",
+        "E": "Se derivan de una muestra estadística no representativa."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Las falacias de presuposición se definen como aquellas que surgen al realizar una suposición injustificada, la cual a menudo está sugerida por la forma en que se formula el argumento. Las otras opciones describen otros tipos de falacias, como las de relevancia (apelación a la emoción, ataque a la persona) o las de inducción deficiente.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_002",
+      "pregunta": "¿En qué consiste la falacia de Accidente?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "En asumir la conclusión dentro de una de las premisas.",
+        "B": "En hacer una pregunta que presupone una afirmación oculta.",
+        "C": "En aplicar indiscriminadamente una regla o principio general sin considerar sus excepciones.",
+        "D": "En distorsionar el argumento del oponente para refutarlo más fácilmente.",
+        "E": "En deducir una conclusión general a partir de un caso particular."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La falacia de Accidente se comete al aplicar una regla, principio o enunciado general de manera indiscriminada, ignorando que puede tener excepciones o ser válido solo bajo ciertas condiciones. Se pasa de lo general a un caso particular de forma ilegítima.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_003",
+      "pregunta": "La falacia de Petición de Principio también es conocida como:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Falacia de ambigüedad.",
+        "B": "Falacia del hombre de paja.",
+        "C": "Falacia de la circularidad.",
+        "D": "Falacia ad hominem.",
+        "E": "Falacia de apelación a la autoridad."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Petición de Principio (Petitio Principii) es también conocida como 'falacia de la circularidad'. Esto se debe a que el argumento se mueve en un círculo, usando la conclusión como una premisa para probarse a sí misma, lo que no ofrece ninguna prueba real.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_004",
+      "pregunta": "¿Qué caracteriza a la falacia de Pregunta Compleja?",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Es una pregunta excesivamente larga y difícil de entender.",
+        "B": "Es una pregunta que ofrece múltiples opciones de respuesta incorrectas.",
+        "C": "Es una pregunta formulada de tal manera que presupone la verdad de una conclusión oculta.",
+        "D": "Es una pregunta que no tiene ninguna respuesta posible.",
+        "E": "Es una pregunta que se aplica a una regla general sin excepciones."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La falacia de Pregunta Compleja se produce al formular una pregunta que lleva implícita una afirmación o conclusión no demostrada. Al intentar responder la pregunta, la persona puede parecer que acepta la presuposición oculta, aunque no sea su intención.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_005",
+      "pregunta": "En la Petición de Principio, la forma de argumentación donde la premisa y la conclusión se amparan recíprocamente se denomina:",
+      "dificultad": 1,
+      "opciones": {
+        "A": "Prueba indirecta.",
+        "B": "Reducción al absurdo.",
+        "C": "Argumento retórico.",
+        "D": "Círculo vicioso.",
+        "E": "Inferencia inválida."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "El 'círculo vicioso' o 'prueba en círculo' (circulus vitiosus) es la estructura específica de la Petición de Principio donde se emplea una premisa que es equivalente a la conclusión o que dice exactamente lo mismo, haciendo que ambas se apoyen mutuamente sin aportar una prueba externa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_006",
+      "pregunta": "El argumento \"Las naciones son soberanas, por lo tanto, México tiene derecho a quemar sus bosques\" es un ejemplo de la falacia de Accidente porque:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Asume que la soberanía de una nación es la única regla que importa.",
+        "B": "Ignora la condición de que el derecho a la soberanía no incluye el derecho a causar daño a sus habitantes o a la humanidad.",
+        "C": "Hace una pregunta compleja sobre la soberanía y los recursos naturales.",
+        "D": "Utiliza la conclusión (derecho a quemar bosques) para probar la premisa (las naciones son soberanas).",
+        "E": "Apela a las emociones patrióticas para defender la quema de bosques."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este argumento incurre en la falacia de Accidente porque aplica el principio general de la 'soberanía nacional' a un caso particular (quemar bosques) sin considerar las restricciones y condiciones implícitas. La soberanía no es un derecho absoluto que permita la autodestrucción o el perjuicio a otros, lo cual es una excepción crucial a la regla general.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_007",
+      "pregunta": "¿Por qué la pregunta \"¿Ha dejado usted de hacer trampa en los exámenes?\" es un ejemplo de Pregunta Compleja?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque aplica una regla general a un caso específico.",
+        "B": "Porque asume la conclusión de que la persona siempre dice la verdad.",
+        "C": "Porque la premisa y la conclusión son la misma cosa.",
+        "D": "Porque presupone que la persona ha hecho trampa en los exámenes anteriormente.",
+        "E": "Porque es una pregunta retórica sin respuesta."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Esta es una Pregunta Compleja porque contiene una presuposición oculta: que la persona a la que se le pregunta ha estado haciendo trampa en los exámenes. Si la persona contesta 'sí', admite haber hecho trampa antes. Si contesta 'no', también lo admite. La pregunta está diseñada para atrapar al interlocutor.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_008",
+      "pregunta": "El argumento \"Me gusta el coñac, porque es mi bebida favorita\" es un ejemplo de Petición de Principio porque:",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La conclusión no se sigue lógicamente de la premisa.",
+        "B": "La premisa (\"es mi bebida favorita\") es una reafirmación de la conclusión (\"me gusta el coñac\").",
+        "C": "Aplica incorrectamente el principio general del gusto personal.",
+        "D": "Esconde la pregunta de por qué el coñac es la bebida favorita.",
+        "E": "Se basa en una preferencia personal que no puede ser debatida."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Este es un caso claro de círculo vicioso, una forma de Petición de Principio. La razón que se da para justificar el gusto por el coñac (\"es mi bebida favorita\") no es una razón externa, sino simplemente otra forma de decir lo mismo que se afirma en la conclusión (\"me gusta el coñac\"). El argumento no aporta nueva información o justificación.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_009",
+      "pregunta": "¿Qué señal puede hacer sospechar que una pregunta es \"tendenciosa\" y podría ser una Pregunta Compleja?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "El uso de un lenguaje muy técnico y especializado.",
+        "B": "La exigencia agresiva de que se responda con \"un sí o con un no\".",
+        "C": "La referencia a una autoridad respetada en el campo.",
+        "D": "La presentación de estadísticas y datos numéricos.",
+        "E": "La formulación de la pregunta en un tono amable y conciliador."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Una característica común de la Pregunta Compleja es su presentación de forma agresiva, exigiendo una respuesta simple como 'sí' o 'no'. Esta táctica busca forzar al interlocutor a aceptar la presuposición oculta en la pregunta, ya que una respuesta simple validaría dicha presuposición.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_010",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la falacia de Accidente y la de Petición de Principio?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "La falacia de Accidente usa una pregunta, mientras que la Petición de Principio usa una afirmación.",
+        "B": "La de Accidente es una falacia formal, mientras que la de Petición de Principio es informal.",
+        "C": "La de Accidente aplica mal una regla general a un caso, mientras que la de Petición de Principio asume la verdad de lo que intenta probar.",
+        "D": "La de Accidente siempre es deliberada, mientras que la Petición de Principio puede ser un descuido.",
+        "E": "No hay una diferencia fundamental, son dos nombres para la misma falacia."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La distinción clave radica en el error lógico. En la falacia de Accidente, el error está en la aplicación de una regla general a un caso específico que es una excepción. En la Petición de Principio, el error está en la estructura misma del argumento, donde la conclusión ya está contenida o supuesta en las premisas, creando un razonamiento circular.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_011",
+      "pregunta": "Analice el argumento: \"Sócrates fue maestro de Platón y Jenofonte, porque éstos fueron discípulos de aquel\". ¿Por qué es un ejemplo de círculo vicioso?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Porque no se puede demostrar que Sócrates fuera maestro de Platón.",
+        "B": "Porque aplica la regla general de la enseñanza a un caso particular.",
+        "C": "Porque la premisa y la conclusión son enunciados equivalentes que se justifican mutuamente.",
+        "D": "Porque presupone que ser maestro es lo mismo que tener discípulos.",
+        "E": "Porque es una pregunta compleja disfrazada de afirmación."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "Este argumento es un círculo vicioso (Petición de Principio) porque la premisa (\"Platón y Jenofonte fueron discípulos de Sócrates\") y la conclusión (\"Sócrates fue maestro de Platón y Jenofonte\") afirman exactamente lo mismo. Ser maestro de alguien es lógicamente equivalente a que esa persona sea tu discípulo. El argumento no aporta ninguna prueba externa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_012",
+      "pregunta": "En el ejemplo del abogado y el testigo sobre los anuncios engañosos, ¿cuál es la conclusión oculta que el abogado intenta que el testigo admita al hacer la segunda pregunta?",
+      "dificultad": 2,
+      "opciones": {
+        "A": "Que las ventas del testigo se incrementaron.",
+        "B": "Que el testigo ha estado en el negocio por mucho tiempo.",
+        "C": "Que los anuncios del testigo eran, de hecho, engañosos.",
+        "D": "Que el testigo no quiere cooperar con la corte.",
+        "E": "Que el abogado es más inteligente que el testigo."
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La primera pregunta del abogado une el incremento de ventas con anuncios engañosos. Cuando el testigo lo niega, el abogado formula la segunda pregunta (\"Pero usted admite, entonces, que sus anuncios eran engañosos...\") presuponiendo que la negación del testigo se refería solo al incremento de ventas, no a la naturaleza engañosa de los anuncios. La conclusión oculta es precisamente que los anuncios eran engañosos.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_013",
+      "pregunta": "Considere el siguiente argumento: \"Las aves normalmente pueden volar. Los pingüinos son aves. Por lo tanto, los pingüinos pueden volar\". ¿Qué tipo de falacia de presuposición se comete aquí?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Pregunta Compleja.",
+        "B": "Petición de Principio.",
+        "C": "Círculo vicioso.",
+        "D": "Accidente.",
+        "E": "Ninguna, el argumento es válido."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "Este es un ejemplo clásico de la falacia de Accidente. Se aplica una regla general (\"Las aves normalmente pueden volar\") a un caso particular (los pingüinos) que constituye una excepción conocida a esa regla. Se ignora la condición restrictiva de que no todas las aves vuelan, llevando a una conclusión falsa.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_014",
+      "pregunta": "Un político afirma: \"Mi plan económico es el mejor para el país porque es superior a cualquier otra alternativa\". ¿Por qué este razonamiento incurre en una Petición de Principio?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Porque ignora las excepciones donde su plan podría no funcionar.",
+        "B": "Porque la razón dada (\"es superior a cualquier otra alternativa\") es solo una reformulación de la conclusión (\"es el mejor para el país\").",
+        "C": "Porque es una pregunta compleja que obliga a aceptar que su plan es el mejor.",
+        "D": "Porque el político no es una autoridad en economía.",
+        "E": "Porque ataca implícitamente a los proponentes de otros planes."
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "Esta afirmación comete la falacia de Petición de Principio (o círculo vicioso). La justificación para que el plan sea 'el mejor' es que es 'superior a las alternativas', lo cual significa esencialmente lo mismo. No se ofrece ninguna evidencia o razón externa (como datos, proyecciones o análisis de expertos) para sustentar la afirmación inicial; simplemente se repite la idea con otras palabras.",
+      "imagen": null
+    },
+    {
+      "id_temporal": "filosofi_027_015",
+      "pregunta": "¿Cuál es el mecanismo lógico que hace que una Pregunta Compleja sea una trampa argumentativa efectiva, incluso si la persona responde negativamente?",
+      "dificultad": 3,
+      "opciones": {
+        "A": "Divide la pregunta en varias partes, pero solo permite una única respuesta.",
+        "B": "Aplica una regla general a una excepción obvia.",
+        "C": "Usa una premisa que es idéntica a la conclusión.",
+        "D": "Fuerza al interlocutor a aceptar una presuposición implícita para poder dar una respuesta directa.",
+        "E": "Confunde al interlocutor con un lenguaje ambiguo y poco claro."
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La efectividad de la Pregunta Compleja reside en su estructura. Incrusta una afirmación no probada (la presuposición) dentro de una pregunta mayor. Al exigir una respuesta directa (como 'sí' o 'no'), obliga a la persona a validar esa presuposición implícita para poder responder. Eludir la pregunta o cuestionar su premisa es la única forma de no caer en la trampa, pero una respuesta directa siempre confirma la suposición oculta.",
+      "imagen": null
+    }
+  ]
+}

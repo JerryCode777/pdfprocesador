@@ -2,231 +2,231 @@
   "materia": "quimica",
   "numero_tema": 316,
   "total_temas": 322,
-  "titulo_tema": "Nitriles",
+  "titulo_tema": "Nomenclatura de Aminas",
   "preguntas": [
     {
       "id_temporal": "quimica_316_001",
-      "pregunta": "¿Cuál es el nombre sistemático para la molécula con la estructura $$H_3C-CH_2-NH-CH_2-CH_2-CH_3$$?",
+      "pregunta": "Al nombrar una amina, ¿qué localizador se utiliza para indicar que un sustituyente está unido directamente al átomo de nitrógeno?",
       "dificultad": 1,
       "opciones": {
-        "A": "N-etilpropan-1-amina",
-        "B": "N-propil-etanamina",
-        "C": "Hexan-3-amina",
-        "D": "N-metilpentan-2-amina",
-        "E": "Etilpropilamina"
+        "A": "N-",
+        "B": "C-",
+        "C": "1-",
+        "D": "α-",
+        "E": "O-"
       },
       "respuesta_correcta": "A",
-      "explicacion": "La nomenclatura de aminas secundarias nombra la cadena de carbono más larga unida al nitrógeno como la amina principal (propan-1-amina) y el otro grupo alquilo como un sustituyente precedido por la letra N (N-etil). Por lo tanto, el nombre correcto es N-etilpropan-1-amina.",
+      "explicacion": "En la nomenclatura IUPAC de aminas, el localizador 'N-' se utiliza para especificar que un grupo alquilo u otro sustituyente está enlazado directamente al átomo de nitrógeno del grupo amino, distinguiéndolo de los sustituyentes en la cadena de carbono.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_002",
-      "pregunta": "¿Qué sufijo se utiliza para nombrar compuestos que contienen dos grupos amino, conocidos como poliaminas?",
+      "pregunta": "¿Qué sufijo se utiliza para nombrar una molécula que contiene dos grupos funcionales amino?",
       "dificultad": 1,
       "opciones": {
         "A": "-diamina",
-        "B": "-dietil",
-        "C": "-amina doble",
-        "D": "-biamina",
-        "E": "-amino"
+        "B": "-biamina",
+        "C": "-amino-2",
+        "D": "-imina",
+        "E": "-dinitrilo"
       },
       "respuesta_correcta": "A",
-      "explicacion": "Para nombrar poliaminas, se utiliza el nombre del alcano correspondiente a la cadena principal seguido de los localizadores de los grupos amino y un sufijo que indica la cantidad de estos grupos. Para dos grupos amino, el sufijo es \"diamina\".",
+      "explicacion": "Para nombrar poliaminas, se utilizan sufijos que indican el número de grupos amino presentes. Específicamente, el sufijo '-diamina' se añade al nombre del alcano principal para indicar la presencia de dos grupos amino en la molécula.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_003",
-      "pregunta": "Cuando un átomo de nitrógeno en una amina está unido a dos o tres grupos sustituyentes idénticos, ¿qué prefijo se utiliza para indicar esta multiplicidad?",
+      "pregunta": "Si dos grupos alquilo idénticos están enlazados a un mismo átomo de nitrógeno, ¿qué prefijo numérico se utiliza en el nombre?",
       "dificultad": 1,
       "opciones": {
-        "A": "bi-",
-        "B": "di- o tri-",
-        "C": "sec- o tert-",
-        "D": "iso- o neo-",
-        "E": "poli-"
+        "A": "di",
+        "B": "bi",
+        "C": "sec",
+        "D": "iso",
+        "E": "bis"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura de aminas, si el átomo de nitrógeno está unido a dos grupos iguales, se utiliza el prefijo \"di\". Si está unido a tres grupos iguales, se utiliza el prefijo \"tri\".",
+      "respuesta_correcta": "A",
+      "explicacion": "Cuando dos o tres grupos sustituyentes idénticos se encuentran unidos al átomo de nitrógeno, se utilizan los prefijos numéricos 'di' o 'tri', respectivamente, antes del nombre del sustituyente. Por ejemplo, dos grupos metilo se nombrarían como 'N,N-dimetil'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_004",
-      "pregunta": "El compuesto conocido como cadaverina tiene la fórmula $$NH_2-CH_2-CH_2-CH_2-CH_2-CH_2-NH_2$$. ¿Cuál es su nombre sistemático?",
+      "pregunta": "En el nombre de la poliamina Pentano-1,5-diamina, ¿qué indica el sufijo '-diamina'?",
       "dificultad": 1,
       "opciones": {
-        "A": "Hexano-1,6-diamina",
-        "B": "Pentano-1,5-diamina",
-        "C": "Heptano-1,7-diamina",
-        "D": "Butano-1,4-diamina",
-        "E": "Pentanodiamina"
+        "A": "La presencia de dos grupos amino ($$-NH_2$$).",
+        "B": "Que la cadena principal tiene dos átomos de carbono.",
+        "C": "La presencia de dos enlaces dobles en la molécula.",
+        "D": "Que la molécula tiene una carga neta de +2.",
+        "E": "La presencia de un grupo imina y un grupo amino."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "La estructura muestra una cadena de cinco átomos de carbono, por lo que el alcano base es pentano. Hay dos grupos amino ($$-NH_2$$), uno en cada extremo de la cadena (posiciones 1 y 5). Por lo tanto, el nombre sistemático es Pentano-1,5-diamina.",
+      "respuesta_correcta": "A",
+      "explicacion": "El sufijo '-diamina' indica específicamente que hay dos grupos funcionales amino en la molécula. Los números '1,5' indican las posiciones de estos grupos en la cadena de pentano.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_005",
-      "pregunta": "¿Cuál de las siguientes estructuras corresponde a la 2,4-dimetilhexan-3-amina?",
+      "pregunta": "Al nombrar una amina secundaria o terciaria asimétrica, ¿cuál es el criterio para elegir la cadena de carbono principal?",
       "dificultad": 1,
       "opciones": {
-        "A": "$$ (CH_3)_2CH-CH(NH_2)-CH(CH_3)-CH_2-CH_3 $$",
-        "B": "$$ H_3C-CH(NH_2)-CH_2-CH(CH_3)_2 $$",
-        "C": "$$ H_3C-N(CH_3)-CH_2-CH_2-CH_3 $$",
-        "D": "$$ NH_2-CH_2-CH_2-CH_2-CH_2-CH_2-NH_2 $$",
-        "E": "$$ H_3C-CH_2-NH-CH_2-CH_2-CH_3 $$"
+        "A": "La cadena de carbono más larga unida al nitrógeno.",
+        "B": "La cadena de carbono más corta unida al nitrógeno.",
+        "C": "La cadena de carbono con más ramificaciones.",
+        "D": "La cadena de carbono nombrada primero alfabéticamente.",
+        "E": "La cadena de carbono que sea un ciclo."
       },
       "respuesta_correcta": "A",
-      "explicacion": "El nombre 2,4-dimetilhexan-3-amina indica una cadena principal de seis carbonos (hexano), un grupo amino en la posición 3, y dos grupos metilo en las posiciones 2 y 4. La estructura $$ (CH_3)_2CH-CH(NH_2)-CH(CH_3)-CH_2-CH_3 $$ cumple con esta descripción.",
+      "explicacion": "Según las reglas de nomenclatura IUPAC para aminas, la cadena de carbono más larga que está unida al átomo de nitrógeno se considera la cadena principal o parental. Las otras cadenas de carbono unidas al nitrógeno se nombran como sustituyentes con el localizador 'N-'.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_006",
-      "pregunta": "¿Cuál es el nombre correcto para el compuesto $$H_3C-CH(NH-CH_3)-CH_2-CH_3$$?",
+      "pregunta": "¿Cuál es el nombre IUPAC correcto para la molécula con la estructura $$H_3C-CH_2-NH-CH_2-CH_2-CH_3$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "N-metilbutan-2-amina",
-        "B": "N-metilbutan-3-amina",
-        "C": "2-(metilamino)butano",
-        "D": "N-butilmetanamina",
-        "E": "N,2-dimetilpropanamina"
+        "A": "N-etilpropan-1-amina",
+        "B": "N-propiletanamina",
+        "C": "Hexan-3-amina",
+        "D": "Etil propil amina",
+        "E": "N-propil-N-etilamina"
       },
       "respuesta_correcta": "A",
-      "explicacion": "La cadena de carbono más larga unida al nitrógeno tiene cuatro carbonos (butano). El grupo amino está en la segunda posición, por lo que es una butan-2-amina. El otro grupo unido al nitrógeno es un metilo. Este se nombra como un sustituyente en el nitrógeno, usando el localizador 'N'. Por lo tanto, el nombre completo es N-metilbutan-2-amina.",
+      "explicacion": "La cadena de carbono más larga unida al nitrógeno es de tres carbonos (propano), por lo que la amina principal es la propan-1-amina. El otro grupo unido al nitrógeno es un etilo ($$-CH_2-CH_3$$), que se nombra como un sustituyente con el localizador N-. Por lo tanto, el nombre correcto es N-etilpropan-1-amina.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_007",
-      "pregunta": "¿Qué indica el prefijo 'N-' en un nombre como N-metilbutan-2-amina?",
+      "pregunta": "En el nombre N-metilbutan-2-amina, ¿qué indica el número '2'?",
       "dificultad": 2,
       "opciones": {
-        "A": "Que la molécula es un compuesto nitrogenado.",
-        "B": "Que el grupo metil es un sustituyente en el átomo de nitrógeno.",
-        "C": "Que la cadena principal tiene un átomo de nitrógeno en su estructura.",
-        "D": "Que el compuesto es una amina primaria.",
-        "E": "Que el nitrógeno está en la posición 1 de la cadena."
+        "A": "La posición del grupo metilo en la cadena principal.",
+        "B": "La posición del grupo amino en la cadena de butano.",
+        "C": "El número de átomos de carbono en el sustituyente.",
+        "D": "Que es una amina secundaria.",
+        "E": "La posición del átomo de nitrógeno respecto al metilo."
       },
       "respuesta_correcta": "B",
-      "explicacion": "En la nomenclatura de aminas secundarias y terciarias, el localizador 'N-' se utiliza para indicar que un grupo alquilo está unido directamente al átomo de nitrógeno del grupo amino, y no a la cadena principal de carbono.",
+      "explicacion": "En el nombre N-metilbutan-2-amina, la cadena principal es butano. El número '2' indica que el átomo de nitrógeno (el grupo amino) está enlazado al segundo carbono de la cadena de butano. El prefijo 'N-metil' indica que hay un grupo metilo unido directamente al nitrógeno.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_008",
-      "pregunta": "Para nombrar una poliamina con la estructura $$NH_2-CH_2-CH_2-CH_2-CH_2-NH_2$$, ¿cuál sería el nombre sistemático correcto siguiendo las reglas establecidas?",
+      "pregunta": "En un nombre como N-etil-N-metilpropan-1-amina, ¿qué significa que los prefijos 'etil' y 'metil' estén precedidos por 'N-'?",
       "dificultad": 2,
       "opciones": {
-        "A": "Pentano-1,5-diamina",
-        "B": "Butano-1,4-diamina",
-        "C": "Tetrametilenodiamina",
-        "D": "Butanodiamina",
-        "E": "1,4-diaminobutano"
+        "A": "Que los grupos etil y metil son isómeros.",
+        "B": "Que los grupos etil y metil están en el carbono 1.",
+        "C": "Que ambos grupos, etil y metil, están unidos al átomo de nitrógeno.",
+        "D": "Que la amina es primaria.",
+        "E": "Que los grupos etil y metil están en cadenas separadas."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Este compuesto es una poliamina. La cadena principal tiene cuatro átomos de carbono, por lo que el nombre base es 'butano'. Hay dos grupos amino en las posiciones 1 y 4. Siguiendo la regla para nombrar poliaminas (como en Pentano-1,5-diamina), el nombre correcto es Butano-1,4-diamina.",
+      "respuesta_correcta": "C",
+      "explicacion": "El localizador 'N-' se usa para cada sustituyente que está directamente enlazado al átomo de nitrógeno. En N-etil-N-metilpropan-1-amina, esto indica una amina terciaria donde un grupo etilo y un grupo metilo están unidos al nitrógeno, y la cadena principal (propano) también está unida a él.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_009",
-      "pregunta": "Basado en los ejemplos de nomenclatura, ¿cuál es el nombre sistemático para la amina terciaria con la estructura $$H_3C-N(CH_3)-CH_2-CH_2-CH_3$$?",
+      "pregunta": "¿Cuál es el nombre sistemático de la cadaverina, cuya estructura es $$NH_2-CH_2-CH_2-CH_2-CH_2-CH_2-NH_2$$?",
       "dificultad": 2,
       "opciones": {
-        "A": "N,N-dimetilpropan-1-amina",
-        "B": "N-metil-N-propilmetanamina",
-        "C": "N-etil-N-metilpropan-1-amina",
-        "D": "N,N-dimetilpropan-2-amina",
-        "E": "1,1-dimetilpropanamina"
+        "A": "Pentano-1,5-diamina",
+        "B": "1,5-Diaminopentano",
+        "C": "Pentanodiamina",
+        "D": "Hexano-1,6-diamina",
+        "E": "N-aminopentilamina"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "Esta pregunta se basa en el ejemplo específico de nomenclatura proporcionado para una amina terciaria. La estructura $$H_3C-N(CH_3)-CH_2-CH_2-CH_3$$ se corresponde con el nombre N-etil-N-metilpropan-1-amina según los casos presentados.",
+      "respuesta_correcta": "A",
+      "explicacion": "La molécula es una poliamina. La cadena principal tiene cinco átomos de carbono, por lo que es un derivado del pentano. Hay dos grupos amino ($$-NH_2$$), uno en cada extremo de la cadena, en las posiciones 1 y 5. Por lo tanto, el nombre sistemático correcto es Pentano-1,5-diamina.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_010",
-      "pregunta": "En la molécula 2,4-dimetilhexan-3-amina, ¿a qué átomo de carbono de la cadena principal está unido el grupo amino ($$-NH_2$$)?",
+      "pregunta": "En la molécula con estructura $$H_3C-CH(NH-CH_3)-CH_2-CH_3$$, ¿cuál es la cadena de carbono principal?",
       "dificultad": 2,
       "opciones": {
-        "A": "Al carbono 1",
-        "B": "Al carbono 2",
-        "C": "Al carbono 3",
-        "D": "Al carbono 4",
-        "E": "Al nitrógeno"
+        "A": "Propano",
+        "B": "Butano",
+        "C": "Etano",
+        "D": "Metano",
+        "E": "Pentano"
       },
-      "respuesta_correcta": "C",
-      "explicacion": "En el nombre sistemático 2,4-dimetilhexan-3-amina, el número que precede a 'amina' (en este caso, '3') indica la posición del grupo amino en la cadena principal de carbono. Por lo tanto, el grupo amino está unido al tercer carbono de la cadena de hexano.",
+      "respuesta_correcta": "B",
+      "explicacion": "Para nombrar esta amina secundaria, se identifica la cadena de carbono más larga unida al nitrógeno. En este caso, es la cadena de cuatro carbonos ($$H_3C-CH-CH_2-CH_3$$). Por lo tanto, la cadena principal es butano. El grupo metilo restante se considera un sustituyente en el nitrógeno (N-metil).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_011",
-      "pregunta": "Si una amina se nombra usando el sufijo \"triamina\", ¿qué característica estructural implica este sufijo?",
+      "pregunta": "Analizando el nombre 2,4-dimetilhexan-3-amina, los localizadores numéricos '2' y '4' se refieren a las posiciones de:",
       "dificultad": 2,
       "opciones": {
-        "A": "Que hay tres grupos alquilo idénticos unidos al nitrógeno.",
-        "B": "Que la molécula contiene tres átomos de nitrógeno en total.",
-        "C": "Que el nitrógeno está unido a tres cadenas de carbono.",
-        "D": "Que es una amina terciaria.",
-        "E": "Que la molécula contiene tres grupos funcionales amino."
+        "A": "Los dos grupos amino.",
+        "B": "Dos grupos etilo en la cadena.",
+        "C": "Dos grupos metilo en la cadena de hexano.",
+        "D": "El grupo amino y un grupo metilo.",
+        "E": "El inicio y el final de la cadena principal."
       },
-      "respuesta_correcta": "E",
-      "explicacion": "El sistema de nomenclatura para poliaminas utiliza los sufijos 'diamina', 'triamina', etc., para indicar el número de grupos amino presentes en la molécula. Así, 'triamina' significa que la molécula posee tres grupos funcionales amino.",
+      "respuesta_correcta": "C",
+      "explicacion": "En el nombre 2,4-dimetilhexan-3-amina: 'hexan' es la cadena principal de 6 carbonos, '-3-amina' indica que el grupo amino está en el carbono 3, y '2,4-dimetil' especifica que hay dos grupos metilo, uno en el carbono 2 y otro en el carbono 4 de la cadena de hexano.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_012",
-      "pregunta": "¿Qué tipo de amina es la N-metilbutan-2-amina?",
+      "pregunta": "La molécula $$H_3C-CH_2-NH-CH_2-CH_2-CH_3$$ se nombra como N-etilpropan-1-amina y no como N-propiletanamina porque la nomenclatura IUPAC:",
       "dificultad": 2,
       "opciones": {
-        "A": "Primaria",
-        "B": "Secundaria",
-        "C": "Terciaria",
-        "D": "Cuaternaria",
-        "E": "Poliamina"
+        "A": "Prioriza el grupo alquilo más pequeño como sustituyente.",
+        "B": "Nombra los sustituyentes en orden alfabético estricto.",
+        "C": "Establece que la cadena de carbono más larga unida al nitrógeno es la principal.",
+        "D": "Siempre nombra de la cadena más corta a la más larga.",
+        "E": "Requiere que el nombre base sea el menos ramificado."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Una amina secundaria es aquella en la que el átomo de nitrógeno está unido a dos grupos alquilo (o arilo). El nombre N-metilbutan-2-amina indica que el nitrógeno está unido a una cadena de butilo y a un grupo metilo, es decir, a dos grupos de carbono, lo que la clasifica como una amina secundaria.",
+      "respuesta_correcta": "C",
+      "explicacion": "La regla fundamental para nombrar aminas secundarias y terciarias asimétricas es identificar la cadena de carbono más larga unida al nitrógeno. Esta se convierte en la amina principal. En este caso, la cadena de propano (3 carbonos) es más larga que la de etano (2 carbonos), por lo que el nombre base es propanamina y el grupo etilo es un sustituyente en el nitrógeno (N-etil).",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_013",
-      "pregunta": "¿Cuál de las siguientes estructuras corresponde al nombre N-etil-N-metilpropan-1-amina según la nomenclatura presentada en los ejemplos?",
+      "pregunta": "¿Cuál es el nombre IUPAC para la amina primaria con la estructura $$(CH_3)_2CH-CH(NH_2)-CH(CH_3)-CH_2-CH_3$$?",
       "dificultad": 3,
       "opciones": {
-        "A": "$$ H_3C-CH_2-N(CH_3)-CH_2-CH_2-CH_3 $$",
-        "B": "$$ H_3C-N(CH_3)-CH_2-CH_2-CH_3 $$",
-        "C": "$$ H_3C-CH_2-NH-CH(CH_3)_2 $$",
-        "D": "$$ (H_3C-CH_2)_2N-CH_3 $$",
-        "E": "$$ H_3C-CH_2-CH_2-N(CH_3)-CH_2-CH_3 $$"
+        "A": "3-amino-2,4-dimetilhexano",
+        "B": "2,4-dimetilhexan-3-amina",
+        "C": "3,5-dimetilhexan-4-amina",
+        "D": "4-amino-3,5-dimetilhexano",
+        "E": "Iso-propil-sec-butil-amina"
       },
       "respuesta_correcta": "B",
-      "explicacion": "De acuerdo con los ejemplos de nomenclatura proporcionados, la estructura que se asocia con el nombre N-etil-N-metilpropan-1-amina es $$H_3C-N(CH_3)-CH_2-CH_2-CH_3$$. Esta pregunta requiere el reconocimiento directo de la correspondencia entre el nombre y la estructura dados.",
+      "explicacion": "Primero, se identifica la cadena de carbono más larga que contiene el grupo amino; es una cadena de 6 carbonos (hexano). Luego, se numera la cadena para dar al grupo funcional (amina) el localizador más bajo posible. Numerando de izquierda a derecha, el grupo amino estaría en la posición 4. Numerando de derecha a izquierda, estaría en la posición 3. Por lo tanto, se numera de derecha a izquierda. Los sustituyentes metilo quedan en las posiciones 2 y 4. El nombre correcto es 2,4-dimetilhexan-3-amina.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_014",
-      "pregunta": "Basándose en los principios de nomenclatura para aminas ramificadas, ¿cuál sería el nombre sistemático para la estructura $$ (CH_3)_2CH-CH(NH_2)-CH_2-CH_3 $$?",
+      "pregunta": "Un compuesto se nombra como N,N-dietilbutan-2-amina. ¿Qué descripción de su estructura es correcta?",
       "dificultad": 3,
       "opciones": {
-        "A": "2-amino-4-metilpentano",
-        "B": "4-metilpentan-2-amina",
-        "C": "2-metilpentan-4-amina",
-        "D": "Isopropil-1-metilpropanamina",
-        "E": "4,N-dimetilbutan-2-amina"
+        "A": "Es una amina secundaria con dos grupos etilo y una cadena de butano.",
+        "B": "Es una amina primaria donde el grupo amino está en el carbono 2 de una cadena de dietilbutano.",
+        "C": "Es una amina terciaria con dos grupos etilo y un grupo butan-2-ilo unidos al nitrógeno.",
+        "D": "Es una amina terciaria con un grupo etilo y un grupo butilo unidos al nitrógeno.",
+        "E": "La cadena principal es etano, con un sustituyente N,N-dibutilo."
       },
-      "respuesta_correcta": "B",
-      "explicacion": "Para nombrar esta amina, primero se identifica la cadena de carbono más larga que contiene el grupo amino. En este caso, es una cadena de 5 carbonos (pentano). Luego, se numera la cadena para dar al grupo amino el localizador más bajo posible, que es 2 (numerando de derecha a izquierda). Hay un grupo metilo en la posición 4. Combinando todo, el nombre es 4-metilpentan-2-amina, siguiendo una lógica similar a la de 2,4-dimetilhexan-3-amina.",
+      "respuesta_correcta": "C",
+      "explicacion": "El nombre se desglosa así: 'butan-2-amina' indica una cadena de 4 carbonos con el grupo amino en la posición 2. 'N,N-dietil' indica que hay dos grupos etilo ($$-CH_2-CH_3$$) unidos directamente al átomo de nitrógeno. Como el nitrógeno está unido a tres grupos de carbono (el butan-2-ilo y dos grupos etilo), es una amina terciaria.",
       "imagen": null
     },
     {
       "id_temporal": "quimica_316_015",
-      "pregunta": "Al comparar los nombres N-etilpropan-1-amina y 2,4-dimetilhexan-3-amina, ¿cuál es la diferencia fundamental en la clasificación de estas dos aminas?",
+      "pregunta": "Aplicando las reglas de nomenclatura para poliaminas, ¿cuál sería el nombre sistemático para la estructura $$NH_2-CH_2-CH(NH_2)-CH_2-CH_3$$?",
       "dificultad": 3,
       "opciones": {
-        "A": "Una es alifática y la otra es aromática.",
-        "B": "La primera es una amina secundaria y la segunda es una amina primaria.",
-        "C": "La primera tiene una cadena impar de carbonos y la segunda una cadena par.",
-        "D": "Una es una poliamina y la otra es una monoamina.",
-        "E": "La primera es una amina terciaria y la segunda es una amina secundaria."
+        "A": "Butano-1,2-diamina",
+        "B": "Butano-3,4-diamina",
+        "C": "1,2-diaminobutano",
+        "D": "N,N'-propildiamina",
+        "E": "2-aminobutan-1-amina"
       },
-      "respuesta_correcta": "B",
-      "explicacion": "El nombre N-etilpropan-1-amina indica la presencia de un sustituyente (etil) en el nitrógeno (localizador 'N'), lo que significa que el nitrógeno está unido a dos grupos de carbono (la cadena de propano y el grupo etilo), clasificándola como una amina secundaria. Por otro lado, 2,4-dimetilhexan-3-amina no tiene sustituyentes 'N-', lo que implica que el grupo amino es un grupo $$-NH_2$$ unido a un solo átomo de carbono, clasificándola como una amina primaria. La diferencia principal es su tipo: secundaria frente a primaria.",
+      "respuesta_correcta": "A",
+      "explicacion": "La cadena de carbono principal tiene 4 átomos, por lo que el nombre base es butano. Hay dos grupos amino, por lo que el sufijo es '-diamina'. Se debe numerar la cadena para dar los localizadores más bajos a los grupos amino. Numerando desde la izquierda, los grupos amino están en las posiciones 1 y 2. Numerando desde la derecha, estarían en 3 y 4. Se elige la numeración más baja (1,2). Por lo tanto, el nombre correcto es Butano-1,2-diamina.",
       "imagen": null
     }
   ]
